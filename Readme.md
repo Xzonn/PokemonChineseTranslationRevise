@@ -14,9 +14,14 @@
 
 预览图：
 
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_1.png)
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_1.png)
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_2.png)
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_2.png)
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_3.png)
-![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_3.png)
+| 原版 | 修正版 |
+| :--: | :----: |
+| ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_1.png) | ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_1.png) |
+| ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_2.png) | ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_2.png) |
+| ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_0_3.png) | ![预览图](https://raw.githubusercontent.com/Xzonn/PokemonChineseTranslationRevise/master/images/Pt_1_3.png) |
+
+## 更新记录
+- 0.9.0（2018/10/12）：
+  - 发布最初版本。
+- 0.9.1（2019/04/27）：
+  - 修正“快乐”替换为“幸运蛋”的问题。
