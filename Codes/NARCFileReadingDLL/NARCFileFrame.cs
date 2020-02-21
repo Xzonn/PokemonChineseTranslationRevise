@@ -34,8 +34,6 @@ namespace NARCFileReadingDLL
             int num = brrReader.ReadInt32() - 4 - 4;
             if (num < 0)
                 throw new FormatException();
-            NARCFileFrame n = (NARCFileFrame)Activator.CreateInstance(Type.GetType("NARCFileReadingDLL." + str + "Frame"), brrReader, num, fatfFATB);
-            return n;
             return (NARCFileFrame)Activator.CreateInstance(Type.GetType("NARCFileReadingDLL." + str + "Frame"), brrReader, num, fatfFATB);
         }
 
