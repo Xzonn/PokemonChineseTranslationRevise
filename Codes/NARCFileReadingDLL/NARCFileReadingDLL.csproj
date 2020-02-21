@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\CHEMI6DER\Downloads\pokefonts\NARCFileReadingDLL.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EAA3D2B-FB4F-4DA2-8548-199571BE1193}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>NARCFileReadingDLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <ApplicationVersion>2.2.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>NARCFileReadingDLL</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="INintendoItem.cs" />
+    <Compile Include="NARCFile.cs" />
+    <Compile Include="INintendoDataItem.cs" />
+    <Compile Include="NARCFileFrame.cs" />
+    <Compile Include="FIMGFrame.cs" />
+    <Compile Include="SimpleFileImageEntry.cs" />
+    <Compile Include="FNTBFrame.cs" />
+    <Compile Include="NitroFileFrameBase.cs" />
+    <Compile Include="SimpleNitroFileFrame.cs" />
+    <Compile Include="FINFFrame.cs" />
+    <Compile Include="CMAPFrame.cs" />
+    <Compile Include="NitroFileBase.cs" />
+    <Compile Include="SimpleNitroFile.cs" />
+    <Compile Include="FATBFrame.cs" />
+    <Compile Include="CGLPFrame.cs" />
+    <Compile Include="IFontTableItem.cs" />
+    <Compile Include="IContainsSpaceWidth.cs" />
+    <Compile Include="IStringTableSection.cs" />
+    <Compile Include="StringTableSection.cs" />
+    <Compile Include="IStringTable.cs" />
+    <Compile Include="IStringTableSectionEntry.cs" />
+    <Compile Include="StringTableSectionEntry.cs" />
+    <Compile Include="StringTable.cs" />
+    <Compile Include="VALUE.cs" />
+    <Compile Include="FontTableItem.cs" />
+    <Compile Include="IFontTable.cs" />
+    <Compile Include="SimpleFontTable.cs" />
+    <Compile Include="ByteArrayStream.cs" />
+    <Compile Include="NFTRNitroFile.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
