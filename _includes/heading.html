@@ -1,0 +1,15 @@
+        <!-- Common Heading Start -->
+        <div class="xz-heading jumbotron">
+            <div class="container">
+                <a class="xz-qrcode hidden-xs"><canvas width="240" height="240"></canvas></a>
+                <div class="xz-heading-text">{% if page.title %}
+                    <h1>{{ page.title }}</h1>{% endif %}{% if page.info %}
+                    <p class="xz-meta-info">{{ page.info }}</p>{% endif %}{% if page.date or page.update %}
+                    <ul class="xz-meta-time">{% if page.date %}
+                        <li class="xz-meta-create">{{ page.date | date: "%Y-%m-%d %H:%M" }}</li>{% endif %}{% if page.last_modified_at %}
+                        <li class="xz-meta-update">{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</li>{% endif %}
+                    </ul>{% endif %}
+                </div>
+            </div>
+        </div>
+        <!-- Common Heading End -->

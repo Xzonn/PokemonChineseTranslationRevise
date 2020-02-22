@@ -1,0 +1,22 @@
+        <!-- Common Content Start -->
+        <div class="xz-content container">
+            <div class="row">
+                <div class="xz-sidenav col-md-3 hidden-print hidden-xs hidden-sm" role="complementary">
+                    <ul class="xz-sidenav-list nav nav-stacked" role="navigation"></ul>
+                </div>
+                <div class="xz-content-main col-md-9">
+                    <div class="xz-infobox-top hidden-print"></div>
+                    <article>
+{{ content }}
+                    </article>{% unless jekyll.environment == "development" or page.noComment %}
+                    <div class="xz-infobox-bottom hidden-print">{% if page.ref %}
+                        <div class="xz-info-ref alert alert-info">参考资料：{% if page.refLink %}<a href="{{ page.refLink }}" class="alert-link">{{ page.ref }}</a>{% else %}{{ page.ref }}{% endif %}</div>{% endif %}
+                    </div>
+                    <div class="xz-content-comment">
+                        <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
+                        <script src="https://cdn-city.livere.com/js/embed.dist.js"></script>
+                    </div>{% endunless %}
+                </div>
+            </div>
+        </div>
+        <!-- Common Content End -->
