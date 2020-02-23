@@ -1,5 +1,6 @@
 ---
 date: 2020-02-22 23:54
+last_modified_at: 2020-02-23 15:18
 layout: default
 title: 汉化工具说明
 ---
@@ -26,9 +27,51 @@ narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https
 - 《白金》：`/msgdata/pl_msg.narc`
 - 《心金／魂银》：`/a/0/2/7`
 
+文本处理工具为`PokemonCTRText.exe`。代码参考了“[DS Text Editor](https://github.com/JackHack96/DS-Text-Editor)”，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。
+
+使用方法：
+
+### 从narc文件导出txt文本
+示例：
+
+```
+PokemonCTRText.exe -c CharTable/Original_DP.txt -m DP/Original/msgdata/msg.narc -e DP/Original/Messages.txt
+```
+
+此操作以`CharTable/Original_DP.txt`为码表，`DP/Original/msgdata/msg.narc`为文本所在的narc文件，`DP/Original/Messages.txt`为导出后保存为的txt文件。
+
+### 将txt文本导入并创建新的narc文件
+示例：
+
+```
+PokemonCTRText.exe -c CharTable/Expanded.txt -m DP/Original/msgdata/msg.narc -i DP/Revised/Messages.txt -o DP/Revised/msgdata/msg.narc
+```
+
+此操作以`CharTable/Expanded.txt`为码表，`DP/Original/msgdata/msg.narc`为文本所在的narc文件，`DP/Revised/Messages.txt`为需要导入的txt文件，`DP/Revised/msgdata/msg.narc`为导入文本后保存为的narc文件。
+
+如果文本中存在码表未收录的字符，则在导入时程序会有输出的提示。
+
 ## 字库
 在《钻石／珍珠／白金／心金／魂银》中字库均以narc格式保存，路径有所不同：
 
 - 《钻石／珍珠》：`/graphic/font.narc`
 - 《白金》：`/graphic/pl_font.narc`
 - 《心金／魂银》：`/a/0/1/6`
+
+文本处理工具为`PokemonCTRFont.exe`。代码参考了“NARCFileReadingDLL”，由 **@evco1** 制作，原始发布地址已不可考，但我从“[TheFearsomeDzeraora/PokeFontDS](https://github.com/TheFearsomeDzeraora/PokeFontDS)”项目的源代码中发现了该程序的反编译源代码。
+
+由于可选的中文点阵字体较少，在比较了多种字体后我选择了Windows自带的中易宋体作为字体。如需更换为其他字体，请自行修改源代码并编译。
+
+使用方法：
+
+### 从narc文件根据码表创建新的narc文件
+示例：
+
+```
+PokemonCTRFont.exe -c CharTable/Expanded.txt -f DP/Original/graphic/font.narc -o DP/Revised/graphic/font.narc
+```
+
+此操作以`CharTable/Expanded.txt`为码表，`DP/Original/graphic/font.narc`为字库所在的narc文件，`DP/Revised/graphic/font.narc`为新字库保存为的narc文件。
+
+### 从narc文件导出字库为png文件（实验性）
+本功能为实验性功能，为本人在调试过程中使用，故无法直接调用，如需调用请自行修改源代码并编译。

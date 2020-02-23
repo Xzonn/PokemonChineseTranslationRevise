@@ -9,11 +9,12 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="/" class="xz-navimage navbar-brand"><img src="/images/icon_32x32.png" alt="Xzonn 的学习资料库"/></a>
-                    <a href="./" class="navbar-brand">《精灵宝可梦》第四世代汉化修正</a>
+                    <a href="./" class="navbar-brand">首页</a>
                 </div>
                 <nav class="xz-navbar collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="./Tools.html">汉化工具说明</a></li>
+                        <li{% if page.url == "/Tools.html" %} class="active"{% endif %}><a href="./Tools.html">汉化工具说明</a></li>
+                        <li{% if page.url == "/Pt.html" %} class="active"{% endif %}><a href="./Pt.html">《白金》汉化补丁</a></li>
                     </ul>
                 </nav>
             </div>

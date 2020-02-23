@@ -1,5 +1,7 @@
 ---
 date: 2020-02-22 23:12
+info: 利用C#编写的命令行工具，可以对《精灵宝可梦 钻石／珍珠／白金／心金／魂银》的文本和字库进行修改。
+last_modified_at: 2020-02-23 21:58
 layout: default
 title: 《精灵宝可梦》第四世代汉化修正
 ---
@@ -17,14 +19,23 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 文本处理工具为`PokemonCTRText.exe`，目前实现的功能包括：从narc文件导出txt文本、将txt文本导入并创建新的narc文件。
 
-字库处理工具为`PokemonCTRFont.exe`，目前实现的功能仅有：从narc文件根据字库创建新的narc文件。
+字库处理工具为`PokemonCTRFont.exe`，目前实现的功能仅有：从narc文件根据码表创建新的narc文件。
 
 详细说明请见：**[汉化工具说明](./Tools.html)**。
 
 ## 补丁发布
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- 《精灵宝可梦 白金》：[GitHub：0.9.3版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/0.9.3) &#124; [百度网盘：0.9.3版本](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（提取密码：`pkmn`）
+<div class="row">
+<div class="col-md-4 col-md-offset-4" markdown="1">
+<a href="./Pt.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/efdd474ffac175997868fa704bdc063e1f4ad7cdd56b9c40.jpg" alt="《精灵宝可梦 白金》" data-size="588" data-disp="block" /></a>
+
+<p class="text-center">《精灵宝可梦 白金》</p>
+
+- GitHub：[0.9.3](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/0.9.3)。
+- 百度网盘：[0.9.3](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+</div>
+</div>
 
 修改内容如下：
 
