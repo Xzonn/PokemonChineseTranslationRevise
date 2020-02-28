@@ -1,4 +1,6 @@
 author: Xzonn
+exclude:
+  - Files/
 name: 《精灵宝可梦》第四世代汉化修正
 plugins:
   - jekyll-sitemap
