@@ -32,14 +32,14 @@ title: 《精灵宝可梦》第四世代汉化修正
 <p class="text-center">《精灵宝可梦 白金》</p>
 </div>
 <div class="col-md-4 col-md-offset-2">
-<a href="./Pt.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/3e6f40d11d826cc1f4babd1c5b2147b08f8baaac761f7e65.jpg" alt="《精灵宝可梦 心金／魂银》" data-size="588" data-disp="block" /></a>
+<a href="./HGSS.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/3e6f40d11d826cc1f4babd1c5b2147b08f8baaac761f7e65.jpg" alt="《精灵宝可梦 心金／魂银》" data-size="588" data-disp="block" /></a>
 
 <p class="text-center">《精灵宝可梦 心金／魂银》</p>
 </div>
 </div>
 <div class="row">
 <div class="col-md-4 col-md-offset-4">
-<a href="./Pt.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/28/a7b4b821e754b775055372bb0380bc0d801bf278aa99f058.png" alt="可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本" data-size="588" data-disp="block" /></a>
+<a href="./PKHeX.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/28/a7b4b821e754b775055372bb0380bc0d801bf278aa99f058.png" alt="可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本" data-size="588" data-disp="block" /></a>
 <p class="text-center">PKHeX</p>
 </div>
 </div>
