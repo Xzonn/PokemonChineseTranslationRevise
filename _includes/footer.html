@@ -1,10 +1,9 @@
         <!-- Common Footer Start -->
         <footer class="xz-footer">
-            <div class="container">{% if page.is_patch %}
-                <p>本补丁采用“<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh">署名-非商业性使用-相同方式共享 3.0</a>”进行许可。</p>{% else %}
-                <p>本工具采用“<a href="https://github.com/Xzonn/PokemonChineseTranslationRevise/blob/master/LICENSE">GNU General Public License v3.0</a>”进行许可。</p>{% endif %}
-                <p>本站为爱好者设立，与任天堂无关。</p>
-                <ul class="xz-footer-links">
+            <div class="container">
+                <p>本站为爱好者设立，与任天堂无关。{% if page.is_patch %}本补丁采用“<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh">署名-非商业性使用-相同方式共享 3.0</a>”进行许可。{% else %}本工具采用“<a href="https://github.com/Xzonn/PokemonChineseTranslationRevise/blob/master/LICENSE">GNU General Public License v3.0</a>”进行许可。{% endif %}</p>
+                <ul class="xz-footer-links">{% if jekyll.environment == "aliyun" %}
+                    <li><a href="http://www.beian.miit.gov.cn/">京ICP备20005737号</a></li>{% endif %}
                     <li>&copy; 2017 - {{ "now" | date: "%Y" }} 来自{{ site.name }}</li>
                     <li>由<a href="https://pages.github.com/">GitHub Pages</a>生成</li>
                     <li><a href="/posts/About.html">关于本站</a></li>
