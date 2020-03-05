@@ -13,7 +13,7 @@ title: 《精灵宝可梦》第四世代汉化修正
 《白金》的汉化修正版发布后得到了一些反馈，有朋友希望能够统一第四世代的码表。因此我重写了使用工具的代码，并将代码和编译后的程序发布出来，供有兴趣的朋友研究。
 
 ## 工具发布
-发布链接：[GitHub：1.1.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.1.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具和字库处理工具，均为命令行程序，无图形化界面。命令行参数可通过`--help`指令查看。
 
@@ -46,8 +46,8 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 总链接：
 
-- GitHub：[1.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.0.0)。
-- 百度网盘：[1.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.1.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.1.0)。
+- 百度网盘：[1.1.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 预览
 <table class="table">
