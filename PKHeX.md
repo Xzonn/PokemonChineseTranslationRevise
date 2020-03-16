@@ -1,10 +1,12 @@
 ---
 date: 2020-02-28 21:31
 info: 基于原版PKHeX和本汉化修正补丁的码表编译的PKHeX版本。
-last_modified_at: 2020-02-28 22:56
+last_modified_at: 2020-03-16 12:56
 layout: default
 title: 可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本
 ---
+<div class="bilibiliBox" data-aid="96227144" data-cid="164267978" data-page="2"></div>
+
 ![可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本\|right](https://file.moetu.org/images/2020/02/28/a7b4b821e754b775055372bb0380bc0d801bf278aa99f058.png)
 
 ## 发布链接

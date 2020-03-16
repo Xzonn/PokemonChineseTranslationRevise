@@ -2,10 +2,12 @@
 date: 2020-02-23 15:43
 info: 使用官方中文译名的《精灵宝可梦 白金》，基于ACG汉化组汉化版修正译名。
 is_patch: true
-last_modified_at: 2020-02-28 22:59
+last_modified_at: 2020-03-16 12:59
 layout: default
 title: 《精灵宝可梦 白金》汉化修正补丁
 ---
+<div class="bilibiliBox" data-aid="96227144" data-cid="164268057" data-page="1"></div>
+
 <table class="xz-table-infobox table no-table">
 <thead>
 <tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 白金</th></tr>
