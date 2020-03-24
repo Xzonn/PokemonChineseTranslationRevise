@@ -2,7 +2,7 @@
 date: 2020-02-23 15:43
 info: 使用官方中文译名的《精灵宝可梦 白金》，基于ACG汉化组汉化版修正译名。
 is_patch: true
-last_modified_at: 2020-03-16 12:59
+last_modified_at: 2020-03-24 15:33
 layout: default
 title: 《精灵宝可梦 白金》汉化修正补丁
 ---
@@ -34,8 +34,8 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.1.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.1.0)。
-- 百度网盘：[1.1.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.2.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.2.0)。
+- 百度网盘：[1.2.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 <div class="alert alert-info" role="alert">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -50,6 +50,7 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 </div>
 
 ## 修改内容
+- 标题图标改为“精灵宝可梦 白金”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
 - 对标题图标进行更改。
@@ -71,6 +72,8 @@ title: 《精灵宝可梦 白金》汉化修正补丁
   - 最初发布版本。
 - 1.1.0（2020/03/05）：
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
+- 1.2.0（2020/03/24）：
+  - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 
 ## 预览
 <table class="table">
@@ -78,7 +81,7 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 <tr><th>原版</th><th>修正版</th></tr>
 </thead>
 <tbody>
-<tr><td><img src="https://file.moetu.org/images/2020/02/20/e23ee94c4705bb8188cde6ee2ba684f2370e44e045b982e4.png" alt="《口袋妖怪 白金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/28/b6d8862d52a0c3b6fdbdd49ea7256fe393a317a618995daa.png" alt="《精灵宝可梦 白金》标题" data-disp="auto" /></td></tr>
+<tr><td><img src="https://file.moetu.org/images/2020/02/20/e23ee94c4705bb8188cde6ee2ba684f2370e44e045b982e4.png" alt="《口袋妖怪 白金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/808b046468c20f4b60a7361413efb8a91fe2d519e6c39d9b.png" alt="《精灵宝可梦 白金》标题" data-disp="auto" /></td></tr>
 <tr><td><img src="https://file.moetu.org/images/2020/02/20/711af3dd3ffa60ce599ba9464a9aca6b3b39aa5fe3bc0d41.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/20/963793c79538e2cd529d57d3604f9a5487894f6bde7ed3d3.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
 <tr><td><img src="https://file.moetu.org/images/2020/02/20/d15725931787f5b1a11f0b075fd397f7a9ef59c9e0cb3fab.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/20/ea402e21fcae399bdf8a1bd137cfed093cf0fef6a8e71bb8.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
 </tbody>
@@ -97,6 +100,8 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 </div>
 
 ## 致谢
+感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
+
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。
 
 感谢原汉化组：ACG汉化组，正是他们的不懈努力，让玩家能在没有官方中文的条件下仍能够没有语言障碍地游玩宝可梦游戏。

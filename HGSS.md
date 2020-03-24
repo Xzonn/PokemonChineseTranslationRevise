@@ -2,7 +2,7 @@
 date: 2020-02-28 21:31
 info: 使用官方中文译名的《精灵宝可梦 心金／魂银》，基于ACG汉化组汉化版修正译名。
 is_patch: true
-last_modified_at: 2020-02-28 22:59
+last_modified_at: 2020-03-24 15:35
 layout: default
 title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 ---
@@ -40,8 +40,8 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.0.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.1.0)。
-- 百度网盘：[1.0.1](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.2.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.2.0)。
+- 百度网盘：[1.2.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 <div class="alert alert-info" role="alert">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -56,6 +56,7 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 </div>
 
 ## 修改内容
+- 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
 - 对标题图标进行更改。
@@ -78,6 +79,8 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
   - 最初发布版本。
 - 1.1.0（2020/03/05）：
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
+- 1.2.0（2020/03/24）：
+  - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 
 ## 预览
 <table class="table">
@@ -85,8 +88,8 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 <tr><th>原版</th><th>修正版</th></tr>
 </thead>
 <tbody>
-<tr><td><img src="https://file.moetu.org/images/2020/02/28/a8c17f7f507f7119d1f7caa8ab6458f5e446bc7ca62d2346.png" alt="《口袋妖怪 心金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/28/aaa8152d4382d25bb818fadeae46923e10e2f67bf9d7f0a7.png" alt="《精灵宝可梦 心金》标题" data-disp="auto" /></td></tr>
-<tr><td><img src="https://file.moetu.org/images/2020/02/28/94baba0691c671fb07233b6d7c4051a3d593e577132de3fe.png" alt="《口袋妖怪 魂银》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/28/f4c312b3f366d942ffabb9984df13c2b08a3d6d7dea36c8e.png" alt="《精灵宝可梦 魂银》标题" data-disp="auto" /></td></tr>
+<tr><td><img src="https://file.moetu.org/images/2020/02/28/a8c17f7f507f7119d1f7caa8ab6458f5e446bc7ca62d2346.png" alt="《口袋妖怪 心灵之金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/5545beab7e329331555cfbfe24255b8e95fb55402337176d.png" alt="《精灵宝可梦 心灵之金》标题" data-disp="auto" /></td></tr>
+<tr><td><img src="https://file.moetu.org/images/2020/02/28/94baba0691c671fb07233b6d7c4051a3d593e577132de3fe.png" alt="《口袋妖怪 灵魂之银》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/3f954e319208266b71d62f2ea3cffa45be65c61b3e64c94f.png" alt="《精灵宝可梦 灵魂之银》标题" data-disp="auto" /></td></tr>
 <tr><td><img src="https://file.moetu.org/images/2020/02/28/599f3642fcbdd2f68ccc11902cec6c4fe453b047a6a57672.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/28/f5bb8f665bcf1d57bdbe8bc191ac7b60b736a71ea87ff0ae.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
 </tbody>
 </table>
@@ -104,6 +107,8 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 </div>
 
 ## 致谢
+感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
+
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。
 
 感谢原汉化组：ACG汉化组，正是他们的不懈努力，让玩家能在没有官方中文的条件下仍能够没有语言障碍地游玩宝可梦游戏。
