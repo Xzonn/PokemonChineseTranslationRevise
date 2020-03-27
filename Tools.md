@@ -1,6 +1,6 @@
 ---
 date: 2020-02-22 23:54
-last_modified_at: 2020-03-26 18:35
+last_modified_at: 2020-03-27 15:15
 layout: default
 title: 汉化工具说明
 ---
@@ -15,6 +15,8 @@ title: 汉化工具说明
 - 1.2.0（2020/03/05）：
   - 修正了无法读取《钻石／珍珠》字库的问题。
   - 修改了控制符的处理方式，兼容前一版本已导出的文本。
+- 2.0.0（2020/03/27）：由于本次更新后的工具可能存在一些问题，请详细阅读使用说明。
+  - 增加了对第五世代《黑／白》的支持（文本、字库）。
 
 ## 总体说明
 本人所使用的工具由C#编写，按照功能区分为文本处理工具和字库处理工具，均为命令行程序，无图形化界面。命令行参数可通过`--help`指令查看。
@@ -57,13 +59,16 @@ narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https
 
 ## 文本
 ### 工具说明
-在《钻石／珍珠／白金／心金／魂银》中文本均以narc格式保存，路径有所不同：
+在第四、第五世代中文本均以narc格式保存，路径有所不同：
 
 - 《钻石／珍珠》：`/msgdata/msg.narc`
 - 《白金》：`/msgdata/pl_msg.narc`
 - 《心金／魂银》：`/a/0/2/7`
+- 《黑／白／黑２／白２》：`a/0/0/2`、`a/0/0/3`
 
-文本处理工具为`PokemonCTRText.exe`。代码参考了“[DS Text Editor](https://github.com/JackHack96/DS-Text-Editor)”，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。
+文本处理工具为`PokemonCTRText.exe`。第四世代代码参考了“[DS Text Editor](https://github.com/JackHack96/DS-Text-Editor)”，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。第五世代代码参考了“[pptxt](https://projectpokemon.org/home/forums/topic/10583-pptxt-text-editing-tool/)”，由 **[@SCV](https://projectpokemon.org/home/profile/2-scv/)** 制作并发布于Project Pokemon Forums，开源。原始程序为C++，我编写了C#下的实现。
+
+对于第五世代的文本，由于缺乏研究，在某些情况下导入文本可能会出错，原因不明。为了稳定起见，本工具会以原文本占用的最大长度 - 1作为导入文本的长度，长度不足者以`0xFFFF`补齐，长度超过者直接截断并在控制台输出信息。需要注意的是原文本占用的最大长度并非文本长度，而是文本长度 × 2，例如“フシギダネ”占用的长度为10而非5，同时考虑到末尾必须有`0xFFFF`作为控制符，因此允许导入的最大长度为9。后续版本中可能会根据对文件结构的分析解除限制。
 
 ### 使用方法
 #### 从narc文件导出txt文本
