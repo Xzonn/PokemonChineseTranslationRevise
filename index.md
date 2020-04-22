@@ -1,6 +1,6 @@
 ---
 date: 2020-02-22 23:12
-info: 利用C#编写的命令行工具，可以对《精灵宝可梦 钻石／珍珠／白金／心金／魂银》的文本和字库进行修改。
+info: 利用C#编写的命令行工具，可以对《精灵宝可梦 钻石／珍珠／白金／心灵之金／灵魂之银》的文本和字库进行修改。
 last_modified_at: 2020-03-26 18:07
 layout: default
 title: 《精灵宝可梦》第四世代汉化修正
@@ -16,8 +16,10 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 汉化补丁1.2.0版本之后的标题图标由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
+《钻石／珍珠》的补丁已随1.3.0版本发布，且不会随《白金／心灵之金／灵魂之银》修正补丁更新而更新。
+
 ## 工具发布
-发布链接：[GitHub：1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：2.0.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/2.0.0) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具和字库处理工具，均为命令行程序，无图形化界面。命令行参数可通过`--help`指令查看。
 
@@ -25,7 +27,7 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 字库处理工具为`PokemonCTRFont.exe`，目前实现的功能仅有：从narc文件根据码表创建新的narc文件。
 
-1.2.0版本之前仅支持第四世代的文件，计划在2.0.0版本加入对第五世代文件的支持。
+1.2.0版本之前仅支持第四世代的文件，在2.0.0版本加入对第五世代文件的支持。
 
 详细说明请见：**[汉化工具说明](./Tools.html)**。
 
@@ -34,17 +36,20 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 <div class="row">
 <div class="col-md-4 col-md-offset-1">
+<a href="./DP.html" style="display: block"><img src="https://file.moetu.org/images/2020/04/22/9938f0f795848274294631bb0d8fa32394714bc5673a1b42.jpg" alt="《精灵宝可梦 心灵之金／灵魂之银》" data-size="588" data-disp="block" /></a>
+<p class="text-center">《口袋妖怪 钻石／珍珠》</p>
+</div>
+<div class="col-md-4 col-md-offset-2">
 <a href="./Pt.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/efdd474ffac175997868fa704bdc063e1f4ad7cdd56b9c40.jpg" alt="《精灵宝可梦 白金》" data-size="588" data-disp="block" /></a>
 <p class="text-center">《精灵宝可梦 白金》</p>
 </div>
-<div class="col-md-4 col-md-offset-2">
-<a href="./HGSS.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/3e6f40d11d826cc1f4babd1c5b2147b08f8baaac761f7e65.jpg" alt="《精灵宝可梦 心金／魂银》" data-size="588" data-disp="block" /></a>
-
-<p class="text-center">《精灵宝可梦 心金／魂银》</p>
-</div>
 </div>
 <div class="row">
-<div class="col-md-4 col-md-offset-4">
+<div class="col-md-4 col-md-offset-1">
+<a href="./HGSS.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/23/3e6f40d11d826cc1f4babd1c5b2147b08f8baaac761f7e65.jpg" alt="《精灵宝可梦 心灵之金／灵魂之银》" data-size="588" data-disp="block" /></a>
+<p class="text-center">《精灵宝可梦 心灵之金／灵魂之银》</p>
+</div>
+<div class="col-md-4 col-md-offset-2">
 <a href="./PKHeX.html" style="display: block"><img src="https://file.moetu.org/images/2020/02/28/a7b4b821e754b775055372bb0380bc0d801bf278aa99f058.png" alt="可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本" data-size="588" data-disp="block" /></a>
 <p class="text-center">PKHeX</p>
 </div>
@@ -52,10 +57,10 @@ title: 《精灵宝可梦》第四世代汉化修正
 
 总链接：
 
-- GitHub：[1.2.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.2.0)。
-- 百度网盘：[1.2.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.3.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.3.0)。
+- 百度网盘：[1.3.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
-本系列修正补丁仅适用于ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
+本系列修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
 
 ## 预览
 <table class="table">

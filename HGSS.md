@@ -1,14 +1,14 @@
 ---
 date: 2020-02-28 21:31
-info: 使用官方中文译名的《精灵宝可梦 心金／魂银》，基于ACG汉化组汉化版修正译名。
+info: 使用官方中文译名的《精灵宝可梦 心灵之金／灵魂之银》，基于ACG汉化组汉化版修正译名。
 is_patch: true
 last_modified_at: 2020-03-24 15:35
 layout: default
-title: 《精灵宝可梦 心金／魂银》汉化修正补丁
+title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
 ---
 <table class="xz-table-infobox table no-table">
 <thead>
-<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 心金</th></tr>
+<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 心灵之金</th></tr>
 <tr>
 <th colspan="2">
 <div lang="ja">ポケットモンスター　ハートゴールド</div>
@@ -16,7 +16,7 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 </th>
 </tr>
 <tr><td colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/91zZqHcE78L.jpg" alt="日本发行版游戏封面|none"></td></tr>
-<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 魂银</th></tr>
+<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 灵魂之银</th></tr>
 <tr>
 <th colspan="2">
 <div lang="ja">ポケットモンスター　ソウルシルバー</div>
@@ -40,8 +40,8 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.2.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.2.0)。
-- 百度网盘：[1.2.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.3.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.3.0)。
+- 百度网盘：[1.3.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 <div class="alert alert-info" role="alert">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -70,7 +70,7 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
 如需修改宝可梦的名字，请使用[本人修改的PKHeX](./PKHeX.html)。
 
 <div class="alert alert-warning" role="alert">
-<p><strong>注意</strong>：本修正补丁并不与原《心金／魂银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
+<p><strong>注意</strong>：本修正补丁并不与原《心灵之金／灵魂之银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
 <p>同时，本修正补丁并不与第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
 </div>
 
@@ -81,6 +81,11 @@ title: 《精灵宝可梦 心金／魂银》汉化修正补丁
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
 - 1.2.0（2020/03/24）：
   - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 1.3.0（2020/04/22）：
+  - 将道具说明修正为与第四世代相符。（感谢 **[@刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
+  - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
+  - 将部分地理名词修正为常用译名。
+  - 其他部分修正（感谢 **[@TONE-TONG](https://space.bilibili.com/32451014)**、**@k90单反**、**@MrVilla**、**@yggdra**等反馈）
 
 ## 预览
 <table class="table">

@@ -34,8 +34,8 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.2.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.2.0)。
-- 百度网盘：[1.2.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.3.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.3.0)。
+- 百度网盘：[1.3.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 <div class="alert alert-info" role="alert">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -59,7 +59,7 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 
 由于本人技术所限，未能对游戏中的一些图片进行更改。此外，由于文本更改为批量替换，可能存在替换错误的情况，如有错误，请及时向我反馈。
 
-本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《心金／魂银》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
+本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《心灵之金／灵魂之银》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
 
 如需修改宝可梦的名字，请使用[本人修改的PKHeX](./PKHeX.html)。
 
@@ -74,6 +74,11 @@ title: 《精灵宝可梦 白金》汉化修正补丁
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
 - 1.2.0（2020/03/24）：
   - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 1.3.0（2020/04/22）：
+  - 将道具说明修正为与第四世代相符。（感谢 **[@刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
+  - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
+  - 将部分地理名词修正为常用译名。
+  - 其他部分修正（感谢 **[@TONE-TONG](https://space.bilibili.com/32451014)**、**@k90单反**、**@MrVilla**、**@yggdra**等反馈）
 
 ## 预览
 <table class="table">
