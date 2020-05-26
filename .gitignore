@@ -356,6 +356,7 @@ MigrationBackup/
 # Other
 *.nds
 *.lnk
+BW_2/
 
 # Jekyll
 _drafts/
