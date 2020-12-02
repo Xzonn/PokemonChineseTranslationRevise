@@ -37,7 +37,7 @@ title: 汉化工具说明
 ### 第四世代
 在第四世代中，游戏存储字符的编码与Unicode编码并非一一对应，因此需要使用码表标识字符。对于使用不同码表的游戏，同一字符对应的编码并不相同，同一编码对应的字符也不相同，因此两者间连接交换会出现字符不匹配，即“乱码”。
 
-本人提供了《[钻石／珍珠](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/master/Files/CharTable/Original_DP.txt)》《[白金](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/master/Files/CharTable/Original_Pt.txt)》《[心金／魂银](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/master/Files/CharTable/Original_HGSS.txt)》原始汉化版所用的码表，同时发售的双版本游戏使用了同样的码表和文本，因此合并发布，下同。
+本人提供了《[钻石／珍珠](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/gh-pages/Files/CharTable/Original_DP.txt)》《[白金](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/gh-pages/Files/CharTable/Original_Pt.txt)》《[心金／魂银](https://github.com/Xzonn/PokemonChineseTranslationRevise/raw/gh-pages/Files/CharTable/Original_HGSS.txt)》原始汉化版所用的码表，同时发售的双版本游戏使用了同样的码表和文本，因此合并发布，下同。
 
 《珍珠／钻石》和《白金》的码表信息来自于“PokeSav字符转换器”（文件名：`WordChanger.exe`），由 **@Easy_World** 制作，原始发布地址已不可考。其中，该软件提供的《珍珠／钻石》码表最大编号为`0x1C70`（7280），但由于字库文件限制，实际最大编号为`0x119D`（4509），但这个大小还是比《白金》和《心金／魂银》的字库大出不少，常用字基本已经包括在内。《白金》码表最大编号为`0x0DD9`（3545）。
 
