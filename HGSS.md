@@ -40,8 +40,8 @@ title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.3.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.3.0)。
-- 百度网盘：[1.3.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
+- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 <div class="alert alert-info" role="alert">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -86,6 +86,9 @@ title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
   - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
   - 将部分地理名词修正为常用译名。
   - 其他部分修正（感谢 **[@TONE-TONG](https://space.bilibili.com/32451014)**、**@k90单反**、**@MrVilla**、**@yggdra**等反馈）
+- 1.4.0（2021/02/27）：
+  - 部分译名和控制符修正。
+  - 本次更新未对《钻石／珍珠》进行修改。
 
 ## 预览
 <table class="table">
