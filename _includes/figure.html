@@ -1,0 +1,5 @@
+{{ include.blank }}<figure{% if include.class %} class="{{ include.class }}"{% endif %}>
+{{ include.blank }}    <img class="figure-image lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%3E%3C%2Fsvg%3E" data-src="{{ include.src }}" width="{{ include.width | default: 640 }}" height="{{ include.height | default: 360 }}" style="aspect-ratio: {{ include.width | default: 640 }}/{{ include.height | default: 360 }};" {% if include.alt %} alt="{{ include.alt }}"{% endif %} />{% unless include.no_link %}
+{{ include.blank }}    <a class="figure-link" target="_blank" href="{{ include.src }}"></a>{% endunless %}{% if include.alt %}
+{{ include.blank }}    <figcaption class="caption-figure" id="figure-{% assign src_array = include.src | split: "/" %}{{ src_array.last}}">{{ include.alt }}</figcaption>{% endif %}
+{{ include.blank }}</figure>

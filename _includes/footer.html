@@ -1,19 +1,23 @@
         <!-- Common Footer Start -->
-        <footer class="xz-footer">
+        <div class="xz-footer-navtop">
+            <a class="xz-navtop" href="#"><span class="glyphicon glyphicon-chevron-up"></span></a>
+            <a class="xz-navbottom" href="#xz-footer"><span class="glyphicon glyphicon-chevron-down"></span></a>
+        </div>
+        <footer id="xz-footer" class="xz-footer">
             <div class="container">
                 <p>本站为爱好者设立，与任天堂无关。{% if page.is_patch %}本补丁采用“<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh">署名-非商业性使用-相同方式共享 3.0</a>”进行许可。{% else %}本工具采用“<a href="https://github.com/Xzonn/PokemonChineseTranslationRevise/blob/master/LICENSE">GNU General Public License v3.0</a>”进行许可。{% endif %}</p>
                 <ul class="xz-footer-links">{% if jekyll.environment == "aliyun" %}
-                    <li><a href="http://www.beian.miit.gov.cn/">京ICP备20005737号</a></li>{% endif %}
-                    <li>&copy; 2017 - {{ "now" | date: "%Y" }} 来自{{ site.name }}</li>
-                    <li>由<a href="https://pages.github.com/">GitHub Pages</a>生成</li>
-                    <li><a href="/posts/About.html">关于本站</a></li>
-                    <li><a href="./feed.xml">RSS</a></li>
-                    <li><a href="https://github.com/Xzonn/LuigiMansion/">源代码</a></li>{% unless jekyll.environment == "development" %}
-                    <li><script src="https://s96.cnzz.com/z_stat.php?id=1275861247&web_id=1275861247" async="async"></script></li>{% endunless %}
+                    <li class="hidden-print"><a href="http://www.beian.miit.gov.cn/">京ICP备20005737号</a></li>
+                    <li class="hidden-print"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802031118">京公网安备11010802031118号</a></li>{% endif %}
+                    <li>&copy; 2017 - {{ "now" | date: "%Y" }} 来自{{ site.name }}</li>{% if jekyll.environment == "production" %}
+                    <li>由<a href="https://pages.github.com/">GitHub Pages</a>生成</li>{% endif %}
+                    <li><a href="/posts/About.html">关于本站</a></li>{% unless jekyll.environment == "development" %}
+                    <li class="hidden-print" style="display: none;"><script src="https://s96.cnzz.com/z_stat.php?id=1275861247&web_id=1275861247" async="async"></script></li>{% endunless %}
+                    <li><a href="https://github.com/Xzonn/PokemonChineseTranslationRevise/">源代码</a></li>
                 </ul>
             </div>
         </footer>
         <!-- Han -->
-        <script src="/js/han.min.js"></script>
+        <script src="{{ site.cdnpath }}/js/han.min.js"></script>
         <!-- Common Footer End -->
         <!-- {{ page.url }} -->

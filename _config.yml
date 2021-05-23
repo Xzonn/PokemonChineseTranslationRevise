@@ -1,4 +1,11 @@
 author: Xzonn
+cdnpath: https://cdn.jsdelivr.net/gh/Xzonn/xzonn.github.io@master
+defaults:
+  - values:
+      base_css: "base"
+      layout: "default"
+      head_image_width: 1280
+      head_image_height: 720
 exclude:
   - Files/
 name: 《精灵宝可梦》第四世代汉化修正

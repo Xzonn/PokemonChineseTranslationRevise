@@ -1,14 +1,17 @@
         <!-- Common Heading Start -->
-        <div class="xz-heading jumbotron">
+        <div class="xz-heading jumbotron">{% if page.head_image %}
+            <div class="xz-heading-image" style="background-image: url({{ page.head_image }});"></div>{% endif %}
             <div class="container">
-                <a class="xz-qrcode hidden-xs"><canvas width="240" height="240"></canvas></a>
-                <div class="xz-heading-text">{% if page.title %}
+                <div class="xz-heading-text">{% if page.date %}
+                    <div class="xz-meta-create-top">{{ page.date | date: "%Y" }}.{{ page.date | date: "%m" | plus: 0 }}.{{ page.date | date: "%d" | plus: 0 }}</div>{% endif %}{% if page.title %}
                     <h1>{{ page.title }}</h1>{% endif %}{% if page.info %}
-                    <p class="xz-meta-info">{{ page.info }}</p>{% endif %}{% if page.date or page.update %}
-                    <ul class="xz-meta-time">{% if page.date %}
-                        <li class="xz-meta-create">{{ page.date | date: "%Y-%m-%d %H:%M" }}</li>{% endif %}{% if page.last_modified_at %}
-                        <li class="xz-meta-update">{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</li>{% endif %}
-                    </ul>{% endif %}
+                    <p class="xz-meta-summary">{{ page.info }}</p>{% endif %}{% if page.last_modified_at or page.tags.size > 0 %}
+                    <div class="xz-meta-infomation">{% if page.last_modified_at %}
+                        <div class="xz-meta-update">{{ page.last_modified_at | date: "%Y-%m-%d %H:%S" }}</div>{% endif %}{% if page.tags.size > 0 %}
+                        <ul class="xz-meta-tags">{% for tag in page.tags %}
+                            <li><a href="/posts/#{{ tag }}">{{ tag }}</a></li>{% endfor %}
+                        </ul>{% endif %}
+                    </div>{% endif %}
                 </div>
             </div>
         </div>
