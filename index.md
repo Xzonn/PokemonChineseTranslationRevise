@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2021-06-21 23:00
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}

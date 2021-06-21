@@ -1,5 +1,6 @@
 ---
 is_patch: true
+last_modified_at: 2021-06-21 23:00
 title: 《宝可梦 心金／魂银》汉化修正补丁
 ---
 {% include video.html aid="886985239" %}

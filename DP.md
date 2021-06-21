@@ -1,5 +1,6 @@
 ---
 is_patch: true
+last_modified_at: 2021-06-21 22:42
 title: 《口袋妖怪 钻石／珍珠》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
