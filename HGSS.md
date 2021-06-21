@@ -1,50 +1,11 @@
 ---
-date: 2020-02-28 21:31
-info: 使用官方中文译名的《精灵宝可梦 心灵之金／灵魂之银》，基于ACG汉化组汉化版修正译名。
 is_patch: true
-last_modified_at: 2020-03-24 15:35
-layout: default
-title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
+title: 《宝可梦 心金／魂银》汉化修正补丁
 ---
-<table class="xz-table-infobox table no-table">
-<thead>
-<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 心灵之金</th></tr>
-<tr>
-<th colspan="2">
-<div lang="ja">ポケットモンスター　ハートゴールド</div>
-<div lang="en"><em>Pokémon HeartGold Version</em></div>
-</th>
-</tr>
-<tr><td colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/91zZqHcE78L.jpg" alt="日本发行版游戏封面|none"></td></tr>
-<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 灵魂之银</th></tr>
-<tr>
-<th colspan="2">
-<div lang="ja">ポケットモンスター　ソウルシルバー</div>
-<div lang="en"><em>Pokémon SoulSilver Version</em></div>
-</th>
-</tr>
-<tr><td colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/917ewchZrjL.jpg" alt="日本发行版游戏封面|none"></td></tr>
-</thead>
-<tbody>
-<tr><th>开发商</th><td>Game Freak</td></tr>
-<tr><th>发行商</th><td>The Pokémon Company（日本）<br/>任天堂（海外）</td></tr>
-<tr><th>平台</th><td>任天堂DS</td></tr>
-<tr><th>发售日期</th><td>2009年9月12日</td></tr>
-<tr><th>分级</th><td>CERO：A</td></tr>
-</tbody>
-<tfoot>
-<tr><th colspan="2"><a href="http://www.pokemon.co.jp/special/hgss/">官方网站</a></th></tr>
-</tfoot>
-</table>
-
-## 发布链接
-由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
-
-- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
-- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+{% include video.html aid="886985239" %}
 
 <div class="alert alert-info" role="alert">
-<p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
+<p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#pg-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
 </div>
 
 <div class="alert alert-success" role="alert">
@@ -54,6 +15,16 @@ title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
 <div class="alert alert-danger" role="alert">
 <p><strong>本补丁严禁商用，如因商业使用造成法律纠纷概与本人无关。</strong></p>
 </div>
+
+{% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/91zZqHcE78L.jpg" width="200" height="200" alt="《心金》封面" class="pull-right" %}
+
+{% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/917ewchZrjL.jpg" width="200" height="200" alt="《魂银》封面" class="pull-right" %}
+
+## 发布链接
+由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+
+- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
+- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
@@ -70,7 +41,7 @@ title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
 如需修改宝可梦的名字，请使用[本人修改的PKHeX](./PKHeX.html)。
 
 <div class="alert alert-warning" role="alert">
-<p><strong>注意</strong>：本修正补丁并不与原《心灵之金／灵魂之银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
+<p><strong>注意</strong>：本修正补丁并不与原《心金／魂银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
 <p>同时，本修正补丁并不与第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
 </div>
 
@@ -96,23 +67,11 @@ title: 《精灵宝可梦 心灵之金／灵魂之银》汉化修正补丁
 <tr><th>原版</th><th>修正版</th></tr>
 </thead>
 <tbody>
-<tr><td><img src="https://file.moetu.org/images/2020/02/28/a8c17f7f507f7119d1f7caa8ab6458f5e446bc7ca62d2346.png" alt="《口袋妖怪 心灵之金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/5545beab7e329331555cfbfe24255b8e95fb55402337176d.png" alt="《精灵宝可梦 心灵之金》标题" data-disp="auto" /></td></tr>
-<tr><td><img src="https://file.moetu.org/images/2020/02/28/94baba0691c671fb07233b6d7c4051a3d593e577132de3fe.png" alt="《口袋妖怪 灵魂之银》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/3f954e319208266b71d62f2ea3cffa45be65c61b3e64c94f.png" alt="《精灵宝可梦 灵魂之银》标题" data-disp="auto" /></td></tr>
-<tr><td><img src="https://file.moetu.org/images/2020/02/28/599f3642fcbdd2f68ccc11902cec6c4fe453b047a6a57672.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/28/f5bb8f665bcf1d57bdbe8bc191ac7b60b736a71ea87ff0ae.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
+<tr><td>{% include figure.html src="a8c17f7f507f7119d1f7caa8ab6458f5.png" alt="《口袋妖怪 心灵之金》标题" width="256" height="384" %}</td><td>{% include figure.html src="5545beab7e329331555cfbfe24255b8e.png" alt="《宝可梦 心金》标题" width="256" height="384" %}</td></tr>
+<tr><td>{% include figure.html src="94baba0691c671fb07233b6d7c4051a3.png" alt="《口袋妖怪 灵魂之银》标题" width="256" height="384" %}</td><td>{% include figure.html src="3f954e319208266b71d62f2ea3cffa45.png" alt="《宝可梦 魂银》标题" width="256" height="384" %}</td></tr>
+<tr><td>{% include figure.html src="599f3642fcbdd2f68ccc11902cec6c4f.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="f5bb8f665bcf1d57bdbe8bc191ac7b60.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
 </tbody>
 </table>
-
-## 文本
-<div class="row">
-<form class="xz-pokemon-text-form col-sm-6 col-md-offset-3">
-<div class="input-group">
-<input type="number" min="000" max="813" class="form-control" placeholder="编号，000 - 813">
-<span class="input-group-btn">
-<button class="btn btn-primary" type="submit">前往</button>
-</span>
-</div>
-</form>
-</div>
 
 ## 致谢
 感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。

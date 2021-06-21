@@ -1,44 +1,11 @@
 ---
-date: 2020-02-23 15:43
-info: 使用官方中文译名的《精灵宝可梦 白金》，基于ACG汉化组汉化版修正译名。
 is_patch: true
-last_modified_at: 2020-03-24 15:33
-layout: default
-title: 《精灵宝可梦 白金》汉化修正补丁
+title: 《宝可梦 白金》汉化修正补丁
 ---
-<div class="bilibiliBox" data-aid="886985239" data-cid="303717354" data-page="1"></div>
-
-<table class="xz-table-infobox table no-table">
-<thead>
-<tr><th class="xz-table-infobox-title" colspan="2">精灵宝可梦 白金</th></tr>
-<tr>
-<th colspan="2">
-<div lang="ja">ポケットモンスター　プラチナ</div>
-<div lang="en"><em>Pokémon Platinum Version</em></div>
-</th>
-</tr>
-<tr><td colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/61KlGWIg4YL.jpg" alt="日本发行版游戏封面|none"></td></tr>
-</thead>
-<tbody>
-<tr><th>开发商</th><td>Game Freak</td></tr>
-<tr><th>发行商</th><td>The Pokémon Company（日本）<br/>任天堂（海外）</td></tr>
-<tr><th>平台</th><td>任天堂DS</td></tr>
-<tr><th>发售日期</th><td>2008年9月13日</td></tr>
-<tr><th>分级</th><td>CERO：A</td></tr>
-</tbody>
-<tfoot>
-<tr><th colspan="2"><a href="https://www.pokemon.co.jp/game/ds/platinum/">官方网站</a></th></tr>
-</tfoot>
-</table>
-
-## 发布链接
-由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
-
-- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
-- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+{% include video.html aid="886985239" %}
 
 <div class="alert alert-info" role="alert">
-<p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
+<p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#pg-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
 </div>
 
 <div class="alert alert-success" role="alert">
@@ -48,6 +15,14 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 <div class="alert alert-danger" role="alert">
 <p><strong>本补丁严禁商用，如因商业使用造成法律纠纷概与本人无关。</strong></p>
 </div>
+
+{% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/61KlGWIg4YL.jpg" width="200" height="181.6" alt="游戏封面" class="pull-right" %}
+
+## 发布链接
+由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+
+- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
+- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 白金”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
@@ -59,7 +34,7 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 
 由于本人技术所限，未能对游戏中的一些图片进行更改。此外，由于文本更改为批量替换，可能存在替换错误的情况，如有错误，请及时向我反馈。
 
-本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《心灵之金／灵魂之银》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
+本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《心金／魂银》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
 
 如需修改宝可梦的名字，请使用[本人修改的PKHeX](./PKHeX.html)。
 
@@ -89,23 +64,11 @@ title: 《精灵宝可梦 白金》汉化修正补丁
 <tr><th>原版</th><th>修正版</th></tr>
 </thead>
 <tbody>
-<tr><td><img src="https://file.moetu.org/images/2020/02/20/e23ee94c4705bb8188cde6ee2ba684f2370e44e045b982e4.png" alt="《口袋妖怪 白金》标题" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/03/24/808b046468c20f4b60a7361413efb8a91fe2d519e6c39d9b.png" alt="《精灵宝可梦 白金》标题" data-disp="auto" /></td></tr>
-<tr><td><img src="https://file.moetu.org/images/2020/02/20/711af3dd3ffa60ce599ba9464a9aca6b3b39aa5fe3bc0d41.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/20/963793c79538e2cd529d57d3604f9a5487894f6bde7ed3d3.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
-<tr><td><img src="https://file.moetu.org/images/2020/02/20/d15725931787f5b1a11f0b075fd397f7a9ef59c9e0cb3fab.png" alt="精灵图鉴" data-disp="auto" /></td><td><img src="https://file.moetu.org/images/2020/02/20/ea402e21fcae399bdf8a1bd137cfed093cf0fef6a8e71bb8.png" alt="宝可梦图鉴" data-disp="auto" /></td></tr>
+<tr><td>{% include figure.html src="e23ee94c4705bb8188cde6ee2ba684f2.png" alt="《口袋妖怪 白金》标题" width="256" height="384" %}</td><td>{% include figure.html src="808b046468c20f4b60a7361413efb8a9.png" alt="《宝可梦 白金》标题" width="256" height="384" %}</td></tr>
+<tr><td>{% include figure.html src="711af3dd3ffa60ce599ba9464a9aca6b.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="963793c79538e2cd529d57d3604f9a54.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
+<tr><td>{% include figure.html src="d15725931787f5b1a11f0b075fd397f7.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="ea402e21fcae399bdf8a1bd137cfed09.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
 </tbody>
 </table>
-
-## 文本
-<div class="row">
-<form class="xz-pokemon-text-form col-sm-6 col-md-offset-3">
-<div class="input-group">
-<input type="number" min="000" max="708" class="form-control" placeholder="编号，000 - 708">
-<span class="input-group-btn">
-<button class="btn btn-primary" type="submit">前往</button>
-</span>
-</div>
-</form>
-</div>
 
 ## 致谢
 感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。

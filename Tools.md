@@ -1,7 +1,4 @@
 ---
-date: 2020-02-22 23:54
-last_modified_at: 2020-03-27 15:15
-layout: default
 title: 汉化工具说明
 ---
 ## 更新日志

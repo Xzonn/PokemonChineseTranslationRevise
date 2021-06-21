@@ -1,0 +1,13 @@
+@font-family-sans-serif-chinese: "Source Han Sans CN","Source Han Sans SC", "Source Han Sans", "Noto Sans CJK SC", "Hiragino Sans GB", "PingFang SC", "Microsoft YaHei";
+@font-family-sans-serif-latin: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans";
+@font-family-sans-serif: @font-family-sans-serif-latin, @font-family-sans-serif-chinese, sans-serif;
+
+.biaodian {
+  font-family: @font-family-sans-serif-chinese, sans-serif;
+}
+
+body, .biaodian {
+  &[lang="en"], [lang="en"], [lang="en"] & {
+    font-family: @font-family-sans-serif-latin, sans-serif;
+  }
+}

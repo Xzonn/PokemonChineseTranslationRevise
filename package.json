@@ -1,0 +1,28 @@
+{
+  "name": "pctr",
+  "version": "0.0.1",
+  "description": "任天堂开发者访谈保存计划",
+  "main": "index.html",
+  "dependencies": {
+    "less": "^4.1.1",
+    "bootstrap": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello, World!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xzonn/PokemonChineseTranslationRevise.git"
+  },
+  "keywords": [
+    "Nintendo",
+    "Interview"
+  ],
+  "author": "Xzonn",
+  "license": "CC-BY-NC-SA 4.0",
+  "bugs": {
+    "url": "https://github.com/Xzonn/PokemonChineseTranslationRevise/issues"
+  },
+  "homepage": "https://xzonn.top/PokemonChineseTranslationRevise/"
+}

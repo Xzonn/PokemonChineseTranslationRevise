@@ -1,0 +1,31 @@
+/* 颜色 */
+@gray: #888;
+@gray-light: #aaa;
+
+@color-warm: #ff9100;
+@color-cold: #006eff;
+
+@brand-primary: darken(@color-warm, 10%);
+
+@color-warm-light: lighten(@color-warm, 25%);
+@color-warm-lighter: lighten(@color-warm, 45%);
+@color-warm-dark: darken(@color-warm, 25%);
+@color-warm-darker: darken(@color-warm, 45%);
+@color-cold-light: lighten(@color-cold, 25%);
+@color-cold-lighter: lighten(@color-cold, 45%);
+@color-cold-dark: darken(@color-cold, 35%);
+@color-cold-darker: darken(@color-cold, 45%);
+
+
+:root {
+  --color-cold: @color-cold;
+  --color-cold-light: @color-cold-light;
+  --color-cold-lighter: @color-cold-lighter;
+  --color-cold-dark: @color-cold-dark;
+  --color-cold-darker: @color-cold-darker;
+  --color-warm: @color-warm;
+  --color-warm-light: @color-warm-light;
+  --color-warm-lighter: @color-warm-lighter;
+  --color-warm-dark: @color-warm-dark;
+  --color-warm-darker: @color-warm-darker;
+}

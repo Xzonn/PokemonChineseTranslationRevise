@@ -1,24 +1,21 @@
-        <!-- Common Header Start -->
-        <header class="xz-header navbar navbar-static-top navbar-default">
-            <div class="container">
-                <div class="navbar-header">
-                    <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".xz-navbar" aria-controls="xz-navbar" aria-expanded="false">
-                        <span class="sr-only">切换导航条</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="/" class="xz-navimage navbar-brand" title="Xzonn 的小站"><img src="{{ site.cdnpath }}/images/icon_32x32.png" alt="Xzonn 的小站" width="32" height="32"/></a>
-                    <a href="./" class="navbar-brand">首页</a>
-                </div>
-                <nav class="xz-navbar collapse navbar-collapse">
-                    <ul class="nav navbar-nav">
-                        <li{% if page.url == "/Tools.html" %} class="active"{% endif %}><a href="./Tools.html">工具说明</a></li>
-                        <li{% if page.url == "/Pt.html" %} class="active"{% endif %}><a href="./Pt.html">《白金》补丁</a></li>
-                        <li{% if page.url == "/HGSS.html" %} class="active"{% endif %}><a href="./HGSS.html">《心金／魂银》补丁</a></li>
-                        <li{% if page.url == "/PKHeX.html" %} class="active"{% endif %}><a href="./PKHeX.html">PKHeX</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </header>
-        <!-- Common Header End -->
+    <header class="pg-header navbar navbar-static-top navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".pg-navbar" aria-controls="pg-navbar" aria-expanded="false">
+            <span class="sr-only">切换导航条</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.name }}</a>
+        </div>
+        <nav class="pg-navbar navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="pg-navbar-item"><a class="nav-link" href="{{ "/Tools.html" | relative_url }}">工具说明</a></li>
+            <li class="pg-navbar-item"><a class="nav-link" href="{{ "/Pt.html" | relative_url }}">《白金》补丁</a></li>
+            <li class="pg-navbar-item"><a class="nav-link" href="{{ "/HGSS.html" | relative_url }}">《心金／魂银》补丁</a></li>
+            <li class="pg-navbar-item"><a class="nav-link" href="{{ "/PKHeX.html" | relative_url }}">PKHeX</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>

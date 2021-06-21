@@ -1,13 +1,30 @@
 author: Xzonn
-cdnpath: https://cdn.jsdelivr.net/gh/Xzonn/xzonn.github.io@master
 defaults:
   - values:
-      base_css: "base"
       layout: "default"
-      head_image_width: 1280
-      head_image_height: 720
 exclude:
+  - BW_2/
+  - Codes/
   - Files/
-name: 《精灵宝可梦》第四世代汉化修正
+  - Debug/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - "*.less"
+  - "*.psd"
+image_cdn: https://images.xzonn.top/pg4
+kramdown:
+  syntax_highlighter_opts:
+    css_class: "highlight"
+locale: zh_CN
+markdown: kramdown
+name: 《宝可梦》第四世代汉化修正
 plugins:
   - jekyll-sitemap
+  - jekyll-sass-converter
+timezone: Asia/Shanghai
+title: 《宝可梦》第四世代汉化修正
+url: https://pg4.xzonn.top

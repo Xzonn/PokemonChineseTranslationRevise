@@ -1,0 +1,126 @@
+/* body */
+@body-bg: lighten(@color-warm, 45%);
+
+/* header */
+@navbar-default-bg: @color-cold-lighter;
+@navbar-default-border: @color-cold;
+@navbar-default-color: @color-cold;
+
+@navbar-default-brand-color: @color-cold;
+@navbar-default-brand-hover-color: @color-cold-dark;
+
+@navbar-default-link-color: @color-cold;
+@navbar-default-link-hover-color: @color-cold-dark;
+@navbar-default-link-active-color: @color-cold-dark;
+
+@navbar-margin-bottom: 0;
+
+/* heading */
+@jumbotron-color: @color-cold-dark;
+@jumbotron-bg: @color-cold-light;
+@jumbotron-heading-color: @color-cold-darker;
+
+@jumbotron-font-size: ceil(@font-size-base * 1.2);
+@jumbotron-heading-font-size: @font-size-h1;
+
+.jumbotron {
+  background-image: linear-gradient(to bottom, @color-cold-light, lighten(@color-cold, 45%));
+  margin-bottom: 0;
+}
+
+/* content */
+.pg-content {
+  flex: 1;
+}
+
+.pg-content-main {
+  > :not(:first-child) {
+    margin-top: 30px;
+  }
+
+  > :not(:last-child) {
+    margin-bottom: 30px;
+  }
+
+  > :first-child {
+    margin-top: 0;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+article::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+@media screen and (min-width: @screen-sm-min) {
+  .pg-content {
+    background: linear-gradient(90deg, transparent 0, #fff 5px, #fff ~'calc(100% - 5px)', transparent 100%);
+  }
+
+  .pg-content-main {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-width: @screen-md-max) {
+  .pg-content {
+    background-color: #fff;
+  }
+
+  .pg-content-main {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media print and (min-width: @screen-sm-min) {
+  .pg-content-main {
+    width: 100%;
+  }
+}
+
+/* footer */
+.pg-footer {
+  flex: 0;
+  padding-top: 30px;
+  width: 100%;
+  border-top: 1px solid var(--color-warm);
+  background-color: #f2f2f2;
+  font-size: 14px;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.pg-footer-icons {
+  float: right;
+}
+
+.pg-footer-links {
+  & > li:not(:last-child)::after {
+    content: ' \00b7 ';
+  }
+}
+
+.pg-footer-icons, .pg-footer-links {
+  padding-left: 0;
+  list-style: none;
+
+  > li {
+    display: inline-block;
+  }
+}
+
+/* google */
+.ni-header, .ni-heading, .ni-footer, .container, .row {
+  + .google-auto-placed, > .google-auto-placed {
+      display: none !important;
+  }
+}

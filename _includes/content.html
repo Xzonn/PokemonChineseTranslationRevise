@@ -1,47 +1,23 @@
-        <!-- Common Content Start -->
-        <div class="xz-content container">
-            <div class="row">
-                <div class="xz-content-main col-md-{% if page.no_sidenav %}12{% else %}9{% endif %}">{% if page.head_image %}
-{% include figure.html blank="                    " src=page.head_image alt=page.title width=page.head_image_width height=page.head_image_height no_link=true %}{% endif %}
-                    <article>
-{{ content | replace: '<a href="http', '<a target="_blank" href="http' }}
-                    </article>{% if page.sources or page.references or page.links or page.logs %}
-                    <div class="xz-infobox-bottom">{%if page.sources %}
-                        <div class="xz-info-sources">
-                            <div class="xz-info-sources-head">源地址</div>
-                            <ul>{% for source in page.sources %}
-                                <li><a lang="ja" href="{{ source[0] }}">{{ source[1] }}</a></li>{% endfor %}
-                            </ul>
-                        </div>{% endif %}{%if page.references %}
-                        <div class="xz-info-references">
-                            <div class="xz-info-references-head">参考资料</div>
-                            <ul>{% for reference in page.references %}
-                                <li><a href="{{ reference[0] }}">{{ reference[1] }}</a></li>{% endfor %}
-                            </ul>
-                        </div>{% endif %}{%if page.links %}
-                        <div class="xz-info-links">
-                            <div class="xz-info-links-head">相关链接</div>
-                            <ul>{% for link in page.links %}
-                                <li><a href="{{ link[0] }}">{{ link[1] }}</a></li>{% endfor %}
-                            </ul>
-                        </div>{% endif %}{%if page.logs %}
-                        <div class="xz-info-logs">
-                            <div class="xz-info-logs-head">更新历史</div>
-                            <ul>{% for log in page.logs %}
-                                <li>{{ log }}</li>{% endfor %}
-                            </ul>
-                        </div>{% endif %}
-                    </div>{% endif %}{% unless page.no_ad %}
-                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8317643192080236" data-ad-slot="8544171099"></ins>
-                    <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>{% endunless %}{% unless jekyll.environment == "development" or page.no_comment %}
-                    <div class="xz-content-comment hidden-print">
-                        <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
-                        <script src="https://cdn-city.livere.com/js/embed.dist.js" async="async"></script>
-                    </div>{% endunless %}
-                </div>{% unless page.no_sidenav %}
-                <div class="xz-sidenav col-md-3 hidden-print hidden-xs hidden-sm" role="complementary">
-                    <ul class="xz-sidenav-list nav nav-stacked" role="navigation"></ul>
-                </div>{% endunless %}
-            </div>
+    <div class="pg-heading jumbotron">
+      <div class="container">
+        <h1>{{ page.title | default: site.name }}</h1>
+      </div>
+    </div>
+    <div class="pg-content container">
+      <div class="row">
+        <div class="pg-content-main col-12">
+          <article>{% capture LINE_BREAK %}
+{% endcapture %}{% capture DOUBLE_LINE_BREAK %}{{ LINE_BREAK }}{{ LINE_BREAK }}{% endcapture %}{% capture LINE_BREAK_INDENT %}
+            {% endcapture %}{% assign _content = content | strip | replace: '<a href="http', '<a target="_blank" href="http' %}
+            {% assign _splited_pres = _content | split: "<pre " %}{% for _pre in _splited_pres %}{% if forloop.first %}{{ _pre | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% else %}<pre {% assign _splited_part = _pre | split: "</pre>" %}{{ _splited_part[0] }}</pre>{{ _splited_part[1] | replace: DOUBLE_LINE_BREAK, LINE_BREAK | replace: LINE_BREAK, LINE_BREAK_INDENT }}{% endif %}{% endfor %}
+          </article>{% unless page.no_ad %}
+          <script data-ad-client="ca-pub-8317643192080236" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="async"></script>
+          <ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8317643192080236" data-ad-slot="8544171099"></ins>
+          <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>{% endunless %}{% unless jekyll.environment == "development" or page.no_comment %}
+          <div class="pg-content-comment hidden-print">
+            <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
+            <script src="https://cdn-city.livere.com/js/embed.dist.js" async="async"></script>
+          </div>{% endunless %}
         </div>
-        <!-- Common Content End -->
+      </div>
+    </div>

@@ -1,13 +1,9 @@
 ---
-date: 2020-02-28 21:31
-info: 基于原版PKHeX和本汉化修正补丁的码表编译的PKHeX版本。
-last_modified_at: 2020-03-16 12:56
-layout: default
-title: 可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本
+title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 ---
-<div class="bilibiliBox" data-aid="96227144" data-cid="164267978" data-page="2"></div>
+{% include video.html aid="96227144" page="2" %}
 
-![可用于《精灵宝可梦》第四世代汉化修正版的PKHeX版本\|right](https://file.moetu.org/images/2020/02/28/a7b4b821e754b775055372bb0380bc0d801bf278aa99f058.png)
+{% include figure.html src="a7b4b821e754b775055372bb0380bc0d.png" width="763" height="385" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" %}
 
 ## 发布链接
 - GitHub：[20210130](https://github.com/Xzonn/PKHeX/releases/latest)。
@@ -28,7 +24,7 @@ PKHeX项目GitHub地址：<https://github.com/kwsch/PKHeX>。
 
 （2020/02/29更新：将日文宝可梦名字修改范围扩大为全部宝可梦，可以供第五、六世代官方译名版游戏使用。）
 
-![利用PKHeX批量修改宝可梦昵称\|right](https://file.moetu.org/images/2020/02/28/62ab991310328dbb044a66eb3693610c855322791bf045d9.png)
+{% include figure.html src="62ab991310328dbb044a66eb3693610c.png" width="396" height="273" alt="利用PKHeX批量修改宝可梦昵称" %}
 
 ## 批量修改宝可梦昵称
 PKHeX具有批量操作的功能。具体操作方法为（以下说明均基于中文界面）：

@@ -1,8 +1,0 @@
-.xz-pokemon-text>tbody>tr>td:not(:first-child) {
-    text-align: left;
-    font-family: var(--font-family-monospace);
-}
-
-.xz-pokemon-text>tbody>tr>td:not(:first-child) h-hws {
-    display: none;
-}
