@@ -119,7 +119,13 @@ article::after {
 }
 
 /* google */
-.ni-header, .ni-heading, .ni-footer, .container, .row {
+.ni-header, .ni-heading, .ni-footer {
+  + .google-auto-placed, .google-auto-placed {
+    display: none !important;
+  }
+}
+
+.container, .container-fluid, .row {
   + .google-auto-placed, > .google-auto-placed {
       display: none !important;
   }
