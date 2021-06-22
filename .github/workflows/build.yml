@@ -19,15 +19,19 @@ jobs:
     - name: Pt
       continue-on-error: true
       run: |
-        copy Pt.txt dist/Pt/Revised/Messages.txt -force
-        ./PokemonCTRFont -c CharTable.txt -f Pt_Font.narc -o dist/Pt/Revised/graphic/pl_font.narc
-        ./PokemonCTRText -c CharTable.txt -m Pt_Message.narc -i Pt.txt -o dist/Pt/Revised/msgdata/pl_msg.narc
+        rm dist/Pt/Revised/Messages.txt -force
+        bin/PokemonCTRFont -c src/CharTable.txt -f src/Pt_Font.narc -o dist/Pt/Revised/graphic/pl_font.narc
+        bin/PokemonCTRText -c src/CharTable.txt -m src/Pt_Message.narc -i src/Pt.txt -o dist/Pt/Revised/msgdata/pl_msg.narc
+        compress-archive dist/Pt/Revised/ dist/Pt/Patch-Pt.zip -force
+        copy src/Pt.txt dist/Pt/Revised/Messages.txt -force
     - name: HGSS
       continue-on-error: true
       run: |
-        copy HGSS.txt dist/HGSS/Revised/Messages.txt -force
-        ./PokemonCTRFont -c CharTable.txt -f HGSS_Font.narc -o dist/HGSS/Revised/a/0/1/6
-        ./PokemonCTRText -c CharTable.txt -m HGSS_Message.narc -i HGSS.txt -o dist/HGSS/Revised/a/0/2/7
+        rm dist/HGSS/Revised/Messages.txt -force
+        bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/HGSS/Revised/a/0/1/6
+        bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/HGSS/Revised/a/0/2/7
+        compress-archive dist/HGSS/Revised/ dist/HGSS/Patch-HGSS.zip -force
+        copy src/HGSS.txt dist/HGSS/Revised/Messages.txt -force
     - name: Deploy to GitHub
       run: |
         cd dist/
