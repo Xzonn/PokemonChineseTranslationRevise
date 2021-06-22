@@ -1,0 +1,40 @@
+name: Build
+
+on:
+  push:
+    branches: 
+      - master
+  pull_request:
+    branches: 
+      - master
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Prepare for Build
+      run: |
+        git clone --depth=1 --branch=dist --single-branch --no-checkout \
+          "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" \
+          dist
+    - name: Pt
+      continue-on-error: true
+      run: |
+        copy Pt.txt dist\Pt\Revised\Messages.txt /Y
+        PokemonCTRFont -c CharTable.txt -f Pt_Font.narc -o dist/Pt/Revised/graphic/pl_font.narc
+        PokemonCTRText -c CharTable.txt -m Pt_Message.narc -i Pt.txt -o dist/Pt/Revised/msgdata/pl_msg.narc
+    - name: HGSS
+      continue-on-error: true
+      run: |
+        copy HGSS.txt dist\HGSS\Revised\Messages.txt /Y
+        PokemonCTRFont -c CharTable.txt -f HGSS_Font.narc -o dist/HGSS/Revised/a/0/1/6
+        PokemonCTRText -c CharTable.txt -m HGSS_Message.narc -i HGSS.txt -o dist/HGSS/Revised/a/0/2/7
+    - name: Deploy to GitHub
+      run: |
+        pushd dist/ &>/dev/null
+        git add -A
+        git -c user.name=GitHub -c user.email=noreply@github.com commit \
+          -m "From GitHub Actions build ${GITHUB_RUN_NUMBER}"
+        git push
+        popd &>/dev/null
