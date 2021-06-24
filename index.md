@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-21 23:00
+last_modified_at: 2021-06-22 20:19
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -16,7 +16,7 @@ title: 《宝可梦》第四世代汉化修正
 《钻石／珍珠》的补丁已随1.3.0版本发布，且不会随《白金／心金／魂银》修正补丁更新而更新。
 
 ## 工具发布
-发布链接：[GitHub：2.0.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/2.0.0) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：3.0.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.0.0) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具和字库处理工具，均为命令行程序，无图形化界面。命令行参数可通过`--help`指令查看。
 
@@ -24,7 +24,7 @@ title: 《宝可梦》第四世代汉化修正
 
 字库处理工具为`PokemonCTRFont.exe`，目前实现的功能仅有：从narc文件根据码表创建新的narc文件。
 
-1.2.0版本之前仅支持第四世代的文件，在2.0.0版本加入对第五世代文件的支持。
+1.2.0版本之前仅支持第四世代的文件，2.0.0版本加入对第五世代文件的初步支持。
 
 详细说明请见：**[汉化工具说明](./Tools.html)**。
 
