@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2021-06-21 23:00
+last_modified_at: 2021-06-28 12:51
 title: 《宝可梦 心金／魂银》汉化修正补丁
 ---
 {% include video.html aid="886985239" %}
@@ -22,10 +22,10 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 {% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/917ewchZrjL.jpg" width="200" height="200" alt="《魂银》封面" class="pull-right" %}
 
 ## 发布链接
-由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+由于版权原因，本人仅发布修正补丁。请使用链接中提供的“汉化补丁应用工具”打补丁。发布链接：
 
-- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
-- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.4.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.1)。
+- 百度网盘：[1.4.1](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
@@ -39,7 +39,7 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 
 本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《白金》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
 
-如需修改宝可梦的名字，请使用[本人修改的PKHeX](./PKHeX.html)。
+如需修改宝可梦的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
 <div class="alert alert-warning" role="alert">
 <p><strong>注意</strong>：本修正补丁并不与原《心金／魂银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
@@ -47,18 +47,22 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 </div>
 
 ## 更新日志
-- 1.0.0（2020/02/28）：
+- 1.0.0（2020-02-28）：
   - 最初发布版本。
-- 1.1.0（2020/03/05）：
+- 1.1.0（2020-03-05）：
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
-- 1.2.0（2020/03/24）：
+- 1.2.0（2020-03-24）：
   - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
-- 1.3.0（2020/04/22）：
+- 1.3.0（2020-04-22）：
   - 将道具说明修正为与第四世代相符。（感谢 **[@刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
   - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
   - 将部分地理名词修正为常用译名。
   - 其他部分修正（感谢 **[@TONE-TONG](https://space.bilibili.com/32451014)**、**@k90单反**、**@MrVilla**、**@yggdra**等反馈）
-- 1.4.0（2021/02/27）：
+- 1.4.0（2021-02-27）：
+  - 部分译名和控制符修正。
+  - 本次更新未对《钻石／珍珠》进行修改。
+- 1.4.1（2021-06-28）：
+  - 改用[自制的汉化补丁应用工具]({{ "/Tools.html" | relative_url }})。
   - 部分译名和控制符修正。
   - 本次更新未对《钻石／珍珠》进行修改。
 

@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-27 23:59
+last_modified_at: 2021-06-28 12:02
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -16,27 +16,27 @@ title: 《宝可梦》第四世代汉化修正
 《钻石／珍珠》的补丁已随1.3.0版本发布，且不会随《白金／心金／魂银》修正补丁更新而更新。
 
 ## 工具发布
-发布链接：[GitHub：3.1.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.0) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：3.1.1版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.1) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
 
-详细说明请见：**[汉化工具说明](./Tools.html)**。
+详细说明请见：**[汉化工具说明]({{ "/Tools.html" | relative_url }})**。
 
 ## 补丁发布
 由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
 <table class="figure-table"><tbody><tr>
-<td>{% include figure.html link="/Pt.html" src="https://file.moetu.org/images/2020/02/23/efdd474ffac175997868fa704bdc063e1f4ad7cdd56b9c40.jpg" alt="《宝可梦 白金》" width="588" height="331" %}</td>
-<td>{% include figure.html link="/HGSS.html" src="https://file.moetu.org/images/2020/02/23/3e6f40d11d826cc1f4babd1c5b2147b08f8baaac761f7e65.jpg" alt="《宝可梦 心金／魂银》" width="588" height="331" %}</td>
+<td>{% include figure.html link="/Pt.html" src="efdd474ffac175997868fa704bdc063e.jpg" alt="《宝可梦 白金》" width="588" height="331" %}</td>
+<td>{% include figure.html link="/HGSS.html" src="3e6f40d11d826cc1f4babd1c5b2147b0.jpg" alt="《宝可梦 心金／魂银》" width="588" height="331" %}</td>
 </tr><tr>
-<td>{% include figure.html link="/DP.html" src="https://file.moetu.org/images/2020/04/22/9938f0f795848274294631bb0d8fa32394714bc5673a1b42.jpg" alt="《口袋妖怪 钻石／珍珠》" width="588" height="331" %}</td>
+<td>{% include figure.html link="/DP.html" src="9938f0f795848274294631bb0d8fa323.jpg" alt="《口袋妖怪 钻石／珍珠》" width="588" height="331" %}</td>
 <td>{% include figure.html link="/PKHeX.html" src="a7b4b821e754b775055372bb0380bc0d.png" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" width="588" height="331" %}</td>
 </tr></tbody></table>
 
 总链接：
 
-- GitHub：[1.4.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.0)。
-- 百度网盘：[1.4.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.4.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.1)。
+- 百度网盘：[1.4.1](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 本系列修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
 
