@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-28 12:02
+last_modified_at: 2021-06-29 20:36
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -16,7 +16,7 @@ title: 《宝可梦》第四世代汉化修正
 《钻石／珍珠》的补丁已随1.3.0版本发布，且不会随《白金／心金／魂银》修正补丁更新而更新。
 
 ## 工具发布
-发布链接：[GitHub：3.1.1版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.1) &#124; [1.2.0版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/1.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：3.1.2版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.2) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
 

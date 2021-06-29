@@ -1,9 +1,9 @@
 ---
-last_modified_at: 2021-06-28 12:04
+last_modified_at: 2021-06-29 20:36
 title: 汉化工具说明
 ---
 ## 发布链接
-- GitHub：[3.1.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.1)。
+- GitHub：[3.1.2](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.2)。
 
 ## 更新日志
 - 1.0.1（2020-02-22）：
@@ -24,6 +24,8 @@ title: 汉化工具说明
   - 增加了自制的汉化补丁应用工具。详请见下。
 - 3.1.1（2021-06-28）：
   - 修正补丁包文件占用问题。
+- 3.1.2（2021-06-29）：
+  - 修改`ndstool.exe`。<del>（我错了不该自己编译的）</del>
 
 ## 总体说明
 本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
