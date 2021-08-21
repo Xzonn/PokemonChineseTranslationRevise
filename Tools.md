@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-29 20:36
+last_modified_at: 2021-08-21 16:19
 title: 汉化工具说明
 ---
 ## 发布链接
@@ -43,23 +43,7 @@ title: 汉化工具说明
 本工具为开源软件，源代码发布于[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)，按照GPL-3.0协议授权。
 
 ## 码表
-码表文件实际为txt文本文件，每个字符为一行，每行以`\t`分隔符隔开，前为编码（无前缀16进制），后为字符。
-
-### 第四世代
-在第四世代中，游戏存储字符的编码与Unicode编码并非一一对应，因此需要使用码表标识字符。对于使用不同码表的游戏，同一字符对应的编码并不相同，同一编码对应的字符也不相同，因此两者间连接交换会出现字符不匹配，即“乱码”。
-
-本人提供了《[钻石／珍珠](https://github.com/Xzonn/PCTRAutoBuild/raw/dist/CharTable/Original_DP.txt)》《[白金](https://github.com/Xzonn/PCTRAutoBuild/raw/dist/CharTable/Original_Pt.txt)》《[心金／魂银](https://github.com/Xzonn/PCTRAutoBuild/raw/dist/CharTable/Original_HGSS.txt)》原始汉化版所用的码表，同时发售的双版本游戏使用了同样的码表和文本，因此合并发布，下同。
-
-《珍珠／钻石》和《白金》的码表信息来自于“PokeSav字符转换器”（文件名：`WordChanger.exe`），由 **@Easy_World** 制作，原始发布地址已不可考。其中，该软件提供的《珍珠／钻石》码表最大编号为`0x1C70`（7280），但由于字库文件限制，实际最大编号为`0x119D`（4509），但这个大小还是比《白金》和《心金／魂银》的字库大出不少，常用字基本已经包括在内。《白金》码表最大编号为`0x0DD9`（3545）。
-
-《心金／魂银》的码表信息为我个人校对而成，最大编号为`0x0E81`（3713）。
-
-由于本人发布的修正补丁使用了同一码表，因此可以互相连接交换。同时本人建议其他使用本工具者也使用本人的码表，以方便连接交换，缺失的字符可以在最后追加并提交Pull Request。[修正补丁码表链接](https://github.com/Xzonn/PCTRAutoBuild/raw/dist/CharTable/Expanded.txt)。
-
-### 第五世代
-在第五世代中，游戏存储字符的编码为Unicode，因此在任意版本的游戏中字符与编码都是一一对应的，连接交换不会出现问题。因此，对第五世代来说“码表”仅用于标识字库中需要包含哪些字符。由于一些原因，本工具仅会读取Unicode编码为`0x4E00` ~ `0xE000`之间的字符，其他字符会被直接忽略。
-
-由于不明原因，本人建议第五世代的码表按照Unicode顺序排序，否则可能会出现字符变为“？”的情况。
+参见：[码表及控制符说明]({{ "/CharTable.html" | relative_url }})。
 
 ## narc文件
 本工具直接读取和输出的文件即为narc文件。该格式实际是多个文件打包的格式。
