@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-21 23:00
+last_modified_at: 2021-10-02 11:42
 title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 ---
 {% include video.html aid="96227144" page="2" %}
@@ -7,8 +7,8 @@ title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 {% include figure.html src="a7b4b821e754b775055372bb0380bc0d.png" width="763" height="385" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" %}
 
 ## 发布链接
-- GitHub：[20210130](https://github.com/Xzonn/PKHeX/releases/latest)。
-- 百度网盘：[20210130](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[20211001](https://github.com/Xzonn/PKHeX/releases/latest)。
+- 百度网盘：[20211001](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 说明
 PKHeX项目网站：<https://projectpokemon.org/home/files/file/1-pkhex/>。
@@ -16,8 +16,6 @@ PKHeX项目网站：<https://projectpokemon.org/home/files/file/1-pkhex/>。
 PKHeX项目GitHub地址：<https://github.com/kwsch/PKHeX>。
 
 由于汉化版使用的码表在官方游戏中是不存在的，因此原版的PKHeX读取汉化版的宝可梦名字会出现错误。好在PKHeX是基于GPL v3的开源软件，因此我修改了码表和日文宝可梦名字并编译，得到了这一版本。
-
-本版本的版本号为20210130，而PKHeX官方未发布此版本号，以此作为区别。
 
 由于技术限制，不建议将此版本用于修改除《白金／心金／魂银》汉化修正版之外的游戏存档。
 
