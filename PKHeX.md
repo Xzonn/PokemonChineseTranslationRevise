@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-10-02 11:42
+last_modified_at: 2022-02-06 20:17
 title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 ---
 {% include video.html aid="96227144" page="2" %}
@@ -7,8 +7,8 @@ title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 {% include figure.html src="a7b4b821e754b775055372bb0380bc0d.png" width="763" height="385" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" %}
 
 ## 发布链接
-- GitHub：[20211001](https://github.com/Xzonn/PKHeX/releases/latest)。
-- 百度网盘：[20211001](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[20220214](https://github.com/Xzonn/PKHeX/releases/latest)。
+- 百度网盘：[20220214](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 说明
 PKHeX项目网站：<https://projectpokemon.org/home/files/file/1-pkhex/>。
