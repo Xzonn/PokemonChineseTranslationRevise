@@ -24,14 +24,22 @@ jobs:
         bin/PokemonCTRText -c src/CharTable.txt -m src/Pt_Message.narc -i src/Pt.txt -o dist/Pt/Revised/data/msgdata/pl_msg.narc
         compress-archive dist/Pt/Revised/* dist/Pt/Patch-Pt.zip -force
         copy src/Pt.txt dist/Pt/Revised/Messages.txt -force
-    - name: HGSS
+    - name: HG
       continue-on-error: true
       run: |
-        rm dist/HGSS/Revised/Messages.txt -force
-        bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/HGSS/Revised/data/a/0/1/6
-        bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/HGSS/Revised/data/a/0/2/7
-        compress-archive dist/HGSS/Revised/* dist/HGSS/Patch-HGSS.zip -force
-        copy src/HGSS.txt dist/HGSS/Revised/Messages.txt -force
+        rm dist/HG/Revised/Messages.txt -force
+        bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/HG/Revised/data/a/0/1/6
+        bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/HG/Revised/data/a/0/2/7
+        compress-archive dist/HG/Revised/* dist/HG/Patch-HG.zip -force
+        copy src/HGSS.txt dist/HG/Revised/Messages.txt -force
+    - name: SS
+      continue-on-error: true
+      run: |
+        rm dist/SS/Revised/Messages.txt -force
+        bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/SS/Revised/data/a/0/1/6
+        bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/SS/Revised/data/a/0/2/7
+        compress-archive dist/SS/Revised/* dist/HGSS/Patch-SS.zip -force
+        copy src/HGSS.txt dist/SS/Revised/Messages.txt -force
     - name: Deploy to GitHub
       run: |
         cd dist/
