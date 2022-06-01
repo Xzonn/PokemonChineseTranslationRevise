@@ -4,15 +4,22 @@ on:
   push:
     branches: 
       - master
+      - test
   pull_request:
     branches: 
       - master
+      - test
 
 jobs:
   build:
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Commit Information
+      id: commit
+      run: |
+        echo "::set-output name=commit_id::commit-$(git rev-parse --short HEAD)"
+        echo "::set-output name=commit_message::$(git log -1 --pretty=%B)"
     - name: Prepare for Build
       run: |
         git clone --depth=1 --branch=dist --single-branch "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" dist
@@ -44,15 +51,17 @@ jobs:
       run: |
         cd dist/
         git add -A
-        git -c user.name=GitHub -c user.email=noreply@github.com commit -m "From GitHub Actions build ${{ github.run_number }}"
+        git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}" -m "Based on commit ${{ steps.commit.outputs.commit_id }}, from GitHub Actions build ${{ github.run_number }}"
         git push
         cd ../
     - name: GitHub Release
-      uses: svenstaro/upload-release-action@v2
+      uses: ncipollo/release-action@v1
+      continue-on-error: true
       with:
-        file: |
-          dist/Pt/Patch-Pt.zip
-          dist/HG/Patch-HG.zip
-          dist/SS/Patch-SS.zip
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
-        tag: ${{ github.ref }}
+        allowUpdates: true
+        artifacts: "dist/Pt/Patch-Pt.zip,dist/HG/Patch-HG.zip,dist/SS/Patch-SS.zip"
+        bodyFile: Readme.md
+        commit: dist
+        name: ${{ steps.commit.outputs.commit_message }}
+        tag: action-${{ github.run_number }}
+        token: ${{ secrets.GITHUB_TOKEN }}
