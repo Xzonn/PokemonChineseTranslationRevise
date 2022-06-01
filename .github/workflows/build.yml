@@ -38,7 +38,7 @@ jobs:
         rm dist/SS/Revised/Messages.txt -force
         bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/SS/Revised/data/a/0/1/6
         bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/SS/Revised/data/a/0/2/7
-        compress-archive dist/SS/Revised/* dist/HGSS/Patch-SS.zip -force
+        compress-archive dist/SS/Revised/* dist/SS/Patch-SS.zip -force
         copy src/HGSS.txt dist/SS/Revised/Messages.txt -force
     - name: Deploy to GitHub
       run: |
@@ -47,3 +47,12 @@ jobs:
         git -c user.name=GitHub -c user.email=noreply@github.com commit -m "From GitHub Actions build ${{ github.run_number }}"
         git push
         cd ../
+    - name: GitHub Release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        file: |
+          dist/Pt/Patch-Pt.zip
+          dist/HG/Patch-HG.zip
+          dist/SS/Patch-SS.zip
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        tag: ${{ github.ref }}
