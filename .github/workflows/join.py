@@ -14,7 +14,7 @@ GAME_NAMES = {
 for game_key in GAME_NAMES:
   with open(os.path.abspath(os.path.join("dist/src", game_key + ".txt")), "w", encoding="utf-8") as file:
     file.write("#3\n")
-    file_list = os.listdir(game_key + "/")
+    file_list = sorted(os.listdir(game_key + "/"))
     for file_name in file_list:
       file.write(str(int(file_name[:3])) + "\n")
       file_path = os.path.join(game_key + "/", file_name)

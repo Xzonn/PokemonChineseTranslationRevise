@@ -32,7 +32,12 @@ jobs:
     - name: Deploy to GitHub
       run: |
         pushd dist/ &>/dev/null
-        git add -A
-        git -c user.name=Xzonn -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
-        git push
+        if [ "$(git status --porcelain)" ]
+        then
+          git add -A
+          git -c user.name=Xzonn -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
+          git push
+        else
+          echo "Nothing changed."
+        fi
         popd &>/dev/null
