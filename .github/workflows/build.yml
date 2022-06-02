@@ -1,0 +1,38 @@
+name: Build
+
+on:
+  push:
+    branches: 
+      - gh-pages
+      - test
+  pull_request:
+    branches: 
+      - gh-pages
+      - test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Commit Information
+      id: commit
+      run: |
+        echo "::set-output name=commit_id::commit-$(git rev-parse --short HEAD)"
+        echo "::set-output name=commit_message::$(git log -1 --pretty=%B)"
+    - name: Prepare for Build
+      run: |
+        git clone --depth=1 --branch=master --single-branch "https://Xzonn:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/Xzonn/PCTRAutoBuild.git" dist
+    - name: Join markdown files to txt
+      run: |
+        python .github/workflows/join.py
+    - name: Deploy to GitHub
+      run: |
+        pushd dist/ &>/dev/null
+        git add -A
+        git -c user.name=Xzonn -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
+        git push
+        popd &>/dev/null
