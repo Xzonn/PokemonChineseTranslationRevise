@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-06-29 20:36
+last_modified_at: 2022-06-03 21:10
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -14,6 +14,8 @@ title: 《宝可梦》第四世代汉化修正
 汉化补丁1.2.0版本之后的标题图标由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
 《钻石／珍珠》的补丁已随1.3.0版本发布，且不会随《白金／心金／魂银》修正补丁更新而更新。
+
+《心金／魂银》1.5.0版本补丁整合了宝可计步器汉化文本及汉化补丁，其中文本由 **OS** 翻译，补丁由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmanemu.net/thread-18167.htm>。
 
 ## 工具发布
 发布链接：[GitHub：3.1.2版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.2) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
@@ -35,8 +37,8 @@ title: 《宝可梦》第四世代汉化修正
 
 总链接：
 
-- GitHub：[1.4.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.1)。
-- 百度网盘：[1.4.1](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
+- 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 本系列修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
 

@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2021-06-28 12:51
+last_modified_at: 2022-06-03 21:10
 title: 《宝可梦 心金／魂银》汉化修正补丁
 ---
 {% include video.html aid="886985239" %}
@@ -24,11 +24,12 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 ## 发布链接
 由于版权原因，本人仅发布修正补丁。请使用链接中提供的“汉化补丁应用工具”打补丁。发布链接：
 
-- GitHub：[1.4.1](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.4.1)。
-- 百度网盘：[1.4.1](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
+- 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 整合了宝可计步器汉化文本及汉化补丁（由 **OS** 翻译、**圈叉汉化组** 制作，**[发布链接](https://bbs.oldmanemu.net/thread-18167.htm)**）。
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
 - 对标题图标进行更改。
@@ -65,6 +66,11 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
   - 改用[自制的汉化补丁应用工具]({{ "/Tools.html" | relative_url }})。
   - 部分译名和控制符修正。
   - 本次更新未对《钻石／珍珠》进行修改。
+- 1.5.0（2022-06-03）：
+  - 导入部分《晶灿钻石／明亮珍珠》的译名。
+  - 整合了宝可计步器汉化文本及汉化补丁（感谢 **OS** 翻译、**圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmanemu.net/thread-18167.htm)**）。
+  - 版本号修改到初始菜单的神秘礼物中。
+  - 其他部分修正。
 
 ## 预览
 <table class="table">

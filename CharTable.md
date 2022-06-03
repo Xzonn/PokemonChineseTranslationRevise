@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2021-08-21 16:23
+last_modified_at: 2022-06-03 21:28
 title: 码表及控制符说明
 ---
 ## 更新日志
@@ -23,7 +23,7 @@ title: 码表及控制符说明
 
 由于本人发布的修正补丁使用了同一码表，因此可以互相连接交换。同时本人建议其他使用本工具者也使用本人的码表，以方便连接交换，缺失的字符可以在最后追加并提交Pull Request。
 
-**[> 修正补丁码表链接 <](https://github.com/Xzonn/PCTRAutoBuild/raw/dist/CharTable/Expanded.txt)**
+**[> 修正补丁码表链接 <](https://github.com/Xzonn/PCTRAutoBuild/raw/master/src/CharTable.txt)**
 
 ### 第五世代
 在第五世代中，游戏存储字符的编码为Unicode，因此在任意版本的游戏中字符与编码都是一一对应的，连接交换不会出现问题。因此，对第五世代来说“码表”仅用于标识字库中需要包含哪些字符。由于一些原因，本工具仅会读取Unicode编码为`0x4E00` ~ `0xE000`之间的字符，其他字符会被直接忽略。
