@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2022-06-03 21:10
+last_modified_at: 2023-02-11 16:11
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -18,7 +18,7 @@ title: 《宝可梦》第四世代汉化修正
 《心金／魂银》1.5.0版本补丁整合了宝可计步器汉化文本及汉化补丁，其中文本由 **OS** 翻译，补丁由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmanemu.net/thread-18167.htm>。
 
 ## 工具发布
-发布链接：[GitHub：3.1.2版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/3.1.2) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：3.2.0版本](https://github.com/Xzonn/PCTRTools/releases/tag/3.2.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
 
