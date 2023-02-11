@@ -23,6 +23,9 @@ jobs:
     - name: Prepare for Build
       run: |
         git clone --depth=1 --branch=dist --single-branch "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" dist
+    - name: Character Table
+      run: |
+        copy src/CharTable.txt dist/CharTable/Expanded.txt -force
     - name: Pt
       continue-on-error: true
       run: |
@@ -43,8 +46,8 @@ jobs:
       continue-on-error: true
       run: |
         rm dist/SS/Revised/Messages.txt -force
-        bin/PokemonCTRFont -c src/CharTable.txt -f src/HGSS_Font.narc -o dist/SS/Revised/data/a/0/1/6
-        bin/PokemonCTRText -c src/CharTable.txt -m src/HGSS_Message.narc -i src/HGSS.txt -o dist/SS/Revised/data/a/0/2/7
+        copy dist/HG/Revised/data/a/0/1/6 dist/SS/Revised/data/a/0/1/6
+        copy dist/HG/Revised/data/a/0/2/7 dist/SS/Revised/data/a/0/2/7
         compress-archive dist/SS/Revised/* dist/SS/Patch-SS.zip -force
         copy src/HGSS.txt dist/SS/Revised/Messages.txt -force
     - name: Deploy to GitHub
