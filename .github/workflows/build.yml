@@ -12,15 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: actions/setup-python@v2
       with:
         python-version: 3.8
     - name: Commit Information
       id: commit
       run: |
-        echo "::set-output name=commit_id::commit-$(git rev-parse --short HEAD)"
-        echo "::set-output name=commit_message::$(git log -1 --pretty=%B)"
+        echo "commit_id=commit-$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+        echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
     - name: Prepare for Build
       run: |
         git clone --depth=1 --branch=master --single-branch "https://Xzonn:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/Xzonn/PCTRAutoBuild.git" dist
