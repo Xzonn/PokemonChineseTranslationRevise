@@ -1,3 +1,4 @@
 {
-  "DP.005.0000": "データを　よめませんでした\nでんげんを　きって\nカードを　さしこみなおしてください"
+  "DP.005.0000": "データを　よめませんでした\nでんげんを　きって\nカードを　さしこみなおしてください",
+  "DP_addition.005.0001": "Error reading data.\n\nThe GBA Game Pak was removed.\nPlease turn off the power and retry."
 }
