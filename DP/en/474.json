@@ -1,0 +1,23 @@
+{
+  "DP.474.0000": "[0103,0000]",
+  "DP.474.0001": "ID: [0136,0000]",
+  "DP.474.0002": "When the group is ready:\nA Button: Proceed   B Button: Cancel",
+  "DP.474.0003": "Are these members OK?",
+  "DP.474.0004": "Cancel record mixing?",
+  "DP.474.0005": "Record mixing will be canceled.",
+  "DP.474.0006": "There is a member who can no\nlonger remain available.",
+  "DP.474.0007": "There are no members.\nRecord mixing will be canceled.",
+  "DP.474.0008": "Please wait.\n... ... B Button: Cancel",
+  "DP.474.0009": "A member is no longer available.\nRecord mixing will be canceled.",
+  "DP.474.0010": "Cancel record mixing?",
+  "DP.474.0011": "Record mixing will be canceled.",
+  "DP.474.0012": "Mixing records...\nDon’t turn off the power!",
+  "DP.474.0013": "Record mixing completed!\nReturning to the Union Room.",
+  "DP.474.0014": "If the leader quits, the group will\ndisband. Is that OK?",
+  "DP.474.0015": "[0103,0000] has left.",
+  "DP.474.0016": "[0101,0000] the leader has left.\nThe group will disband.",
+  "DP.474.0017": "Seeking record-mixing friends!",
+  "DP.474.0018": "Record mixing under way!",
+  "DP.474.0019": "Yes",
+  "DP.474.0020": "No"
+}

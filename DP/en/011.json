@@ -1,0 +1,8 @@
+{
+  "DP.011.0000": "A solicitation message arrived\nfrom a Pokémon Ranger.\n\nYou may receive a [FF00,0001]MANAPHY Egg[FF00,0000]\nfrom the Pokémon Ranger!\n\nAt the next screen, select\n[FF00,0001]Link with Pokémon Ranger[FF00,0000].\nPress the A Button to advance.",
+  "DP.011.0001": "A Mystery Gift signal has\nbeen located!\n\nYou may receive a Mystery Gift!\n\nAt the next screen, select\n[FF00,0001]Mystery Gift[FF00,0000].\nPress the A Button to advance.",
+  "DP.011.0002": "A solicitation message arrived\nfrom a Pokémon Ranger.\n\nHowever, to communicate with the\nPokémon Ranger, you must get\nfarther into your adventure and\nobtain a Pokédex first.\nPress the A Button to advance.",
+  "DP.011.0003": "A Mystery Gift signal has\nbeen located.\n\nHowever, to receive a Mystery\nGift, you must get farther into\nyour adventure and obtain a\nPokédex first.\nPress the A Button to advance.",
+  "DP.011.0004": "         ",
+  "DP.011.0005": "\n[FF00,0001]WARNING!\n[FF00,0000]There is already another saved game\nfile. If you start an adventure now,\nyou will not be able to save it.\nPress Up + SELECT + B Button on\nthe title screen if you want to erase\nthe current saved game file.\n\nA Button: Begin adventure\nB Button: Return to the menu"
+}

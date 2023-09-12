@@ -1,0 +1,23 @@
+{
+  "DP.330.0000": "Good morning. You must be\n[0103,0000].\\f\nI’ve received a gift for you.\nHere you go!\\f\n",
+  "DP.330.0001": "Good day. You must be\n[0103,0000].\\f\nI’ve received a gift for you.\nHere you go!\\f\n",
+  "DP.330.0002": "Good evening. You must be\n[0103,0000].\\f\nI’ve received a gift for you.\nHere you go!\\f\n",
+  "DP.330.0003": "I haven’t received any other gifts\nfor you.\\f\nWe look forward to your next visit.",
+  "DP.330.0004": "Your party is full, I’m afraid.\nI can’t give this to you yet.",
+  "DP.330.0005": "Another [0108,0000]? You already\nhave too many to accept any more.",
+  "DP.330.0006": "To accept this, you need to make\nroom for decoration goods.",
+  "DP.330.0007": "[0103,0000] received\n[FF00,0065][0100,0001][FF00,0000]!\\f\n",
+  "DP.330.0008": "[0103,0000] received\na [FF00,0001]Pokémon Egg[FF00,0000]!\\f\n",
+  "DP.330.0009": "[0103,0000] received\nthe gift [FF00,0001][0108,0001][FF00,0000]!\\f\n",
+  "DP.330.0010": "[0103,0000] received the\n[FF00,0001][011A,0001] Rules[FF00,0000].\\f\n",
+  "DP.330.0011": "[0103,0000] received\nthe gift [FF00,0001][010A,0001][FF00,0000]!\\f\n",
+  "DP.330.0012": "[0103,0000] received\nthe gift [FF00,0001][011F,0001][FF00,0000].\\f\n",
+  "DP.330.0013": "[0103,0000] received\nthe [FF00,0001]MANAPHY Egg[FF00,0000]!\\f\n",
+  "DP.330.0014": "[0103,0000] received\na [FF00,0001]Member’s Card[FF00,0000].\\f\n",
+  "DP.330.0015": "[0103,0000] received\n[FF00,0001]Oak’s Letter[FF00,0000]!\\f\n",
+  "DP.330.0016": "[0103,0000] received\nan [FF00,0001]Azure Flute[FF00,0000]!\\f\n",
+  "DP.330.0017": "We look forward to your next visit.",
+  "DP.330.0018": "[0103,0000] received the Pokétch\napp [FF00,0001][0118,0001][FF00,0000]!\\f\n",
+  "DP.330.0019": "...Uh-oh. [0103,0000], you haven’t\nobtained a Pokétch yet.\\f\nI can’t give you this app if you\ndon’t have a Pokétch.\\f\n",
+  "DP.330.0020": "[0103,0000] was awarded\nthe [FF00,0001][0127,0001][FF00,0000]!\\f\nThe [0127,0001]\nwas given to [0101,0002].\\f\n"
+}

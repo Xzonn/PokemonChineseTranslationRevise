@@ -1,0 +1,22 @@
+{
+  "DP.508.0000": "A single Berry will grow into a plant\nthat makes several Berries.\\f\nBy planting one, there will be more\nand more Berries in the world.\\f\nI hope you will help us spread more\nBerries everywhere!\\f\n",
+  "DP.508.0001": "Please come by again tomorrow.\nI’ll pick a different Berry for you.\\f\nPlease plant that Berry in soft,\nearthy soil!",
+  "DP.508.0002": "Trainer, please water Berries using\nthis Sprayduck watering can.\\f\n",
+  "DP.508.0003": "Use that Sprayduck to water the soil\nwhere you’ve planted Berries.\\f\nYou should also water Berry plants\nwhile they are growing.",
+  "DP.508.0004": "Hello!\\f\nWould you like to exchange your\nBerries for some Accessories?",
+  "DP.508.0005": "Thank you so much for trading us so\nmany Berries!",
+  "DP.508.0006": "Which Accessory would you like?",
+  "DP.508.0007": "Will you exchange [0134,0001] [0108,0000]\nfor the [011F,0002]?",
+  "DP.508.0008": "Thank you!",
+  "DP.508.0009": "You don’t have enough Berries.",
+  "DP.508.0010": "Oh, you can’t carry any more\nthan that.",
+  "DP.508.0011": "Please come again!",
+  "DP.508.0012": "You got the [011F,0002] in return\nfor [0134,0001] [0108,0000].",
+  "DP.508.0013": "Wow! I traded away every single\nAccessory I had!",
+  "DP.508.0014": "YES",
+  "DP.508.0015": "NO",
+  "DP.508.0016": "[0108,0000]",
+  "DP.508.0017": "Needed: [0134,0001] ",
+  "DP.508.0018": "In Bag: [0134,0002]",
+  "DP.508.0019": "EXIT"
+}

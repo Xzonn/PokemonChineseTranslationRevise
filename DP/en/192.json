@@ -1,0 +1,23 @@
+{
+  "DP.192.0000": "JUMP",
+  "DP.192.0001": "UP",
+  "DP.192.0002": "FRONT",
+  "DP.192.0003": "LEFT",
+  "DP.192.0004": "RIGHT",
+  "DP.192.0005": "Excellent!",
+  "DP.192.0006": "Good!",
+  "DP.192.0007": "Miss!",
+  "DP.192.0008": "The Dance Competition is ready to\nget under way!\\f\nCan the backup dancers flawlessly\nfollow the main dancer’s steps?!\\f\nOK! Everybody, let’s dance!\nStart the music!\\f\n",
+  "DP.192.0009": "[FF00,0002]Perform [0132,0000] steps as the main dancer![FF00,0000]",
+  "DP.192.0010": "[FF00,0001]Copy the Pokémon before you![FF00,0000]",
+  "DP.192.0011": "                                ",
+  "DP.192.0012": "                                                                                                                                                                                                                                                                 ",
+  "DP.192.0013": "                            ",
+  "DP.192.0014": "                ",
+  "DP.192.0015": "  ",
+  "DP.192.0016": "   ",
+  "DP.192.0017": "        ",
+  "DP.192.0018": "That’s it for the Dance Competition!\\f\nLeading in points right now is\n[0103,0000]!\\f\nCan anyone turn things around in the\nActing Competition?\\f\n",
+  "DP.192.0019": "Welcome! Thanks for joining our\npractice Contest!\\f\nFeel free to practice all you want\nand train for the big show!\\f\nI’ll be taking part to practice up\non being an MC!\\f\n",
+  "DP.192.0020": "Looks like everyone’s here, so let’s\nget on with our dance practice!\\f\n[0101,0000], you need to dance just\nlike the main dancer.\\f\nAfter dancing twice, the main dancer\nswitches with a backup dancer.\\f\nYou get to be the main dancer last.\nDo a dance that no one can imitate!\\f\nOK! Start it up!\\f\n"
+}

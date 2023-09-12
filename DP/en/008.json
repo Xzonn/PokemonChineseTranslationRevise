@@ -1,0 +1,19 @@
+{
+  "DP.008.0000": "EDIT",
+  "DP.008.0001": "QUIT",
+  "DP.008.0002": "SET",
+  "DP.008.0003": "REMOVE",
+  "DP.008.0004": "SHIFT",
+  "DP.008.0005": "CONFIRM",
+  "DP.008.0006": "CANCEL",
+  "DP.008.0007": "Choose a capsule.",
+  "DP.008.0008": "What would you like to do?",
+  "DP.008.0009": "The capsule was removed.",
+  "DP.008.0010": "Switch with which capsule?",
+  "DP.008.0011": "The capsules were switched.",
+  "DP.008.0012": "Finished editing the capsule.",
+  "DP.008.0013": "Confirming...",
+  "DP.008.0014": "Quit without changing the capsule\ndesign?",
+  "DP.008.0015": "There’s no more room!",
+  "DP.008.0016": "There are no Seals left."
+}

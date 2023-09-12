@@ -1,0 +1,11 @@
+{
+  "DP.099.0000": "Question: 3 plus 5 plus 7 is?\nAnswer: ←2 ↑16 →15",
+  "DP.099.0001": "Correct!\nCongratulations!",
+  "DP.099.0002": "Please answer the quiz!",
+  "DP.099.0003": "Hey, there!\nHow’s it going, Trainer?\\f\nYou being here tells me you’re going\nto challenge the Gym Leader.\\f\nWell... I hate to break it to\nyou, but that’s impossible.\\f\nYou’re questioning why, and the\nanswer is: she’s not here.\\f\nCome back another time, OK?\nI’ll be right here waiting.",
+  "DP.099.0004": "So, where’s the Gym Leader, you ask.\\f\nI can’t precisely say, but I have a\nhunch that she’ll return one day...\\f\nBut only after you visit other\nplaces, I think.\\f\nHey, I’m sorry I’m not useful to you.\nMy advice giving needs work...",
+  "DP.099.0005": "Hey, there!\nHow’s it going, Champ-to-be?\\f\nThe Gym Leader here is a user of\nGhost-type Pokémon.\\f\nBeware, Normal-type moves have no\neffect at all on ghosts!\\f\nIt’s as if they weren’t there!\nBut you’ll have to see for yourself.\\f\nGo get ’em, challenger!\nI believe in you!",
+  "DP.099.0006": "Oh! [0103,0000]!\nYou’ve beaten the Gym Leader!\\f\nThere seems to be no end to how\ntough you are getting!\\f\nAt least that’s how I see it!\\f\n...You do realize I say that to\neveryone, right?",
+  "DP.099.0007": "Hearthome City Pokémon Gym\nLeader: Fantina\\f\nCertified Trainers:\n[0103,0001]",
+  "DP.099.0008": "Hearthome City Pokémon Gym\nLeader: Fantina\\f\nCertified Trainers:\n[0103,0000]\\r\n[0103,0001]"
+}

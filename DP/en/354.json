@@ -1,0 +1,14 @@
+{
+  "DP.354.0000": "MAILBOX",
+  "DP.354.0001": "READ",
+  "DP.354.0002": "ERASE",
+  "DP.354.0003": "GIVE",
+  "DP.354.0004": "CANCEL",
+  "DP.354.0005": "     ",
+  "DP.354.0006": "What would you like to do with\n[0103,0000]’s Mail?",
+  "DP.354.0007": "The message will be lost.\nIs that OK?",
+  "DP.354.0008": "The message was erased.\\f\nLet a Pokémon hold this Mail?",
+  "DP.354.0009": "The Mail’s message was erased,\nand it was put in the Bag.",
+  "DP.354.0010": "Your Bag is full...\nThe Mail was discarded.",
+  "DP.354.0011": "Stopped making the Pokémon\nhold Mail."
+}

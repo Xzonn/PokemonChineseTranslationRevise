@@ -1,0 +1,20 @@
+{
+  "DP.566.0000": "You’re holding a Flag!\nYou can’t deal with this now!\\f\nOr, would you like to throw away\nthe Flag you’re holding?",
+  "DP.566.0001": "                               ",
+  "DP.566.0002": "Discarded the Flag.",
+  "DP.566.0003": "                 ",
+  "DP.566.0004": "                 ",
+  "DP.566.0005": "Something is buried in front of you.\nBut you’re holding a Flag!",
+  "DP.566.0006": "You don’t have the time to stop\nand chat!",
+  "DP.566.0007": "The obtained Flag was registered\non the PC!",
+  "DP.566.0008": "You’ve obtained the Flag\nfrom [0101,0000]’s Base!",
+  "DP.566.0009": "You already have a Flag!",
+  "DP.566.0010": "[0101,0000] took away your Flag!",
+  "DP.566.0011": "[0101,0000] took back the Flag!",
+  "DP.566.0012": "Took a Flag from [0101,0000]!",
+  "DP.566.0013": "Took back the Flag!",
+  "DP.566.0014": "...\\f\nOne Flag has been registered,\nso your Flag became a Bronze Flag!\\f\nYou may now display up to a dozen\ndecoration goods.\\f\nYou may also put away one Big\nBoulder.",
+  "DP.566.0015": "...\\f\nThree Flags have been registered,\nso your Flag became a Silver Flag!\\f\nYou may now display up to 15\ndecoration goods.\\f\nYou may also put away five Big\nBoulders.",
+  "DP.566.0016": "...\\f\nTen Flags have been registered,\nso your Flag became a Gold Flag!\\f\nYou may now put away ten Big\nBoulders.\\f\nYou may now also use the Radar from\nyour PC.",
+  "DP.566.0017": "...\\f\nFifty Flags have been registered,\nso your Flag became a Platinum Flag!\\f\nYou may now put away any number\nof Big Boulders."
+}

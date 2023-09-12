@@ -1,0 +1,21 @@
+{
+  "DP.470.0000": "Your quest for power has brought\nyou here...\\f\n...Very well.\\f\nLet me reward your passion with some\nabsolutely astounding moves.\\f\nThey’re the ultimate moves!\nShall I teach them to your Pokémon?",
+  "DP.470.0001": "The ultimate moves!\nShall I teach them to your Pokémon?",
+  "DP.470.0002": "To which Pokémon should I teach\na move?\\f\n",
+  "DP.470.0003": "Hmm... Well, that is fine, as well.\nVisit if you have a change of heart.",
+  "DP.470.0004": "To which Pokémon should I teach\na move?",
+  "DP.470.0005": "That Pokémon can’t learn a move!\nRead the poster! Keh!",
+  "DP.470.0006": "Teach a move to an Egg?\nImpossible even for me! Keh!",
+  "DP.470.0007": "You’ve not bonded strongly enough\nwith your Pokémon! Keh!",
+  "DP.470.0008": "That Pokémon already knows the move\nI’ve offered to teach! Keh!",
+  "DP.470.0009": "I should teach Blast Burn to\nyour [0100,0000]?",
+  "DP.470.0010": "I should teach Hydro Cannon to\nyour [0100,0000]?",
+  "DP.470.0011": "I should teach Frenzy Plant to\nyour [0100,0000]?",
+  "DP.470.0012": "[0100,0000] learned\n[0106,0001]!",
+  "DP.470.0013": "[0100,0000] is trying to learn\n[0106,0001].\\f\nBut [0100,0000] can’t learn more\nthan four moves.\\f\nDelete an older move to make\nroom for [0106,0001]?",
+  "DP.470.0014": "Is it OK to forget the\nmove [0106,0001]?",
+  "DP.470.0015": "1, 2, and... ... ... Poof!\\f\n[0100,0000] forgot how to\nuse [0106,0001].\\f\nAnd...\n[0100,0000] learned [0106,0002].",
+  "DP.470.0016": "Stop trying to teach [0106,0001]?",
+  "DP.470.0017": "[0100,0000] did not learn\nthe move [0106,0001].",
+  "DP.470.0018": "To the Pokémon listed here,\nthe ultimate moves may be taught!\\f\nThe blazing fire Pokémon\n[0203,0007]CHARIZARD TYPHLOSION\\r\n[0203,0007]BLAZIKEN INFERNAPE\\f\nThe restless water Pokémon\n[0203,0007]BLASTOISE FERALIGATR\\r\n[0203,0007]SWAMPERT EMPOLEON\\f\nThe quiet grass Pokémon\n[0203,0007]VENUSAUR MEGANIUM\\r\n[0203,0007]SCEPTILE TORTERRA"
+}

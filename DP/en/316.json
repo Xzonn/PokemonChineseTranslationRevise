@@ -1,0 +1,17 @@
+{
+  "DP.316.0000": "Welcome to Geonet, the high-tech\nglobe!\\f\n",
+  "DP.316.0001": "What would you like to do?",
+  "DP.316.0002": "Here, you may register the location\nof where you live.\\f\nThat information may be provided to\nfriends and strangers through\\f\nDS Wireless Communications or over\nNintendo WFC.\\f\nWould you like to register your\nhome’s location area?",
+  "DP.316.0003": "Please select the location in which\nyou live.",
+  "DP.316.0004": "Please select the area in which\nyou live.",
+  "DP.316.0005": "Once registered, you may not change\nyour registered location data.\\f\nShould this location be registered\nas where you live?",
+  "DP.316.0006": "[0124,0000]",
+  "DP.316.0007": "[0125,0000]",
+  "DP.316.0008": "YES",
+  "DP.316.0009": "NO",
+  "DP.316.0010": "SEE LIST",
+  "DP.316.0011": "REGISTER",
+  "DP.316.0012": "EXIT",
+  "DP.316.0013": "Your registered location:\n[0124,0000]\n[0125,0001]",
+  "DP.316.0014": "To display registered locations, line up\nthe cursor, and press the X Button."
+}

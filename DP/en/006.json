@@ -1,0 +1,4 @@
+{
+  "DP.006.0000": "The data could not be written.\n\nPlease turn off the power, then\nremove and reinsert the DS Game\nCard.",
+  "DP.006.0001": "Error saving data.\n\nThe backup memory has failed.\nThe game may be played, but\nit is impossible to save.\n\nPlease turn off the power."
+}

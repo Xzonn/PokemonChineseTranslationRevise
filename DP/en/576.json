@@ -1,0 +1,18 @@
+{
+  "DP.576.0000": "Enter the Battle Room Number.\n...B Button: Cancel",
+  "DP.576.0001": "Downloading Rank [0133,0001],\nRoom [0134,0000] data...",
+  "DP.576.0002": "You may not challenge that Battle\nRoom until the next update.\\f\n",
+  "DP.576.0003": "Data has been downloaded.\\f\n",
+  "DP.576.0004": "Cancel your challenge?",
+  "DP.576.0005": "Enter the Rank of the Battle Room\nto check your records.",
+  "DP.576.0006": "Enter the Battle Room Number.",
+  "DP.576.0007": "Uploading your records...",
+  "DP.576.0008": "Data has been uploaded.\\f\n",
+  "DP.576.0009": "Cancel downloading?",
+  "DP.576.0010": "Nintendo Wi-Fi Connection",
+  "DP.576.0011": "The Wi-Fi Battle Tower is currently\nundergoing maintenance.\\f\nPlease try again later.\\f\n",
+  "DP.576.0012": "The Wi-Fi Battle Tower is very\ncrowded.\\f\nPlease try again later.\\f\n",
+  "DP.576.0013": "Unable to connect to the Wi-Fi\nBattle Tower.\\f\nReturning to the reception counter.\\f\n",
+  "DP.576.0014": "You were disconnected from\nthe Wi-Fi Battle Tower.\\f\nReturning to the reception counter.\\f\n",
+  "DP.576.0015": "That number cannot be specified for\nthe Wi-Fi Battle Tower.\\f\n"
+}

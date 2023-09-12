@@ -1,0 +1,18 @@
+{
+  "DP.361.0000": "Excuse me, do you have a moment?\\f\nCan you describe your feelings when\nyou’re about to begin a battle?\\f\nI also want to know how you feel\nwhen you win, lose, or become\\r\nnumber one.\\f\n",
+  "DP.361.0001": "OK, how do you feel when\nyou’re about to begin a match?\\f\n",
+  "DP.361.0002": "How do you feel when you win\na match?\\f\n",
+  "DP.361.0003": "How do you feel when you lose a match?\\f\n",
+  "DP.361.0004": "Last question: describe how you’d feel\nif you became number one.\\f\n",
+  "DP.361.0005": "Hunh? You changed your mind?\nI guess you’re fickle.",
+  "DP.361.0006": "Thank you!\nCan you answer another question?",
+  "DP.361.0007": "Gotcha! Thanks!",
+  "DP.361.0008": "Gotcha! Thanks!\nOK, [011C,0000]...",
+  "DP.361.0009": "Before battle",
+  "DP.361.0010": "Upon winning",
+  "DP.361.0011": "Upon losing",
+  "DP.361.0012": "Becoming No. 1",
+  "DP.361.0013": "Not saying",
+  "DP.361.0014": "Yes",
+  "DP.361.0015": "No"
+}

@@ -1,0 +1,16 @@
+{
+  "DP.366.0000": "[0101,0000] has entered.",
+  "DP.366.0001": "Would you like to stop drawing?",
+  "DP.366.0002": "[0101,0000] has left.",
+  "DP.366.0003": "The leader, [0101,0000], has left.\nThis group will be disbanded.",
+  "DP.366.0004": "If the leader leaves, the group will\ndisband. Is that OK?",
+  "DP.366.0005": "There are no members.\nThe group will be disbanded.",
+  "DP.366.0006": "The drawing session was ended.",
+  "DP.366.0007": "QUIT",
+  "DP.366.0008": "[0101,0000]",
+  "DP.366.0009": "Write your autograph!",
+  "DP.366.0010": "Is this OK?",
+  "DP.366.0011": "Would you like to\nredo your autograph?",
+  "DP.366.0012": "DONE",
+  "DP.366.0013": "Joined a drawing session!"
+}
