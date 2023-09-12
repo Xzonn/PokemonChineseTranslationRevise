@@ -14,10 +14,10 @@ jobs:
       - name: Commit Information
         id: commit
         run: |
-          echo "commit_message=$(git log -1 --pretty=%B)" >> $GITHUB_OUTPUT
-          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((Pt)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((Pt)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
       - name: Diamond
         if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true
