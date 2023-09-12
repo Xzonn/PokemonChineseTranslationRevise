@@ -15,7 +15,11 @@ jobs:
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%B)" >> $GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((Pt)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> GITHUB_OUTPUT
       - name: Diamond
+        if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true
         run: |
           New-Item -ItemType "Directory" -Path "out/D/" -Force
@@ -26,6 +30,7 @@ jobs:
           Remove-Item -Path "out/D/Messages.txt" -Force
           Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force
       - name: Pearl
+        if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true
         run: |
           New-Item -ItemType "Directory" -Path "out/P/" -Force
@@ -35,6 +40,7 @@ jobs:
           Copy-Item -Path "out/D/data/msgdata/msg.narc" -Destination "out/P/data/msgdata/msg.narc"
           Compress-Archive -Path "out/P/*" -DestinationPath "out/Patch-P.zip" -Force
       - name: Platinum
+        if: steps.commit.outputs.changed_pt != ''
         continue-on-error: true
         run: |
           New-Item -ItemType "Directory" -Path "out/Pt" -Force
@@ -44,6 +50,7 @@ jobs:
           Remove-Item -Path "out/Pt/Messages.txt" -Force
           Compress-Archive -Path "out/Pt/*" -DestinationPath "out/Patch-Pt.zip" -Force
       - name: Heart Gold
+        if: steps.commit.outputs.changed_hgss != ''
         continue-on-error: true
         run: |
           New-Item -ItemType "Directory" -Path "out/HG/" -Force
@@ -54,6 +61,7 @@ jobs:
           Remove-Item -Path "out/HG/Messages.txt" -Force
           Compress-Archive -Path "out/HG/*" -DestinationPath "out/Patch-HG.zip" -Force
       - name: Soul Silver
+        if: steps.commit.outputs.changed_hgss != ''
         continue-on-error: true
         run: |
           New-Item -ItemType "Directory" -Path "out/SS/" -Force
@@ -68,9 +76,11 @@ jobs:
           allowUpdates: true
           artifacts: "out/Patch-*.zip"
           body: |
-            [![Convert csv to json](https://github.com/Xzonn/PCTRAutoBuild/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/PCTRAutoBuild/actions/workflows/convert.yml)
+            [![Create txt](https://github.com/Xzonn/PCTRAutoBuild/actions/workflows/convert.yml/badge.svg)](https://github.com/Xzonn/PCTRAutoBuild/actions/workflows/convert.yml)
 
             本页面下方的链接为自动构建并发布的开发版本补丁。此版本补丁可能存在较多问题，仅供测试使用。
-          name: ${{ steps.commit.outputs.commit_message }}
+
+            请访问 [此处](https://github.com/Xzonn/PCTRTools/releases/latest/) 获取补丁应用工具。
+          name: "${{ steps.commit.outputs.commit_message }}"
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}
