@@ -18,6 +18,10 @@ jobs:
       updated: ${{ steps.updated.outputs.updated }}
     steps:
       - uses: actions/checkout@v4
+      - name: Commit Information
+        id: commit
+        run: |
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v4
         with:
           ref: master
@@ -46,7 +50,7 @@ jobs:
         run: |
           pushd master
           git add -A
-          git -c user.name=GitHub -c user.email=noreply@github.com commit -m "Update translation"
+          git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
           git push
 
   build:
