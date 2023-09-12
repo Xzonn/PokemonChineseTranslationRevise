@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: master
-          fetch-depth: 1
+          fetch-depth: 2
       - name: Commit Information
         id: commit
         run: |
