@@ -80,7 +80,7 @@ jobs:
 
             本页面下方的链接为自动构建并发布的开发版本补丁。此版本补丁可能存在较多问题，仅供测试使用。
 
-            请访问 [此处](https://github.com/Xzonn/PCTRTools/releases/latest/) 获取补丁应用工具。
+            请访问 [此处](https://github.com/Xzonn/NitroPatcher/releases/latest/) 获取补丁应用工具。
           name: "${{ steps.commit.outputs.commit_message }}"
           tag: publish
           token: ${{ secrets.GITHUB_TOKEN }}
