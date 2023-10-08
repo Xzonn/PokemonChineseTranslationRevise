@@ -43,24 +43,34 @@ jobs:
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
-          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((Pt)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((Pt)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+      - name: Configure dotnet script
+        run: |
+          Try
+          {
+            if (dotnet-script -h) {}
+          }
+          Catch
+          {
+            dotnet tool install -g dotnet-script
+          }
       - name: Diamond and Pearl
         if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true
         run: |
-          ./DP.ps1
+          scripts/DP.ps1
       - name: Platinum
         if: steps.commit.outputs.changed_pt != ''
         continue-on-error: true
         run: |
-          ./Pt.ps1
+          scripts/Pt.ps1
       - name: Heart Gold and Soul Silver
         if: steps.commit.outputs.changed_hgss != ''
         continue-on-error: true
         run: |
-          ./HGSS.ps1
+          scripts/HGSS.ps1
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:
