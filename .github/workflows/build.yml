@@ -11,6 +11,34 @@ jobs:
         with:
           ref: master
           fetch-depth: 2
+      - uses: actions/checkout@v4
+        with:
+          repository: Xzonn/PCTRTools
+          ref: master
+          fetch-depth: 1
+          path: tools
+          submodules: recursive
+      - name: Get tools commit id
+        id: get-tools-commit-id
+        run: |
+          Push-Location tools/
+          Write-Output "id=$(git rev-parse HEAD)" >> $env:GITHUB_OUTPUT
+          Pop-Location
+      - name: Cache tools
+        id: cache-tools
+        uses: actions/cache@v3
+        with:
+          path: tools/PCTRTools/bin/Release/
+          key: tools-${{ steps.get-tools-commit-id.outputs.id }}
+      - uses: microsoft/setup-msbuild@v1
+        if: ${{ steps.cache-tools.outputs.cache-hit != 'true' }}
+      - name: Build tools
+        if: ${{ steps.cache-tools.outputs.cache-hit != 'true' }}
+        run: |
+          Push-Location tools/
+          nuget restore
+          msbuild /p:Configuration=Release /p:TargetFramework=net48 /verbosity:minimal
+          Pop-Location
       - name: Commit Information
         id: commit
         run: |
@@ -18,58 +46,21 @@ jobs:
           echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
           echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((Pt)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
           echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern 'files[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-      - name: Diamond
+      - name: Diamond and Pearl
         if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true
         run: |
-          New-Item -ItemType "Directory" -Path "out/D/" -Force
-          Copy-Item -Path "files/DP/*" -Destination "out/D/" -Recurse -Force
-          Copy-Item -Path "files/D/*" -Destination "out/D/" -Recurse -Force
-          bin/PokemonCTRFont.exe -c "files/CharTable.txt" -f "files/DP/data/graphic/font.narc" -o "out/D/data/graphic/font.narc"
-          bin/PokemonCTRText.exe -c "files/CharTable.txt" -m "files/DP/data/msgdata/msg.narc" -i "files/DP/Messages.txt" -o "out/D/data/msgdata/msg.narc"
-          Remove-Item -Path "out/D/Messages.txt" -Force
-          Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force
-      - name: Pearl
-        if: steps.commit.outputs.changed_dp != ''
-        continue-on-error: true
-        run: |
-          New-Item -ItemType "Directory" -Path "out/P/" -Force
-          Copy-Item -Path "files/DP/*" -Destination "out/P/" -Recurse -Force
-          Copy-Item -Path "files/P/*" -Destination "out/P/" -Recurse -Force
-          Copy-Item -Path "out/D/data/graphic/font.narc" -Destination "out/P/data/graphic/font.narc"
-          Copy-Item -Path "out/D/data/msgdata/msg.narc" -Destination "out/P/data/msgdata/msg.narc"
-          Compress-Archive -Path "out/P/*" -DestinationPath "out/Patch-P.zip" -Force
+          ./DP.ps1
       - name: Platinum
         if: steps.commit.outputs.changed_pt != ''
         continue-on-error: true
         run: |
-          New-Item -ItemType "Directory" -Path "out/Pt" -Force
-          Copy-Item -Path "files/Pt/*" -Destination "out/Pt/" -Recurse -Force
-          bin/PokemonCTRFont.exe -c "files/CharTable.txt" -f "files/Pt/data/graphic/pl_font.narc" -o "out/Pt/data/graphic/pl_font.narc"
-          bin/PokemonCTRText.exe -c "files/CharTable.txt" -m "files/Pt/data/msgdata/pl_msg.narc" -i "files/Pt/Messages.txt" -o "out/Pt/data/msgdata/pl_msg.narc"
-          Remove-Item -Path "out/Pt/Messages.txt" -Force
-          Compress-Archive -Path "out/Pt/*" -DestinationPath "out/Patch-Pt.zip" -Force
-      - name: Heart Gold
+          ./Pt.ps1
+      - name: Heart Gold and Soul Silver
         if: steps.commit.outputs.changed_hgss != ''
         continue-on-error: true
         run: |
-          New-Item -ItemType "Directory" -Path "out/HG/" -Force
-          Copy-Item -Path "files/HGSS/*" -Destination "out/HG/" -Recurse -Force
-          Copy-Item -Path "files/HG/*" -Destination "out/HG/" -Recurse -Force
-          bin/PokemonCTRFont.exe -c "files/CharTable.txt" -f "files/HGSS/data/a/0/1/6" -o "out/HG/data/a/0/1/6"
-          bin/PokemonCTRText.exe -c "files/CharTable.txt" -m "files/HGSS/data/a/0/2/7" -i "files/HGSS/Messages.txt" -o "out/HG/data/a/0/2/7"
-          Remove-Item -Path "out/HG/Messages.txt" -Force
-          Compress-Archive -Path "out/HG/*" -DestinationPath "out/Patch-HG.zip" -Force
-      - name: Soul Silver
-        if: steps.commit.outputs.changed_hgss != ''
-        continue-on-error: true
-        run: |
-          New-Item -ItemType "Directory" -Path "out/SS/" -Force
-          Copy-Item -Path "files/HGSS/*" -Destination "out/SS/" -Recurse -Force
-          Copy-Item -Path "files/SS/*" -Destination "out/SS/" -Recurse -Force
-          Copy-Item -Path "out/HG/data/a/0/1/6" -Destination "out/SS/data/a/0/1/6"
-          Copy-Item -Path "out/HG/data/a/0/2/7" -Destination "out/SS/data/a/0/2/7"
-          Compress-Archive -Path "out/SS/*" -DestinationPath "out/Patch-SS.zip" -Force
+          ./HGSS.ps1
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:

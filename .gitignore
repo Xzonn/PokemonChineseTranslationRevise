@@ -1,4 +1,7 @@
 out/
-*.ps1
-*.py
 *.bak
+*.nds
+*.py
+*.zip
+
+tools
