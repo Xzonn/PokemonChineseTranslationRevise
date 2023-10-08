@@ -1,7 +1,7 @@
 ---
 is_patch: true
-last_modified_at: 2021-06-21 22:42
-title: 《口袋妖怪 钻石／珍珠》汉化修正补丁
+last_modified_at: 2023-10-08 20:02
+title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
@@ -16,29 +16,21 @@ title: 《口袋妖怪 钻石／珍珠》汉化修正补丁
 </div>
 
 ## 发布链接
-由于版权原因，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
 - GitHub：[0.9.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.3.0)。
 - 百度网盘：[0.9.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
-由于YYJoy汉化组在汉化时采用了一些特殊的技术手段来扩充字库，而本人制作的工具与之不兼容，故未修改字库，这意味着《钻石／珍珠》与本人修正的《白金／心金／魂银》字库不通用，直接交换宝可梦会出现乱码；也不可使用本人修改过的PKHeX。
+由于YYJoy汉化组在汉化时采用了一些特殊的技术手段来扩充字库，而本人制作的工具与之不兼容，故未修改字库，这意味着0.9.0版本的《钻石／珍珠》没有修改标题图标；与本人修正的《白金／心金／魂银》字库不通用，直接交换宝可梦会出现乱码；也不可使用本人修改过的PKHeX。
 
 另外，文本的导入使用了简单粗暴的“复制粘贴”法，如有疏漏还请理解。
 
-本补丁不会随《白金／心金／魂银》修正补丁更新而更新。
+本补丁预计于1.6.0及以后的版本同步更新。
 
-## 文本
-<div class="row">
-<form class="xz-pokemon-text-form col-sm-6 col-md-offset-3">
-<div class="input-group">
-<input type="number" min="000" max="609" class="form-control" placeholder="编号，000 - 609">
-<span class="input-group-btn">
-<button class="btn btn-primary" type="submit">前往</button>
-</span>
-</div>
-</form>
-</div>
+## 更新日志
+- 0.9.0（2020-04-22）：
+  - 最初发布版本。
 
 ## 致谢
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。

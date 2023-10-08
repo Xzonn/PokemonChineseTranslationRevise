@@ -1,9 +1,9 @@
 ---
-last_modified_at: 2023-02-11 16:10
+last_modified_at: 2023-10-08 19:59
 title: 汉化工具说明
 ---
 ## 发布链接
-- GitHub：[3.2.0](https://github.com/Xzonn/PCTRTools/releases/tag/3.2.0)。
+- GitHub：[3.2.1](https://github.com/Xzonn/PCTRTools/releases/tag/3.2.1)。
 
 ## 更新日志
 - 1.0.1（2020-02-22）：
@@ -27,6 +27,8 @@ title: 汉化工具说明
 - 3.1.2（2021-06-29）：
   - 修改`ndstool.exe`。
 - 3.2.0（2023-02-11）：
+  - 部分细节修正。
+- 3.2.1（2023-09-11）：
   - 部分细节修正。
 
 ## 总体说明
@@ -113,6 +115,8 @@ PokemonCTRText.exe -c CharTable/Expanded.txt -m DP/Original/msgdata/msg.narc -i 
 
 本工具先读取日文字库，然后对字库包含的字符数量扩容到所需的大小，最后将中文字符用上述字体重新生成。字号大小为12px（正常大小，中易宋体或MS Gothic）或9px（小号字体，Zfull-GB，仅第五世代使用）。在上述字体中均包含了对应字号下的点阵字库，因此无需抗锯齿即可取得较好的显示效果。
 
+由于非汉化版游戏并没有对中文字库进行额外处理，因此汉化版均对arm9.bin进行了修改，以适配大字库。修改方式可参考[本文](https://xzonn.top/posts/Pokemon-DP-Chinese-Localization-Based-on-Pret-Project.html)。
+
 ### 使用方法
 #### 从narc文件根据码表创建新的narc文件
 示例：
@@ -129,6 +133,8 @@ PokemonCTRFont.exe -c CharTable/Expanded.txt -f DP/Original/graphic/font.narc -o
 ## 汉化补丁应用工具
 为了解决之前很多人提到的“打补丁打不上”“校验值不通过”的问题，我自行编写了汉化补丁应用工具，可以搭配[自动构建项目](https://github.com/Xzonn/PCTRAutoBuild)一起使用。
 
-原理很简单，工具里面内嵌了[ndstool](https://github.com/devkitPro/ndstool)（作者：Rafael Vuijk，Dave Murphy，Alexei Karpenko；按GPL-3.0授权），使用的时候把输入的ROM拆包，然后把补丁里面的文件覆盖掉原来的文件，再打包回去。
+目前该工具已重写，改名为[“NitroPatcher”](https://github.com/Xzonn/NitroPatcher)。由于采用的是新的打包方式，因此不再需要使用`ndstool`，但与旧版本工具生成的ROM校验码可能不一致。对于1.5.0版本及以前版本的补丁，请使用旧版本工具。
+
+旧版本工具里面内嵌了[ndstool](https://github.com/devkitPro/ndstool)（作者：Rafael Vuijk，Dave Murphy，Alexei Karpenko；按GPL-3.0授权），使用的时候把输入的ROM拆包，然后把补丁里面的文件覆盖掉原来的文件，再打包回去。
 
 本工具为图形化界面，如有使用上的问题请及时反馈。

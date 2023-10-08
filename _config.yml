@@ -3,9 +3,6 @@ defaults:
   - values:
       layout: "default"
 exclude:
-  - BW_2/
-  - Codes/
-  - Files/
   - Debug/
   - node_modules/
   - vendor/
@@ -27,4 +24,3 @@ plugins:
   - jekyll-sass-converter
 timezone: Asia/Shanghai
 title: 《宝可梦》第四世代汉化修正
-url: https://pg4.xzonn.top

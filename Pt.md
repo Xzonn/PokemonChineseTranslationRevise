@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2022-06-03 21:10
+last_modified_at: 2023-10-08 20:02
 title: 《宝可梦 白金》汉化修正补丁
 ---
 {% include video.html aid="886985239" %}
@@ -20,16 +20,16 @@ title: 《宝可梦 白金》汉化修正补丁
 {% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/61KlGWIg4YL.jpg" width="200" height="181.6" alt="游戏封面" class="pull-right" %}
 
 ## 发布链接
-由于版权原因，本人仅发布修正补丁。请使用链接中提供的“汉化补丁应用工具”打补丁。发布链接：
+考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
 - GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
 - 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 白金”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 导入了一部分《宝可梦 晶灿钻石／明亮珍珠》的官方文本。
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
-- 对标题图标进行更改。
 - 对原文相同的长文本统一了译文文本。
 - 其他零碎的修改内容。
 
