@@ -1,9 +1,9 @@
 ---
-last_modified_at: 2023-10-08 19:59
+last_modified_at: 2023-10-08 23:12
 title: 汉化工具说明
 ---
 ## 发布链接
-- GitHub：[3.2.1](https://github.com/Xzonn/PCTRTools/releases/tag/3.2.1)。
+- GitHub：[4.0.0](https://github.com/Xzonn/PCTRTools/releases/tag/4.0.0)。
 
 ## 更新日志
 - 1.0.1（2020-02-22）：
@@ -30,6 +30,12 @@ title: 汉化工具说明
   - 部分细节修正。
 - 3.2.1（2023-09-11）：
   - 部分细节修正。
+- 4.0.0（2023-10-08）：
+  - 将全角空格、引号（`　“”‘’`）均视为标点。
+  - 将中文字宽修改为 12。
+  - 将两个工具合并为同一个。
+  - 删除了补丁应用工具（`PokemonCTRPatch`），被 [NitroPatcher](https://github.com/Xzonn/NitroPatcher) 代替。
+  - 增加了修改 NARC 文件包含的文件的功能。
 
 ## 总体说明
 本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
@@ -76,7 +82,7 @@ narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https
 示例：
 
 ```
-PokemonCTRText.exe -c CharTable/Original_DP.txt -m DP/Original/msgdata/msg.narc -e DP/Original/Messages.txt
+PCTRTools.exe text-export -c CharTable/Original_DP.txt -i DP/Original/msgdata/msg.narc -o DP/Original/Messages.txt
 ```
 
 此操作以`CharTable/Original_DP.txt`为码表，`DP/Original/msgdata/msg.narc`为文本所在的narc文件，`DP/Original/Messages.txt`为导出后保存为的txt文件。
@@ -85,7 +91,7 @@ PokemonCTRText.exe -c CharTable/Original_DP.txt -m DP/Original/msgdata/msg.narc 
 示例：
 
 ```
-PokemonCTRText.exe -c CharTable/Expanded.txt -m DP/Original/msgdata/msg.narc -i DP/Revised/Messages.txt -o DP/Revised/msgdata/msg.narc
+PCTRTools.exe text-import -c CharTable/Expanded.txt -i DP/Original/msgdata/msg.narc -t DP/Revised/Messages.txt -o DP/Revised/msgdata/msg.narc
 ```
 
 此操作以`CharTable/Expanded.txt`为码表，`DP/Original/msgdata/msg.narc`为文本所在的narc文件，`DP/Revised/Messages.txt`为需要导入的txt文件，`DP/Revised/msgdata/msg.narc`为导入文本后保存为的narc文件。
@@ -122,13 +128,10 @@ PokemonCTRText.exe -c CharTable/Expanded.txt -m DP/Original/msgdata/msg.narc -i 
 示例：
 
 ```
-PokemonCTRFont.exe -c CharTable/Expanded.txt -f DP/Original/graphic/font.narc -o DP/Revised/graphic/font.narc
+PCTRTools.exe -c CharTable/Expanded.txt -i DP/Original/graphic/font.narc -o DP/Revised/graphic/font.narc
 ```
 
 此操作以`CharTable/Expanded.txt`为码表，`DP/Original/graphic/font.narc`为字库所在的narc文件，`DP/Revised/graphic/font.narc`为新字库保存为的narc文件。
-
-### 从narc文件导出字库为png文件（实验性）
-本功能为实验性功能，为本人在调试过程中使用，故无法直接调用，如需调用请自行修改源代码并编译。
 
 ## 汉化补丁应用工具
 为了解决之前很多人提到的“打补丁打不上”“校验值不通过”的问题，我自行编写了汉化补丁应用工具，可以搭配[自动构建项目](https://github.com/Xzonn/PCTRAutoBuild)一起使用。
