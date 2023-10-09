@@ -44,8 +44,8 @@ jobs:
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
           echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((Pt)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((HGSS|HG|SS)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((Pt|DP)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((HGSS|HG|SS|DP)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
       - name: Configure dotnet script
         run: |
           Try
