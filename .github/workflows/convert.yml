@@ -56,4 +56,4 @@ jobs:
   build:
     needs: convert
     if: needs.convert.outputs.updated == 'true'
-    uses: Xzonn/PCTRAutoBuild/.github/workflows/build.yml@master
+    uses: Xzonn/PokemonChineseTranslationRevise/.github/workflows/build.yml@master
