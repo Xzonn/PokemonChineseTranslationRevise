@@ -2436,7 +2436,7 @@
 1	去吧！\n快上２楼去试试戴上饰品！
 2	感觉怎样？\n带上饰品后\r宝可梦看上去不一样了吧？\f而且在这个电视台里\n可以把戴上饰品后的宝可梦的样子\r向全国放送！\f
 3	在电视台里\n能收集到很多信息，\f所以你也去各个地方\n参观一下吧！
-4	这里是宝可梦九字抽签处，\n如果抽到签的编号和\r您的宝可梦的ＩＤ一致的话\r就能获得奖品！\f想试试抽签吗？
+4	这里是宝可梦抽签专柜。\f只要签上的号码\n和客人您的宝可梦的ＩＤ一致，\r就能获得豪华奖品！\f要试试宝可梦抽签吗？
 5	今天的抽签已经结束，\n请您明天再来！
 6	好的。\n期待您的下次光临。
 7	请抽一张签吧。\f………………\n………………\f
@@ -12987,7 +12987,7 @@
 10	来[011C,0000]吧！
 11	不一起来[011C,0000]吗？
 12	我想[011C,0000]！
-13	ＯーＫー！
+13	Ｏ——Ｋ——！
 14	我不想[011C,0000]啊。
 15	我现在去圆形剧场\n那里等你！
 16	请和我说话！
@@ -14284,7 +14284,7 @@
 1	皮卡丘：皮卡！
 2	皮卡丘：皮卡皮卡？
 3	皮卡丘：皮！皮卡丘！
-4	皮卡丘：皮ー卡ー丘！！
+4	皮卡丘：皮——卡——丘！！
 5	嘿嘿！我要用全是皮卡丘的队伍\n来赢得宝可梦冠军！
 460
 0	我做了一个梦！\f梦到了一位钓到了\n超大铁炮鱼的训练家\r跑来找我。\r这个梦实在让我太开心了！
@@ -25582,485 +25582,485 @@
 492	拥有分解大气中的毒素，\n让荒芜大地瞬间变成花圃的力量。
 493	在神话里，\n它被描述为宇宙尚未存在时，\n就诞生的最早的宝可梦。
 603
-0	まったく　けはいを　かんじさせずに\nいどうする。ポッポや　オニスズメの\nたまごを　まるのみ　してしまう。
-1	Moving silently and stealthily, it eats\nthe eggs of birds, such as PIDGEY\nand SPEAROW, whole.
-2	Il se déplace en silence pour dévorer des\nœufs de ROUCOOL ou de PIAFABEC.
-3	Dieses POKéMON kann sich lautlos bewegen.\nSeine Nahrung sind die Eier von VOGEL-\nPOKéMON.
-4	Si muove in modo silenzioso e furtivo.\nSi nutre di uova di uccelli come PIDGEY\ne SPEAROW, che ingoia intere.
-5	Es muy silencioso y cauteloso.\nCome huevos de pájaros como\nlos de PIDGEY y SPEAROW.
-6	なんびきかが　あつまっていると\nそこに　もうれつな　でんきが　たまり\nいなずまが　おちることがあるという。
-7	When several of these Pokémon gather,\ntheir electricity can build and cause\nlightning storms.
-8	Quand plusieurs de ces POKéMON\nse réunissent, ils provoquent de\ngigantesques orages.
-9	Wenn sich mehrere dieser POKéMON\nversammeln, kann ihre Energie Blitzgewitter\nerzeugen.
-10	Quando vari POKéMON di questa specie si\nradunano, la loro energia può causare\nforti tempeste.
-11	Cuando varios de estos POKéMON se juntan,\nsu energía puede causar fuertes\ntormentas.
-12	ボーッとした　かおに　ゆだんすると\nすかさず　ねんりきや　かなしばりを\nつかってくる　あなどれない　やつだ。
-13	While lulling its enemies with its vacant\nlook, this wily Pokémon will use\npsychokinetic powers.
-14	Il distrait ses ennemis avec des grimaces\ndébiles et les attaque ensuite avec ses\npouvoirs psy.
-15	Dieses POKéMON lullt Gegner mit\nhypnotisierendem Blick ein, bevor es\nPSYKRAFT einsetzt.
-16	Mentre calma il nemico con il suo sguardo\nvacuo, questo POKéMON astuto usa poteri\npsicocinetici.
-17	Mientras calma al enemigo con su vacía\nmirada, este POKéMON usa poderes\npsicoquinéticos.
-18	からだが　かるく　あしの　ちからが\nものすごい。１かいの　ジャンプで\nとうきょうタワーも　とびこえる。
-19	Its body is light, and its legs are\nincredibly powerful. It can clear\nAyers Rock in one leap.
-20	PONYTA est très léger mais ses pattes\nsont incroyablement puissantes. Il peut\nfranchir des montagnes d’un seul saut.
-21	Sein Körper ist leicht und seine Beine\nextrem kräftig. Es kommt mit einem\nSprung über den Ayers Rock.
-22	Ha un corpo leggero su zampe\nestremamente potenti. Con un salto,\npuò oltrepassare Ayers Rock.
-23	Tiene un cuerpo ligero, pero unas patas\ntremendamente fuertes. Es capaz de\ndestrozar un peñón de una patada.
-24	うみべに　おおく　あらわれ\nよるになると　ちゅうしんが\nあかく　てんめつする。
-25	It appears in large numbers by seashores.\nAt night, its central core flashes with a\nred light.
-26	On peut voir des STARI en grand nombre\nprès des côtes. La nuit, le centre de son\ncorps clignote d’une lumière rouge.
-27	Es taucht in großer Anzahl an Ufern auf.\nNachts leuchtet der Kern in seiner Mitte\nrot auf.
-28	Se ne trovano molti in riva al mare.\nDi notte, il nucleo al centro del corpo\nlampeggia di una luce rossa.
-29	Suele aparecer en grupos en la orilla\nde la playa. Por la noche, el órgano\ncentral que tiene brilla con una luz roja.
-30	おおむかしは　まだ　もうすこし\nつよかったらしい。しかし　いまは\nかなしい　くらいに　よわいのだ。
-31	In the distant past, it was somewhat\nstronger than the horribly weak\ndescendants that exist today.
-32	La puissance de cette créature a\nbeaucoup régressé au fil des siècles.
-33	Die urzeitlichen Vorfahren dieses POKéMON\nwaren sehr viel stärker als ihre heutigen\nNachkommen.
-34	Anticamente era molto più forte\ndell’odierno discendente, che è\ndebolissimo.
-35	En un pasado lejano, era más fuerte que\nsus horribles descendientes de hoy en\ndía.
-36	まっくろな　シッポを　かくすため\nくらやみで　ひっそりと　いきている。\nじぶんからは　こうげき　しない。
-37	To keep its pitch-black tail hidden, it\nlives quietly in the darkness. It is never\nfirst to attack.
-38	Pour cacher sa queue noire, il vit\ndiscrètement dans l’obscurité.\nIl n’attaque jamais le premier.
-39	Es lebt in der Dunkelheit, um seinen\nschwarzen Schwanz zu verstecken. Es\ngreift nie zuerst an.
-40	Vive rintanato nell’oscurità per\nnascondere la coda nera come la pece.\nNon attacca mai per primo.
-41	Para mantener oculta la negra cola que\ntiene, vive en silencio en la oscuridad.\nNunca ataca primero.
-42	ふだんは　とても　おとなしいが\nミツをすうのを　じゃまする　やつは\nツノを　つかって　おいはらう。
-43	Usually docile, but if disturbed while\nsipping honey, it chases off the intruder\nwith its horn.
-44	Le plus souvent docile, il chasse les\nintrus avec sa corne s’il est attaqué\nquand il mange du miel.
-45	Es ist ruhig. Wird es aber beim\nHonignaschen gestört, verjagt es den\nStörenfried mit seinem Horn.
-46	È pacifico, ma se lo si disturba mentre\ngusta il miele scaccia l’intruso con il suo\ncorno.
-47	Suele ser dócil, pero si se le molesta\nmientras succiona miel, perseguirá\ncon su cuerno al intruso.
-48	どうもうな　せいかく。\nおやの　ポッポを　おいはらい\nすに　のこされた　タマゴをたべる。
-49	Vicious in nature, it drives PIDGEY from\ntheir nests and feasts on the eggs that\nare left behind.
-50	De nature agressive, il chasse les\nROUCOOL de leurs nids et dévore\nles œufs abandonnés.
-51	Es besitzt ein grausames Wesen. Es\nverjagt TAUBSIs von deren Nestern\nund labt sich an den Eiern.
-52	Di spirito malevolo, spinge i PIDGEY a\nlasciare il proprio nido per poi avventarsi\nsulle uova incustodite.
-53	Es malvado por naturaleza. Saca a los\nPIDGEY de sus nidos para devorar sus\nhuevos.
-54	たべものが　へる　ふゆのまえに\nあちこちに　たべものを　かくす\nしゅうせいを　もっている。
-55	Before food becomes scarce in wintertime,\nits habit is to hoard food in many hidden\nlocations.
-56	Il se fait des réserves de nourriture\ndans des cachettes avant l’arrivée\nde l’hiver.
-57	Steht der Winter vor der Türe, hortet es\nNahrung an vielen verschiedenen nur ihm\nbekannten Orten.
-58	Per prepararsi all’inverno, è sua abitudine\naccumulare il cibo in diversi nascondigli.
-59	Antes de que la comida escasee en\ninvierno, tiene por costumbre ocultar\ncomida en lugares secretos.
-60	なかまだけで　わかりあえる\nなきごえで　おたがいの　いちを\nたしかめながら　えものをおいつめる。
-61	To corner prey, they check each other’s\nlocation using barks that only they can\nunderstand.
-62	Pour attraper leur proie, ils vérifient la\nposition de chacun par des aboiements\nqu’eux seuls comprennent.
-63	Sie treiben ihre Beute in die Enge und\norientieren sich dabei anhand ihres\nBellens, das nur sie verstehen.
-64	Per circondare la preda, si coordinano\ncomunicando con guaiti che solo\nloro possono decifrare.
-65	Para arrinconar a su presa, comprueban\nsus posiciones con ladridos que sólo ellos\nentienden.
-66	うみかぜを　うけて　グライダーの\nように　かっくうする。ふゆに　なると\nすの　まわりに　エサを　かくす。
-67	It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest.
-68	Il utilise les vents marins à la façon\nd’un planeur. En hiver, il cache de la\nnourriture autour de son nid.
-69	Es reitet auf den Ozeanwinden, als\nob es gleiten würde. Im Winter versteckt\nes Nahrung bei seinem Nest.
+0	Moving silently and stealthily, it eats\nthe eggs of birds, such as PIDGEY\nand SPEAROW, whole.
+1	Il se déplace en silence pour dévorer des\nœufs de ROUCOOL ou de PIAFABEC.
+2	Dieses POKéMON kann sich lautlos bewegen.\nSeine Nahrung sind die Eier von VOGEL-\nPOKéMON.
+3	Si muove in modo silenzioso e furtivo.\nSi nutre di uova di uccelli come PIDGEY\ne SPEAROW, che ingoia intere.
+4	Es muy silencioso y cauteloso.\nCome huevos de pájaros como\nlos de PIDGEY y SPEAROW.
+5	When several of these POKéMON gather,\ntheir electricity can build and cause\nlightning storms.
+6	Quand plusieurs de ces POKéMON\nse réunissent, ils provoquent de\ngigantesques orages.
+7	Wenn sich mehrere dieser POKéMON\nversammeln, kann ihre Energie Blitzgewitter\nerzeugen.
+8	Quando vari POKéMON di questa specie si\nradunano, la loro energia può causare\nforti tempeste.
+9	Cuando varios de estos POKéMON se juntan,\nsu energía puede causar fuertes\ntormentas.
+10	While lulling its enemies with its vacant\nlook, this wily POKéMON will use\npsychokinetic powers.
+11	Il distrait ses ennemis avec des grimaces\ndébiles et les attaque ensuite avec ses\npouvoirs psy.
+12	Dieses POKéMON lullt Gegner mit\nhypnotisierendem Blick ein, bevor es\nPSYKRAFT einsetzt.
+13	Mentre calma il nemico con il suo sguardo\nvacuo, questo POKéMON astuto usa poteri\npsicocinetici.
+14	Mientras calma al enemigo con su vacía\nmirada, este POKéMON usa poderes\npsicoquinéticos.
+15	Its body is light, and its legs are\nincredibly powerful. It can clear\nAyers Rock in one leap.
+16	PONYTA est très léger mais ses pattes\nsont incroyablement puissantes. Il peut\nfranchir des montagnes d’un seul saut.
+17	Sein Körper ist leicht und seine Beine\nextrem kräftig. Es kommt mit einem\nSprung über den Ayers Rock.
+18	Ha un corpo leggero su zampe\nestremamente potenti. Con un salto,\npuò oltrepassare Ayers Rock.
+19	Tiene un cuerpo ligero, pero unas patas\ntremendamente fuertes. Es capaz de\ndestrozar un peñón de una patada.
+20	It appears in large numbers by seashores.\nAt night, its central core flashes with a\nred light.
+21	On peut voir des STARI en grand nombre\nprès des côtes. La nuit, le centre de son\ncorps clignote d’une lumière rouge.
+22	Es taucht in großer Anzahl an Ufern auf.\nNachts leuchtet der Kern in seiner Mitte\nrot auf.
+23	Se ne trovano molti in riva al mare.\nDi notte, il nucleo al centro del corpo\nlampeggia di una luce rossa.
+24	Suele aparecer en grupos en la orilla\nde la playa. Por la noche, el órgano\ncentral que tiene brilla con una luz roja.
+25	In the distant past, it was somewhat\nstronger than the horribly weak\ndescendants that exist today.
+26	La puissance de cette créature a\nbeaucoup régressé au fil des siècles.
+27	Die urzeitlichen Vorfahren dieses POKéMON\nwaren sehr viel stärker als ihre heutigen\nNachkommen.
+28	Anticamente era molto più forte\ndell’odierno discendente, che è\ndebolissimo.
+29	En un pasado lejano, era más fuerte que\nsus horribles descendientes de hoy en\ndía.
+30	To keep its pitch-black tail hidden, it\nlives quietly in the darkness. It is never\nfirst to attack.
+31	Pour cacher sa queue noire, il vit\ndiscrètement dans l’obscurité.\nIl n’attaque jamais le premier.
+32	Es lebt in der Dunkelheit, um seinen\nschwarzen Schwanz zu verstecken. Es\ngreift nie zuerst an.
+33	Vive rintanato nell’oscurità per\nnascondere la coda nera come la pece.\nNon attacca mai per primo.
+34	Para mantener oculta la negra cola que\ntiene, vive en silencio en la oscuridad.\nNunca ataca primero.
+35	Usually docile, but if disturbed while\nsipping honey, it chases off the intruder\nwith its horn.
+36	Le plus souvent docile, il chasse les\nintrus avec sa corne s’il est attaqué\nquand il mange du miel.
+37	Es ist ruhig. Wird es aber beim\nHonignaschen gestört, verjagt es den\nStörenfried mit seinem Horn.
+38	È pacifico, ma se lo si disturba mentre\ngusta il miele scaccia l’intruso con il suo\ncorno.
+39	Suele ser dócil, pero si se le molesta\nmientras succiona miel, perseguirá\ncon su cuerno al intruso.
+40	Vicious in nature, it drives PIDGEY from\ntheir nests and feasts on the eggs that\nare left behind.
+41	De nature agressive, il chasse les\nROUCOOL de leurs nids et dévore\nles œufs abandonnés.
+42	Es besitzt ein grausames Wesen. Es\nverjagt TAUBSIs von deren Nestern\nund labt sich an den Eiern.
+43	Di spirito malevolo, spinge i PIDGEY a\nlasciare il proprio nido per poi avventarsi\nsulle uova incustodite.
+44	Es malvado por naturaleza. Saca a los\nPIDGEY de sus nidos para devorar sus\nhuevos.
+45	Before food becomes scarce in wintertime,\nits habit is to hoard food in many hidden\nlocations.
+46	Il se fait des réserves de nourriture\ndans des cachettes avant l’arrivée\nde l’hiver.
+47	Steht der Winter vor der Türe, hortet es\nNahrung an vielen verschiedenen nur ihm\nbekannten Orten.
+48	Per prepararsi all’inverno, è sua abitudine\naccumulare il cibo in diversi nascondigli.
+49	Antes de que la comida escasee en\ninvierno, tiene por costumbre ocultar\ncomida en lugares secretos.
+50	To corner prey, they check each other’s\nlocation using barks that only they can\nunderstand.
+51	Pour attraper leur proie, ils vérifient la\nposition de chacun par des aboiements\nqu’eux seuls comprennent.
+52	Sie treiben ihre Beute in die Enge und\norientieren sich dabei anhand ihres\nBellens, das nur sie verstehen.
+53	Per circondare la preda, si coordinano\ncomunicando con guaiti che solo\nloro possono decifrare.
+54	Para arrinconar a su presa, comprueban\nsus posiciones con ladridos que sólo ellos\nentienden.
+55	It rides upon ocean winds as if it were\na glider. In the winter, it hides food\naround its nest.
+56	Il utilise les vents marins à la façon\nd’un planeur. En hiver, il cache de la\nnourriture autour de son nid.
+57	Es reitet auf den Ozeanwinden, als\nob es gleiten würde. Im Winter versteckt\nes Nahrung bei seinem Nest.
+58	Vola sulle onde dell’oceano come\nun deltaplano. D’inverno, nasconde\ncibo vicino al nido.
+59	Vuela y planea siguiendo la brisa\noceánica. En invierno esconde comida\ncerca de su nido.
+60	It sleeps for 20 hours every day. Making\ndrowsy those that see it is one of\nits abilities.
+61	PARECOOL dort 20 heures par jour.\nIl suffit de lui jeter un regard pour\navoir envie de bâiller.
+62	Es schläft 20 Stunden am Tag. Eine\nseiner Fähigkeiten liegt darin, diejenigen,\ndenen es begegnet, schläfrig zu machen.
+63	Dorme 20 ore al giorno. Una delle sue\nabilità è far venire sonnolenza a chi lo\nosserva.
+64	Se pasa 20 horas al día durmiendo.\nUna de sus habilidades es hacer que\nle entre sueño al que tiene al lado.
+65	Its flowers give off a relaxing fragrance.\nThe stronger its aroma, the healthier\nthe ROSELIA is.
+66	Ses fleurs dégagent un parfum relaxant.\nPlus fort est cet arôme, et plus ROSELIA\nest en bonne santé.
+67	Seine Blüte verströmt einen entspannenden\nDuft. Je stärker dieser Duft ist, desto\ngesünder ist ROSELIA.
+68	Dai suoi fiori si diffonde una fragranza\nrilassante. Più intenso è il profumo,\npiù questo POKéMON è forte.
+69	Las flores que tiene desprenden un aroma\nrelajante. Cuanto más intenso, mejor es el\nestado de salud de ROSELIA.
 604
 0	 
-1	 
-2	 
-3	 
-4	 
-5	 
-6	 
-7	 
-8	 
-9	 
-10	 
-11	 
-12	 
-13	 
-14	 
-15	 
-16	 
-17	 
-18	 
-19	 
-20	 
-21	 
-22	 
-23	 
-24	 
-25	 
-26	 
-27	 
-28	 
-29	 
-30	 
-31	 
-32	 
-33	 
-34	 
-35	 
-36	 
-37	 
-38	 
-39	 
-40	 
-41	 
-42	 
-43	 
-44	 
-45	 
-46	 
-47	 
-48	 
-49	 
-50	 
-51	 
-52	 
-53	 
-54	 
-55	 
-56	 
-57	 
-58	 
-59	 
-60	 
-61	 
-62	 
-63	 
-64	 
-65	 
-66	 
-67	 
-68	 
-69	 
-70	 
-71	 
-72	 
-73	 
-74	 
-75	 
-76	 
-77	 
-78	 
-79	 
-80	 
-81	 
-82	 
-83	 
-84	 
-85	 
-86	 
-87	 
-88	 
-89	 
-90	 
-91	 
-92	 
-93	 
-94	 
-95	 
-96	 
-97	 
-98	 
-99	 
-100	 
-101	 
-102	 
-103	 
-104	 
-105	 
-106	 
-107	 
-108	 
-109	 
-110	 
-111	 
-112	 
-113	 
-114	 
-115	 
-116	 
-117	 
-118	 
-119	 
-120	 
-121	 
-122	 
-123	 
-124	 
-125	 
-126	 
-127	 
-128	 
-129	 
-130	 
-131	 
-132	 
-133	 
-134	 
-135	 
-136	 
-137	 
-138	 
-139	 
-140	 
-141	 
-142	 
-143	 
-144	 
-145	 
-146	 
-147	 
-148	 
-149	 
-150	 
-151	 
-152	 
-153	 
-154	 
-155	 
-156	 
-157	 
-158	 
-159	 
-160	 
-161	 
-162	 
-163	 
-164	 
-165	 
-166	 
-167	 
-168	 
-169	 
-170	 
-171	 
-172	 
-173	 
-174	 
-175	 
-176	 
-177	 
-178	 
-179	 
-180	 
-181	 
-182	 
-183	 
-184	 
-185	 
-186	 
-187	 
-188	 
-189	 
-190	 
-191	 
-192	 
-193	 
-194	 
-195	 
-196	 
-197	 
-198	 
-199	 
-200	 
-201	 
-202	 
-203	 
-204	 
-205	 
-206	 
-207	 
-208	 
-209	 
-210	 
-211	 
-212	 
-213	 
-214	 
-215	 
-216	 
-217	 
-218	 
-219	 
-220	 
-221	 
-222	 
-223	 
-224	 
-225	 
-226	 
-227	 
-228	 
-229	 
-230	 
-231	 
-232	 
-233	 
-234	 
-235	 
-236	 
-237	 
-238	 
-239	 
-240	 
-241	 
-242	 
-243	 
-244	 
-245	 
-246	 
-247	 
-248	 
-249	 
-250	 
-251	 
-252	 
-253	 
-254	 
-255	 
-256	 
-257	 
-258	 
-259	 
-260	 
-261	 
-262	 
-263	 
-264	 
-265	 
-266	 
-267	 
-268	 
-269	 
-270	 
-271	 
-272	 
-273	 
-274	 
-275	 
-276	 
-277	 
-278	 
-279	 
-280	 
-281	 
-282	 
-283	 
-284	 
-285	 
-286	 
-287	 
-288	 
-289	 
-290	 
-291	 
-292	 
-293	 
-294	 
-295	 
-296	 
-297	 
-298	 
-299	 
-300	 
-301	 
-302	 
-303	 
-304	 
-305	 
-306	 
-307	 
-308	 
-309	 
-310	 
-311	 
-312	 
-313	 
-314	 
-315	 
-316	 
-317	 
-318	 
-319	 
-320	 
-321	 
-322	 
-323	 
-324	 
-325	 
-326	 
-327	 
-328	 
-329	 
-330	 
-331	 
-332	 
-333	 
-334	 
-335	 
-336	 
-337	 
-338	 
-339	 
-340	 
-341	 
-342	 
-343	 
-344	 
-345	 
-346	 
-347	 
-348	 
-349	 
-350	 
-351	 
-352	 
-353	 
-354	 
-355	 
-356	 
-357	 
-358	 
-359	 
-360	 
-361	 
-362	 
-363	 
-364	 
-365	 
-366	 
-367	 
-368	 
-369	 
-370	 
-371	 
-372	 
-373	 
-374	 
-375	 
-376	 
-377	 
-378	 
-379	 
-380	 
-381	 
-382	 
-383	 
-384	 
-385	 
-386	 
-387	 
-388	 
-389	 
-390	 
-391	 
-392	 
-393	 
-394	 
-395	 
-396	 
-397	 
-398	 
-399	 
-400	 
-401	 
-402	 
-403	 
-404	 
-405	 
-406	 
-407	 
+1	？
+2	？
+3	？
+4	？
+5	？
+6	？
+7	？
+8	？
+9	？
+10	？
+11	？
+12	？
+13	？
+14	？
+15	？
+16	？
+17	？
+18	？
+19	？
+20	？
+21	？
+22	？
+23	？
+24	？
+25	？
+26	？
+27	？
+28	？
+29	？
+30	？
+31	？
+32	？
+33	？
+34	？
+35	？
+36	？
+37	？
+38	？
+39	？
+40	？
+41	？
+42	？
+43	？
+44	？
+45	？
+46	？
+47	？
+48	？
+49	？
+50	？
+51	？
+52	？
+53	？
+54	？
+55	？
+56	？
+57	？
+58	？
+59	？
+60	？
+61	？
+62	？
+63	？
+64	？
+65	？
+66	？
+67	？
+68	？
+69	？
+70	？
+71	？
+72	？
+73	？
+74	？
+75	？
+76	？
+77	？
+78	？
+79	？
+80	？
+81	？
+82	？
+83	？
+84	？
+85	？
+86	？
+87	？
+88	？
+89	？
+90	？
+91	？
+92	？
+93	？
+94	？
+95	？
+96	？
+97	？
+98	？
+99	？
+100	？
+101	？
+102	？
+103	？
+104	？
+105	？
+106	？
+107	？
+108	？
+109	？
+110	？
+111	？
+112	？
+113	？
+114	？
+115	？
+116	？
+117	？
+118	？
+119	？
+120	？
+121	？
+122	？
+123	？
+124	？
+125	？
+126	？
+127	？
+128	？
+129	？
+130	？
+131	？
+132	？
+133	？
+134	？
+135	？
+136	？
+137	？
+138	？
+139	？
+140	？
+141	？
+142	？
+143	？
+144	？
+145	？
+146	？
+147	？
+148	？
+149	？
+150	？
+151	？
+152	？
+153	？
+154	？
+155	？
+156	？
+157	？
+158	？
+159	？
+160	？
+161	？
+162	？
+163	？
+164	？
+165	？
+166	？
+167	？
+168	？
+169	？
+170	？
+171	？
+172	？
+173	？
+174	？
+175	？
+176	？
+177	？
+178	？
+179	？
+180	？
+181	？
+182	？
+183	？
+184	？
+185	？
+186	？
+187	？
+188	？
+189	？
+190	？
+191	？
+192	？
+193	？
+194	？
+195	？
+196	？
+197	？
+198	？
+199	？
+200	？
+201	？
+202	？
+203	？
+204	？
+205	？
+206	？
+207	？
+208	？
+209	？
+210	？
+211	？
+212	？
+213	？
+214	？
+215	？
+216	？
+217	？
+218	？
+219	？
+220	？
+221	？
+222	？
+223	？
+224	？
+225	？
+226	？
+227	？
+228	？
+229	？
+230	？
+231	？
+232	？
+233	？
+234	？
+235	？
+236	？
+237	？
+238	？
+239	？
+240	？
+241	？
+242	？
+243	？
+244	？
+245	？
+246	？
+247	？
+248	？
+249	？
+250	？
+251	？
+252	？
+253	？
+254	？
+255	？
+256	？
+257	？
+258	？
+259	？
+260	？
+261	？
+262	？
+263	？
+264	？
+265	？
+266	？
+267	？
+268	？
+269	？
+270	？
+271	？
+272	？
+273	？
+274	？
+275	？
+276	？
+277	？
+278	？
+279	？
+280	？
+281	？
+282	？
+283	？
+284	？
+285	？
+286	？
+287	？
+288	？
+289	？
+290	？
+291	？
+292	？
+293	？
+294	？
+295	？
+296	？
+297	？
+298	？
+299	？
+300	？
+301	？
+302	？
+303	？
+304	？
+305	？
+306	？
+307	？
+308	？
+309	？
+310	？
+311	？
+312	？
+313	？
+314	？
+315	？
+316	？
+317	？
+318	？
+319	？
+320	？
+321	？
+322	？
+323	？
+324	？
+325	？
+326	？
+327	？
+328	？
+329	？
+330	？
+331	？
+332	？
+333	？
+334	？
+335	？
+336	？
+337	？
+338	？
+339	？
+340	？
+341	？
+342	？
+343	？
+344	？
+345	？
+346	？
+347	？
+348	？
+349	？
+350	？
+351	？
+352	？
+353	？
+354	？
+355	？
+356	？
+357	？
+358	？
+359	？
+360	？
+361	？
+362	？
+363	？
+364	？
+365	？
+366	？
+367	？
+368	？
+369	？
+370	？
+371	？
+372	？
+373	？
+374	？
+375	？
+376	？
+377	？
+378	？
+379	？
+380	？
+381	？
+382	？
+383	？
+384	？
+385	？
+386	？
+387	？
+388	？
+389	？
+390	？
+391	？
+392	？
+393	？
+394	？
+395	？
+396	？
+397	？
+398	？
+399	？
+400	？
+401	？
+402	？
+403	？
+404	？
+405	？
+406	？
+407	？
 605
 0	???.?ｋｇ
 1	　　６．９ｋｇ
