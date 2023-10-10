@@ -1,0 +1,57 @@
+name: Create json
+
+on:
+  push:
+    branches: 
+      - master
+    paths:
+      - '.github/workflows/*.yml'
+      - 'scripts/create_json.py'
+      - 'files/DP/Messages.txt'
+      - 'files/Pt/Messages.txt'
+      - 'files/HGSS/Messages.txt'
+  workflow_dispatch:
+
+concurrency:
+  group: create_json
+  cancel-in-progress: true
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Commit Information
+        id: commit
+        run: |
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+      - uses: actions/checkout@v4
+        with:
+          ref: weblate
+          fetch-depth: 1
+          path: weblate
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Create json
+        run: |
+          python scripts/create_json.py
+      - id: updated
+        name: Checking if updated
+        run: |
+          pushd weblate
+          git add -A
+          if [[ -z $(git status -s) ]]
+          then
+            echo "Nothing to commit, tree is clean"
+            echo "updated=false" >> $GITHUB_OUTPUT
+          else
+            echo "updated=true" >> $GITHUB_OUTPUT
+          fi
+          popd
+      - name: Push to GitHub
+        if: steps.updated.outputs.updated == 'true'
+        run: |
+          pushd master
+          git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
+          git push
