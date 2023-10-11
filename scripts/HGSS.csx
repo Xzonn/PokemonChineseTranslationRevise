@@ -30,3 +30,8 @@ for (int from = 155; from <= 177; from++)
 
 CopyFolder("textures/DP/graphic/pst_gra.narc/", "textures/HGSS/a/0/3/9/");
 CopyFolder("textures/DP/graphic/zukan.narc/", "textures/HGSS/a/0/6/7/");
+
+var text = File.ReadAllText("files/HGSS/Messages.txt");
+var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
+text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
+File.WriteAllText("out/Messages_HGSS.txt", text);

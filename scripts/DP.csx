@@ -38,3 +38,8 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 }
+
+var text = File.ReadAllText("files/DP/Messages.txt");
+var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
+text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
+File.WriteAllText("out/Messages_DP.txt", text);
