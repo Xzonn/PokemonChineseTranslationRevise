@@ -36,5 +36,15 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0011.bin", overlay_0011);
   Console.WriteLine($"Edited: overlay_0011.bin");
 
+  // Edit overlay_0083.bin
+  var overlay_0083 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0083.bin");
+
+  // Remove language restrictions
+  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
+  EditBinary(ref overlay_0083, 0x00129A, "FF D1");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0083.bin", overlay_0083);
+  Console.WriteLine($"Edited: overlay_0083.bin");
+
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 }
