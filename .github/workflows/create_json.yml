@@ -52,6 +52,6 @@ jobs:
       - name: Push to GitHub
         if: steps.updated.outputs.updated == 'true'
         run: |
-          pushd master
+          pushd weblate
           git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
           git push
