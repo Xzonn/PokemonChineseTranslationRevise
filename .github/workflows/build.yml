@@ -47,9 +47,9 @@ jobs:
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
-          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((DP|D|P)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((Pt|DP)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '(files|textures)[\\/]((HGSS|HG|SS|DP)[\\/]|CharTable.txt)')" >> $env:GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:DP|D|P)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:Pt[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:HGSS|HG|SS)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
       - name: Configure dotnet script
         run: |
           Try
