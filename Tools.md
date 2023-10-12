@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-10-08 23:12
+last_modified_at: 2023-10-12 21:42
 title: 汉化工具说明
 ---
 ## 发布链接
@@ -134,7 +134,7 @@ PCTRTools.exe -c CharTable/Expanded.txt -i DP/Original/graphic/font.narc -o DP/R
 此操作以`CharTable/Expanded.txt`为码表，`DP/Original/graphic/font.narc`为字库所在的narc文件，`DP/Revised/graphic/font.narc`为新字库保存为的narc文件。
 
 ## 汉化补丁应用工具
-为了解决之前很多人提到的“打补丁打不上”“校验值不通过”的问题，我自行编写了汉化补丁应用工具，可以搭配[自动构建项目](https://github.com/Xzonn/PCTRAutoBuild)一起使用。
+为了解决之前很多人提到的“打补丁打不上”“校验值不通过”的问题，我自行编写了汉化补丁应用工具，可以搭配[自动构建项目](https://github.com/Xzonn/PokemonChineseTranslationRevise)一起使用。
 
 目前该工具已重写，改名为[“NitroPatcher”](https://github.com/Xzonn/NitroPatcher)。由于采用的是新的打包方式，因此不再需要使用`ndstool`，但与旧版本工具生成的ROM校验码可能不一致。对于1.5.0版本及以前版本的补丁，请使用旧版本工具。
 
