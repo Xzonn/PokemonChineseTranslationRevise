@@ -65,16 +65,22 @@ jobs:
         continue-on-error: true
         run: |
           scripts/DP.ps1
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Platinum
         if: steps.commit.outputs.changed_pt != ''
         continue-on-error: true
         run: |
           scripts/Pt.ps1
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Heart Gold and Soul Silver
         if: steps.commit.outputs.changed_hgss != ''
         continue-on-error: true
         run: |
           scripts/HGSS.ps1
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: GitHub Release
         uses: ncipollo/release-action@v1
         with:

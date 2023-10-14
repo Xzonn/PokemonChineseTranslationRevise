@@ -3,5 +3,7 @@ out/
 *.nds
 *.zip
 
+pyrightconfig.json
+
 tools
 weblate

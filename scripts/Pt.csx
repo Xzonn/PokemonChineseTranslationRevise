@@ -24,7 +24,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");
 
-  // Edit overlay_0011.bin
+  // Edit overlay_0016.bin
   var overlay_0016 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0016.bin");
 
   // Status condition icons
@@ -75,3 +75,8 @@ MoveFile("textures/Pt/graphic/pl_bag_gra.narc/0007.bin", "textures/Pt/graphic/pl
 MoveFile("textures/Pt/graphic/box.narc/0103.bin", "textures/Pt/graphic/box.narc/0127.bin");
 MoveFile("textures/Pt/graphic/box.narc/0108.bin", "textures/Pt/graphic/box.narc/0132.bin");
 MoveFile("textures/Pt/graphic/trainer_case.narc/0023.bin", "textures/Pt/graphic/trainer_case.narc/0027.bin");
+
+var text = File.ReadAllText("files/Pt/Messages.txt");
+var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
+text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
+File.WriteAllText("out/Messages_Pt.txt", text);
