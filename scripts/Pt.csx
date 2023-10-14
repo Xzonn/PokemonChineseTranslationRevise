@@ -24,7 +24,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");
 
-  // Edit overlay_0011.bin
+  // Edit overlay_0016.bin
   var overlay_0016 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0016.bin");
 
   // Status condition icons
