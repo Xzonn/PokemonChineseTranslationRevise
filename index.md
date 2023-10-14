@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-10-08 23:12
+last_modified_at: 2023-10-14 11:22
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html aid="886985239" %}
@@ -13,14 +13,14 @@ title: 《宝可梦》第四世代汉化修正
 
 汉化补丁1.2.0版本之后的标题图标由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
-《钻石／珍珠》的补丁已随1.3.0版本发布，预计于1.6.0及以后的版本同步更新。
+《钻石／珍珠》的补丁已随1.3.0版本发布，预计于2.0.0版本及以后的版本同步更新。
 
 《心金／魂银》1.5.0版本补丁整合了宝可计步器汉化文本及汉化补丁，其中文本由 **OS** 翻译，补丁由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmanemu.net/thread-18167.htm>。
 
 ## 工具发布
-发布链接：[GitHub：4.0.0版本](https://github.com/Xzonn/PCTRTools/releases/tag/4.0.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/)
+发布链接：[GitHub：4.0.0版本](https://github.com/Xzonn/PCTRTools/releases/tag/4.0.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PCTRTools/)
 
-本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
+本人所使用的工具由C#编写，包含文本处理功能、字库处理功能、narc文件替换功能，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
 
 详细说明请见：**[汉化工具说明]({{ "/Tools.html" | relative_url }})**。
 
@@ -40,7 +40,7 @@ title: 《宝可梦》第四世代汉化修正
 - GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
 - 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
 
-本系列修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
+1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
 
 ## 预览
 <table class="table">

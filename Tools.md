@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-10-12 21:42
+last_modified_at: 2023-10-14 11:37
 title: 汉化工具说明
 ---
 ## 发布链接
@@ -38,17 +38,17 @@ title: 汉化工具说明
   - 增加了修改 NARC 文件包含的文件的功能。
 
 ## 总体说明
-本人所使用的工具由C#编写，按照功能区分为文本处理工具、字库处理工具、汉化补丁应用工具，前两者为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。后者为图形化界面程序。
+本人所使用的工具由C#编写，包含文本处理功能、字库处理功能、narc文件替换功能，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
 
-文本处理工具为`PokemonCTRText.exe`，目前实现的功能包括：从narc文件导出txt文本、将txt文本导入并创建新的narc文件。
+文本处理功能具体包括：从narc文件导出txt文本、将txt文本导入并创建新的narc文件。
 
-字库处理工具为`PokemonCTRFont.exe`，目前实现的功能仅有：从narc文件根据码表创建新的narc文件。
+字库处理功能具体包括：从narc文件根据码表创建字体并创建新的narc文件。
+
+narc文件替换功能具体包括：将narc文件中包含的文件替换为其他文件并创建新的narc文件。
 
 1.2.0版本之前仅支持第四世代的文件，2.0.0版本加入对第五世代文件的初步支持。
 
 在使用之前，请先从ROM中提取包含了文本和字库的narc文件，以及一份码表。详情见以下部分说明。本人不以任何形式提供完整ROM文件。
-
-汉化补丁应用工具为`PokemonCTRPatch.exe`，目前实现的功能仅有：给ROM打补丁。
 
 本工具为开源软件，源代码发布于[GitHub](https://github.com/Xzonn/PCTRTools/)，按照GPL-3.0协议授权。
 
@@ -58,9 +58,9 @@ title: 汉化工具说明
 ## narc文件
 本工具直接读取和输出的文件即为narc文件。该格式实际是多个文件打包的格式。
 
-narc解包代码参考了“narctool 0.1-p”，由 **@natrium42** 制作，**[@Pipian](https://github.com/pipian)** 修改，原始发布地址已不可考，但我从“[delguoqing/LMDumper](https://github.com/delguoqing/LMDumper/tree/master/tools/narctool-0.1-p)”项目的源代码中发现了该程序的源代码。原始程序为C++，我编写了C#下对打包和解包的实现，未编写压缩相关内容（与本项目无关）。
+narc解包代码参考了“narctool 0.1-p”，由 **@natrium42** 制作，**[@Pipian](https://github.com/pipian)** 修改，原始发布地址已不可考，但我从[“delguoqing/LMDumper”](https://github.com/delguoqing/LMDumper/tree/master/tools/narctool-0.1-p)项目的源代码中发现了该程序的源代码。原始程序为C++，我编写了C#下对打包和解包的实现，未编写压缩相关内容（与本项目无关）。
 
-narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https://github.com/pleonex/tinke)”，由 **[@pleoNeX](https://github.com/pleonex)** 制作并发布于GitHub，开源。该软件为图形化界面，方便操作。
+narc文件需要对原始ROM进行解包，我使用的是[“Tinke 0.9.2”](https://github.com/pleonex/tinke)，由 **[@pleoNeX](https://github.com/pleonex)** 制作并发布于GitHub，开源。该软件为图形化界面，方便操作。
 
 ## 文本
 ### 工具说明
@@ -71,7 +71,7 @@ narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https
 - 《心金／魂银》：`/a/0/2/7`
 - 《黑／白／黑２／白２》：`a/0/0/2`、`a/0/0/3`
 
-文本处理工具为`PokemonCTRText.exe`。第四世代代码参考了“[DS Text Editor](https://github.com/JackHack96/DS-Text-Editor)”，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。第五世代代码参考了“[pptxt](https://projectpokemon.org/home/forums/topic/10583-pptxt-text-editing-tool/)”，由 **[@SCV](https://projectpokemon.org/home/profile/2-scv/)** 制作并发布于Project Pokemon Forums，开源。原始程序为C++，我编写了C#下的实现。
+文本处理工具为`PokemonCTRText.exe`。第四世代代码参考了[“DS Text Editor”](https://github.com/JackHack96/DS-Text-Editor)，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。第五世代代码参考了[“pptxt”](https://projectpokemon.org/home/forums/topic/10583-pptxt-text-editing-tool/)，由 **[@SCV](https://projectpokemon.org/home/profile/2-scv/)** 制作并发布于Project Pokemon Forums，开源。原始程序为C++，我编写了C#下的实现。
 
 对于第四世代的文本，1.x - 2.x版本中均把控制符`0x25BC`转义为`\r`，`0x25BD`转义为`\f`，但这种转义方法与第五世代有冲突，因此自3.0.0版本开始调换了两个控制符的转义方式。目前，`\r`表示对话移动到下一行，`\f`表示对话翻页。为了兼容之前的版本，使用新版本导出的文本第一行会加入`#3`，表明为新版本导出的文本。
 
@@ -81,7 +81,7 @@ narc文件需要对原始ROM进行解包，我使用的是“[Tinke 0.9.2](https
 #### 从narc文件导出txt文本
 示例：
 
-```
+``` bash
 PCTRTools.exe text-export -c CharTable/Original_DP.txt -i DP/Original/msgdata/msg.narc -o DP/Original/Messages.txt
 ```
 
@@ -90,7 +90,7 @@ PCTRTools.exe text-export -c CharTable/Original_DP.txt -i DP/Original/msgdata/ms
 #### 将txt文本导入并创建新的narc文件
 示例：
 
-```
+``` bash
 PCTRTools.exe text-import -c CharTable/Expanded.txt -i DP/Original/msgdata/msg.narc -t DP/Revised/Messages.txt -o DP/Revised/msgdata/msg.narc
 ```
 
@@ -107,7 +107,7 @@ PCTRTools.exe text-import -c CharTable/Expanded.txt -i DP/Original/msgdata/msg.n
 - 《心金／魂银》：`/a/0/1/6`
 - 《黑／白／黑２／白２》：`a/0/2/3`
 
-字库处理工具为`PokemonCTRFont.exe`。代码参考了“[PokeFontDS](https://github.com/TheFearsomeDzeraora/PokeFontDS)”，由 **TheFearsomeDzeraora** 制作并发布于 GitHub，开源；以及“NARCFileReadingDLL”，由 **@evco1** 制作，原始发布地址已不可考，但我从“PokeFontDS”项目的源代码中发现了该程序的反编译源代码。
+字库处理工具为`PokemonCTRFont.exe`。代码参考了[“PokeFontDS”](https://github.com/TheFearsomeDzeraora/PokeFontDS)，由 **TheFearsomeDzeraora** 制作并发布于 GitHub，开源；以及“NARCFileReadingDLL”，由 **@evco1** 制作，原始发布地址已不可考，但我从“PokeFontDS”项目的源代码中发现了该程序的反编译源代码。
 
 由于可选的中文点阵字体较少，在比较了多种字体后我选择了Windows自带的中易宋体作为字体。如需更换为其他字体，请自行修改源代码并编译。
 
@@ -127,17 +127,30 @@ PCTRTools.exe text-import -c CharTable/Expanded.txt -i DP/Original/msgdata/msg.n
 #### 从narc文件根据码表创建新的narc文件
 示例：
 
-```
-PCTRTools.exe -c CharTable/Expanded.txt -i DP/Original/graphic/font.narc -o DP/Revised/graphic/font.narc
+``` bash
+PCTRTools.exe font -c CharTable/Expanded.txt -i DP/Original/graphic/font.narc -o DP/Revised/graphic/font.narc
 ```
 
 此操作以`CharTable/Expanded.txt`为码表，`DP/Original/graphic/font.narc`为字库所在的narc文件，`DP/Revised/graphic/font.narc`为新字库保存为的narc文件。
 
+## narc文件替换
+主要用于替换图片形式的文本，无需手动打包，方便自动化操作。
+
+### 使用方法
+#### 将narc文件中包含的文件替换为其他文件并创建新的narc文件
+示例：
+
+``` bash
+PCTRTools.exe replace-narc -i files/DP/data/ -n textures/DP/ -o out/D/data/
+```
+
+此操作将遍历`files/DP/data/`目录下的所有文件，将其中的narc文件中包含的文件替换为`textures/DP/`目录下的同名文件，并将替换后的narc文件保存到`out/D/data/`目录下。
+
 ## 汉化补丁应用工具
+{% include figure.html src="0d73b0d02719ca21fb9bbac2c8362a1b.png" width="469" height="324" alt="汉化补丁应用工具" %}
+
 为了解决之前很多人提到的“打补丁打不上”“校验值不通过”的问题，我自行编写了汉化补丁应用工具，可以搭配[自动构建项目](https://github.com/Xzonn/PokemonChineseTranslationRevise)一起使用。
 
 目前该工具已重写，改名为[“NitroPatcher”](https://github.com/Xzonn/NitroPatcher)。由于采用的是新的打包方式，因此不再需要使用`ndstool`，但与旧版本工具生成的ROM校验码可能不一致。对于1.5.0版本及以前版本的补丁，请使用旧版本工具。
-
-旧版本工具里面内嵌了[ndstool](https://github.com/devkitPro/ndstool)（作者：Rafael Vuijk，Dave Murphy，Alexei Karpenko；按GPL-3.0授权），使用的时候把输入的ROM拆包，然后把补丁里面的文件覆盖掉原来的文件，再打包回去。
 
 本工具为图形化界面，如有使用上的问题请及时反馈。

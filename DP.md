@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-10-08 20:02
+last_modified_at: 2023-10-14 11:24
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -52,4 +52,4 @@ YYJoy汉化组发布页面：[「口袋妖怪 珍珠 & 钻石」简体中文补�
 
 感谢为宝可梦官方中文化努力的所有玩家，正是他们的不断请愿才让官方发现了华语圈的广阔市场，并让官方自《太阳／月亮》以来发售了越来越多的官方中文游戏。
 
-译文文本参考了任天堂官方游戏文本，记载于神奇宝贝百科，按照“[署名-非商业性使用-相同方式共享 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)”授权。
+译文文本参考了任天堂官方游戏文本，记载于神奇宝贝百科，按照[“署名-非商业性使用-相同方式共享 3.0”](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)授权。

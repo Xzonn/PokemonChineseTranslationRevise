@@ -3,6 +3,9 @@ defaults:
   - values:
       layout: "default"
 exclude:
+  - DP/
+  - Pt/
+  - HGSS/
   - Debug/
   - node_modules/
   - vendor/
