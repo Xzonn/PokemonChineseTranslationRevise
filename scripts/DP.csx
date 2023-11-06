@@ -37,6 +37,9 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   Console.WriteLine($"Edited: overlay_0011.bin");
 
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
+
+  // Copy md5.txt
+  File.Copy($"files/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt");
 }
 
 var text = File.ReadAllText("files/DP/Messages.txt");
