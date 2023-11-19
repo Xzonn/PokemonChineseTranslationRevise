@@ -33,6 +33,15 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0016.bin", overlay_0016);
   Console.WriteLine($"Edited: overlay_0016.bin");
 
+  // Edit overlay_0088.bin
+  var overlay_0088 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0088.bin");
+
+  // やめる -> 取消
+  EditBinary(ref overlay_0088, 0x003CEC, "86 03 54 08 FF FF");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0088.bin", overlay_0088);
+  Console.WriteLine($"Edited: overlay_0088.bin");
+
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt

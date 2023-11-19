@@ -48,6 +48,15 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0012.bin", BLZ.Compress(overlay_0012));
   Console.WriteLine($"Edited: overlay_0012.bin");
 
+  // Decopress and Edit overlay_0065.bin
+  var overlay_0065 = BLZ.Decompress(File.ReadAllBytes($"files/HGSS/overlay/overlay_0065.bin"));
+
+  // やめる -> 取消
+  EditBinary(ref overlay_0065, 0x003F00, "86 03 54 08 FF FF");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0065.bin", BLZ.Compress(overlay_0065));
+  Console.WriteLine($"Edited: overlay_0065.bin");
+
   // Decopress and Edit overlay_0112.bin
   var overlay_0112 = BLZ.Decompress(File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0112.bin"));
 
