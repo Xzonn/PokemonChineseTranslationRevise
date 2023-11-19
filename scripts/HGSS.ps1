@@ -14,7 +14,9 @@ dotnet script scripts/HGSS.csx
 
 # Create patch for HeartGold
 Compress-Archive -Path "out/HG/*" -DestinationPath "out/Patch-HG.zip" -Force
+Move-Item out/Patch-HG.zip out/Patch-HG.xzp -Force
 
 # Create patch for SoulSilver
 Copy-Item -Path "out/HG/data/*" -Destination "out/SS/data/" -Recurse -Force
 Compress-Archive -Path "out/SS/*" -DestinationPath "out/Patch-SS.zip" -Force
+Move-Item out/Patch-SS.zip out/Patch-SS.xzp -Force

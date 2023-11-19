@@ -14,3 +14,4 @@ dotnet script scripts/Pt.csx
 
 # Create patch for Platinum
 Compress-Archive -Path "out/Pt/*" -DestinationPath "out/Patch-Pt.zip" -Force
+Move-Item out/Patch-Pt.zip out/Patch-Pt.xzp -Force

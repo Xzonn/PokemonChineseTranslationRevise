@@ -65,7 +65,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt
-  File.Copy($"files/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt");
+  File.Copy($"files/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
 }
 
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/HGSS/a/0/0/8/");

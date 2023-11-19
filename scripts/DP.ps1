@@ -14,7 +14,9 @@ dotnet script scripts/DP.csx
 
 # Create patch for Diamond
 Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force
+Move-Item out/Patch-D.zip out/Patch-D.xzp -Force
 
 # Create patch for Pearl
 Copy-Item -Path "out/D/data/*" -Destination "out/P/data/" -Recurse -Force
 Compress-Archive -Path "out/P/*" -DestinationPath "out/Patch-P.zip" -Force
+Move-Item out/Patch-P.zip out/Patch-P.xzp -Force
