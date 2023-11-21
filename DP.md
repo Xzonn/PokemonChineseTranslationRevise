@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-10-14 11:24
+last_modified_at: 2023-11-21 22:40
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -26,7 +26,7 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 
 另外，文本的导入使用了简单粗暴的“复制粘贴”法，如有疏漏还请理解。
 
-本补丁预计于1.6.0及以后的版本同步更新。
+本补丁预计于2.0.0及以后的版本同步更新。也可以尝试[自动构建的开发版本补丁]({{ "/Nightly.html" | relative_url }})。
 
 ## 更新日志
 - 0.9.0（2020-04-22）：
