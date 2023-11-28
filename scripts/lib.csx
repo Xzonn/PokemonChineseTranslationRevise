@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: NitroHelper, 0.11.1"
+#r "nuget: NitroHelper, 0.12.0"
 
 void EditBinary(ref byte[] bytes, int offset, string newHexString)
 {

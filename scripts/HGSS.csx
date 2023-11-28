@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: Xzonn.BlzHelper, 0.9.0"
+#r "nuget: NitroHelper, 0.12.0"
 #load "lib.csx"
 using Xzonn.BlzHelper;
 
