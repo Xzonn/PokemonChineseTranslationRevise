@@ -3,46 +3,130 @@ import os
 
 os.chdir(os.path.join(os.path.dirname(__file__), "../"))
 
-for game in ["DP", "Pt", "HGSS"]:
-  if False:
-    with open("scripts/DP_convert_table.txt", "r", -1, "utf8") as reader:
-      lines = reader.read().split("\n")
+GAMES = [
+  {
+    "game": "DP",
+    "file_name": "Messages.txt",
+    "output_folder": "DP",
+    "languages": ["zh_Hans"],
+  },
+  {
+    "game": "Pt",
+    "file_name": "Messages.txt",
+    "output_folder": "Pt",
+    "languages": ["zh_Hans"],
+  },
+  {
+    "game": "HGSS",
+    "file_name": "Messages.txt",
+    "output_folder": "HGSS",
+    "languages": ["zh_Hans"],
+  },
+  {
+    "game": "BW",
+    "file_name": "Messages_common.txt",
+    "output_folder": "BW_common",
+    "languages": ["zh_Hans", "zh_Hant"],
+  },
+  {
+    "game": "BW",
+    "file_name": "Messages_script.txt",
+    "output_folder": "BW_script",
+    "languages": ["zh_Hans", "zh_Hant"],
+  },
+  {
+    "game": "B2W2",
+    "file_name": "Messages_common.txt",
+    "output_folder": "B2W2_common",
+    "languages": ["zh_Hans", "zh_Hant"],
+  },
+  {
+    "game": "B2W2",
+    "file_name": "Messages_script.txt",
+    "output_folder": "B2W2_script",
+    "languages": ["zh_Hans", "zh_Hant"],
+  },
+]
 
-    dp_convert_table = {}
-    for line in lines:
-      if not line:
-        continue
-      ja, en = line.split("\t")
-      if not ja.isdigit():
-        continue
-      dp_convert_table[int(ja)] = int(en)
+for game_info in GAMES:
+  original_style = {}
+  game_data = {
+    "zh_Hans": {}
+  }
+  game = game_info["game"]
+  file_name = game_info["file_name"]
+  output_folder = game_info["output_folder"]
+  languages = game_info["languages"]
 
-  game_data = {}
-  for file_name in os.listdir(f"{game}/zh_Hans/"):
-    if not file_name.endswith(".json"):
-      continue
-    with open(f"{game}/zh_Hans/{file_name}", "r", -1, "utf8") as reader:
-      raw_data = json.load(reader)
-
-    for key, value in raw_data.items():
-      k_game, k_file_id, k_line_id = key.split(".")
-      if game != k_game:
-        continue
-      if False:
-        if k_game == "DP":
-          assert int(k_file_id) in dp_convert_table
-          k_file_id = dp_convert_table[int(k_file_id)]
-        else:
-          k_file_id = int(k_file_id)
-      else:
-        k_file_id = int(k_file_id)
-      if k_file_id not in game_data:
-        game_data[k_file_id] = {}
-      game_data[k_file_id][int(k_line_id)] = value.replace("\\r\n", "\\r").replace("\\f\n", "\\f").replace("\n", "\\n")
+  with open(f"master/files/{game}/{file_name}", "r", -1, "utf8") as reader:
+    lines = reader.read().split("\n")
   
-  with open(f"master/files/{game}/Messages.txt", "w", -1, "utf8", newline="\n") as writer:
-    writer.write("#3\n")
-    for file_id in sorted(game_data.keys()):
-      writer.write(f"{file_id}\n")
-      for line_id in sorted(game_data[file_id].keys()):
-        writer.write(f"{line_id}\t{game_data[file_id][line_id]}\n")
+  current_file = None
+  current_data = None
+  for line in lines:
+    if not line or line.startswith("#"):
+      continue
+    if "\t" not in line:
+      if "-" in line:
+        if line.split("-")[1] != "0":
+          break
+        current_file = int(line.split("-")[0])
+      else:
+        current_file = int(line)
+      original_style[current_file] = {}
+      current_data = original_style[current_file]
+      continue
+    else:
+      line_id, line_content = line.split("\t")
+      line_id = int(line_id)
+      assert line_id == len(current_data)
+      original_style[current_file][line_id] = line_content
+
+  for language in languages:
+    if language not in game_data:
+      game_data[language] = {}
+
+    for json_name in os.listdir(f"{output_folder}/{language}/"):
+      json_id = int(json_name.removesuffix(".json"))
+      if not json_name.endswith(".json"):
+        continue
+
+      if (output_folder == "B2W2_common" and 113 <= json_id <= 157) or \
+         (output_folder == "BW_common" and 93 <= json_id <= 137):
+        path = f"{output_folder}/ja/{json_name}"
+      else:
+        path = f"{output_folder}/{language}/{json_name}"
+      with open(path, "r", -1, "utf8") as reader:
+        raw_data = json.load(reader)
+
+      for key, chinese in raw_data.items():
+        k_game, file_id, line_id = key.split(".")
+        if output_folder != k_game:
+          continue
+        else:
+          file_id = int(file_id)
+        if file_id not in game_data[language]:
+          game_data[language][file_id] = {}
+        
+        line_id = int(line_id)
+        original_line = original_style[file_id][line_id]
+        if not ("\\r\\n" in original_line or "\\f\\n" in original_line):
+          chinese = chinese.replace("\\r\n", "\\r").replace("\\f\n", "\\f")
+        if original_line.endswith("\\r\\n"):
+          chinese = chinese + "\\n"
+        elif original_line.endswith("\\f\\n"):
+          chinese = chinese + "\\n"
+        chinese = chinese.replace("\n", "\\n")
+        game_data[language][file_id][line_id] = chinese
+  
+  with open(f"master/files/{game}/{file_name}", "w", -1, "utf8", newline="\n") as writer:
+    if game not in ["BW", "B2W2"]:
+      writer.write("#3\n")
+    for i, language in enumerate(languages):
+      for file_id in sorted(game_data[language].keys()):
+        if game in ["BW", "B2W2"]:
+          writer.write(f"{file_id}-{i}\n")
+        else:
+          writer.write(f"{file_id}\n")
+        for line_id in sorted(game_data[language][file_id].keys()):
+          writer.write(f"{line_id}\t{game_data[language][file_id][line_id]}\n")
