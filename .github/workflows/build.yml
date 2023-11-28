@@ -50,6 +50,8 @@ jobs:
           echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:DP|D|P)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
           echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:Pt[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
           echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:HGSS|HG|SS)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_bw=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:BW|B|W)[\\/]|CharTable\.txt)|textures[\\/](?:BW)[\\/]|scripts[\\/](?:BW|B|W)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_b2w2=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:B2W2|B2|W2)[\\/]|CharTable\.txt)|textures[\\/](?:B2W2)[\\/]|scripts[\\/](?:B2W2|B2|W2)\.')" >> $env:GITHUB_OUTPUT
       - name: Configure dotnet script
         run: |
           Try
@@ -79,6 +81,20 @@ jobs:
         continue-on-error: true
         run: |
           scripts/HGSS.ps1
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
+      - name: Black and White
+        if: steps.commit.outputs.changed_bw != ''
+        continue-on-error: true
+        run: |
+          scripts/BW.ps1
+        env:
+          XZ_PATCH_VERSION: "${{ github.sha }}"
+      - name: Black 2 and White 2
+        if: steps.commit.outputs.changed_b2w2 != ''
+        continue-on-error: true
+        run: |
+          scripts/B2W2.ps1
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: GitHub Release
