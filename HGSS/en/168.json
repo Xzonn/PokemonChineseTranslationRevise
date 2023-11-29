@@ -1,0 +1,12 @@
+{
+    "HGSS.168.0000": "Advance: months",
+    "HGSS.168.0001": "Turn back: months",
+    "HGSS.168.0002": "Advance: days",
+    "HGSS.168.0003": "Turn back: days",
+    "HGSS.168.0004": "Advance: hours",
+    "HGSS.168.0005": "Turn back: hours",
+    "HGSS.168.0006": "Advance: minutes",
+    "HGSS.168.0007": "Turn back: Minutes",
+    "HGSS.168.0008": "Cancel",
+    "HGSS.168.0009": "[0133,0000,0000]/[0133,0001,0000]\n[0133,0002,0000]:[0133,0003,0000] [0133,0004,0000]sec."
+}

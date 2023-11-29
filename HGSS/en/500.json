@@ -1,0 +1,9 @@
+{
+    "HGSS.500.0000": "Celadon Condominiums\nThis elevator goes straight to\\r\nthe roof.\\f\nWill you go to the roof? [0200,0000]",
+    "HGSS.500.0001": "Celadon Condominiums\nThis elevator goes straight to the\\r\nsecond floor.\\f\nWill you go to the second floor? [0200,0000]",
+    "HGSS.500.0002": "Please come again.",
+    "HGSS.500.0003": "Going up to the roof.\\f",
+    "HGSS.500.0004": "Going down to the second floor.\\f",
+    "HGSS.500.0005": "You’ve arrived at the roof.\\f",
+    "HGSS.500.0006": "You’ve arrived at the second floor.\\f"
+}

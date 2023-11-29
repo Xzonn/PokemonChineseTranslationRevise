@@ -1,0 +1,10 @@
+{
+    "HGSS.120.0000": "You see the item over there?\\f\nIt was me who dropped it, but I cannot\nget over there to pick it up.\\f\nWhy?\\f\nWalking on ice makes your feet freeze!\\f\nMy shoes are so worn that the soles\nare gone!",
+    "HGSS.120.0001": "You see the item over there?\\f\nIt was me who dropped it, but I cannot\nget over there to pick it up.\\f\nWhy?\\f\nWalking on ice makes your feet freeze!\\f\nMy shoes are so worn that the soles\nare gone!\\f",
+    "HGSS.120.0002": "The item you picked up over there...\nit was an HM, wasn’t it?\\f\nI am the one who dropped it...but I\nwant you to keep it.\\r\nYou took the time to get it, right?\\f\nIt contains Waterfall.\nHave fun climbing waterfalls!\\f\nMe?\\f\nI still need a new pair of shoes\nbefore I can enjoy waterfalls.",
+    "HGSS.120.0003": "Me oh my...\nIs that you, [0103,0000,0000]?\\r\nFancy meeting you here!\\f\nTo tell the truth...my sandals are\nfrozen on the ice, and I am stuck here.\\f\nIn other words, my flip-flops are\nquick-frozen to the ground.\\f\nTee hee.\\f\nWell, it’s no laughing matter. Would you\ncome around and push my back?",
+    "HGSS.120.0004": "Me oh my...\nIs that you, [0103,0000,0000]?\\r\nFancy meeting you here!\\f\nTo tell the truth...my sandals are\nfrozen on the ice, and I am stuck here.\\f\nIn other words, my flip-flops are\nquick-frozen with the ground.\\f\nTee hee.\\f\nWell, it’s no laughing matter.\nWould you push my back? [0200,0000]",
+    "HGSS.120.0005": "[FF01,00C8]SHOVE![FF01,0064]\\f",
+    "HGSS.120.0006": "Don’t be so cruel.\nYou will push my back,\\r\nwon’t you? [0200,0000]",
+    "HGSS.120.0007": "You really are kind.\\f\nThank you so much!\\f"
+}

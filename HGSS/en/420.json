@@ -1,0 +1,13 @@
+{
+    "HGSS.420.0000": "Ding-dong!\\f\nTime’s up!\nYour Safari Game is over.\\f",
+    "HGSS.420.0001": "Ding-dong!\\f\nYou’ve run out of Safari Balls.\nYour Safari Game is over.\\f",
+    "HGSS.420.0002": "Ding-dong!\\f\nYou’re out of room for more Pokémon.\nYour Safari Game is over!\\f",
+    "HGSS.420.0003": "Would you like to exit the\nSafari Zone right now? [0200,0000]",
+    "HGSS.420.0004": "Place an object? [0200,0000]",
+    "HGSS.420.0005": "Placed [0108,0000,0000]!",
+    "HGSS.420.0006": "Remove the [0108,0000,0000]? [0200,0000]",
+    "HGSS.420.0007": "Removed the [0108,0000,0000]!",
+    "HGSS.420.0008": "You cannot place any more objects in\nthis Area!",
+    "HGSS.420.0009": "You have no objects that can\nbe placed.",
+    "HGSS.420.0010": "There’s no space to place\nan object!"
+}

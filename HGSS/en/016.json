@@ -1,0 +1,10 @@
+{
+    "HGSS.016.0000": "A Recruitment Message arrived\nfrom a Pokémon Ranger.\n\nYou may receive a [FF00,0001]MANAPHY Egg[FF00,0000]\nfrom the Pokémon Ranger!\n\nOn the next screen, select\n[FF00,0001]CONNECT TO POKéMON RANGER[FF00,0000].\nTouch the screen to advance.",
+    "HGSS.016.0001": "A Mystery Gift signal has\nbeen located!\n\nYou may receive a Mystery Gift!\n\nAt the next screen, select\n[FF00,0001]Mystery Gift[FF00,0000].\nTouch the screen to advance.",
+    "HGSS.016.0002": "A Recruitment Message arrived\nfrom a Pokémon Ranger.\n\nHowever, to communicate with the\nPokémon Ranger, you must get\nfurther into your adventure and\nobtain a Pokédex first.\nTouch the screen to advance.",
+    "HGSS.016.0003": "A Mystery Gift signal has\nbeen located.\n\nHowever, to receive a Mystery\nGift, you must get further into\nyour adventure and obtain a\nPokédex first.\nTouch the screen to advance.",
+    "HGSS.016.0004": "        ",
+    "HGSS.016.0005": " [FF00,0001]WARNING![FF00,0000] There’s already a saved\n game file. If you start an adventure now, \n you won’t be able to save it.",
+    "HGSS.016.0006": "Begin adventure",
+    "HGSS.016.0007": "Return to the menu"
+}

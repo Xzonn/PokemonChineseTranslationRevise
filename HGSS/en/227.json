@@ -1,0 +1,17 @@
+{
+    "HGSS.227.0000": "MAILBOX",
+    "HGSS.227.0001": "[0132,0000,0000]",
+    "HGSS.227.0002": "/",
+    "HGSS.227.0003": "CANCEL",
+    "HGSS.227.0004": "CLOSE",
+    "HGSS.227.0005": "READ",
+    "HGSS.227.0006": "ERASE",
+    "HGSS.227.0007": "GIVE",
+    "HGSS.227.0008": "CANCEL",
+    "HGSS.227.0009": "What would you like to do with\n[0103,0000,0000]’s Mail?",
+    "HGSS.227.0010": "The message will be lost.\nIs that OK?",
+    "HGSS.227.0011": "The message was erased.",
+    "HGSS.227.0012": "Let a Pokémon hold this Mail?",
+    "HGSS.227.0013": "The Mail’s message was erased,\nand it was put in the Bag.",
+    "HGSS.227.0014": "Your Bag is full...\nThe Mail was discarded."
+}

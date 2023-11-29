@@ -1,0 +1,8 @@
+{
+    "HGSS.224.0000": "The save file is corrupted.\nThe previous save file will be loaded.",
+    "HGSS.224.0001": "The save file will be erased\ndue to corruption or damage.",
+    "HGSS.224.0002": "The most recent Battle Video is\ncorrupted.\\f\nThe previously saved Battle Video will\nbe loaded instead.\n",
+    "HGSS.224.0003": "A Battle Video appears to have been\nerased.",
+    "HGSS.224.0004": "The most recent Battle Hall record\nis corrupted.\\f\nThe previously saved record will be\nloaded instead.\n",
+    "HGSS.224.0005": "The Battle Hall record has been erased.\n\n"
+}

@@ -1,0 +1,19 @@
+{
+    "HGSS.184.0000": "Welcome to Geonet, the high-tech\nglobe!\\f",
+    "HGSS.184.0001": "What would you like to do?",
+    "HGSS.184.0002": "Here, you may register the location\nof where you live.\\f\nThat information may be provided to\nfriends and strangers through\\r\nDS Wireless Communications or over\\r\nNintendo WFC.\\f\nWould you like to register your\nhome’s location area?",
+    "HGSS.184.0003": "Please select the location in which\nyou live.",
+    "HGSS.184.0004": "Please select the area in which\nyou live.",
+    "HGSS.184.0005": "Once registered, you may not change\nyour registered location data.\\f\nShould this location be registered\nas where you live?",
+    "HGSS.184.0006": "[0124,0000,0000]",
+    "HGSS.184.0007": "[0125,0000,0000]",
+    "HGSS.184.0008": "YES",
+    "HGSS.184.0009": "NO",
+    "HGSS.184.0010": "SEE LIST",
+    "HGSS.184.0011": "REGISTER",
+    "HGSS.184.0012": "EXIT",
+    "HGSS.184.0013": "[0205]VIEW",
+    "HGSS.184.0014": "Your registered location:\n[0124,0000,0000]\n[0125,0001,0000]",
+    "HGSS.184.0015": "To display registered locations, line up\nthe cursor, and press the X Button.",
+    "HGSS.184.0016": "[0205]QUIT"
+}

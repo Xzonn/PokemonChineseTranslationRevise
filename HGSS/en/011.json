@@ -1,0 +1,22 @@
+{
+    "HGSS.011.0000": "EDIT",
+    "HGSS.011.0001": "QUIT",
+    "HGSS.011.0002": "SET",
+    "HGSS.011.0003": "REMOVE",
+    "HGSS.011.0004": "SHIFT",
+    "HGSS.011.0005": "OK",
+    "HGSS.011.0006": "CANCEL",
+    "HGSS.011.0007": "Choose a Capsule.",
+    "HGSS.011.0008": "What would you like to do?",
+    "HGSS.011.0009": "The Capsule was removed.",
+    "HGSS.011.0010": "Switch with which Capsule?",
+    "HGSS.011.0011": "The Capsules were switched.",
+    "HGSS.011.0012": "Finished editing the Capsule.",
+    "HGSS.011.0013": "Confirming...",
+    "HGSS.011.0014": "Quit without changing the\nCapsule design?",
+    "HGSS.011.0015": "There’s no more room!",
+    "HGSS.011.0016": "There are no Seals left.",
+    "HGSS.011.0017": "Exit",
+    "HGSS.011.0018": "   ",
+    "HGSS.011.0019": "     "
+}

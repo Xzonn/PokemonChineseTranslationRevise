@@ -1,0 +1,13 @@
+{
+    "HGSS.110.0000": "Hey!\nIntruder alert!\\f",
+    "HGSS.110.0001": "It’s my turn!\nThere’s no escape!\\f",
+    "HGSS.110.0002": "It’s a PERSIAN statue...\nIts eyes are glowing red...\\f\nYou feel that somebody may be\nwatching...",
+    "HGSS.110.0003": "It’s a PERSIAN statue...\nIts eyes are glowing blue...\\f\nYou don’t feel anyone watching you...",
+    "HGSS.110.0004": "The eyes of the PERSIAN statue\nare no longer glowing...",
+    "HGSS.110.0005": "A secret switch!\\f\nThe red switch is flashing in a\nsuspicious manner.\\r\nWill you press it? [0200,0000]",
+    "HGSS.110.0006": "A secret switch!\\f\nThe blue switch is lit.\\r\nWill you press it? [0200,0000]",
+    "HGSS.110.0007": "Better press it.\\f",
+    "HGSS.110.0008": "The secret switch is not lit anymore...",
+    "HGSS.110.0009": "The surveillance system is off!",
+    "HGSS.110.0010": "The surveillance system is on!"
+}

@@ -1,0 +1,11 @@
+{
+    "HGSS.261.0000": "It will forget the saying it knows\nnow. Is that OK?[0200,0000]",
+    "HGSS.261.0001": "Press the “Next” button, then speak\ninto the microphone.\\f",
+    "HGSS.261.0002": "[0101,0000,0000] learned a new saying!\\f",
+    "HGSS.261.0003": "[0101,0000,0000] failed to learn a\nnew saying.\\f",
+    "HGSS.261.0004": "Would you like to try again?[0200,0000]",
+    "HGSS.261.0005": "It seems to be distracted and\nunable to concentrate...",
+    "HGSS.261.0006": "  ",
+    "HGSS.261.0007": "   ",
+    "HGSS.261.0008": "Preparing microphone..."
+}

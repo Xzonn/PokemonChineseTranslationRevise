@@ -1,0 +1,11 @@
+{
+    "HGSS.583.0000": "Hello, hello!\nI am the official Name Rater!\\f\nWant me to rate the nicknames of\nyour Pokémon? [0200,0000]",
+    "HGSS.583.0001": "Which Pokémon’s nickname should\nI critique?",
+    "HGSS.583.0002": "[0101,0000,0000], is it? Hmm...\nThat is a decent nickname!\\f\nBut, I can give it a nicer name?\nHow about it? [0200,0000]",
+    "HGSS.583.0003": "OK, then. What shall the new\nnickname be?\\f",
+    "HGSS.583.0004": "Done!\nHow about that?\\f\nFrom now on, this Pokémon\nshall be known as [0101,0000,0000]!\\f\nIt is a better name than before,\nisn’t it?\\r\nGood for you!",
+    "HGSS.583.0005": "Ah, good. I see.\nDo come visit again if you change\\r\nyour mind.",
+    "HGSS.583.0006": "Done! From now on, this Pokémon\nshall be known as [0101,0000,0000]!\\f\nIt looks no different from before?\nThat’s just you!\\r\nThis is vastly superior!\\r\nHow fortunate for you!",
+    "HGSS.583.0007": "[0101,0000,0000], is it?\nThat is a truly impeccable nickname!\\f\nTake good care of [0101,0000,0000]!",
+    "HGSS.583.0008": "Now, now.\nThat is merely an Egg!"
+}

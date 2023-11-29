@@ -1,0 +1,14 @@
+{
+    "HGSS.000.0000": "EXIT",
+    "HGSS.000.0001": "VIEW",
+    "HGSS.000.0002": "DELETE",
+    "HGSS.000.0003": "MOVE",
+    "HGSS.000.0004": "CANCEL",
+    "HGSS.000.0005": "Please select a photo.",
+    "HGSS.000.0006": "What will you do with the\nselected photo?",
+    "HGSS.000.0007": "Switch with which photo?",
+    "HGSS.000.0008": "The selected photos were\nswitched.",
+    "HGSS.000.0009": "Is it OK to delete this\nphoto?",
+    "HGSS.000.0010": "[0103,0000,0000]’s Photo\nTaken: [0104,0001,0000]\nPhoto of: [0101,0002,0000]\n[0133,0004,0000]/[0133,0005,0000]/[0135,0003,0000]",
+    "HGSS.000.0011": "[0103,0000,0000]’s Photo\nTaken: [0104,0001,0000]\nPhoto of: [0101,0002,0000] and friends\n[0133,0004,0000]/[0133,0005,0000]/[0135,0003,0000]"
+}

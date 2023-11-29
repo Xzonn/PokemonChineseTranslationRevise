@@ -1,0 +1,17 @@
+{
+    "HGSS.451.0000": "Hello, welcome to our Training Hall.\\f\nYou may battle our best Trainers and\ntheir favorite Pokémon once\\r\nper day.\\f\nWould you like to participate? [0200,0000]",
+    "HGSS.451.0001": "                                   ",
+    "HGSS.451.0002": "You are ready!\nPlease go right through.\\f",
+    "HGSS.451.0003": "I see...\nPlease come back again.\\f",
+    "HGSS.451.0004": "Do you want to exit? [0200,0000]",
+    "HGSS.451.0005": "Thank you for playing!\\f",
+    "HGSS.451.0006": "I see.\nGood luck!\\f",
+    "HGSS.451.0007": "Oh, hello!\nRight this way, please!\\f",
+    "HGSS.451.0008": "This is the Trainer House--\nthe place for Trainers.\\f\nThe Pokéwalker will bring your\nfriends here!\\f\nYou can challenge various Trainers\nonce a day.\\f\nYou’ll earn Battle Points when you win.\\r\nBring out your best!\\f",
+    "HGSS.451.0009": "Oh! I’ll borrow your Vs. Recorder\nfor a moment.\\f\nLet’s see... Slide open this part here,\nand ticka-tacka-kachunk there!\\f\nAll done!\\f\nNow you can check your Battle Points\nusing your Vs. Recorder!\\f",
+    "HGSS.451.0010": "[0103,0000,0000]’s Vs. Recorder was\nupgraded.",
+    "HGSS.451.0011": "You may exchange your Battle Points\nfor fabulous prizes at Johto\\r\nBattle Frontier!\\f",
+    "HGSS.451.0012": "Now that you are ready,\nwould you like to train yourself? [0200,0000]",
+    "HGSS.451.0013": "Would you like to battle? [0200,0000]",
+    "HGSS.451.0014": "See you tomorrow!"
+}
