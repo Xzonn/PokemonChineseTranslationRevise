@@ -12,6 +12,8 @@ dotnet script scripts/DP.csx
 # Import text
 & "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "files/DP/data/msgdata/msg.narc" -t "out/Messages_DP.txt" -o "out/D/data/msgdata/msg.narc"
 
+dotnet script scripts/pad_text.csx "files/DP/data/msgdata/msg.narc" "out/D/data/msgdata/msg.narc"
+
 # Create patch for Diamond
 Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force
 Move-Item out/Patch-D.zip out/Patch-D.xzp -Force

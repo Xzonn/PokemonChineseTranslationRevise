@@ -12,6 +12,8 @@ dotnet script scripts/HGSS.csx
 # Import text
 & "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "files/HGSS/data/a/0/2/7" -t "out/Messages_HGSS.txt" -o "out/HG/data/a/0/2/7"
 
+dotnet script scripts/pad_text.csx "files/HGSS/data/a/0/2/7" "out/HG/data/a/0/2/7"
+
 # Create patch for HeartGold
 Compress-Archive -Path "out/HG/*" -DestinationPath "out/Patch-HG.zip" -Force
 Move-Item out/Patch-HG.zip out/Patch-HG.xzp -Force

@@ -12,6 +12,8 @@ dotnet script scripts/Pt.csx
 # Import text
 & "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "files/Pt/data/msgdata/pl_msg.narc" -t "out/Messages_Pt.txt" -o "out/Pt/data/msgdata/pl_msg.narc"
 
+dotnet script scripts/pad_text.csx "files/Pt/data/msgdata/pl_msg.narc" "out/Pt/data/msgdata/pl_msg.narc"
+
 # Create patch for Platinum
 Compress-Archive -Path "out/Pt/*" -DestinationPath "out/Patch-Pt.zip" -Force
 Move-Item out/Patch-Pt.zip out/Patch-Pt.xzp -Force
