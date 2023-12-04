@@ -8,6 +8,13 @@ on:
       - '*.md'
       - '**/.gitignore'
       - 'images/'
+  pull_request:
+    branches:
+      - master
+    paths-ignore:
+      - '*.md'
+      - '**/.gitignore'
+      - 'images/'
   workflow_dispatch:
 
 jobs:
