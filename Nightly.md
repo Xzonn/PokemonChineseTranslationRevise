@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-11-29 00:38
+last_modified_at: 2023-12-04 22:26
 title: 开发版本补丁概述
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -30,12 +30,13 @@ title: 开发版本补丁概述
   - [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
   - [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
   - [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
-- 同步更新《钻石／珍珠》补丁。
+- 同步更新《钻石／珍珠》补丁，并修改《钻石／珍珠》的图标。（感谢 **[@ppllouf](https://github.com/ppllouf)**）
 - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
 - 版本号修改为删除存档界面显示，可在标题界面按`↑ + SELECT + B`查看。
 - 修复招式文本与实际效果不一致的问题。此问题自从导入官方招式文本后就一直存在，此前未能引起注意。
-- 修复《心金》图鉴文本实际为《魂银》图鉴文本的问题。
-- 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。
+- 修复《心金》图鉴文本实际为《魂银》图鉴文本的问题。（感谢 **Konyaka** 反馈）
+- 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。（感谢 **[兔隐](https://tieba.baidu.com/home/main?id=tb.1.b078b4c8.5EUyhmk8zkrkK__di08swQ)** 等人反馈，[链接](https://tieba.baidu.com/p/7213514184)）
+- 修复《白金》标题动画显示错误的问题。（感谢 **[@ppllouf](https://github.com/ppllouf)**）
 - 修复几处小图标未更新至官译的问题。
 
 ## 预览
