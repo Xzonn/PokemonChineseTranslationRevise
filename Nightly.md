@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-12-04 22:26
+last_modified_at: 2023-12-09 22:39
 title: 开发版本补丁概述
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -37,6 +37,7 @@ title: 开发版本补丁概述
 - 修复《心金》图鉴文本实际为《魂银》图鉴文本的问题。（感谢 **Konyaka** 反馈）
 - 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。（感谢 **[兔隐](https://tieba.baidu.com/home/main?id=tb.1.b078b4c8.5EUyhmk8zkrkK__di08swQ)** 等人反馈，[链接](https://tieba.baidu.com/p/7213514184)）
 - 修复《白金》标题动画显示错误的问题。（感谢 **[@ppllouf](https://github.com/ppllouf)**）
+- 修改《钻石／珍珠／白金》简单会话的词语排序。**注意，这一修改会导致日版《钻石／珍珠》壁纸密语不适用于汉化版。**请参考[“密语计算器”]({{ "/Aikotoba.html" | relative_html }})页面的说明。
 - 修复几处小图标未更新至官译的问题。
 
 ## 预览

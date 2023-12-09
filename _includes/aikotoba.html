@@ -1,0 +1,877 @@
+<style>
+  #aikotoba-form {
+    margin: 10px auto;
+  }
+
+  #aikotoba-results {
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .aikotoba-image {
+    width: 256px;
+    height: 192px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>
+<form id="aikotoba-form" class="form-horizontal">
+  <div class="form-group">
+    <label class="col-sm-2 control-label" for="game">游戏：</label>
+    <div class="col-sm-10">
+      <label class="radio-inline">
+        <input type="radio" name="game" value="dp" checked><span>钻石／珍珠</span>
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="game" value="pt"><span>白金</span>
+      </label>
+      <label class="radio-inline">
+        <input type="radio" name="game" value="hgss"><span>心金／魂银</span>
+      </label>
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="col-sm-2 control-label" for="id">训练家ID：</label>
+    <div class="col-sm-10">
+      <input type="number" class="form-control" name="id" value="0" min="0" max="65535" />
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-primary">计算</button>
+    </div>
+  </div>
+</form>
+<div id="aikotoba-results"></div>
+<script>
+  document.querySelector("#aikotoba-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    let game = document.querySelector(`#aikotoba-form input[name="game"]:checked`).value;
+    let id = +document.querySelector(`#aikotoba-form input[name="id"]`).value;
+    let results = document.querySelector("#aikotoba-results");
+    results.innerHTML = "";
+    for (let i = 0; i < (game == "hgss" ? 11 : 8); i++) {
+      let words = calc(game, id, i);
+      results.innerHTML += `<div><div class="aikotoba-image"><img src="{{ "/assets/aikotoba/" | relative_url }}${game}_${i + 1}.png" /></div><div>${words.join("<br>")}</div></div>`;
+    }
+  });
+
+  function calc(game, id, wp_num) {
+    const BOXPWD_MAGIC_NUMBER = 6;
+
+    let id_lo = id & 0xff, id_hi = (id >> 8) & 0xff;
+    let rand1 = (2 + id_lo + wp_num) & 0xf, rand2 = (4 + id_hi + wp_num) & 0xf;
+    if (game != "dp") {
+      wp_num = wp_num | (BOXPWD_MAGIC_NUMBER << 4);
+      let num_ed = ((wp_num + id_hi) * id_lo) & 0xff;
+      rand1 = (num_ed >> 4) & 0xf, rand2 = num_ed & 0xf;
+    }
+
+    let word_list = getWordList(game);
+
+    let u32 = (wp_num << 24) | ((wp_num ^ id_hi) << 16) | ((wp_num ^ id_lo) << 8) | ((rand1 << 4) + rand2);
+    let xor_mask = (rand1 << 4) | rand1;
+    switch (game) {
+      case "dp":
+        u32 = rotateR(u32, 3, rand2);
+        break;
+
+      case "pt":
+      case "hgss":
+        u32 = rotateL(u32, 3, rand2);
+        break;
+    }
+    for (let i = 1; i < 4; i++) {
+      u32 = u32 ^ (xor_mask << (i * 8));
+    }
+
+    switch (game) {
+      case "dp":
+        u32 = rotateR(u32, 4, 7);
+        break;
+
+      case "pt":
+      case "hgss":
+        u32 = rotateL(u32, 4, 5);
+        break;
+    }
+    numAry = [];
+    for (let i = 0; i < 4; i++) {
+      numAry.unshift(u32 & 0xff);
+      u32 = u32 >>> 8;
+    }
+    let aikotoba_pos = 0;
+    let words = [];
+    for (let i = 0; i < 4; i++) {
+      aikotoba_pos = (aikotoba_pos + numAry[i]) % word_list.length;
+      words.push(word_list[aikotoba_pos]);
+    }
+    return words;
+  }
+
+  function rotateR(u32, targetNum, lotNum) {
+    let rotate_bit = targetNum * 8;
+    let high = u32 >>> (32 - rotate_bit);
+    let low = u32 & ((1 << (32 - rotate_bit)) - 1);
+    high = (high >>> lotNum) | ((high & ((1 << lotNum) - 1)) << (rotate_bit - lotNum));
+    return (high << (32 - rotate_bit)) | low;
+  }
+
+  function rotateL(u32, targetNum, lotNum) {
+    return rotateR(u32, targetNum, 8 * targetNum - lotNum);
+  }
+
+  function logu32(u32) {
+    let array = [];
+    for (let i = 0; i < 4; i++) {
+      array.unshift((u32 & 0xff).toString(2).padStart(8, "0"));
+      u32 = u32 >>> 8;
+    }
+    return array;
+  }
+
+  function getWordList(game) {
+    const WORD_LIST_DP = `白色烟雾
+孢子
+笨拙
+避雷针
+变色
+冰
+冰冻之躯
+不眠
+不屈之心
+采蜜
+踩影
+草
+察觉
+超能力
+超幸运
+迟钝
+虫
+虫之预感
+储水
+纯朴
+磁力
+粗糙皮肤
+大力士
+单纯
+胆量
+地面
+电
+电气引擎
+斗争心
+毒
+毒刺
+毒疗
+恶
+恶臭
+发光
+飞毛腿
+飞行
+愤怒穴位
+负电
+复眼
+复制
+干劲
+干燥皮肤
+钢
+格斗
+隔音
+怪力钳
+过滤
+恒净之躯
+厚脂肪
+花之礼
+活力
+火
+火焰之躯
+激流
+技术高手
+加速
+坚硬脑袋
+坚硬岩石
+捡拾
+降雪
+降雨
+结实
+精神力
+静电
+狙击手
+懒惰
+连续攻击
+鳞粉
+龙
+蹒跚
+慢出
+慢启动
+茂盛
+猛火
+迷人之躯
+免疫
+魔法防守
+耐热
+黏着
+飘浮
+破格
+气闸
+轻装
+日照
+熔岩铠甲
+柔软
+锐利目光
+沙穴
+沙隐
+舍身
+神奇鳞片
+神奇守护
+湿气
+湿润之躯
+适应力
+水
+水幕
+太阳之力
+贪吃鬼
+逃跑
+天恩
+铁拳
+同步
+蜕皮
+危险预知
+威吓
+我行我素
+污泥浆
+无防守
+无关天气
+吸盘
+下载
+蓄电
+雪隐
+压迫感
+岩石
+扬沙
+叶绿素
+叶子防守
+一般
+一般皮肤
+毅力
+阴晴不定
+引火
+引水
+硬壳盔甲
+幽灵
+悠游自如
+有色眼镜
+诱爆
+瑜伽之力
+雨盘
+预知梦
+早起
+战斗盔甲
+正电
+自然回复
+不敌
+才能
+传说
+敌人
+对决
+对战
+复活
+攻击
+过去
+获胜
+劲头
+来吧！
+力量
+品位
+强大
+轻松
+轻松获胜
+热斗
+认输
+弱小
+胜负
+胜利
+失败
+手下留情
+天才
+挑战
+王牌
+无敌
+相性
+训练家
+毅力
+战斗
+战友
+招式
+真正实力
+重点
+最
+作战
+阿姨
+俺
+爸爸
+宝宝
+本大人
+大家
+大人
+对手
+父母
+哥哥
+伙伴
+家人
+姐姐
+劲敌
+老身
+老爷子
+妈妈
+奶奶
+男孩子
+男朋友
+你
+您
+女孩子
+女朋友
+女士
+朋友
+人
+人家
+少年
+少女
+谁
+叔叔
+我
+先生
+小孩子
+兄弟
+爷爷
+自己
+爱好
+百货大楼
+宝物
+便利店
+补习班
+布偶
+测试
+垂钓
+词语
+打工
+大会
+道具
+电车
+电话
+电脑
+电视
+电子
+动画
+对话
+服务
+干涉
+歌
+歌曲
+工作
+购物
+过家家
+花
+滑板
+机械
+纪念
+祭典
+家
+减肥
+今天
+金钱
+精灵球
+剧情
+卡片
+看
+看电影
+课程
+老师
+零花钱
+流行
+旅程
+旅行
+漫画
+冒险
+美食家
+梦
+名字
+明天
+女主角
+偶发事
+偶像明星
+派对
+情报
+全部
+群组
+人气
+软件
+散步
+设计
+生活
+生命
+生日
+时尚
+世界
+嗜好
+收藏品
+收音机
+书
+说话
+甜点
+完全
+玩具
+玩耍
+午休
+舞蹈
+物语
+洗澡
+系统
+新闻
+信
+信息
+休息
+修行
+学习
+学校
+音乐
+英雄
+邮件
+游戏
+幼儿园
+预定
+约定
+约会
+运动
+杂志
+照相机
+周波数
+自行车
+租借
+昨天
+爱爱
+爆笑
+悲哀度
+不安
+不擅长
+不行不行
+不要
+吃惊
+聪明
+放电
+好
+悔恨度
+简单
+健康
+可爱
+可惜
+快乐
+快乐度
+困难
+泪水
+满足
+没关系
+美丽
+奇怪度
+强壮
+擅长
+失望
+实在是
+帅气
+瘫成一团
+推荐
+微妙
+无法相信
+无聊
+喜欢
+陷落
+想要
+笑
+心跳不停
+兴奋
+幸福
+愉快度
+糟糕
+珍奇
+重要
+最讨厌
+最喜欢`;
+
+    const WORD_LIST_Pt = `一般
+格斗
+飞行
+毒
+地面
+岩石
+虫
+钢
+火
+水
+草
+电
+超能力
+冰
+龙
+恶
+恶臭
+降雨
+加速
+战斗盔甲
+结实
+湿气
+柔软
+沙隐
+静电
+蓄电
+储水
+迟钝
+无关天气
+复眼
+不眠
+变色
+免疫
+引火
+鳞粉
+我行我素
+吸盘
+威吓
+踩影
+粗糙皮肤
+神奇守护
+飘浮
+孢子
+同步
+恒净之躯
+自然回复
+避雷针
+天恩
+悠游自如
+叶绿素
+发光
+复制
+大力士
+毒刺
+精神力
+熔岩铠甲
+水幕
+磁力
+隔音
+雨盘
+扬沙
+压迫感
+厚脂肪
+早起
+火焰之躯
+逃跑
+锐利目光
+怪力钳
+捡拾
+懒惰
+活力
+迷人之躯
+正电
+负电
+阴晴不定
+黏着
+蜕皮
+神奇鳞片
+污泥浆
+茂盛
+猛火
+激流
+虫之预感
+坚硬脑袋
+日照
+沙穴
+干劲
+白色烟雾
+瑜伽之力
+硬壳盔甲
+气闸
+蹒跚
+电气引擎
+斗争心
+不屈之心
+雪隐
+贪吃鬼
+愤怒穴位
+轻装
+耐热
+单纯
+干燥皮肤
+下载
+铁拳
+毒疗
+适应力
+连续攻击
+湿润之躯
+太阳之力
+飞毛腿
+一般皮肤
+狙击手
+魔法防守
+无防守
+慢出
+技术高手
+叶子防守
+笨拙
+破格
+超幸运
+诱爆
+危险预知
+预知梦
+纯朴
+有色眼镜
+过滤
+慢启动
+胆量
+引水
+冰冻之躯
+坚硬岩石
+降雪
+采蜜
+察觉
+舍身
+花之礼
+相性
+最
+过去
+获胜
+不敌
+劲头
+来吧！
+攻击
+认输
+才能
+作战
+胜负
+胜利
+品位
+对战
+战斗
+力量
+挑战
+强大
+手下留情
+敌人
+天才
+传说
+对决
+热斗
+复活
+重点
+真正实力
+失败
+战友
+无敌
+轻松
+弱小
+轻松获胜
+招式
+训练家
+对手
+人家
+你
+妈妈
+爷爷
+叔叔
+爸爸
+男孩子
+大人
+哥哥
+姐姐
+奶奶
+阿姨
+父母
+老爷子
+本大人
+女孩子
+少女
+家人
+女朋友
+男朋友
+您
+兄弟
+小孩子
+先生
+女士
+自己
+谁
+朋友
+伙伴
+人
+少年
+俺
+大家
+劲敌
+老身
+我
+宝宝
+偶像明星
+明天
+玩耍
+动画
+打工
+歌
+家
+看电影
+甜点
+金钱
+零花钱
+剧情
+洗澡
+过家家
+玩具
+音乐
+卡片
+购物
+对话
+学校
+照相机
+干涉
+完全
+纪念
+昨天
+今天
+嗜好
+群组
+美食家
+游戏
+词语
+收藏品
+便利店
+全部
+服务
+杂志
+散步
+工作
+系统
+自行车
+修行
+课程
+补习班
+爱好
+情报
+运动
+生活
+老师
+软件
+歌曲
+减肥
+大会
+宝物
+旅程
+生日
+舞蹈
+周波数
+垂钓
+约会
+信
+偶发事
+设计
+电子
+测试
+百货大楼
+电视
+电车
+电话
+道具
+名字
+新闻
+人气
+布偶
+派对
+电脑
+花
+英雄
+午休
+女主角
+时尚
+学习
+冒险
+滑板
+精灵球
+书
+机械
+祭典
+漫画
+邮件
+信息
+物语
+约定
+休息
+梦
+幼儿园
+预定
+生命
+收音机
+流行
+旅行
+看
+租借
+世界
+美丽
+愉快度
+奇怪度
+聪明
+失望
+帅气
+悲哀度
+可爱
+悔恨度
+健康
+可惜
+幸福
+陷落
+无法相信
+喜欢
+最讨厌
+无聊
+重要
+没关系
+最喜欢
+强壮
+快乐度
+不行不行
+瘫成一团
+心跳不停
+擅长
+泪水
+不擅长
+爆笑
+快乐
+放电
+吃惊
+不安
+想要
+满足
+珍奇
+实在是
+不要
+糟糕
+爱爱
+兴奋
+笑
+微妙
+推荐
+简单
+好
+困难`;
+
+    switch (game) {
+      case "dp":
+        return WORD_LIST_DP.trim().split("\n");
+        break;
+      case "pt":
+      case "hgss":
+        return WORD_LIST_Pt.trim().split("\n");
+        break;
+    }
+  }
+</script>
