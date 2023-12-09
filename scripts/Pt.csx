@@ -65,6 +65,16 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0016.bin", overlay_0016);
   Console.WriteLine($"Edited: overlay_0016.bin");
 
+  // Edit overlay_0062.bin
+  var overlay_0062 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0062.bin");
+
+  // GTS Pokemon name sorting
+  EditBinary(ref overlay_0062, 0x01A514, "00 00 25 00 76 00 90 00 CE 00 0B 01 3C 01 60 01 93 01 BD 01 ED 01");
+  EditBinary(ref overlay_0062, 0x01A688, "00 00 25 00 76 00 90 00 CE 00 0B 01 3C 01 60 01 93 01 BD 01 ED 01");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0062.bin", overlay_0062);
+  Console.WriteLine($"Edited: overlay_0062.bin");
+
   // Edit overlay_0088.bin
   var overlay_0088 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0088.bin");
 
@@ -74,11 +84,22 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0088.bin", overlay_0088);
   Console.WriteLine($"Edited: overlay_0088.bin");
 
+  // Edit overlay_0094.bin
+  var overlay_0094 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0094.bin");
+
+  // GTS Pokemon name sorting
+  EditBinary(ref overlay_0094, 0x00B7C8, "00 00 25 00 76 00 90 00 CE 00 0B 01 3C 01 60 01 93 01 BD 01 ED 01");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0094.bin", overlay_0094);
+  Console.WriteLine($"Edited: overlay_0094.bin");
+
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt
   File.Copy($"files/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
 }
+
+CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zkn_data_gira.narc/");
 
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/batt_obj.narc/");
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/pl_batt_obj.narc/");
