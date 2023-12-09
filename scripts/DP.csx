@@ -68,6 +68,15 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0071.bin", overlay_0071);
   Console.WriteLine($"Edited: overlay_0071.bin");
 
+  // Edit overlay_0080.bin
+  var overlay_0080 = File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0080.bin");
+
+  // GTS Pokemon name sorting
+  EditBinary(ref overlay_0080, 0x00A9D0, "00 00 25 00 76 00 90 00 CE 00 0B 01 3C 01 60 01 93 01 BD 01 ED 01");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0080.bin", overlay_0080);
+  Console.WriteLine($"Edited: overlay_0080.bin");
+
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt
