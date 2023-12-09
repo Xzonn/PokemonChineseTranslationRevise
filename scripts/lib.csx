@@ -54,6 +54,11 @@ string[] SortEasyChatWords(ref byte[] arm9, uint offset, string[] words)
 {
   const int CATEGORIES = 12;
   var comparer = StringComparer.Create(new CultureInfo("zh-CN"), true);
+  var comparerReplacement = new Dictionary<string, string>()
+  {
+    { "彷徨夜灵", "旁徨夜灵" }, // Fanghuang Yeling -> Panghuang Yeling
+    { "聒噪鸟", "锅噪鸟" }, // Guazao Niao -> Guozao Niao
+  };
 
   var easyChatWordsByCategory = new Dictionary<int, Dictionary<string, ushort>>();
   var offsets = new uint[CATEGORIES];
@@ -85,7 +90,12 @@ string[] SortEasyChatWords(ref byte[] arm9, uint offset, string[] words)
   {
     if (i == 1 || i == 3) { continue; }
     var _words = easyChatWordsByCategory[i].Keys.ToList();
-    _words.Sort(comparer);
+    _words.Sort((a, b) =>
+    {
+      if (comparerReplacement.TryGetValue(a, out string? value1)) { a = value1; }
+      if (comparerReplacement.TryGetValue(b, out string? value2)) { b = value2; }
+      return comparer.Compare(a, b);
+    }); 
     switch (i)
     {
       case 4: case 5: case 6: case 8: case 9: aikotobaList = aikotobaList.Concat(_words); break;
