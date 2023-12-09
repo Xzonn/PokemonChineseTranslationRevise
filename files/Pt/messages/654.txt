@@ -1,0 +1,3 @@
+0	buon giorno
+1	buon giorno
+2	buona sera

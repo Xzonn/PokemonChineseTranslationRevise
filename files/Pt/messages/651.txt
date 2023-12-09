@@ -1,0 +1,3 @@
+0	good morning
+1	hello
+2	good evening

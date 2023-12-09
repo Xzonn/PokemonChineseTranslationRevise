@@ -1,0 +1,3 @@
+0	buenas dias
+1	buenas tardes
+2	buenas noches

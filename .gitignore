@@ -7,3 +7,9 @@ pyrightconfig.json
 
 tools
 weblate
+
+messages.txt
+messages_common.txt
+messages_script.txt
+
+__pycache__/

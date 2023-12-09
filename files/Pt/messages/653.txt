@@ -1,0 +1,3 @@
+0	guten morgen
+1	guten tag
+2	guten abend

@@ -1,0 +1,494 @@
+0	 
+1	Au matin de sa vie, la graine sur\nson dos lui fournit les éléments\ndont il a besoin pour grandir.
+2	Lorsque le bourgeon sur son dos\néclot, il répand un doux parfum\npour célébrer sa floraison.
+3	Le parfum de sa fleur se fait plus\npénétrant les lendemains de pluie.\nCela appâte les autres Pokémon.
+4	La flamme de sa queue symbolise sa\nvitalité. Elle est intense quand il\nest en bonne santé.
+5	La nuit, la queue ardente du\nREPTINCEL brille comme une étoile\ndans son repaire montagneux.
+6	On raconte que la flamme du\nDRACAUFEU s'intensifie après\nun combat difficile.
+7	Il se réfugie dans sa carapace\net réplique en éclaboussant\nl'ennemi à la première occasion.
+8	On prétend qu'il vit 10 000 ans.\nSa queue duveteuse est un\nsymbole de longévité populaire.
+9	Les trombes d'eau projetées par\nles canons de sa carapace peuvent\npercer le métal le plus résistant.
+10	Ses antennes rouges libèrent une\npuanteur qui repousse l'ennemi. Il\ngrandit par mues régulières.
+11	Son corps frêle est protégé par sa\ncarapace d'acier. Il encaisse les\ncoups durs en attendant d'évoluer.
+12	Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen.
+13	Il mange chaque jour son poids en\nfeuilles. Il utilise l'aiguillon sur sa\ntête pour repousser l'ennemi.
+14	Il se cache sous les feuilles et les\nbranches pour fuir les prédateurs\nen attendant d'évoluer.
+15	Il virevolte rapidement autour de\nl'ennemi et frappe de son dard\nempoisonné avant de décamper.
+16	Ce Pokémon docile préfère éviter\nle combat. Toutefois, il se montre\ntrès féroce quand on l'agresse.
+17	Il survole son vaste territoire en\nquête d'une proie avant de fondre\nsur elle toutes griffes en avant.
+18	En battant des ailes de toutes ses\nforces, ROUCARNAGE génère une\nrafale à en déraciner les arbres.
+19	D'une prudence extrême, sa nature\nrobuste lui permet de s'adapter\nà tous les terrains.
+20	Il grignote sans cesse pour apaiser\nla poussée de ses crocs. Il peut\ntranspercer un mur de parpaings.
+21	Il fait battre vigoureusement ses\npetites ailes pour voler et cherche\nà manger dans l'herbe avec le bec.
+22	Il a assez d'énergie pour voler\ntoute la journée avec ses grandes\nailes. Il frappe de son bec acéré.
+23	Il se faufile dans l'herbe sans un\nbruit et frappe dans le dos quand\nsa proie s'y attend le moins. 
+24	Il utilise la marque sur son ventre\npour intimider l'ennemi. Il étouffe\nl'ennemi pétrifié par la peur.
+25	Il lui arrive de remettre d'aplomb\nun PIKACHU allié en lui envoyant\nune décharge électrique.
+26	Il se protège des décharges grâce\nà sa queue qui dissipe l'électricité\ndans le sol.
+27	Il vit sur des terres arides\népargnées par la pluie. Il se roule\nen boule pour se protéger.
+28	Il se met en boule pour percuter\nl'ennemi. Ses épines aiguisées\nfont beaucoup de dégâts.
+29	Bien qu'il rechigne à se battre,\nune goutte du poison sécrété par\nses piquants peut s'avérer fatale.
+30	Ce Pokémon dresse ses piquants\nen cas de danger. Ils poussent\nmoins vite que ceux de NIDORINO.
+31	Son corps est recouvert d'écailles\nsolides. Il donnera sa vie pour\nsecourir les petits de son terrier. 
+32	Il jauge le terrain en laissant\nses oreilles dépasser de l'herbe.\nIl se défend avec sa corne toxique.
+33	D'un tempérament violent, il\nempale l'ennemi sur sa corne qui\ndistille un poison puissant.
+34	Un coup de sa puissante queue\npeut briser un poteau téléphonique\ncomme une allumette.
+35	On dit que ceux qui voient danser\nun groupe de MELOFEE sous la pleine\nlune connaîtront un grand bonheur.
+36	Il est très farouche et se laisse\nrarement approcher. De plus, il\ndétecte les sons à plus d'1 km.
+37	Il envoie des boules de feu. Avec\nl'âge, ses six queues en forment de\nnouvelles. 
+38	On raconte que ses neuf queues\ndétiennent un pouvoir mystique.\nIl peut vivre pendant mille ans.
+39	Lorsqu'il roule ses grands yeux\nronds, il entonne une berceuse\nqui endort son auditoire.
+40	Sa fourrure est d'une douceur\nincomparable au toucher. Il\npeut gonfler en aspirant de l'air.
+41	Il se repère dans l'espace grâce\naux ultrasons émis par sa gueule.
+42	Ses crocs acérés et creux peuvent\npénétrer la plus épaisse des peaux\net sucer le sang de la victime.
+43	En journée, il plante ses pieds-\nracines dans le sol. La nuit, il se\npromène en semant des graines.
+44	L'odeur du nectar de sa bouche\nest si répugnante qu'elle agresse\nles narines à deux kilomètres.
+45	Ses pétales sont les plus grands\ndu monde. Il marche en répandant\nun pollen extrêmement allergène.
+46	Des champignons appelés\n“tochukaso" poussent sur son dos.\nIls évoluent avec le PARAS hôte.
+47	Un champignon parasite plus gros\nque PARASECT contrôle son corps.\nIl répand des spores empoisonnées.
+48	Ses grands yeux sont en fait\ndes amas d'yeux minuscules. La\nnuit, il est attiré par la lumière.
+49	Il répand ses écailles poudreuses\nen battant des ailes. Elles sont\ntoxiques au toucher.
+50	Un Pokémon qui vit sous terre.\nHabitué aux souterrains, il fuit la\nlumière du jour.
+51	Ses trois têtes creusent le sol à\ntour de rôle. Il peut atteindre des\nprofondeurs de 100 kilomètres.
+52	Son regard s'anime à la vue\nd'un objet brillant. C'est un\nPokémon nocturne.
+53	Un Pokémon très snob. La taille du\njoyau qui orne son front alimente\nbien des débats parmi ses fans.
+54	Ses pouvoirs déconcertants et\nmystérieux lui font subir de\nconstantes migraines.
+55	Ses membres palmés et son corps\nparfaitement adapté font de lui\nun nageur exceptionnel.
+56	Ils vivent en colonies sylvestres.\nQuand un FEROSINGE s'énerve,\ntoute la colonie suit son exemple.
+57	Il grogne quand on le toise,\nrugit quand on s'enfuit et devient\nfou de rage quand on le frappe.
+58	Un Pokémon très loyal. Il\nrestera immobile jusqu'à ce que\nson Dresseur lui donne un ordre.
+59	Son port altier et son attitude\nfière ont depuis longtemps conquis\nle cœur des hommes.
+60	Sa peau est si mince qu'on\nvoit ses organes internes. Il tient\nà peine sur ses nouveaux pieds.
+61	La spirale qui orne son ventre\nondule doucement. Celui qui la fixe\nest saisi d'une étrange torpeur. 
+62	Il possède de sacrés biscoteaux.\nIl peut parcourir sans relâche\nl'Océan Pacifique.
+63	L'utilisation de ses pouvoirs\nmentaux le fatigue tellement\nqu'il dort 18 heures par jour.
+64	Il fixe sa cuillère d'argent afin de\nconcentrer son esprit et d'émettre\nun maximum d'ondes alpha.
+65	On dit que les cuillères qu'il tient\nen permanence ont été créées\npar la puissance de son esprit.
+66	Malgré sa petite taille, sa force lui\npermet de soulever plusieurs\nRACAILLOU à la fois.
+67	Il soulève les plus lourdes charges\navec plaisir et facilité. Il donne un\ncoup de main tout en s'entraînant!
+68	La puissance et la rapidité de ses\nquatre bras puissants font des\nravages sur ses adversaires.
+69	Il préfère les climats chauds et\nhumides. Ses lianes peuvent\ncapturer une proie en un clin d'œil.
+70	Un Pokémon végétal. Il capture les\nproies étourdies en les endormant\nà l'aide d'une poudre toxique.
+71	Sa bouche sécrète un fluide à\nl'odeur de miel, qui s'avère être\nun acide extrêmement corrosif.
+72	Presque entièrement composé\nd'eau, son corps a tendance à se\ndessécher sur la terre ferme.
+73	Ses 80 tentacules lui permettent\nd'emprisonner ses adversaires\ndans un redoutable filet venimeux.
+74	Au repos, rien ne le distingue d'un\nvulgaire caillou. Malheur à ceux qui\nlui marchent dessus par mégarde!
+75	Il dévale les montagnes pour se\ndéplacer. Une fois qu'il a pris tout\nson élan, dur dur de l'arrêter!
+76	Aucun explosif ne pourrait entamer\nsa carapace de pierre. Il mue une\nfois par an.
+77	Chancelantes à la naissance, ses\npattes deviennent très vite sûres\net solides à force de galoper.
+78	Au grand galop, sa crinière de feu\ndisperse au vent une myriade\nd'étincelles ardentes.
+79	Bien que lent, c'est un pêcheur\nadroit qui utilise sa queue. Elle\nest insensible aux morsures.
+80	Ce grand benêt connaît des éclairs\nde lucidité lorsque le KOKIYAS de sa\nqueue se met à mordre.
+81	Plus la rotation de ses extrémités\nest rapide, plus la force du champ\nmagnétique qu'il génère est grande.
+82	Des groupes apparaissent si des\ntaches solaires couvrent le soleil.\nIls brouillent les télévisions.
+83	Il ne peut pas vivre sans son\nlégume, c'est pourquoi il le\nprotégera au péril de sa vie.
+84	Ses deux cerveaux semblent\ncommuniquer leurs émotions\ngrâce à un lien télépathique.
+85	Quand DODUO connaît cette étrange\névolution, l'une de ses têtes se\ndédouble. Il atteint les 60 km/h.
+86	Un habitant des icebergs.\nEn mer, il utilise la corne sur\nsa tête pour briser la banquise.
+87	Son corps est couvert d'un grand\nmanteau blanc qui, dans la neige, le\ndissimule aux yeux des prédateurs.
+88	Il est né d'un torrent de boue\nexposé aux rayons X de la lune.\nIl vit dans les ordures.
+89	Son corps exsude un fluide toxique\nqui tue instantanément les plantes\net les arbres au contact.
+90	Il nage à reculons en ouvrant et en\nrefermant ses deux coquilles. Il\nlaisse traîner sa large langue.
+91	Il se défend en fermant sa coquille\net projette des piquants qui\nrepoussent ses agresseurs.
+92	Son corps composé de gaz toxique\npourrait asphyxier n'importe qui\nen quelques secondes.
+93	Il adore se tapir dans l'ombre et\nfaire frissonner ses proies en leur\ntouchant l'épaule.
+94	Si vous croisez un regard\ninquiétant qui perce la nuit,\nc'est sûrement un ECTOPLASMA.
+95	Il se nourrit des pierres qu'il\nrencontre en creusant le sol.\nIl peut creuser à 80 km/h!
+96	Son grand nez lui permet de lire\nles rêves d'autrui. Il adore les\nsonges amusants.
+97	La vue de son pendule oscillant\nendort en trois secondes, même\nquand on vient de se réveiller. 
+98	Il creuse son terrier sur des\nplages sablonneuses. Ses\npinces repoussent si on les brise.
+99	Sa grande pince possède une\npuissance de 10 000 chevaux. Son\npoids la rend difficile à manier.
+100	Il ressemble à une Poké Ball. Ce\nPokémon dangereux peut exploser\nou s'électrifier au toucher.
+101	Il se laisse porter par les vents\nlorsque son corps est gonflé\nd'électricité à en éclater.
+102	Ces six œufs communiquent par\ntélépathie. Ils peuvent se réunir\nrapidement si on les sépare.
+103	On l'appelle “jungle sur pattes".\nSi une tête devient trop grosse,\nelle tombe et produit un NOEUNOEUF.
+104	Il pleure en pensant à sa mère\ndisparue, et ses larmes résonnent\ndans son crâne creux.
+105	Ce Pokémon sauvage possède des os\ndepuis sa naissance. Il s'en sert\npour combattre avec dextérité.
+106	Ses pattes élastiques s'allongent,\nce qui ne manque jamais de\nsurprendre au premier combat.
+107	Même le béton cède sous ses\npoings dévastateurs. Au combat, il\ns'essouffle au bout de 3 minutes.
+108	Quand il déploie sa langue de près\nde deux mètres, sa queue s'agite.\nElles seraient reliées entre elles.
+109	Il flotte en retenant des gaz plus\nlégers que l'air. Ceux-ci sont\nexplosifs, en plus d'être fétides.
+110	Il grandit en absorbant les gaz des\ndétritus. Des triplés existent, bien\nqu'ils soient fort rares.
+111	Ses puissantes charges pourraient\ndémolir n'importe quel bâtiment.\nDommage qu'il soit stupide.
+112	La station debout a libéré ses\npattes avant et l'a rendu plus\nintelligent, mais il est distrait.
+113	Ce Pokémon très serviable distribue\nses œufs hautement nutritifs aux\nhumains et Pokémon blessés.
+114	Il se cache derrière des lianes\nbleues recouvertes d'un fin\nduvet. Il est chatouilleux.
+115	Il élève ses petits dans sa poche\nventrale. Il attend d'être en lieu\nsûr pour les laisser jouer dehors.
+116	Il niche à l'ombre du corail. Quand\nil se sent menacé, il disparaît\ndans un nuage d'encre opaque.
+117	Son épine dorsale le protège.\nSes os et ses nageoires sont très\nprisés en médecine traditionnelle.
+118	Malgré son élégance quand il\nnage, ses coups de corne sont\nredoutables. 
+119	En automne, à la saison des amours,\nil fait des réserves de graisse et\narbore des couleurs chatoyantes.
+120	Même amoché, son corps se régé-\nnère tant que le noyau rouge est\nintact. Le noyau s'illumine à minuit.
+121	Un noyau rouge trône en son\ncentre. Il envoie des signaux radio\nmystérieux vers le ciel nocturne.
+122	En modifiant les molécules de l'air\ndu bout de ses doigts, il parvient\nà créer un mur invisible devant lui.
+123	A force de trancher des objets\nsolides, les faux de ses bras\nsont très aiguisées.
+124	Son cri ressemble à des paroles\nhumaines. Mais nul n'est jamais\nparvenu à les comprendre. 
+125	Il fait tournoyer ses bras pour\ndonner de la force à ses coups.\nProfitez-en pour filer!
+126	Quand il respire profondément, des\nvagues de chaleur émanent de son\ncorps et le rendent difficile à voir.
+127	Il serre les proies dans ses pinces\npour les trancher en deux. S'il n'y\narrive pas, il les jette au loin.
+128	Après avoir choisi sa cible, il fonce\ndessus tête baissée. Il est réputé\npour sa nature violente.
+129	Un vénérable MAGICARPE peut\nfranchir une montagne en utilisant\nTrempette. Mais c'est tout...
+130	Quand il se laisse emporter par la\nrage, il ne se calme qu'après avoir\ndétruit tout ce qui l'entoure.
+131	Il aime naviguer en portant des\nhumains et des Pokémon sur son\ndos. Il comprend le langage humain.
+132	Il a la capacité de modifier sa\nstructure cellulaire pour prendre\nl'apparence de ce qu'il voit.
+133	Son ADN particulier lui permet de\ns'adapter très rapidement à son\nenvironnement.
+134	Sa composition moléculaire est\nproche de celle de l'eau, ce qui\nlui permet de se liquéfier.
+135	Face au danger, il fait appel à\nl'électricité pour dresser ses\npoils et lancer des décharges.
+136	L'air qu'il inspire est chauffé par\nla glande enflammée de son corps,\natteignant les 1 700 °C.
+137	Ce Pokémon créé par des\nscientifiques peut arpenter\nlibrement le cyberespace.
+138	Un Pokémon ramené à la vie par\nla science à partir d'un fossile. Il\npeuplait autrefois les mers.
+139	On pense que ce Pokémon a\ndisparu parce que sa coquille en\nspirale était devenue trop grosse.
+140	On pense qu'il peuplait les plages\nil y a 300 millions d'années. Il est\nprotégé par une coquille robuste.
+141	On pense que ce Pokémon est\nvenu sur la terre ferme pour\nsuivre l'évolution de ses proies.
+142	Un Pokémon qui arpentait le ciel\nau temps des dinosaures. Ses\ncrocs sont pareils à des scies.
+143	Une fois le ventre plein, il est trop\namorphe pour lever le petit doigt.\nSautez sur son ventre!
+144	Un Pokémon Oiseau légendaire.\nIl peut provoquer des blizzards\nen gelant l'humidité de l'air.
+145	Un Pokémon Oiseau légendaire dont\non dit qu'il vit dans les nuages\nd'orage. Il contrôle la foudre.
+146	L'un des Pokémon Oiseaux\nlégendaires. On dit que sa venue\nannonce l'arrivée du printemps.
+147	On l'appelle “Pokémon mirage"\nen raison de sa rareté. On a\ndécouvert sa mue.
+148	La météo change brusquement quand\nil est entouré d'une aura. On dit\nqu'il peuple les mers et les lacs.
+149	On raconte qu'il vit quelque part\nen mer. Il guide les équipages\nnaufragés jusqu'à la terre ferme.
+150	Un Pokémon conçu en réorganisant\nles gènes de MEW. On raconte qu'il\ns'agit du Pokémon le plus féroce.
+151	Nombre de scientifiques voient en\nlui l'ancêtre des Pokémon car il\nmaîtrise toutes leurs capacités.
+152	Il jauge la température et\nl'humidité grâce à la feuille sur sa\ntête. Il raffole des bains de soleil.
+153	Le collier de bourgeons à son cou\nrépand un arôme épicé qui vous\ndonne du tonus.
+154	Son souffle a l'incroyable capacité\nde ranimer les plantes et les\nfleurs flétries.
+155	Ce Pokémon est un grand timide.\nLes flammes sur son dos\ns'intensifient lorsqu'il prend peur.
+156	La chaleur de ses flammes intimide\nl'ennemi. Elles s'intensifient\nlorsqu'il se prépare à combattre.
+157	Il attaque en projetant des\nflammes. Il se dissimule derrière\nles vagues de chaleur qu'il produit.
+158	Il broie tout ce qu'il trouve avec\nses mâchoires puissantes. Même\nson Dresseur doit s'en méfier.
+159	Quand il mord, il ne lâche pas prise\navant que ses crocs se brisent.\nIls repoussent par la suite.
+160	Ce Pokémon à l'air pataud est\ncapable d'attaquer à la vitesse\nde l'éclair pour mordre sa proie.
+161	Ce Pokémon très nerveux\nprend appui sur sa queue pour\nobserver ses alentours.
+162	La femelle s'enroule autour des\npetits pour les bercer. Il accule\nl'ennemi grâce à sa vitesse.
+163	Il hulule chaque jour à la même\nheure. Dans certaines cultures,\nil incarne la sagesse.
+164	Ses yeux sont capables de voir\ndistinctement même quand il fait\ntrès sombre.
+165	Il est si timide qu'il ne se déplace\nqu'au milieu d'un essaim. Il exprime\nses émotions par l'odeur.
+166	Il tire sa force de la lumière des\nétoiles. Plus il y en a et plus ses\nmotifs dorsaux sont grands.
+167	Il tisse une toile fine mais solide\npour poser des pièges et se poste\ndans l'attente d'une proie.
+168	Il attache un fil à sa proie avant\nde la libérer. Il s'en servira pour\nla retrouver, elle et ses amis.
+169	La transformation de ses pattes en\nailes a certes amélioré sa capacité\nà voler, mais pas à marcher.
+170	Il envoie des décharges électriques\npositives et négatives du bout des\nantennes pour paralyser sa proie.
+171	La lumière de LANTURN surgit des\nprofondeurs. On le surnomme\n“étoile des profondeurs".
+172	Les poches électriques de ses\njoues sont encore petites, mais\nrisquent de l'électrocuter.
+173	On dit qu'il se déplace à dos\nd'étoile filante. Il se montre\nsouvent quand on en voit.
+174	Son corps est doux et élastique.\nQuand il commence à rebondir,\non ne peut plus l'arrêter.
+175	Il transforme les émotions\npositives des autres en bonheur\nqu'il stocke dans sa coquille.
+176	Il parcourt le monde pour\ndistribuer de la joie aux\nêtres bons.
+177	Il mange des cactus en prenant\nsoin d'éviter les bourgeons et les\népines. Il ne tient pas en place. 
+178	Cet étrange Pokémon peut voir\nl'avenir et le passé. Il guette\nsans cesse la course du soleil.
+179	Sa laine fournie enfle lorsqu'il\naccumule de l'électricité statique.\nSon contact peut choquer. 
+180	Sa queue s'allume lorsque sa\nlaine se charge d'électricité.\nIl projette des poils électrifiés.
+181	Le bout de sa queue brille avec\nintensité. Jadis, on s'en servait\npour envoyer des signaux.
+182	A la fin de la saison des pluies,\nil sort danser en plein air,\nattiré par la chaleur du soleil.
+183	Sa queue à l'extrémité remplie\nd'huile fait office de flotteur et\nlui permet de ne pas couler.
+184	Ses poumons peuvent contenir\nassez d'air pour lui permettre de\npasser une journée sous l'eau.
+185	Il prend l'apparence d'un arbre\npour éviter les attaques, mais il\ndéteste l'eau et fuit la pluie.
+186	Il rassemble ses pairs pour les\ncommander. Il utilise son cri\npour diriger PTITARD.
+187	Il dérive avec le vent. Sa présence\nen nombre dans les champs et les\nmontagnes annonce le printemps.
+188	Il fleurit lorsque les températures\nremontent. Il flotte dans le ciel\npour absorber les rayons du soleil.
+189	Poussé par les vents saisonniers,\nil fait le tour du globe en semant\ndes spores de coton.
+190	Sa queue est aussi agile que ses\nmains. Il vit en haut des grands\narbres.
+191	Il tombe du ciel sans crier gare en\nmatinée. On en croise énormément\nl'année suivant un été froid.
+192	Les rayons du soleil lui donnent de\nl'énergie. Il est connu pour migrer\nvers les régions ensoleillées.
+193	La vitesse de ses ailes lui permet\nun vol stationnaire. Il surveille\nainsi tout son territoire.
+194	Sur la terre ferme, il couvre son\ncorps d'un fluide toxique qui le\nprotège de la déshydratation.
+195	De nature placide, il a tendance à\nse cogner la tête contre les récifs\net autres bateaux de passage.
+196	Sa fourrure est si sensible qu'il\npeut détecter les vibrations de\nl'air et prédire le temps qu'il fera.
+197	Quand il s'expose à la lumière de la\nlune, ses anneaux brillent et il\nobtient un mystérieux pouvoir.
+198	Quand il est en danger, il tente de\nsemer ses poursuivants dans les\nchemins montagneux.
+199	La morsure de KOKIYAS a fait\nde lui un génie dont l'intelligence\nrivalise avec celle d'un prix Nobel.
+200	Il fait peur aux aventuriers en\npleine nuit et se nourrit de leur\nfrayeur.
+201	Quand il est seul, il ne se passe\nrien... Mais en groupe, il semble\nhabité par un mystérieux pouvoir.
+202	Il cherche désespérément à cacher\nsa queue noire. Certains pensent\nqu'elle renferme un secret. 
+203	La tête qu'il a sur la queue dispose\nde son propre cerveau et lui\npermet de couvrir ses arrières.
+204	Il ressemble à une pomme de pin.\nSa carapace le protège des Pokémon\nOiseau qui le picorent par erreur.
+205	Il est prisonnier d'une coquille\nd'acier. Ses yeux vigilants sont la\nseule partie visible de son corps.
+206	Son nid est un véritable labyrinthe\nqu'il creuse à l'aide de sa queue.\nIl sait à peine voler.
+207	Il fend l'air et fond sur sa proie\npour s'agripper à son visage et\nla frapper avec son dard.
+208	On pense que son corps s'est\ntransformé à cause du fer contenu\ndans la terre dont il se nourrit.
+209	Son visage horrible fait fuir les\npetits Pokémon. Par contre, les\nfemmes le trouvent mignon.
+210	En dépit des apparences, c'est un\ngrand timide. Quand il s'énerve, il\nmord de ses énormes crocs.
+211	Il envoie ses piquants empoisonnés\nà la ronde. Sa forme sphérique en\nfait un piètre nageur.
+212	Les yeux sur ses pinces servent à\nintimider l'ennemi avant de passer\nà l'attaque.
+213	Il stocke des Baies sous sa\ncarapace. Elles fermentent et\nproduisent des jus délicieux.
+214	Il défend vaillamment sa réserve\nde miel personnelle à grand renfort\nde coups de corne.
+215	Ce Pokémon rusé agit parfois en\néquipe pour voler des œufs, l'un\nd'entre eux faisant diversion.
+216	Il baigne ses griffes dans le miel\npour les lécher. Chaque paire\nde pattes a un goût unique.
+217	Il marque de ses griffes les\narbres de son territoire qui\nportent des Baies ou des fruits.
+218	Son corps est fait de magma.\nS'il cesse de bouger, il refroidit\net durcit.
+219	Sa température corporelle avoisine\nles 10 000 °C. Des flammes\nfusent des fissures de sa coquille.
+220	Son nez très sensible détecte\nchampignons, Baies et sources\nchaudes enfouis sous la glace.
+221	Il est protégé du froid mordant par\nson épais manteau de fourrure. Ses\ncornes sont formées de glace.
+222	On en trouve beaucoup dans les\nmers claires du sud. On dirait qu'il\nne peut pas vivre en eau polluée.
+223	Son puissant jet d'eau ne manque\njamais sa cible, même quand il est\nau fond de l'eau.
+224	Il adore se cacher dans les\nfissures de la roche. Il crache\nparfois de l'encre sur ses proies.
+225	Il dépose sa nourriture dans sa\nqueue enroulée. Il l'offre souvent\naux gens égarés en montagne.
+226	Il ignore royalement les REMORAID\nqui s'accrochent à ses nageoires\npour manger les restes qu'il sème.
+227	Son corps est prisonnier d'une\narmure dure comme l'acier, mais il\nvole à plus de 300 km/h.
+228	Il est assez évolué pour chasser\nen meute et communiquer par\ndes séries de cris modulés.
+229	En colère, il crache des flammes\ncontenant une toxine qui peut\ncauser des dégâts irréversibles.
+230	Chacun de ses déplacements\nprovoque des tourbillons. Il vit\ndans les grottes sous-marines.
+231	Il est fort malgré son aspect\nramassé. Il n'a aucun mal à porter\nun humain adulte sur son dos.
+232	Il attaque en se roulant en boule\npour percuter l'ennemi. Il peut\nabattre une maison d'un seul coup.
+233	Il a subi une mise à jour censée lui\npermettre d'explorer d'autres\nplanètes... C'est un échec.
+234	Quiconque observe ses antennes\nressent une sensation étrange,\ncomme si leur centre l'attirait.
+235	Il marque son territoire en maniant\nsa queue comme un pinceau. On\ndénombre plus de 5 000 marques.
+236	Il est réputé pour sa combativité.\nIl se blesse toujours en défiant\ndes ennemis plus grands.
+237	Il combat en tournoyant comme une\ntoupie. La force centrifuge décuple\nsa puissance destructrice.
+238	Il goûte à tout du bout des lèvres.\nElles gardent en mémoire ses\ngoûts et ses dégoûts.
+239	Un faible courant électrique circule\nentre ses cornes. Attention à ne\npas y mettre la main!
+240	Son sang est chaud comme du magma\net la température de son corps\npeut atteindre 600 °C.
+241	On raconte que les enfants élevés\nau lait d'ECREMEUH deviennent des\nadultes braves et robustes.
+242	Les œufs que pond LEUPHORIE sont\nun concentré de bonheur dont une\nbouchée suffit à apporter la joie.
+243	On prétend qu'il est tombé avec la\nfoudre. Il peut lancer des éclairs\ngrâce aux nuages sur son dos.
+244	On raconte qu'à chaque fois qu'il\nrugit, un volcan entre en éruption\nquelque part.
+245	Il parcourt le vaste monde pour\npurifier les eaux polluées. Il\naccompagne le vent du nord.
+246	Un Pokémon qui se nourrit de terre.\nAprès avoir dévoré une montagne,\nil s'endort pour grandir.
+247	Son corps est dur comme la pierre\nsouterraine. Il file comme une\nfusée en expulsant des gaz.
+248	Lorsqu'il est en colère, il abat des\nmontagnes et enterre des fleuves.\nOn doit alors modifier les cartes.
+249	Il dort dans une faille des grands\nfonds. Ses battements d'ailes\ngénèrent une tempête de 40 jours.
+250	Ses plumes possèdent sept\ncouleurs. On prétend que sa vue\napporte la joie éternelle.
+251	Il a le pouvoir de voyager dans le\ntemps. Cependant, on dit qu'il\nn'apparaît qu'en temps de paix.
+252	Ses plantes de pieds sont\ncouvertes d'épines lui permettant\nde marcher au mur et au plafond.
+253	Il vit dans les jungles denses.\nIl saute de branche en branche\npour approcher de sa proie.
+254	Les feuilles sur ses bras peuvent\ntrancher des troncs épais. C'est\nle meilleur combattant des jungles.
+255	Ses câlins réchauffent car il\nrenferme une fournaise. Il envoie\ndes boules de feu à 1 000 °C.
+256	Ce maître du coup de pied peut\ndonner 10 coups par seconde. Ses\ncris aigus intimident l'ennemi.
+257	Des flammes fusent de ses\npoignets et ses coups brûlent\nl'ennemi.
+258	Il analyse le courant grâce à la\nnageoire sur sa tête. Il est assez\nfort pour soulever des rochers.
+259	Ses jambes robustes lui donnent\nun bon appui, même dans la boue.\nIl dort enfoui dans la saleté.
+260	Il peut traîner un grand bateau en\nnageant. Il assomme l'ennemi d'un\ngrand coup de ses bras épais.
+261	Un Pokémon très obstiné qui\npoursuit sa proie jusqu'à ce\nqu'elle soit épuisée.
+262	Il traque ses proies en groupe.\nIl ne désobéira jamais aux\nordres d'un bon Dresseur.
+263	Il marche en zigzaguant et n'a\npas son pareil pour trouver des\nobjets dans l'herbe ou sous terre.
+264	Il fonce sur sa proie à plus de 100\nkm/h. Mais il ne peut pas dévier sa\ncourse et loupe souvent sa cible.
+265	Cible favorite des Pokémon Oiseaux,\nil tente de se protéger avec ses\népines venimeuses.
+266	Il attend d'évoluer dans son cocon\nde soie accroché aux branches et\nse nourrit d'eau de pluie.
+267	Malgré les apparences, il est très\nagressif et attaque avec sa trompe\nquand on le dérange.
+268	Rancunier, il n'oublie aucune des\nattaques subies dans le cocon et\nse venge une fois qu'il a évolué.
+269	Il disperse un nuage de poudre\ntoxique à chaque coup d'aile. Il\naime les feuilles d'arbres urbains.
+270	Il ressemble à une plante aquatique\net fait la navette pour les\nPokémon qui ne savent pas nager.
+271	C'est un mauvais plaisantin. Quand\nil repère un pêcheur, il tire sur sa\nligne pour le déranger. 
+272	Ses muscles se tonifient au son\nd'une musique entraînante. Il ne\npeut pas s'empêcher de danser.
+273	Il ressemble à un gland pendu\nà une branche. Il adore effrayer\nles autres Pokémon.
+274	Le son de sa flûte d'herbe\ndéstabilise l'auditeur. Il vit au\nplus profond des forêts.
+275	D'un coup de sa feuille éventail, il\ngénère des bourrasques de 30 m/s\ncapables de souffler une maison. 
+276	Ce Pokémon téméraire n'a pas peur\nd'affronter des ennemis puissants.\nIl vole en quête de climats chauds.
+277	Il vole en cercle en quête d'une\nproie. Dès qu'il l'a repérée, il fond\nsur elle en un éclair.
+278	Il utilise les courants ascendants\npour planer en altitude. Son bec lui\nsert à transporter la nourriture.
+279	Ce messager du ciel transporte\npetits Pokémon et œufs dans son\nbec en toute sécurité.
+280	Quand ses cornes captent les ondes\npositives d'un Pokémon ou d'un\nhumain, son corps se réchauffe.
+281	Quand il sent la joie de son\nDresseur, il se met à danser,\ndébordant d'énergie.
+282	Prêt à tout pour protéger son\nDresseur, il peut créer un mini trou\nnoir par sa seule force mentale.
+283	Il semble patiner sur l'eau. Le\nparfum diffusé par le sommet de\nsa tête sert à attirer ses proies.
+284	Des motifs en forme d'yeux ornent\nses antennes. Ses 4 ailes l'aident\nà voler dans toutes les directions.
+285	Le sommet de sa tête libère des\nspores empoisonnées. Il est\ndangereux de les inhaler.
+286	Ses petits bras s'étendent quand il\ndonne un coup de poing. Son talent\négale celui d'un boxeur pro.
+287	Il passe le plus clair de son temps\naffalé. Rien qu'à le voir, on a\nenvie de bâiller.
+288	Son cœur bat dix fois plus vite que\nla normale, c'est pourquoi il ne\ntient pas en place.
+289	Le Pokémon le plus fainéant du\nmonde. Il s'allonge pour économiser\nses forces et contre-attaquer.
+290	Il grandit sous terre et se repère\ngrâce à ses antennes car ses\nyeux sont quasiment aveugles.
+291	Il bouge si vite que l'œil a parfois\ndu mal à le suivre. Ils se regrou-\npent près de la sève des arbres.
+292	Une carapace d'insecte laissée à\nl'abandon. On dit qu'il vole l'âme\nde celui qui regarde à l'intérieur. 
+293	En temps normal, son cri est pareil\nà un murmure. Effrayé, il atteint le\nvolume d'un avion à réaction.
+294	L'onde de choc provoquée par son\ncri peut renverser un camion. Il\ntrépigne pour augmenter sa force.
+295	Son hurlement s'entend à 10 km\nà la ronde. Ses orifices\némettent toutes sortes de bruits.
+296	Il fortifie son corps en fonçant\nsur des arbres épais. Son nid est\nentouré d'arbres abattus.
+297	Il aime mesurer sa force à celle des\nplus grands Pokémon. Ses coups de\npaume peuvent projeter un camion.
+298	Sa queue est plus rebondissante\nqu'une balle du même nom. C'est\naussi une massue très puissante.
+299	Face au danger, il se protège en\naugmentant son magnétisme et en\nattirant tout objet métallique.
+300	Il poursuit tout ce qui bouge. On\nle voit parfois courir en cercle,\nchassant sa propre queue.
+301	Les femmes Dresseurs raffolent\nde sa sublime fourrure. Il ne\npossède pas de nid.
+302	A force de manger des gemmes,\nles yeux de ce Pokémon des grottes\nobscures sont devenus des joyaux.
+303	Ses cornes forment une grande\nmâchoire attachée à sa tête. Elle\npeut broyer des barres de fer. 
+304	Il vit habituellement au cœur des\nmontagnes. Affamé, il dévore\nparfois des rails et des voitures.
+305	Il se nourrit du minerai de fer qu'il\nfore. Il défend son territoire en\nchargeant avec son corps d'acier.
+306	Il creuse des galeries à travers la\npierre avec ses cornes d'acier\npour trouver le fer qu'il apprécie. 
+307	Son entraînement d'ermite lui\npermet de léviter par le seul\npouvoir de la méditation.
+308	Le jeûne lui permet de concentrer\nson esprit au point de déceler\nl'aura de ses adversaires.
+309	Il améliore ses réflexes en\nstimulant ses muscles grâce à\nl'électricité dans sa fourrure.
+310	Il libère l'électricité par sa\ncrinière. Il crée un nuage d'orage\npour appeler la foudre.
+311	Il absorbe l'énergie des poteaux\nélectriques et encourage ses amis\navec des pompons d'étincelles. 
+312	Il encourage ses amis. Son corps\nproduit plus d'étincelles quand il\nest en mauvaise posture.
+313	Il communique avec ses pairs en\nallumant son postérieur la nuit. Il\nadore le doux parfum de LUMIVOLE.
+314	Il utilise son doux parfum pour\naider MUCIOLE à décrire des\narabesques dans le ciel nocturne.
+315	Plus le ROSELIA est en bonne santé\net plus son parfum est agréable et\nrelaxant pour son entourage.
+316	Il est principalement composé d'un\nestomac dont les sucs digestifs\ndissolvent tout ce qu'il avale.
+317	Il avale tout en une bouchée. Ses\nfollicules sécrètent des fluides\ntoxiques qui endorment l'ennemi.
+318	Il attaque en banc quand on\nmenace son territoire. Ses dents\naiguisées peuvent couler un navire.
+319	Ses crocs lacèrent des feuilles\nd'acier. Il nage à 120 km/h. On\nl'appelle “tyran des mers".
+320	Par beau temps, il se pose sur les\nplages pour jouer et rebondir. Il\nexpulse de l'eau par son évent.
+321	Le plus grand des Pokémon. Il peut\nplonger à une profondeur de\n3 000 m en retenant son souffle.
+322	Son dos bossu renferme une lave\nbouillonnante. Elle refroidit par\ntemps de pluie, ce qui le ralentit.
+323	Il porte des volcans sur son dos.\nQuand le magma remonte, il\nfrissonne et entre en éruption.
+324	Il tire son énergie du charbon qu'il\nbrûle dans sa carapace et crache\nde la suie noire en cas de danger.
+325	Il utilise sa queue comme un\nressort et bondit partout. Chaque\nnouveau choc fait battre son cœur.
+326	Les perles noires amplifient ses\npouvoirs psy. Sa danse étrange lui\npermet de contrôler ses ennemis.
+327	Les motifs sur leur fourrure sont\npropres à chaque SPINDA. Son pas\nchancelant le rend difficile à viser.
+328	Il creuse un trou conique dans le\nsable du désert et se terre en\nattendant qu'une proie trébuche.
+329	Ses violents battements d'ailes\ngénèrent des vagues d'ultrasons\nqui donnent mal au crâne.
+330	Son puissant battement d'ailes\nprovoque des tempêtes de sable.\nOn l'appelle “esprit du désert".
+331	En stockant l'eau dans son corps,\ncet habitant du désert peut\nsurvivre 30 jours sans boire.
+332	Il sort la nuit pour chasser. Il\ntraque les proies épuisées après\nune journée dans le désert.
+333	Il ne se sent à l'aise que dans un\nmilieu propre et repousse la\npoussière avec ses ailes.
+334	Il aime enlacer ses amis dans ses\nailes cotonneuses et ronronner.
+335	C'est le rival de SEVIPER depuis\ndes générations. Ses griffes\naiguisées sont son meilleur atout.
+336	Le rival historique de MANGRIFF.\nIl affûte la lame de sa queue\nsur les rochers avant le combat.
+337	On suppose qu'il est lié au cycle\nlunaire, car il ne sort que les\nsoirs de pleine lune.
+338	Le bruit court que cette nouvelle\nespèce vient du soleil. Il produit\nde la lumière en tournoyant.
+339	Son corps glissant est difficile à\nattraper. On dit qu'il a été créé\ndans de la boue solidifiée.
+340	Il défend férocement son territoire\nen déclenchant des secousses\nterribles.
+341	Sa nature robuste lui permet de\nvivre sur n'importe quel terrain.\nSes pinces ne lâchent jamais prise.
+342	C'est un voyou qui utilise ses\npinces pour chasser les autres\nPokémon hors de sa mare.
+343	Il se déplace en tournoyant sur\nson pied. Ce Pokémon rare fut\ndécouvert dans de vieilles ruines.
+344	Une ancienne figurine d'argile qui\ns'est animée suite à son exposition\nà un rayon de lumière étrange.
+345	Il vivait au fond de la mer il y a\n100 millions d'années. La science\na permis de le ressusciter.
+346	Vit dans les hauts-fonds des mers\nchaudes. Il déterre sa proie du\nsable quand la marée se retire.
+347	Un ancêtre Pokémon réanimé\nà partir d'un fossile. Il vivait en\nmer et chassait avec ses pinces.
+348	Il a gagné la côte après son\névolution. Une armure robuste\nrecouvre son corps.
+349	Ce Pokémon a peut-être un physique\ndisgracieux, mais il est robuste et\npeut survivre dans très peu d'eau.
+350	Ses splendides écailles aux\ncouleurs de l'arc-en-ciel changent\nde teinte selon l'angle de vue.
+351	Son aspect change avec la météo.\nOn a récemment découvert que ses\nmolécules étaient pareilles à l'eau.
+352	Il change de couleur à volonté,\nmais le motif en zigzag qui\norne son ventre reste le même.
+353	Il aime le goût de la vengeance.\nIls vivent en rangs sous les\ngouttières des gens vindicatifs.
+354	Une poupée mue par la tristesse qui\nla ronge depuis qu'on l'a délaissée.\nElle recherche son propriétaire.
+355	Les cris des enfants l'amusent.\nIl effraie les moins sages d'entre\neux en traversant les murs.
+356	Il cherche des feux follets pour\nles avaler. Ce qui se passe alors\ndans son corps est un mystère.
+357	A force de toujours manger le même\nfruit succulent, il en pousse à la\nbase de son cou.
+358	Ses cris se répercutent dans son\ncorps creux avant d'exploser en\nnotes mélodieuses et saisissantes.
+359	La capacité de sa corne à sentir\nles catastrophes ayant trop attiré\nl'attention sur lui, il vit reclus.
+360	Il se muscle en bousculant ses\nsemblables lors de mêlées. Il\nraffole des fruits sucrés.
+361	On dit que des groupes entiers de\nSTALGAMIN vivent en harmonie\nsous des feuilles gigantesques.
+362	Il empêche ses proies de prendre\nla fuite en gelant instantanément\nl'humidité de l'air.
+363	Il gagne la côte en roulant sur les\nblocs de glace car sa morphologie\nn'est pas adaptée à la nage.
+364	Il fait souvent tourner des objets\nsur son museau pour connaître\nleur odeur et leur texture.
+365	Il brise la glace avec ses grosses\ndéfenses. Sa graisse le protège du\nfroid, mais aussi des attaques.
+366	Il ne produit qu'une perle durant\nson existence. On raconte qu'elle\namplifie les pouvoirs psychiques.
+367	Il vit loin sous la mer. Il appâte\nles proies crédules avec sa\nqueue qui rappelle un petit poisson.
+368	Au printemps, son corps rose se\nfait plus vif sans que l'on sache\npourquoi. Il vit au fond de la mer. 
+369	Un Pokémon rare aperçu lors d'une\nexploration sous-marine. Il n'a pas\névolué depuis 100 millions d'années.
+370	Un habitant des mers chaudes. On\ndit que le couple qui tombe sur ce\nPokémon connaîtra l'amour éternel.
+371	Il rêve de pouvoir voler un jour.\nPour l'heure, il s'entraîne en\nsautant du haut des falaises.
+372	Ses cellules ont commencé à\nchanger dans sa robuste coquille.\nIl la perd en évoluant.
+373	A force de rêver de pouvoir voler,\nsa structure cellulaire a évolué\net il s'est vu pousser des ailes.
+374	Il dialogue avec les siens par\nimpulsions magnétiques. En bande,\nils se déplacent à l'unisson.
+375	Il est formé de deux TERHAL\nsoudés. Son corps de fer résiste à\nun choc avec un avion à réaction.
+376	Il est né de la fusion de plusieurs\nMETANG. Ses quatre cerveaux en\nfont l'égal d'un superordinateur.
+377	Tout son corps est fait de roche.\nS'il s'ébrèche au combat, il utilise\ndes pierres pour le réparer.
+378	Son corps est fait de glace datant\nde l'ère glaciaire. Il contrôle un\nair gelé de -200 °C.
+379	Son corps invulnérable fut forgé\npar la pression souterraine durant\ndes dizaines de milliers d'années.
+380	Son corps est recouvert d'un\nduvet qui reflète la lumière\net le rend invisible.
+381	Un Pokémon très intelligent. Il\npeut voler plus vite qu'un avion à\nréaction en repliant ses ailes.
+382	On dit qu'il a fait monter les eaux\nen causant des pluies diluviennes.\nIl somnolait dans une fosse marine.
+383	Il dormait dans le magma souterrain\ndepuis sa lutte féroce contre\nKYOGRE, il y a longtemps de cela.
+384	Il vit dans la couche d'ozone, au\ndessus des nuages. Il est invisible\ndepuis le sol.
+385	On raconte qu'une fois tous les\nmille ans, il a la capacité d'exaucer\ntous les vœux durant une semaine.
+386	Il vient d'un virus extraterrestre\narrivé avec une météorite et ayant\nsubi une mutation génétique.
+387	La coquille sur son dos est faite de\nterre. Plus il est en bonne santé,\nplus elle est humide.
+388	Il sait d'instinct où trouver une\nsource d'eau pure. Il y transporte\nd'autres Pokémon sur son dos.
+389	Certains petits Pokémon peuvent\nnaître sur son dos et y passer\ntoute leur vie.
+390	Il est très agile. Il fait toujours\nattention d'éteindre la flamme de\nsa queue avant de se coucher.
+391	Il contrôle habilement l'intensité\nde la flamme de sa queue pour tenir\nses adversaires à distance.
+392	Ses techniques de combat inédites\nà base de pieds et poings enflammés\nsont redoutables.
+393	Malgré sa démarche maladroite\net ses pertes d'équilibre, il bombe\ntoujours fièrement le torse.
+394	La fierté du PRINPLOUF est si\ngrande qu'il lui est impossible\nde vivre en groupe.
+395	S'il voit son honneur bafoué, il\nest capable de faire des ravages\navec ses ailes tranchantes.
+396	La faiblesse des ETOURMI les force\nà vivre en groupe, mais ils se\nchamaillent souvent.
+397	Conscient de sa propre faiblesse,\nil vit toujours en groupe, piaillant\nbruyamment quand il est seul.
+398	Il combattra sans relâche, même\nblessé. Il prend grand soin de sa\nmèche.
+399	Une étude a montré que les dents\ndu KEUNOTOR poussaient aussi\nvite que celles du RATTATA.
+400	Les digues insubmersibles qu'il\nconstruit font le bonheur des\nhabitants proches.
+401	Quand il tombe du haut de ses\npetites pattes, ses antennes\nfont un bruit de xylophone.
+402	Ses cris sont tellement variés qu'il\nexiste un village où on organise\ndes concours en leur honneur.
+403	Ses muscles génèrent un courant\nélectrique lorsqu'ils travaillent.\nIl s'illumine en cas de danger.
+404	Le courant qui circule à la pointe\nde ses griffes est capable de faire\nperdre connaissance à ses proies.
+405	Il est capable de voir à travers\nles murs pour chasser des proies\nou retrouver ses petits égarés.
+406	Il est sensible aux variations de\ntempérature et on dit qu'il fleurit\nquand il sent la chaleur du soleil.
+407	Ses mains contenant chacune des\ntoxines différentes sont capables\nd'asséner de puissants coups.
+408	Il vivait dans la jungle il y a\n100 millions d'années. Il abat\nun arbre d'un coup de tête.
+409	Quand deux CHARKOS se rentrent\ndedans, leur crâne extrêmement\népais les empêche de s'assommer.
+410	Il est si bien protégé qu'il peut\ndéguster Baies et herbe fraîche\nsans craindre de prédateurs.
+411	En groupe, ils protègent leurs\npetits en formant autour d'eux\nune impénétrable muraille.
+412	Nul ne sait comment il y parvient,\nmais il arrive toujours à se former\nune cape, où qu'il soit.
+413	A l'évolution, son corps absorbe\nles matériaux à proximité et peut\nainsi présenter divers aspects.
+414	Il adore le nectar des fleurs mais\nn'en récolte pas lui-même.\nIl préfère en voler à un APITRINI.
+415	Ce trio inséparable depuis la\nnaissance récolte du miel\npour satisfaire APIREINE.
+416	Ce Pokémon utilise des phéromones\npour donner des ordres de combat\naux larves dans son abdomen.
+417	Il arrive que deux PACHIRISU se\nfrottent les joues pour partager\nl'électricité qu'ils ont accumulée.
+418	Il utilise ses deux queues comme\nune hélice pour se propulser sous\nl'eau et trancher les algues.
+419	Il chasse souvent près des ports\nde pêche où il sauve parfois les\ngens tombés à la mer.
+420	Sa petite boule rose est nutritive\net délicieuse. Les ETOURMI en\nraffolent.
+421	Sous un grand soleil, il ouvre\nses pétales pour en absorber\nles rayons.
+422	Un étrange liquide mauve s'échappe\nde son corps, ne lui appuyez pas\ndessus.
+423	Ses gènes ont démontré qu'il avait\njadis une carapace couvrant la\ntotalité de son dos.
+424	Ses queues jumelles sont si agiles\net efficaces qu'il ne se sert que\ntrès rarement de ses bras.
+425	Sa façon de flotter sans but au\ngré du vent lui a valu le surnom\nde “bouée des esprits égarés".
+426	Des nuées de GRODRIVE dérivent\ndans le ciel au crépuscule. Ils\ndisparaissent dès qu'on les voit.
+427	Ses oreilles repliées se déroulent\navec une force capable de briser\nun gros rocher.
+428	Il est capable de décocher de\npuissants coups de pied si on\ntouche à ses délicates oreilles.
+429	Pareil à une incantation magique,\nson cri n'est que très rarement\nsource de joie.
+430	Son cri profond peut invoquer une\nmeute de CORNEBRE. On l'appelle\n“le crieur de mauvais augure".
+431	Il a tendance à planter ses griffes\ndans le nez de son Dresseur s'il\nn'a pas été nourri à temps.
+432	Il plaque ses queues contre son\ndos pour paraître plus grand.\nIl soutient un regard des heures.
+433	Quand il sautille, l'orbe qu'il a\ndans la bouche s'agite et tinte\ncomme une cloche.
+434	Son derrière propulse un fluide\nnauséabond qui peut faire fuir les\nPokémon dans un rayon de 2 km.
+435	Il attaque en projetant un liquide\nfétide du bout de sa queue. Mieux\nvaut l'attaquer par les airs.
+436	Certains scientifiques soutiennent\nque ce Pokémon était jadis aussi\nréfléchissant qu'un miroir.
+437	Il apportait la pluie en créant un\nportail vers une autre dimension.\nIl était synonyme de bonne récolte.
+438	Adepte des climats secs, il régule\nson humidité en laissant couler ce\nqui ressemble à des larmes.
+439	Il imite les mouvements et les\nexpressions des autres pour\ncomprendre leurs sentiments.
+440	Ce Pokémon ne se sépare jamais de\nson petit caillou et a tendance à\ntraîner dans les pieds des gens.
+441	Sa langue comparable à celle\nde l'homme lui permet d'imiter\nhabilement le langage humain.
+442	Son mauvais comportement lui a valu\nd'être enchaîné à une Clé de Voûte\npar un mystérieux sortilège.
+443	Malgré sa maladresse, son énorme\ngueule lui permet de lancer des\nattaques puissantes.
+444	Toujours à la recherche d'objets\nbrillants, il arpente les grottes\npour constituer son butin.
+445	On dit que lancé à pleine vitesse,\nil crée des lames de vent avec ses\nailes pouvant trancher un arbre.
+446	Obnubilé par sa quête incessante\nde nourriture, il oublie parfois\nqu'il en a caché dans sa fourrure.
+447	Il a la faculté unique de visualiser\nles émotions telles que la joie ou\nla colère sous forme d'ondes.
+448	Un spécimen bien entraîné peut\nsentir et identifier les émotions de\nquelqu'un à plus d'un kilomètre.
+449	Il peut obturer ses narines et\ntraverser le sable comme un ver.\nIl vit en colonies de 10 individus.
+450	Facilement irritable, il ouvre ses\nmâchoires au maximum pour intimider\nses adversaires.
+451	Il saisit sa proie avec les pinces de\nsa queue et lui injecte un poison.\nIl peut survivre un an sans manger.
+452	Fier et robuste, il met un point\nd'honneur à battre ses adversaires\nsans utiliser de poison.
+453	Son instinct de survie le pousse à\nne pas se battre dans les règles.\nC'est une mascotte populaire.
+454	Quand il coasse, le poison stocké\nsous sa gorge est secoué, le\nrendant ainsi plus efficace.
+455	Il s'accroche aux arbres des\nmarais et attire ses proies avec\nsa salive à l'odeur enivrante.
+456	La ligne qui fait le tour de son\ncorps stocke l'énergie solaire\net brille dans la nuit.
+457	Il rampe au fond de l'océan grâce\naux nageoires de son torse.\nLe LANTURN est son rival.
+458	On organise des excursions pour le\nvoir surfer sur les vagues au côté\ndes REMORAID.
+459	Curieux de rencontrer des gens, ils\nse rassemblent autour des traces\nde pas trouvées dans la montagne.
+460	Il apparaît quand les fleurs des\nterres enneigées fleurissent et\nse retire quand elles se fanent.
+461	L'évolution l'a rendu encore plus\nretors. Il communique en griffant\ndes signes dans les pierres.
+462	Des scientifiques ont essayé de\nfaire évoluer un MAGNEZONE en\nlaboratoire, mais ce fut un échec.
+463	Sa longue langue est couverte en\npermanence d'une épaisse couche\nde bave anesthésiante.
+464	Il peut lancer des pierres à une\nvitesse saisissante en bandant et\nrelâchant ses muscles en un éclair.
+465	Ses bras sont en fait des plantes\nqui s'attachent à tout ce qu'elles\ntouchent et peuvent repousser.
+466	Encaissant les attaques, il vient\ntoucher l'ennemi de ses queues\net lui inflige une forte décharge.
+467	Quand il lance des boules de feu\nà plus de 2 000 °C, son corps\nest comme chauffé à blanc.
+468	Il apprécie particulièrement les\ngens qui respectent les autres\net évitent les conflits inutiles.
+469	Doté de mandibules à la force\ncolossale, il excelle pour mordre\nses ennemis en plein vol.
+470	Il utilise la photosynthèse comme\nune plante et a aussi tendance à\néviter le combat à tout prix.
+471	Il ajuste la température de son\ncorps pour créer un vent de glace\nen gelant l'air qui l'entoure.
+472	Le plus petit courant d'air peut lui\ndonner assez d'élan pour faire le\ntour du monde sans un coup d'aile.
+473	On a libéré un spécimen de sa prison\nglacée au bout de 10 000 ans.\nIl n'en revenait pas.
+474	Il a été modifié pour être capable\nde travailler dans des dimensions\nparallèles, mais c'est un échec.
+475	Toujours prêt à protéger son\nprochain, il se bat férocement\navec ses coudes en forme d'épées.
+476	Il utilise sa force magnétique pour\ndiriger trois petites unités\nappelées Mini-nez.
+477	Son corps se replie sur lui-même\npour emprisonner les esprits\nperdus et les ramener chez eux.
+478	On dit que MOMARTIK gèle ses proies\ngrâce à son souffle à -50 °C avant\nde les exposer dans sa tanière.
+479	Son corps parcouru d'électricité\nlui permet de prendre le contrôle\nde certains appareils ménagers.
+480	Quand il prit son envol, les\nhommes apprirent à résoudre les\nproblèmes. Le savoir était né.
+481	Quand il prit son envol, les hommes\napprirent à ressentir la joie et la\npeine. L'émotion était née.
+482	Quand il prit son envol, les hommes\nacquirent la détermination.\nLa volonté était née.
+483	On dit que le temps s'écoule au\nrythme des battements de cœur de\nce Pokémon légendaire de Sinnoh.
+484	On dit que la stabilité de l'espace\nest maintenue par le souffle de ce\nPokémon légendaire de Sinnoh.
+485	Son corps est composé d'acier brut\ndont certaines parties ont fondu\nà cause de sa propre chaleur.
+486	On dit qu'il a créé des Pokémon\nà son image à partir de glace,\nde roche et de magma.
+487	Sa grande violence lui a valu d'être\nbanni. Il observe les hommes en\nsilence depuis le Monde Distorsion.
+488	Les nuits où le premier croissant\nde lune est visible, l'arc de sa\nqueue se déploie de façon superbe.
+489	Ce Pokémon des mers chaudes\nrevient toujours à son lieu de\nnaissance, peu importe la distance.
+490	Il est né avec le pouvoir incroyable\nde créer des liens avec n'importe\nquel Pokémon.
+491	Menacé, ce Pokémon se protège\nen créant des cauchemars dans\nl'esprit de ses ennemis.
+492	Les fleurs qui couvrent son corps\ns'ouvrent quand il est câliné avec\namour et perçoit de la gratitude.
+493	On dit que son œuf a éclos dans\nle néant et qu'il est à l'origine\nde la création du monde.

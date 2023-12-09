@@ -15,6 +15,9 @@ jobs:
         with:
           ref: master
           fetch-depth: 2
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
       - uses: actions/checkout@v4
         with:
           repository: Xzonn/PCTRTools
@@ -47,11 +50,11 @@ jobs:
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
-          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:DP|D|P)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:Pt[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:HGSS|HG|SS)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_bw=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:BW|B|W)[\\/]|CharTable\.txt)|textures[\\/](?:BW)[\\/]|scripts[\\/](?:BW|B|W)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_b2w2=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:B2W2|B2|W2)[\\/]|CharTable\.txt)|textures[\\/](?:B2W2)[\\/]|scripts[\\/](?:B2W2|B2|W2)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:DP|D|P|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:Pt|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:HGSS|HG|SS|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_bw=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:BW|B|W|Common)[\\/]|CharTable\.txt)|textures[\\/](?:BW)[\\/]|scripts[\\/](?:BW|B|W)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_b2w2=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:B2W2|B2|W2|Common)[\\/]|CharTable\.txt)|textures[\\/](?:B2W2)[\\/]|scripts[\\/](?:B2W2|B2|W2)\.')" >> $env:GITHUB_OUTPUT
       - name: Configure dotnet script
         run: |
           Try
@@ -62,6 +65,11 @@ jobs:
           {
             dotnet tool install -g dotnet-script
           }
+      - name: Merge messages
+        run: |
+          python scripts/merge_messages.py
+        env:
+          PYTHONUTF8: 1
       - name: Diamond and Pearl
         if: steps.commit.outputs.changed_dp != ''
         continue-on-error: true

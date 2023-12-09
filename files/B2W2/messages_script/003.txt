@@ -1,0 +1,121 @@
+0	no data
+1	no data
+2	no data
+3	no data
+4	no data
+5	no data
+6	no data
+7	no data
+8	拓郎：坚决的人就是\n想要的东西就一定要得到手。\f\n如果你有什么宝可梦是想要的，\n就一定不能放弃！\f\n清澈正义的欲望就一定要\n贯彻到底！
+9	拓郎：最坚决的\n我们常去的商店里\f\n好像进了\n最新的道具了！
+10	拓郎：以前这里有不少\n唯利是图的坏人，\r\n不过我基本都摆平了！\f\n呵！黑都市的和平\n由我来创造！
+11	no data
+12	no data
+13	no data
+14	no data
+15	no data
+16	no data
+17	no data
+18	no data
+19	no data
+20	no data
+21	no data
+22	no data
+23	no data
+24	no data
+25	no data
+26	no data
+27	no data
+28	卡莲：我听说有强者\n云集的修行场，\r\n就带着宝可梦们来了！\f\n你也是训练师吧！\n大家一同努力吧！
+29	卡莲：你是[0100,0000]吧！\f\n你好像已经攻克了\n大部分的黑色摩天楼了，\r\n不过我也不会输！
+30	卡莲：恭喜你称霸了\n黑色摩天楼，[0100,0000]！！\r\n你已经名声在外了！\f\n听说商店都已经有你的\n制霸纪念品了！
+31	no data
+32	no data
+33	no data
+34	no data
+35	no data
+36	no data
+37	no data
+38	no data
+39	no data
+40	一穂：为了写论文，\n我来到了黑都市。\f\n题目是都市生活和宝可梦！\f\n我要调查宝可梦对于在\n大城市中精疲力尽的人们\r\n有怎样的治愈效果！
+41	一穂：我在黑都市\n调查的研究\r\n终于算是完成了！\f\n果然在城市里，\n最好的解压方法就是\r\n和宝可梦们接触啊！
+42	no data
+43	no data
+44	no data
+45	no data
+46	no data
+47	no data
+48	no data
+49	no data
+50	no data
+51	no data
+52	no data
+53	no data
+54	no data
+55	no data
+56	no data
+57	no data
+58	no data
+59	no data
+60	no data
+61	no data
+62	no data
+63	no data
+64	no data
+65	no data
+66	no data
+67	no data
+68	no data
+69	no data
+70	no data
+71	no data
+72	由美子：我在著名公司云集的\n黑都市中也可算是\r\n屈指可数的大公司上班！\f\n我要努力工作，\n出人头地！
+73	由美子：我不行了！不行了！\n啊啊啊啊啊啊啊啊啊啊啊啊啊！\f\n呜……工作失败，\n男朋友也分手了……\f\n我想逃到白森林去……\n让森林和宝可梦治愈我……
+74	由美子：前几天我在\n公司解决了一个大难题，\r\n大家都表扬我了♪\f\n虽然发生了很多事，\n但还好我坚持了下来！\f\n今后我也要在这个黑都市里\n好好努力赚钱。
+75	no data
+76	no data
+77	no data
+78	no data
+79	no data
+80	no data
+81	no data
+82	no data
+83	no data
+84	no data
+85	no data
+86	no data
+87	no data
+88	伊莉莎：我寻求金钱与声望\n来到了这欲望的城市！\f\n首先要比所有人更早地\n称霸黑色摩天楼，\r\n成为名人！\f\n……不是吧！\n你称霸了？\r\n啊啊！我的计划啊！
+89	no data
+90	no data
+91	no data
+92	宏则：我有想要的东西，\n但是商店里一直都\r\n不进货！\f\n商店的店员说过一段时间\n就会进货的，\r\n但我等不了了！
+93	宏则：你去商店看了吗？\n进新商品了！\f\n但是还是没有\n我想要的那个东西……\f\n再不得到那个的话\n我就麻烦了！
+94	宏则：商店里终于进\n那个东西了！\r\n我终于等到了！\f\n……哎？那东西是什么？\f\n这是个人隐私！\n我是不会告诉你的！
+95	no data
+96	小健：为挑战合众难关，\n黑色摩天楼，\r\n全世界的训练师\r\n都来到了这里。\f\n[0100,0000]也要挑战吗？\f\n前方有艰难的战斗在等着你，\n要带上最强的宝可梦啊。
+97	小健：合众的\n黑色摩天楼，\r\n[0100,0000]大放光彩！\f\n但是不能大意，\n越往上，\r\n对手就越强悍……\f\n这是经验者的忠告，\n努力向上爬吧。
+98	小健：合众的\n黑色摩天楼，\r\n终于征服了！\f\n[0100,0000]……\n好厉害啊……\f\n我挑战了无数次，\n但每一次都失败，\r\n渐渐也放弃了……\f\n你始终坚信宝可梦和自己，\n我对你表示尊敬。
+99	no data
+100	no data
+101	no data
+102	no data
+103	no data
+104	no data
+105	no data
+106	no data
+107	no data
+108	no data
+109	no data
+110	no data
+111	no data
+112	艾米：还没打工的时候\n我在黑色摩天楼里\r\n赚奖金！\f\n来这里真是太好了，\n虽然很喜欢幽静的地方，\f\n但是白森林\n是赚不到那么多钱的。
+113	艾米：[0100,0000]听说你在\n黑色摩天楼爬到了很高啊？\f\n好厉害啊，我的话第一层\n就已经是极限了！\f\n但是已经可以赚到很多\n零花钱了，无所谓！
+114	艾米：虽说是为了赚钱，\n不过长时间待在同一座城市里\r\n还是第一次啊……\f\n不过能认识很多人，\n还能找到喜欢的店……\f\n不过差不多该走了，\n接下来去白森林，\r\n悠闲的生活也不错啊！
+115	no data
+116	no data
+117	no data
+118	no data
+119	no data
+120	这里是黑都市，\n就是黑色的城市。

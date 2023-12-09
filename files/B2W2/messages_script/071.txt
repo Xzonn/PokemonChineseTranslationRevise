@@ -1,0 +1,13 @@
+0	欢迎来到\n我的派对！！\f\n请尽情地和\n大家说话吧！
+1	Ich habe mir nun ein Auto zugelegt!\f\nDamit ist die n"achste Stadt auch\nganz ohne Orden zum Greifen nah!\f\nEs sei denn, ich rassele durch\nmeine Führerscheinprüfung...\f\n那什么，\n前几天我买了车！\f\n这下就算没有道馆徽章\n我也能去下一个城市了！\f\n……不过目前\n还没有驾照就是了。
+2	呀，你吃过\n飞云冰淇淋吗？
+3	Hey, Trainer!\nCheck out my moves!\f\nHave you gone to the next city yet?\nI learned this move at the\r\nmusical over there.\r\nPretty cool, isn't it?\f\n呀！旅行者！\n看看我的脚步吧。\f\n你去过下一个城市了吗？\f\n我这舞步就是在\n那边学到的！\f\n很帅吧！
+4	呀，你的宝可梦\n好可爱啊！\f\n请一定要让它\n用这个啊！\f
+5	这下你的宝可梦的\n可爱就无人能敌了！\f\n没有宝可梦是不会被\n异性魅惑的！
+6	你见过超模\n小菊儿的衣服吗？\f
+7	小菊儿不管穿什么\n都很美！我太着迷了！
+8	我的男朋友\n喜欢赖床……\r\n到了让人发指的地步。\f\n只有让宝可梦来一记苏醒巴掌\n他才会起来！
+9	Hi there.\nHaving a good time?\f\nYou don't have to be shy.\nFeel free to talk to anyone.\f\n那个……\f\n不断地和\n别人说话吧！
+10	这么开心的日子，\n第二天肯定很难起床了。
+11	我用宝可梦的\n唱歌技能\r\n代替闹钟用。\f\n但是完全起不来，\n这是为什么呢！？
+12	!Es la primera vez que vengo aquí!\f\n!Pero este precioso paisaje hace\nque me sienta como en casa!\f\n!La próxima vez traeré a mis amigos!\f\n啊啊，\n我说得明白一点吧。\f\n我是第一次来这里，\n但瞧这美丽的风景，\r\n配上这舒适的空气！\f\n下次我要带我朋友来！
