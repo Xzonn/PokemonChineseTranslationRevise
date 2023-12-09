@@ -12,6 +12,7 @@ for game_info in GAMES:
 
   file_ids = sorted(game_data[languages[0]].keys())
   with open(f"files/{game}/{file_name}", "w", -1, "utf8") as writer:
+    writer.write("#4\n")
     for lang_i, language in enumerate(languages):
       for file_id in file_ids:
         if len(languages) == 1:
