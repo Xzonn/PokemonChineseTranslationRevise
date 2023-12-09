@@ -2,6 +2,10 @@ name: Build
 
 on:
   workflow_call:
+    inputs:
+      publish:
+        required: true
+        type: boolean
 
 concurrency:
   group: build
@@ -50,11 +54,11 @@ jobs:
         id: commit
         run: |
           echo "commit_message=$(git log -1 --pretty=%s)" >> $env:GITHUB_OUTPUT
-          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:DP|D|P|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:Pt|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:HGSS|HG|SS|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_bw=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:BW|B|W|Common)[\\/]|CharTable\.txt)|textures[\\/](?:BW)[\\/]|scripts[\\/](?:BW|B|W)\.')" >> $env:GITHUB_OUTPUT
-          echo "changed_b2w2=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|files[\\/](?:(?:B2W2|B2|W2|Common)[\\/]|CharTable\.txt)|textures[\\/](?:B2W2)[\\/]|scripts[\\/](?:B2W2|B2|W2)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_dp=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|scripts[\\/]|files[\\/](?:(?:DP|D|P|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|D|P)[\\/]|scripts[\\/](?:DP|D|P)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_pt=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|scripts[\\/]|files[\\/](?:(?:Pt|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|Pt)[\\/]|scripts[\\/]Pt\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_hgss=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|scripts[\\/]|files[\\/](?:(?:HGSS|HG|SS|Common)[\\/]|CharTable\.txt)|textures[\\/](?:DP|HGSS)[\\/]|scripts[\\/](?:HGSS|HG|SS)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_bw=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|scripts[\\/]|files[\\/](?:(?:BW|B|W|Common)[\\/]|CharTable\.txt)|textures[\\/](?:BW)[\\/]|scripts[\\/](?:BW|B|W)\.')" >> $env:GITHUB_OUTPUT
+          echo "changed_b2w2=$(git diff --name-only HEAD..HEAD~1 | Select-String -Pattern '\.github[\\/]workflows[\\/]|scripts[\\/]|files[\\/](?:(?:B2W2|B2|W2|Common)[\\/]|CharTable\.txt)|textures[\\/](?:B2W2)[\\/]|scripts[\\/](?:B2W2|B2|W2)\.')" >> $env:GITHUB_OUTPUT
       - name: Configure dotnet script
         run: |
           Try
@@ -105,7 +109,14 @@ jobs:
           scripts/B2W2.ps1
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
+      - name: Upload artifacts
+        if: ${{ !inputs.publish }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: Patch
+          path: "out/Patch-*.xzp,out/Aikotoba-*.txt"
       - name: GitHub Release
+        if: ${{ inputs.publish }}
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
