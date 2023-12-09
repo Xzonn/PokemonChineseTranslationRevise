@@ -6,6 +6,25 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
 {
   ["Pt"] = "宝可梦 白金\nNintendo",
 };
+var messages = LoadMessages("Pt");
+var easyChatWordsIds = new int[] {
+  408, // monsname
+  636, // wazaname
+  616, // typename
+  604, // tokusei
+  433, // pms_word06
+  434, // pms_word07
+  435, // pms_word08
+  436, // pms_word09
+  437, // pms_word10
+  438, // pms_word11
+  439, // pms_word12
+};
+IEnumerable<string> easyChatWords = [];
+foreach (var id in easyChatWordsIds)
+{
+  easyChatWords = easyChatWords.Concat(messages[id].Values);
+}
 
 foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
@@ -21,6 +40,18 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   EditBinary(ref arm9, 0x02315A, "C0 46");
   // `GetGlyphWidth_VariableWidth()` Change 01AC `?` to 01FB `　`
   EditBinary(ref arm9, 0x023378, "FA 01");
+  // Sort easy chat words
+  var easyChatWordsArray = easyChatWords.ToArray();
+  var aikotobaList = new List<string>();
+  using (var br = new BinaryReader(File.OpenRead($"files/Pt/pms_aikotoba.bin")))
+  {
+    while (br.BaseStream.Position != br.BaseStream.Length)
+    {
+      aikotobaList.Add(easyChatWordsArray[br.ReadInt32()]);
+    }
+  }
+  File.WriteAllLines($"out/Aikotoba-Pt.txt", aikotobaList);
+  SortEasyChatWords(ref arm9, 0xf7044, easyChatWordsArray);
 
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");

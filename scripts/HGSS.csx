@@ -9,6 +9,25 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
   ["HG"] = "宝可梦 心金\nNintendo",
   ["SS"] = "宝可梦 魂银\nNintendo",
 };
+var messages = LoadMessages("HGSS");
+var easyChatWordsIds = new int[] {
+  232, // monsname
+  739, // wazaname
+  724, // typename
+  711, // tokusei
+  278, // pms_word06
+  279, // pms_word07
+  280, // pms_word08
+  281, // pms_word09
+  282, // pms_word10
+  283, // pms_word11
+  284, // pms_word12
+};
+IEnumerable<string> easyChatWords = [];
+foreach (var id in easyChatWordsIds)
+{
+  easyChatWords = easyChatWords.Concat(messages[id].Values);
+}
 
 foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
@@ -26,6 +45,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   EditBinary(ref arm9, 0x025CF2, "C0 46");
   // `GetGlyphWidth_VariableWidth()` Change 01AC `?` to 01FB `　`
   EditBinary(ref arm9, 0x025F68, "FA 01");
+  // SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
 
   var arm9CompNew = BLZ.Compress(arm9.Skip(0x4000).ToArray());
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9.Take(0x4000).Concat(arm9CompNew).Concat(nitroCode).ToArray());

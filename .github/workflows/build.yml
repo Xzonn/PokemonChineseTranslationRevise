@@ -109,7 +109,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "out/Patch-*.xzp"
+          artifacts: "out/Patch-*.xzp,out/Aikotoba-*.txt"
           body: |
             本页面下方的链接为自动构建并发布的开发版本补丁。**此版本补丁可能存在较多问题，仅供测试使用。**
 

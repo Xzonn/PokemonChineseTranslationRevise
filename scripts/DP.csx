@@ -7,6 +7,25 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
   ["D"] = "宝可梦 钻石\nNintendo",
   ["P"] = "宝可梦 珍珠\nNintendo",
 };
+var messages = LoadMessages("DP");
+var easyChatWordsIds = new int[] {
+  356, // monsname
+  575, // wazaname
+  555, // typename
+  544, // tokusei
+  380, // pms_word06
+  381, // pms_word07
+  382, // pms_word08
+  383, // pms_word09
+  384, // pms_word10
+  385, // pms_word11
+  386, // pms_word12
+};
+IEnumerable<string> easyChatWords = [];
+foreach (var id in easyChatWordsIds)
+{
+  easyChatWords = easyChatWords.Concat(messages[id].Values);
+}
 
 foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
@@ -24,6 +43,9 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   EditBinary(ref arm9, 0x0229FC, "05 28 02 02");
   // Change offset
   EditBinary(ref arm9, 0x022AE8, "C5 28 02 02");
+  // Sort easy chat words
+  var aikotobaList = SortEasyChatWords(ref arm9, (uint)(gameCode == "D" ? 0x1001b4: 0x1001b8), easyChatWords.ToArray());
+  if (gameCode == "D") { File.WriteAllLines($"out/Aikotoba-DP.txt", aikotobaList); }
 
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");
