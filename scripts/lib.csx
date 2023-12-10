@@ -36,6 +36,16 @@ void CopyFolder(string from, string to, string pattern = "*")
   }
 }
 
+void CopyFile(string from, string to, string pattern = "*")
+{
+  if (!Directory.Exists(Path.GetDirectoryName(to)))
+  {
+    Directory.CreateDirectory(Path.GetDirectoryName(to));
+  }
+  File.Copy(from, to, true);
+  Console.WriteLine($"Copied: {from} -> {to}");
+}
+
 void MoveFile(string from, string to)
 {
   if (File.Exists(to))
@@ -92,8 +102,8 @@ string[] SortEasyChatWords(ref byte[] arm9, uint offset, string[] words)
     var _words = easyChatWordsByCategory[i].Keys.ToList();
     _words.Sort((a, b) =>
     {
-      if (comparerReplacement.TryGetValue(a, out string? value1)) { a = value1; }
-      if (comparerReplacement.TryGetValue(b, out string? value2)) { b = value2; }
+      if (comparerReplacement.TryGetValue(a, out string value1)) { a = value1; }
+      if (comparerReplacement.TryGetValue(b, out string value2)) { b = value2; }
       return comparer.Compare(a, b);
     }); 
     switch (i)

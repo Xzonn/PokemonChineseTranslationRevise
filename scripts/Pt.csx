@@ -99,7 +99,8 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.Copy($"files/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
 }
 
-CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zkn_data_gira.narc/");
+CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zukan_data.narc/");
+CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zukan_data_gira.narc/");
 
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/batt_obj.narc/");
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/pl_batt_obj.narc/");

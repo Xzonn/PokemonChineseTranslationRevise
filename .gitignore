@@ -11,5 +11,6 @@ weblate
 messages.txt
 messages_common.txt
 messages_script.txt
+*.jpn.txt
 
 __pycache__/
