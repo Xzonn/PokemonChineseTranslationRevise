@@ -15,12 +15,15 @@ for game_info in GAMES:
     writer.write("#4\n")
     for lang_i, language in enumerate(languages):
       for file_id in file_ids:
+        lines = game_data[language].get(file_id, game_data[languages[0]][file_id])
+        if len(lines) == 0:
+          continue
+
         if len(languages) == 1:
           writer.write(f"{file_id}\n")
         else:
           writer.write(f"{file_id}-{lang_i}\n")
 
-        lines = game_data[language].get(file_id, game_data[languages[0]][file_id])
         for i, line in lines.items():
           writer.write(f"{i}\t{line}\n")
 

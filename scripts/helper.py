@@ -76,6 +76,8 @@ def load_game_data(game_info: dict[str, str | dict]) -> dict[str, dict[int, dict
     for language, file_path in zip(languages, file_paths):
       if file_id not in game_data[language]:
         game_data[language][file_id] = {}
+      if not file_path:
+        continue
 
       with open(file_path, "r", -1, "utf8") as reader:
         lines = reader.read().splitlines()
