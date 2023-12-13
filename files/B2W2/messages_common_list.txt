@@ -440,7 +440,7 @@
 442	files/B2W2/messages_common/442.txt
 443	files/B2W2/messages_common/442.txt
 451	files/B2W2/messages_common/451.txt
-464	files/B2W2/messages_common/464.txt
+464	files/BW/messages_common/257.txt
 471	files/B2W2/messages_common/471.txt
 478	files/B2W2/messages_common/478.txt
 479	files/B2W2/messages_common/479.txt
