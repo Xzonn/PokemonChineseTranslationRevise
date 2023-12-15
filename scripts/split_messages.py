@@ -46,7 +46,7 @@ for game_info in GAMES:
     file_id, *file_paths = line.split("\t")
     file_id = int(file_id)
     for language, file_path in zip(languages, file_paths):
-      if not file_id in game_data[language]:
+      if (not file_id in game_data[language]) or (not file_path):
         continue
       with open(file_path, "w", -1, "utf8", newline="\n") as writer:
         for line_id, content in game_data[language][file_id].items():

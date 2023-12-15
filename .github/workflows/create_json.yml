@@ -7,14 +7,14 @@ on:
     paths:
       - '.github/workflows/*.yml'
       - 'scripts/create_json.py'
-      - 'files/DP/messages/'
-      - 'files/Pt/messages/'
-      - 'files/HGSS/messages/'
-      - 'files/BW/messages_common/'
-      - 'files/BW/messages_script/'
-      - 'files/B2BW/messages_common/'
-      - 'files/B2BW/messages_script/'
-      - 'files/Common/messages/'
+      - 'files/DP/messages/*'
+      - 'files/Pt/messages/*'
+      - 'files/HGSS/messages/*'
+      - 'files/BW/messages_common/*'
+      - 'files/BW/messages_script/*'
+      - 'files/B2W2/messages_common/*'
+      - 'files/B2W2/messages_script/*'
+      - 'files/Common/messages/*'
   workflow_dispatch:
 
 concurrency:
