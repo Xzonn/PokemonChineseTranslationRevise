@@ -1,0 +1,68 @@
+name: Create txt
+
+on:
+  push:
+    branches: 
+      - weblate
+    paths:
+      - '.github/workflows/*.yml'
+      - 'scripts/*'
+      - 'DP/zh_Hans/*.json'
+      - 'Pt/zh_Hans/*.json'
+      - 'HGSS/zh_Hans/*.json'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.updated.outputs.updated }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Commit Information
+        id: commit
+        run: |
+          echo "commit_message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
+          path: master
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Create txt
+        run: |
+          pushd master
+          python scripts/merge_messages.py
+          popd
+          python scripts/create_txt.py
+          pushd master
+          python scripts/split_messages.py
+          popd
+      - id: updated
+        name: Checking if updated
+        run: |
+          pushd master
+          if [[ -z $(git status -s) ]]
+          then
+            echo "Nothing to commit, tree is clean"
+            echo "updated=false" >> $GITHUB_OUTPUT
+          else
+            echo "updated=true" >> $GITHUB_OUTPUT
+          fi
+          popd
+      - name: Push to GitHub
+        if: steps.updated.outputs.updated == 'true'
+        run: |
+          pushd master
+          git add -A
+          git -c user.name=GitHub -c user.email=noreply@github.com commit -m "${{ steps.commit.outputs.commit_message }}"
+          git push
+
+  build:
+    needs: convert
+    if: needs.convert.outputs.updated == 'true'
+    uses: Xzonn/PokemonChineseTranslationRevise/.github/workflows/build.yml@master
+    with:
+      publish: true
