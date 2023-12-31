@@ -4,9 +4,12 @@ $PCTRTools = "tools/PCTRTools/bin/Release/PCTRTools.exe"
 dotnet script scripts/BW.csx
 
 # Download Zfull-GB
-Invoke-WebRequest "https://github.com/andot/zfull-for-yosemite/raw/master/fonts/Zfull-GB.ttf" -OutFile "out/Zfull-GB.ttf"
-$fonts = (New-Object -ComObject Shell.Application).Namespace(0x14)
-$fonts.CopyHere("out/Zfull-GB.ttf")
+try {
+  Get-ItemPropertyValue -Path "HKCU:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -Name "Zfull-GB (TrueType)" -ErrorAction Stop
+} catch {
+  Invoke-WebRequest "https://github.com/andot/zfull-for-yosemite/raw/master/fonts/Zfull-GB.ttf" -OutFile "out/Zfull-GB.ttf"
+  Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -Name "Zfull-GB (TrueType)" -Value "$pwd\out\Zfull-GB.ttf" -Type String
+}
 
 # Create new font
 & "$PCTRTools" "font" -c "files/CharTable_Unicode.txt" -i "files/BW/data/a/0/2/3" -o "out/B/data/a/0/2/3"
