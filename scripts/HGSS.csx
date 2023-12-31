@@ -54,7 +54,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Decopress and Edit overlay_0001.bin
   var overlay_0001 = BLZ.Decompress(File.ReadAllBytes($"files/{gameCode}/overlay/overlay_0001.bin"));
 
-  // ????
+  // AP Fix
   EditBinary(ref overlay_0001, 0x000276, "0A E0");
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0001.bin", BLZ.Compress(overlay_0001));
@@ -91,6 +91,17 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0112.bin", BLZ.Compress(overlay_0112));
   Console.WriteLine($"Edited: overlay_0112.bin");
+  
+  // Decopress and Edit overlay_0122.bin
+  var overlay_0122 = BLZ.Decompress(File.ReadAllBytes($"files/HGSS/overlay/overlay_0122.bin"));
+
+  // AP Fix
+  EditBinary(ref overlay_0122, 0x000670, "36 00");
+  EditBinary(ref overlay_0122, 0x000778, "36 00");
+  EditBinary(ref overlay_0122, 0x000904, "7B 42");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0122.bin", BLZ.Compress(overlay_0122));
+  Console.WriteLine($"Edited: overlay_0122.bin");
 
   EditBanner(gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
