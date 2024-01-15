@@ -9,5 +9,5 @@
 8	我的男朋友\n喜欢赖床……\r\n到了让人发指的地步。\f\n只有让宝可梦来一记苏醒巴掌\n他才会起来！
 9	Hi there.\nHaving a good time?\f\nYou don't have to be shy.\nFeel free to talk to anyone.\f\n那个……\f\n不断地和\n别人说话吧！
 10	这么开心的日子，\n第二天肯定很难起床了。
-11	我用宝可梦的\n唱歌技能\r\n代替闹钟用。\f\n但是完全起不来，\n这是为什么呢！？
+11	我用宝可梦的\n唱歌招式\r\n代替闹钟用。\f\n但是完全起不来，\n这是为什么呢！？
 12	!Es la primera vez que vengo aquí!\f\n!Pero este precioso paisaje hace\nque me sienta como en casa!\f\n!La próxima vez traeré a mis amigos!\f\n啊啊，\n我说得明白一点吧。\f\n我是第一次来这里，\n但瞧这美丽的风景，\r\n配上这舒适的空气！\f\n下次我要带我朋友来！

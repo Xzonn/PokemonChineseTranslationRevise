@@ -14,9 +14,9 @@
 13	files/B2W2/messages_common/013.txt
 14	files/B2W2/messages_common/014.txt
 15	files/B2W2/messages_common/015.txt
-16	files/B2W2/messages_common/016.txt
+16	files/BW/messages_common/015.txt
 17	files/B2W2/messages_common/017.txt
-18	files/B2W2/messages_common/018.txt
+18	files/BW/messages_common/016.txt
 19	files/B2W2/messages_common/019.txt
 20	files/B2W2/messages_common/020.txt
 21	files/B2W2/messages_common/021.txt
@@ -381,7 +381,7 @@
 428	files/B2W2/messages_common/428.txt
 429	files/B2W2/messages_common/429.txt
 430	files/B2W2/messages_common/430.txt
-431	files/B2W2/messages_common/431.txt
+431	files/DP/messages/wifi_place_msg_JPN.txt
 432	files/B2W2/messages_common/432.txt
 433	files/B2W2/messages_common/433.txt
 434	files/B2W2/messages_common/434.txt
