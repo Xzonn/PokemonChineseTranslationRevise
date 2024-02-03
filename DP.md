@@ -3,8 +3,6 @@ is_patch: true
 last_modified_at: 2023-11-21 22:40
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
-{% include video.html aid="886985239" %}
-
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
 <p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#xz-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
 </div>
@@ -25,7 +23,7 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
 - GitHub：[2.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.0.0)。
-- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
 
 日文版 ROM 的 MD5 校验码：
 
@@ -47,8 +45,6 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 </div>
 
 ## 更新日志
-- 0.9.0（2020-04-22）：
-  - 最初发布版本。
 - 2.0.0（2024-02-04）：
   - **应用补丁所需要的原始 ROM 由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要 Rev 6 版本，以其他版本作为原始 ROM 会导致生成的 ROM 无法运行。补丁应用工具会自动计算原始 ROM 的 MD5 校验码，如果没有提示“原始 ROM 的 MD5 校验失败”，则说明原始 ROM 的版本正确。
   - **同步更新《钻石／珍珠》补丁**，并修改《钻石／珍珠》的图标。（感谢 **[ppllouf](https://github.com/ppllouf)**）
@@ -59,6 +55,8 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
   - 修复几处小图标未更新至官译的问题。
   - 修改《钻石／珍珠／白金》简单会话的词语排序。**注意，这一修改会导致日版《钻石／珍珠》壁纸密语不适用于汉化版**。请参考[“密语计算器”]({{ "/Aikotoba.html" | relative_html }})页面的说明。
   - 修复了多处翻译不准确、不恰当的地方。（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）
+- 0.9.0（2020-04-22）：
+  - 最初发布版本。
 
 ## 预览
 {% include figure.html src="040c99ebeb494d5b5bfe10fc4bdb1d52.png" alt="《宝可梦 钻石》标题" %}

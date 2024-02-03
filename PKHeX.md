@@ -8,7 +8,7 @@ title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 
 ## 发布链接
 - GitHub：[231011](https://github.com/Xzonn/PKHeX/releases/latest)。
-- 百度网盘：[231011](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- 百度网盘：[231011](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
 
 ## 说明
 PKHeX项目网站：<https://projectpokemon.org/home/files/file/1-pkhex/>。

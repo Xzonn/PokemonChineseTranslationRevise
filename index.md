@@ -2,7 +2,7 @@
 last_modified_at: 2023-10-14 11:22
 title: 《宝可梦》第四世代汉化修正
 ---
-{% include video.html aid="886985239" %}
+{% include video.html bvid="BV17y421a7nq" %}
 
 ## 说明
 2016年对于《宝可梦》系列的中文玩家来说是非常重要的一年，在这一年的2月26日，官方首次公布了《宝可梦》系列对应简体中文和繁体中文的消息。随着首个官方中文游戏《精灵宝可梦 太阳／月亮》的发布，“口袋妖怪”世代成为了过去，<strong lang="ja">ポケットモンスター</strong>的正式名称被确定为“**精灵宝可梦**”。此后“精灵宝可梦”又被缩略为“宝可梦”。
@@ -38,7 +38,7 @@ title: 《宝可梦》第四世代汉化修正
 总链接：
 
 - GitHub：[2.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.0.0)。
-- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
 
 2.0.0版本及以后版本的补丁仅适用于日文版ROM，1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
 
