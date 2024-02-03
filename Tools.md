@@ -3,7 +3,7 @@ last_modified_at: 2023-10-14 11:37
 title: 汉化工具说明
 ---
 ## 发布链接
-- GitHub：[4.0.0](https://github.com/Xzonn/PCTRTools/releases/tag/4.0.0)。
+- GitHub：[4.0.0](https://github.com/Xzonn/PCTRTools/releases/tag/v4.0.0)。
 
 ## 更新日志
 - 1.0.1（2020-02-22）：

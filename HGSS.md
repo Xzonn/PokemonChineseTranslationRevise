@@ -24,8 +24,13 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 ## 发布链接
 考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
-- 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[2.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.0.0)。
+- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+
+日文版 ROM 的 MD5 校验码：
+
+- [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
+- [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
@@ -36,11 +41,9 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 - 对原文相同的长文本统一了译文文本。
 - 其他零碎的修改内容。
 
-由于本人技术所限，未能对游戏中的一些图片进行更改。此外，由于文本更改为批量替换，可能存在替换错误的情况，如有错误，请及时向我反馈。
+本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的其他第四世代游戏的字库通用，因此在这些游戏之间可以直接交换宝可梦而不出现乱码。
 
-本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《白金》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
-
-如需修改宝可梦的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
+如需修改宝可梦、主角、劲敌的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
 <div class="alert alert-warning" role="alert">
 <p><strong>注意</strong>：本修正补丁并不与原《心金／魂银》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
@@ -71,18 +74,21 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
   - 整合了宝可计步器汉化文本及汉化补丁（感谢 **OS** 翻译、**圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmanemu.net/thread-18167.htm)**）。
   - 版本号修改到初始菜单的神秘礼物中。
   - 其他部分修正。
+- 2.0.0（2024-02-04）：
+  - **应用补丁所需要的原始 ROM 由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要 Rev 6 版本，以其他版本作为原始 ROM 会导致生成的 ROM 无法运行。补丁应用工具会自动计算原始 ROM 的 MD5 校验码，如果没有提示“原始 ROM 的 MD5 校验失败”，则说明原始 ROM 的版本正确。
+  - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
+  - 版本号修改为删除存档界面显示，可在标题界面按`↑ + SELECT + B`查看。
+  - 修复招式文本与实际效果不一致的问题。此问题自从导入官方招式文本后就一直存在，此前未能引起注意。
+  - 修复《心金》图鉴文本实际为《魂银》图鉴文本的问题。（感谢 **Konyaka** 反馈）
+  - 修复几处小图标未更新至官译的问题。
+  - 修复了多处翻译不准确、不恰当的地方。（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）
 
 ## 预览
-<table class="table">
-<thead>
-<tr><th>原版</th><th>修正版</th></tr>
-</thead>
-<tbody>
-<tr><td>{% include figure.html src="a8c17f7f507f7119d1f7caa8ab6458f5.png" alt="《口袋妖怪 心灵之金》标题" width="256" height="384" %}</td><td>{% include figure.html src="5545beab7e329331555cfbfe24255b8e.png" alt="《宝可梦 心金》标题" width="256" height="384" %}</td></tr>
-<tr><td>{% include figure.html src="94baba0691c671fb07233b6d7c4051a3.png" alt="《口袋妖怪 灵魂之银》标题" width="256" height="384" %}</td><td>{% include figure.html src="3f954e319208266b71d62f2ea3cffa45.png" alt="《宝可梦 魂银》标题" width="256" height="384" %}</td></tr>
-<tr><td>{% include figure.html src="599f3642fcbdd2f68ccc11902cec6c4f.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="f5bb8f665bcf1d57bdbe8bc191ac7b60.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
-</tbody>
-</table>
+{% include figure.html src="ed366964bfaf73e862883782181a9ec1.png" alt="《宝可梦 心金》标题" %}
+
+{% include figure.html src="4664ff3f027ff954c174ed5d1ea2fd4e.png" alt="《宝可梦 魂银》标题" %}
+
+{% include figure.html src="f5bb8f665bcf1d57bdbe8bc191ac7b60.png" alt="宝可梦图鉴" %}
 
 ## 致谢
 感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。

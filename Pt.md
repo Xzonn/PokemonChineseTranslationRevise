@@ -22,8 +22,12 @@ title: 《宝可梦 白金》汉化修正补丁
 ## 发布链接
 考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[1.5.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/patches-1.5.0)。
-- 百度网盘：[1.5.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+- GitHub：[2.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.0.0)。
+- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ)（`pkmn`）。
+
+日文版 ROM 的 MD5 校验码：
+
+- [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
 
 ## 修改内容
 - 标题图标改为“精灵宝可梦 白金”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
@@ -33,11 +37,9 @@ title: 《宝可梦 白金》汉化修正补丁
 - 对原文相同的长文本统一了译文文本。
 - 其他零碎的修改内容。
 
-由于本人技术所限，未能对游戏中的一些图片进行更改。此外，由于文本更改为批量替换，可能存在替换错误的情况，如有错误，请及时向我反馈。
+本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的其他第四世代游戏的字库通用，因此在这些游戏之间可以直接交换宝可梦而不出现乱码。
 
-本修正补丁所用的字库基于原《白金》汉化版的扩充，同时与本人修正的《心金／魂银》的字库通用，因此在这三款游戏之间可以直接交换宝可梦而不出现乱码。
-
-如需修改宝可梦的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
+如需修改宝可梦、主角、劲敌的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
 <div class="alert alert-warning" role="alert">
 <p><strong>注意</strong>：本修正补丁并不与第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
@@ -66,18 +68,22 @@ title: 《宝可梦 白金》汉化修正补丁
   - 导入部分《晶灿钻石／明亮珍珠》的译名。
   - 版本号修改到初始菜单的神秘礼物中。
   - 其他部分修正。
+- 2.0.0（2024-02-04）：
+  - **应用补丁所需要的原始 ROM 由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要 Rev 6 版本，以其他版本作为原始 ROM 会导致生成的 ROM 无法运行。补丁应用工具会自动计算原始 ROM 的 MD5 校验码，如果没有提示“原始 ROM 的 MD5 校验失败”，则说明原始 ROM 的版本正确。
+  - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
+  - 版本号修改为删除存档界面显示，可在标题界面按`↑ + SELECT + B`查看。
+  - 修复招式文本与实际效果不一致的问题。此问题自从导入官方招式文本后就一直存在，此前未能引起注意。
+  - 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。（感谢 **[兔隐](https://tieba.baidu.com/home/main?id=tb.1.b078b4c8.5EUyhmk8zkrkK__di08swQ)** 等人反馈，[链接](https://tieba.baidu.com/p/7213514184)）
+  - 修复几处小图标未更新至官译的问题。
+  - 修改《钻石／珍珠／白金》简单会话的词语排序。
+  - 修复了多处翻译不准确、不恰当的地方。（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）
 
 ## 预览
-<table class="table">
-<thead>
-<tr><th>原版</th><th>修正版</th></tr>
-</thead>
-<tbody>
-<tr><td>{% include figure.html src="e23ee94c4705bb8188cde6ee2ba684f2.png" alt="《口袋妖怪 白金》标题" width="256" height="384" %}</td><td>{% include figure.html src="808b046468c20f4b60a7361413efb8a9.png" alt="《宝可梦 白金》标题" width="256" height="384" %}</td></tr>
-<tr><td>{% include figure.html src="711af3dd3ffa60ce599ba9464a9aca6b.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="963793c79538e2cd529d57d3604f9a54.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
-<tr><td>{% include figure.html src="d15725931787f5b1a11f0b075fd397f7.png" alt="精灵图鉴" width="256" height="384" %}</td><td>{% include figure.html src="ea402e21fcae399bdf8a1bd137cfed09.png" alt="宝可梦图鉴" width="256" height="384" %}</td></tr>
-</tbody>
-</table>
+{% include figure.html src="7dc3f1452c6bd5c7779686929f96a6bc.png" alt="《宝可梦 白金》标题" %}
+
+{% include figure.html src="963793c79538e2cd529d57d3604f9a54.png" alt="宝可梦图鉴列表" %}
+
+{% include figure.html src="ea402e21fcae399bdf8a1bd137cfed09.png" alt="宝可梦图鉴介绍" %}
 
 ## 致谢
 感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
