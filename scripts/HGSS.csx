@@ -45,10 +45,13 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   EditBinary(ref arm9, 0x025CF2, "C0 46");
   // `GetGlyphWidth_VariableWidth()` Change 01AC `?` to 01FB `　`
   EditBinary(ref arm9, 0x025F68, "FA 01");
-  // SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
+  SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
 
-  var arm9CompNew = BLZ.Compress(arm9.Skip(0x4000).ToArray());
-  File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9.Take(0x4000).Concat(arm9CompNew).Concat(nitroCode).ToArray());
+  var arm9New = arm9.Take(0x4000).Concat(BLZ.Compress(arm9.Skip(0x4000).ToArray())).Concat(nitroCode).ToArray();
+  uint newSize = (uint)(0x2000000 + arm9New.Length - 12);
+  Array.Copy(BitConverter.GetBytes(newSize), 0, arm9New, 0x0BB4, 4);
+
+  File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9New);
   Console.WriteLine($"Edited: arm9.bin");
 
   // Decopress and Edit overlay_0001.bin
