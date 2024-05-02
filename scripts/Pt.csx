@@ -105,7 +105,7 @@ CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textu
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/batt_obj.narc/");
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/Pt/battle/graphic/pl_batt_obj.narc/");
 File.Delete("textures/Pt/battle/graphic/pl_batt_obj.narc/0077.bin");
-for (int from = 155; from <= 177; from++)   
+for (int from = 155; from <= 177; from++)
 {
   MoveFile($"textures/Pt/battle/graphic/pl_batt_obj.narc/{from:d04}.bin", $"textures/Pt/battle/graphic/pl_batt_obj.narc/{from + 64:d04}.bin");
 }

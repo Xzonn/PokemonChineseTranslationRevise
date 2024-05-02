@@ -27,5 +27,5 @@ for game_info in GAMES:
           data[f"{folder_name}.{file:03d}.{key:04d}"] = value
         json.dump(data, writer, indent=4, ensure_ascii=False)
         writer.write("\n")
-  
+
   print(f"Converted: {folder_name}")

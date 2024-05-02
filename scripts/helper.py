@@ -87,5 +87,5 @@ def load_game_data(game_info: dict[str, str | dict]) -> dict[str, dict[int, dict
         line_id, line_content = line.split("\t")
         line_id = int(line_id)
         game_data[language][file_id][line_id] = line_content
-  
+
   return game_data

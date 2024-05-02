@@ -105,7 +105,7 @@ string[] SortEasyChatWords(ref byte[] arm9, uint offset, string[] words)
       if (comparerReplacement.TryGetValue(a, out string value1)) { a = value1; }
       if (comparerReplacement.TryGetValue(b, out string value2)) { b = value2; }
       return comparer.Compare(a, b);
-    }); 
+    });
     switch (i)
     {
       case 4: case 5: case 6: case 8: case 9: aikotobaList = aikotobaList.Concat(_words); break;

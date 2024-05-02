@@ -94,7 +94,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0112.bin", BLZ.Compress(overlay_0112));
   Console.WriteLine($"Edited: overlay_0112.bin");
-  
+
   // Decopress and Edit overlay_0122.bin
   var overlay_0122 = BLZ.Decompress(File.ReadAllBytes($"files/HGSS/overlay/overlay_0122.bin"));
 
@@ -114,7 +114,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/HGSS/a/0/0/8/");
 File.Delete("textures/HGSS/a/0/0/8/0077.bin");
-for (int from = 155; from <= 177; from++)   
+for (int from = 155; from <= 177; from++)
 {
   MoveFile($"textures/HGSS/a/0/0/8/{from:d04}.bin", $"textures/HGSS/a/0/0/8/{from + 64:d04}.bin");
 }
