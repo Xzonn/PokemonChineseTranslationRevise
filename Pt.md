@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-10-14 11:24
+last_modified_at: 2024-05-03 12:11
 title: 《宝可梦 白金》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert">
@@ -28,7 +28,7 @@ title: 《宝可梦 白金》汉化修正补丁
 - [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
 
 ## 修改内容
-- 标题图标改为“精灵宝可梦 白金”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 标题图标改为“精灵宝可梦 白金”。（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 - 导入了一部分《宝可梦 晶灿钻石／明亮珍珠》的官方文本。
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
@@ -39,8 +39,10 @@ title: 《宝可梦 白金》汉化修正补丁
 
 如需修改宝可梦、主角、劲敌的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }})**。
+
 <div class="alert alert-warning" role="alert">
-<p><strong>注意</strong>：本修正补丁并不与第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
+<p><strong>注意</strong>：本修正补丁并不与第三、第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
 </div>
 
 ## 更新日志
@@ -65,12 +67,12 @@ title: 《宝可梦 白金》汉化修正补丁
   - 部分译名和控制符修正。
   - 本次更新未对《钻石／珍珠》进行修改。
 - 1.3.0（2020-04-22）：
-  - 将道具说明修正为与第四世代相符。（感谢 **[@刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
+  - 将道具说明修正为与第四世代相符。（感谢 **[刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
   - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
   - 将部分地理名词修正为常用译名。
-  - 其他部分修正（感谢 **[@TONE-TONG](https://space.bilibili.com/32451014)**、**@k90单反**、**@MrVilla**、**@yggdra**等反馈）
+  - 其他部分修正（感谢 **[TONE-TONG](https://space.bilibili.com/32451014)**、**k90单反**、**MrVilla**、**yggdra**等反馈）
 - 1.2.0（2020-03-24）：
-  - 更新标题图标。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+  - 更新标题图标。（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 - 1.1.0（2020-03-05）：
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
 - 1.0.0（2020-02-28）：
@@ -84,7 +86,7 @@ title: 《宝可梦 白金》汉化修正补丁
 {% include figure.html src="ea402e21fcae399bdf8a1bd137cfed09.png" alt="宝可梦图鉴介绍" %}
 
 ## 致谢
-感谢 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
+感谢 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。
 

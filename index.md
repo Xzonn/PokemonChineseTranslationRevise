@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-10-14 11:22
+last_modified_at: 2024-05-03 12:15
 title: 《宝可梦》第四世代汉化修正
 ---
 {% include video.html bvid="BV17y421a7nq" %}
@@ -11,7 +11,7 @@ title: 《宝可梦》第四世代汉化修正
 
 《白金》的汉化修正版发布后得到了一些反馈，有朋友希望能够统一第四世代的码表。因此我重写了使用工具的代码，并将代码和编译后的程序发布出来，供有兴趣的朋友研究。
 
-汉化补丁1.2.0版本之后的标题图标由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
+汉化补丁1.2.0版本之后的标题图标由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
 《钻石／珍珠》的补丁已随1.3.0版本发布，于2.0.0版本及以后的版本同步更新。
 
@@ -49,6 +49,8 @@ title: 《宝可梦》第四世代汉化修正
 - [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
 - [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
 - [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
+
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }})**。
 
 ## 预览
 <table class="table">

@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2023-11-21 22:40
+last_modified_at: 2024-05-03 12:10
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -31,7 +31,7 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 - [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
 
 ## 修改内容
-- 标题图标改为“精灵宝可梦 钻石”“精灵宝可梦 珍珠”。（由 **[@大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 标题图标改为“精灵宝可梦 钻石”“精灵宝可梦 珍珠”。（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
 - 导入了一部分《宝可梦 晶灿钻石／明亮珍珠》的官方文本。
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
@@ -40,8 +40,11 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 
 如需修改宝可梦、主角、劲敌的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }})**。
+
 <div class="alert alert-warning" role="alert">
-<p><strong>注意</strong>：本修正补丁并不与第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
+<p><strong>注意</strong>：本修正补丁并不与原《钻石／珍珠》汉化版字库通用，如需将原汉化版游戏存档应用于本人修正版，请使用上述版本PKHeX修正宝可梦昵称。</p>
+<p>同时，本修正补丁并不与第三、第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
 </div>
 
 ## 更新日志

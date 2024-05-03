@@ -58,9 +58,9 @@ narc文件替换功能具体包括：将narc文件中包含的文件替换为其
 ## narc文件
 本工具直接读取和输出的文件即为narc文件。该格式实际是多个文件打包的格式。
 
-narc解包代码参考了“narctool 0.1-p”，由 **@natrium42** 制作，**[@Pipian](https://github.com/pipian)** 修改，原始发布地址已不可考，但我从[“delguoqing/LMDumper”](https://github.com/delguoqing/LMDumper/tree/master/tools/narctool-0.1-p)项目的源代码中发现了该程序的源代码。原始程序为C++，我编写了C#下对打包和解包的实现，未编写压缩相关内容（与本项目无关）。
+narc解包代码参考了“narctool 0.1-p”，由 **natrium42** 制作，**[Pipian](https://github.com/pipian)** 修改，原始发布地址已不可考，但我从[“delguoqing/LMDumper”](https://github.com/delguoqing/LMDumper/tree/master/tools/narctool-0.1-p)项目的源代码中发现了该程序的源代码。原始程序为C++，我编写了C#下对打包和解包的实现，未编写压缩相关内容（与本项目无关）。
 
-narc文件需要对原始ROM进行解包，我使用的是[“Tinke 0.9.2”](https://github.com/pleonex/tinke)，由 **[@pleoNeX](https://github.com/pleonex)** 制作并发布于GitHub，开源。该软件为图形化界面，方便操作。
+narc文件需要对原始ROM进行解包，我使用的是[“Tinke 0.9.2”](https://github.com/pleonex/tinke)，由 **[pleoNeX](https://github.com/pleonex)** 制作并发布于GitHub，开源。该软件为图形化界面，方便操作。
 
 ## 文本
 ### 工具说明
@@ -71,7 +71,7 @@ narc文件需要对原始ROM进行解包，我使用的是[“Tinke 0.9.2”](ht
 - 《心金／魂银》：`/a/0/2/7`
 - 《黑／白／黑２／白２》：`a/0/0/2`、`a/0/0/3`
 
-文本处理工具为`PokemonCTRText.exe`。第四世代代码参考了[“DS Text Editor”](https://github.com/JackHack96/DS-Text-Editor)，由 **[@JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。第五世代代码参考了[“pptxt”](https://projectpokemon.org/home/forums/topic/10583-pptxt-text-editing-tool/)，由 **[@SCV](https://projectpokemon.org/home/profile/2-scv/)** 制作并发布于Project Pokemon Forums，开源。原始程序为C++，我编写了C#下的实现。
+文本处理工具为`PokemonCTRText.exe`。第四世代代码参考了[“DS Text Editor”](https://github.com/JackHack96/DS-Text-Editor)，由 **[JackHack96](https://github.com/JackHack96)** 制作并发布于GitHub，开源，授权协议为GPL-3.0。原始程序为Java，我编写了C#下的实现。第五世代代码参考了[“pptxt”](https://projectpokemon.org/home/forums/topic/10583-pptxt-text-editing-tool/)，由 **[SCV](https://projectpokemon.org/home/profile/2-scv/)** 制作并发布于Project Pokemon Forums，开源。原始程序为C++，我编写了C#下的实现。
 
 对于第四世代的文本，1.x - 2.x版本中均把控制符`0x25BC`转义为`\r`，`0x25BD`转义为`\f`，但这种转义方法与第五世代有冲突，因此自3.0.0版本开始调换了两个控制符的转义方式。目前，`\r`表示对话移动到下一行，`\f`表示对话翻页。为了兼容之前的版本，使用新版本导出的文本第一行会加入`#3`，表明为新版本导出的文本。
 
@@ -107,7 +107,7 @@ PCTRTools.exe text-import -c CharTable/Expanded.txt -i DP/Original/msgdata/msg.n
 - 《心金／魂银》：`/a/0/1/6`
 - 《黑／白／黑２／白２》：`a/0/2/3`
 
-字库处理工具为`PokemonCTRFont.exe`。代码参考了[“PokeFontDS”](https://github.com/TheFearsomeDzeraora/PokeFontDS)，由 **TheFearsomeDzeraora** 制作并发布于 GitHub，开源；以及“NARCFileReadingDLL”，由 **@evco1** 制作，原始发布地址已不可考，但我从“PokeFontDS”项目的源代码中发现了该程序的反编译源代码。
+字库处理工具为`PokemonCTRFont.exe`。代码参考了[“PokeFontDS”](https://github.com/TheFearsomeDzeraora/PokeFontDS)，由 **TheFearsomeDzeraora** 制作并发布于 GitHub，开源；以及“NARCFileReadingDLL”，由 **evco1** 制作，原始发布地址已不可考，但我从“PokeFontDS”项目的源代码中发现了该程序的反编译源代码。
 
 由于可选的中文点阵字体较少，在比较了多种字体后我选择了Windows自带的中易宋体作为字体。如需更换为其他字体，请自行修改源代码并编译。
 
