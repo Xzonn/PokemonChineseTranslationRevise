@@ -1,0 +1,20 @@
+[
+  {
+    "key": "PT_0759_0000",
+    "original": "おはよう！",
+    "translation": "早上好！",
+    "index": 0
+  },
+  {
+    "key": "PT_0759_0001",
+    "original": "こんにちは！",
+    "translation": "你好！",
+    "index": 1
+  },
+  {
+    "key": "PT_0759_0002",
+    "original": "こんばんは！",
+    "translation": "晚上好！",
+    "index": 2
+  }
+]

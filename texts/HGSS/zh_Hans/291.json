@@ -1,0 +1,38 @@
+[
+  {
+    "key": "HGSS_0291_0000",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0291_0001",
+    "original": "てもち",
+    "translation": "同行",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0291_0002",
+    "original": "この３ひきで いいですか？",
+    "translation": "这三只吗？",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0291_0003",
+    "original": "このポケモンで いいですか？",
+    "translation": "这只宝可梦吗？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0291_0004",
+    "original": "さんかを とりけしますか？",
+    "translation": "取消参加吗？",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0291_0005",
+    "original": "どのポケモンを つれていく？",
+    "translation": "要带上哪只宝可梦？",
+    "index": 5
+  }
+]

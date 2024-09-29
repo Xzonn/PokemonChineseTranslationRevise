@@ -1,0 +1,68 @@
+[
+  {
+    "key": "HGSS_0050_0000",
+    "original": "まだ ポケモンを ぜんぶ\nほかく できて ないけど⋯⋯\\f\nほかくショーを ちゅうし するかい？",
+    "translation": "还没抓到\n全部的宝可梦……\\f\n要中止捕捉秀吗？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0050_0001",
+    "original": "そうか⋯⋯\\f\nこんかいは ざんねん だったけど⋯⋯\nつぎは きたい しているからね！\\f\n",
+    "translation": "是吗……\\f\n这次很遗憾啊……\n期待下次吧！\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0050_0002",
+    "original": "さすが [0103,0000]くん！\nあきらめずに がんばってね！",
+    "translation": "不愧是[0103,0000]！\n不要放弃，加油啊！",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0050_0003",
+    "original": "さすが [0103,0000]ちゃん！\nあきらめずに がんばってね！",
+    "translation": "不愧是[0103,0000]！\n不要放弃，加油啊！",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0050_0004",
+    "original": "ピンポーン！\nおめでとう ございます！\\f\n[0103,0000]さん は\nすべての ポケモンの ほかくに\\r\nせいこう しました！\\f\n",
+    "translation": "叮咚！\n恭喜！\\f\n[0103,0000]\n成功捕获了\\r\n所有的宝可梦！\\f\n",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0050_0005",
+    "original": "リタイア しますか？",
+    "translation": "要退出吗？",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0050_0006",
+    "original": "それでは スタート します！",
+    "translation": "那么，预备！",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0050_0007",
+    "original": "３",
+    "translation": "３",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0050_0008",
+    "original": "２",
+    "translation": "２",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0050_0009",
+    "original": "１",
+    "translation": "１",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0050_0010",
+    "original": "スタート！",
+    "translation": "开始！",
+    "index": 10
+  }
+]

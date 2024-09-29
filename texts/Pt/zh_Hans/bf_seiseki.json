@@ -1,0 +1,266 @@
+[
+  {
+    "key": "PT_0015_0000",
+    "original": "どの せいせきを みますか？",
+    "translation": "要查看哪份成绩表？",
+    "index": 0
+  },
+  {
+    "key": "PT_0015_0001",
+    "original": "シングル",
+    "translation": "单打",
+    "index": 1
+  },
+  {
+    "key": "PT_0015_0002",
+    "original": "ダブル",
+    "translation": "双打",
+    "index": 2
+  },
+  {
+    "key": "PT_0015_0003",
+    "original": "マルチ",
+    "translation": "多人",
+    "index": 3
+  },
+  {
+    "key": "PT_0015_0004",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 4
+  },
+  {
+    "key": "PT_0015_0005",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 5
+  },
+  {
+    "key": "PT_0015_0006",
+    "original": "どの ポケモンの せいせきを みるか\nえらんで ください！\\f\n",
+    "translation": "请选择要查看\n哪只宝可梦的成绩！\\f\n",
+    "index": 6
+  },
+  {
+    "key": "PT_0015_0007",
+    "original": "ただいま [0100,0000]で\nちょうせん ちゅう！",
+    "translation": "正在[0100,0000]挑战中！",
+    "index": 7
+  },
+  {
+    "key": "PT_0015_0008",
+    "original": "ア",
+    "translation": "ア",
+    "index": 8
+  },
+  {
+    "key": "PT_0015_0009",
+    "original": "カ",
+    "translation": "カ",
+    "index": 9
+  },
+  {
+    "key": "PT_0015_0010",
+    "original": "サ",
+    "translation": "サ",
+    "index": 10
+  },
+  {
+    "key": "PT_0015_0011",
+    "original": "タ",
+    "translation": "タ",
+    "index": 11
+  },
+  {
+    "key": "PT_0015_0012",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 12
+  },
+  {
+    "key": "PT_0015_0013",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 13
+  },
+  {
+    "key": "PT_0015_0014",
+    "original": "マ",
+    "translation": "マ",
+    "index": 14
+  },
+  {
+    "key": "PT_0015_0015",
+    "original": "ヤワ",
+    "translation": "ヤワ",
+    "index": 15
+  },
+  {
+    "key": "PT_0015_0016",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 16
+  },
+  {
+    "key": "PT_0015_0017",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 17
+  },
+  {
+    "key": "PT_0015_0018",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 18
+  },
+  {
+    "key": "PT_0015_0019",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 19
+  },
+  {
+    "key": "PT_0015_0020",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 20
+  },
+  {
+    "key": "PT_0015_0021",
+    "original": "バトルタワー",
+    "translation": "对战塔",
+    "index": 21
+  },
+  {
+    "key": "PT_0015_0022",
+    "original": "バトルファクトリー",
+    "translation": "对战工厂",
+    "index": 22
+  },
+  {
+    "key": "PT_0015_0023",
+    "original": "バトルキャッスル",
+    "translation": "对战城堡",
+    "index": 23
+  },
+  {
+    "key": "PT_0015_0024",
+    "original": "バトルステージ",
+    "translation": "对战舞台",
+    "index": 24
+  },
+  {
+    "key": "PT_0015_0025",
+    "original": "バトルルーレット",
+    "translation": "对战轮盘",
+    "index": 25
+  },
+  {
+    "key": "PT_0015_0026",
+    "original": "シングルせいせき",
+    "translation": "单打成绩",
+    "index": 26
+  },
+  {
+    "key": "PT_0015_0027",
+    "original": "ダブルせいせき",
+    "translation": "双打成绩",
+    "index": 27
+  },
+  {
+    "key": "PT_0015_0028",
+    "original": "マルチせいせき",
+    "translation": "多人成绩",
+    "index": 28
+  },
+  {
+    "key": "PT_0015_0029",
+    "original": "ぜんかい",
+    "translation": "上次",
+    "index": 29
+  },
+  {
+    "key": "PT_0015_0030",
+    "original": "げんざい",
+    "translation": "当前",
+    "index": 30
+  },
+  {
+    "key": "PT_0015_0031",
+    "original": "さいこう",
+    "translation": "最佳",
+    "index": 31
+  },
+  {
+    "key": "PT_0015_0032",
+    "original": "トレーナーとマルチ",
+    "translation": "训练家与对战",
+    "index": 32
+  },
+  {
+    "key": "PT_0015_0033",
+    "original": "ともだちとマルチ",
+    "translation": "朋友与对战",
+    "index": 33
+  },
+  {
+    "key": "PT_0015_0034",
+    "original": "レベル５０",
+    "translation": "５０级",
+    "index": 34
+  },
+  {
+    "key": "PT_0015_0035",
+    "original": "オープンレベル",
+    "translation": "无限制",
+    "index": 35
+  },
+  {
+    "key": "PT_0015_0036",
+    "original": "レンタル／こうかん",
+    "translation": "租借／交换",
+    "index": 36
+  },
+  {
+    "key": "PT_0015_0037",
+    "original": "キャッスルポイント",
+    "translation": "城堡点数",
+    "index": 37
+  },
+  {
+    "key": "PT_0015_0038",
+    "original": "[0135,0000]れんしょう",
+    "translation": "[0135,0000]连胜",
+    "index": 38
+  },
+  {
+    "key": "PT_0015_0039",
+    "original": "[0100,0000]の きろく",
+    "translation": "[0100,0000]的记录",
+    "index": 39
+  },
+  {
+    "key": "PT_0015_0040",
+    "original": "[0135,0000]かい",
+    "translation": "[0135,0000]次",
+    "index": 40
+  },
+  {
+    "key": "PT_0015_0041",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 41
+  },
+  {
+    "key": "PT_0015_0042",
+    "original": "[0135,0000]れんしょう",
+    "translation": "[0135,0000]连胜",
+    "index": 42
+  },
+  {
+    "key": "PT_0015_0043",
+    "original": "[0135,0000]ゲーム クリア",
+    "translation": "[0135,0000]游戏通关",
+    "index": 43
+  }
+]

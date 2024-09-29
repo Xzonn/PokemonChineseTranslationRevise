@@ -1,0 +1,1052 @@
+[
+  {
+    "key": "HGSS_0790_0000",
+    "original": "みつけた かず",
+    "translation": "发现的数量",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0790_0001",
+    "original": "つかまえた かず",
+    "translation": "捕获的数量",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0790_0002",
+    "original": "ＪＰＮ",
+    "translation": "ＣＨＮ",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0790_0003",
+    "original": "Ｅ",
+    "translation": "Ｅ",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0790_0004",
+    "original": "ＦＲＡ",
+    "translation": "ＦＲＡ",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0790_0005",
+    "original": "ＧＥＲ",
+    "translation": "ＧＥＲ",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0790_0006",
+    "original": "ＩＴＡ",
+    "translation": "ＩＴＡ",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0790_0007",
+    "original": "ＳＰＡ",
+    "translation": "ＳＰＡ",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0790_0008",
+    "original": "せつめい",
+    "translation": "说明",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0790_0009",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0790_0010",
+    "original": "たかさ",
+    "translation": "身高",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0790_0011",
+    "original": "おもさ",
+    "translation": "体重",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0790_0012",
+    "original": "『けんさく モード』",
+    "translation": "“搜索模式”",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0790_0013",
+    "original": "じょうけんを いれて ください",
+    "translation": "请输入条件。",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0790_0014",
+    "original": "『けんさくの けっか』",
+    "translation": "“搜索结果”",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0790_0015",
+    "original": "みつかったかず [0134,0000]",
+    "translation": "发现的数量　[0134,0000]",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0790_0016",
+    "original": "ずかんの ならびを してい します",
+    "translation": "请指定图鉴的排列顺序。",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0790_0017",
+    "original": "なまえの かしらもじを してい します",
+    "translation": "请指定名称的首字。",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0790_0018",
+    "original": "タイプを してい します",
+    "translation": "请指定属性。",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0790_0019",
+    "original": "おもさの はんいを してい します",
+    "translation": "请指定重量范围。",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0790_0020",
+    "original": "たかさの はんいを してい します",
+    "translation": "请指定高度范围。",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0790_0021",
+    "original": "かたちを してい します",
+    "translation": "请指定外形。",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0790_0022",
+    "original": "せいそく ちいきを してい します",
+    "translation": "请指定栖息地。",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0790_0023",
+    "original": "じょうけんを みたす ポケモンが",
+    "translation": "符合条件的宝可梦",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0790_0024",
+    "original": "みつかりませんでした⋯⋯",
+    "translation": "找不到……",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0790_0025",
+    "original": "けんさく しています⋯⋯",
+    "translation": "正在搜索……",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0790_0026",
+    "original": "ならびじゅん",
+    "translation": "排列顺序",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0790_0027",
+    "original": "なまえ",
+    "translation": "名字",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0790_0028",
+    "original": "タイプ",
+    "translation": "属性",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0790_0029",
+    "original": "たかさ",
+    "translation": "身高",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0790_0030",
+    "original": "おもさ",
+    "translation": "体重",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0790_0031",
+    "original": "ちいき",
+    "translation": "栖息地",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0790_0032",
+    "original": "かたち",
+    "translation": "外形",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0790_0033",
+    "original": "カントー",
+    "translation": "关都",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0790_0034",
+    "original": "ジョウト",
+    "translation": "城都",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0790_0035",
+    "original": "リセット",
+    "translation": "重置",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0790_0036",
+    "original": "スタート",
+    "translation": "开始",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0790_0037",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0790_0038",
+    "original": "[0134,0000]．[0132,0001]",
+    "translation": "[0134,0000]．[0132,0001]",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0790_0039",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0790_0040",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0790_0041",
+    "original": "ばんごう",
+    "translation": "编号",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0790_0042",
+    "original": "ごじゅうおん",
+    "translation": "拼音",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0790_0043",
+    "original": "おもい",
+    "translation": "重",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0790_0044",
+    "original": "かるい",
+    "translation": "轻",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0790_0045",
+    "original": "たかい",
+    "translation": "高",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0790_0046",
+    "original": "ひくい",
+    "translation": "矮",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0790_0047",
+    "original": "あく",
+    "translation": "恶",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0790_0048",
+    "original": "いわ",
+    "translation": "岩石",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0790_0049",
+    "original": "エスパー",
+    "translation": "超能力",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0790_0050",
+    "original": "かくとう",
+    "translation": "格斗",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0790_0051",
+    "original": "くさ",
+    "translation": "草",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0790_0052",
+    "original": "こおり",
+    "translation": "冰",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0790_0053",
+    "original": "ゴースト",
+    "translation": "幽灵",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0790_0054",
+    "original": "じめん",
+    "translation": "地面",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0790_0055",
+    "original": "でんき",
+    "translation": "电",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0790_0056",
+    "original": "どく",
+    "translation": "毒",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0790_0057",
+    "original": "ドラゴン",
+    "translation": "龙",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0790_0058",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0790_0059",
+    "original": "はがね",
+    "translation": "钢",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0790_0060",
+    "original": "ひこう",
+    "translation": "飞行",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0790_0061",
+    "original": "ほのお",
+    "translation": "火",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0790_0062",
+    "original": "みず",
+    "translation": "水",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0790_0063",
+    "original": "むし",
+    "translation": "虫",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0790_0064",
+    "original": "ーーーー",
+    "translation": "ーーーー",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0790_0065",
+    "original": "ジョウト",
+    "translation": "城都",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0790_0066",
+    "original": "カントー",
+    "translation": "关都",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0790_0067",
+    "original": "ふめい",
+    "translation": "不明",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0790_0068",
+    "original": "ーーーー",
+    "translation": "ーーーー",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0790_0069",
+    "original": "ア",
+    "translation": "ア",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0790_0070",
+    "original": "イ",
+    "translation": "イ",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0790_0071",
+    "original": "ウ",
+    "translation": "ウ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0790_0072",
+    "original": "エ",
+    "translation": "エ",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0790_0073",
+    "original": "オ",
+    "translation": "オ",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0790_0074",
+    "original": "カ",
+    "translation": "カ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0790_0075",
+    "original": "キ",
+    "translation": "キ",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0790_0076",
+    "original": "ク",
+    "translation": "ク",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0790_0077",
+    "original": "ケ",
+    "translation": "ケ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0790_0078",
+    "original": "コ",
+    "translation": "コ",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0790_0079",
+    "original": "サ",
+    "translation": "サ",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0790_0080",
+    "original": "シ",
+    "translation": "シ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0790_0081",
+    "original": "ス",
+    "translation": "ス",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0790_0082",
+    "original": "セ",
+    "translation": "セ",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0790_0083",
+    "original": "ソ",
+    "translation": "ソ",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0790_0084",
+    "original": "タ",
+    "translation": "タ",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0790_0085",
+    "original": "チ",
+    "translation": "チ",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0790_0086",
+    "original": "ツ",
+    "translation": "ツ",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0790_0087",
+    "original": "テ",
+    "translation": "テ",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0790_0088",
+    "original": "ト",
+    "translation": "ト",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0790_0089",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0790_0090",
+    "original": "ニ",
+    "translation": "ニ",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0790_0091",
+    "original": "ヌ",
+    "translation": "ヌ",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0790_0092",
+    "original": "ネ",
+    "translation": "ネ",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0790_0093",
+    "original": "ノ",
+    "translation": "ノ",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0790_0094",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0790_0095",
+    "original": "ヒ",
+    "translation": "ヒ",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0790_0096",
+    "original": "フ",
+    "translation": "フ",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0790_0097",
+    "original": "ヘ",
+    "translation": "ヘ",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0790_0098",
+    "original": "ホ",
+    "translation": "ホ",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0790_0099",
+    "original": "マ",
+    "translation": "マ",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0790_0100",
+    "original": "ミ",
+    "translation": "ミ",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0790_0101",
+    "original": "ム",
+    "translation": "ム",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0790_0102",
+    "original": "メ",
+    "translation": "メ",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0790_0103",
+    "original": "モ",
+    "translation": "モ",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0790_0104",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0790_0105",
+    "original": "ユ",
+    "translation": "ユ",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0790_0106",
+    "original": "ヨ",
+    "translation": "ヨ",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0790_0107",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0790_0108",
+    "original": "リ",
+    "translation": "リ",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0790_0109",
+    "original": "ル",
+    "translation": "ル",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0790_0110",
+    "original": "レ",
+    "translation": "レ",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0790_0111",
+    "original": "ロ",
+    "translation": "ロ",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0790_0112",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0790_0113",
+    "original": "ー",
+    "translation": "ー",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0790_0114",
+    "original": "オスのすがた",
+    "translation": "雄性的样子",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0790_0115",
+    "original": "メスのすがた",
+    "translation": "雌性的样子",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0790_0116",
+    "original": "にしのうみ",
+    "translation": "西海",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0790_0117",
+    "original": "ひがしのうみ",
+    "translation": "东海",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0790_0118",
+    "original": "くさきのミノ",
+    "translation": "草木蓑衣",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0790_0119",
+    "original": "すなちのミノ",
+    "translation": "砂土蓑衣",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0790_0120",
+    "original": "ゴミのミノ",
+    "translation": "垃圾蓑衣",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0790_0121",
+    "original": "あるすがた",
+    "translation": "某种样子",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0790_0122",
+    "original": "にほんごのずかん",
+    "translation": "日语图鉴",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0790_0123",
+    "original": "えいごのずかん",
+    "translation": "英语图鉴",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0790_0124",
+    "original": "フランスごのずかん",
+    "translation": "法语图鉴",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0790_0125",
+    "original": "ドイツごのずかん",
+    "translation": "德语图鉴",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0790_0126",
+    "original": "イタリアごのずかん",
+    "translation": "意大利语图鉴",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0790_0127",
+    "original": "スペインごのずかん",
+    "translation": "西班牙语图鉴",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0790_0128",
+    "original": "せいそくち ふめい",
+    "translation": "栖息地不明",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0790_0129",
+    "original": "あさ",
+    "translation": "早上",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0790_0130",
+    "original": "ひる",
+    "translation": "白天",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0790_0131",
+    "original": "よる",
+    "translation": "晚上",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0790_0132",
+    "original": "きりかえ",
+    "translation": "切换",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0790_0133",
+    "original": "[0104,0000]",
+    "translation": "[0104,0000]",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0790_0134",
+    "original": "すべて ひょうじ",
+    "translation": "显示全部",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0790_0135",
+    "original": "すべて ひょうじ",
+    "translation": "显示全部",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0790_0136",
+    "original": "おおきさ くらべ",
+    "translation": "比较大小",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0790_0137",
+    "original": "おもさ くらべ",
+    "translation": "比较重量",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0790_0138",
+    "original": "１．５０ｍ",
+    "translation": "１．５０ｍ",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0790_0139",
+    "original": "１．５２ｍ",
+    "translation": "１．５２ｍ",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0790_0140",
+    "original": "４０．０ｋｇ",
+    "translation": "４０．０ｋｇ",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0790_0141",
+    "original": "４１．０ｋｇ",
+    "translation": "４１．０ｋｇ",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0790_0142",
+    "original": "ぶんぷ",
+    "translation": "分布",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0790_0143",
+    "original": "おおきさ",
+    "translation": "大小",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0790_0144",
+    "original": "ポケモンずかん とうろく かんりょう！",
+    "translation": "宝可梦图鉴登陆完成！",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0790_0145",
+    "original": "ノーマルフォルム",
+    "translation": "普通形态",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0790_0146",
+    "original": "アタックフォルム",
+    "translation": "攻击形态",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0790_0147",
+    "original": "ディフェンスフォルム",
+    "translation": "防御形态",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0790_0148",
+    "original": "スピードフォルム",
+    "translation": "速度形态",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0790_0149",
+    "original": "ランドフォルム",
+    "translation": "陆上形态",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0790_0150",
+    "original": "スカイフォルム",
+    "translation": "天空形态",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0790_0151",
+    "original": "アナザーフォルム",
+    "translation": "别种形态",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0790_0152",
+    "original": "オリジンフォルム",
+    "translation": "起源形态",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0790_0153",
+    "original": "ロトムのすがた",
+    "translation": "洛托姆的样子",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0790_0154",
+    "original": "ヒートロトム",
+    "translation": "加热洛托姆",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0790_0155",
+    "original": "ウォッシュロトム",
+    "translation": "清洗洛托姆",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0790_0156",
+    "original": "フロストロトム",
+    "translation": "结冰洛托姆",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0790_0157",
+    "original": "スピンロトム",
+    "translation": "旋转洛托姆",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0790_0158",
+    "original": "カットロトム",
+    "translation": "切割洛托姆",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0790_0159",
+    "original": "[0100,0000]のすがた",
+    "translation": "[0100,0000]的样子",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0790_0160",
+    "original": "ポワルンのすがた",
+    "translation": "飘浮泡泡的样子",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0790_0161",
+    "original": "たいようのすがた",
+    "translation": "太阳的样子",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0790_0162",
+    "original": "あまみずのすがた",
+    "translation": "雨水的样子",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0790_0163",
+    "original": "ゆきぐものすがた",
+    "translation": "雪云的样子",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0790_0164",
+    "original": "ネガフォルム",
+    "translation": "阴天形态",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0790_0165",
+    "original": "ポジフォルム",
+    "translation": "晴天形态",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0790_0166",
+    "original": "ギザみみ",
+    "translation": "刺刺耳",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0790_0167",
+    "original": "[0100,0000]：",
+    "translation": "[0100,0000]：",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0790_0168",
+    "original": "みくらべる",
+    "translation": "查看标签",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0790_0169",
+    "original": "[0100,0000]を みくらべる",
+    "translation": "查看[0100,0000]的标签",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0790_0170",
+    "original": "すがた",
+    "translation": "样子",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0790_0171",
+    "original": "きりかえる",
+    "translation": "切换",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0790_0172",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0790_0173",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0790_0174",
+    "original": "リストに もどります",
+    "translation": "返回目录",
+    "index": 174
+  }
+]

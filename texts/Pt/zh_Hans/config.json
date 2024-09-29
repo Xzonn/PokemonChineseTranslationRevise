@@ -1,0 +1,320 @@
+[
+  {
+    "key": "PT_0219_0000",
+    "original": "せっていを かえる",
+    "translation": "设置",
+    "index": 0
+  },
+  {
+    "key": "PT_0219_0001",
+    "original": "ポケットモンスター ダイヤモンド",
+    "translation": "宝可梦　钻石",
+    "index": 1
+  },
+  {
+    "key": "PT_0219_0002",
+    "original": "ポケットモンスター パール",
+    "translation": "宝可梦　珍珠",
+    "index": 2
+  },
+  {
+    "key": "PT_0219_0003",
+    "original": "はなしの はやさ",
+    "translation": "语速",
+    "index": 3
+  },
+  {
+    "key": "PT_0219_0004",
+    "original": "せんとうアニメ",
+    "translation": "对战动画",
+    "index": 4
+  },
+  {
+    "key": "PT_0219_0005",
+    "original": "しあいの ルール",
+    "translation": "比赛规则",
+    "index": 5
+  },
+  {
+    "key": "PT_0219_0006",
+    "original": "サウンド",
+    "translation": "音效",
+    "index": 6
+  },
+  {
+    "key": "PT_0219_0007",
+    "original": "ボタンモード",
+    "translation": "按键模式",
+    "index": 7
+  },
+  {
+    "key": "PT_0219_0008",
+    "original": "ウインドウ",
+    "translation": "界面",
+    "index": 8
+  },
+  {
+    "key": "PT_0219_0009",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 9
+  },
+  {
+    "key": "PT_0219_0010",
+    "original": "おそい",
+    "translation": "慢",
+    "index": 10
+  },
+  {
+    "key": "PT_0219_0011",
+    "original": "ふつう",
+    "translation": "普通",
+    "index": 11
+  },
+  {
+    "key": "PT_0219_0012",
+    "original": "はやい",
+    "translation": "快",
+    "index": 12
+  },
+  {
+    "key": "PT_0219_0013",
+    "original": "みる",
+    "translation": "看",
+    "index": 13
+  },
+  {
+    "key": "PT_0219_0014",
+    "original": "みない",
+    "translation": "不看",
+    "index": 14
+  },
+  {
+    "key": "PT_0219_0015",
+    "original": "いれかえ",
+    "translation": "替换",
+    "index": 15
+  },
+  {
+    "key": "PT_0219_0016",
+    "original": "かちぬき",
+    "translation": "连战",
+    "index": 16
+  },
+  {
+    "key": "PT_0219_0017",
+    "original": "ステレオ",
+    "translation": "立体声",
+    "index": 17
+  },
+  {
+    "key": "PT_0219_0018",
+    "original": "モノラル",
+    "translation": "单声道",
+    "index": 18
+  },
+  {
+    "key": "PT_0219_0019",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 19
+  },
+  {
+    "key": "PT_0219_0020",
+    "original": "ＳＴＡＲＴ＝Ｘ",
+    "translation": "ＳＴＡＲＴ＝Ｘ",
+    "index": 20
+  },
+  {
+    "key": "PT_0219_0021",
+    "original": "Ｌ＝Ａ",
+    "translation": "Ｌ＝Ａ",
+    "index": 21
+  },
+  {
+    "key": "PT_0219_0022",
+    "original": "タイプ１",
+    "translation": "类型１",
+    "index": 22
+  },
+  {
+    "key": "PT_0219_0023",
+    "original": "タイプ２",
+    "translation": "类型２",
+    "index": 23
+  },
+  {
+    "key": "PT_0219_0024",
+    "original": "タイプ３",
+    "translation": "类型３",
+    "index": 24
+  },
+  {
+    "key": "PT_0219_0025",
+    "original": "タイプ４",
+    "translation": "类型４",
+    "index": 25
+  },
+  {
+    "key": "PT_0219_0026",
+    "original": "タイプ５",
+    "translation": "类型５",
+    "index": 26
+  },
+  {
+    "key": "PT_0219_0027",
+    "original": "タイプ６",
+    "translation": "类型６",
+    "index": 27
+  },
+  {
+    "key": "PT_0219_0028",
+    "original": "タイプ７",
+    "translation": "类型７",
+    "index": 28
+  },
+  {
+    "key": "PT_0219_0029",
+    "original": "タイプ８",
+    "translation": "类型８",
+    "index": 29
+  },
+  {
+    "key": "PT_0219_0030",
+    "original": "タイプ９",
+    "translation": "类型９",
+    "index": 30
+  },
+  {
+    "key": "PT_0219_0031",
+    "original": "タイプ１０",
+    "translation": "类型１０",
+    "index": 31
+  },
+  {
+    "key": "PT_0219_0032",
+    "original": "タイプ１１",
+    "translation": "类型１１",
+    "index": 32
+  },
+  {
+    "key": "PT_0219_0033",
+    "original": "タイプ１２",
+    "translation": "类型１２",
+    "index": 33
+  },
+  {
+    "key": "PT_0219_0034",
+    "original": "タイプ１３",
+    "translation": "类型１３",
+    "index": 34
+  },
+  {
+    "key": "PT_0219_0035",
+    "original": "タイプ１４",
+    "translation": "类型１４",
+    "index": 35
+  },
+  {
+    "key": "PT_0219_0036",
+    "original": "タイプ１５",
+    "translation": "类型１５",
+    "index": 36
+  },
+  {
+    "key": "PT_0219_0037",
+    "original": "タイプ１６",
+    "translation": "类型１６",
+    "index": 37
+  },
+  {
+    "key": "PT_0219_0038",
+    "original": "タイプ１７",
+    "translation": "类型１７",
+    "index": 38
+  },
+  {
+    "key": "PT_0219_0039",
+    "original": "タイプ１８",
+    "translation": "类型１８",
+    "index": 39
+  },
+  {
+    "key": "PT_0219_0040",
+    "original": "タイプ１９",
+    "translation": "类型１９",
+    "index": 40
+  },
+  {
+    "key": "PT_0219_0041",
+    "original": "タイプ２０",
+    "translation": "类型２０",
+    "index": 41
+  },
+  {
+    "key": "PT_0219_0042",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 42
+  },
+  {
+    "key": "PT_0219_0043",
+    "original": "メッセージの はやさを\n３しゅるいから えらべます",
+    "translation": "可以选择３种\n不同的消息显示速度。",
+    "index": 43
+  },
+  {
+    "key": "PT_0219_0044",
+    "original": "せんとうのとき ポケモンの わざの\nアニメを みるかどうか えらべます",
+    "translation": "选择是否观看宝可梦使用招式的动画",
+    "index": 44
+  },
+  {
+    "key": "PT_0219_0045",
+    "original": "しょうぶの ルールを\nえらぶことが できます",
+    "translation": "可以选择比赛规则。",
+    "index": 45
+  },
+  {
+    "key": "PT_0219_0046",
+    "original": "ゲームの おとを\nえらぶことが できます",
+    "translation": "选择游戏的音效",
+    "index": 46
+  },
+  {
+    "key": "PT_0219_0047",
+    "original": "ボタンの そうさほうほうを\n３しゅるいから えらべます",
+    "translation": "选择按键的操作方法，三选一",
+    "index": 47
+  },
+  {
+    "key": "PT_0219_0048",
+    "original": "ウインドウの デザインを\nえらぶことが できます",
+    "translation": "选择界面的设计样式",
+    "index": 48
+  },
+  {
+    "key": "PT_0219_0049",
+    "original": "えらんだ せっていに かえますか？",
+    "translation": "要更改所选的设置吗？",
+    "index": 49
+  },
+  {
+    "key": "PT_0219_0050",
+    "original": "はい",
+    "translation": "是",
+    "index": 50
+  },
+  {
+    "key": "PT_0219_0051",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 51
+  },
+  {
+    "key": "PT_0219_0052",
+    "original": "ゲームに もどります",
+    "translation": "退回到游戏",
+    "index": 52
+  }
+]

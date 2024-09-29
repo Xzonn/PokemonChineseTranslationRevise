@@ -1,0 +1,4430 @@
+[
+  {
+    "key": "HGSS_0719_0000",
+    "original": "ー",
+    "translation": "ー",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0719_0001",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0719_0002",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0719_0003",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0719_0004",
+    "original": "コウイチ",
+    "translation": "光一",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0719_0005",
+    "original": "アケミ",
+    "translation": "朱美",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0719_0006",
+    "original": "マモル",
+    "translation": "守",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0719_0007",
+    "original": "マイク",
+    "translation": "麦克",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0719_0008",
+    "original": "ゴロウ",
+    "translation": "五郎",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0719_0009",
+    "original": "リサ",
+    "translation": "梨纱",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0719_0010",
+    "original": "クミとルミ",
+    "translation": "久美和留美",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0719_0011",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0719_0012",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0719_0013",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0719_0014",
+    "original": "ヤスジ",
+    "translation": "保治",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0719_0015",
+    "original": "アキト",
+    "translation": "秋仁",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0719_0016",
+    "original": "ノブオ",
+    "translation": "伸夫",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0719_0017",
+    "original": "タケノリ",
+    "translation": "武德",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0719_0018",
+    "original": "ヒサシ",
+    "translation": "永祥",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0719_0019",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0719_0020",
+    "original": "ハヤト",
+    "translation": "阿速",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0719_0021",
+    "original": "ツクシ",
+    "translation": "阿笔",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0719_0022",
+    "original": "ミカ",
+    "translation": "美香",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0719_0023",
+    "original": "タダヒコ",
+    "translation": "格彦",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0719_0024",
+    "original": "マナブ",
+    "translation": "安仔",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0719_0025",
+    "original": "ダイサク",
+    "translation": "太介",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0719_0026",
+    "original": "タカヒロ",
+    "translation": "高弘",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0719_0027",
+    "original": "カオリ",
+    "translation": "佳织",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0719_0028",
+    "original": "ユウキ",
+    "translation": "小悠",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0719_0029",
+    "original": "ツバサ",
+    "translation": "阿翼",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0719_0030",
+    "original": "アカネ",
+    "translation": "小茜",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0719_0031",
+    "original": "マツバ",
+    "translation": "松叶",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0719_0032",
+    "original": "ヤナギ",
+    "translation": "柳伯",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0719_0033",
+    "original": "ミカン",
+    "translation": "阿蜜",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0719_0034",
+    "original": "シジマ",
+    "translation": "阿四",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0719_0035",
+    "original": "イブキ",
+    "translation": "小椿",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0719_0036",
+    "original": "レイカ",
+    "translation": "蕾佳",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0719_0037",
+    "original": "ジョージ",
+    "translation": "乔治",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0719_0038",
+    "original": "ヨシコ",
+    "translation": "芳子",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0719_0039",
+    "original": "ミツオ",
+    "translation": "光雄",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0719_0040",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0719_0041",
+    "original": "キョウヘイ",
+    "translation": "响平",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0719_0042",
+    "original": "ジョウ",
+    "translation": "常捷",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0719_0043",
+    "original": "モクネン",
+    "translation": "莫念",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0719_0044",
+    "original": "ミエハル",
+    "translation": "见荣晴",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0719_0045",
+    "original": "トモコ",
+    "translation": "杜若",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0719_0046",
+    "original": "ヨネコ",
+    "translation": "米子",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0719_0047",
+    "original": "アキラ",
+    "translation": "小明",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0719_0048",
+    "original": "カズヒコ",
+    "translation": "和彦",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0719_0049",
+    "original": "シンゴ",
+    "translation": "真悟",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0719_0050",
+    "original": "ショウタ",
+    "translation": "翔太",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0719_0051",
+    "original": "チンネン",
+    "translation": "珍念",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0719_0052",
+    "original": "エイソウ",
+    "translation": "永宗",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0719_0053",
+    "original": "ソウネン",
+    "translation": "宗念",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0719_0054",
+    "original": "カイネン",
+    "translation": "戒念",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0719_0055",
+    "original": "カクネン",
+    "translation": "格念",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0719_0056",
+    "original": "マサタカ",
+    "translation": "雅贵",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0719_0057",
+    "original": "ヤスアキ",
+    "translation": "康明",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0719_0058",
+    "original": "テツハル",
+    "translation": "哲治",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0719_0059",
+    "original": "ナオフミ",
+    "translation": "柏漳",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0719_0060",
+    "original": "タクロウ",
+    "translation": "卓郎",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0719_0061",
+    "original": "ツトム",
+    "translation": "阿勤",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0719_0062",
+    "original": "コウタ",
+    "translation": "幸太",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0719_0063",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0719_0064",
+    "original": "ショウヘイ",
+    "translation": "翔平",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0719_0065",
+    "original": "ミズホ",
+    "translation": "小瑞",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0719_0066",
+    "original": "ヨウイチ",
+    "translation": "扬毅",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0719_0067",
+    "original": "サダオ",
+    "translation": "贞夫",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0719_0068",
+    "original": "ノリユキ",
+    "translation": "则之",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0719_0069",
+    "original": "トモミチ",
+    "translation": "智道",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0719_0070",
+    "original": "ナオコ",
+    "translation": "直子",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0719_0071",
+    "original": "アスカ",
+    "translation": "飞鸟",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0719_0072",
+    "original": "ヨシキ",
+    "translation": "吉木",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0719_0073",
+    "original": "クニヒコ",
+    "translation": "国濠",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0719_0074",
+    "original": "カズヤ",
+    "translation": "和也",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0719_0075",
+    "original": "アキヒロ",
+    "translation": "明宏",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0719_0076",
+    "original": "イクエ",
+    "translation": "育江",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0719_0077",
+    "original": "カナミ",
+    "translation": "子薇",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0719_0078",
+    "original": "ヨウタ",
+    "translation": "洋太",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0719_0079",
+    "original": "タケオ",
+    "translation": "武雄",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0719_0080",
+    "original": "シンイチ",
+    "translation": "真一",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0719_0081",
+    "original": "オトとナル",
+    "translation": "音和奈留",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0719_0082",
+    "original": "ハルキ",
+    "translation": "春树",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0719_0083",
+    "original": "サトミ",
+    "translation": "晓慧",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0719_0084",
+    "original": "ユウイチ",
+    "translation": "勇毅",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0719_0085",
+    "original": "ミチコ",
+    "translation": "美智子",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0719_0086",
+    "original": "ナオユキ",
+    "translation": "尚行",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0719_0087",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0719_0088",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0719_0089",
+    "original": "タエコ",
+    "translation": "妙子",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0719_0090",
+    "original": "ナギサ",
+    "translation": "渚",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0719_0091",
+    "original": "ナツミ",
+    "translation": "夏美",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0719_0092",
+    "original": "カナエ",
+    "translation": "香苗",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0719_0093",
+    "original": "シホ",
+    "translation": "志穗",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0719_0094",
+    "original": "ヨウコ",
+    "translation": "阳子",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0719_0095",
+    "original": "タツヤ",
+    "translation": "达也",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0719_0096",
+    "original": "ムネオ",
+    "translation": "宗雄",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0719_0097",
+    "original": "ヨウヘイ",
+    "translation": "洋平",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0719_0098",
+    "original": "ナガアキ",
+    "translation": "永昭",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0719_0099",
+    "original": "シゲキ",
+    "translation": "茂树",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0719_0100",
+    "original": "ツトム",
+    "translation": "阿勤",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0719_0101",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0719_0102",
+    "original": "シュン",
+    "translation": "小周",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0719_0103",
+    "original": "ヒデユキ",
+    "translation": "秀幸",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0719_0104",
+    "original": "タクヤ",
+    "translation": "拓也",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0719_0105",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0719_0106",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0719_0107",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0719_0108",
+    "original": "イサム",
+    "translation": "阿勇",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0719_0109",
+    "original": "ユウ",
+    "translation": "优",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0719_0110",
+    "original": "マサル",
+    "translation": "小胜",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0719_0111",
+    "original": "テツロウ",
+    "translation": "铁郎",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0719_0112",
+    "original": "トモヒコ",
+    "translation": "智彦",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0719_0113",
+    "original": "ヒトミ",
+    "translation": "仁美",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0719_0114",
+    "original": "ナツホ",
+    "translation": "夏帆",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0719_0115",
+    "original": "アヤカ",
+    "translation": "彩夏",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0719_0116",
+    "original": "チヒロ",
+    "translation": "千寻",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0719_0117",
+    "original": "マリコ",
+    "translation": "真理子",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0719_0118",
+    "original": "マリア",
+    "translation": "真理亚",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0719_0119",
+    "original": "トモエ",
+    "translation": "友惠",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0719_0120",
+    "original": "マリサ",
+    "translation": "真理纱",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0719_0121",
+    "original": "カレン",
+    "translation": "华莲",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0719_0122",
+    "original": "ヨシヒト",
+    "translation": "义人",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0719_0123",
+    "original": "ミノル",
+    "translation": "小实",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0719_0124",
+    "original": "ヒデノリ",
+    "translation": "秀典",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0719_0125",
+    "original": "シュウヘイ",
+    "translation": "修平",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0719_0126",
+    "original": "ショウジ",
+    "translation": "胜骏",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0719_0127",
+    "original": "ケイゾウ",
+    "translation": "圭藏",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0719_0128",
+    "original": "ダイスケ",
+    "translation": "大佑",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0719_0129",
+    "original": "トシノブ",
+    "translation": "俊信",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0719_0130",
+    "original": "スグル",
+    "translation": "杰",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0719_0131",
+    "original": "マコト",
+    "translation": "阿诚",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0719_0132",
+    "original": "カズシ",
+    "translation": "和嗣",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0719_0133",
+    "original": "マサオミ",
+    "translation": "正臣",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0719_0134",
+    "original": "テツジ",
+    "translation": "士哲",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0719_0135",
+    "original": "キミヤス",
+    "translation": "公康",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0719_0136",
+    "original": "アキ",
+    "translation": "秋妍",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0719_0137",
+    "original": "モトヒロ",
+    "translation": "本弘",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0719_0138",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0719_0139",
+    "original": "マナミ",
+    "translation": "真奈美",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0719_0140",
+    "original": "ミチヒコ",
+    "translation": "亨飞",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0719_0141",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0719_0142",
+    "original": "ミズホ",
+    "translation": "小瑞",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0719_0143",
+    "original": "カツヒロ",
+    "translation": "克洋",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0719_0144",
+    "original": "アキオ",
+    "translation": "昭雄",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0719_0145",
+    "original": "タロウ",
+    "translation": "太郎",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0719_0146",
+    "original": "マサヒコ",
+    "translation": "雅彦",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0719_0147",
+    "original": "ソウイチ",
+    "translation": "苍一",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0719_0148",
+    "original": "ヤスキ",
+    "translation": "立青",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0719_0149",
+    "original": "ユウト",
+    "translation": "雄铭",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0719_0150",
+    "original": "リョウスケ",
+    "translation": "良任",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0719_0151",
+    "original": "エミ",
+    "translation": "惠美",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0719_0152",
+    "original": "チナミ",
+    "translation": "欣缘",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0719_0153",
+    "original": "ミナコ",
+    "translation": "旻娜",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0719_0154",
+    "original": "シュウジ",
+    "translation": "修司",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0719_0155",
+    "original": "ツトム",
+    "translation": "阿勤",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0719_0156",
+    "original": "キヨマサ",
+    "translation": "清正",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0719_0157",
+    "original": "フミヒト",
+    "translation": "文仁",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0719_0158",
+    "original": "ノブヒコ",
+    "translation": "信彦",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0719_0159",
+    "original": "モリカズ",
+    "translation": "守和",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0719_0160",
+    "original": "コウメ",
+    "translation": "小梅",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0719_0161",
+    "original": "サクラ",
+    "translation": "樱花",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0719_0162",
+    "original": "タマオ",
+    "translation": "小玉",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0719_0163",
+    "original": "コモモ",
+    "translation": "小桃",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0719_0164",
+    "original": "サツキ",
+    "translation": "小鹃",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0719_0165",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0719_0166",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0719_0167",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0719_0168",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0719_0169",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0719_0170",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0719_0171",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0719_0172",
+    "original": "マコト",
+    "translation": "阿诚",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0719_0173",
+    "original": "マコト",
+    "translation": "阿诚",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0719_0174",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0719_0175",
+    "original": "マチコ",
+    "translation": "真知子",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0719_0176",
+    "original": "テツコ",
+    "translation": "彻子",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0719_0177",
+    "original": "タミコ",
+    "translation": "多美子",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0719_0178",
+    "original": "シュウイチ",
+    "translation": "秀一",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0719_0179",
+    "original": "トモユキ",
+    "translation": "智之",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0719_0180",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0719_0181",
+    "original": "アキヒト",
+    "translation": "彰宏",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0719_0182",
+    "original": "メグミ",
+    "translation": "惠美",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0719_0183",
+    "original": "チカ",
+    "translation": "咏馨",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0719_0184",
+    "original": "ユキ",
+    "translation": "由纪",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0719_0185",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0719_0186",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0719_0187",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0719_0188",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0719_0189",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0719_0190",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0719_0191",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0719_0192",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0719_0193",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0719_0194",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0719_0195",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0719_0196",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0719_0197",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0719_0198",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0719_0199",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0719_0200",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0719_0201",
+    "original": "マサアキ",
+    "translation": "雅明",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0719_0202",
+    "original": "ナオヤ",
+    "translation": "直也",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0719_0203",
+    "original": "ケンゴ",
+    "translation": "研吾",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0719_0204",
+    "original": "マサフミ",
+    "translation": "雅文",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0719_0205",
+    "original": "ケン",
+    "translation": "宪",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0719_0206",
+    "original": "ヒヅキ",
+    "translation": "绯月",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0719_0207",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0719_0208",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0719_0209",
+    "original": "アヤコ",
+    "translation": "彩子",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0719_0210",
+    "original": "ユウコ",
+    "translation": "裕子",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0719_0211",
+    "original": "ゲンキ",
+    "translation": "元辉",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0719_0212",
+    "original": "ジロウ",
+    "translation": "次郎",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0719_0213",
+    "original": "ユウゾウ",
+    "translation": "勇藏",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0719_0214",
+    "original": "ユキマサ",
+    "translation": "行政",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0719_0215",
+    "original": "レミ",
+    "translation": "玲美",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0719_0216",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0719_0217",
+    "original": "アキノリ",
+    "translation": "明宪",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0719_0218",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0719_0219",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0719_0220",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0719_0221",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0719_0222",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0719_0223",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0719_0224",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0719_0225",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0719_0226",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0719_0227",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0719_0228",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0719_0229",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0719_0230",
+    "original": "ヒロ",
+    "translation": "鸿寻",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0719_0231",
+    "original": "エドワード",
+    "translation": "爱德华",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0719_0232",
+    "original": "ジュンイチ",
+    "translation": "骏逸",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0719_0233",
+    "original": "カズヒト",
+    "translation": "数人",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0719_0234",
+    "original": "マサミチ",
+    "translation": "正道",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0719_0235",
+    "original": "ヒロカズ",
+    "translation": "浩一",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0719_0236",
+    "original": "シンジ",
+    "translation": "真司",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0719_0237",
+    "original": "ナナコ",
+    "translation": "奈奈子",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0719_0238",
+    "original": "シゲロウ",
+    "translation": "滋郎",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0719_0239",
+    "original": "カツオ",
+    "translation": "克雄",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0719_0240",
+    "original": "ミツル",
+    "translation": "满充",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0719_0241",
+    "original": "コウヘイ",
+    "translation": "浩平",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0719_0242",
+    "original": "ジョニー",
+    "translation": "约翰尼",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0719_0243",
+    "original": "サキエ",
+    "translation": "田惠",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0719_0244",
+    "original": "ワタル",
+    "translation": "阿渡",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0719_0245",
+    "original": "イツキ",
+    "translation": "一树",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0719_0246",
+    "original": "カリン",
+    "translation": "梨花",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0719_0247",
+    "original": "キョウ",
+    "translation": "阿桔",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0719_0248",
+    "original": "ヨウジ",
+    "translation": "志扬",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0719_0249",
+    "original": "ミキヤス",
+    "translation": "树泰",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0719_0250",
+    "original": "タケノリ",
+    "translation": "武德",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0719_0251",
+    "original": "テッカン",
+    "translation": "铁翰",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0719_0252",
+    "original": "ジュン",
+    "translation": "阿驯",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0719_0253",
+    "original": "タケシ",
+    "translation": "小刚",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0719_0254",
+    "original": "カスミ",
+    "translation": "小霞",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0719_0255",
+    "original": "マチス",
+    "translation": "马志士",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0719_0256",
+    "original": "エリカ",
+    "translation": "莉佳",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0719_0257",
+    "original": "アンズ",
+    "translation": "阿杏",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0719_0258",
+    "original": "ナツメ",
+    "translation": "娜姿",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0719_0259",
+    "original": "カツラ",
+    "translation": "夏伯",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0719_0260",
+    "original": "レッド",
+    "translation": "赤红",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0719_0261",
+    "original": "グリーン",
+    "translation": "青绿",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0719_0262",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0719_0263",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0719_0264",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0719_0265",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0719_0266",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0719_0267",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0719_0268",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0719_0269",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0719_0270",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0719_0271",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0719_0272",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0719_0273",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0719_0274",
+    "original": "ヨウイチ",
+    "translation": "扬毅",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0719_0275",
+    "original": "ヨウイチ",
+    "translation": "扬毅",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0719_0276",
+    "original": "カオリ",
+    "translation": "佳织",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0719_0277",
+    "original": "カオリ",
+    "translation": "佳织",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0719_0278",
+    "original": "タケノリ",
+    "translation": "武德",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0719_0279",
+    "original": "ゴロウ",
+    "translation": "五郎",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0719_0280",
+    "original": "ゴロウ",
+    "translation": "五郎",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0719_0281",
+    "original": "マサノリ",
+    "translation": "正典",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0719_0282",
+    "original": "トシヤ",
+    "translation": "俊阳",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0719_0283",
+    "original": "ゴロゾー",
+    "translation": "五藏",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0719_0284",
+    "original": "ツヨシ",
+    "translation": "津良",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0719_0285",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0719_0286",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0719_0287",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0719_0288",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0719_0289",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0719_0290",
+    "original": "コウセイ",
+    "translation": "光圣",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0719_0291",
+    "original": "クミコ",
+    "translation": "红湄",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0719_0292",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0719_0293",
+    "original": "クニミ",
+    "translation": "国美",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0719_0294",
+    "original": "ケイ",
+    "translation": "滢萱",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0719_0295",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0719_0296",
+    "original": "ヒサエ",
+    "translation": "汐晨",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0719_0297",
+    "original": "ナミ",
+    "translation": "娜美",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0719_0298",
+    "original": "ユカリ",
+    "translation": "汤雁",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0719_0299",
+    "original": "ソラオ",
+    "translation": "宇生",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0719_0300",
+    "original": "ハヤオ",
+    "translation": "捷盛",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0719_0301",
+    "original": "ショウイチ",
+    "translation": "翔逸",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0719_0302",
+    "original": "エイゴ",
+    "translation": "鹰豪",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0719_0303",
+    "original": "エイジ",
+    "translation": "英二",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0719_0304",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0719_0305",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0719_0306",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0719_0307",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0719_0308",
+    "original": "キヨシ",
+    "translation": "清志",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0719_0309",
+    "original": "ケイゴ",
+    "translation": "启豪",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0719_0310",
+    "original": "ナオアキ",
+    "translation": "犹明",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0719_0311",
+    "original": "キョウジ",
+    "translation": "自强",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0719_0312",
+    "original": "テツヤ",
+    "translation": "铁军",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0719_0313",
+    "original": "リュウジ",
+    "translation": "史龙",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0719_0314",
+    "original": "シュウ",
+    "translation": "执彰",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0719_0315",
+    "original": "ヒデト",
+    "translation": "兴添",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0719_0316",
+    "original": "デビット",
+    "translation": "大卫",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0719_0317",
+    "original": "ムラマサ",
+    "translation": "宵练",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0719_0318",
+    "original": "ノブアキ",
+    "translation": "明炘",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0719_0319",
+    "original": "フクオ",
+    "translation": "福尾",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0719_0320",
+    "original": "ソウスケ",
+    "translation": "沧泓",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0719_0321",
+    "original": "トモヒト",
+    "translation": "洪钧",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0719_0322",
+    "original": "エイイチ",
+    "translation": "泳诚",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0719_0323",
+    "original": "ミノル",
+    "translation": "小实",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0719_0324",
+    "original": "ミノル",
+    "translation": "小实",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0719_0325",
+    "original": "ヒデノリ",
+    "translation": "秀典",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0719_0326",
+    "original": "ミキとマキ",
+    "translation": "美纪和函颖",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0719_0327",
+    "original": "ノリタカ",
+    "translation": "德隆",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0719_0328",
+    "original": "カズヒデ",
+    "translation": "和秀",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0719_0329",
+    "original": "ケンジ",
+    "translation": "健二",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0719_0330",
+    "original": "シンスケ",
+    "translation": "慎介",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0719_0331",
+    "original": "キイチ",
+    "translation": "喜一",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0719_0332",
+    "original": "リカコ",
+    "translation": "佳蕊",
+    "index": 332
+  },
+  {
+    "key": "HGSS_0719_0333",
+    "original": "キミエ",
+    "translation": "君慧",
+    "index": 333
+  },
+  {
+    "key": "HGSS_0719_0334",
+    "original": "ミズホ",
+    "translation": "小瑞",
+    "index": 334
+  },
+  {
+    "key": "HGSS_0719_0335",
+    "original": "エミ",
+    "translation": "惠美",
+    "index": 335
+  },
+  {
+    "key": "HGSS_0719_0336",
+    "original": "ユキコ",
+    "translation": "蓁宜",
+    "index": 336
+  },
+  {
+    "key": "HGSS_0719_0337",
+    "original": "アンソニー",
+    "translation": "安东尼",
+    "index": 337
+  },
+  {
+    "key": "HGSS_0719_0338",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 338
+  },
+  {
+    "key": "HGSS_0719_0339",
+    "original": "ユウダイ",
+    "translation": "裕泰",
+    "index": 339
+  },
+  {
+    "key": "HGSS_0719_0340",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 340
+  },
+  {
+    "key": "HGSS_0719_0341",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 341
+  },
+  {
+    "key": "HGSS_0719_0342",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 342
+  },
+  {
+    "key": "HGSS_0719_0343",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 343
+  },
+  {
+    "key": "HGSS_0719_0344",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 344
+  },
+  {
+    "key": "HGSS_0719_0345",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 345
+  },
+  {
+    "key": "HGSS_0719_0346",
+    "original": "ナツキ",
+    "translation": "夏堇",
+    "index": 346
+  },
+  {
+    "key": "HGSS_0719_0347",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 347
+  },
+  {
+    "key": "HGSS_0719_0348",
+    "original": "テルユキ",
+    "translation": "晖廉",
+    "index": 348
+  },
+  {
+    "key": "HGSS_0719_0349",
+    "original": "イチロウ",
+    "translation": "一超",
+    "index": 349
+  },
+  {
+    "key": "HGSS_0719_0350",
+    "original": "ヨシオ",
+    "translation": "义雄",
+    "index": 350
+  },
+  {
+    "key": "HGSS_0719_0351",
+    "original": "フミオ",
+    "translation": "文雄",
+    "index": 351
+  },
+  {
+    "key": "HGSS_0719_0352",
+    "original": "テイコ",
+    "translation": "汀子",
+    "index": 352
+  },
+  {
+    "key": "HGSS_0719_0353",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 353
+  },
+  {
+    "key": "HGSS_0719_0354",
+    "original": "ミーナ",
+    "translation": "米娜",
+    "index": 354
+  },
+  {
+    "key": "HGSS_0719_0355",
+    "original": "チエ",
+    "translation": "千惠",
+    "index": 355
+  },
+  {
+    "key": "HGSS_0719_0356",
+    "original": "マユミ",
+    "translation": "真由美",
+    "index": 356
+  },
+  {
+    "key": "HGSS_0719_0357",
+    "original": "タカアキ",
+    "translation": "崇哲",
+    "index": 357
+  },
+  {
+    "key": "HGSS_0719_0358",
+    "original": "ノリヨシ",
+    "translation": "汉嵘",
+    "index": 358
+  },
+  {
+    "key": "HGSS_0719_0359",
+    "original": "イワオ",
+    "translation": "岩生",
+    "index": 359
+  },
+  {
+    "key": "HGSS_0719_0360",
+    "original": "ヨウタ",
+    "translation": "洋太",
+    "index": 360
+  },
+  {
+    "key": "HGSS_0719_0361",
+    "original": "カズキ",
+    "translation": "和树",
+    "index": 361
+  },
+  {
+    "key": "HGSS_0719_0362",
+    "original": "アイコ",
+    "translation": "爱儿",
+    "index": 362
+  },
+  {
+    "key": "HGSS_0719_0363",
+    "original": "サリナ",
+    "translation": "沙里奈",
+    "index": 363
+  },
+  {
+    "key": "HGSS_0719_0364",
+    "original": "ナオヒサ",
+    "translation": "尚恒",
+    "index": 364
+  },
+  {
+    "key": "HGSS_0719_0365",
+    "original": "タクト",
+    "translation": "巧铭",
+    "index": 365
+  },
+  {
+    "key": "HGSS_0719_0366",
+    "original": "ケンゾウ",
+    "translation": "贤三",
+    "index": 366
+  },
+  {
+    "key": "HGSS_0719_0367",
+    "original": "スミオ",
+    "translation": "澄夫",
+    "index": 367
+  },
+  {
+    "key": "HGSS_0719_0368",
+    "original": "トミコ",
+    "translation": "富子",
+    "index": 368
+  },
+  {
+    "key": "HGSS_0719_0369",
+    "original": "ケサコ",
+    "translation": "霓裳",
+    "index": 369
+  },
+  {
+    "key": "HGSS_0719_0370",
+    "original": "ススム",
+    "translation": "进源",
+    "index": 370
+  },
+  {
+    "key": "HGSS_0719_0371",
+    "original": "ヒロノリ",
+    "translation": "灏范",
+    "index": 371
+  },
+  {
+    "key": "HGSS_0719_0372",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 372
+  },
+  {
+    "key": "HGSS_0719_0373",
+    "original": "カツヤ",
+    "translation": "胜也",
+    "index": 373
+  },
+  {
+    "key": "HGSS_0719_0374",
+    "original": "トビオ",
+    "translation": "东波",
+    "index": 374
+  },
+  {
+    "key": "HGSS_0719_0375",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 375
+  },
+  {
+    "key": "HGSS_0719_0376",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 376
+  },
+  {
+    "key": "HGSS_0719_0377",
+    "original": "トモキ",
+    "translation": "洪辉",
+    "index": 377
+  },
+  {
+    "key": "HGSS_0719_0378",
+    "original": "ヒロノブ",
+    "translation": "昊昶",
+    "index": 378
+  },
+  {
+    "key": "HGSS_0719_0379",
+    "original": "ケンタ",
+    "translation": "健太",
+    "index": 379
+  },
+  {
+    "key": "HGSS_0719_0380",
+    "original": "ヒロユキ",
+    "translation": "弘幸",
+    "index": 380
+  },
+  {
+    "key": "HGSS_0719_0381",
+    "original": "トシヒコ",
+    "translation": "子锐",
+    "index": 381
+  },
+  {
+    "key": "HGSS_0719_0382",
+    "original": "キョウコ",
+    "translation": "京子",
+    "index": 382
+  },
+  {
+    "key": "HGSS_0719_0383",
+    "original": "ノブマサ",
+    "translation": "展政",
+    "index": 383
+  },
+  {
+    "key": "HGSS_0719_0384",
+    "original": "ユウゴ",
+    "translation": "勇吾",
+    "index": 384
+  },
+  {
+    "key": "HGSS_0719_0385",
+    "original": "サトとハル",
+    "translation": "小智和小遥",
+    "index": 385
+  },
+  {
+    "key": "HGSS_0719_0386",
+    "original": "トウヤ",
+    "translation": "斗也",
+    "index": 386
+  },
+  {
+    "key": "HGSS_0719_0387",
+    "original": "クミとルミ",
+    "translation": "久美和留美",
+    "index": 387
+  },
+  {
+    "key": "HGSS_0719_0388",
+    "original": "トシハル",
+    "translation": "纪阳",
+    "index": 388
+  },
+  {
+    "key": "HGSS_0719_0389",
+    "original": "カイ",
+    "translation": "界",
+    "index": 389
+  },
+  {
+    "key": "HGSS_0719_0390",
+    "original": "ノリヤス",
+    "translation": "纪保",
+    "index": 390
+  },
+  {
+    "key": "HGSS_0719_0391",
+    "original": "マサシ",
+    "translation": "正志",
+    "index": 391
+  },
+  {
+    "key": "HGSS_0719_0392",
+    "original": "ヒロアキ",
+    "translation": "宏明",
+    "index": 392
+  },
+  {
+    "key": "HGSS_0719_0393",
+    "original": "テルキ",
+    "translation": "辉树",
+    "index": 393
+  },
+  {
+    "key": "HGSS_0719_0394",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 394
+  },
+  {
+    "key": "HGSS_0719_0395",
+    "original": "シン",
+    "translation": "小进",
+    "index": 395
+  },
+  {
+    "key": "HGSS_0719_0396",
+    "original": "ジョナサン",
+    "translation": "乔纳森",
+    "index": 396
+  },
+  {
+    "key": "HGSS_0719_0397",
+    "original": "クリオ",
+    "translation": "克里欧",
+    "index": 397
+  },
+  {
+    "key": "HGSS_0719_0398",
+    "original": "ユリカ",
+    "translation": "由梨香",
+    "index": 398
+  },
+  {
+    "key": "HGSS_0719_0399",
+    "original": "ダイ",
+    "translation": "达伊",
+    "index": 399
+  },
+  {
+    "key": "HGSS_0719_0400",
+    "original": "リカ",
+    "translation": "阿香",
+    "index": 400
+  },
+  {
+    "key": "HGSS_0719_0401",
+    "original": "カーネル",
+    "translation": "卡内尔",
+    "index": 401
+  },
+  {
+    "key": "HGSS_0719_0402",
+    "original": "チサト",
+    "translation": "千慧",
+    "index": 402
+  },
+  {
+    "key": "HGSS_0719_0403",
+    "original": "タイチ",
+    "translation": "太一",
+    "index": 403
+  },
+  {
+    "key": "HGSS_0719_0404",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 404
+  },
+  {
+    "key": "HGSS_0719_0405",
+    "original": "シュンジ",
+    "translation": "舜司",
+    "index": 405
+  },
+  {
+    "key": "HGSS_0719_0406",
+    "original": "モトフミ",
+    "translation": "基文",
+    "index": 406
+  },
+  {
+    "key": "HGSS_0719_0407",
+    "original": "ゴウ",
+    "translation": "豪",
+    "index": 407
+  },
+  {
+    "key": "HGSS_0719_0408",
+    "original": "ノゾミ",
+    "translation": "小望",
+    "index": 408
+  },
+  {
+    "key": "HGSS_0719_0409",
+    "original": "コウサク",
+    "translation": "耕作",
+    "index": 409
+  },
+  {
+    "key": "HGSS_0719_0410",
+    "original": "マサヒロ",
+    "translation": "正洋",
+    "index": 410
+  },
+  {
+    "key": "HGSS_0719_0411",
+    "original": "トシヒロ",
+    "translation": "利洋",
+    "index": 411
+  },
+  {
+    "key": "HGSS_0719_0412",
+    "original": "ハクセイ",
+    "translation": "白谢",
+    "index": 412
+  },
+  {
+    "key": "HGSS_0719_0413",
+    "original": "タカヨシ",
+    "translation": "隆义",
+    "index": 413
+  },
+  {
+    "key": "HGSS_0719_0414",
+    "original": "エイジ",
+    "translation": "英二",
+    "index": 414
+  },
+  {
+    "key": "HGSS_0719_0415",
+    "original": "タクミ",
+    "translation": "子巧",
+    "index": 415
+  },
+  {
+    "key": "HGSS_0719_0416",
+    "original": "ミキとマキ",
+    "translation": "美纪和函颖",
+    "index": 416
+  },
+  {
+    "key": "HGSS_0719_0417",
+    "original": "マリカ",
+    "translation": "真理香",
+    "index": 417
+  },
+  {
+    "key": "HGSS_0719_0418",
+    "original": "シバ",
+    "translation": "希巴",
+    "index": 418
+  },
+  {
+    "key": "HGSS_0719_0419",
+    "original": "ユナ",
+    "translation": "尤娜",
+    "index": 419
+  },
+  {
+    "key": "HGSS_0719_0420",
+    "original": "ノリアキ",
+    "translation": "乘旻",
+    "index": 420
+  },
+  {
+    "key": "HGSS_0719_0421",
+    "original": "ノボル",
+    "translation": "育昇",
+    "index": 421
+  },
+  {
+    "key": "HGSS_0719_0422",
+    "original": "シュンペイ",
+    "translation": "舜平",
+    "index": 422
+  },
+  {
+    "key": "HGSS_0719_0423",
+    "original": "ヒデアキ",
+    "translation": "英明",
+    "index": 423
+  },
+  {
+    "key": "HGSS_0719_0424",
+    "original": "ヒロシ",
+    "translation": "浩",
+    "index": 424
+  },
+  {
+    "key": "HGSS_0719_0425",
+    "original": "マコとミコ",
+    "translation": "真子和实子",
+    "index": 425
+  },
+  {
+    "key": "HGSS_0719_0426",
+    "original": "マコとミコ",
+    "translation": "真子和实子",
+    "index": 426
+  },
+  {
+    "key": "HGSS_0719_0427",
+    "original": "ノリカ",
+    "translation": "纪香",
+    "index": 427
+  },
+  {
+    "key": "HGSS_0719_0428",
+    "original": "マサユキ",
+    "translation": "真幸",
+    "index": 428
+  },
+  {
+    "key": "HGSS_0719_0429",
+    "original": "アツシ",
+    "translation": "淳",
+    "index": 429
+  },
+  {
+    "key": "HGSS_0719_0430",
+    "original": "シュウイチ",
+    "translation": "秀一",
+    "index": 430
+  },
+  {
+    "key": "HGSS_0719_0431",
+    "original": "シュウイチ",
+    "translation": "秀一",
+    "index": 431
+  },
+  {
+    "key": "HGSS_0719_0432",
+    "original": "マナブ",
+    "translation": "安仔",
+    "index": 432
+  },
+  {
+    "key": "HGSS_0719_0433",
+    "original": "マナブ",
+    "translation": "安仔",
+    "index": 433
+  },
+  {
+    "key": "HGSS_0719_0434",
+    "original": "クリオ",
+    "translation": "克里欧",
+    "index": 434
+  },
+  {
+    "key": "HGSS_0719_0435",
+    "original": "クリオ",
+    "translation": "克里欧",
+    "index": 435
+  },
+  {
+    "key": "HGSS_0719_0436",
+    "original": "メグミ",
+    "translation": "惠美",
+    "index": 436
+  },
+  {
+    "key": "HGSS_0719_0437",
+    "original": "メグミ",
+    "translation": "惠美",
+    "index": 437
+  },
+  {
+    "key": "HGSS_0719_0438",
+    "original": "ミエハル",
+    "translation": "见荣晴",
+    "index": 438
+  },
+  {
+    "key": "HGSS_0719_0439",
+    "original": "ミエハル",
+    "translation": "见荣晴",
+    "index": 439
+  },
+  {
+    "key": "HGSS_0719_0440",
+    "original": "ゲンキ",
+    "translation": "元辉",
+    "index": 440
+  },
+  {
+    "key": "HGSS_0719_0441",
+    "original": "ゲンキ",
+    "translation": "元辉",
+    "index": 441
+  },
+  {
+    "key": "HGSS_0719_0442",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 442
+  },
+  {
+    "key": "HGSS_0719_0443",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 443
+  },
+  {
+    "key": "HGSS_0719_0444",
+    "original": "ナツホ",
+    "translation": "夏帆",
+    "index": 444
+  },
+  {
+    "key": "HGSS_0719_0445",
+    "original": "ナツホ",
+    "translation": "夏帆",
+    "index": 445
+  },
+  {
+    "key": "HGSS_0719_0446",
+    "original": "エイジ",
+    "translation": "英二",
+    "index": 446
+  },
+  {
+    "key": "HGSS_0719_0447",
+    "original": "モトヒロ",
+    "translation": "本弘",
+    "index": 447
+  },
+  {
+    "key": "HGSS_0719_0448",
+    "original": "モトヒロ",
+    "translation": "本弘",
+    "index": 448
+  },
+  {
+    "key": "HGSS_0719_0449",
+    "original": "ヨウタ",
+    "translation": "洋太",
+    "index": 449
+  },
+  {
+    "key": "HGSS_0719_0450",
+    "original": "ヒデノリ",
+    "translation": "秀典",
+    "index": 450
+  },
+  {
+    "key": "HGSS_0719_0451",
+    "original": "タロウ",
+    "translation": "太郎",
+    "index": 451
+  },
+  {
+    "key": "HGSS_0719_0452",
+    "original": "タロウ",
+    "translation": "太郎",
+    "index": 452
+  },
+  {
+    "key": "HGSS_0719_0453",
+    "original": "エミ",
+    "translation": "惠美",
+    "index": 453
+  },
+  {
+    "key": "HGSS_0719_0454",
+    "original": "マイク",
+    "translation": "麦克",
+    "index": 454
+  },
+  {
+    "key": "HGSS_0719_0455",
+    "original": "マイク",
+    "translation": "麦克",
+    "index": 455
+  },
+  {
+    "key": "HGSS_0719_0456",
+    "original": "シュン",
+    "translation": "小周",
+    "index": 456
+  },
+  {
+    "key": "HGSS_0719_0457",
+    "original": "シュン",
+    "translation": "小周",
+    "index": 457
+  },
+  {
+    "key": "HGSS_0719_0458",
+    "original": "ヒトミ",
+    "translation": "仁美",
+    "index": 458
+  },
+  {
+    "key": "HGSS_0719_0459",
+    "original": "ヒトミ",
+    "translation": "仁美",
+    "index": 459
+  },
+  {
+    "key": "HGSS_0719_0460",
+    "original": "コウイチ",
+    "translation": "光一",
+    "index": 460
+  },
+  {
+    "key": "HGSS_0719_0461",
+    "original": "コウイチ",
+    "translation": "光一",
+    "index": 461
+  },
+  {
+    "key": "HGSS_0719_0462",
+    "original": "ヤスアキ",
+    "translation": "康明",
+    "index": 462
+  },
+  {
+    "key": "HGSS_0719_0463",
+    "original": "ヤスアキ",
+    "translation": "康明",
+    "index": 463
+  },
+  {
+    "key": "HGSS_0719_0464",
+    "original": "リカ",
+    "translation": "阿香",
+    "index": 464
+  },
+  {
+    "key": "HGSS_0719_0465",
+    "original": "リカ",
+    "translation": "阿香",
+    "index": 465
+  },
+  {
+    "key": "HGSS_0719_0466",
+    "original": "チサト",
+    "translation": "千慧",
+    "index": 466
+  },
+  {
+    "key": "HGSS_0719_0467",
+    "original": "チサト",
+    "translation": "千慧",
+    "index": 467
+  },
+  {
+    "key": "HGSS_0719_0468",
+    "original": "ヤスフミ",
+    "translation": "康文",
+    "index": 468
+  },
+  {
+    "key": "HGSS_0719_0469",
+    "original": "ノブヒロ",
+    "translation": "信弘",
+    "index": 469
+  },
+  {
+    "key": "HGSS_0719_0470",
+    "original": "フジオ",
+    "translation": "不二雄",
+    "index": 470
+  },
+  {
+    "key": "HGSS_0719_0471",
+    "original": "カネオ",
+    "translation": "兼生",
+    "index": 471
+  },
+  {
+    "key": "HGSS_0719_0472",
+    "original": "シンタロウ",
+    "translation": "晋泰",
+    "index": 472
+  },
+  {
+    "key": "HGSS_0719_0473",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 473
+  },
+  {
+    "key": "HGSS_0719_0474",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 474
+  },
+  {
+    "key": "HGSS_0719_0475",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 475
+  },
+  {
+    "key": "HGSS_0719_0476",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 476
+  },
+  {
+    "key": "HGSS_0719_0477",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 477
+  },
+  {
+    "key": "HGSS_0719_0478",
+    "original": "アテナ",
+    "translation": "雅典娜",
+    "index": 478
+  },
+  {
+    "key": "HGSS_0719_0479",
+    "original": "アテナ",
+    "translation": "雅典娜",
+    "index": 479
+  },
+  {
+    "key": "HGSS_0719_0480",
+    "original": "サチコ",
+    "translation": "幸子",
+    "index": 480
+  },
+  {
+    "key": "HGSS_0719_0481",
+    "original": "アユミ",
+    "translation": "雅妤",
+    "index": 481
+  },
+  {
+    "key": "HGSS_0719_0482",
+    "original": "フミヤ",
+    "translation": "文哉",
+    "index": 482
+  },
+  {
+    "key": "HGSS_0719_0483",
+    "original": "ノリヒロ",
+    "translation": "典弘",
+    "index": 483
+  },
+  {
+    "key": "HGSS_0719_0484",
+    "original": "キンジ",
+    "translation": "金治",
+    "index": 484
+  },
+  {
+    "key": "HGSS_0719_0485",
+    "original": "アポロ",
+    "translation": "阿波罗",
+    "index": 485
+  },
+  {
+    "key": "HGSS_0719_0486",
+    "original": "ランス",
+    "translation": "兰斯",
+    "index": 486
+  },
+  {
+    "key": "HGSS_0719_0487",
+    "original": "ラムダ",
+    "translation": "拉姆达",
+    "index": 487
+  },
+  {
+    "key": "HGSS_0719_0488",
+    "original": "ラムダ",
+    "translation": "拉姆达",
+    "index": 488
+  },
+  {
+    "key": "HGSS_0719_0489",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 489
+  },
+  {
+    "key": "HGSS_0719_0490",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 490
+  },
+  {
+    "key": "HGSS_0719_0491",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 491
+  },
+  {
+    "key": "HGSS_0719_0492",
+    "original": "ミツヒデ",
+    "translation": "旺伟",
+    "index": 492
+  },
+  {
+    "key": "HGSS_0719_0493",
+    "original": "ウメコ",
+    "translation": "梅子",
+    "index": 493
+  },
+  {
+    "key": "HGSS_0719_0494",
+    "original": "スズコ",
+    "translation": "铃子",
+    "index": 494
+  },
+  {
+    "key": "HGSS_0719_0495",
+    "original": "しょうねん",
+    "translation": "少年",
+    "index": 495
+  },
+  {
+    "key": "HGSS_0719_0496",
+    "original": "しょうねん",
+    "translation": "少年",
+    "index": 496
+  },
+  {
+    "key": "HGSS_0719_0497",
+    "original": "しょうねん",
+    "translation": "少年",
+    "index": 497
+  },
+  {
+    "key": "HGSS_0719_0498",
+    "original": "ミナキ",
+    "translation": "水京",
+    "index": 498
+  },
+  {
+    "key": "HGSS_0719_0499",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 499
+  },
+  {
+    "key": "HGSS_0719_0500",
+    "original": "リュウ",
+    "translation": "辽",
+    "index": 500
+  },
+  {
+    "key": "HGSS_0719_0501",
+    "original": "ユミコ",
+    "translation": "裕美子",
+    "index": 501
+  },
+  {
+    "key": "HGSS_0719_0502",
+    "original": "ハナとヒナ",
+    "translation": "波奈和阳奈",
+    "index": 502
+  },
+  {
+    "key": "HGSS_0719_0503",
+    "original": "シュウイチ",
+    "translation": "秀一",
+    "index": 503
+  },
+  {
+    "key": "HGSS_0719_0504",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 504
+  },
+  {
+    "key": "HGSS_0719_0505",
+    "original": "マナブ",
+    "translation": "安仔",
+    "index": 505
+  },
+  {
+    "key": "HGSS_0719_0506",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 506
+  },
+  {
+    "key": "HGSS_0719_0507",
+    "original": "クリオ",
+    "translation": "克里欧",
+    "index": 507
+  },
+  {
+    "key": "HGSS_0719_0508",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 508
+  },
+  {
+    "key": "HGSS_0719_0509",
+    "original": "ゲンキ",
+    "translation": "元辉",
+    "index": 509
+  },
+  {
+    "key": "HGSS_0719_0510",
+    "original": "ゴロウ",
+    "translation": "五郎",
+    "index": 510
+  },
+  {
+    "key": "HGSS_0719_0511",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 511
+  },
+  {
+    "key": "HGSS_0719_0512",
+    "original": "コウイチ",
+    "translation": "光一",
+    "index": 512
+  },
+  {
+    "key": "HGSS_0719_0513",
+    "original": "ヨウタ",
+    "translation": "洋太",
+    "index": 513
+  },
+  {
+    "key": "HGSS_0719_0514",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 514
+  },
+  {
+    "key": "HGSS_0719_0515",
+    "original": "ヤスアキ",
+    "translation": "康明",
+    "index": 515
+  },
+  {
+    "key": "HGSS_0719_0516",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 516
+  },
+  {
+    "key": "HGSS_0719_0517",
+    "original": "ミノル",
+    "translation": "小实",
+    "index": 517
+  },
+  {
+    "key": "HGSS_0719_0518",
+    "original": "カオリ",
+    "translation": "佳织",
+    "index": 518
+  },
+  {
+    "key": "HGSS_0719_0519",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 519
+  },
+  {
+    "key": "HGSS_0719_0520",
+    "original": "ミズホ",
+    "translation": "小瑞",
+    "index": 520
+  },
+  {
+    "key": "HGSS_0719_0521",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 521
+  },
+  {
+    "key": "HGSS_0719_0522",
+    "original": "チサト",
+    "translation": "千慧",
+    "index": 522
+  },
+  {
+    "key": "HGSS_0719_0523",
+    "original": "ツトム",
+    "translation": "阿勤",
+    "index": 523
+  },
+  {
+    "key": "HGSS_0719_0524",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 524
+  },
+  {
+    "key": "HGSS_0719_0525",
+    "original": "ヨウイチ",
+    "translation": "扬毅",
+    "index": 525
+  },
+  {
+    "key": "HGSS_0719_0526",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 526
+  },
+  {
+    "key": "HGSS_0719_0527",
+    "original": "マイク",
+    "translation": "麦克",
+    "index": 527
+  },
+  {
+    "key": "HGSS_0719_0528",
+    "original": "リカ",
+    "translation": "阿香",
+    "index": 528
+  },
+  {
+    "key": "HGSS_0719_0529",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 529
+  },
+  {
+    "key": "HGSS_0719_0530",
+    "original": "マコト",
+    "translation": "阿诚",
+    "index": 530
+  },
+  {
+    "key": "HGSS_0719_0531",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 531
+  },
+  {
+    "key": "HGSS_0719_0532",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 532
+  },
+  {
+    "key": "HGSS_0719_0533",
+    "original": "ケンイチ",
+    "translation": "健一",
+    "index": 533
+  },
+  {
+    "key": "HGSS_0719_0534",
+    "original": "ミスズ",
+    "translation": "美铃",
+    "index": 534
+  },
+  {
+    "key": "HGSS_0719_0535",
+    "original": "カヨコ",
+    "translation": "佳代子",
+    "index": 535
+  },
+  {
+    "key": "HGSS_0719_0536",
+    "original": "リョウヘイ",
+    "translation": "良平",
+    "index": 536
+  },
+  {
+    "key": "HGSS_0719_0537",
+    "original": "ナオト",
+    "translation": "犹研",
+    "index": 537
+  },
+  {
+    "key": "HGSS_0719_0538",
+    "original": "タカフミ",
+    "translation": "孝文",
+    "index": 538
+  },
+  {
+    "key": "HGSS_0719_0539",
+    "original": "ガクジ",
+    "translation": "学霖",
+    "index": 539
+  },
+  {
+    "key": "HGSS_0719_0540",
+    "original": "ヒロキ",
+    "translation": "宏彬",
+    "index": 540
+  },
+  {
+    "key": "HGSS_0719_0541",
+    "original": "タケヒロ",
+    "translation": "武鸿",
+    "index": 541
+  },
+  {
+    "key": "HGSS_0719_0542",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 542
+  },
+  {
+    "key": "HGSS_0719_0543",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 543
+  },
+  {
+    "key": "HGSS_0719_0544",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 544
+  },
+  {
+    "key": "HGSS_0719_0545",
+    "original": "ナオズミ",
+    "translation": "尚澄",
+    "index": 545
+  },
+  {
+    "key": "HGSS_0719_0546",
+    "original": "マサクニ",
+    "translation": "昌国",
+    "index": 546
+  },
+  {
+    "key": "HGSS_0719_0547",
+    "original": "トモヒロ",
+    "translation": "峪伟",
+    "index": 547
+  },
+  {
+    "key": "HGSS_0719_0548",
+    "original": "マンゾウ",
+    "translation": "万藏",
+    "index": 548
+  },
+  {
+    "key": "HGSS_0719_0549",
+    "original": "コウとサキ",
+    "translation": "佰川和萨琪",
+    "index": 549
+  },
+  {
+    "key": "HGSS_0719_0550",
+    "original": "フトシ",
+    "translation": "太志",
+    "index": 550
+  },
+  {
+    "key": "HGSS_0719_0551",
+    "original": "コテツ",
+    "translation": "虎峙",
+    "index": 551
+  },
+  {
+    "key": "HGSS_0719_0552",
+    "original": "ジュンタ",
+    "translation": "骏泰",
+    "index": 552
+  },
+  {
+    "key": "HGSS_0719_0553",
+    "original": "ムウとルル",
+    "translation": "慕宇和璐璐",
+    "index": 553
+  },
+  {
+    "key": "HGSS_0719_0554",
+    "original": "コウセツ",
+    "translation": "江哲",
+    "index": 554
+  },
+  {
+    "key": "HGSS_0719_0555",
+    "original": "ケイジ",
+    "translation": "龙建",
+    "index": 555
+  },
+  {
+    "key": "HGSS_0719_0556",
+    "original": "ツネミ",
+    "translation": "常腾",
+    "index": 556
+  },
+  {
+    "key": "HGSS_0719_0557",
+    "original": "カンとマキ",
+    "translation": "书烨和函颖",
+    "index": 557
+  },
+  {
+    "key": "HGSS_0719_0558",
+    "original": "マキオ",
+    "translation": "慕雄",
+    "index": 558
+  },
+  {
+    "key": "HGSS_0719_0559",
+    "original": "カツとリタ",
+    "translation": "国胜和丽妲",
+    "index": 559
+  },
+  {
+    "key": "HGSS_0719_0560",
+    "original": "モリミチ",
+    "translation": "霖麒",
+    "index": 560
+  },
+  {
+    "key": "HGSS_0719_0561",
+    "original": "タモン",
+    "translation": "铎闻",
+    "index": 561
+  },
+  {
+    "key": "HGSS_0719_0562",
+    "original": "ルイコ",
+    "translation": "茹宜",
+    "index": 562
+  },
+  {
+    "key": "HGSS_0719_0563",
+    "original": "ハルノ",
+    "translation": "春娇",
+    "index": 563
+  },
+  {
+    "key": "HGSS_0719_0564",
+    "original": "モモカ",
+    "translation": "桃华",
+    "index": 564
+  },
+  {
+    "key": "HGSS_0719_0565",
+    "original": "カズマサ",
+    "translation": "运胜",
+    "index": 565
+  },
+  {
+    "key": "HGSS_0719_0566",
+    "original": "タツトシ",
+    "translation": "宸睿",
+    "index": 566
+  },
+  {
+    "key": "HGSS_0719_0567",
+    "original": "フミトシ",
+    "translation": "书俊",
+    "index": 567
+  },
+  {
+    "key": "HGSS_0719_0568",
+    "original": "タダツグ",
+    "translation": "忠承",
+    "index": 568
+  },
+  {
+    "key": "HGSS_0719_0569",
+    "original": "カコとトコ",
+    "translation": "扎古和小古",
+    "index": 569
+  },
+  {
+    "key": "HGSS_0719_0570",
+    "original": "ヨシチカ",
+    "translation": "由千香",
+    "index": 570
+  },
+  {
+    "key": "HGSS_0719_0571",
+    "original": "ミハル",
+    "translation": "三春",
+    "index": 571
+  },
+  {
+    "key": "HGSS_0719_0572",
+    "original": "カンゴ",
+    "translation": "汉梧",
+    "index": 572
+  },
+  {
+    "key": "HGSS_0719_0573",
+    "original": "ケンエイ",
+    "translation": "剑卫",
+    "index": 573
+  },
+  {
+    "key": "HGSS_0719_0574",
+    "original": "トラゾウ",
+    "translation": "虎藏",
+    "index": 574
+  },
+  {
+    "key": "HGSS_0719_0575",
+    "original": "ゴウケン",
+    "translation": "刚健",
+    "index": 575
+  },
+  {
+    "key": "HGSS_0719_0576",
+    "original": "ラリー",
+    "translation": "赖瑞",
+    "index": 576
+  },
+  {
+    "key": "HGSS_0719_0577",
+    "original": "マーキー",
+    "translation": "马基",
+    "index": 577
+  },
+  {
+    "key": "HGSS_0719_0578",
+    "original": "テディ",
+    "translation": "泰迪",
+    "index": 578
+  },
+  {
+    "key": "HGSS_0719_0579",
+    "original": "ジュンヤ",
+    "translation": "肇顺",
+    "index": 579
+  },
+  {
+    "key": "HGSS_0719_0580",
+    "original": "シンヤ",
+    "translation": "慎阳",
+    "index": 580
+  },
+  {
+    "key": "HGSS_0719_0581",
+    "original": "ナナカ",
+    "translation": "彩雯",
+    "index": 581
+  },
+  {
+    "key": "HGSS_0719_0582",
+    "original": "アサミ",
+    "translation": "朝美",
+    "index": 582
+  },
+  {
+    "key": "HGSS_0719_0583",
+    "original": "マスミツ",
+    "translation": "鹤议",
+    "index": 583
+  },
+  {
+    "key": "HGSS_0719_0584",
+    "original": "ヤジロウ",
+    "translation": "鸣远",
+    "index": 584
+  },
+  {
+    "key": "HGSS_0719_0585",
+    "original": "シブキ",
+    "translation": "飞湐",
+    "index": 585
+  },
+  {
+    "key": "HGSS_0719_0586",
+    "original": "トシミツ",
+    "translation": "浚民",
+    "index": 586
+  },
+  {
+    "key": "HGSS_0719_0587",
+    "original": "リオナ",
+    "translation": "若漩",
+    "index": 587
+  },
+  {
+    "key": "HGSS_0719_0588",
+    "original": "チグミ",
+    "translation": "芷渟",
+    "index": 588
+  },
+  {
+    "key": "HGSS_0719_0589",
+    "original": "ヒョウエ",
+    "translation": "炳江",
+    "index": 589
+  },
+  {
+    "key": "HGSS_0719_0590",
+    "original": "ミノブ",
+    "translation": "明延",
+    "index": 590
+  },
+  {
+    "key": "HGSS_0719_0591",
+    "original": "ミツマサ",
+    "translation": "津贤",
+    "index": 591
+  },
+  {
+    "key": "HGSS_0719_0592",
+    "original": "シズク",
+    "translation": "雨静",
+    "index": 592
+  },
+  {
+    "key": "HGSS_0719_0593",
+    "original": "ハナエ",
+    "translation": "湘芸",
+    "index": 593
+  },
+  {
+    "key": "HGSS_0719_0594",
+    "original": "ヨシノブ",
+    "translation": "洋志",
+    "index": 594
+  },
+  {
+    "key": "HGSS_0719_0595",
+    "original": "アラタ",
+    "translation": "靖澜",
+    "index": 595
+  },
+  {
+    "key": "HGSS_0719_0596",
+    "original": "セイブン",
+    "translation": "霁旻",
+    "index": 596
+  },
+  {
+    "key": "HGSS_0719_0597",
+    "original": "ミキジ",
+    "translation": "昂祺",
+    "index": 597
+  },
+  {
+    "key": "HGSS_0719_0598",
+    "original": "ネネとキキ",
+    "translation": "宁宁和嬉嬉",
+    "index": 598
+  },
+  {
+    "key": "HGSS_0719_0599",
+    "original": "シンキ",
+    "translation": "振棋",
+    "index": 599
+  },
+  {
+    "key": "HGSS_0719_0600",
+    "original": "アルミ",
+    "translation": "芃羽",
+    "index": 600
+  },
+  {
+    "key": "HGSS_0719_0601",
+    "original": "したっぱ",
+    "translation": "手下",
+    "index": 601
+  },
+  {
+    "key": "HGSS_0719_0602",
+    "original": "エイジ",
+    "translation": "英二",
+    "index": 602
+  },
+  {
+    "key": "HGSS_0719_0603",
+    "original": "エミ",
+    "translation": "惠美",
+    "index": 603
+  },
+  {
+    "key": "HGSS_0719_0604",
+    "original": "シュン",
+    "translation": "小周",
+    "index": 604
+  },
+  {
+    "key": "HGSS_0719_0605",
+    "original": "タケノリ",
+    "translation": "武德",
+    "index": 605
+  },
+  {
+    "key": "HGSS_0719_0606",
+    "original": "タロウ",
+    "translation": "太郎",
+    "index": 606
+  },
+  {
+    "key": "HGSS_0719_0607",
+    "original": "ナツホ",
+    "translation": "夏帆",
+    "index": 607
+  },
+  {
+    "key": "HGSS_0719_0608",
+    "original": "ヒデノリ",
+    "translation": "秀典",
+    "index": 608
+  },
+  {
+    "key": "HGSS_0719_0609",
+    "original": "ヒトミ",
+    "translation": "仁美",
+    "index": 609
+  },
+  {
+    "key": "HGSS_0719_0610",
+    "original": "ミエハル",
+    "translation": "见荣晴",
+    "index": 610
+  },
+  {
+    "key": "HGSS_0719_0611",
+    "original": "メグミ",
+    "translation": "惠美",
+    "index": 611
+  },
+  {
+    "key": "HGSS_0719_0612",
+    "original": "モトヒロ",
+    "translation": "本弘",
+    "index": 612
+  },
+  {
+    "key": "HGSS_0719_0613",
+    "original": "ユキ",
+    "translation": "由纪",
+    "index": 613
+  },
+  {
+    "key": "HGSS_0719_0614",
+    "original": "ユキ",
+    "translation": "由纪",
+    "index": 614
+  },
+  {
+    "key": "HGSS_0719_0615",
+    "original": "ユキ",
+    "translation": "由纪",
+    "index": 615
+  },
+  {
+    "key": "HGSS_0719_0616",
+    "original": "ショウヘイ",
+    "translation": "翔平",
+    "index": 616
+  },
+  {
+    "key": "HGSS_0719_0617",
+    "original": "ショウヘイ",
+    "translation": "翔平",
+    "index": 617
+  },
+  {
+    "key": "HGSS_0719_0618",
+    "original": "ショウヘイ",
+    "translation": "翔平",
+    "index": 618
+  },
+  {
+    "key": "HGSS_0719_0619",
+    "original": "トシハル",
+    "translation": "纪阳",
+    "index": 619
+  },
+  {
+    "key": "HGSS_0719_0620",
+    "original": "トシハル",
+    "translation": "纪阳",
+    "index": 620
+  },
+  {
+    "key": "HGSS_0719_0621",
+    "original": "トシハル",
+    "translation": "纪阳",
+    "index": 621
+  },
+  {
+    "key": "HGSS_0719_0622",
+    "original": "ミチヒコ",
+    "translation": "亨飞",
+    "index": 622
+  },
+  {
+    "key": "HGSS_0719_0623",
+    "original": "ミチヒコ",
+    "translation": "亨飞",
+    "index": 623
+  },
+  {
+    "key": "HGSS_0719_0624",
+    "original": "ミチヒコ",
+    "translation": "亨飞",
+    "index": 624
+  },
+  {
+    "key": "HGSS_0719_0625",
+    "original": "カズヒコ",
+    "translation": "和彦",
+    "index": 625
+  },
+  {
+    "key": "HGSS_0719_0626",
+    "original": "カズヒコ",
+    "translation": "和彦",
+    "index": 626
+  },
+  {
+    "key": "HGSS_0719_0627",
+    "original": "カズヒコ",
+    "translation": "和彦",
+    "index": 627
+  },
+  {
+    "key": "HGSS_0719_0628",
+    "original": "リュウジ",
+    "translation": "史龙",
+    "index": 628
+  },
+  {
+    "key": "HGSS_0719_0629",
+    "original": "リュウジ",
+    "translation": "史龙",
+    "index": 629
+  },
+  {
+    "key": "HGSS_0719_0630",
+    "original": "リュウジ",
+    "translation": "史龙",
+    "index": 630
+  },
+  {
+    "key": "HGSS_0719_0631",
+    "original": "トラゾウ",
+    "translation": "虎藏",
+    "index": 631
+  },
+  {
+    "key": "HGSS_0719_0632",
+    "original": "トラゾウ",
+    "translation": "虎藏",
+    "index": 632
+  },
+  {
+    "key": "HGSS_0719_0633",
+    "original": "トラゾウ",
+    "translation": "虎藏",
+    "index": 633
+  },
+  {
+    "key": "HGSS_0719_0634",
+    "original": "ジュンヤ",
+    "translation": "肇顺",
+    "index": 634
+  },
+  {
+    "key": "HGSS_0719_0635",
+    "original": "ジュンヤ",
+    "translation": "肇顺",
+    "index": 635
+  },
+  {
+    "key": "HGSS_0719_0636",
+    "original": "ジュンヤ",
+    "translation": "肇顺",
+    "index": 636
+  },
+  {
+    "key": "HGSS_0719_0637",
+    "original": "キョウコ",
+    "translation": "京子",
+    "index": 637
+  },
+  {
+    "key": "HGSS_0719_0638",
+    "original": "キョウコ",
+    "translation": "京子",
+    "index": 638
+  },
+  {
+    "key": "HGSS_0719_0639",
+    "original": "キョウコ",
+    "translation": "京子",
+    "index": 639
+  },
+  {
+    "key": "HGSS_0719_0640",
+    "original": "キイチ",
+    "translation": "喜一",
+    "index": 640
+  },
+  {
+    "key": "HGSS_0719_0641",
+    "original": "キイチ",
+    "translation": "喜一",
+    "index": 641
+  },
+  {
+    "key": "HGSS_0719_0642",
+    "original": "キイチ",
+    "translation": "喜一",
+    "index": 642
+  },
+  {
+    "key": "HGSS_0719_0643",
+    "original": "カコとトコ",
+    "translation": "扎古和小古",
+    "index": 643
+  },
+  {
+    "key": "HGSS_0719_0644",
+    "original": "カコとトコ",
+    "translation": "扎古和小古",
+    "index": 644
+  },
+  {
+    "key": "HGSS_0719_0645",
+    "original": "カコとトコ",
+    "translation": "扎古和小古",
+    "index": 645
+  },
+  {
+    "key": "HGSS_0719_0646",
+    "original": "カズマサ",
+    "translation": "运胜",
+    "index": 646
+  },
+  {
+    "key": "HGSS_0719_0647",
+    "original": "カズマサ",
+    "translation": "运胜",
+    "index": 647
+  },
+  {
+    "key": "HGSS_0719_0648",
+    "original": "カズマサ",
+    "translation": "运胜",
+    "index": 648
+  },
+  {
+    "key": "HGSS_0719_0649",
+    "original": "フミトシ",
+    "translation": "书俊",
+    "index": 649
+  },
+  {
+    "key": "HGSS_0719_0650",
+    "original": "フミトシ",
+    "translation": "书俊",
+    "index": 650
+  },
+  {
+    "key": "HGSS_0719_0651",
+    "original": "フミトシ",
+    "translation": "书俊",
+    "index": 651
+  },
+  {
+    "key": "HGSS_0719_0652",
+    "original": "カツとリタ",
+    "translation": "国胜和丽妲",
+    "index": 652
+  },
+  {
+    "key": "HGSS_0719_0653",
+    "original": "カツとリタ",
+    "translation": "国胜和丽妲",
+    "index": 653
+  },
+  {
+    "key": "HGSS_0719_0654",
+    "original": "カツとリタ",
+    "translation": "国胜和丽妲",
+    "index": 654
+  },
+  {
+    "key": "HGSS_0719_0655",
+    "original": "ノリヨシ",
+    "translation": "汉嵘",
+    "index": 655
+  },
+  {
+    "key": "HGSS_0719_0656",
+    "original": "ノリヨシ",
+    "translation": "汉嵘",
+    "index": 656
+  },
+  {
+    "key": "HGSS_0719_0657",
+    "original": "ノリヨシ",
+    "translation": "汉嵘",
+    "index": 657
+  },
+  {
+    "key": "HGSS_0719_0658",
+    "original": "タモン",
+    "translation": "铎闻",
+    "index": 658
+  },
+  {
+    "key": "HGSS_0719_0659",
+    "original": "タモン",
+    "translation": "铎闻",
+    "index": 659
+  },
+  {
+    "key": "HGSS_0719_0660",
+    "original": "タモン",
+    "translation": "铎闻",
+    "index": 660
+  },
+  {
+    "key": "HGSS_0719_0661",
+    "original": "ナオフミ",
+    "translation": "柏漳",
+    "index": 661
+  },
+  {
+    "key": "HGSS_0719_0662",
+    "original": "ナオフミ",
+    "translation": "柏漳",
+    "index": 662
+  },
+  {
+    "key": "HGSS_0719_0663",
+    "original": "ナオフミ",
+    "translation": "柏漳",
+    "index": 663
+  },
+  {
+    "key": "HGSS_0719_0664",
+    "original": "マキオ",
+    "translation": "慕雄",
+    "index": 664
+  },
+  {
+    "key": "HGSS_0719_0665",
+    "original": "マキオ",
+    "translation": "慕雄",
+    "index": 665
+  },
+  {
+    "key": "HGSS_0719_0666",
+    "original": "マキオ",
+    "translation": "慕雄",
+    "index": 666
+  },
+  {
+    "key": "HGSS_0719_0667",
+    "original": "モミ",
+    "translation": "芽米",
+    "index": 667
+  },
+  {
+    "key": "HGSS_0719_0668",
+    "original": "マイ",
+    "translation": "米依",
+    "index": 668
+  },
+  {
+    "key": "HGSS_0719_0669",
+    "original": "ミル",
+    "translation": "麦儿",
+    "index": 669
+  },
+  {
+    "key": "HGSS_0719_0670",
+    "original": "ゲン",
+    "translation": "亚玄",
+    "index": 670
+  },
+  {
+    "key": "HGSS_0719_0671",
+    "original": "バク",
+    "translation": "麦可",
+    "index": 671
+  },
+  {
+    "key": "HGSS_0719_0672",
+    "original": "カーネル",
+    "translation": "卡内尔",
+    "index": 672
+  },
+  {
+    "key": "HGSS_0719_0673",
+    "original": "カーネル",
+    "translation": "卡内尔",
+    "index": 673
+  },
+  {
+    "key": "HGSS_0719_0674",
+    "original": "カーネル",
+    "translation": "卡内尔",
+    "index": 674
+  },
+  {
+    "key": "HGSS_0719_0675",
+    "original": "ワタル",
+    "translation": "阿渡",
+    "index": 675
+  },
+  {
+    "key": "HGSS_0719_0676",
+    "original": "トモキ",
+    "translation": "洪辉",
+    "index": 676
+  },
+  {
+    "key": "HGSS_0719_0677",
+    "original": "ノリオ",
+    "translation": "纪夫",
+    "index": 677
+  },
+  {
+    "key": "HGSS_0719_0678",
+    "original": "ミズナ",
+    "translation": "瑞泉",
+    "index": 678
+  },
+  {
+    "key": "HGSS_0719_0679",
+    "original": "ユズカ",
+    "translation": "柚香",
+    "index": 679
+  },
+  {
+    "key": "HGSS_0719_0680",
+    "original": "レイコ",
+    "translation": "丽子",
+    "index": 680
+  },
+  {
+    "key": "HGSS_0719_0681",
+    "original": "ヤスタカ",
+    "translation": "康孝",
+    "index": 681
+  },
+  {
+    "key": "HGSS_0719_0682",
+    "original": "ヨシノリ",
+    "translation": "义德",
+    "index": 682
+  },
+  {
+    "key": "HGSS_0719_0683",
+    "original": "アキエ",
+    "translation": "秋江",
+    "index": 683
+  },
+  {
+    "key": "HGSS_0719_0684",
+    "original": "テンとサヨ",
+    "translation": "天晨和宵雅",
+    "index": 684
+  },
+  {
+    "key": "HGSS_0719_0685",
+    "original": "ミキオ",
+    "translation": "树雄",
+    "index": 685
+  },
+  {
+    "key": "HGSS_0719_0686",
+    "original": "レイジ",
+    "translation": "凌志",
+    "index": 686
+  },
+  {
+    "key": "HGSS_0719_0687",
+    "original": "タイガ",
+    "translation": "冬虎",
+    "index": 687
+  },
+  {
+    "key": "HGSS_0719_0688",
+    "original": "ホズミ",
+    "translation": "冰晓",
+    "index": 688
+  },
+  {
+    "key": "HGSS_0719_0689",
+    "original": "タカジ",
+    "translation": "高智",
+    "index": 689
+  },
+  {
+    "key": "HGSS_0719_0690",
+    "original": "ユウビ",
+    "translation": "裕阳",
+    "index": 690
+  },
+  {
+    "key": "HGSS_0719_0691",
+    "original": "ナガフミ",
+    "translation": "永书",
+    "index": 691
+  },
+  {
+    "key": "HGSS_0719_0692",
+    "original": "ヨシロー",
+    "translation": "义朗",
+    "index": 692
+  },
+  {
+    "key": "HGSS_0719_0693",
+    "original": "タケアキ",
+    "translation": "谦明",
+    "index": 693
+  },
+  {
+    "key": "HGSS_0719_0694",
+    "original": "ユウゴ",
+    "translation": "勇吾",
+    "index": 694
+  },
+  {
+    "key": "HGSS_0719_0695",
+    "original": "モンタ",
+    "translation": "文泰",
+    "index": 695
+  },
+  {
+    "key": "HGSS_0719_0696",
+    "original": "ソラチ",
+    "translation": "宇驰",
+    "index": 696
+  },
+  {
+    "key": "HGSS_0719_0697",
+    "original": "リキマル",
+    "translation": "力仔",
+    "index": 697
+  },
+  {
+    "key": "HGSS_0719_0698",
+    "original": "メグル",
+    "translation": "茴璇",
+    "index": 698
+  },
+  {
+    "key": "HGSS_0719_0699",
+    "original": "シオ",
+    "translation": "潮雄",
+    "index": 699
+  },
+  {
+    "key": "HGSS_0719_0700",
+    "original": "サカキ",
+    "translation": "坂木",
+    "index": 700
+  },
+  {
+    "key": "HGSS_0719_0701",
+    "original": "ワタル",
+    "translation": "阿渡",
+    "index": 701
+  },
+  {
+    "key": "HGSS_0719_0702",
+    "original": "イツキ",
+    "translation": "一树",
+    "index": 702
+  },
+  {
+    "key": "HGSS_0719_0703",
+    "original": "キョウ",
+    "translation": "阿桔",
+    "index": 703
+  },
+  {
+    "key": "HGSS_0719_0704",
+    "original": "シバ",
+    "translation": "希巴",
+    "index": 704
+  },
+  {
+    "key": "HGSS_0719_0705",
+    "original": "カリン",
+    "translation": "梨花",
+    "index": 705
+  },
+  {
+    "key": "HGSS_0719_0706",
+    "original": "ランス",
+    "translation": "兰斯",
+    "index": 706
+  },
+  {
+    "key": "HGSS_0719_0707",
+    "original": "クロツグ",
+    "translation": "桄榔",
+    "index": 707
+  },
+  {
+    "key": "HGSS_0719_0708",
+    "original": "ケイト",
+    "translation": "青葙",
+    "index": 708
+  },
+  {
+    "key": "HGSS_0719_0709",
+    "original": "ネジキ",
+    "translation": "捩木",
+    "index": 709
+  },
+  {
+    "key": "HGSS_0719_0710",
+    "original": "ダリア",
+    "translation": "大丽",
+    "index": 710
+  },
+  {
+    "key": "HGSS_0719_0711",
+    "original": "コクラン",
+    "translation": "石兰",
+    "index": 711
+  },
+  {
+    "key": "HGSS_0719_0712",
+    "original": "ハヤト",
+    "translation": "阿速",
+    "index": 712
+  },
+  {
+    "key": "HGSS_0719_0713",
+    "original": "ツクシ",
+    "translation": "阿笔",
+    "index": 713
+  },
+  {
+    "key": "HGSS_0719_0714",
+    "original": "アカネ",
+    "translation": "小茜",
+    "index": 714
+  },
+  {
+    "key": "HGSS_0719_0715",
+    "original": "マツバ",
+    "translation": "松叶",
+    "index": 715
+  },
+  {
+    "key": "HGSS_0719_0716",
+    "original": "ヤナギ",
+    "translation": "柳伯",
+    "index": 716
+  },
+  {
+    "key": "HGSS_0719_0717",
+    "original": "ミカン",
+    "translation": "阿蜜",
+    "index": 717
+  },
+  {
+    "key": "HGSS_0719_0718",
+    "original": "シジマ",
+    "translation": "阿四",
+    "index": 718
+  },
+  {
+    "key": "HGSS_0719_0719",
+    "original": "イブキ",
+    "translation": "小椿",
+    "index": 719
+  },
+  {
+    "key": "HGSS_0719_0720",
+    "original": "タケシ",
+    "translation": "小刚",
+    "index": 720
+  },
+  {
+    "key": "HGSS_0719_0721",
+    "original": "カスミ",
+    "translation": "小霞",
+    "index": 721
+  },
+  {
+    "key": "HGSS_0719_0722",
+    "original": "マチス",
+    "translation": "马志士",
+    "index": 722
+  },
+  {
+    "key": "HGSS_0719_0723",
+    "original": "エリカ",
+    "translation": "莉佳",
+    "index": 723
+  },
+  {
+    "key": "HGSS_0719_0724",
+    "original": "アンズ",
+    "translation": "阿杏",
+    "index": 724
+  },
+  {
+    "key": "HGSS_0719_0725",
+    "original": "ナツメ",
+    "translation": "娜姿",
+    "index": 725
+  },
+  {
+    "key": "HGSS_0719_0726",
+    "original": "カツラ",
+    "translation": "夏伯",
+    "index": 726
+  },
+  {
+    "key": "HGSS_0719_0727",
+    "original": "グリーン",
+    "translation": "青绿",
+    "index": 727
+  },
+  {
+    "key": "HGSS_0719_0728",
+    "original": "ルーシィ",
+    "translation": "露西",
+    "index": 728
+  },
+  {
+    "key": "HGSS_0719_0729",
+    "original": "ヤマとウミ",
+    "translation": "势山和萌海",
+    "index": 729
+  },
+  {
+    "key": "HGSS_0719_0730",
+    "original": "タムとアン",
+    "translation": "达慕和雅恩",
+    "index": 730
+  },
+  {
+    "key": "HGSS_0719_0731",
+    "original": "オオライ",
+    "translation": "郝乐",
+    "index": 731
+  },
+  {
+    "key": "HGSS_0719_0732",
+    "original": "ヨウラン",
+    "translation": "耀岚",
+    "index": 732
+  },
+  {
+    "key": "HGSS_0719_0733",
+    "original": "ワタル",
+    "translation": "阿渡",
+    "index": 733
+  },
+  {
+    "key": "HGSS_0719_0734",
+    "original": "イブキ",
+    "translation": "小椿",
+    "index": 734
+  },
+  {
+    "key": "HGSS_0719_0735",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 735
+  },
+  {
+    "key": "HGSS_0719_0736",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 736
+  },
+  {
+    "key": "HGSS_0719_0737",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 737
+  }
+]

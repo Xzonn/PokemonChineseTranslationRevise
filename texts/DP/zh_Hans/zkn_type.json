@@ -1,0 +1,2966 @@
+[
+  {
+    "key": "DP_0803_0000",
+    "original": "？？？？？ポケモン",
+    "translation": "????宝可梦",
+    "index": 0
+  },
+  {
+    "key": "DP_0803_0001",
+    "original": "たねポケモン",
+    "translation": "种子宝可梦",
+    "index": 1
+  },
+  {
+    "key": "DP_0803_0002",
+    "original": "たねポケモン",
+    "translation": "种子宝可梦",
+    "index": 2
+  },
+  {
+    "key": "DP_0803_0003",
+    "original": "たねポケモン",
+    "translation": "种子宝可梦",
+    "index": 3
+  },
+  {
+    "key": "DP_0803_0004",
+    "original": "とかげポケモン",
+    "translation": "蜥蜴宝可梦",
+    "index": 4
+  },
+  {
+    "key": "DP_0803_0005",
+    "original": "かえんポケモン",
+    "translation": "火焰宝可梦",
+    "index": 5
+  },
+  {
+    "key": "DP_0803_0006",
+    "original": "かえんポケモン",
+    "translation": "火焰宝可梦",
+    "index": 6
+  },
+  {
+    "key": "DP_0803_0007",
+    "original": "かめのこポケモン",
+    "translation": "小龟宝可梦",
+    "index": 7
+  },
+  {
+    "key": "DP_0803_0008",
+    "original": "かめポケモン",
+    "translation": "龟宝可梦",
+    "index": 8
+  },
+  {
+    "key": "DP_0803_0009",
+    "original": "こうらポケモン",
+    "translation": "甲壳宝可梦",
+    "index": 9
+  },
+  {
+    "key": "DP_0803_0010",
+    "original": "いもむしポケモン",
+    "translation": "虫宝宝宝可梦",
+    "index": 10
+  },
+  {
+    "key": "DP_0803_0011",
+    "original": "さなぎポケモン",
+    "translation": "蛹宝可梦",
+    "index": 11
+  },
+  {
+    "key": "DP_0803_0012",
+    "original": "ちょうちょポケモン",
+    "translation": "蝴蝶宝可梦",
+    "index": 12
+  },
+  {
+    "key": "DP_0803_0013",
+    "original": "けむしポケモン",
+    "translation": "毛毛虫宝可梦",
+    "index": 13
+  },
+  {
+    "key": "DP_0803_0014",
+    "original": "さなぎポケモン",
+    "translation": "蛹宝可梦",
+    "index": 14
+  },
+  {
+    "key": "DP_0803_0015",
+    "original": "どくばちポケモン",
+    "translation": "毒蜂宝可梦",
+    "index": 15
+  },
+  {
+    "key": "DP_0803_0016",
+    "original": "ことりポケモン",
+    "translation": "小鸟宝可梦",
+    "index": 16
+  },
+  {
+    "key": "DP_0803_0017",
+    "original": "とりポケモン",
+    "translation": "鸟宝可梦",
+    "index": 17
+  },
+  {
+    "key": "DP_0803_0018",
+    "original": "とりポケモン",
+    "translation": "鸟宝可梦",
+    "index": 18
+  },
+  {
+    "key": "DP_0803_0019",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 19
+  },
+  {
+    "key": "DP_0803_0020",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 20
+  },
+  {
+    "key": "DP_0803_0021",
+    "original": "ことりポケモン",
+    "translation": "小鸟宝可梦",
+    "index": 21
+  },
+  {
+    "key": "DP_0803_0022",
+    "original": "くちばしポケモン",
+    "translation": "鸟嘴宝可梦",
+    "index": 22
+  },
+  {
+    "key": "DP_0803_0023",
+    "original": "へびポケモン",
+    "translation": "蛇宝可梦",
+    "index": 23
+  },
+  {
+    "key": "DP_0803_0024",
+    "original": "コブラポケモン",
+    "translation": "眼镜蛇宝可梦",
+    "index": 24
+  },
+  {
+    "key": "DP_0803_0025",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 25
+  },
+  {
+    "key": "DP_0803_0026",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 26
+  },
+  {
+    "key": "DP_0803_0027",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 27
+  },
+  {
+    "key": "DP_0803_0028",
+    "original": "ねずみポケモン",
+    "translation": "鼠宝可梦",
+    "index": 28
+  },
+  {
+    "key": "DP_0803_0029",
+    "original": "どくばりポケモン",
+    "translation": "毒针宝可梦",
+    "index": 29
+  },
+  {
+    "key": "DP_0803_0030",
+    "original": "どくばりポケモン",
+    "translation": "毒针宝可梦",
+    "index": 30
+  },
+  {
+    "key": "DP_0803_0031",
+    "original": "ドリルポケモン",
+    "translation": "钻锥宝可梦",
+    "index": 31
+  },
+  {
+    "key": "DP_0803_0032",
+    "original": "どくばりポケモン",
+    "translation": "毒针宝可梦",
+    "index": 32
+  },
+  {
+    "key": "DP_0803_0033",
+    "original": "どくばりポケモン",
+    "translation": "毒针宝可梦",
+    "index": 33
+  },
+  {
+    "key": "DP_0803_0034",
+    "original": "ドリルポケモン",
+    "translation": "钻锥宝可梦",
+    "index": 34
+  },
+  {
+    "key": "DP_0803_0035",
+    "original": "ようせいポケモン",
+    "translation": "妖精宝可梦",
+    "index": 35
+  },
+  {
+    "key": "DP_0803_0036",
+    "original": "ようせいポケモン",
+    "translation": "妖精宝可梦",
+    "index": 36
+  },
+  {
+    "key": "DP_0803_0037",
+    "original": "きつねポケモン",
+    "translation": "狐狸宝可梦",
+    "index": 37
+  },
+  {
+    "key": "DP_0803_0038",
+    "original": "きつねポケモン",
+    "translation": "狐狸宝可梦",
+    "index": 38
+  },
+  {
+    "key": "DP_0803_0039",
+    "original": "ふうせんポケモン",
+    "translation": "气球宝可梦",
+    "index": 39
+  },
+  {
+    "key": "DP_0803_0040",
+    "original": "ふうせんポケモン",
+    "translation": "气球宝可梦",
+    "index": 40
+  },
+  {
+    "key": "DP_0803_0041",
+    "original": "こうもりポケモン",
+    "translation": "蝙蝠宝可梦",
+    "index": 41
+  },
+  {
+    "key": "DP_0803_0042",
+    "original": "こうもりポケモン",
+    "translation": "蝙蝠宝可梦",
+    "index": 42
+  },
+  {
+    "key": "DP_0803_0043",
+    "original": "ざっそうポケモン",
+    "translation": "杂草宝可梦",
+    "index": 43
+  },
+  {
+    "key": "DP_0803_0044",
+    "original": "ざっそうポケモン",
+    "translation": "杂草宝可梦",
+    "index": 44
+  },
+  {
+    "key": "DP_0803_0045",
+    "original": "フラワーポケモン",
+    "translation": "花宝可梦",
+    "index": 45
+  },
+  {
+    "key": "DP_0803_0046",
+    "original": "きのこポケモン",
+    "translation": "蘑菇宝可梦",
+    "index": 46
+  },
+  {
+    "key": "DP_0803_0047",
+    "original": "きのこポケモン",
+    "translation": "蘑菇宝可梦",
+    "index": 47
+  },
+  {
+    "key": "DP_0803_0048",
+    "original": "こんちゅうポケモン",
+    "translation": "昆虫宝可梦",
+    "index": 48
+  },
+  {
+    "key": "DP_0803_0049",
+    "original": "どくがポケモン",
+    "translation": "毒蛾宝可梦",
+    "index": 49
+  },
+  {
+    "key": "DP_0803_0050",
+    "original": "もぐらポケモン",
+    "translation": "鼹鼠宝可梦",
+    "index": 50
+  },
+  {
+    "key": "DP_0803_0051",
+    "original": "もぐらポケモン",
+    "translation": "鼹鼠宝可梦",
+    "index": 51
+  },
+  {
+    "key": "DP_0803_0052",
+    "original": "ばけねこポケモン",
+    "translation": "妖怪猫宝可梦",
+    "index": 52
+  },
+  {
+    "key": "DP_0803_0053",
+    "original": "シャムネコポケモン",
+    "translation": "暹罗猫宝可梦",
+    "index": 53
+  },
+  {
+    "key": "DP_0803_0054",
+    "original": "あひるポケモン",
+    "translation": "鸭宝可梦",
+    "index": 54
+  },
+  {
+    "key": "DP_0803_0055",
+    "original": "あひるポケモン",
+    "translation": "鸭宝可梦",
+    "index": 55
+  },
+  {
+    "key": "DP_0803_0056",
+    "original": "ぶたざるポケモン",
+    "translation": "猪猴宝可梦",
+    "index": 56
+  },
+  {
+    "key": "DP_0803_0057",
+    "original": "ぶたざるポケモン",
+    "translation": "猪猴宝可梦",
+    "index": 57
+  },
+  {
+    "key": "DP_0803_0058",
+    "original": "こいぬポケモン",
+    "translation": "小狗宝可梦",
+    "index": 58
+  },
+  {
+    "key": "DP_0803_0059",
+    "original": "でんせつポケモン",
+    "translation": "传说宝可梦",
+    "index": 59
+  },
+  {
+    "key": "DP_0803_0060",
+    "original": "おたまポケモン",
+    "translation": "蝌蚪宝可梦",
+    "index": 60
+  },
+  {
+    "key": "DP_0803_0061",
+    "original": "おたまポケモン",
+    "translation": "蝌蚪宝可梦",
+    "index": 61
+  },
+  {
+    "key": "DP_0803_0062",
+    "original": "おたまポケモン",
+    "translation": "蝌蚪宝可梦",
+    "index": 62
+  },
+  {
+    "key": "DP_0803_0063",
+    "original": "ねんりきポケモン",
+    "translation": "念力宝可梦",
+    "index": 63
+  },
+  {
+    "key": "DP_0803_0064",
+    "original": "ねんりきポケモン",
+    "translation": "念力宝可梦",
+    "index": 64
+  },
+  {
+    "key": "DP_0803_0065",
+    "original": "ねんりきポケモン",
+    "translation": "念力宝可梦",
+    "index": 65
+  },
+  {
+    "key": "DP_0803_0066",
+    "original": "かいりきポケモン",
+    "translation": "怪力宝可梦",
+    "index": 66
+  },
+  {
+    "key": "DP_0803_0067",
+    "original": "かいりきポケモン",
+    "translation": "怪力宝可梦",
+    "index": 67
+  },
+  {
+    "key": "DP_0803_0068",
+    "original": "かいりきポケモン",
+    "translation": "怪力宝可梦",
+    "index": 68
+  },
+  {
+    "key": "DP_0803_0069",
+    "original": "フラワーポケモン",
+    "translation": "花宝可梦",
+    "index": 69
+  },
+  {
+    "key": "DP_0803_0070",
+    "original": "ハエとりポケモン",
+    "translation": "捕蝇宝可梦",
+    "index": 70
+  },
+  {
+    "key": "DP_0803_0071",
+    "original": "ハエとりポケモン",
+    "translation": "捕蝇宝可梦",
+    "index": 71
+  },
+  {
+    "key": "DP_0803_0072",
+    "original": "くらげポケモン",
+    "translation": "水母宝可梦",
+    "index": 72
+  },
+  {
+    "key": "DP_0803_0073",
+    "original": "くらげポケモン",
+    "translation": "水母宝可梦",
+    "index": 73
+  },
+  {
+    "key": "DP_0803_0074",
+    "original": "がんせきポケモン",
+    "translation": "岩石宝可梦",
+    "index": 74
+  },
+  {
+    "key": "DP_0803_0075",
+    "original": "がんせきポケモン",
+    "translation": "岩石宝可梦",
+    "index": 75
+  },
+  {
+    "key": "DP_0803_0076",
+    "original": "メガトンポケモン",
+    "translation": "重量级宝可梦",
+    "index": 76
+  },
+  {
+    "key": "DP_0803_0077",
+    "original": "ひのうまポケモン",
+    "translation": "火马宝可梦",
+    "index": 77
+  },
+  {
+    "key": "DP_0803_0078",
+    "original": "ひのうまポケモン",
+    "translation": "火马宝可梦",
+    "index": 78
+  },
+  {
+    "key": "DP_0803_0079",
+    "original": "まぬけポケモン",
+    "translation": "憨憨宝可梦",
+    "index": 79
+  },
+  {
+    "key": "DP_0803_0080",
+    "original": "やどかりポケモン",
+    "translation": "寄居蟹宝可梦",
+    "index": 80
+  },
+  {
+    "key": "DP_0803_0081",
+    "original": "じしゃくポケモン",
+    "translation": "磁铁宝可梦",
+    "index": 81
+  },
+  {
+    "key": "DP_0803_0082",
+    "original": "じしゃくポケモン",
+    "translation": "磁铁宝可梦",
+    "index": 82
+  },
+  {
+    "key": "DP_0803_0083",
+    "original": "かるがもポケモン",
+    "translation": "黄嘴鸭宝可梦",
+    "index": 83
+  },
+  {
+    "key": "DP_0803_0084",
+    "original": "ふたごどりポケモン",
+    "translation": "两头鸟宝可梦",
+    "index": 84
+  },
+  {
+    "key": "DP_0803_0085",
+    "original": "みつごどりポケモン",
+    "translation": "三头鸟宝可梦",
+    "index": 85
+  },
+  {
+    "key": "DP_0803_0086",
+    "original": "あしかポケモン",
+    "translation": "海狮宝可梦",
+    "index": 86
+  },
+  {
+    "key": "DP_0803_0087",
+    "original": "あしかポケモン",
+    "translation": "海狮宝可梦",
+    "index": 87
+  },
+  {
+    "key": "DP_0803_0088",
+    "original": "ヘドロポケモン",
+    "translation": "污泥宝可梦",
+    "index": 88
+  },
+  {
+    "key": "DP_0803_0089",
+    "original": "ヘドロポケモン",
+    "translation": "污泥宝可梦",
+    "index": 89
+  },
+  {
+    "key": "DP_0803_0090",
+    "original": "２まいがいポケモン",
+    "translation": "双壳贝宝可梦",
+    "index": 90
+  },
+  {
+    "key": "DP_0803_0091",
+    "original": "２まいがいポケモン",
+    "translation": "双壳贝宝可梦",
+    "index": 91
+  },
+  {
+    "key": "DP_0803_0092",
+    "original": "ガスじょうポケモン",
+    "translation": "气体状宝可梦",
+    "index": 92
+  },
+  {
+    "key": "DP_0803_0093",
+    "original": "ガスじょうポケモン",
+    "translation": "气体状宝可梦",
+    "index": 93
+  },
+  {
+    "key": "DP_0803_0094",
+    "original": "シャドーポケモン",
+    "translation": "影子宝可梦",
+    "index": 94
+  },
+  {
+    "key": "DP_0803_0095",
+    "original": "いわへびポケモン",
+    "translation": "岩蛇宝可梦",
+    "index": 95
+  },
+  {
+    "key": "DP_0803_0096",
+    "original": "さいみんポケモン",
+    "translation": "催眠宝可梦",
+    "index": 96
+  },
+  {
+    "key": "DP_0803_0097",
+    "original": "さいみんポケモン",
+    "translation": "催眠宝可梦",
+    "index": 97
+  },
+  {
+    "key": "DP_0803_0098",
+    "original": "さわがにポケモン",
+    "translation": "清水蟹宝可梦",
+    "index": 98
+  },
+  {
+    "key": "DP_0803_0099",
+    "original": "はさみポケモン",
+    "translation": "钳子宝可梦",
+    "index": 99
+  },
+  {
+    "key": "DP_0803_0100",
+    "original": "ボールポケモン",
+    "translation": "球宝可梦",
+    "index": 100
+  },
+  {
+    "key": "DP_0803_0101",
+    "original": "ボールポケモン",
+    "translation": "球宝可梦",
+    "index": 101
+  },
+  {
+    "key": "DP_0803_0102",
+    "original": "たまごポケモン",
+    "translation": "蛋宝可梦",
+    "index": 102
+  },
+  {
+    "key": "DP_0803_0103",
+    "original": "やしのみポケモン",
+    "translation": "椰子宝可梦",
+    "index": 103
+  },
+  {
+    "key": "DP_0803_0104",
+    "original": "こどくポケモン",
+    "translation": "孤独宝可梦",
+    "index": 104
+  },
+  {
+    "key": "DP_0803_0105",
+    "original": "ほねずきポケモン",
+    "translation": "爱骨宝可梦",
+    "index": 105
+  },
+  {
+    "key": "DP_0803_0106",
+    "original": "キックポケモン",
+    "translation": "踢腿宝可梦",
+    "index": 106
+  },
+  {
+    "key": "DP_0803_0107",
+    "original": "パンチポケモン",
+    "translation": "拳击宝可梦",
+    "index": 107
+  },
+  {
+    "key": "DP_0803_0108",
+    "original": "なめまわしポケモン",
+    "translation": "舔舔宝可梦",
+    "index": 108
+  },
+  {
+    "key": "DP_0803_0109",
+    "original": "どくガスポケモン",
+    "translation": "毒气宝可梦",
+    "index": 109
+  },
+  {
+    "key": "DP_0803_0110",
+    "original": "どくガスポケモン",
+    "translation": "毒气宝可梦",
+    "index": 110
+  },
+  {
+    "key": "DP_0803_0111",
+    "original": "とげとげポケモン",
+    "translation": "尖尖宝可梦",
+    "index": 111
+  },
+  {
+    "key": "DP_0803_0112",
+    "original": "ドリルポケモン",
+    "translation": "钻锥宝可梦",
+    "index": 112
+  },
+  {
+    "key": "DP_0803_0113",
+    "original": "たまごポケモン",
+    "translation": "蛋宝可梦",
+    "index": 113
+  },
+  {
+    "key": "DP_0803_0114",
+    "original": "ツルじょうポケモン",
+    "translation": "藤蔓状宝可梦",
+    "index": 114
+  },
+  {
+    "key": "DP_0803_0115",
+    "original": "おやこポケモン",
+    "translation": "亲子宝可梦",
+    "index": 115
+  },
+  {
+    "key": "DP_0803_0116",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 116
+  },
+  {
+    "key": "DP_0803_0117",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 117
+  },
+  {
+    "key": "DP_0803_0118",
+    "original": "きんぎょポケモン",
+    "translation": "金鱼宝可梦",
+    "index": 118
+  },
+  {
+    "key": "DP_0803_0119",
+    "original": "きんぎょポケモン",
+    "translation": "金鱼宝可梦",
+    "index": 119
+  },
+  {
+    "key": "DP_0803_0120",
+    "original": "ほしがたポケモン",
+    "translation": "星形宝可梦",
+    "index": 120
+  },
+  {
+    "key": "DP_0803_0121",
+    "original": "なぞのポケモン",
+    "translation": "谜宝可梦",
+    "index": 121
+  },
+  {
+    "key": "DP_0803_0122",
+    "original": "バリアーポケモン",
+    "translation": "屏障宝可梦",
+    "index": 122
+  },
+  {
+    "key": "DP_0803_0123",
+    "original": "かまきりポケモン",
+    "translation": "螳螂宝可梦",
+    "index": 123
+  },
+  {
+    "key": "DP_0803_0124",
+    "original": "ひとがたポケモン",
+    "translation": "人形宝可梦",
+    "index": 124
+  },
+  {
+    "key": "DP_0803_0125",
+    "original": "でんげきポケモン",
+    "translation": "电击宝可梦",
+    "index": 125
+  },
+  {
+    "key": "DP_0803_0126",
+    "original": "ひふきポケモン",
+    "translation": "吐火宝可梦",
+    "index": 126
+  },
+  {
+    "key": "DP_0803_0127",
+    "original": "くわがたポケモン",
+    "translation": "锹形虫宝可梦",
+    "index": 127
+  },
+  {
+    "key": "DP_0803_0128",
+    "original": "あばれうしポケモン",
+    "translation": "暴牛宝可梦",
+    "index": 128
+  },
+  {
+    "key": "DP_0803_0129",
+    "original": "さかなポケモン",
+    "translation": "鱼宝可梦",
+    "index": 129
+  },
+  {
+    "key": "DP_0803_0130",
+    "original": "きょうあくポケモン",
+    "translation": "凶恶宝可梦",
+    "index": 130
+  },
+  {
+    "key": "DP_0803_0131",
+    "original": "のりものポケモン",
+    "translation": "乘载宝可梦",
+    "index": 131
+  },
+  {
+    "key": "DP_0803_0132",
+    "original": "へんしんポケモン",
+    "translation": "变身宝可梦",
+    "index": 132
+  },
+  {
+    "key": "DP_0803_0133",
+    "original": "しんかポケモン",
+    "translation": "进化宝可梦",
+    "index": 133
+  },
+  {
+    "key": "DP_0803_0134",
+    "original": "あわはきポケモン",
+    "translation": "吐泡宝可梦",
+    "index": 134
+  },
+  {
+    "key": "DP_0803_0135",
+    "original": "かみなりポケモン",
+    "translation": "雷宝可梦",
+    "index": 135
+  },
+  {
+    "key": "DP_0803_0136",
+    "original": "ほのおポケモン",
+    "translation": "火宝可梦",
+    "index": 136
+  },
+  {
+    "key": "DP_0803_0137",
+    "original": "バーチャルポケモン",
+    "translation": "虚拟宝可梦",
+    "index": 137
+  },
+  {
+    "key": "DP_0803_0138",
+    "original": "うずまきポケモン",
+    "translation": "漩涡宝可梦",
+    "index": 138
+  },
+  {
+    "key": "DP_0803_0139",
+    "original": "うずまきポケモン",
+    "translation": "漩涡宝可梦",
+    "index": 139
+  },
+  {
+    "key": "DP_0803_0140",
+    "original": "こうらポケモン",
+    "translation": "甲壳宝可梦",
+    "index": 140
+  },
+  {
+    "key": "DP_0803_0141",
+    "original": "こうらポケモン",
+    "translation": "甲壳宝可梦",
+    "index": 141
+  },
+  {
+    "key": "DP_0803_0142",
+    "original": "かせきポケモン",
+    "translation": "化石宝可梦",
+    "index": 142
+  },
+  {
+    "key": "DP_0803_0143",
+    "original": "いねむりポケモン",
+    "translation": "瞌睡宝可梦",
+    "index": 143
+  },
+  {
+    "key": "DP_0803_0144",
+    "original": "れいとうポケモン",
+    "translation": "冰冻宝可梦",
+    "index": 144
+  },
+  {
+    "key": "DP_0803_0145",
+    "original": "でんげきポケモン",
+    "translation": "电击宝可梦",
+    "index": 145
+  },
+  {
+    "key": "DP_0803_0146",
+    "original": "かえんポケモン",
+    "translation": "火焰宝可梦",
+    "index": 146
+  },
+  {
+    "key": "DP_0803_0147",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 147
+  },
+  {
+    "key": "DP_0803_0148",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 148
+  },
+  {
+    "key": "DP_0803_0149",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 149
+  },
+  {
+    "key": "DP_0803_0150",
+    "original": "いでんしポケモン",
+    "translation": "基因宝可梦",
+    "index": 150
+  },
+  {
+    "key": "DP_0803_0151",
+    "original": "しんしゅポケモン",
+    "translation": "新种宝可梦",
+    "index": 151
+  },
+  {
+    "key": "DP_0803_0152",
+    "original": "はっぱポケモン",
+    "translation": "叶子宝可梦",
+    "index": 152
+  },
+  {
+    "key": "DP_0803_0153",
+    "original": "はっぱポケモン",
+    "translation": "叶子宝可梦",
+    "index": 153
+  },
+  {
+    "key": "DP_0803_0154",
+    "original": "ハーブポケモン",
+    "translation": "芳草宝可梦",
+    "index": 154
+  },
+  {
+    "key": "DP_0803_0155",
+    "original": "ひねずみポケモン",
+    "translation": "火鼠宝可梦",
+    "index": 155
+  },
+  {
+    "key": "DP_0803_0156",
+    "original": "かざんポケモン",
+    "translation": "火山宝可梦",
+    "index": 156
+  },
+  {
+    "key": "DP_0803_0157",
+    "original": "かざんポケモン",
+    "translation": "火山宝可梦",
+    "index": 157
+  },
+  {
+    "key": "DP_0803_0158",
+    "original": "おおあごポケモン",
+    "translation": "大颚宝可梦",
+    "index": 158
+  },
+  {
+    "key": "DP_0803_0159",
+    "original": "おおあごポケモン",
+    "translation": "大颚宝可梦",
+    "index": 159
+  },
+  {
+    "key": "DP_0803_0160",
+    "original": "おおあごポケモン",
+    "translation": "大颚宝可梦",
+    "index": 160
+  },
+  {
+    "key": "DP_0803_0161",
+    "original": "みはりポケモン",
+    "translation": "放哨宝可梦",
+    "index": 161
+  },
+  {
+    "key": "DP_0803_0162",
+    "original": "どうながポケモン",
+    "translation": "长躯干宝可梦",
+    "index": 162
+  },
+  {
+    "key": "DP_0803_0163",
+    "original": "ふくろうポケモン",
+    "translation": "猫头鹰宝可梦",
+    "index": 163
+  },
+  {
+    "key": "DP_0803_0164",
+    "original": "ふくろうポケモン",
+    "translation": "猫头鹰宝可梦",
+    "index": 164
+  },
+  {
+    "key": "DP_0803_0165",
+    "original": "いつつぼしポケモン",
+    "translation": "五星宝可梦",
+    "index": 165
+  },
+  {
+    "key": "DP_0803_0166",
+    "original": "いつつぼしポケモン",
+    "translation": "五星宝可梦",
+    "index": 166
+  },
+  {
+    "key": "DP_0803_0167",
+    "original": "いとはきポケモン",
+    "translation": "吐丝宝可梦",
+    "index": 167
+  },
+  {
+    "key": "DP_0803_0168",
+    "original": "あしながポケモン",
+    "translation": "长腿宝可梦",
+    "index": 168
+  },
+  {
+    "key": "DP_0803_0169",
+    "original": "こうもりポケモン",
+    "translation": "蝙蝠宝可梦",
+    "index": 169
+  },
+  {
+    "key": "DP_0803_0170",
+    "original": "あんこうポケモン",
+    "translation": "琵琶鱼宝可梦",
+    "index": 170
+  },
+  {
+    "key": "DP_0803_0171",
+    "original": "ライトポケモン",
+    "translation": "灯宝可梦",
+    "index": 171
+  },
+  {
+    "key": "DP_0803_0172",
+    "original": "こねずみポケモン",
+    "translation": "小鼠宝可梦",
+    "index": 172
+  },
+  {
+    "key": "DP_0803_0173",
+    "original": "ほしがたポケモン",
+    "translation": "星形宝可梦",
+    "index": 173
+  },
+  {
+    "key": "DP_0803_0174",
+    "original": "ふうせんポケモン",
+    "translation": "气球宝可梦",
+    "index": 174
+  },
+  {
+    "key": "DP_0803_0175",
+    "original": "はりたまポケモン",
+    "translation": "针球宝可梦",
+    "index": 175
+  },
+  {
+    "key": "DP_0803_0176",
+    "original": "しあわせポケモン",
+    "translation": "幸福宝可梦",
+    "index": 176
+  },
+  {
+    "key": "DP_0803_0177",
+    "original": "ことりポケモン",
+    "translation": "小鸟宝可梦",
+    "index": 177
+  },
+  {
+    "key": "DP_0803_0178",
+    "original": "せいれいポケモン",
+    "translation": "神秘宝可梦",
+    "index": 178
+  },
+  {
+    "key": "DP_0803_0179",
+    "original": "わたげポケモン",
+    "translation": "绵毛宝可梦",
+    "index": 179
+  },
+  {
+    "key": "DP_0803_0180",
+    "original": "わたげポケモン",
+    "translation": "绵毛宝可梦",
+    "index": 180
+  },
+  {
+    "key": "DP_0803_0181",
+    "original": "ライトポケモン",
+    "translation": "灯宝可梦",
+    "index": 181
+  },
+  {
+    "key": "DP_0803_0182",
+    "original": "フラワーポケモン",
+    "translation": "花宝可梦",
+    "index": 182
+  },
+  {
+    "key": "DP_0803_0183",
+    "original": "みずねずみポケモン",
+    "translation": "水鼠宝可梦",
+    "index": 183
+  },
+  {
+    "key": "DP_0803_0184",
+    "original": "みずうさぎポケモン",
+    "translation": "水兔宝可梦",
+    "index": 184
+  },
+  {
+    "key": "DP_0803_0185",
+    "original": "まねポケモン",
+    "translation": "模仿宝可梦",
+    "index": 185
+  },
+  {
+    "key": "DP_0803_0186",
+    "original": "かえるポケモン",
+    "translation": "蛙宝可梦",
+    "index": 186
+  },
+  {
+    "key": "DP_0803_0187",
+    "original": "わたくさポケモン",
+    "translation": "棉草宝可梦",
+    "index": 187
+  },
+  {
+    "key": "DP_0803_0188",
+    "original": "わたくさポケモン",
+    "translation": "棉草宝可梦",
+    "index": 188
+  },
+  {
+    "key": "DP_0803_0189",
+    "original": "わたくさポケモン",
+    "translation": "棉草宝可梦",
+    "index": 189
+  },
+  {
+    "key": "DP_0803_0190",
+    "original": "おながポケモン",
+    "translation": "长尾宝可梦",
+    "index": 190
+  },
+  {
+    "key": "DP_0803_0191",
+    "original": "たねポケモン",
+    "translation": "种子宝可梦",
+    "index": 191
+  },
+  {
+    "key": "DP_0803_0192",
+    "original": "たいようポケモン",
+    "translation": "太阳宝可梦",
+    "index": 192
+  },
+  {
+    "key": "DP_0803_0193",
+    "original": "うすばねポケモン",
+    "translation": "薄翼宝可梦",
+    "index": 193
+  },
+  {
+    "key": "DP_0803_0194",
+    "original": "みずうおポケモン",
+    "translation": "水鱼宝可梦",
+    "index": 194
+  },
+  {
+    "key": "DP_0803_0195",
+    "original": "みずうおポケモン",
+    "translation": "水鱼宝可梦",
+    "index": 195
+  },
+  {
+    "key": "DP_0803_0196",
+    "original": "たいようポケモン",
+    "translation": "太阳宝可梦",
+    "index": 196
+  },
+  {
+    "key": "DP_0803_0197",
+    "original": "げっこうポケモン",
+    "translation": "月光宝可梦",
+    "index": 197
+  },
+  {
+    "key": "DP_0803_0198",
+    "original": "くらやみポケモン",
+    "translation": "黑暗宝可梦",
+    "index": 198
+  },
+  {
+    "key": "DP_0803_0199",
+    "original": "おうじゃポケモン",
+    "translation": "王者宝可梦",
+    "index": 199
+  },
+  {
+    "key": "DP_0803_0200",
+    "original": "よなきポケモン",
+    "translation": "夜啼宝可梦",
+    "index": 200
+  },
+  {
+    "key": "DP_0803_0201",
+    "original": "シンボルポケモン",
+    "translation": "象征宝可梦",
+    "index": 201
+  },
+  {
+    "key": "DP_0803_0202",
+    "original": "がまんポケモン",
+    "translation": "忍耐宝可梦",
+    "index": 202
+  },
+  {
+    "key": "DP_0803_0203",
+    "original": "くびながポケモン",
+    "translation": "长颈宝可梦",
+    "index": 203
+  },
+  {
+    "key": "DP_0803_0204",
+    "original": "みのむしポケモン",
+    "translation": "蓑衣虫宝可梦",
+    "index": 204
+  },
+  {
+    "key": "DP_0803_0205",
+    "original": "みのむしポケモン",
+    "translation": "蓑衣虫宝可梦",
+    "index": 205
+  },
+  {
+    "key": "DP_0803_0206",
+    "original": "つちへびポケモン",
+    "translation": "地蛇宝可梦",
+    "index": 206
+  },
+  {
+    "key": "DP_0803_0207",
+    "original": "とびさそりポケモン",
+    "translation": "飞蝎宝可梦",
+    "index": 207
+  },
+  {
+    "key": "DP_0803_0208",
+    "original": "てつへびポケモン",
+    "translation": "铁蛇宝可梦",
+    "index": 208
+  },
+  {
+    "key": "DP_0803_0209",
+    "original": "ようせいポケモン",
+    "translation": "妖精宝可梦",
+    "index": 209
+  },
+  {
+    "key": "DP_0803_0210",
+    "original": "ようせいポケモン",
+    "translation": "妖精宝可梦",
+    "index": 210
+  },
+  {
+    "key": "DP_0803_0211",
+    "original": "ふうせんポケモン",
+    "translation": "气球宝可梦",
+    "index": 211
+  },
+  {
+    "key": "DP_0803_0212",
+    "original": "はさみポケモン",
+    "translation": "钳子宝可梦",
+    "index": 212
+  },
+  {
+    "key": "DP_0803_0213",
+    "original": "はっこうポケモン",
+    "translation": "发酵宝可梦",
+    "index": 213
+  },
+  {
+    "key": "DP_0803_0214",
+    "original": "１ぽんヅノポケモン",
+    "translation": "独角宝可梦",
+    "index": 214
+  },
+  {
+    "key": "DP_0803_0215",
+    "original": "かぎづめポケモン",
+    "translation": "钩爪宝可梦",
+    "index": 215
+  },
+  {
+    "key": "DP_0803_0216",
+    "original": "こぐまポケモン",
+    "translation": "小熊宝可梦",
+    "index": 216
+  },
+  {
+    "key": "DP_0803_0217",
+    "original": "とうみんポケモン",
+    "translation": "冬眠宝可梦",
+    "index": 217
+  },
+  {
+    "key": "DP_0803_0218",
+    "original": "ようがんポケモン",
+    "translation": "熔岩宝可梦",
+    "index": 218
+  },
+  {
+    "key": "DP_0803_0219",
+    "original": "ようがんポケモン",
+    "translation": "熔岩宝可梦",
+    "index": 219
+  },
+  {
+    "key": "DP_0803_0220",
+    "original": "いのぶたポケモン",
+    "translation": "小猪宝可梦",
+    "index": 220
+  },
+  {
+    "key": "DP_0803_0221",
+    "original": "いのししポケモン",
+    "translation": "野猪宝可梦",
+    "index": 221
+  },
+  {
+    "key": "DP_0803_0222",
+    "original": "さんごポケモン",
+    "translation": "珊瑚宝可梦",
+    "index": 222
+  },
+  {
+    "key": "DP_0803_0223",
+    "original": "ふんしゃポケモン",
+    "translation": "喷射宝可梦",
+    "index": 223
+  },
+  {
+    "key": "DP_0803_0224",
+    "original": "ふんしゃポケモン",
+    "translation": "喷射宝可梦",
+    "index": 224
+  },
+  {
+    "key": "DP_0803_0225",
+    "original": "はこびやポケモン",
+    "translation": "搬运宝可梦",
+    "index": 225
+  },
+  {
+    "key": "DP_0803_0226",
+    "original": "カイトポケモン",
+    "translation": "风筝宝可梦",
+    "index": 226
+  },
+  {
+    "key": "DP_0803_0227",
+    "original": "よろいどりポケモン",
+    "translation": "钢甲鸟宝可梦",
+    "index": 227
+  },
+  {
+    "key": "DP_0803_0228",
+    "original": "ダークポケモン",
+    "translation": "阴暗宝可梦",
+    "index": 228
+  },
+  {
+    "key": "DP_0803_0229",
+    "original": "ダークポケモン",
+    "translation": "阴暗宝可梦",
+    "index": 229
+  },
+  {
+    "key": "DP_0803_0230",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 230
+  },
+  {
+    "key": "DP_0803_0231",
+    "original": "ながはなポケモン",
+    "translation": "长鼻宝可梦",
+    "index": 231
+  },
+  {
+    "key": "DP_0803_0232",
+    "original": "よろいポケモン",
+    "translation": "铠甲宝可梦",
+    "index": 232
+  },
+  {
+    "key": "DP_0803_0233",
+    "original": "バーチャルポケモン",
+    "translation": "虚拟宝可梦",
+    "index": 233
+  },
+  {
+    "key": "DP_0803_0234",
+    "original": "おおツノポケモン",
+    "translation": "大角宝可梦",
+    "index": 234
+  },
+  {
+    "key": "DP_0803_0235",
+    "original": "えかきポケモン",
+    "translation": "画画宝可梦",
+    "index": 235
+  },
+  {
+    "key": "DP_0803_0236",
+    "original": "けんかポケモン",
+    "translation": "打斗宝可梦",
+    "index": 236
+  },
+  {
+    "key": "DP_0803_0237",
+    "original": "さかだちポケモン",
+    "translation": "倒立宝可梦",
+    "index": 237
+  },
+  {
+    "key": "DP_0803_0238",
+    "original": "くちづけポケモン",
+    "translation": "亲吻宝可梦",
+    "index": 238
+  },
+  {
+    "key": "DP_0803_0239",
+    "original": "でんきポケモン",
+    "translation": "电气宝可梦",
+    "index": 239
+  },
+  {
+    "key": "DP_0803_0240",
+    "original": "ひだねポケモン",
+    "translation": "火种宝可梦",
+    "index": 240
+  },
+  {
+    "key": "DP_0803_0241",
+    "original": "ちちうしポケモン",
+    "translation": "奶牛宝可梦",
+    "index": 241
+  },
+  {
+    "key": "DP_0803_0242",
+    "original": "しあわせポケモン",
+    "translation": "幸福宝可梦",
+    "index": 242
+  },
+  {
+    "key": "DP_0803_0243",
+    "original": "いかずちポケモン",
+    "translation": "天雷宝可梦",
+    "index": 243
+  },
+  {
+    "key": "DP_0803_0244",
+    "original": "かざんポケモン",
+    "translation": "火山宝可梦",
+    "index": 244
+  },
+  {
+    "key": "DP_0803_0245",
+    "original": "オーロラポケモン",
+    "translation": "极光宝可梦",
+    "index": 245
+  },
+  {
+    "key": "DP_0803_0246",
+    "original": "いわはだポケモン",
+    "translation": "岩石肤宝可梦",
+    "index": 246
+  },
+  {
+    "key": "DP_0803_0247",
+    "original": "だんがんポケモン",
+    "translation": "子弹宝可梦",
+    "index": 247
+  },
+  {
+    "key": "DP_0803_0248",
+    "original": "よろいポケモン",
+    "translation": "铠甲宝可梦",
+    "index": 248
+  },
+  {
+    "key": "DP_0803_0249",
+    "original": "せんすいポケモン",
+    "translation": "潜水宝可梦",
+    "index": 249
+  },
+  {
+    "key": "DP_0803_0250",
+    "original": "にじいろポケモン",
+    "translation": "虹色宝可梦",
+    "index": 250
+  },
+  {
+    "key": "DP_0803_0251",
+    "original": "ときわたりポケモン",
+    "translation": "时空穿越宝可梦",
+    "index": 251
+  },
+  {
+    "key": "DP_0803_0252",
+    "original": "もりトカゲポケモン",
+    "translation": "林蜥宝可梦",
+    "index": 252
+  },
+  {
+    "key": "DP_0803_0253",
+    "original": "もりトカゲポケモン",
+    "translation": "林蜥宝可梦",
+    "index": 253
+  },
+  {
+    "key": "DP_0803_0254",
+    "original": "みつりんポケモン",
+    "translation": "密林宝可梦",
+    "index": 254
+  },
+  {
+    "key": "DP_0803_0255",
+    "original": "ひよこポケモン",
+    "translation": "雏鸡宝可梦",
+    "index": 255
+  },
+  {
+    "key": "DP_0803_0256",
+    "original": "わかどりポケモン",
+    "translation": "幼鸡宝可梦",
+    "index": 256
+  },
+  {
+    "key": "DP_0803_0257",
+    "original": "もうかポケモン",
+    "translation": "猛火宝可梦",
+    "index": 257
+  },
+  {
+    "key": "DP_0803_0258",
+    "original": "ぬまうおポケモン",
+    "translation": "沼鱼宝可梦",
+    "index": 258
+  },
+  {
+    "key": "DP_0803_0259",
+    "original": "ぬまうおポケモン",
+    "translation": "沼鱼宝可梦",
+    "index": 259
+  },
+  {
+    "key": "DP_0803_0260",
+    "original": "ぬまうおポケモン",
+    "translation": "沼鱼宝可梦",
+    "index": 260
+  },
+  {
+    "key": "DP_0803_0261",
+    "original": "かみつきポケモン",
+    "translation": "紧咬宝可梦",
+    "index": 261
+  },
+  {
+    "key": "DP_0803_0262",
+    "original": "かみつきポケモン",
+    "translation": "紧咬宝可梦",
+    "index": 262
+  },
+  {
+    "key": "DP_0803_0263",
+    "original": "まめだぬきポケモン",
+    "translation": "豆狸宝可梦",
+    "index": 263
+  },
+  {
+    "key": "DP_0803_0264",
+    "original": "とっしんポケモン",
+    "translation": "猛冲宝可梦",
+    "index": 264
+  },
+  {
+    "key": "DP_0803_0265",
+    "original": "いもむしポケモン",
+    "translation": "虫宝宝宝可梦",
+    "index": 265
+  },
+  {
+    "key": "DP_0803_0266",
+    "original": "さなぎポケモン",
+    "translation": "蛹宝可梦",
+    "index": 266
+  },
+  {
+    "key": "DP_0803_0267",
+    "original": "ちょうちょポケモン",
+    "translation": "蝴蝶宝可梦",
+    "index": 267
+  },
+  {
+    "key": "DP_0803_0268",
+    "original": "さなぎポケモン",
+    "translation": "蛹宝可梦",
+    "index": 268
+  },
+  {
+    "key": "DP_0803_0269",
+    "original": "どくがポケモン",
+    "translation": "毒蛾宝可梦",
+    "index": 269
+  },
+  {
+    "key": "DP_0803_0270",
+    "original": "うきくさポケモン",
+    "translation": "浮萍宝可梦",
+    "index": 270
+  },
+  {
+    "key": "DP_0803_0271",
+    "original": "ようきポケモン",
+    "translation": "爽朗宝可梦",
+    "index": 271
+  },
+  {
+    "key": "DP_0803_0272",
+    "original": "のうてんきポケモン",
+    "translation": "乐天宝可梦",
+    "index": 272
+  },
+  {
+    "key": "DP_0803_0273",
+    "original": "どんぐりポケモン",
+    "translation": "橡实宝可梦",
+    "index": 273
+  },
+  {
+    "key": "DP_0803_0274",
+    "original": "いじわるポケモン",
+    "translation": "捉弄宝可梦",
+    "index": 274
+  },
+  {
+    "key": "DP_0803_0275",
+    "original": "よこしまポケモン",
+    "translation": "邪恶宝可梦",
+    "index": 275
+  },
+  {
+    "key": "DP_0803_0276",
+    "original": "こツバメポケモン",
+    "translation": "幼燕宝可梦",
+    "index": 276
+  },
+  {
+    "key": "DP_0803_0277",
+    "original": "ツバメポケモン",
+    "translation": "燕子宝可梦",
+    "index": 277
+  },
+  {
+    "key": "DP_0803_0278",
+    "original": "うみねこポケモン",
+    "translation": "海鸥宝可梦",
+    "index": 278
+  },
+  {
+    "key": "DP_0803_0279",
+    "original": "みずどりポケモン",
+    "translation": "水鸟宝可梦",
+    "index": 279
+  },
+  {
+    "key": "DP_0803_0280",
+    "original": "きもちポケモン",
+    "translation": "心情宝可梦",
+    "index": 280
+  },
+  {
+    "key": "DP_0803_0281",
+    "original": "かんじょうポケモン",
+    "translation": "感情宝可梦",
+    "index": 281
+  },
+  {
+    "key": "DP_0803_0282",
+    "original": "ほうようポケモン",
+    "translation": "包容宝可梦",
+    "index": 282
+  },
+  {
+    "key": "DP_0803_0283",
+    "original": "あめんぼポケモン",
+    "translation": "水黾宝可梦",
+    "index": 283
+  },
+  {
+    "key": "DP_0803_0284",
+    "original": "めだまポケモン",
+    "translation": "眼珠宝可梦",
+    "index": 284
+  },
+  {
+    "key": "DP_0803_0285",
+    "original": "きのこポケモン",
+    "translation": "蘑菇宝可梦",
+    "index": 285
+  },
+  {
+    "key": "DP_0803_0286",
+    "original": "きのこポケモン",
+    "translation": "蘑菇宝可梦",
+    "index": 286
+  },
+  {
+    "key": "DP_0803_0287",
+    "original": "なまけものポケモン",
+    "translation": "懒人宝可梦",
+    "index": 287
+  },
+  {
+    "key": "DP_0803_0288",
+    "original": "あばれザルポケモン",
+    "translation": "暴猿宝可梦",
+    "index": 288
+  },
+  {
+    "key": "DP_0803_0289",
+    "original": "ものぐさポケモン",
+    "translation": "怕麻烦宝可梦",
+    "index": 289
+  },
+  {
+    "key": "DP_0803_0290",
+    "original": "したづみポケモン",
+    "translation": "入门宝可梦",
+    "index": 290
+  },
+  {
+    "key": "DP_0803_0291",
+    "original": "しのびポケモン",
+    "translation": "忍者宝可梦",
+    "index": 291
+  },
+  {
+    "key": "DP_0803_0292",
+    "original": "ぬけがらポケモン",
+    "translation": "空壳宝可梦",
+    "index": 292
+  },
+  {
+    "key": "DP_0803_0293",
+    "original": "ささやきポケモン",
+    "translation": "细语宝可梦",
+    "index": 293
+  },
+  {
+    "key": "DP_0803_0294",
+    "original": "おおごえポケモン",
+    "translation": "大声宝可梦",
+    "index": 294
+  },
+  {
+    "key": "DP_0803_0295",
+    "original": "そうおんポケモン",
+    "translation": "噪音宝可梦",
+    "index": 295
+  },
+  {
+    "key": "DP_0803_0296",
+    "original": "こんじょうポケモン",
+    "translation": "毅力宝可梦",
+    "index": 296
+  },
+  {
+    "key": "DP_0803_0297",
+    "original": "つっぱりポケモン",
+    "translation": "猛推宝可梦",
+    "index": 297
+  },
+  {
+    "key": "DP_0803_0298",
+    "original": "みずたまポケモン",
+    "translation": "水珠宝可梦",
+    "index": 298
+  },
+  {
+    "key": "DP_0803_0299",
+    "original": "コンパスポケモン",
+    "translation": "罗盘宝可梦",
+    "index": 299
+  },
+  {
+    "key": "DP_0803_0300",
+    "original": "こねこポケモン",
+    "translation": "小猫宝可梦",
+    "index": 300
+  },
+  {
+    "key": "DP_0803_0301",
+    "original": "おすましポケモン",
+    "translation": "清高宝可梦",
+    "index": 301
+  },
+  {
+    "key": "DP_0803_0302",
+    "original": "くらやみポケモン",
+    "translation": "黑暗宝可梦",
+    "index": 302
+  },
+  {
+    "key": "DP_0803_0303",
+    "original": "あざむきポケモン",
+    "translation": "欺骗宝可梦",
+    "index": 303
+  },
+  {
+    "key": "DP_0803_0304",
+    "original": "てつヨロイポケモン",
+    "translation": "铁铠宝可梦",
+    "index": 304
+  },
+  {
+    "key": "DP_0803_0305",
+    "original": "てつヨロイポケモン",
+    "translation": "铁铠宝可梦",
+    "index": 305
+  },
+  {
+    "key": "DP_0803_0306",
+    "original": "てつヨロイポケモン",
+    "translation": "铁铠宝可梦",
+    "index": 306
+  },
+  {
+    "key": "DP_0803_0307",
+    "original": "めいそうポケモン",
+    "translation": "冥想宝可梦",
+    "index": 307
+  },
+  {
+    "key": "DP_0803_0308",
+    "original": "めいそうポケモン",
+    "translation": "冥想宝可梦",
+    "index": 308
+  },
+  {
+    "key": "DP_0803_0309",
+    "original": "いなずまポケモン",
+    "translation": "闪电宝可梦",
+    "index": 309
+  },
+  {
+    "key": "DP_0803_0310",
+    "original": "ほうでんポケモン",
+    "translation": "放电宝可梦",
+    "index": 310
+  },
+  {
+    "key": "DP_0803_0311",
+    "original": "おうえんポケモン",
+    "translation": "加油宝可梦",
+    "index": 311
+  },
+  {
+    "key": "DP_0803_0312",
+    "original": "おうえんポケモン",
+    "translation": "加油宝可梦",
+    "index": 312
+  },
+  {
+    "key": "DP_0803_0313",
+    "original": "ほたるポケモン",
+    "translation": "萤火虫宝可梦",
+    "index": 313
+  },
+  {
+    "key": "DP_0803_0314",
+    "original": "ほたるポケモン",
+    "translation": "萤火虫宝可梦",
+    "index": 314
+  },
+  {
+    "key": "DP_0803_0315",
+    "original": "いばらポケモン",
+    "translation": "荆棘宝可梦",
+    "index": 315
+  },
+  {
+    "key": "DP_0803_0316",
+    "original": "いぶくろポケモン",
+    "translation": "胃袋宝可梦",
+    "index": 316
+  },
+  {
+    "key": "DP_0803_0317",
+    "original": "どくぶくろポケモン",
+    "translation": "毒袋宝可梦",
+    "index": 317
+  },
+  {
+    "key": "DP_0803_0318",
+    "original": "どうもうポケモン",
+    "translation": "凶猛宝可梦",
+    "index": 318
+  },
+  {
+    "key": "DP_0803_0319",
+    "original": "きょうぼうポケモン",
+    "translation": "凶暴宝可梦",
+    "index": 319
+  },
+  {
+    "key": "DP_0803_0320",
+    "original": "たまくじらポケモン",
+    "translation": "球鲸宝可梦",
+    "index": 320
+  },
+  {
+    "key": "DP_0803_0321",
+    "original": "うきくじらポケモン",
+    "translation": "浮鲸宝可梦",
+    "index": 321
+  },
+  {
+    "key": "DP_0803_0322",
+    "original": "どんかんポケモン",
+    "translation": "迟钝宝可梦",
+    "index": 322
+  },
+  {
+    "key": "DP_0803_0323",
+    "original": "ふんかポケモン",
+    "translation": "喷火宝可梦",
+    "index": 323
+  },
+  {
+    "key": "DP_0803_0324",
+    "original": "せきたんポケモン",
+    "translation": "煤炭宝可梦",
+    "index": 324
+  },
+  {
+    "key": "DP_0803_0325",
+    "original": "とびはねポケモン",
+    "translation": "弹跳宝可梦",
+    "index": 325
+  },
+  {
+    "key": "DP_0803_0326",
+    "original": "あやつりポケモン",
+    "translation": "操纵宝可梦",
+    "index": 326
+  },
+  {
+    "key": "DP_0803_0327",
+    "original": "ぶちパンダポケモン",
+    "translation": "斑点熊猫宝可梦",
+    "index": 327
+  },
+  {
+    "key": "DP_0803_0328",
+    "original": "ありじごくポケモン",
+    "translation": "蚁狮宝可梦",
+    "index": 328
+  },
+  {
+    "key": "DP_0803_0329",
+    "original": "しんどうポケモン",
+    "translation": "振动宝可梦",
+    "index": 329
+  },
+  {
+    "key": "DP_0803_0330",
+    "original": "せいれいポケモン",
+    "translation": "神秘宝可梦",
+    "index": 330
+  },
+  {
+    "key": "DP_0803_0331",
+    "original": "サボテンポケモン",
+    "translation": "仙人掌宝可梦",
+    "index": 331
+  },
+  {
+    "key": "DP_0803_0332",
+    "original": "カカシぐさポケモン",
+    "translation": "稻草人宝可梦",
+    "index": 332
+  },
+  {
+    "key": "DP_0803_0333",
+    "original": "わたどりポケモン",
+    "translation": "绵鸟宝可梦",
+    "index": 333
+  },
+  {
+    "key": "DP_0803_0334",
+    "original": "ハミングポケモン",
+    "translation": "哼唱宝可梦",
+    "index": 334
+  },
+  {
+    "key": "DP_0803_0335",
+    "original": "ネコイタチポケモン",
+    "translation": "猫鼬宝可梦",
+    "index": 335
+  },
+  {
+    "key": "DP_0803_0336",
+    "original": "キバへびポケモン",
+    "translation": "牙蛇宝可梦",
+    "index": 336
+  },
+  {
+    "key": "DP_0803_0337",
+    "original": "いんせきポケモン",
+    "translation": "陨石宝可梦",
+    "index": 337
+  },
+  {
+    "key": "DP_0803_0338",
+    "original": "いんせきポケモン",
+    "translation": "陨石宝可梦",
+    "index": 338
+  },
+  {
+    "key": "DP_0803_0339",
+    "original": "ひげうおポケモン",
+    "translation": "须鱼宝可梦",
+    "index": 339
+  },
+  {
+    "key": "DP_0803_0340",
+    "original": "ひげうおポケモン",
+    "translation": "须鱼宝可梦",
+    "index": 340
+  },
+  {
+    "key": "DP_0803_0341",
+    "original": "ごろつきポケモン",
+    "translation": "无赖宝可梦",
+    "index": 341
+  },
+  {
+    "key": "DP_0803_0342",
+    "original": "ならずものポケモン",
+    "translation": "流氓宝可梦",
+    "index": 342
+  },
+  {
+    "key": "DP_0803_0343",
+    "original": "どぐうポケモン",
+    "translation": "泥偶宝可梦",
+    "index": 343
+  },
+  {
+    "key": "DP_0803_0344",
+    "original": "どぐうポケモン",
+    "translation": "泥偶宝可梦",
+    "index": 344
+  },
+  {
+    "key": "DP_0803_0345",
+    "original": "ウミユリポケモン",
+    "translation": "海百合宝可梦",
+    "index": 345
+  },
+  {
+    "key": "DP_0803_0346",
+    "original": "いわつぼポケモン",
+    "translation": "藤壶宝可梦",
+    "index": 346
+  },
+  {
+    "key": "DP_0803_0347",
+    "original": "むかしエビポケモン",
+    "translation": "古虾宝可梦",
+    "index": 347
+  },
+  {
+    "key": "DP_0803_0348",
+    "original": "かっちゅうポケモン",
+    "translation": "甲胄宝可梦",
+    "index": 348
+  },
+  {
+    "key": "DP_0803_0349",
+    "original": "さかなポケモン",
+    "translation": "鱼宝可梦",
+    "index": 349
+  },
+  {
+    "key": "DP_0803_0350",
+    "original": "いつくしみポケモン",
+    "translation": "慈爱宝可梦",
+    "index": 350
+  },
+  {
+    "key": "DP_0803_0351",
+    "original": "てんきポケモン",
+    "translation": "天气宝可梦",
+    "index": 351
+  },
+  {
+    "key": "DP_0803_0352",
+    "original": "いろへんげポケモン",
+    "translation": "变色宝可梦",
+    "index": 352
+  },
+  {
+    "key": "DP_0803_0353",
+    "original": "にんぎょうポケモン",
+    "translation": "人偶宝可梦",
+    "index": 353
+  },
+  {
+    "key": "DP_0803_0354",
+    "original": "ぬいぐるみポケモン",
+    "translation": "布偶宝可梦",
+    "index": 354
+  },
+  {
+    "key": "DP_0803_0355",
+    "original": "おむかえポケモン",
+    "translation": "渡魂宝可梦",
+    "index": 355
+  },
+  {
+    "key": "DP_0803_0356",
+    "original": "てまねきポケモン",
+    "translation": "招手宝可梦",
+    "index": 356
+  },
+  {
+    "key": "DP_0803_0357",
+    "original": "フルーツポケモン",
+    "translation": "水果宝可梦",
+    "index": 357
+  },
+  {
+    "key": "DP_0803_0358",
+    "original": "ふうりんポケモン",
+    "translation": "风铃宝可梦",
+    "index": 358
+  },
+  {
+    "key": "DP_0803_0359",
+    "original": "わざわいポケモン",
+    "translation": "灾祸宝可梦",
+    "index": 359
+  },
+  {
+    "key": "DP_0803_0360",
+    "original": "ほがらかポケモン",
+    "translation": "开朗宝可梦",
+    "index": 360
+  },
+  {
+    "key": "DP_0803_0361",
+    "original": "ゆきかさポケモン",
+    "translation": "雪笠宝可梦",
+    "index": 361
+  },
+  {
+    "key": "DP_0803_0362",
+    "original": "がんめんポケモン",
+    "translation": "脸面宝可梦",
+    "index": 362
+  },
+  {
+    "key": "DP_0803_0363",
+    "original": "てたたきポケモン",
+    "translation": "拍手宝可梦",
+    "index": 363
+  },
+  {
+    "key": "DP_0803_0364",
+    "original": "たままわしポケモン",
+    "translation": "滚球宝可梦",
+    "index": 364
+  },
+  {
+    "key": "DP_0803_0365",
+    "original": "こおりわりポケモン",
+    "translation": "破冰宝可梦",
+    "index": 365
+  },
+  {
+    "key": "DP_0803_0366",
+    "original": "２まいがいポケモン",
+    "translation": "双壳贝宝可梦",
+    "index": 366
+  },
+  {
+    "key": "DP_0803_0367",
+    "original": "しんかいポケモン",
+    "translation": "深海宝可梦",
+    "index": 367
+  },
+  {
+    "key": "DP_0803_0368",
+    "original": "なんかいポケモン",
+    "translation": "南海宝可梦",
+    "index": 368
+  },
+  {
+    "key": "DP_0803_0369",
+    "original": "ちょうじゅポケモン",
+    "translation": "长寿宝可梦",
+    "index": 369
+  },
+  {
+    "key": "DP_0803_0370",
+    "original": "ランデブーポケモン",
+    "translation": "相随宝可梦",
+    "index": 370
+  },
+  {
+    "key": "DP_0803_0371",
+    "original": "いしあたまポケモン",
+    "translation": "坚硬脑袋宝可梦",
+    "index": 371
+  },
+  {
+    "key": "DP_0803_0372",
+    "original": "にんたいポケモン",
+    "translation": "耐力宝可梦",
+    "index": 372
+  },
+  {
+    "key": "DP_0803_0373",
+    "original": "ドラゴンポケモン",
+    "translation": "龙宝可梦",
+    "index": 373
+  },
+  {
+    "key": "DP_0803_0374",
+    "original": "てっきゅうポケモン",
+    "translation": "铁球宝可梦",
+    "index": 374
+  },
+  {
+    "key": "DP_0803_0375",
+    "original": "てつツメポケモン",
+    "translation": "铁爪宝可梦",
+    "index": 375
+  },
+  {
+    "key": "DP_0803_0376",
+    "original": "てつあしポケモン",
+    "translation": "铁足宝可梦",
+    "index": 376
+  },
+  {
+    "key": "DP_0803_0377",
+    "original": "いわやまポケモン",
+    "translation": "岩山宝可梦",
+    "index": 377
+  },
+  {
+    "key": "DP_0803_0378",
+    "original": "ひょうざんポケモン",
+    "translation": "冰山宝可梦",
+    "index": 378
+  },
+  {
+    "key": "DP_0803_0379",
+    "original": "くろがねポケモン",
+    "translation": "黑金宝可梦",
+    "index": 379
+  },
+  {
+    "key": "DP_0803_0380",
+    "original": "むげんポケモン",
+    "translation": "无限宝可梦",
+    "index": 380
+  },
+  {
+    "key": "DP_0803_0381",
+    "original": "むげんポケモン",
+    "translation": "无限宝可梦",
+    "index": 381
+  },
+  {
+    "key": "DP_0803_0382",
+    "original": "かいていポケモン",
+    "translation": "海底宝可梦",
+    "index": 382
+  },
+  {
+    "key": "DP_0803_0383",
+    "original": "たいりくポケモン",
+    "translation": "大陆宝可梦",
+    "index": 383
+  },
+  {
+    "key": "DP_0803_0384",
+    "original": "てんくうポケモン",
+    "translation": "天空宝可梦",
+    "index": 384
+  },
+  {
+    "key": "DP_0803_0385",
+    "original": "ねがいごとポケモン",
+    "translation": "祈愿宝可梦",
+    "index": 385
+  },
+  {
+    "key": "DP_0803_0386",
+    "original": "ＤＮＡポケモン",
+    "translation": "ＤＮＡ宝可梦",
+    "index": 386
+  },
+  {
+    "key": "DP_0803_0387",
+    "original": "わかばポケモン",
+    "translation": "嫩叶宝可梦",
+    "index": 387
+  },
+  {
+    "key": "DP_0803_0388",
+    "original": "こだちポケモン",
+    "translation": "树丛宝可梦",
+    "index": 388
+  },
+  {
+    "key": "DP_0803_0389",
+    "original": "たいりくポケモン",
+    "translation": "大陆宝可梦",
+    "index": 389
+  },
+  {
+    "key": "DP_0803_0390",
+    "original": "こざるポケモン",
+    "translation": "小猴宝可梦",
+    "index": 390
+  },
+  {
+    "key": "DP_0803_0391",
+    "original": "やんちゃポケモン",
+    "translation": "顽皮宝可梦",
+    "index": 391
+  },
+  {
+    "key": "DP_0803_0392",
+    "original": "かえんポケモン",
+    "translation": "火焰宝可梦",
+    "index": 392
+  },
+  {
+    "key": "DP_0803_0393",
+    "original": "ペンギンポケモン",
+    "translation": "企鹅宝可梦",
+    "index": 393
+  },
+  {
+    "key": "DP_0803_0394",
+    "original": "ペンギンポケモン",
+    "translation": "企鹅宝可梦",
+    "index": 394
+  },
+  {
+    "key": "DP_0803_0395",
+    "original": "こうていポケモン",
+    "translation": "皇帝宝可梦",
+    "index": 395
+  },
+  {
+    "key": "DP_0803_0396",
+    "original": "むくどりポケモン",
+    "translation": "椋鸟宝可梦",
+    "index": 396
+  },
+  {
+    "key": "DP_0803_0397",
+    "original": "むくどりポケモン",
+    "translation": "椋鸟宝可梦",
+    "index": 397
+  },
+  {
+    "key": "DP_0803_0398",
+    "original": "もうきんポケモン",
+    "translation": "猛禽宝可梦",
+    "index": 398
+  },
+  {
+    "key": "DP_0803_0399",
+    "original": "まるねずみポケモン",
+    "translation": "圆鼠宝可梦",
+    "index": 399
+  },
+  {
+    "key": "DP_0803_0400",
+    "original": "ビーバーポケモン",
+    "translation": "河狸宝可梦",
+    "index": 400
+  },
+  {
+    "key": "DP_0803_0401",
+    "original": "こおろぎポケモン",
+    "translation": "蟋蟀宝可梦",
+    "index": 401
+  },
+  {
+    "key": "DP_0803_0402",
+    "original": "こおろぎポケモン",
+    "translation": "蟋蟀宝可梦",
+    "index": 402
+  },
+  {
+    "key": "DP_0803_0403",
+    "original": "せんこうポケモン",
+    "translation": "闪光宝可梦",
+    "index": 403
+  },
+  {
+    "key": "DP_0803_0404",
+    "original": "でんこうポケモン",
+    "translation": "电光宝可梦",
+    "index": 404
+  },
+  {
+    "key": "DP_0803_0405",
+    "original": "がんこうポケモン",
+    "translation": "目光宝可梦",
+    "index": 405
+  },
+  {
+    "key": "DP_0803_0406",
+    "original": "つぼみポケモン",
+    "translation": "花苞宝可梦",
+    "index": 406
+  },
+  {
+    "key": "DP_0803_0407",
+    "original": "ブーケポケモン",
+    "translation": "花束宝可梦",
+    "index": 407
+  },
+  {
+    "key": "DP_0803_0408",
+    "original": "ずつきポケモン",
+    "translation": "头锤宝可梦",
+    "index": 408
+  },
+  {
+    "key": "DP_0803_0409",
+    "original": "ずつきポケモン",
+    "translation": "头锤宝可梦",
+    "index": 409
+  },
+  {
+    "key": "DP_0803_0410",
+    "original": "シールドポケモン",
+    "translation": "护盾宝可梦",
+    "index": 410
+  },
+  {
+    "key": "DP_0803_0411",
+    "original": "シールドポケモン",
+    "translation": "护盾宝可梦",
+    "index": 411
+  },
+  {
+    "key": "DP_0803_0412",
+    "original": "みのむしポケモン",
+    "translation": "蓑衣虫宝可梦",
+    "index": 412
+  },
+  {
+    "key": "DP_0803_0413",
+    "original": "みのむしポケモン",
+    "translation": "蓑衣虫宝可梦",
+    "index": 413
+  },
+  {
+    "key": "DP_0803_0414",
+    "original": "ミノガポケモン",
+    "translation": "蓑衣蛾宝可梦",
+    "index": 414
+  },
+  {
+    "key": "DP_0803_0415",
+    "original": "はちのこポケモン",
+    "translation": "幼蜂宝可梦",
+    "index": 415
+  },
+  {
+    "key": "DP_0803_0416",
+    "original": "はちのすポケモン",
+    "translation": "蜂巢宝可梦",
+    "index": 416
+  },
+  {
+    "key": "DP_0803_0417",
+    "original": "でんきりすポケモン",
+    "translation": "电松鼠宝可梦",
+    "index": 417
+  },
+  {
+    "key": "DP_0803_0418",
+    "original": "うみイタチポケモン",
+    "translation": "海鼬宝可梦",
+    "index": 418
+  },
+  {
+    "key": "DP_0803_0419",
+    "original": "うみイタチポケモン",
+    "translation": "海鼬宝可梦",
+    "index": 419
+  },
+  {
+    "key": "DP_0803_0420",
+    "original": "さくらんぼポケモン",
+    "translation": "樱桃宝可梦",
+    "index": 420
+  },
+  {
+    "key": "DP_0803_0421",
+    "original": "サクラポケモン",
+    "translation": "樱花宝可梦",
+    "index": 421
+  },
+  {
+    "key": "DP_0803_0422",
+    "original": "ウミウシポケモン",
+    "translation": "海兔宝可梦",
+    "index": 422
+  },
+  {
+    "key": "DP_0803_0423",
+    "original": "ウミウシポケモン",
+    "translation": "海兔宝可梦",
+    "index": 423
+  },
+  {
+    "key": "DP_0803_0424",
+    "original": "おながポケモン",
+    "translation": "长尾宝可梦",
+    "index": 424
+  },
+  {
+    "key": "DP_0803_0425",
+    "original": "ふうせんポケモン",
+    "translation": "气球宝可梦",
+    "index": 425
+  },
+  {
+    "key": "DP_0803_0426",
+    "original": "ききゅうポケモン",
+    "translation": "热气球宝可梦",
+    "index": 426
+  },
+  {
+    "key": "DP_0803_0427",
+    "original": "うさぎポケモン",
+    "translation": "兔子宝可梦",
+    "index": 427
+  },
+  {
+    "key": "DP_0803_0428",
+    "original": "うさぎポケモン",
+    "translation": "兔子宝可梦",
+    "index": 428
+  },
+  {
+    "key": "DP_0803_0429",
+    "original": "マジカルポケモン",
+    "translation": "魔法宝可梦",
+    "index": 429
+  },
+  {
+    "key": "DP_0803_0430",
+    "original": "おおボスポケモン",
+    "translation": "大头目宝可梦",
+    "index": 430
+  },
+  {
+    "key": "DP_0803_0431",
+    "original": "ねこかぶりポケモン",
+    "translation": "装乖宝可梦",
+    "index": 431
+  },
+  {
+    "key": "DP_0803_0432",
+    "original": "とらねこポケモン",
+    "translation": "虎斑猫宝可梦",
+    "index": 432
+  },
+  {
+    "key": "DP_0803_0433",
+    "original": "すずポケモン",
+    "translation": "铃铛宝可梦",
+    "index": 433
+  },
+  {
+    "key": "DP_0803_0434",
+    "original": "スカンクポケモン",
+    "translation": "臭鼬宝可梦",
+    "index": 434
+  },
+  {
+    "key": "DP_0803_0435",
+    "original": "スカンクポケモン",
+    "translation": "臭鼬宝可梦",
+    "index": 435
+  },
+  {
+    "key": "DP_0803_0436",
+    "original": "せいどうポケモン",
+    "translation": "青铜宝可梦",
+    "index": 436
+  },
+  {
+    "key": "DP_0803_0437",
+    "original": "どうたくポケモン",
+    "translation": "铜钟宝可梦",
+    "index": 437
+  },
+  {
+    "key": "DP_0803_0438",
+    "original": "ぼんさいポケモン",
+    "translation": "盆栽宝可梦",
+    "index": 438
+  },
+  {
+    "key": "DP_0803_0439",
+    "original": "マイムポケモン",
+    "translation": "默剧宝可梦",
+    "index": 439
+  },
+  {
+    "key": "DP_0803_0440",
+    "original": "ままごとポケモン",
+    "translation": "家家酒宝可梦",
+    "index": 440
+  },
+  {
+    "key": "DP_0803_0441",
+    "original": "おんぷポケモン",
+    "translation": "音符宝可梦",
+    "index": 441
+  },
+  {
+    "key": "DP_0803_0442",
+    "original": "ふういんポケモン",
+    "translation": "封印宝可梦",
+    "index": 442
+  },
+  {
+    "key": "DP_0803_0443",
+    "original": "りくザメポケモン",
+    "translation": "陆鲨宝可梦",
+    "index": 443
+  },
+  {
+    "key": "DP_0803_0444",
+    "original": "ほらあなポケモン",
+    "translation": "洞穴宝可梦",
+    "index": 444
+  },
+  {
+    "key": "DP_0803_0445",
+    "original": "マッハポケモン",
+    "translation": "音速宝可梦",
+    "index": 445
+  },
+  {
+    "key": "DP_0803_0446",
+    "original": "おおぐいポケモン",
+    "translation": "大胃王宝可梦",
+    "index": 446
+  },
+  {
+    "key": "DP_0803_0447",
+    "original": "はもんポケモン",
+    "translation": "波纹宝可梦",
+    "index": 447
+  },
+  {
+    "key": "DP_0803_0448",
+    "original": "はどうポケモン",
+    "translation": "波导宝可梦",
+    "index": 448
+  },
+  {
+    "key": "DP_0803_0449",
+    "original": "カバポケモン",
+    "translation": "河马宝可梦",
+    "index": 449
+  },
+  {
+    "key": "DP_0803_0450",
+    "original": "じゅうりょうポケモン",
+    "translation": "重量宝可梦",
+    "index": 450
+  },
+  {
+    "key": "DP_0803_0451",
+    "original": "さそりポケモン",
+    "translation": "蝎子宝可梦",
+    "index": 451
+  },
+  {
+    "key": "DP_0803_0452",
+    "original": "ばけさそりポケモン",
+    "translation": "蝎怪宝可梦",
+    "index": 452
+  },
+  {
+    "key": "DP_0803_0453",
+    "original": "どくづきポケモン",
+    "translation": "毒击宝可梦",
+    "index": 453
+  },
+  {
+    "key": "DP_0803_0454",
+    "original": "どくづきポケモン",
+    "translation": "毒击宝可梦",
+    "index": 454
+  },
+  {
+    "key": "DP_0803_0455",
+    "original": "むしとりポケモン",
+    "translation": "捕虫宝可梦",
+    "index": 455
+  },
+  {
+    "key": "DP_0803_0456",
+    "original": "はねうおポケモン",
+    "translation": "飞翅鱼宝可梦",
+    "index": 456
+  },
+  {
+    "key": "DP_0803_0457",
+    "original": "ネオンポケモン",
+    "translation": "霓虹宝可梦",
+    "index": 457
+  },
+  {
+    "key": "DP_0803_0458",
+    "original": "カイトポケモン",
+    "translation": "风筝宝可梦",
+    "index": 458
+  },
+  {
+    "key": "DP_0803_0459",
+    "original": "じゅひょうポケモン",
+    "translation": "树冰宝可梦",
+    "index": 459
+  },
+  {
+    "key": "DP_0803_0460",
+    "original": "じゅひょうポケモン",
+    "translation": "树冰宝可梦",
+    "index": 460
+  },
+  {
+    "key": "DP_0803_0461",
+    "original": "かぎづめポケモン",
+    "translation": "钩爪宝可梦",
+    "index": 461
+  },
+  {
+    "key": "DP_0803_0462",
+    "original": "じばポケモン",
+    "translation": "磁场宝可梦",
+    "index": 462
+  },
+  {
+    "key": "DP_0803_0463",
+    "original": "なめまわしポケモン",
+    "translation": "舔舔宝可梦",
+    "index": 463
+  },
+  {
+    "key": "DP_0803_0464",
+    "original": "ドリルポケモン",
+    "translation": "钻锥宝可梦",
+    "index": 464
+  },
+  {
+    "key": "DP_0803_0465",
+    "original": "ツルじょうポケモン",
+    "translation": "藤蔓状宝可梦",
+    "index": 465
+  },
+  {
+    "key": "DP_0803_0466",
+    "original": "らいでんポケモン",
+    "translation": "雷电宝可梦",
+    "index": 466
+  },
+  {
+    "key": "DP_0803_0467",
+    "original": "ばくえんポケモン",
+    "translation": "爆炎宝可梦",
+    "index": 467
+  },
+  {
+    "key": "DP_0803_0468",
+    "original": "しゅくふくポケモン",
+    "translation": "祝福宝可梦",
+    "index": 468
+  },
+  {
+    "key": "DP_0803_0469",
+    "original": "オニトンボポケモン",
+    "translation": "勾蜓宝可梦",
+    "index": 469
+  },
+  {
+    "key": "DP_0803_0470",
+    "original": "しんりょくポケモン",
+    "translation": "新绿宝可梦",
+    "index": 470
+  },
+  {
+    "key": "DP_0803_0471",
+    "original": "しんせつポケモン",
+    "translation": "新雪宝可梦",
+    "index": 471
+  },
+  {
+    "key": "DP_0803_0472",
+    "original": "キバさそりポケモン",
+    "translation": "牙蝎宝可梦",
+    "index": 472
+  },
+  {
+    "key": "DP_0803_0473",
+    "original": "２ほんキバポケモン",
+    "translation": "双牙宝可梦",
+    "index": 473
+  },
+  {
+    "key": "DP_0803_0474",
+    "original": "バーチャルポケモン",
+    "translation": "虚拟宝可梦",
+    "index": 474
+  },
+  {
+    "key": "DP_0803_0475",
+    "original": "やいばポケモン",
+    "translation": "利刃宝可梦",
+    "index": 475
+  },
+  {
+    "key": "DP_0803_0476",
+    "original": "コンパスポケモン",
+    "translation": "罗盘宝可梦",
+    "index": 476
+  },
+  {
+    "key": "DP_0803_0477",
+    "original": "てづかみポケモン",
+    "translation": "抓握宝可梦",
+    "index": 477
+  },
+  {
+    "key": "DP_0803_0478",
+    "original": "ゆきぐにポケモン",
+    "translation": "雪国宝可梦",
+    "index": 478
+  },
+  {
+    "key": "DP_0803_0479",
+    "original": "プラズマポケモン",
+    "translation": "等离子宝可梦",
+    "index": 479
+  },
+  {
+    "key": "DP_0803_0480",
+    "original": "ちしきポケモン",
+    "translation": "知识宝可梦",
+    "index": 480
+  },
+  {
+    "key": "DP_0803_0481",
+    "original": "かんじょうポケモン",
+    "translation": "感情宝可梦",
+    "index": 481
+  },
+  {
+    "key": "DP_0803_0482",
+    "original": "いしポケモン",
+    "translation": "意志宝可梦",
+    "index": 482
+  },
+  {
+    "key": "DP_0803_0483",
+    "original": "じかんポケモン",
+    "translation": "时间宝可梦",
+    "index": 483
+  },
+  {
+    "key": "DP_0803_0484",
+    "original": "くうかんポケモン",
+    "translation": "空间宝可梦",
+    "index": 484
+  },
+  {
+    "key": "DP_0803_0485",
+    "original": "かこうポケモン",
+    "translation": "火山口宝可梦",
+    "index": 485
+  },
+  {
+    "key": "DP_0803_0486",
+    "original": "きょだいポケモン",
+    "translation": "巨大宝可梦",
+    "index": 486
+  },
+  {
+    "key": "DP_0803_0487",
+    "original": "はんこつポケモン",
+    "translation": "反抗宝可梦",
+    "index": 487
+  },
+  {
+    "key": "DP_0803_0488",
+    "original": "みかづきポケモン",
+    "translation": "新月宝可梦",
+    "index": 488
+  },
+  {
+    "key": "DP_0803_0489",
+    "original": "かいようポケモン",
+    "translation": "海洋宝可梦",
+    "index": 489
+  },
+  {
+    "key": "DP_0803_0490",
+    "original": "かいゆうポケモン",
+    "translation": "回游宝可梦",
+    "index": 490
+  },
+  {
+    "key": "DP_0803_0491",
+    "original": "あんこくポケモン",
+    "translation": "暗黑宝可梦",
+    "index": 491
+  },
+  {
+    "key": "DP_0803_0492",
+    "original": "かんしゃポケモン",
+    "translation": "感谢宝可梦",
+    "index": 492
+  },
+  {
+    "key": "DP_0803_0493",
+    "original": "そうぞうポケモン",
+    "translation": "创造宝可梦",
+    "index": 493
+  }
+]

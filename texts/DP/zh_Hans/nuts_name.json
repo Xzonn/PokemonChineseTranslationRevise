@@ -1,0 +1,386 @@
+[
+  {
+    "key": "DP_0244_0000",
+    "original": "クラボ",
+    "translation": "樱子",
+    "index": 0
+  },
+  {
+    "key": "DP_0244_0001",
+    "original": "カゴ",
+    "translation": "零余",
+    "index": 1
+  },
+  {
+    "key": "DP_0244_0002",
+    "original": "モモン",
+    "translation": "桃桃",
+    "index": 2
+  },
+  {
+    "key": "DP_0244_0003",
+    "original": "チーゴ",
+    "translation": "莓莓",
+    "index": 3
+  },
+  {
+    "key": "DP_0244_0004",
+    "original": "ナナシ",
+    "translation": "利木",
+    "index": 4
+  },
+  {
+    "key": "DP_0244_0005",
+    "original": "ヒメリ",
+    "translation": "苹野",
+    "index": 5
+  },
+  {
+    "key": "DP_0244_0006",
+    "original": "オレン",
+    "translation": "橙橙",
+    "index": 6
+  },
+  {
+    "key": "DP_0244_0007",
+    "original": "キー",
+    "translation": "柿仔",
+    "index": 7
+  },
+  {
+    "key": "DP_0244_0008",
+    "original": "ラム",
+    "translation": "木子",
+    "index": 8
+  },
+  {
+    "key": "DP_0244_0009",
+    "original": "オボン",
+    "translation": "文柚",
+    "index": 9
+  },
+  {
+    "key": "DP_0244_0010",
+    "original": "フィラ",
+    "translation": "勿花",
+    "index": 10
+  },
+  {
+    "key": "DP_0244_0011",
+    "original": "ウイ",
+    "translation": "异奇",
+    "index": 11
+  },
+  {
+    "key": "DP_0244_0012",
+    "original": "マゴ",
+    "translation": "芒芒",
+    "index": 12
+  },
+  {
+    "key": "DP_0244_0013",
+    "original": "バンジ",
+    "translation": "乐芭",
+    "index": 13
+  },
+  {
+    "key": "DP_0244_0014",
+    "original": "イア",
+    "translation": "芭亚",
+    "index": 14
+  },
+  {
+    "key": "DP_0244_0015",
+    "original": "ズリ",
+    "translation": "蔓莓",
+    "index": 15
+  },
+  {
+    "key": "DP_0244_0016",
+    "original": "ブリー",
+    "translation": "墨莓",
+    "index": 16
+  },
+  {
+    "key": "DP_0244_0017",
+    "original": "ナナ",
+    "translation": "蕉香",
+    "index": 17
+  },
+  {
+    "key": "DP_0244_0018",
+    "original": "セシナ",
+    "translation": "西梨",
+    "index": 18
+  },
+  {
+    "key": "DP_0244_0019",
+    "original": "パイル",
+    "translation": "凰梨",
+    "index": 19
+  },
+  {
+    "key": "DP_0244_0020",
+    "original": "ザロク",
+    "translation": "榴石",
+    "index": 20
+  },
+  {
+    "key": "DP_0244_0021",
+    "original": "ネコブ",
+    "translation": "藻根",
+    "index": 21
+  },
+  {
+    "key": "DP_0244_0022",
+    "original": "タポル",
+    "translation": "比巴",
+    "index": 22
+  },
+  {
+    "key": "DP_0244_0023",
+    "original": "ロメ",
+    "translation": "哈密",
+    "index": 23
+  },
+  {
+    "key": "DP_0244_0024",
+    "original": "ウブ",
+    "translation": "萄葡",
+    "index": 24
+  },
+  {
+    "key": "DP_0244_0025",
+    "original": "マトマ",
+    "translation": "茄番",
+    "index": 25
+  },
+  {
+    "key": "DP_0244_0026",
+    "original": "モコシ",
+    "translation": "玉黍",
+    "index": 26
+  },
+  {
+    "key": "DP_0244_0027",
+    "original": "ゴス",
+    "translation": "岳竹",
+    "index": 27
+  },
+  {
+    "key": "DP_0244_0028",
+    "original": "ラブタ",
+    "translation": "茸丹",
+    "index": 28
+  },
+  {
+    "key": "DP_0244_0029",
+    "original": "ノメル",
+    "translation": "檬柠",
+    "index": 29
+  },
+  {
+    "key": "DP_0244_0030",
+    "original": "ノワキ",
+    "translation": "刺角",
+    "index": 30
+  },
+  {
+    "key": "DP_0244_0031",
+    "original": "シーヤ",
+    "translation": "椰木",
+    "index": 31
+  },
+  {
+    "key": "DP_0244_0032",
+    "original": "カイス",
+    "translation": "瓜西",
+    "index": 32
+  },
+  {
+    "key": "DP_0244_0033",
+    "original": "ドリ",
+    "translation": "金枕",
+    "index": 33
+  },
+  {
+    "key": "DP_0244_0034",
+    "original": "ベリブ",
+    "translation": "靛莓",
+    "index": 34
+  },
+  {
+    "key": "DP_0244_0035",
+    "original": "オッカ",
+    "translation": "巧可",
+    "index": 35
+  },
+  {
+    "key": "DP_0244_0036",
+    "original": "イトケ",
+    "translation": "千香",
+    "index": 36
+  },
+  {
+    "key": "DP_0244_0037",
+    "original": "ソクノ",
+    "translation": "烛木",
+    "index": 37
+  },
+  {
+    "key": "DP_0244_0038",
+    "original": "リンド",
+    "translation": "罗子",
+    "index": 38
+  },
+  {
+    "key": "DP_0244_0039",
+    "original": "ヤチェ",
+    "translation": "番荔",
+    "index": 39
+  },
+  {
+    "key": "DP_0244_0040",
+    "original": "ヨプ",
+    "translation": "莲蒲",
+    "index": 40
+  },
+  {
+    "key": "DP_0244_0041",
+    "original": "ビアー",
+    "translation": "通通",
+    "index": 41
+  },
+  {
+    "key": "DP_0244_0042",
+    "original": "シュカ",
+    "translation": "腰木",
+    "index": 42
+  },
+  {
+    "key": "DP_0244_0043",
+    "original": "バコウ",
+    "translation": "棱瓜",
+    "index": 43
+  },
+  {
+    "key": "DP_0244_0044",
+    "original": "ウタン",
+    "translation": "福禄",
+    "index": 44
+  },
+  {
+    "key": "DP_0244_0045",
+    "original": "タンガ",
+    "translation": "扁樱",
+    "index": 45
+  },
+  {
+    "key": "DP_0244_0046",
+    "original": "ヨロギ",
+    "translation": "草蚕",
+    "index": 46
+  },
+  {
+    "key": "DP_0244_0047",
+    "original": "カシブ",
+    "translation": "佛柑",
+    "index": 47
+  },
+  {
+    "key": "DP_0244_0048",
+    "original": "ハバン",
+    "translation": "莓榴",
+    "index": 48
+  },
+  {
+    "key": "DP_0244_0049",
+    "original": "ナモ",
+    "translation": "刺耳",
+    "index": 49
+  },
+  {
+    "key": "DP_0244_0050",
+    "original": "リリバ",
+    "translation": "霹霹",
+    "index": 50
+  },
+  {
+    "key": "DP_0244_0051",
+    "original": "ホズ",
+    "translation": "灯浆",
+    "index": 51
+  },
+  {
+    "key": "DP_0244_0052",
+    "original": "チイラ",
+    "translation": "枝荔",
+    "index": 52
+  },
+  {
+    "key": "DP_0244_0053",
+    "original": "リュガ",
+    "translation": "龙睛",
+    "index": 53
+  },
+  {
+    "key": "DP_0244_0054",
+    "original": "カムラ",
+    "translation": "沙鳞",
+    "index": 54
+  },
+  {
+    "key": "DP_0244_0055",
+    "original": "ヤタピ",
+    "translation": "龙火",
+    "index": 55
+  },
+  {
+    "key": "DP_0244_0056",
+    "original": "ズア",
+    "translation": "杏仔",
+    "index": 56
+  },
+  {
+    "key": "DP_0244_0057",
+    "original": "サン",
+    "translation": "兰萨",
+    "index": 57
+  },
+  {
+    "key": "DP_0244_0058",
+    "original": "スター",
+    "translation": "星桃",
+    "index": 58
+  },
+  {
+    "key": "DP_0244_0059",
+    "original": "ナゾ",
+    "translation": "谜芝",
+    "index": 59
+  },
+  {
+    "key": "DP_0244_0060",
+    "original": "ミクル",
+    "translation": "奇秘",
+    "index": 60
+  },
+  {
+    "key": "DP_0244_0061",
+    "original": "イバン",
+    "translation": "释陀",
+    "index": 61
+  },
+  {
+    "key": "DP_0244_0062",
+    "original": "ジャポ",
+    "translation": "嘉珍",
+    "index": 62
+  },
+  {
+    "key": "DP_0244_0063",
+    "original": "レンブ",
+    "translation": "雾莲",
+    "index": 63
+  }
+]

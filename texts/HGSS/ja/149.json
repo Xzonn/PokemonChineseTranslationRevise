@@ -1,0 +1,284 @@
+[
+  {
+    "key": "HGSS_0149_0000",
+    "original": "わざ ついか こうか かならず オフ",
+    "translation": "わざ ついか こうか かならず オフ",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0149_0001",
+    "original": "わざ ついか こうか かならず オン",
+    "translation": "わざ ついか こうか かならず オン",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0149_0002",
+    "original": "とくせい はつどう かならず オフ",
+    "translation": "とくせい はつどう かならず オフ",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0149_0003",
+    "original": "とくせい はつどう かならず オン",
+    "translation": "とくせい はつどう かならず オン",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0149_0004",
+    "original": "そうび こうか かならず オフ",
+    "translation": "そうび こうか かならず オフ",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0149_0005",
+    "original": "そうび こうか かならず オン",
+    "translation": "そうび こうか かならず オン",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0149_0006",
+    "original": "ダメージ ランダム なし オフ",
+    "translation": "ダメージ ランダム なし オフ",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0149_0007",
+    "original": "ダメージ ランダム なし オン",
+    "translation": "ダメージ ランダム なし オン",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0149_0008",
+    "original": "ポケモン いれかえ せいぎょ オフ",
+    "translation": "ポケモン いれかえ せいぎょ オフ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0149_0009",
+    "original": "ポケモン いれかえ せいぎょ オン",
+    "translation": "ポケモン いれかえ せいぎょ オン",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0149_0010",
+    "original": "おしゃべりランクこてい オフ",
+    "translation": "おしゃべりランクこてい オフ",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0149_0011",
+    "original": "おしゃべりランクこてい １",
+    "translation": "おしゃべりランクこてい １",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0149_0012",
+    "original": "おしゃべりランクこてい ２",
+    "translation": "おしゃべりランクこてい ２",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0149_0013",
+    "original": "おしゃべりランクこてい ３",
+    "translation": "おしゃべりランクこてい ３",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0149_0014",
+    "original": "きゅうしょ かならず オフ",
+    "translation": "きゅうしょ かならず オフ",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0149_0015",
+    "original": "きゅうしょ かならず オン",
+    "translation": "きゅうしょ かならず オン",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0149_0016",
+    "original": "ゆびをふる わざしてい オフ",
+    "translation": "ゆびをふる わざしてい オフ",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0149_0017",
+    "original": "ゆびをふる わざしてい セット",
+    "translation": "ゆびをふる わざしてい セット",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0149_0018",
+    "original": "ゆびをふる わざしてい はんい",
+    "translation": "ゆびをふる わざしてい はんい",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0149_0019",
+    "original": "のこり メモリ",
+    "translation": "のこり メモリ",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0149_0020",
+    "original": "→",
+    "translation": "→",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0149_0021",
+    "original": "Ａ",
+    "translation": "Ａ",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0149_0022",
+    "original": "Ｂ",
+    "translation": "Ｂ",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0149_0023",
+    "original": "Ａ",
+    "translation": "Ａ",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0149_0024",
+    "original": "Ｂ",
+    "translation": "Ｂ",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0149_0025",
+    "original": "Ｃ",
+    "translation": "Ｃ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0149_0026",
+    "original": "Ｄ",
+    "translation": "Ｄ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0149_0027",
+    "original": "こうげき",
+    "translation": "こうげき",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0149_0028",
+    "original": "ぼうぎょ",
+    "translation": "ぼうぎょ",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0149_0029",
+    "original": "すばやさ",
+    "translation": "すばやさ",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0149_0030",
+    "original": "とくこう",
+    "translation": "とくこう",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0149_0031",
+    "original": "とくぼう",
+    "translation": "とくぼう",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0149_0032",
+    "original": "めいちゅう",
+    "translation": "めいちゅう",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0149_0033",
+    "original": "かいひ",
+    "translation": "かいひ",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0149_0034",
+    "original": "コマンド",
+    "translation": "コマンド",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0149_0035",
+    "original": "たたかう",
+    "translation": "たたかう",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0149_0036",
+    "original": "バッグ",
+    "translation": "バッグ",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0149_0037",
+    "original": "ポケモン",
+    "translation": "ポケモン",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0149_0038",
+    "original": "にげる",
+    "translation": "にげる",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0149_0039",
+    "original": "わざ",
+    "translation": "わざ",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0149_0040",
+    "original": "あいて",
+    "translation": "あいて",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0149_0041",
+    "original": "アイテム",
+    "translation": "アイテム",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0149_0042",
+    "original": "ポケモン",
+    "translation": "ポケモン",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0149_0043",
+    "original": "ランダムのたね",
+    "translation": "ランダムのたね",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0149_0044",
+    "original": "きどうＡＩかくにん",
+    "translation": "きどうＡＩかくにん",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0149_0045",
+    "original": "サファリおおあたりチェック オフ",
+    "translation": "サファリおおあたりチェック オフ",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0149_0046",
+    "original": "サファリおおあたりチェック オン",
+    "translation": "サファリおおあたりチェック オン",
+    "index": 46
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "HGSS_0271_0000",
+    "original": "[0401,0000]",
+    "translation": "[0401,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0271_0001",
+    "original": "オールスター",
+    "translation": "全明星",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0271_0002",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0271_0003",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0271_0004",
+    "original": "パワー",
+    "translation": "力量",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0271_0005",
+    "original": "スタミナ",
+    "translation": "耐力",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0271_0006",
+    "original": "テクニック",
+    "translation": "技巧",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0271_0007",
+    "original": "ジャンプ",
+    "translation": "跳跃",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0271_0008",
+    "original": "スピード",
+    "translation": "速度",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0271_0009",
+    "original": "[0100,0000]で\nとったメダル",
+    "translation": "[0100,0000]\n取得奖章！",
+    "index": 9
+  }
+]

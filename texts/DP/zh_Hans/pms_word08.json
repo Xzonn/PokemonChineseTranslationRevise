@@ -1,0 +1,644 @@
+[
+  {
+    "key": "DP_0280_0000",
+    "original": "こんにちは",
+    "translation": "你好",
+    "index": 0
+  },
+  {
+    "key": "DP_0280_0001",
+    "original": "hello",
+    "translation": "hello",
+    "index": 1
+  },
+  {
+    "key": "DP_0280_0002",
+    "original": "bonjour",
+    "translation": "bonjour",
+    "index": 2
+  },
+  {
+    "key": "DP_0280_0003",
+    "original": "ciao",
+    "translation": "ciao",
+    "index": 3
+  },
+  {
+    "key": "DP_0280_0004",
+    "original": "hallo",
+    "translation": "hallo",
+    "index": 4
+  },
+  {
+    "key": "DP_0280_0005",
+    "original": "hola",
+    "translation": "hola",
+    "index": 5
+  },
+  {
+    "key": "DP_0280_0006",
+    "original": "あーあ",
+    "translation": "啊～啊",
+    "index": 6
+  },
+  {
+    "key": "DP_0280_0007",
+    "original": "あーん",
+    "translation": "啊～",
+    "index": 7
+  },
+  {
+    "key": "DP_0280_0008",
+    "original": "あはは",
+    "translation": "啊哈哈",
+    "index": 8
+  },
+  {
+    "key": "DP_0280_0009",
+    "original": "あら",
+    "translation": "啊啦",
+    "index": 9
+  },
+  {
+    "key": "DP_0280_0010",
+    "original": "ありがとう",
+    "translation": "谢谢",
+    "index": 10
+  },
+  {
+    "key": "DP_0280_0011",
+    "original": "いいよ",
+    "translation": "好啊",
+    "index": 11
+  },
+  {
+    "key": "DP_0280_0012",
+    "original": "いえ",
+    "translation": "不",
+    "index": 12
+  },
+  {
+    "key": "DP_0280_0013",
+    "original": "イエス",
+    "translation": "ｙｅｓ",
+    "index": 13
+  },
+  {
+    "key": "DP_0280_0014",
+    "original": "いくぜ",
+    "translation": "我要上了",
+    "index": 14
+  },
+  {
+    "key": "DP_0280_0015",
+    "original": "いくよ",
+    "translation": "去了",
+    "index": 15
+  },
+  {
+    "key": "DP_0280_0016",
+    "original": "いくわよ",
+    "translation": "要上了哦",
+    "index": 16
+  },
+  {
+    "key": "DP_0280_0017",
+    "original": "いやー",
+    "translation": "不要～",
+    "index": 17
+  },
+  {
+    "key": "DP_0280_0018",
+    "original": "いらっしゃい",
+    "translation": "欢迎",
+    "index": 18
+  },
+  {
+    "key": "DP_0280_0019",
+    "original": "うう",
+    "translation": "呜呜",
+    "index": 19
+  },
+  {
+    "key": "DP_0280_0020",
+    "original": "ううん",
+    "translation": "不要",
+    "index": 20
+  },
+  {
+    "key": "DP_0280_0021",
+    "original": "うーん",
+    "translation": "嗯～",
+    "index": 21
+  },
+  {
+    "key": "DP_0280_0022",
+    "original": "うおー",
+    "translation": "哦～",
+    "index": 22
+  },
+  {
+    "key": "DP_0280_0023",
+    "original": "うおりゃー",
+    "translation": "看招～",
+    "index": 23
+  },
+  {
+    "key": "DP_0280_0024",
+    "original": "うひょー",
+    "translation": "哦哦～",
+    "index": 24
+  },
+  {
+    "key": "DP_0280_0025",
+    "original": "うふふ",
+    "translation": "呵呵",
+    "index": 25
+  },
+  {
+    "key": "DP_0280_0026",
+    "original": "うふん",
+    "translation": "啊哼",
+    "index": 26
+  },
+  {
+    "key": "DP_0280_0027",
+    "original": "うわー",
+    "translation": "呜哇～",
+    "index": 27
+  },
+  {
+    "key": "DP_0280_0028",
+    "original": "うわーん",
+    "translation": "哇啊～",
+    "index": 28
+  },
+  {
+    "key": "DP_0280_0029",
+    "original": "うん",
+    "translation": "嗯",
+    "index": 29
+  },
+  {
+    "key": "DP_0280_0030",
+    "original": "ええ",
+    "translation": "诶诶",
+    "index": 30
+  },
+  {
+    "key": "DP_0280_0031",
+    "original": "えー",
+    "translation": "诶～",
+    "index": 31
+  },
+  {
+    "key": "DP_0280_0032",
+    "original": "えーん",
+    "translation": "唉～",
+    "index": 32
+  },
+  {
+    "key": "DP_0280_0033",
+    "original": "えへへ",
+    "translation": "诶嘿嘿",
+    "index": 33
+  },
+  {
+    "key": "DP_0280_0034",
+    "original": "おい",
+    "translation": "喂",
+    "index": 34
+  },
+  {
+    "key": "DP_0280_0035",
+    "original": "おお",
+    "translation": "哦哦",
+    "index": 35
+  },
+  {
+    "key": "DP_0280_0036",
+    "original": "オー",
+    "translation": "呜哦～",
+    "index": 36
+  },
+  {
+    "key": "DP_0280_0037",
+    "original": "おーい",
+    "translation": "喂～",
+    "index": 37
+  },
+  {
+    "key": "DP_0280_0038",
+    "original": "おっす",
+    "translation": "哟！",
+    "index": 38
+  },
+  {
+    "key": "DP_0280_0039",
+    "original": "おっと",
+    "translation": "啊啊",
+    "index": 39
+  },
+  {
+    "key": "DP_0280_0040",
+    "original": "おめでとう",
+    "translation": "祝贺你",
+    "index": 40
+  },
+  {
+    "key": "DP_0280_0041",
+    "original": "がーん",
+    "translation": "呜哇",
+    "index": 41
+  },
+  {
+    "key": "DP_0280_0042",
+    "original": "キャー",
+    "translation": "呀～",
+    "index": 42
+  },
+  {
+    "key": "DP_0280_0043",
+    "original": "ギャー",
+    "translation": "哟～",
+    "index": 43
+  },
+  {
+    "key": "DP_0280_0044",
+    "original": "クスクス",
+    "translation": "嘻",
+    "index": 44
+  },
+  {
+    "key": "DP_0280_0045",
+    "original": "ください",
+    "translation": "拿来",
+    "index": 45
+  },
+  {
+    "key": "DP_0280_0046",
+    "original": "ぐふふ",
+    "translation": "哦呵呵",
+    "index": 46
+  },
+  {
+    "key": "DP_0280_0047",
+    "original": "げっ",
+    "translation": "呃",
+    "index": 47
+  },
+  {
+    "key": "DP_0280_0048",
+    "original": "ゴメン",
+    "translation": "抱歉",
+    "index": 48
+  },
+  {
+    "key": "DP_0280_0049",
+    "original": "ごめんなさい",
+    "translation": "对不起～",
+    "index": 49
+  },
+  {
+    "key": "DP_0280_0050",
+    "original": "ごめんね",
+    "translation": "抱歉啊",
+    "index": 50
+  },
+  {
+    "key": "DP_0280_0051",
+    "original": "こらっ",
+    "translation": "喂！",
+    "index": 51
+  },
+  {
+    "key": "DP_0280_0052",
+    "original": "さようなら",
+    "translation": "再见",
+    "index": 52
+  },
+  {
+    "key": "DP_0280_0053",
+    "original": "サンキュー",
+    "translation": "谢了～",
+    "index": 53
+  },
+  {
+    "key": "DP_0280_0054",
+    "original": "さんじょう",
+    "translation": "参上",
+    "index": 54
+  },
+  {
+    "key": "DP_0280_0055",
+    "original": "しくしく",
+    "translation": "呜呜呜",
+    "index": 55
+  },
+  {
+    "key": "DP_0280_0056",
+    "original": "しっけい",
+    "translation": "失敬",
+    "index": 56
+  },
+  {
+    "key": "DP_0280_0057",
+    "original": "しつれい",
+    "translation": "失礼",
+    "index": 57
+  },
+  {
+    "key": "DP_0280_0058",
+    "original": "じゃーね",
+    "translation": "拜了",
+    "index": 58
+  },
+  {
+    "key": "DP_0280_0059",
+    "original": "すみません",
+    "translation": "对不起",
+    "index": 59
+  },
+  {
+    "key": "DP_0280_0060",
+    "original": "それじゃ",
+    "translation": "那么",
+    "index": 60
+  },
+  {
+    "key": "DP_0280_0061",
+    "original": "ちぇっ",
+    "translation": "却",
+    "index": 61
+  },
+  {
+    "key": "DP_0280_0062",
+    "original": "てへ",
+    "translation": "诶嘿",
+    "index": 62
+  },
+  {
+    "key": "DP_0280_0063",
+    "original": "どうぞ",
+    "translation": "请",
+    "index": 63
+  },
+  {
+    "key": "DP_0280_0064",
+    "original": "どうも",
+    "translation": "多谢",
+    "index": 64
+  },
+  {
+    "key": "DP_0280_0065",
+    "original": "なあ",
+    "translation": "哪",
+    "index": 65
+  },
+  {
+    "key": "DP_0280_0066",
+    "original": "なんじゃ",
+    "translation": "啥啊",
+    "index": 66
+  },
+  {
+    "key": "DP_0280_0067",
+    "original": "ねえ",
+    "translation": "那个",
+    "index": 67
+  },
+  {
+    "key": "DP_0280_0068",
+    "original": "ノー",
+    "translation": "不～",
+    "index": 68
+  },
+  {
+    "key": "DP_0280_0069",
+    "original": "はぁー",
+    "translation": "哎～",
+    "index": 69
+  },
+  {
+    "key": "DP_0280_0070",
+    "original": "ハーイ",
+    "translation": "是啊",
+    "index": 70
+  },
+  {
+    "key": "DP_0280_0071",
+    "original": "はい",
+    "translation": "是",
+    "index": 71
+  },
+  {
+    "key": "DP_0280_0072",
+    "original": "はいはい",
+    "translation": "是是",
+    "index": 72
+  },
+  {
+    "key": "DP_0280_0073",
+    "original": "バイバイ",
+    "translation": "拜拜",
+    "index": 73
+  },
+  {
+    "key": "DP_0280_0074",
+    "original": "はじめまして",
+    "translation": "初次见面",
+    "index": 74
+  },
+  {
+    "key": "DP_0280_0075",
+    "original": "はっはっは",
+    "translation": "哈哈哈",
+    "index": 75
+  },
+  {
+    "key": "DP_0280_0076",
+    "original": "ひいー",
+    "translation": "哇～",
+    "index": 76
+  },
+  {
+    "key": "DP_0280_0077",
+    "original": "ひゃあ",
+    "translation": "呀啊",
+    "index": 77
+  },
+  {
+    "key": "DP_0280_0078",
+    "original": "ふっふっふ",
+    "translation": "嘻嘻嘻",
+    "index": 78
+  },
+  {
+    "key": "DP_0280_0079",
+    "original": "ププ",
+    "translation": "噗噗",
+    "index": 79
+  },
+  {
+    "key": "DP_0280_0080",
+    "original": "ふふん",
+    "translation": "嘻嘻",
+    "index": 80
+  },
+  {
+    "key": "DP_0280_0081",
+    "original": "ふん",
+    "translation": "哦",
+    "index": 81
+  },
+  {
+    "key": "DP_0280_0082",
+    "original": "ヘイ",
+    "translation": "是的",
+    "index": 82
+  },
+  {
+    "key": "DP_0280_0083",
+    "original": "へっへっへ",
+    "translation": "嘿嘿嘿嘿",
+    "index": 83
+  },
+  {
+    "key": "DP_0280_0084",
+    "original": "へへ",
+    "translation": "嘿嘿",
+    "index": 84
+  },
+  {
+    "key": "DP_0280_0085",
+    "original": "ほほほ",
+    "translation": "呵呵呵",
+    "index": 85
+  },
+  {
+    "key": "DP_0280_0086",
+    "original": "ほら",
+    "translation": "你看",
+    "index": 86
+  },
+  {
+    "key": "DP_0280_0087",
+    "original": "まあ",
+    "translation": "嘛",
+    "index": 87
+  },
+  {
+    "key": "DP_0280_0088",
+    "original": "またね",
+    "translation": "回见",
+    "index": 88
+  },
+  {
+    "key": "DP_0280_0089",
+    "original": "むきー",
+    "translation": "啊啊～",
+    "index": 89
+  },
+  {
+    "key": "DP_0280_0090",
+    "original": "むふふ",
+    "translation": "嗯呵呵",
+    "index": 90
+  },
+  {
+    "key": "DP_0280_0091",
+    "original": "むむ",
+    "translation": "唔唔",
+    "index": 91
+  },
+  {
+    "key": "DP_0280_0092",
+    "original": "もしもし",
+    "translation": "喂？",
+    "index": 92
+  },
+  {
+    "key": "DP_0280_0093",
+    "original": "やあ",
+    "translation": "呀",
+    "index": 93
+  },
+  {
+    "key": "DP_0280_0094",
+    "original": "やだよ",
+    "translation": "我不干",
+    "index": 94
+  },
+  {
+    "key": "DP_0280_0095",
+    "original": "やっほー",
+    "translation": "呀呼～",
+    "index": 95
+  },
+  {
+    "key": "DP_0280_0096",
+    "original": "よう",
+    "translation": "哟",
+    "index": 96
+  },
+  {
+    "key": "DP_0280_0097",
+    "original": "ようこそ",
+    "translation": "欢迎光临",
+    "index": 97
+  },
+  {
+    "key": "DP_0280_0098",
+    "original": "よし",
+    "translation": "好",
+    "index": 98
+  },
+  {
+    "key": "DP_0280_0099",
+    "original": "よろしく",
+    "translation": "请多指教",
+    "index": 99
+  },
+  {
+    "key": "DP_0280_0100",
+    "original": "ラララ",
+    "translation": "啦啦啦",
+    "index": 100
+  },
+  {
+    "key": "DP_0280_0101",
+    "original": "わーい",
+    "translation": "万岁",
+    "index": 101
+  },
+  {
+    "key": "DP_0280_0102",
+    "original": "わーん",
+    "translation": "哇啊",
+    "index": 102
+  },
+  {
+    "key": "DP_0280_0103",
+    "original": "ワオ",
+    "translation": "呜哦",
+    "index": 103
+  },
+  {
+    "key": "DP_0280_0104",
+    "original": "わっ",
+    "translation": "哇",
+    "index": 104
+  },
+  {
+    "key": "DP_0280_0105",
+    "original": "わははは",
+    "translation": "哇哈哈哈",
+    "index": 105
+  },
+  {
+    "key": "DP_0280_0106",
+    "original": "⋯⋯",
+    "translation": "……",
+    "index": 106
+  }
+]

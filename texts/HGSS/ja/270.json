@@ -1,0 +1,200 @@
+[
+  {
+    "key": "HGSS_0270_0000",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0270_0001",
+    "original": "",
+    "translation": "",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0270_0002",
+    "original": "[0134,0000]:[0133,0001]",
+    "translation": "[0134,0000]:[0133,0001]",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0270_0003",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0270_0004",
+    "original": "ポケスロン さんかかいすう",
+    "translation": "ポケスロン さんかかいすう",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0270_0005",
+    "original": "ポケスロン １い かいすう",
+    "translation": "ポケスロン １い かいすう",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0270_0006",
+    "original": "ポケスロン ビリ かいすう",
+    "translation": "ポケスロン ビリ かいすう",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0270_0007",
+    "original": "ボーナス かくとくかいすう",
+    "translation": "ボーナス かくとくかいすう",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0270_0008",
+    "original": "きょうぎ １い かいすう",
+    "translation": "きょうぎ １い かいすう",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0270_0009",
+    "original": "きょうぎ ビリ かいすう",
+    "translation": "きょうぎ ビリ かいすう",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0270_0010",
+    "original": "つうしん さんかかいすう",
+    "translation": "つうしん さんかかいすう",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0270_0011",
+    "original": "つうしん １い かいすう",
+    "translation": "つうしん １い かいすう",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0270_0012",
+    "original": "つうしん ビリ かいすう",
+    "translation": "つうしん ビリ かいすう",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0270_0013",
+    "original": "ポケスロン さんかじかん",
+    "translation": "ポケスロン さんかじかん",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0270_0014",
+    "original": "ハードル １い かいすう",
+    "translation": "ハードル １い かいすう",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0270_0015",
+    "original": "フラッグ １い かいすう",
+    "translation": "フラッグ １い かいすう",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0270_0016",
+    "original": "サークル １い かいすう",
+    "translation": "サークル １い かいすう",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0270_0017",
+    "original": "ブロック １い かいすう",
+    "translation": "ブロック １い かいすう",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0270_0018",
+    "original": "ソーサー １い かいすう",
+    "translation": "ソーサー １い かいすう",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0270_0019",
+    "original": "フィールド １い かいすう",
+    "translation": "フィールド １い かいすう",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0270_0020",
+    "original": "リレー １い かいすう",
+    "translation": "リレー １い かいすう",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0270_0021",
+    "original": "ファイト １い かいすう",
+    "translation": "ファイト １い かいすう",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0270_0022",
+    "original": "スノー １い かいすう",
+    "translation": "スノー １い かいすう",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0270_0023",
+    "original": "ゴール １い かいすう",
+    "translation": "ゴール １い かいすう",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0270_0024",
+    "original": "ポケモン タッチかいすう",
+    "translation": "ポケモン タッチかいすう",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0270_0025",
+    "original": "ポケモン ダッシュかいすう",
+    "translation": "ポケモン ダッシュかいすう",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0270_0026",
+    "original": "ポケモン ジャンプかいすう",
+    "translation": "ポケモン ジャンプかいすう",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0270_0027",
+    "original": "ポケモン たいあたりかいすう",
+    "translation": "ポケモン たいあたりかいすう",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0270_0028",
+    "original": "ポケモン こうたいかいすう",
+    "translation": "ポケモン こうたいかいすう",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0270_0029",
+    "original": "ポケモン じめつかいすう",
+    "translation": "ポケモン じめつかいすう",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0270_0030",
+    "original": "ポケモン かくとくポイント",
+    "translation": "ポケモン かくとくポイント",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0270_0031",
+    "original": "ポケモン しっぱいかいすう",
+    "translation": "ポケモン しっぱいかいすう",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0270_0032",
+    "original": "ポケモン おちたかいすう",
+    "translation": "ポケモン おちたかいすう",
+    "index": 32
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "key": "DP_0436_0000",
+    "original": "たいりょく",
+    "translation": "ＨＰ",
+    "index": 0
+  },
+  {
+    "key": "DP_0436_0001",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 1
+  },
+  {
+    "key": "DP_0436_0002",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 2
+  },
+  {
+    "key": "DP_0436_0003",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 3
+  },
+  {
+    "key": "DP_0436_0004",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 4
+  },
+  {
+    "key": "DP_0436_0005",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 5
+  },
+  {
+    "key": "DP_0436_0006",
+    "original": "めいちゅうりつ",
+    "translation": "命中率",
+    "index": 6
+  },
+  {
+    "key": "DP_0436_0007",
+    "original": "かいひりつ",
+    "translation": "回避率",
+    "index": 7
+  },
+  {
+    "key": "DP_0436_0008",
+    "original": "さいだいＨＰ",
+    "translation": "最大ＨＰ",
+    "index": 8
+  }
+]

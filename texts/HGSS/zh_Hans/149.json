@@ -1,0 +1,284 @@
+[
+  {
+    "key": "HGSS_0149_0000",
+    "original": "わざ ついか こうか かならず オフ",
+    "translation": "招式追加效果一定　关",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0149_0001",
+    "original": "わざ ついか こうか かならず オン",
+    "translation": "招式追加效果一定　开",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0149_0002",
+    "original": "とくせい はつどう かならず オフ",
+    "translation": "特性发动一定　关",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0149_0003",
+    "original": "とくせい はつどう かならず オン",
+    "translation": "特性发动一定　开",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0149_0004",
+    "original": "そうび こうか かならず オフ",
+    "translation": "装备效果一定　关",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0149_0005",
+    "original": "そうび こうか かならず オン",
+    "translation": "装备效果一定　开",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0149_0006",
+    "original": "ダメージ ランダム なし オフ",
+    "translation": "伤害随机无　关",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0149_0007",
+    "original": "ダメージ ランダム なし オン",
+    "translation": "伤害随机无　开",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0149_0008",
+    "original": "ポケモン いれかえ せいぎょ オフ",
+    "translation": "宝可梦替换制御　关",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0149_0009",
+    "original": "ポケモン いれかえ せいぎょ オン",
+    "translation": "宝可梦替换制御　开",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0149_0010",
+    "original": "おしゃべりランクこてい オフ",
+    "translation": "聊天顺序固定　关",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0149_0011",
+    "original": "おしゃべりランクこてい １",
+    "translation": "聊天顺序固定　１",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0149_0012",
+    "original": "おしゃべりランクこてい ２",
+    "translation": "聊天顺序固定　２",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0149_0013",
+    "original": "おしゃべりランクこてい ３",
+    "translation": "聊天顺序固定　３",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0149_0014",
+    "original": "きゅうしょ かならず オフ",
+    "translation": "要害一定　关",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0149_0015",
+    "original": "きゅうしょ かならず オン",
+    "translation": "要害一定　开",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0149_0016",
+    "original": "ゆびをふる わざしてい オフ",
+    "translation": "摇指招式指定　关闭",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0149_0017",
+    "original": "ゆびをふる わざしてい セット",
+    "translation": "摇指招式指定　设置",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0149_0018",
+    "original": "ゆびをふる わざしてい はんい",
+    "translation": "摇指招式指定　范围",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0149_0019",
+    "original": "のこり メモリ",
+    "translation": "剩余记忆",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0149_0020",
+    "original": "→",
+    "translation": "→",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0149_0021",
+    "original": "Ａ",
+    "translation": "Ａ",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0149_0022",
+    "original": "Ｂ",
+    "translation": "Ｂ",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0149_0023",
+    "original": "Ａ",
+    "translation": "Ａ",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0149_0024",
+    "original": "Ｂ",
+    "translation": "Ｂ",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0149_0025",
+    "original": "Ｃ",
+    "translation": "Ｃ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0149_0026",
+    "original": "Ｄ",
+    "translation": "Ｄ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0149_0027",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0149_0028",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0149_0029",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0149_0030",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0149_0031",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0149_0032",
+    "original": "めいちゅう",
+    "translation": "命中",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0149_0033",
+    "original": "かいひ",
+    "translation": "闪避",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0149_0034",
+    "original": "コマンド",
+    "translation": "指令",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0149_0035",
+    "original": "たたかう",
+    "translation": "战斗",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0149_0036",
+    "original": "バッグ",
+    "translation": "包包",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0149_0037",
+    "original": "ポケモン",
+    "translation": "宝可梦",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0149_0038",
+    "original": "にげる",
+    "translation": "逃走",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0149_0039",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0149_0040",
+    "original": "あいて",
+    "translation": "对手",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0149_0041",
+    "original": "アイテム",
+    "translation": "物品",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0149_0042",
+    "original": "ポケモン",
+    "translation": "宝可梦",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0149_0043",
+    "original": "ランダムのたね",
+    "translation": "随机的种子",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0149_0044",
+    "original": "きどうＡＩかくにん",
+    "translation": "启动ＡＩ确认",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0149_0045",
+    "original": "サファリおおあたりチェック オフ",
+    "translation": "狩猎大收获检查　关",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0149_0046",
+    "original": "サファリおおあたりチェック オン",
+    "translation": "狩猎大收获检查　开",
+    "index": 46
+  }
+]

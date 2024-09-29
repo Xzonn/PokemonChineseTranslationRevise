@@ -1,0 +1,482 @@
+[
+  {
+    "key": "DP_0013_0000",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 0
+  },
+  {
+    "key": "DP_0013_0001",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 1
+  },
+  {
+    "key": "DP_0013_0002",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 2
+  },
+  {
+    "key": "DP_0013_0003",
+    "original": "せいかく",
+    "translation": "せいかく",
+    "index": 3
+  },
+  {
+    "key": "DP_0013_0004",
+    "original": "とくせい",
+    "translation": "とくせい",
+    "index": 4
+  },
+  {
+    "key": "DP_0013_0005",
+    "original": "[010B,0000]",
+    "translation": "[010B,0000]",
+    "index": 5
+  },
+  {
+    "key": "DP_0013_0006",
+    "original": "ボックス１",
+    "translation": "ボックス１",
+    "index": 6
+  },
+  {
+    "key": "DP_0013_0007",
+    "original": "ボックス２",
+    "translation": "ボックス２",
+    "index": 7
+  },
+  {
+    "key": "DP_0013_0008",
+    "original": "ボックス３",
+    "translation": "ボックス３",
+    "index": 8
+  },
+  {
+    "key": "DP_0013_0009",
+    "original": "ボックス４",
+    "translation": "ボックス４",
+    "index": 9
+  },
+  {
+    "key": "DP_0013_0010",
+    "original": "ボックス５",
+    "translation": "ボックス５",
+    "index": 10
+  },
+  {
+    "key": "DP_0013_0011",
+    "original": "ボックス６",
+    "translation": "ボックス６",
+    "index": 11
+  },
+  {
+    "key": "DP_0013_0012",
+    "original": "ボックス７",
+    "translation": "ボックス７",
+    "index": 12
+  },
+  {
+    "key": "DP_0013_0013",
+    "original": "ボックス８",
+    "translation": "ボックス８",
+    "index": 13
+  },
+  {
+    "key": "DP_0013_0014",
+    "original": "ボックス９",
+    "translation": "ボックス９",
+    "index": 14
+  },
+  {
+    "key": "DP_0013_0015",
+    "original": "ボックス１０",
+    "translation": "ボックス１０",
+    "index": 15
+  },
+  {
+    "key": "DP_0013_0016",
+    "original": "ボックス１１",
+    "translation": "ボックス１１",
+    "index": 16
+  },
+  {
+    "key": "DP_0013_0017",
+    "original": "ボックス１２",
+    "translation": "ボックス１２",
+    "index": 17
+  },
+  {
+    "key": "DP_0013_0018",
+    "original": "ボックス１３",
+    "translation": "ボックス１３",
+    "index": 18
+  },
+  {
+    "key": "DP_0013_0019",
+    "original": "ボックス１４",
+    "translation": "ボックス１４",
+    "index": 19
+  },
+  {
+    "key": "DP_0013_0020",
+    "original": "ボックス１５",
+    "translation": "ボックス１５",
+    "index": 20
+  },
+  {
+    "key": "DP_0013_0021",
+    "original": "ボックス１６",
+    "translation": "ボックス１６",
+    "index": 21
+  },
+  {
+    "key": "DP_0013_0022",
+    "original": "ボックス１７",
+    "translation": "ボックス１７",
+    "index": 22
+  },
+  {
+    "key": "DP_0013_0023",
+    "original": "ボックス１８",
+    "translation": "ボックス１８",
+    "index": 23
+  },
+  {
+    "key": "DP_0013_0024",
+    "original": "ジャンプ",
+    "translation": "ジャンプ",
+    "index": 24
+  },
+  {
+    "key": "DP_0013_0025",
+    "original": "かべがみ",
+    "translation": "かべがみ",
+    "index": 25
+  },
+  {
+    "key": "DP_0013_0026",
+    "original": "なまえ",
+    "translation": "なまえ",
+    "index": 26
+  },
+  {
+    "key": "DP_0013_0027",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 27
+  },
+  {
+    "key": "DP_0013_0028",
+    "original": "ふうけい１",
+    "translation": "ふうけい１",
+    "index": 28
+  },
+  {
+    "key": "DP_0013_0029",
+    "original": "ふうけい２",
+    "translation": "ふうけい２",
+    "index": 29
+  },
+  {
+    "key": "DP_0013_0030",
+    "original": "ふうけい３",
+    "translation": "ふうけい３",
+    "index": 30
+  },
+  {
+    "key": "DP_0013_0031",
+    "original": "エトセトラ",
+    "translation": "エトセトラ",
+    "index": 31
+  },
+  {
+    "key": "DP_0013_0032",
+    "original": "だいすき１",
+    "translation": "だいすき１",
+    "index": 32
+  },
+  {
+    "key": "DP_0013_0033",
+    "original": "だいすき２",
+    "translation": "だいすき２",
+    "index": 33
+  },
+  {
+    "key": "DP_0013_0034",
+    "original": "もり",
+    "translation": "もり",
+    "index": 34
+  },
+  {
+    "key": "DP_0013_0035",
+    "original": "シティ",
+    "translation": "シティ",
+    "index": 35
+  },
+  {
+    "key": "DP_0013_0036",
+    "original": "さばく",
+    "translation": "さばく",
+    "index": 36
+  },
+  {
+    "key": "DP_0013_0037",
+    "original": "サバンナ",
+    "translation": "サバンナ",
+    "index": 37
+  },
+  {
+    "key": "DP_0013_0038",
+    "original": "いわやま",
+    "translation": "いわやま",
+    "index": 38
+  },
+  {
+    "key": "DP_0013_0039",
+    "original": "かざん",
+    "translation": "かざん",
+    "index": 39
+  },
+  {
+    "key": "DP_0013_0040",
+    "original": "ゆきやま",
+    "translation": "ゆきやま",
+    "index": 40
+  },
+  {
+    "key": "DP_0013_0041",
+    "original": "どうくつ",
+    "translation": "どうくつ",
+    "index": 41
+  },
+  {
+    "key": "DP_0013_0042",
+    "original": "うみべ",
+    "translation": "うみべ",
+    "index": 42
+  },
+  {
+    "key": "DP_0013_0043",
+    "original": "かいてい",
+    "translation": "かいてい",
+    "index": 43
+  },
+  {
+    "key": "DP_0013_0044",
+    "original": "かわ",
+    "translation": "かわ",
+    "index": 44
+  },
+  {
+    "key": "DP_0013_0045",
+    "original": "そら",
+    "translation": "そら",
+    "index": 45
+  },
+  {
+    "key": "DP_0013_0046",
+    "original": "ポケセン",
+    "translation": "ポケセン",
+    "index": 46
+  },
+  {
+    "key": "DP_0013_0047",
+    "original": "きんぞく",
+    "translation": "きんぞく",
+    "index": 47
+  },
+  {
+    "key": "DP_0013_0048",
+    "original": "チェック",
+    "translation": "チェック",
+    "index": 48
+  },
+  {
+    "key": "DP_0013_0049",
+    "original": "シンプル",
+    "translation": "シンプル",
+    "index": 49
+  },
+  {
+    "key": "DP_0013_0050",
+    "original": "うちゅう",
+    "translation": "うちゅう",
+    "index": 50
+  },
+  {
+    "key": "DP_0013_0051",
+    "original": "うらにわ",
+    "translation": "うらにわ",
+    "index": 51
+  },
+  {
+    "key": "DP_0013_0052",
+    "original": "なつかしい",
+    "translation": "なつかしい",
+    "index": 52
+  },
+  {
+    "key": "DP_0013_0053",
+    "original": "アチャモ",
+    "translation": "アチャモ",
+    "index": 53
+  },
+  {
+    "key": "DP_0013_0054",
+    "original": "さんびき",
+    "translation": "さんびき",
+    "index": 54
+  },
+  {
+    "key": "DP_0013_0055",
+    "original": "ピカピカ",
+    "translation": "ピカピカ",
+    "index": 55
+  },
+  {
+    "key": "DP_0013_0056",
+    "original": "でんせつ",
+    "translation": "でんせつ",
+    "index": 56
+  },
+  {
+    "key": "DP_0013_0057",
+    "original": "ギンガだん",
+    "translation": "ギンガだん",
+    "index": 57
+  },
+  {
+    "key": "DP_0013_0058",
+    "original": "つかむ",
+    "translation": "つかむ",
+    "index": 58
+  },
+  {
+    "key": "DP_0013_0059",
+    "original": "ここにおく",
+    "translation": "ここにおく",
+    "index": 59
+  },
+  {
+    "key": "DP_0013_0060",
+    "original": "いれかえる",
+    "translation": "いれかえる",
+    "index": 60
+  },
+  {
+    "key": "DP_0013_0061",
+    "original": "ようすをみる",
+    "translation": "ようすをみる",
+    "index": 61
+  },
+  {
+    "key": "DP_0013_0062",
+    "original": "つれていく",
+    "translation": "つれていく",
+    "index": 62
+  },
+  {
+    "key": "DP_0013_0063",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 63
+  },
+  {
+    "key": "DP_0013_0064",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 64
+  },
+  {
+    "key": "DP_0013_0065",
+    "original": "マーキング",
+    "translation": "マーキング",
+    "index": 65
+  },
+  {
+    "key": "DP_0013_0066",
+    "original": "にがす",
+    "translation": "にがす",
+    "index": 66
+  },
+  {
+    "key": "DP_0013_0067",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 67
+  },
+  {
+    "key": "DP_0013_0068",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 68
+  },
+  {
+    "key": "DP_0013_0069",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 69
+  },
+  {
+    "key": "DP_0013_0070",
+    "original": "もたせる",
+    "translation": "もたせる",
+    "index": 70
+  },
+  {
+    "key": "DP_0013_0071",
+    "original": "あずかる",
+    "translation": "あずかる",
+    "index": 71
+  },
+  {
+    "key": "DP_0013_0072",
+    "original": "せつめい",
+    "translation": "せつめい",
+    "index": 72
+  },
+  {
+    "key": "DP_0013_0073",
+    "original": "とりかえる",
+    "translation": "とりかえる",
+    "index": 73
+  },
+  {
+    "key": "DP_0013_0074",
+    "original": "バッグへ",
+    "translation": "バッグへ",
+    "index": 74
+  },
+  {
+    "key": "DP_0013_0075",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 75
+  },
+  {
+    "key": "DP_0013_0076",
+    "original": "ひだりにこてい",
+    "translation": "ひだりにこてい",
+    "index": 76
+  },
+  {
+    "key": "DP_0013_0077",
+    "original": "みぎにこてい",
+    "translation": "みぎにこてい",
+    "index": 77
+  },
+  {
+    "key": "DP_0013_0078",
+    "original": "はい",
+    "translation": "はい",
+    "index": 78
+  },
+  {
+    "key": "DP_0013_0079",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 79
+  }
+]

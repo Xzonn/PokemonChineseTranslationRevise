@@ -1,0 +1,560 @@
+[
+  {
+    "key": "PT_0198_0000",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 0
+  },
+  {
+    "key": "PT_0198_0001",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 1
+  },
+  {
+    "key": "PT_0198_0002",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 2
+  },
+  {
+    "key": "PT_0198_0003",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 3
+  },
+  {
+    "key": "PT_0198_0004",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 4
+  },
+  {
+    "key": "PT_0198_0005",
+    "original": "ポケモンを\nえらんで ください",
+    "translation": "请选择宝可梦。",
+    "index": 5
+  },
+  {
+    "key": "PT_0198_0006",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 6
+  },
+  {
+    "key": "PT_0198_0007",
+    "original": "おともだちを まっています！",
+    "translation": "朋友在等着你！",
+    "index": 7
+  },
+  {
+    "key": "PT_0198_0008",
+    "original": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "translation": "[0103,0000]\n选择了“返回”！",
+    "index": 8
+  },
+  {
+    "key": "PT_0198_0009",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 9
+  },
+  {
+    "key": "PT_0198_0010",
+    "original": "レンタル",
+    "translation": "租借",
+    "index": 10
+  },
+  {
+    "key": "PT_0198_0011",
+    "original": "つよさ",
+    "translation": "能力",
+    "index": 11
+  },
+  {
+    "key": "PT_0198_0012",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 12
+  },
+  {
+    "key": "PT_0198_0013",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 13
+  },
+  {
+    "key": "PT_0198_0014",
+    "original": "ＨＰや ＰＰを\nかいふく できます",
+    "translation": "能够回复\nＨＰ和ＰＰ",
+    "index": 14
+  },
+  {
+    "key": "PT_0198_0015",
+    "original": "きのみや どうぐを\nかりることが できます",
+    "translation": "能够借用\n树果和道具",
+    "index": 15
+  },
+  {
+    "key": "PT_0198_0016",
+    "original": "とくせいや せいかくを\nみることが できます",
+    "translation": "能够查看\n特性和性格",
+    "index": 16
+  },
+  {
+    "key": "PT_0198_0017",
+    "original": "「わざ」と ＰＰを\nみることが できます",
+    "translation": "能够查看\n“招式”和ＰＰ",
+    "index": 17
+  },
+  {
+    "key": "PT_0198_0018",
+    "original": "ポケモンを えらぶに\nもどります",
+    "translation": "返回至选择宝可梦",
+    "index": 18
+  },
+  {
+    "key": "PT_0198_0019",
+    "original": "ＨＰかいふく",
+    "translation": "ＨＰ回复",
+    "index": 19
+  },
+  {
+    "key": "PT_0198_0020",
+    "original": "ＰＰかいふく",
+    "translation": "ＰＰ回复",
+    "index": 20
+  },
+  {
+    "key": "PT_0198_0021",
+    "original": "すべてかいふく",
+    "translation": "全部回复",
+    "index": 21
+  },
+  {
+    "key": "PT_0198_0022",
+    "original": "ランクアップ",
+    "translation": "级别提升",
+    "index": 22
+  },
+  {
+    "key": "PT_0198_0023",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 23
+  },
+  {
+    "key": "PT_0198_0024",
+    "original": "どれを つかいますか？",
+    "translation": "要使用哪个？",
+    "index": 24
+  },
+  {
+    "key": "PT_0198_0025",
+    "original": "ランクアップで ＰＰを\nかいふく できるように なります",
+    "translation": "因为级别提升ＰＰ能够回复了。",
+    "index": 25
+  },
+  {
+    "key": "PT_0198_0026",
+    "original": "ランクアップで ＨＰと ＰＰが\nどうじに かいふくかのうと なります",
+    "translation": "因为级别提升ＨＰ和ＰＰ都回复了",
+    "index": 26
+  },
+  {
+    "key": "PT_0198_0027",
+    "original": "これ いじょう\nランクは あがりません",
+    "translation": "级别已无法再提升了。",
+    "index": 27
+  },
+  {
+    "key": "PT_0198_0028",
+    "original": "なにを するか\nえらぶに もどります",
+    "translation": "请选择要做什么。",
+    "index": 28
+  },
+  {
+    "key": "PT_0198_0029",
+    "original": "[0108,0000]は [0133,0001]ＣＰ です！\nよろしい ですか？",
+    "translation": "[0108,0000]需要[0133,0001]ＣＰ！\n确定吗？",
+    "index": 29
+  },
+  {
+    "key": "PT_0198_0030",
+    "original": "はい",
+    "translation": "是",
+    "index": 30
+  },
+  {
+    "key": "PT_0198_0031",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 31
+  },
+  {
+    "key": "PT_0198_0032",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰ不足！",
+    "index": 32
+  },
+  {
+    "key": "PT_0198_0033",
+    "original": "かいふくの ランクが ひくいので\nＣＰを つかうことが できません",
+    "translation": "回复的级别过低，\n无法使用ＣＰ。",
+    "index": 33
+  },
+  {
+    "key": "PT_0198_0034",
+    "original": "[0100,0000]の\nＨＰを かいふく します！",
+    "translation": "回复[0100,0000]的\nＨＰ！",
+    "index": 34
+  },
+  {
+    "key": "PT_0198_0035",
+    "original": "[0100,0000]の\nＰＰを かいふく します！",
+    "translation": "回复[0100,0000]的\nＰＰ！",
+    "index": 35
+  },
+  {
+    "key": "PT_0198_0036",
+    "original": "[0100,0000]の ＨＰと ＰＰを\nかいふく します！",
+    "translation": "回复[0100,0000]的\nＨＰ和ＰＰ！",
+    "index": 36
+  },
+  {
+    "key": "PT_0198_0037",
+    "original": "つかっても こうかが ありません",
+    "translation": "即使使用也没有效果。",
+    "index": 37
+  },
+  {
+    "key": "PT_0198_0038",
+    "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "要使用[0134,0000]ＣＰ提升\n级别吗？",
+    "index": 38
+  },
+  {
+    "key": "PT_0198_0039",
+    "original": "はい",
+    "translation": "是",
+    "index": 39
+  },
+  {
+    "key": "PT_0198_0040",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 40
+  },
+  {
+    "key": "PT_0198_0041",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰ不足！",
+    "index": 41
+  },
+  {
+    "key": "PT_0198_0042",
+    "original": "[0103,0005]は ＰＰを\nかいふく できるように なりました！",
+    "translation": "[0103,0005]\n变得能够回复ＰＰ了！",
+    "index": 42
+  },
+  {
+    "key": "PT_0198_0043",
+    "original": "[0103,0005]は ＨＰとＰＰを どうじに\nかいふく できるように なりました！",
+    "translation": "[0103,0005]\n变得能够同时回复ＨＰ和ＰＰ了！",
+    "index": 43
+  },
+  {
+    "key": "PT_0198_0044",
+    "original": "きのみ",
+    "translation": "树果",
+    "index": 44
+  },
+  {
+    "key": "PT_0198_0045",
+    "original": "どうぐ",
+    "translation": "道具",
+    "index": 45
+  },
+  {
+    "key": "PT_0198_0046",
+    "original": "ランクアップ",
+    "translation": "级别提升",
+    "index": 46
+  },
+  {
+    "key": "PT_0198_0047",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 47
+  },
+  {
+    "key": "PT_0198_0048",
+    "original": "きのみを レンタル できます",
+    "translation": "能够租借树果",
+    "index": 48
+  },
+  {
+    "key": "PT_0198_0049",
+    "original": "どうぐを レンタル できます",
+    "translation": "能够租借道具",
+    "index": 49
+  },
+  {
+    "key": "PT_0198_0050",
+    "original": "ランクアップで どうぐを\nレンタルできるように なります",
+    "translation": "因为级别提升\n变得能够租借道具了。",
+    "index": 50
+  },
+  {
+    "key": "PT_0198_0051",
+    "original": "ランクアップで レンタルできる\nきのみと どうぐが ふえます",
+    "translation": "因为级别提升，能够租借的道具和\n树果的种类增加。",
+    "index": 51
+  },
+  {
+    "key": "PT_0198_0052",
+    "original": "これ いじょう\nランクは あがりません",
+    "translation": "级别已无法再提升了。",
+    "index": 52
+  },
+  {
+    "key": "PT_0198_0053",
+    "original": "なにを するか えらぶに\nもどります",
+    "translation": "请选择要做什么。",
+    "index": 53
+  },
+  {
+    "key": "PT_0198_0054",
+    "original": "レンタルの ランクが ひくいので\nＣＰを つかうことが できません",
+    "translation": "租借的级别过低，\n无法使用ＣＰ。",
+    "index": 54
+  },
+  {
+    "key": "PT_0198_0055",
+    "original": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
+    "translation": "需要使用[0133,0000]ＣＰ。\n确定吗？",
+    "index": 55
+  },
+  {
+    "key": "PT_0198_0056",
+    "original": "はい",
+    "translation": "是",
+    "index": 56
+  },
+  {
+    "key": "PT_0198_0057",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 57
+  },
+  {
+    "key": "PT_0198_0058",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰ不足！",
+    "index": 58
+  },
+  {
+    "key": "PT_0198_0059",
+    "original": "[0100,0000]に\n[0108,0001]を もたせました！",
+    "translation": "将[0100,0000]给\n[0108,0001]持有！",
+    "index": 59
+  },
+  {
+    "key": "PT_0198_0060",
+    "original": "[0100,0000]は すでに\n[0108,0001]を もっています！",
+    "translation": "[0100,0000]已经持有了\n[0108,0001]！",
+    "index": 60
+  },
+  {
+    "key": "PT_0198_0061",
+    "original": "もっている どうぐを\nとりかえますか？",
+    "translation": "要替换已携带的道具吗？",
+    "index": 61
+  },
+  {
+    "key": "PT_0198_0062",
+    "original": "はい",
+    "translation": "是",
+    "index": 62
+  },
+  {
+    "key": "PT_0198_0063",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 63
+  },
+  {
+    "key": "PT_0198_0064",
+    "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "要使用[0134,0000]ＣＰ提升\n级别吗？",
+    "index": 64
+  },
+  {
+    "key": "PT_0198_0065",
+    "original": "はい",
+    "translation": "是",
+    "index": 65
+  },
+  {
+    "key": "PT_0198_0066",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 66
+  },
+  {
+    "key": "PT_0198_0067",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰ不足！",
+    "index": 67
+  },
+  {
+    "key": "PT_0198_0068",
+    "original": "[0103,0005]は どうぐを レンタル\nできるように なりました！",
+    "translation": "[0103,0005]\n可以租借道具了！",
+    "index": 68
+  },
+  {
+    "key": "PT_0198_0069",
+    "original": "[0103,0005]は きのみと\nどうぐの しゅるいを ふやしました！",
+    "translation": "[0103,0005]\n可以租借的树果和道具增加了！",
+    "index": 69
+  },
+  {
+    "key": "PT_0198_0070",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 70
+  },
+  {
+    "key": "PT_0198_0071",
+    "original": "[FF00,0002][0108,0000][FF00,0000]",
+    "translation": "[FF00,0002][0108,0000][FF00,0000]",
+    "index": 71
+  },
+  {
+    "key": "PT_0198_0072",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 72
+  },
+  {
+    "key": "PT_0198_0073",
+    "original": "[FF00,0002][0107,0000][FF00,0000]",
+    "translation": "[FF00,0002][0107,0000][FF00,0000]",
+    "index": 73
+  },
+  {
+    "key": "PT_0198_0074",
+    "original": "とくせい",
+    "translation": "特性",
+    "index": 74
+  },
+  {
+    "key": "PT_0198_0075",
+    "original": "[FF00,0002][0105,0000][FF00,0000]",
+    "translation": "[FF00,0002][0105,0000][FF00,0000]",
+    "index": 75
+  },
+  {
+    "key": "PT_0198_0076",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 76
+  },
+  {
+    "key": "PT_0198_0077",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 77
+  },
+  {
+    "key": "PT_0198_0078",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 78
+  },
+  {
+    "key": "PT_0198_0079",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 79
+  },
+  {
+    "key": "PT_0198_0080",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 80
+  },
+  {
+    "key": "PT_0198_0081",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 81
+  },
+  {
+    "key": "PT_0198_0082",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 82
+  },
+  {
+    "key": "PT_0198_0083",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 83
+  },
+  {
+    "key": "PT_0198_0084",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 84
+  },
+  {
+    "key": "PT_0198_0085",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 85
+  },
+  {
+    "key": "PT_0198_0086",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 86
+  },
+  {
+    "key": "PT_0198_0087",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 87
+  },
+  {
+    "key": "PT_0198_0088",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 88
+  },
+  {
+    "key": "PT_0198_0089",
+    "original": "[0106,0001]",
+    "translation": "[0106,0001]",
+    "index": 89
+  },
+  {
+    "key": "PT_0198_0090",
+    "original": "[0106,0002]",
+    "translation": "[0106,0002]",
+    "index": 90
+  },
+  {
+    "key": "PT_0198_0091",
+    "original": "[0106,0003]",
+    "translation": "[0106,0003]",
+    "index": 91
+  },
+  {
+    "key": "PT_0198_0092",
+    "original": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "translation": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "index": 92
+  }
+]

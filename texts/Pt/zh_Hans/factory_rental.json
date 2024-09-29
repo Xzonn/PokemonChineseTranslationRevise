@@ -1,0 +1,164 @@
+[
+  {
+    "key": "PT_0363_0000",
+    "original": "[0132,0000]ばんめの ポケモンを\nえらんで ください",
+    "translation": "请选择第[0132,0000]只\n宝可梦",
+    "index": 0
+  },
+  {
+    "key": "PT_0363_0001",
+    "original": "いじょうの [0132,0000]ひきで\nよろしいですか？",
+    "translation": "以上[0132,0000]只\n可以了吗？",
+    "index": 1
+  },
+  {
+    "key": "PT_0363_0002",
+    "original": "しばらくおまちください",
+    "translation": "请稍等。",
+    "index": 2
+  },
+  {
+    "key": "PT_0363_0003",
+    "original": "はい",
+    "translation": "是",
+    "index": 3
+  },
+  {
+    "key": "PT_0363_0004",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 4
+  },
+  {
+    "key": "PT_0363_0005",
+    "original": "つよさをみる",
+    "translation": "查看能力",
+    "index": 5
+  },
+  {
+    "key": "PT_0363_0006",
+    "original": "レンタルする",
+    "translation": "出租",
+    "index": 6
+  },
+  {
+    "key": "PT_0363_0007",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 7
+  },
+  {
+    "key": "PT_0363_0008",
+    "original": "はずす",
+    "translation": "移除",
+    "index": 8
+  },
+  {
+    "key": "PT_0363_0009",
+    "original": "てばなす ポケモンを\nえらんで ください",
+    "translation": "请选择想要送出的\n宝可梦",
+    "index": 9
+  },
+  {
+    "key": "PT_0363_0010",
+    "original": "ポケモンの こうかんを\nちゅうし しますか？",
+    "translation": "要中止宝可梦的\n交换吗？",
+    "index": 10
+  },
+  {
+    "key": "PT_0363_0011",
+    "original": "はい",
+    "translation": "是",
+    "index": 11
+  },
+  {
+    "key": "PT_0363_0012",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 12
+  },
+  {
+    "key": "PT_0363_0013",
+    "original": "うけとる ポケモンを\nえらんで ください",
+    "translation": "请选择想接收的宝可梦",
+    "index": 13
+  },
+  {
+    "key": "PT_0363_0014",
+    "original": "この ポケモンを\nうけとりますか？",
+    "translation": "接收这只宝可梦吗？",
+    "index": 14
+  },
+  {
+    "key": "PT_0363_0015",
+    "original": "しばらくおまちください",
+    "translation": "请稍等。",
+    "index": 15
+  },
+  {
+    "key": "PT_0363_0016",
+    "original": "[0103,0000]さんが\n[0100,0001]と\\r\n[0100,0002]を\\r\nこうかん しました\\f\n",
+    "translation": "[0103,0000]用\n[0100,0001]和\\r\n[0100,0002]\\r\n交换了\\f\n",
+    "index": 16
+  },
+  {
+    "key": "PT_0363_0017",
+    "original": "はい",
+    "translation": "是",
+    "index": 17
+  },
+  {
+    "key": "PT_0363_0018",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 18
+  },
+  {
+    "key": "PT_0363_0019",
+    "original": "ちゅうし",
+    "translation": "中止",
+    "index": 19
+  },
+  {
+    "key": "PT_0363_0020",
+    "original": "つよさをみる",
+    "translation": "查看能力",
+    "index": 20
+  },
+  {
+    "key": "PT_0363_0021",
+    "original": "てばなす",
+    "translation": "放开",
+    "index": 21
+  },
+  {
+    "key": "PT_0363_0022",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 22
+  },
+  {
+    "key": "PT_0363_0023",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 23
+  },
+  {
+    "key": "PT_0363_0024",
+    "original": "ちゅうし",
+    "translation": "中止",
+    "index": 24
+  },
+  {
+    "key": "PT_0363_0025",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 25
+  },
+  {
+    "key": "PT_0363_0026",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 26
+  }
+]

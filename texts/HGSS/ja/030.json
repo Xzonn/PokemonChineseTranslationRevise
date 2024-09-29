@@ -1,0 +1,650 @@
+[
+  {
+    "key": "HGSS_0030_0000",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0030_0001",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0030_0002",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0030_0003",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0030_0004",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0030_0005",
+    "original": "ポケモンを\nえらんで ください",
+    "translation": "ポケモンを\nえらんで ください",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0030_0006",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0030_0007",
+    "original": "おともだちを まっています！",
+    "translation": "おともだちを まっています！",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0030_0008",
+    "original": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "translation": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0030_0009",
+    "original": "かいふく",
+    "translation": "かいふく",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0030_0010",
+    "original": "レンタル",
+    "translation": "レンタル",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0030_0011",
+    "original": "つよさ",
+    "translation": "つよさ",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0030_0012",
+    "original": "わざ",
+    "translation": "わざ",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0030_0013",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0030_0014",
+    "original": "ＨＰや ＰＰを\nかいふく できます",
+    "translation": "ＨＰや ＰＰを\nかいふく できます",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0030_0015",
+    "original": "きのみや どうぐを\nかりることが できます",
+    "translation": "きのみや どうぐを\nかりることが できます",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0030_0016",
+    "original": "とくせいや せいかくを\nみることが できます",
+    "translation": "とくせいや せいかくを\nみることが できます",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0030_0017",
+    "original": "「わざ」と ＰＰを\nみることが できます",
+    "translation": "「わざ」と ＰＰを\nみることが できます",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0030_0018",
+    "original": "ポケモンを えらぶに\nもどります",
+    "translation": "ポケモンを えらぶに\nもどります",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0030_0019",
+    "original": "ＨＰかいふく",
+    "translation": "ＨＰかいふく",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0030_0020",
+    "original": "ＰＰかいふく",
+    "translation": "ＰＰかいふく",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0030_0021",
+    "original": "すべてかいふく",
+    "translation": "すべてかいふく",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0030_0022",
+    "original": "ランクアップ",
+    "translation": "ランクアップ",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0030_0023",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0030_0024",
+    "original": "どれを つかいますか？",
+    "translation": "どれを つかいますか？",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0030_0025",
+    "original": "ランクアップで ＰＰを\nかいふく できるように なります",
+    "translation": "ランクアップで ＰＰを\nかいふく できるように なります",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0030_0026",
+    "original": "ランクアップで ＨＰと ＰＰが\nどうじに かいふくかのうと なります",
+    "translation": "ランクアップで ＨＰと ＰＰが\nどうじに かいふくかのうと なります",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0030_0027",
+    "original": "これ いじょう\nランクは あがりません",
+    "translation": "これ いじょう\nランクは あがりません",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0030_0028",
+    "original": "なにを するか\nえらぶに もどります",
+    "translation": "なにを するか\nえらぶに もどります",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0030_0029",
+    "original": "[0108,0000]は [0133,0001]ＣＰ です！\nよろしい ですか？",
+    "translation": "[0108,0000]は [0133,0001]ＣＰ です！\nよろしい ですか？",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0030_0030",
+    "original": "はい",
+    "translation": "はい",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0030_0031",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0030_0032",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0030_0033",
+    "original": "かいふくの ランクが ひくいので\nＣＰを つかうことが できません",
+    "translation": "かいふくの ランクが ひくいので\nＣＰを つかうことが できません",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0030_0034",
+    "original": "[0100,0000]の\nＨＰを かいふく します！",
+    "translation": "[0100,0000]の\nＨＰを かいふく します！",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0030_0035",
+    "original": "[0100,0000]の\nＰＰを かいふく します！",
+    "translation": "[0100,0000]の\nＰＰを かいふく します！",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0030_0036",
+    "original": "[0100,0000]の ＨＰと ＰＰを\nかいふく します！",
+    "translation": "[0100,0000]の ＨＰと ＰＰを\nかいふく します！",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0030_0037",
+    "original": "つかっても こうかが ありません",
+    "translation": "つかっても こうかが ありません",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0030_0038",
+    "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0030_0039",
+    "original": "はい",
+    "translation": "はい",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0030_0040",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0030_0041",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0030_0042",
+    "original": "[0103,0005]は ＰＰを\nかいふく できるように なりました！",
+    "translation": "[0103,0005]は ＰＰを\nかいふく できるように なりました！",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0030_0043",
+    "original": "[0103,0005]は ＨＰとＰＰを どうじに\nかいふく できるように なりました！",
+    "translation": "[0103,0005]は ＨＰとＰＰを どうじに\nかいふく できるように なりました！",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0030_0044",
+    "original": "きのみ",
+    "translation": "きのみ",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0030_0045",
+    "original": "どうぐ",
+    "translation": "どうぐ",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0030_0046",
+    "original": "ランクアップ",
+    "translation": "ランクアップ",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0030_0047",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0030_0048",
+    "original": "きのみを レンタル できます",
+    "translation": "きのみを レンタル できます",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0030_0049",
+    "original": "どうぐを レンタル できます",
+    "translation": "どうぐを レンタル できます",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0030_0050",
+    "original": "ランクアップで どうぐを\nレンタルできるように なります",
+    "translation": "ランクアップで どうぐを\nレンタルできるように なります",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0030_0051",
+    "original": "ランクアップで レンタルできる\nきのみと どうぐが ふえます",
+    "translation": "ランクアップで レンタルできる\nきのみと どうぐが ふえます",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0030_0052",
+    "original": "これ いじょう\nランクは あがりません",
+    "translation": "これ いじょう\nランクは あがりません",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0030_0053",
+    "original": "なにを するか えらぶに\nもどります",
+    "translation": "なにを するか えらぶに\nもどります",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0030_0054",
+    "original": "レンタルの ランクが ひくいので\nＣＰを つかうことが できません",
+    "translation": "レンタルの ランクが ひくいので\nＣＰを つかうことが できません",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0030_0055",
+    "original": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
+    "translation": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0030_0056",
+    "original": "はい",
+    "translation": "はい",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0030_0057",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0030_0058",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0030_0059",
+    "original": "[0100,0000]に\n[0108,0001]を もたせました！",
+    "translation": "[0100,0000]に\n[0108,0001]を もたせました！",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0030_0060",
+    "original": "[0100,0000]は すでに\n[0108,0001]を もっています！",
+    "translation": "[0100,0000]は すでに\n[0108,0001]を もっています！",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0030_0061",
+    "original": "もっている どうぐを\nとりかえますか？",
+    "translation": "もっている どうぐを\nとりかえますか？",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0030_0062",
+    "original": "はい",
+    "translation": "はい",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0030_0063",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0030_0064",
+    "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0030_0065",
+    "original": "はい",
+    "translation": "はい",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0030_0066",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0030_0067",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0030_0068",
+    "original": "[0103,0005]は どうぐを レンタル\nできるように なりました！",
+    "translation": "[0103,0005]は どうぐを レンタル\nできるように なりました！",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0030_0069",
+    "original": "[0103,0005]は きのみと\nどうぐの しゅるいを ふやしました！",
+    "translation": "[0103,0005]は きのみと\nどうぐの しゅるいを ふやしました！",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0030_0070",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0030_0071",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0030_0072",
+    "original": "せいかく",
+    "translation": "せいかく",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0030_0073",
+    "original": "[0107,0000]",
+    "translation": "[0107,0000]",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0030_0074",
+    "original": "とくせい",
+    "translation": "とくせい",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0030_0075",
+    "original": "[0105,0000]",
+    "translation": "[0105,0000]",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0030_0076",
+    "original": "こうげき",
+    "translation": "こうげき",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0030_0077",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0030_0078",
+    "original": "ぼうぎょ",
+    "translation": "ぼうぎょ",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0030_0079",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0030_0080",
+    "original": "とくこう",
+    "translation": "とくこう",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0030_0081",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0030_0082",
+    "original": "とくぼう",
+    "translation": "とくぼう",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0030_0083",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0030_0084",
+    "original": "すばやさ",
+    "translation": "すばやさ",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0030_0085",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0030_0086",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0030_0087",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0030_0088",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0030_0089",
+    "original": "ＨＰ",
+    "translation": "ＨＰ",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0030_0090",
+    "original": "／",
+    "translation": "／",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0030_0091",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0030_0092",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0030_0093",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0030_0094",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0030_0095",
+    "original": "[0134,0000]／[0134,0001]",
+    "translation": "[0134,0000]／[0134,0001]",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0030_0096",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0030_0097",
+    "original": "[0106,0001]",
+    "translation": "[0106,0001]",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0030_0098",
+    "original": "[0106,0002]",
+    "translation": "[0106,0002]",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0030_0099",
+    "original": "[0106,0003]",
+    "translation": "[0106,0003]",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0030_0100",
+    "original": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "translation": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0030_0101",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0030_0102",
+    "original": "ーー",
+    "translation": "ーー",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0030_0103",
+    "original": "[0132,0000]／[0132,0001]",
+    "translation": "[0132,0000]／[0132,0001]",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0030_0104",
+    "original": "[0133,0000]ＣＰ",
+    "translation": "[0133,0000]ＣＰ",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0030_0105",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0030_0106",
+    "original": "レンタル／きのみ",
+    "translation": "レンタル／きのみ",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0030_0107",
+    "original": "レンタル／どうぐ",
+    "translation": "レンタル／どうぐ",
+    "index": 107
+  }
+]

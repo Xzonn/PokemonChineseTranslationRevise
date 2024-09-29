@@ -1,0 +1,2966 @@
+[
+  {
+    "key": "DP_0803_0000",
+    "original": "？？？？？ポケモン",
+    "translation": "？？？？？ポケモン",
+    "index": 0
+  },
+  {
+    "key": "DP_0803_0001",
+    "original": "たねポケモン",
+    "translation": "たねポケモン",
+    "index": 1
+  },
+  {
+    "key": "DP_0803_0002",
+    "original": "たねポケモン",
+    "translation": "たねポケモン",
+    "index": 2
+  },
+  {
+    "key": "DP_0803_0003",
+    "original": "たねポケモン",
+    "translation": "たねポケモン",
+    "index": 3
+  },
+  {
+    "key": "DP_0803_0004",
+    "original": "とかげポケモン",
+    "translation": "とかげポケモン",
+    "index": 4
+  },
+  {
+    "key": "DP_0803_0005",
+    "original": "かえんポケモン",
+    "translation": "かえんポケモン",
+    "index": 5
+  },
+  {
+    "key": "DP_0803_0006",
+    "original": "かえんポケモン",
+    "translation": "かえんポケモン",
+    "index": 6
+  },
+  {
+    "key": "DP_0803_0007",
+    "original": "かめのこポケモン",
+    "translation": "かめのこポケモン",
+    "index": 7
+  },
+  {
+    "key": "DP_0803_0008",
+    "original": "かめポケモン",
+    "translation": "かめポケモン",
+    "index": 8
+  },
+  {
+    "key": "DP_0803_0009",
+    "original": "こうらポケモン",
+    "translation": "こうらポケモン",
+    "index": 9
+  },
+  {
+    "key": "DP_0803_0010",
+    "original": "いもむしポケモン",
+    "translation": "いもむしポケモン",
+    "index": 10
+  },
+  {
+    "key": "DP_0803_0011",
+    "original": "さなぎポケモン",
+    "translation": "さなぎポケモン",
+    "index": 11
+  },
+  {
+    "key": "DP_0803_0012",
+    "original": "ちょうちょポケモン",
+    "translation": "ちょうちょポケモン",
+    "index": 12
+  },
+  {
+    "key": "DP_0803_0013",
+    "original": "けむしポケモン",
+    "translation": "けむしポケモン",
+    "index": 13
+  },
+  {
+    "key": "DP_0803_0014",
+    "original": "さなぎポケモン",
+    "translation": "さなぎポケモン",
+    "index": 14
+  },
+  {
+    "key": "DP_0803_0015",
+    "original": "どくばちポケモン",
+    "translation": "どくばちポケモン",
+    "index": 15
+  },
+  {
+    "key": "DP_0803_0016",
+    "original": "ことりポケモン",
+    "translation": "ことりポケモン",
+    "index": 16
+  },
+  {
+    "key": "DP_0803_0017",
+    "original": "とりポケモン",
+    "translation": "とりポケモン",
+    "index": 17
+  },
+  {
+    "key": "DP_0803_0018",
+    "original": "とりポケモン",
+    "translation": "とりポケモン",
+    "index": 18
+  },
+  {
+    "key": "DP_0803_0019",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 19
+  },
+  {
+    "key": "DP_0803_0020",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 20
+  },
+  {
+    "key": "DP_0803_0021",
+    "original": "ことりポケモン",
+    "translation": "ことりポケモン",
+    "index": 21
+  },
+  {
+    "key": "DP_0803_0022",
+    "original": "くちばしポケモン",
+    "translation": "くちばしポケモン",
+    "index": 22
+  },
+  {
+    "key": "DP_0803_0023",
+    "original": "へびポケモン",
+    "translation": "へびポケモン",
+    "index": 23
+  },
+  {
+    "key": "DP_0803_0024",
+    "original": "コブラポケモン",
+    "translation": "コブラポケモン",
+    "index": 24
+  },
+  {
+    "key": "DP_0803_0025",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 25
+  },
+  {
+    "key": "DP_0803_0026",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 26
+  },
+  {
+    "key": "DP_0803_0027",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 27
+  },
+  {
+    "key": "DP_0803_0028",
+    "original": "ねずみポケモン",
+    "translation": "ねずみポケモン",
+    "index": 28
+  },
+  {
+    "key": "DP_0803_0029",
+    "original": "どくばりポケモン",
+    "translation": "どくばりポケモン",
+    "index": 29
+  },
+  {
+    "key": "DP_0803_0030",
+    "original": "どくばりポケモン",
+    "translation": "どくばりポケモン",
+    "index": 30
+  },
+  {
+    "key": "DP_0803_0031",
+    "original": "ドリルポケモン",
+    "translation": "ドリルポケモン",
+    "index": 31
+  },
+  {
+    "key": "DP_0803_0032",
+    "original": "どくばりポケモン",
+    "translation": "どくばりポケモン",
+    "index": 32
+  },
+  {
+    "key": "DP_0803_0033",
+    "original": "どくばりポケモン",
+    "translation": "どくばりポケモン",
+    "index": 33
+  },
+  {
+    "key": "DP_0803_0034",
+    "original": "ドリルポケモン",
+    "translation": "ドリルポケモン",
+    "index": 34
+  },
+  {
+    "key": "DP_0803_0035",
+    "original": "ようせいポケモン",
+    "translation": "ようせいポケモン",
+    "index": 35
+  },
+  {
+    "key": "DP_0803_0036",
+    "original": "ようせいポケモン",
+    "translation": "ようせいポケモン",
+    "index": 36
+  },
+  {
+    "key": "DP_0803_0037",
+    "original": "きつねポケモン",
+    "translation": "きつねポケモン",
+    "index": 37
+  },
+  {
+    "key": "DP_0803_0038",
+    "original": "きつねポケモン",
+    "translation": "きつねポケモン",
+    "index": 38
+  },
+  {
+    "key": "DP_0803_0039",
+    "original": "ふうせんポケモン",
+    "translation": "ふうせんポケモン",
+    "index": 39
+  },
+  {
+    "key": "DP_0803_0040",
+    "original": "ふうせんポケモン",
+    "translation": "ふうせんポケモン",
+    "index": 40
+  },
+  {
+    "key": "DP_0803_0041",
+    "original": "こうもりポケモン",
+    "translation": "こうもりポケモン",
+    "index": 41
+  },
+  {
+    "key": "DP_0803_0042",
+    "original": "こうもりポケモン",
+    "translation": "こうもりポケモン",
+    "index": 42
+  },
+  {
+    "key": "DP_0803_0043",
+    "original": "ざっそうポケモン",
+    "translation": "ざっそうポケモン",
+    "index": 43
+  },
+  {
+    "key": "DP_0803_0044",
+    "original": "ざっそうポケモン",
+    "translation": "ざっそうポケモン",
+    "index": 44
+  },
+  {
+    "key": "DP_0803_0045",
+    "original": "フラワーポケモン",
+    "translation": "フラワーポケモン",
+    "index": 45
+  },
+  {
+    "key": "DP_0803_0046",
+    "original": "きのこポケモン",
+    "translation": "きのこポケモン",
+    "index": 46
+  },
+  {
+    "key": "DP_0803_0047",
+    "original": "きのこポケモン",
+    "translation": "きのこポケモン",
+    "index": 47
+  },
+  {
+    "key": "DP_0803_0048",
+    "original": "こんちゅうポケモン",
+    "translation": "こんちゅうポケモン",
+    "index": 48
+  },
+  {
+    "key": "DP_0803_0049",
+    "original": "どくがポケモン",
+    "translation": "どくがポケモン",
+    "index": 49
+  },
+  {
+    "key": "DP_0803_0050",
+    "original": "もぐらポケモン",
+    "translation": "もぐらポケモン",
+    "index": 50
+  },
+  {
+    "key": "DP_0803_0051",
+    "original": "もぐらポケモン",
+    "translation": "もぐらポケモン",
+    "index": 51
+  },
+  {
+    "key": "DP_0803_0052",
+    "original": "ばけねこポケモン",
+    "translation": "ばけねこポケモン",
+    "index": 52
+  },
+  {
+    "key": "DP_0803_0053",
+    "original": "シャムネコポケモン",
+    "translation": "シャムネコポケモン",
+    "index": 53
+  },
+  {
+    "key": "DP_0803_0054",
+    "original": "あひるポケモン",
+    "translation": "あひるポケモン",
+    "index": 54
+  },
+  {
+    "key": "DP_0803_0055",
+    "original": "あひるポケモン",
+    "translation": "あひるポケモン",
+    "index": 55
+  },
+  {
+    "key": "DP_0803_0056",
+    "original": "ぶたざるポケモン",
+    "translation": "ぶたざるポケモン",
+    "index": 56
+  },
+  {
+    "key": "DP_0803_0057",
+    "original": "ぶたざるポケモン",
+    "translation": "ぶたざるポケモン",
+    "index": 57
+  },
+  {
+    "key": "DP_0803_0058",
+    "original": "こいぬポケモン",
+    "translation": "こいぬポケモン",
+    "index": 58
+  },
+  {
+    "key": "DP_0803_0059",
+    "original": "でんせつポケモン",
+    "translation": "でんせつポケモン",
+    "index": 59
+  },
+  {
+    "key": "DP_0803_0060",
+    "original": "おたまポケモン",
+    "translation": "おたまポケモン",
+    "index": 60
+  },
+  {
+    "key": "DP_0803_0061",
+    "original": "おたまポケモン",
+    "translation": "おたまポケモン",
+    "index": 61
+  },
+  {
+    "key": "DP_0803_0062",
+    "original": "おたまポケモン",
+    "translation": "おたまポケモン",
+    "index": 62
+  },
+  {
+    "key": "DP_0803_0063",
+    "original": "ねんりきポケモン",
+    "translation": "ねんりきポケモン",
+    "index": 63
+  },
+  {
+    "key": "DP_0803_0064",
+    "original": "ねんりきポケモン",
+    "translation": "ねんりきポケモン",
+    "index": 64
+  },
+  {
+    "key": "DP_0803_0065",
+    "original": "ねんりきポケモン",
+    "translation": "ねんりきポケモン",
+    "index": 65
+  },
+  {
+    "key": "DP_0803_0066",
+    "original": "かいりきポケモン",
+    "translation": "かいりきポケモン",
+    "index": 66
+  },
+  {
+    "key": "DP_0803_0067",
+    "original": "かいりきポケモン",
+    "translation": "かいりきポケモン",
+    "index": 67
+  },
+  {
+    "key": "DP_0803_0068",
+    "original": "かいりきポケモン",
+    "translation": "かいりきポケモン",
+    "index": 68
+  },
+  {
+    "key": "DP_0803_0069",
+    "original": "フラワーポケモン",
+    "translation": "フラワーポケモン",
+    "index": 69
+  },
+  {
+    "key": "DP_0803_0070",
+    "original": "ハエとりポケモン",
+    "translation": "ハエとりポケモン",
+    "index": 70
+  },
+  {
+    "key": "DP_0803_0071",
+    "original": "ハエとりポケモン",
+    "translation": "ハエとりポケモン",
+    "index": 71
+  },
+  {
+    "key": "DP_0803_0072",
+    "original": "くらげポケモン",
+    "translation": "くらげポケモン",
+    "index": 72
+  },
+  {
+    "key": "DP_0803_0073",
+    "original": "くらげポケモン",
+    "translation": "くらげポケモン",
+    "index": 73
+  },
+  {
+    "key": "DP_0803_0074",
+    "original": "がんせきポケモン",
+    "translation": "がんせきポケモン",
+    "index": 74
+  },
+  {
+    "key": "DP_0803_0075",
+    "original": "がんせきポケモン",
+    "translation": "がんせきポケモン",
+    "index": 75
+  },
+  {
+    "key": "DP_0803_0076",
+    "original": "メガトンポケモン",
+    "translation": "メガトンポケモン",
+    "index": 76
+  },
+  {
+    "key": "DP_0803_0077",
+    "original": "ひのうまポケモン",
+    "translation": "ひのうまポケモン",
+    "index": 77
+  },
+  {
+    "key": "DP_0803_0078",
+    "original": "ひのうまポケモン",
+    "translation": "ひのうまポケモン",
+    "index": 78
+  },
+  {
+    "key": "DP_0803_0079",
+    "original": "まぬけポケモン",
+    "translation": "まぬけポケモン",
+    "index": 79
+  },
+  {
+    "key": "DP_0803_0080",
+    "original": "やどかりポケモン",
+    "translation": "やどかりポケモン",
+    "index": 80
+  },
+  {
+    "key": "DP_0803_0081",
+    "original": "じしゃくポケモン",
+    "translation": "じしゃくポケモン",
+    "index": 81
+  },
+  {
+    "key": "DP_0803_0082",
+    "original": "じしゃくポケモン",
+    "translation": "じしゃくポケモン",
+    "index": 82
+  },
+  {
+    "key": "DP_0803_0083",
+    "original": "かるがもポケモン",
+    "translation": "かるがもポケモン",
+    "index": 83
+  },
+  {
+    "key": "DP_0803_0084",
+    "original": "ふたごどりポケモン",
+    "translation": "ふたごどりポケモン",
+    "index": 84
+  },
+  {
+    "key": "DP_0803_0085",
+    "original": "みつごどりポケモン",
+    "translation": "みつごどりポケモン",
+    "index": 85
+  },
+  {
+    "key": "DP_0803_0086",
+    "original": "あしかポケモン",
+    "translation": "あしかポケモン",
+    "index": 86
+  },
+  {
+    "key": "DP_0803_0087",
+    "original": "あしかポケモン",
+    "translation": "あしかポケモン",
+    "index": 87
+  },
+  {
+    "key": "DP_0803_0088",
+    "original": "ヘドロポケモン",
+    "translation": "ヘドロポケモン",
+    "index": 88
+  },
+  {
+    "key": "DP_0803_0089",
+    "original": "ヘドロポケモン",
+    "translation": "ヘドロポケモン",
+    "index": 89
+  },
+  {
+    "key": "DP_0803_0090",
+    "original": "２まいがいポケモン",
+    "translation": "２まいがいポケモン",
+    "index": 90
+  },
+  {
+    "key": "DP_0803_0091",
+    "original": "２まいがいポケモン",
+    "translation": "２まいがいポケモン",
+    "index": 91
+  },
+  {
+    "key": "DP_0803_0092",
+    "original": "ガスじょうポケモン",
+    "translation": "ガスじょうポケモン",
+    "index": 92
+  },
+  {
+    "key": "DP_0803_0093",
+    "original": "ガスじょうポケモン",
+    "translation": "ガスじょうポケモン",
+    "index": 93
+  },
+  {
+    "key": "DP_0803_0094",
+    "original": "シャドーポケモン",
+    "translation": "シャドーポケモン",
+    "index": 94
+  },
+  {
+    "key": "DP_0803_0095",
+    "original": "いわへびポケモン",
+    "translation": "いわへびポケモン",
+    "index": 95
+  },
+  {
+    "key": "DP_0803_0096",
+    "original": "さいみんポケモン",
+    "translation": "さいみんポケモン",
+    "index": 96
+  },
+  {
+    "key": "DP_0803_0097",
+    "original": "さいみんポケモン",
+    "translation": "さいみんポケモン",
+    "index": 97
+  },
+  {
+    "key": "DP_0803_0098",
+    "original": "さわがにポケモン",
+    "translation": "さわがにポケモン",
+    "index": 98
+  },
+  {
+    "key": "DP_0803_0099",
+    "original": "はさみポケモン",
+    "translation": "はさみポケモン",
+    "index": 99
+  },
+  {
+    "key": "DP_0803_0100",
+    "original": "ボールポケモン",
+    "translation": "ボールポケモン",
+    "index": 100
+  },
+  {
+    "key": "DP_0803_0101",
+    "original": "ボールポケモン",
+    "translation": "ボールポケモン",
+    "index": 101
+  },
+  {
+    "key": "DP_0803_0102",
+    "original": "たまごポケモン",
+    "translation": "たまごポケモン",
+    "index": 102
+  },
+  {
+    "key": "DP_0803_0103",
+    "original": "やしのみポケモン",
+    "translation": "やしのみポケモン",
+    "index": 103
+  },
+  {
+    "key": "DP_0803_0104",
+    "original": "こどくポケモン",
+    "translation": "こどくポケモン",
+    "index": 104
+  },
+  {
+    "key": "DP_0803_0105",
+    "original": "ほねずきポケモン",
+    "translation": "ほねずきポケモン",
+    "index": 105
+  },
+  {
+    "key": "DP_0803_0106",
+    "original": "キックポケモン",
+    "translation": "キックポケモン",
+    "index": 106
+  },
+  {
+    "key": "DP_0803_0107",
+    "original": "パンチポケモン",
+    "translation": "パンチポケモン",
+    "index": 107
+  },
+  {
+    "key": "DP_0803_0108",
+    "original": "なめまわしポケモン",
+    "translation": "なめまわしポケモン",
+    "index": 108
+  },
+  {
+    "key": "DP_0803_0109",
+    "original": "どくガスポケモン",
+    "translation": "どくガスポケモン",
+    "index": 109
+  },
+  {
+    "key": "DP_0803_0110",
+    "original": "どくガスポケモン",
+    "translation": "どくガスポケモン",
+    "index": 110
+  },
+  {
+    "key": "DP_0803_0111",
+    "original": "とげとげポケモン",
+    "translation": "とげとげポケモン",
+    "index": 111
+  },
+  {
+    "key": "DP_0803_0112",
+    "original": "ドリルポケモン",
+    "translation": "ドリルポケモン",
+    "index": 112
+  },
+  {
+    "key": "DP_0803_0113",
+    "original": "たまごポケモン",
+    "translation": "たまごポケモン",
+    "index": 113
+  },
+  {
+    "key": "DP_0803_0114",
+    "original": "ツルじょうポケモン",
+    "translation": "ツルじょうポケモン",
+    "index": 114
+  },
+  {
+    "key": "DP_0803_0115",
+    "original": "おやこポケモン",
+    "translation": "おやこポケモン",
+    "index": 115
+  },
+  {
+    "key": "DP_0803_0116",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 116
+  },
+  {
+    "key": "DP_0803_0117",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 117
+  },
+  {
+    "key": "DP_0803_0118",
+    "original": "きんぎょポケモン",
+    "translation": "きんぎょポケモン",
+    "index": 118
+  },
+  {
+    "key": "DP_0803_0119",
+    "original": "きんぎょポケモン",
+    "translation": "きんぎょポケモン",
+    "index": 119
+  },
+  {
+    "key": "DP_0803_0120",
+    "original": "ほしがたポケモン",
+    "translation": "ほしがたポケモン",
+    "index": 120
+  },
+  {
+    "key": "DP_0803_0121",
+    "original": "なぞのポケモン",
+    "translation": "なぞのポケモン",
+    "index": 121
+  },
+  {
+    "key": "DP_0803_0122",
+    "original": "バリアーポケモン",
+    "translation": "バリアーポケモン",
+    "index": 122
+  },
+  {
+    "key": "DP_0803_0123",
+    "original": "かまきりポケモン",
+    "translation": "かまきりポケモン",
+    "index": 123
+  },
+  {
+    "key": "DP_0803_0124",
+    "original": "ひとがたポケモン",
+    "translation": "ひとがたポケモン",
+    "index": 124
+  },
+  {
+    "key": "DP_0803_0125",
+    "original": "でんげきポケモン",
+    "translation": "でんげきポケモン",
+    "index": 125
+  },
+  {
+    "key": "DP_0803_0126",
+    "original": "ひふきポケモン",
+    "translation": "ひふきポケモン",
+    "index": 126
+  },
+  {
+    "key": "DP_0803_0127",
+    "original": "くわがたポケモン",
+    "translation": "くわがたポケモン",
+    "index": 127
+  },
+  {
+    "key": "DP_0803_0128",
+    "original": "あばれうしポケモン",
+    "translation": "あばれうしポケモン",
+    "index": 128
+  },
+  {
+    "key": "DP_0803_0129",
+    "original": "さかなポケモン",
+    "translation": "さかなポケモン",
+    "index": 129
+  },
+  {
+    "key": "DP_0803_0130",
+    "original": "きょうあくポケモン",
+    "translation": "きょうあくポケモン",
+    "index": 130
+  },
+  {
+    "key": "DP_0803_0131",
+    "original": "のりものポケモン",
+    "translation": "のりものポケモン",
+    "index": 131
+  },
+  {
+    "key": "DP_0803_0132",
+    "original": "へんしんポケモン",
+    "translation": "へんしんポケモン",
+    "index": 132
+  },
+  {
+    "key": "DP_0803_0133",
+    "original": "しんかポケモン",
+    "translation": "しんかポケモン",
+    "index": 133
+  },
+  {
+    "key": "DP_0803_0134",
+    "original": "あわはきポケモン",
+    "translation": "あわはきポケモン",
+    "index": 134
+  },
+  {
+    "key": "DP_0803_0135",
+    "original": "かみなりポケモン",
+    "translation": "かみなりポケモン",
+    "index": 135
+  },
+  {
+    "key": "DP_0803_0136",
+    "original": "ほのおポケモン",
+    "translation": "ほのおポケモン",
+    "index": 136
+  },
+  {
+    "key": "DP_0803_0137",
+    "original": "バーチャルポケモン",
+    "translation": "バーチャルポケモン",
+    "index": 137
+  },
+  {
+    "key": "DP_0803_0138",
+    "original": "うずまきポケモン",
+    "translation": "うずまきポケモン",
+    "index": 138
+  },
+  {
+    "key": "DP_0803_0139",
+    "original": "うずまきポケモン",
+    "translation": "うずまきポケモン",
+    "index": 139
+  },
+  {
+    "key": "DP_0803_0140",
+    "original": "こうらポケモン",
+    "translation": "こうらポケモン",
+    "index": 140
+  },
+  {
+    "key": "DP_0803_0141",
+    "original": "こうらポケモン",
+    "translation": "こうらポケモン",
+    "index": 141
+  },
+  {
+    "key": "DP_0803_0142",
+    "original": "かせきポケモン",
+    "translation": "かせきポケモン",
+    "index": 142
+  },
+  {
+    "key": "DP_0803_0143",
+    "original": "いねむりポケモン",
+    "translation": "いねむりポケモン",
+    "index": 143
+  },
+  {
+    "key": "DP_0803_0144",
+    "original": "れいとうポケモン",
+    "translation": "れいとうポケモン",
+    "index": 144
+  },
+  {
+    "key": "DP_0803_0145",
+    "original": "でんげきポケモン",
+    "translation": "でんげきポケモン",
+    "index": 145
+  },
+  {
+    "key": "DP_0803_0146",
+    "original": "かえんポケモン",
+    "translation": "かえんポケモン",
+    "index": 146
+  },
+  {
+    "key": "DP_0803_0147",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 147
+  },
+  {
+    "key": "DP_0803_0148",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 148
+  },
+  {
+    "key": "DP_0803_0149",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 149
+  },
+  {
+    "key": "DP_0803_0150",
+    "original": "いでんしポケモン",
+    "translation": "いでんしポケモン",
+    "index": 150
+  },
+  {
+    "key": "DP_0803_0151",
+    "original": "しんしゅポケモン",
+    "translation": "しんしゅポケモン",
+    "index": 151
+  },
+  {
+    "key": "DP_0803_0152",
+    "original": "はっぱポケモン",
+    "translation": "はっぱポケモン",
+    "index": 152
+  },
+  {
+    "key": "DP_0803_0153",
+    "original": "はっぱポケモン",
+    "translation": "はっぱポケモン",
+    "index": 153
+  },
+  {
+    "key": "DP_0803_0154",
+    "original": "ハーブポケモン",
+    "translation": "ハーブポケモン",
+    "index": 154
+  },
+  {
+    "key": "DP_0803_0155",
+    "original": "ひねずみポケモン",
+    "translation": "ひねずみポケモン",
+    "index": 155
+  },
+  {
+    "key": "DP_0803_0156",
+    "original": "かざんポケモン",
+    "translation": "かざんポケモン",
+    "index": 156
+  },
+  {
+    "key": "DP_0803_0157",
+    "original": "かざんポケモン",
+    "translation": "かざんポケモン",
+    "index": 157
+  },
+  {
+    "key": "DP_0803_0158",
+    "original": "おおあごポケモン",
+    "translation": "おおあごポケモン",
+    "index": 158
+  },
+  {
+    "key": "DP_0803_0159",
+    "original": "おおあごポケモン",
+    "translation": "おおあごポケモン",
+    "index": 159
+  },
+  {
+    "key": "DP_0803_0160",
+    "original": "おおあごポケモン",
+    "translation": "おおあごポケモン",
+    "index": 160
+  },
+  {
+    "key": "DP_0803_0161",
+    "original": "みはりポケモン",
+    "translation": "みはりポケモン",
+    "index": 161
+  },
+  {
+    "key": "DP_0803_0162",
+    "original": "どうながポケモン",
+    "translation": "どうながポケモン",
+    "index": 162
+  },
+  {
+    "key": "DP_0803_0163",
+    "original": "ふくろうポケモン",
+    "translation": "ふくろうポケモン",
+    "index": 163
+  },
+  {
+    "key": "DP_0803_0164",
+    "original": "ふくろうポケモン",
+    "translation": "ふくろうポケモン",
+    "index": 164
+  },
+  {
+    "key": "DP_0803_0165",
+    "original": "いつつぼしポケモン",
+    "translation": "いつつぼしポケモン",
+    "index": 165
+  },
+  {
+    "key": "DP_0803_0166",
+    "original": "いつつぼしポケモン",
+    "translation": "いつつぼしポケモン",
+    "index": 166
+  },
+  {
+    "key": "DP_0803_0167",
+    "original": "いとはきポケモン",
+    "translation": "いとはきポケモン",
+    "index": 167
+  },
+  {
+    "key": "DP_0803_0168",
+    "original": "あしながポケモン",
+    "translation": "あしながポケモン",
+    "index": 168
+  },
+  {
+    "key": "DP_0803_0169",
+    "original": "こうもりポケモン",
+    "translation": "こうもりポケモン",
+    "index": 169
+  },
+  {
+    "key": "DP_0803_0170",
+    "original": "あんこうポケモン",
+    "translation": "あんこうポケモン",
+    "index": 170
+  },
+  {
+    "key": "DP_0803_0171",
+    "original": "ライトポケモン",
+    "translation": "ライトポケモン",
+    "index": 171
+  },
+  {
+    "key": "DP_0803_0172",
+    "original": "こねずみポケモン",
+    "translation": "こねずみポケモン",
+    "index": 172
+  },
+  {
+    "key": "DP_0803_0173",
+    "original": "ほしがたポケモン",
+    "translation": "ほしがたポケモン",
+    "index": 173
+  },
+  {
+    "key": "DP_0803_0174",
+    "original": "ふうせんポケモン",
+    "translation": "ふうせんポケモン",
+    "index": 174
+  },
+  {
+    "key": "DP_0803_0175",
+    "original": "はりたまポケモン",
+    "translation": "はりたまポケモン",
+    "index": 175
+  },
+  {
+    "key": "DP_0803_0176",
+    "original": "しあわせポケモン",
+    "translation": "しあわせポケモン",
+    "index": 176
+  },
+  {
+    "key": "DP_0803_0177",
+    "original": "ことりポケモン",
+    "translation": "ことりポケモン",
+    "index": 177
+  },
+  {
+    "key": "DP_0803_0178",
+    "original": "せいれいポケモン",
+    "translation": "せいれいポケモン",
+    "index": 178
+  },
+  {
+    "key": "DP_0803_0179",
+    "original": "わたげポケモン",
+    "translation": "わたげポケモン",
+    "index": 179
+  },
+  {
+    "key": "DP_0803_0180",
+    "original": "わたげポケモン",
+    "translation": "わたげポケモン",
+    "index": 180
+  },
+  {
+    "key": "DP_0803_0181",
+    "original": "ライトポケモン",
+    "translation": "ライトポケモン",
+    "index": 181
+  },
+  {
+    "key": "DP_0803_0182",
+    "original": "フラワーポケモン",
+    "translation": "フラワーポケモン",
+    "index": 182
+  },
+  {
+    "key": "DP_0803_0183",
+    "original": "みずねずみポケモン",
+    "translation": "みずねずみポケモン",
+    "index": 183
+  },
+  {
+    "key": "DP_0803_0184",
+    "original": "みずうさぎポケモン",
+    "translation": "みずうさぎポケモン",
+    "index": 184
+  },
+  {
+    "key": "DP_0803_0185",
+    "original": "まねポケモン",
+    "translation": "まねポケモン",
+    "index": 185
+  },
+  {
+    "key": "DP_0803_0186",
+    "original": "かえるポケモン",
+    "translation": "かえるポケモン",
+    "index": 186
+  },
+  {
+    "key": "DP_0803_0187",
+    "original": "わたくさポケモン",
+    "translation": "わたくさポケモン",
+    "index": 187
+  },
+  {
+    "key": "DP_0803_0188",
+    "original": "わたくさポケモン",
+    "translation": "わたくさポケモン",
+    "index": 188
+  },
+  {
+    "key": "DP_0803_0189",
+    "original": "わたくさポケモン",
+    "translation": "わたくさポケモン",
+    "index": 189
+  },
+  {
+    "key": "DP_0803_0190",
+    "original": "おながポケモン",
+    "translation": "おながポケモン",
+    "index": 190
+  },
+  {
+    "key": "DP_0803_0191",
+    "original": "たねポケモン",
+    "translation": "たねポケモン",
+    "index": 191
+  },
+  {
+    "key": "DP_0803_0192",
+    "original": "たいようポケモン",
+    "translation": "たいようポケモン",
+    "index": 192
+  },
+  {
+    "key": "DP_0803_0193",
+    "original": "うすばねポケモン",
+    "translation": "うすばねポケモン",
+    "index": 193
+  },
+  {
+    "key": "DP_0803_0194",
+    "original": "みずうおポケモン",
+    "translation": "みずうおポケモン",
+    "index": 194
+  },
+  {
+    "key": "DP_0803_0195",
+    "original": "みずうおポケモン",
+    "translation": "みずうおポケモン",
+    "index": 195
+  },
+  {
+    "key": "DP_0803_0196",
+    "original": "たいようポケモン",
+    "translation": "たいようポケモン",
+    "index": 196
+  },
+  {
+    "key": "DP_0803_0197",
+    "original": "げっこうポケモン",
+    "translation": "げっこうポケモン",
+    "index": 197
+  },
+  {
+    "key": "DP_0803_0198",
+    "original": "くらやみポケモン",
+    "translation": "くらやみポケモン",
+    "index": 198
+  },
+  {
+    "key": "DP_0803_0199",
+    "original": "おうじゃポケモン",
+    "translation": "おうじゃポケモン",
+    "index": 199
+  },
+  {
+    "key": "DP_0803_0200",
+    "original": "よなきポケモン",
+    "translation": "よなきポケモン",
+    "index": 200
+  },
+  {
+    "key": "DP_0803_0201",
+    "original": "シンボルポケモン",
+    "translation": "シンボルポケモン",
+    "index": 201
+  },
+  {
+    "key": "DP_0803_0202",
+    "original": "がまんポケモン",
+    "translation": "がまんポケモン",
+    "index": 202
+  },
+  {
+    "key": "DP_0803_0203",
+    "original": "くびながポケモン",
+    "translation": "くびながポケモン",
+    "index": 203
+  },
+  {
+    "key": "DP_0803_0204",
+    "original": "みのむしポケモン",
+    "translation": "みのむしポケモン",
+    "index": 204
+  },
+  {
+    "key": "DP_0803_0205",
+    "original": "みのむしポケモン",
+    "translation": "みのむしポケモン",
+    "index": 205
+  },
+  {
+    "key": "DP_0803_0206",
+    "original": "つちへびポケモン",
+    "translation": "つちへびポケモン",
+    "index": 206
+  },
+  {
+    "key": "DP_0803_0207",
+    "original": "とびさそりポケモン",
+    "translation": "とびさそりポケモン",
+    "index": 207
+  },
+  {
+    "key": "DP_0803_0208",
+    "original": "てつへびポケモン",
+    "translation": "てつへびポケモン",
+    "index": 208
+  },
+  {
+    "key": "DP_0803_0209",
+    "original": "ようせいポケモン",
+    "translation": "ようせいポケモン",
+    "index": 209
+  },
+  {
+    "key": "DP_0803_0210",
+    "original": "ようせいポケモン",
+    "translation": "ようせいポケモン",
+    "index": 210
+  },
+  {
+    "key": "DP_0803_0211",
+    "original": "ふうせんポケモン",
+    "translation": "ふうせんポケモン",
+    "index": 211
+  },
+  {
+    "key": "DP_0803_0212",
+    "original": "はさみポケモン",
+    "translation": "はさみポケモン",
+    "index": 212
+  },
+  {
+    "key": "DP_0803_0213",
+    "original": "はっこうポケモン",
+    "translation": "はっこうポケモン",
+    "index": 213
+  },
+  {
+    "key": "DP_0803_0214",
+    "original": "１ぽんヅノポケモン",
+    "translation": "１ぽんヅノポケモン",
+    "index": 214
+  },
+  {
+    "key": "DP_0803_0215",
+    "original": "かぎづめポケモン",
+    "translation": "かぎづめポケモン",
+    "index": 215
+  },
+  {
+    "key": "DP_0803_0216",
+    "original": "こぐまポケモン",
+    "translation": "こぐまポケモン",
+    "index": 216
+  },
+  {
+    "key": "DP_0803_0217",
+    "original": "とうみんポケモン",
+    "translation": "とうみんポケモン",
+    "index": 217
+  },
+  {
+    "key": "DP_0803_0218",
+    "original": "ようがんポケモン",
+    "translation": "ようがんポケモン",
+    "index": 218
+  },
+  {
+    "key": "DP_0803_0219",
+    "original": "ようがんポケモン",
+    "translation": "ようがんポケモン",
+    "index": 219
+  },
+  {
+    "key": "DP_0803_0220",
+    "original": "いのぶたポケモン",
+    "translation": "いのぶたポケモン",
+    "index": 220
+  },
+  {
+    "key": "DP_0803_0221",
+    "original": "いのししポケモン",
+    "translation": "いのししポケモン",
+    "index": 221
+  },
+  {
+    "key": "DP_0803_0222",
+    "original": "さんごポケモン",
+    "translation": "さんごポケモン",
+    "index": 222
+  },
+  {
+    "key": "DP_0803_0223",
+    "original": "ふんしゃポケモン",
+    "translation": "ふんしゃポケモン",
+    "index": 223
+  },
+  {
+    "key": "DP_0803_0224",
+    "original": "ふんしゃポケモン",
+    "translation": "ふんしゃポケモン",
+    "index": 224
+  },
+  {
+    "key": "DP_0803_0225",
+    "original": "はこびやポケモン",
+    "translation": "はこびやポケモン",
+    "index": 225
+  },
+  {
+    "key": "DP_0803_0226",
+    "original": "カイトポケモン",
+    "translation": "カイトポケモン",
+    "index": 226
+  },
+  {
+    "key": "DP_0803_0227",
+    "original": "よろいどりポケモン",
+    "translation": "よろいどりポケモン",
+    "index": 227
+  },
+  {
+    "key": "DP_0803_0228",
+    "original": "ダークポケモン",
+    "translation": "ダークポケモン",
+    "index": 228
+  },
+  {
+    "key": "DP_0803_0229",
+    "original": "ダークポケモン",
+    "translation": "ダークポケモン",
+    "index": 229
+  },
+  {
+    "key": "DP_0803_0230",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 230
+  },
+  {
+    "key": "DP_0803_0231",
+    "original": "ながはなポケモン",
+    "translation": "ながはなポケモン",
+    "index": 231
+  },
+  {
+    "key": "DP_0803_0232",
+    "original": "よろいポケモン",
+    "translation": "よろいポケモン",
+    "index": 232
+  },
+  {
+    "key": "DP_0803_0233",
+    "original": "バーチャルポケモン",
+    "translation": "バーチャルポケモン",
+    "index": 233
+  },
+  {
+    "key": "DP_0803_0234",
+    "original": "おおツノポケモン",
+    "translation": "おおツノポケモン",
+    "index": 234
+  },
+  {
+    "key": "DP_0803_0235",
+    "original": "えかきポケモン",
+    "translation": "えかきポケモン",
+    "index": 235
+  },
+  {
+    "key": "DP_0803_0236",
+    "original": "けんかポケモン",
+    "translation": "けんかポケモン",
+    "index": 236
+  },
+  {
+    "key": "DP_0803_0237",
+    "original": "さかだちポケモン",
+    "translation": "さかだちポケモン",
+    "index": 237
+  },
+  {
+    "key": "DP_0803_0238",
+    "original": "くちづけポケモン",
+    "translation": "くちづけポケモン",
+    "index": 238
+  },
+  {
+    "key": "DP_0803_0239",
+    "original": "でんきポケモン",
+    "translation": "でんきポケモン",
+    "index": 239
+  },
+  {
+    "key": "DP_0803_0240",
+    "original": "ひだねポケモン",
+    "translation": "ひだねポケモン",
+    "index": 240
+  },
+  {
+    "key": "DP_0803_0241",
+    "original": "ちちうしポケモン",
+    "translation": "ちちうしポケモン",
+    "index": 241
+  },
+  {
+    "key": "DP_0803_0242",
+    "original": "しあわせポケモン",
+    "translation": "しあわせポケモン",
+    "index": 242
+  },
+  {
+    "key": "DP_0803_0243",
+    "original": "いかずちポケモン",
+    "translation": "いかずちポケモン",
+    "index": 243
+  },
+  {
+    "key": "DP_0803_0244",
+    "original": "かざんポケモン",
+    "translation": "かざんポケモン",
+    "index": 244
+  },
+  {
+    "key": "DP_0803_0245",
+    "original": "オーロラポケモン",
+    "translation": "オーロラポケモン",
+    "index": 245
+  },
+  {
+    "key": "DP_0803_0246",
+    "original": "いわはだポケモン",
+    "translation": "いわはだポケモン",
+    "index": 246
+  },
+  {
+    "key": "DP_0803_0247",
+    "original": "だんがんポケモン",
+    "translation": "だんがんポケモン",
+    "index": 247
+  },
+  {
+    "key": "DP_0803_0248",
+    "original": "よろいポケモン",
+    "translation": "よろいポケモン",
+    "index": 248
+  },
+  {
+    "key": "DP_0803_0249",
+    "original": "せんすいポケモン",
+    "translation": "せんすいポケモン",
+    "index": 249
+  },
+  {
+    "key": "DP_0803_0250",
+    "original": "にじいろポケモン",
+    "translation": "にじいろポケモン",
+    "index": 250
+  },
+  {
+    "key": "DP_0803_0251",
+    "original": "ときわたりポケモン",
+    "translation": "ときわたりポケモン",
+    "index": 251
+  },
+  {
+    "key": "DP_0803_0252",
+    "original": "もりトカゲポケモン",
+    "translation": "もりトカゲポケモン",
+    "index": 252
+  },
+  {
+    "key": "DP_0803_0253",
+    "original": "もりトカゲポケモン",
+    "translation": "もりトカゲポケモン",
+    "index": 253
+  },
+  {
+    "key": "DP_0803_0254",
+    "original": "みつりんポケモン",
+    "translation": "みつりんポケモン",
+    "index": 254
+  },
+  {
+    "key": "DP_0803_0255",
+    "original": "ひよこポケモン",
+    "translation": "ひよこポケモン",
+    "index": 255
+  },
+  {
+    "key": "DP_0803_0256",
+    "original": "わかどりポケモン",
+    "translation": "わかどりポケモン",
+    "index": 256
+  },
+  {
+    "key": "DP_0803_0257",
+    "original": "もうかポケモン",
+    "translation": "もうかポケモン",
+    "index": 257
+  },
+  {
+    "key": "DP_0803_0258",
+    "original": "ぬまうおポケモン",
+    "translation": "ぬまうおポケモン",
+    "index": 258
+  },
+  {
+    "key": "DP_0803_0259",
+    "original": "ぬまうおポケモン",
+    "translation": "ぬまうおポケモン",
+    "index": 259
+  },
+  {
+    "key": "DP_0803_0260",
+    "original": "ぬまうおポケモン",
+    "translation": "ぬまうおポケモン",
+    "index": 260
+  },
+  {
+    "key": "DP_0803_0261",
+    "original": "かみつきポケモン",
+    "translation": "かみつきポケモン",
+    "index": 261
+  },
+  {
+    "key": "DP_0803_0262",
+    "original": "かみつきポケモン",
+    "translation": "かみつきポケモン",
+    "index": 262
+  },
+  {
+    "key": "DP_0803_0263",
+    "original": "まめだぬきポケモン",
+    "translation": "まめだぬきポケモン",
+    "index": 263
+  },
+  {
+    "key": "DP_0803_0264",
+    "original": "とっしんポケモン",
+    "translation": "とっしんポケモン",
+    "index": 264
+  },
+  {
+    "key": "DP_0803_0265",
+    "original": "いもむしポケモン",
+    "translation": "いもむしポケモン",
+    "index": 265
+  },
+  {
+    "key": "DP_0803_0266",
+    "original": "さなぎポケモン",
+    "translation": "さなぎポケモン",
+    "index": 266
+  },
+  {
+    "key": "DP_0803_0267",
+    "original": "ちょうちょポケモン",
+    "translation": "ちょうちょポケモン",
+    "index": 267
+  },
+  {
+    "key": "DP_0803_0268",
+    "original": "さなぎポケモン",
+    "translation": "さなぎポケモン",
+    "index": 268
+  },
+  {
+    "key": "DP_0803_0269",
+    "original": "どくがポケモン",
+    "translation": "どくがポケモン",
+    "index": 269
+  },
+  {
+    "key": "DP_0803_0270",
+    "original": "うきくさポケモン",
+    "translation": "うきくさポケモン",
+    "index": 270
+  },
+  {
+    "key": "DP_0803_0271",
+    "original": "ようきポケモン",
+    "translation": "ようきポケモン",
+    "index": 271
+  },
+  {
+    "key": "DP_0803_0272",
+    "original": "のうてんきポケモン",
+    "translation": "のうてんきポケモン",
+    "index": 272
+  },
+  {
+    "key": "DP_0803_0273",
+    "original": "どんぐりポケモン",
+    "translation": "どんぐりポケモン",
+    "index": 273
+  },
+  {
+    "key": "DP_0803_0274",
+    "original": "いじわるポケモン",
+    "translation": "いじわるポケモン",
+    "index": 274
+  },
+  {
+    "key": "DP_0803_0275",
+    "original": "よこしまポケモン",
+    "translation": "よこしまポケモン",
+    "index": 275
+  },
+  {
+    "key": "DP_0803_0276",
+    "original": "こツバメポケモン",
+    "translation": "こツバメポケモン",
+    "index": 276
+  },
+  {
+    "key": "DP_0803_0277",
+    "original": "ツバメポケモン",
+    "translation": "ツバメポケモン",
+    "index": 277
+  },
+  {
+    "key": "DP_0803_0278",
+    "original": "うみねこポケモン",
+    "translation": "うみねこポケモン",
+    "index": 278
+  },
+  {
+    "key": "DP_0803_0279",
+    "original": "みずどりポケモン",
+    "translation": "みずどりポケモン",
+    "index": 279
+  },
+  {
+    "key": "DP_0803_0280",
+    "original": "きもちポケモン",
+    "translation": "きもちポケモン",
+    "index": 280
+  },
+  {
+    "key": "DP_0803_0281",
+    "original": "かんじょうポケモン",
+    "translation": "かんじょうポケモン",
+    "index": 281
+  },
+  {
+    "key": "DP_0803_0282",
+    "original": "ほうようポケモン",
+    "translation": "ほうようポケモン",
+    "index": 282
+  },
+  {
+    "key": "DP_0803_0283",
+    "original": "あめんぼポケモン",
+    "translation": "あめんぼポケモン",
+    "index": 283
+  },
+  {
+    "key": "DP_0803_0284",
+    "original": "めだまポケモン",
+    "translation": "めだまポケモン",
+    "index": 284
+  },
+  {
+    "key": "DP_0803_0285",
+    "original": "きのこポケモン",
+    "translation": "きのこポケモン",
+    "index": 285
+  },
+  {
+    "key": "DP_0803_0286",
+    "original": "きのこポケモン",
+    "translation": "きのこポケモン",
+    "index": 286
+  },
+  {
+    "key": "DP_0803_0287",
+    "original": "なまけものポケモン",
+    "translation": "なまけものポケモン",
+    "index": 287
+  },
+  {
+    "key": "DP_0803_0288",
+    "original": "あばれザルポケモン",
+    "translation": "あばれザルポケモン",
+    "index": 288
+  },
+  {
+    "key": "DP_0803_0289",
+    "original": "ものぐさポケモン",
+    "translation": "ものぐさポケモン",
+    "index": 289
+  },
+  {
+    "key": "DP_0803_0290",
+    "original": "したづみポケモン",
+    "translation": "したづみポケモン",
+    "index": 290
+  },
+  {
+    "key": "DP_0803_0291",
+    "original": "しのびポケモン",
+    "translation": "しのびポケモン",
+    "index": 291
+  },
+  {
+    "key": "DP_0803_0292",
+    "original": "ぬけがらポケモン",
+    "translation": "ぬけがらポケモン",
+    "index": 292
+  },
+  {
+    "key": "DP_0803_0293",
+    "original": "ささやきポケモン",
+    "translation": "ささやきポケモン",
+    "index": 293
+  },
+  {
+    "key": "DP_0803_0294",
+    "original": "おおごえポケモン",
+    "translation": "おおごえポケモン",
+    "index": 294
+  },
+  {
+    "key": "DP_0803_0295",
+    "original": "そうおんポケモン",
+    "translation": "そうおんポケモン",
+    "index": 295
+  },
+  {
+    "key": "DP_0803_0296",
+    "original": "こんじょうポケモン",
+    "translation": "こんじょうポケモン",
+    "index": 296
+  },
+  {
+    "key": "DP_0803_0297",
+    "original": "つっぱりポケモン",
+    "translation": "つっぱりポケモン",
+    "index": 297
+  },
+  {
+    "key": "DP_0803_0298",
+    "original": "みずたまポケモン",
+    "translation": "みずたまポケモン",
+    "index": 298
+  },
+  {
+    "key": "DP_0803_0299",
+    "original": "コンパスポケモン",
+    "translation": "コンパスポケモン",
+    "index": 299
+  },
+  {
+    "key": "DP_0803_0300",
+    "original": "こねこポケモン",
+    "translation": "こねこポケモン",
+    "index": 300
+  },
+  {
+    "key": "DP_0803_0301",
+    "original": "おすましポケモン",
+    "translation": "おすましポケモン",
+    "index": 301
+  },
+  {
+    "key": "DP_0803_0302",
+    "original": "くらやみポケモン",
+    "translation": "くらやみポケモン",
+    "index": 302
+  },
+  {
+    "key": "DP_0803_0303",
+    "original": "あざむきポケモン",
+    "translation": "あざむきポケモン",
+    "index": 303
+  },
+  {
+    "key": "DP_0803_0304",
+    "original": "てつヨロイポケモン",
+    "translation": "てつヨロイポケモン",
+    "index": 304
+  },
+  {
+    "key": "DP_0803_0305",
+    "original": "てつヨロイポケモン",
+    "translation": "てつヨロイポケモン",
+    "index": 305
+  },
+  {
+    "key": "DP_0803_0306",
+    "original": "てつヨロイポケモン",
+    "translation": "てつヨロイポケモン",
+    "index": 306
+  },
+  {
+    "key": "DP_0803_0307",
+    "original": "めいそうポケモン",
+    "translation": "めいそうポケモン",
+    "index": 307
+  },
+  {
+    "key": "DP_0803_0308",
+    "original": "めいそうポケモン",
+    "translation": "めいそうポケモン",
+    "index": 308
+  },
+  {
+    "key": "DP_0803_0309",
+    "original": "いなずまポケモン",
+    "translation": "いなずまポケモン",
+    "index": 309
+  },
+  {
+    "key": "DP_0803_0310",
+    "original": "ほうでんポケモン",
+    "translation": "ほうでんポケモン",
+    "index": 310
+  },
+  {
+    "key": "DP_0803_0311",
+    "original": "おうえんポケモン",
+    "translation": "おうえんポケモン",
+    "index": 311
+  },
+  {
+    "key": "DP_0803_0312",
+    "original": "おうえんポケモン",
+    "translation": "おうえんポケモン",
+    "index": 312
+  },
+  {
+    "key": "DP_0803_0313",
+    "original": "ほたるポケモン",
+    "translation": "ほたるポケモン",
+    "index": 313
+  },
+  {
+    "key": "DP_0803_0314",
+    "original": "ほたるポケモン",
+    "translation": "ほたるポケモン",
+    "index": 314
+  },
+  {
+    "key": "DP_0803_0315",
+    "original": "いばらポケモン",
+    "translation": "いばらポケモン",
+    "index": 315
+  },
+  {
+    "key": "DP_0803_0316",
+    "original": "いぶくろポケモン",
+    "translation": "いぶくろポケモン",
+    "index": 316
+  },
+  {
+    "key": "DP_0803_0317",
+    "original": "どくぶくろポケモン",
+    "translation": "どくぶくろポケモン",
+    "index": 317
+  },
+  {
+    "key": "DP_0803_0318",
+    "original": "どうもうポケモン",
+    "translation": "どうもうポケモン",
+    "index": 318
+  },
+  {
+    "key": "DP_0803_0319",
+    "original": "きょうぼうポケモン",
+    "translation": "きょうぼうポケモン",
+    "index": 319
+  },
+  {
+    "key": "DP_0803_0320",
+    "original": "たまくじらポケモン",
+    "translation": "たまくじらポケモン",
+    "index": 320
+  },
+  {
+    "key": "DP_0803_0321",
+    "original": "うきくじらポケモン",
+    "translation": "うきくじらポケモン",
+    "index": 321
+  },
+  {
+    "key": "DP_0803_0322",
+    "original": "どんかんポケモン",
+    "translation": "どんかんポケモン",
+    "index": 322
+  },
+  {
+    "key": "DP_0803_0323",
+    "original": "ふんかポケモン",
+    "translation": "ふんかポケモン",
+    "index": 323
+  },
+  {
+    "key": "DP_0803_0324",
+    "original": "せきたんポケモン",
+    "translation": "せきたんポケモン",
+    "index": 324
+  },
+  {
+    "key": "DP_0803_0325",
+    "original": "とびはねポケモン",
+    "translation": "とびはねポケモン",
+    "index": 325
+  },
+  {
+    "key": "DP_0803_0326",
+    "original": "あやつりポケモン",
+    "translation": "あやつりポケモン",
+    "index": 326
+  },
+  {
+    "key": "DP_0803_0327",
+    "original": "ぶちパンダポケモン",
+    "translation": "ぶちパンダポケモン",
+    "index": 327
+  },
+  {
+    "key": "DP_0803_0328",
+    "original": "ありじごくポケモン",
+    "translation": "ありじごくポケモン",
+    "index": 328
+  },
+  {
+    "key": "DP_0803_0329",
+    "original": "しんどうポケモン",
+    "translation": "しんどうポケモン",
+    "index": 329
+  },
+  {
+    "key": "DP_0803_0330",
+    "original": "せいれいポケモン",
+    "translation": "せいれいポケモン",
+    "index": 330
+  },
+  {
+    "key": "DP_0803_0331",
+    "original": "サボテンポケモン",
+    "translation": "サボテンポケモン",
+    "index": 331
+  },
+  {
+    "key": "DP_0803_0332",
+    "original": "カカシぐさポケモン",
+    "translation": "カカシぐさポケモン",
+    "index": 332
+  },
+  {
+    "key": "DP_0803_0333",
+    "original": "わたどりポケモン",
+    "translation": "わたどりポケモン",
+    "index": 333
+  },
+  {
+    "key": "DP_0803_0334",
+    "original": "ハミングポケモン",
+    "translation": "ハミングポケモン",
+    "index": 334
+  },
+  {
+    "key": "DP_0803_0335",
+    "original": "ネコイタチポケモン",
+    "translation": "ネコイタチポケモン",
+    "index": 335
+  },
+  {
+    "key": "DP_0803_0336",
+    "original": "キバへびポケモン",
+    "translation": "キバへびポケモン",
+    "index": 336
+  },
+  {
+    "key": "DP_0803_0337",
+    "original": "いんせきポケモン",
+    "translation": "いんせきポケモン",
+    "index": 337
+  },
+  {
+    "key": "DP_0803_0338",
+    "original": "いんせきポケモン",
+    "translation": "いんせきポケモン",
+    "index": 338
+  },
+  {
+    "key": "DP_0803_0339",
+    "original": "ひげうおポケモン",
+    "translation": "ひげうおポケモン",
+    "index": 339
+  },
+  {
+    "key": "DP_0803_0340",
+    "original": "ひげうおポケモン",
+    "translation": "ひげうおポケモン",
+    "index": 340
+  },
+  {
+    "key": "DP_0803_0341",
+    "original": "ごろつきポケモン",
+    "translation": "ごろつきポケモン",
+    "index": 341
+  },
+  {
+    "key": "DP_0803_0342",
+    "original": "ならずものポケモン",
+    "translation": "ならずものポケモン",
+    "index": 342
+  },
+  {
+    "key": "DP_0803_0343",
+    "original": "どぐうポケモン",
+    "translation": "どぐうポケモン",
+    "index": 343
+  },
+  {
+    "key": "DP_0803_0344",
+    "original": "どぐうポケモン",
+    "translation": "どぐうポケモン",
+    "index": 344
+  },
+  {
+    "key": "DP_0803_0345",
+    "original": "ウミユリポケモン",
+    "translation": "ウミユリポケモン",
+    "index": 345
+  },
+  {
+    "key": "DP_0803_0346",
+    "original": "いわつぼポケモン",
+    "translation": "いわつぼポケモン",
+    "index": 346
+  },
+  {
+    "key": "DP_0803_0347",
+    "original": "むかしエビポケモン",
+    "translation": "むかしエビポケモン",
+    "index": 347
+  },
+  {
+    "key": "DP_0803_0348",
+    "original": "かっちゅうポケモン",
+    "translation": "かっちゅうポケモン",
+    "index": 348
+  },
+  {
+    "key": "DP_0803_0349",
+    "original": "さかなポケモン",
+    "translation": "さかなポケモン",
+    "index": 349
+  },
+  {
+    "key": "DP_0803_0350",
+    "original": "いつくしみポケモン",
+    "translation": "いつくしみポケモン",
+    "index": 350
+  },
+  {
+    "key": "DP_0803_0351",
+    "original": "てんきポケモン",
+    "translation": "てんきポケモン",
+    "index": 351
+  },
+  {
+    "key": "DP_0803_0352",
+    "original": "いろへんげポケモン",
+    "translation": "いろへんげポケモン",
+    "index": 352
+  },
+  {
+    "key": "DP_0803_0353",
+    "original": "にんぎょうポケモン",
+    "translation": "にんぎょうポケモン",
+    "index": 353
+  },
+  {
+    "key": "DP_0803_0354",
+    "original": "ぬいぐるみポケモン",
+    "translation": "ぬいぐるみポケモン",
+    "index": 354
+  },
+  {
+    "key": "DP_0803_0355",
+    "original": "おむかえポケモン",
+    "translation": "おむかえポケモン",
+    "index": 355
+  },
+  {
+    "key": "DP_0803_0356",
+    "original": "てまねきポケモン",
+    "translation": "てまねきポケモン",
+    "index": 356
+  },
+  {
+    "key": "DP_0803_0357",
+    "original": "フルーツポケモン",
+    "translation": "フルーツポケモン",
+    "index": 357
+  },
+  {
+    "key": "DP_0803_0358",
+    "original": "ふうりんポケモン",
+    "translation": "ふうりんポケモン",
+    "index": 358
+  },
+  {
+    "key": "DP_0803_0359",
+    "original": "わざわいポケモン",
+    "translation": "わざわいポケモン",
+    "index": 359
+  },
+  {
+    "key": "DP_0803_0360",
+    "original": "ほがらかポケモン",
+    "translation": "ほがらかポケモン",
+    "index": 360
+  },
+  {
+    "key": "DP_0803_0361",
+    "original": "ゆきかさポケモン",
+    "translation": "ゆきかさポケモン",
+    "index": 361
+  },
+  {
+    "key": "DP_0803_0362",
+    "original": "がんめんポケモン",
+    "translation": "がんめんポケモン",
+    "index": 362
+  },
+  {
+    "key": "DP_0803_0363",
+    "original": "てたたきポケモン",
+    "translation": "てたたきポケモン",
+    "index": 363
+  },
+  {
+    "key": "DP_0803_0364",
+    "original": "たままわしポケモン",
+    "translation": "たままわしポケモン",
+    "index": 364
+  },
+  {
+    "key": "DP_0803_0365",
+    "original": "こおりわりポケモン",
+    "translation": "こおりわりポケモン",
+    "index": 365
+  },
+  {
+    "key": "DP_0803_0366",
+    "original": "２まいがいポケモン",
+    "translation": "２まいがいポケモン",
+    "index": 366
+  },
+  {
+    "key": "DP_0803_0367",
+    "original": "しんかいポケモン",
+    "translation": "しんかいポケモン",
+    "index": 367
+  },
+  {
+    "key": "DP_0803_0368",
+    "original": "なんかいポケモン",
+    "translation": "なんかいポケモン",
+    "index": 368
+  },
+  {
+    "key": "DP_0803_0369",
+    "original": "ちょうじゅポケモン",
+    "translation": "ちょうじゅポケモン",
+    "index": 369
+  },
+  {
+    "key": "DP_0803_0370",
+    "original": "ランデブーポケモン",
+    "translation": "ランデブーポケモン",
+    "index": 370
+  },
+  {
+    "key": "DP_0803_0371",
+    "original": "いしあたまポケモン",
+    "translation": "いしあたまポケモン",
+    "index": 371
+  },
+  {
+    "key": "DP_0803_0372",
+    "original": "にんたいポケモン",
+    "translation": "にんたいポケモン",
+    "index": 372
+  },
+  {
+    "key": "DP_0803_0373",
+    "original": "ドラゴンポケモン",
+    "translation": "ドラゴンポケモン",
+    "index": 373
+  },
+  {
+    "key": "DP_0803_0374",
+    "original": "てっきゅうポケモン",
+    "translation": "てっきゅうポケモン",
+    "index": 374
+  },
+  {
+    "key": "DP_0803_0375",
+    "original": "てつツメポケモン",
+    "translation": "てつツメポケモン",
+    "index": 375
+  },
+  {
+    "key": "DP_0803_0376",
+    "original": "てつあしポケモン",
+    "translation": "てつあしポケモン",
+    "index": 376
+  },
+  {
+    "key": "DP_0803_0377",
+    "original": "いわやまポケモン",
+    "translation": "いわやまポケモン",
+    "index": 377
+  },
+  {
+    "key": "DP_0803_0378",
+    "original": "ひょうざんポケモン",
+    "translation": "ひょうざんポケモン",
+    "index": 378
+  },
+  {
+    "key": "DP_0803_0379",
+    "original": "くろがねポケモン",
+    "translation": "くろがねポケモン",
+    "index": 379
+  },
+  {
+    "key": "DP_0803_0380",
+    "original": "むげんポケモン",
+    "translation": "むげんポケモン",
+    "index": 380
+  },
+  {
+    "key": "DP_0803_0381",
+    "original": "むげんポケモン",
+    "translation": "むげんポケモン",
+    "index": 381
+  },
+  {
+    "key": "DP_0803_0382",
+    "original": "かいていポケモン",
+    "translation": "かいていポケモン",
+    "index": 382
+  },
+  {
+    "key": "DP_0803_0383",
+    "original": "たいりくポケモン",
+    "translation": "たいりくポケモン",
+    "index": 383
+  },
+  {
+    "key": "DP_0803_0384",
+    "original": "てんくうポケモン",
+    "translation": "てんくうポケモン",
+    "index": 384
+  },
+  {
+    "key": "DP_0803_0385",
+    "original": "ねがいごとポケモン",
+    "translation": "ねがいごとポケモン",
+    "index": 385
+  },
+  {
+    "key": "DP_0803_0386",
+    "original": "ＤＮＡポケモン",
+    "translation": "ＤＮＡポケモン",
+    "index": 386
+  },
+  {
+    "key": "DP_0803_0387",
+    "original": "わかばポケモン",
+    "translation": "わかばポケモン",
+    "index": 387
+  },
+  {
+    "key": "DP_0803_0388",
+    "original": "こだちポケモン",
+    "translation": "こだちポケモン",
+    "index": 388
+  },
+  {
+    "key": "DP_0803_0389",
+    "original": "たいりくポケモン",
+    "translation": "たいりくポケモン",
+    "index": 389
+  },
+  {
+    "key": "DP_0803_0390",
+    "original": "こざるポケモン",
+    "translation": "こざるポケモン",
+    "index": 390
+  },
+  {
+    "key": "DP_0803_0391",
+    "original": "やんちゃポケモン",
+    "translation": "やんちゃポケモン",
+    "index": 391
+  },
+  {
+    "key": "DP_0803_0392",
+    "original": "かえんポケモン",
+    "translation": "かえんポケモン",
+    "index": 392
+  },
+  {
+    "key": "DP_0803_0393",
+    "original": "ペンギンポケモン",
+    "translation": "ペンギンポケモン",
+    "index": 393
+  },
+  {
+    "key": "DP_0803_0394",
+    "original": "ペンギンポケモン",
+    "translation": "ペンギンポケモン",
+    "index": 394
+  },
+  {
+    "key": "DP_0803_0395",
+    "original": "こうていポケモン",
+    "translation": "こうていポケモン",
+    "index": 395
+  },
+  {
+    "key": "DP_0803_0396",
+    "original": "むくどりポケモン",
+    "translation": "むくどりポケモン",
+    "index": 396
+  },
+  {
+    "key": "DP_0803_0397",
+    "original": "むくどりポケモン",
+    "translation": "むくどりポケモン",
+    "index": 397
+  },
+  {
+    "key": "DP_0803_0398",
+    "original": "もうきんポケモン",
+    "translation": "もうきんポケモン",
+    "index": 398
+  },
+  {
+    "key": "DP_0803_0399",
+    "original": "まるねずみポケモン",
+    "translation": "まるねずみポケモン",
+    "index": 399
+  },
+  {
+    "key": "DP_0803_0400",
+    "original": "ビーバーポケモン",
+    "translation": "ビーバーポケモン",
+    "index": 400
+  },
+  {
+    "key": "DP_0803_0401",
+    "original": "こおろぎポケモン",
+    "translation": "こおろぎポケモン",
+    "index": 401
+  },
+  {
+    "key": "DP_0803_0402",
+    "original": "こおろぎポケモン",
+    "translation": "こおろぎポケモン",
+    "index": 402
+  },
+  {
+    "key": "DP_0803_0403",
+    "original": "せんこうポケモン",
+    "translation": "せんこうポケモン",
+    "index": 403
+  },
+  {
+    "key": "DP_0803_0404",
+    "original": "でんこうポケモン",
+    "translation": "でんこうポケモン",
+    "index": 404
+  },
+  {
+    "key": "DP_0803_0405",
+    "original": "がんこうポケモン",
+    "translation": "がんこうポケモン",
+    "index": 405
+  },
+  {
+    "key": "DP_0803_0406",
+    "original": "つぼみポケモン",
+    "translation": "つぼみポケモン",
+    "index": 406
+  },
+  {
+    "key": "DP_0803_0407",
+    "original": "ブーケポケモン",
+    "translation": "ブーケポケモン",
+    "index": 407
+  },
+  {
+    "key": "DP_0803_0408",
+    "original": "ずつきポケモン",
+    "translation": "ずつきポケモン",
+    "index": 408
+  },
+  {
+    "key": "DP_0803_0409",
+    "original": "ずつきポケモン",
+    "translation": "ずつきポケモン",
+    "index": 409
+  },
+  {
+    "key": "DP_0803_0410",
+    "original": "シールドポケモン",
+    "translation": "シールドポケモン",
+    "index": 410
+  },
+  {
+    "key": "DP_0803_0411",
+    "original": "シールドポケモン",
+    "translation": "シールドポケモン",
+    "index": 411
+  },
+  {
+    "key": "DP_0803_0412",
+    "original": "みのむしポケモン",
+    "translation": "みのむしポケモン",
+    "index": 412
+  },
+  {
+    "key": "DP_0803_0413",
+    "original": "みのむしポケモン",
+    "translation": "みのむしポケモン",
+    "index": 413
+  },
+  {
+    "key": "DP_0803_0414",
+    "original": "ミノガポケモン",
+    "translation": "ミノガポケモン",
+    "index": 414
+  },
+  {
+    "key": "DP_0803_0415",
+    "original": "はちのこポケモン",
+    "translation": "はちのこポケモン",
+    "index": 415
+  },
+  {
+    "key": "DP_0803_0416",
+    "original": "はちのすポケモン",
+    "translation": "はちのすポケモン",
+    "index": 416
+  },
+  {
+    "key": "DP_0803_0417",
+    "original": "でんきりすポケモン",
+    "translation": "でんきりすポケモン",
+    "index": 417
+  },
+  {
+    "key": "DP_0803_0418",
+    "original": "うみイタチポケモン",
+    "translation": "うみイタチポケモン",
+    "index": 418
+  },
+  {
+    "key": "DP_0803_0419",
+    "original": "うみイタチポケモン",
+    "translation": "うみイタチポケモン",
+    "index": 419
+  },
+  {
+    "key": "DP_0803_0420",
+    "original": "さくらんぼポケモン",
+    "translation": "さくらんぼポケモン",
+    "index": 420
+  },
+  {
+    "key": "DP_0803_0421",
+    "original": "サクラポケモン",
+    "translation": "サクラポケモン",
+    "index": 421
+  },
+  {
+    "key": "DP_0803_0422",
+    "original": "ウミウシポケモン",
+    "translation": "ウミウシポケモン",
+    "index": 422
+  },
+  {
+    "key": "DP_0803_0423",
+    "original": "ウミウシポケモン",
+    "translation": "ウミウシポケモン",
+    "index": 423
+  },
+  {
+    "key": "DP_0803_0424",
+    "original": "おながポケモン",
+    "translation": "おながポケモン",
+    "index": 424
+  },
+  {
+    "key": "DP_0803_0425",
+    "original": "ふうせんポケモン",
+    "translation": "ふうせんポケモン",
+    "index": 425
+  },
+  {
+    "key": "DP_0803_0426",
+    "original": "ききゅうポケモン",
+    "translation": "ききゅうポケモン",
+    "index": 426
+  },
+  {
+    "key": "DP_0803_0427",
+    "original": "うさぎポケモン",
+    "translation": "うさぎポケモン",
+    "index": 427
+  },
+  {
+    "key": "DP_0803_0428",
+    "original": "うさぎポケモン",
+    "translation": "うさぎポケモン",
+    "index": 428
+  },
+  {
+    "key": "DP_0803_0429",
+    "original": "マジカルポケモン",
+    "translation": "マジカルポケモン",
+    "index": 429
+  },
+  {
+    "key": "DP_0803_0430",
+    "original": "おおボスポケモン",
+    "translation": "おおボスポケモン",
+    "index": 430
+  },
+  {
+    "key": "DP_0803_0431",
+    "original": "ねこかぶりポケモン",
+    "translation": "ねこかぶりポケモン",
+    "index": 431
+  },
+  {
+    "key": "DP_0803_0432",
+    "original": "とらねこポケモン",
+    "translation": "とらねこポケモン",
+    "index": 432
+  },
+  {
+    "key": "DP_0803_0433",
+    "original": "すずポケモン",
+    "translation": "すずポケモン",
+    "index": 433
+  },
+  {
+    "key": "DP_0803_0434",
+    "original": "スカンクポケモン",
+    "translation": "スカンクポケモン",
+    "index": 434
+  },
+  {
+    "key": "DP_0803_0435",
+    "original": "スカンクポケモン",
+    "translation": "スカンクポケモン",
+    "index": 435
+  },
+  {
+    "key": "DP_0803_0436",
+    "original": "せいどうポケモン",
+    "translation": "せいどうポケモン",
+    "index": 436
+  },
+  {
+    "key": "DP_0803_0437",
+    "original": "どうたくポケモン",
+    "translation": "どうたくポケモン",
+    "index": 437
+  },
+  {
+    "key": "DP_0803_0438",
+    "original": "ぼんさいポケモン",
+    "translation": "ぼんさいポケモン",
+    "index": 438
+  },
+  {
+    "key": "DP_0803_0439",
+    "original": "マイムポケモン",
+    "translation": "マイムポケモン",
+    "index": 439
+  },
+  {
+    "key": "DP_0803_0440",
+    "original": "ままごとポケモン",
+    "translation": "ままごとポケモン",
+    "index": 440
+  },
+  {
+    "key": "DP_0803_0441",
+    "original": "おんぷポケモン",
+    "translation": "おんぷポケモン",
+    "index": 441
+  },
+  {
+    "key": "DP_0803_0442",
+    "original": "ふういんポケモン",
+    "translation": "ふういんポケモン",
+    "index": 442
+  },
+  {
+    "key": "DP_0803_0443",
+    "original": "りくザメポケモン",
+    "translation": "りくザメポケモン",
+    "index": 443
+  },
+  {
+    "key": "DP_0803_0444",
+    "original": "ほらあなポケモン",
+    "translation": "ほらあなポケモン",
+    "index": 444
+  },
+  {
+    "key": "DP_0803_0445",
+    "original": "マッハポケモン",
+    "translation": "マッハポケモン",
+    "index": 445
+  },
+  {
+    "key": "DP_0803_0446",
+    "original": "おおぐいポケモン",
+    "translation": "おおぐいポケモン",
+    "index": 446
+  },
+  {
+    "key": "DP_0803_0447",
+    "original": "はもんポケモン",
+    "translation": "はもんポケモン",
+    "index": 447
+  },
+  {
+    "key": "DP_0803_0448",
+    "original": "はどうポケモン",
+    "translation": "はどうポケモン",
+    "index": 448
+  },
+  {
+    "key": "DP_0803_0449",
+    "original": "カバポケモン",
+    "translation": "カバポケモン",
+    "index": 449
+  },
+  {
+    "key": "DP_0803_0450",
+    "original": "じゅうりょうポケモン",
+    "translation": "じゅうりょうポケモン",
+    "index": 450
+  },
+  {
+    "key": "DP_0803_0451",
+    "original": "さそりポケモン",
+    "translation": "さそりポケモン",
+    "index": 451
+  },
+  {
+    "key": "DP_0803_0452",
+    "original": "ばけさそりポケモン",
+    "translation": "ばけさそりポケモン",
+    "index": 452
+  },
+  {
+    "key": "DP_0803_0453",
+    "original": "どくづきポケモン",
+    "translation": "どくづきポケモン",
+    "index": 453
+  },
+  {
+    "key": "DP_0803_0454",
+    "original": "どくづきポケモン",
+    "translation": "どくづきポケモン",
+    "index": 454
+  },
+  {
+    "key": "DP_0803_0455",
+    "original": "むしとりポケモン",
+    "translation": "むしとりポケモン",
+    "index": 455
+  },
+  {
+    "key": "DP_0803_0456",
+    "original": "はねうおポケモン",
+    "translation": "はねうおポケモン",
+    "index": 456
+  },
+  {
+    "key": "DP_0803_0457",
+    "original": "ネオンポケモン",
+    "translation": "ネオンポケモン",
+    "index": 457
+  },
+  {
+    "key": "DP_0803_0458",
+    "original": "カイトポケモン",
+    "translation": "カイトポケモン",
+    "index": 458
+  },
+  {
+    "key": "DP_0803_0459",
+    "original": "じゅひょうポケモン",
+    "translation": "じゅひょうポケモン",
+    "index": 459
+  },
+  {
+    "key": "DP_0803_0460",
+    "original": "じゅひょうポケモン",
+    "translation": "じゅひょうポケモン",
+    "index": 460
+  },
+  {
+    "key": "DP_0803_0461",
+    "original": "かぎづめポケモン",
+    "translation": "かぎづめポケモン",
+    "index": 461
+  },
+  {
+    "key": "DP_0803_0462",
+    "original": "じばポケモン",
+    "translation": "じばポケモン",
+    "index": 462
+  },
+  {
+    "key": "DP_0803_0463",
+    "original": "なめまわしポケモン",
+    "translation": "なめまわしポケモン",
+    "index": 463
+  },
+  {
+    "key": "DP_0803_0464",
+    "original": "ドリルポケモン",
+    "translation": "ドリルポケモン",
+    "index": 464
+  },
+  {
+    "key": "DP_0803_0465",
+    "original": "ツルじょうポケモン",
+    "translation": "ツルじょうポケモン",
+    "index": 465
+  },
+  {
+    "key": "DP_0803_0466",
+    "original": "らいでんポケモン",
+    "translation": "らいでんポケモン",
+    "index": 466
+  },
+  {
+    "key": "DP_0803_0467",
+    "original": "ばくえんポケモン",
+    "translation": "ばくえんポケモン",
+    "index": 467
+  },
+  {
+    "key": "DP_0803_0468",
+    "original": "しゅくふくポケモン",
+    "translation": "しゅくふくポケモン",
+    "index": 468
+  },
+  {
+    "key": "DP_0803_0469",
+    "original": "オニトンボポケモン",
+    "translation": "オニトンボポケモン",
+    "index": 469
+  },
+  {
+    "key": "DP_0803_0470",
+    "original": "しんりょくポケモン",
+    "translation": "しんりょくポケモン",
+    "index": 470
+  },
+  {
+    "key": "DP_0803_0471",
+    "original": "しんせつポケモン",
+    "translation": "しんせつポケモン",
+    "index": 471
+  },
+  {
+    "key": "DP_0803_0472",
+    "original": "キバさそりポケモン",
+    "translation": "キバさそりポケモン",
+    "index": 472
+  },
+  {
+    "key": "DP_0803_0473",
+    "original": "２ほんキバポケモン",
+    "translation": "２ほんキバポケモン",
+    "index": 473
+  },
+  {
+    "key": "DP_0803_0474",
+    "original": "バーチャルポケモン",
+    "translation": "バーチャルポケモン",
+    "index": 474
+  },
+  {
+    "key": "DP_0803_0475",
+    "original": "やいばポケモン",
+    "translation": "やいばポケモン",
+    "index": 475
+  },
+  {
+    "key": "DP_0803_0476",
+    "original": "コンパスポケモン",
+    "translation": "コンパスポケモン",
+    "index": 476
+  },
+  {
+    "key": "DP_0803_0477",
+    "original": "てづかみポケモン",
+    "translation": "てづかみポケモン",
+    "index": 477
+  },
+  {
+    "key": "DP_0803_0478",
+    "original": "ゆきぐにポケモン",
+    "translation": "ゆきぐにポケモン",
+    "index": 478
+  },
+  {
+    "key": "DP_0803_0479",
+    "original": "プラズマポケモン",
+    "translation": "プラズマポケモン",
+    "index": 479
+  },
+  {
+    "key": "DP_0803_0480",
+    "original": "ちしきポケモン",
+    "translation": "ちしきポケモン",
+    "index": 480
+  },
+  {
+    "key": "DP_0803_0481",
+    "original": "かんじょうポケモン",
+    "translation": "かんじょうポケモン",
+    "index": 481
+  },
+  {
+    "key": "DP_0803_0482",
+    "original": "いしポケモン",
+    "translation": "いしポケモン",
+    "index": 482
+  },
+  {
+    "key": "DP_0803_0483",
+    "original": "じかんポケモン",
+    "translation": "じかんポケモン",
+    "index": 483
+  },
+  {
+    "key": "DP_0803_0484",
+    "original": "くうかんポケモン",
+    "translation": "くうかんポケモン",
+    "index": 484
+  },
+  {
+    "key": "DP_0803_0485",
+    "original": "かこうポケモン",
+    "translation": "かこうポケモン",
+    "index": 485
+  },
+  {
+    "key": "DP_0803_0486",
+    "original": "きょだいポケモン",
+    "translation": "きょだいポケモン",
+    "index": 486
+  },
+  {
+    "key": "DP_0803_0487",
+    "original": "はんこつポケモン",
+    "translation": "はんこつポケモン",
+    "index": 487
+  },
+  {
+    "key": "DP_0803_0488",
+    "original": "みかづきポケモン",
+    "translation": "みかづきポケモン",
+    "index": 488
+  },
+  {
+    "key": "DP_0803_0489",
+    "original": "かいようポケモン",
+    "translation": "かいようポケモン",
+    "index": 489
+  },
+  {
+    "key": "DP_0803_0490",
+    "original": "かいゆうポケモン",
+    "translation": "かいゆうポケモン",
+    "index": 490
+  },
+  {
+    "key": "DP_0803_0491",
+    "original": "あんこくポケモン",
+    "translation": "あんこくポケモン",
+    "index": 491
+  },
+  {
+    "key": "DP_0803_0492",
+    "original": "かんしゃポケモン",
+    "translation": "かんしゃポケモン",
+    "index": 492
+  },
+  {
+    "key": "DP_0803_0493",
+    "original": "そうぞうポケモン",
+    "translation": "そうぞうポケモン",
+    "index": 493
+  }
+]

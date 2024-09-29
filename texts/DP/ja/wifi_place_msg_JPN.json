@@ -1,0 +1,308 @@
+[
+  {
+    "key": "DP_0780_0000",
+    "original": "なし",
+    "translation": "なし",
+    "index": 0
+  },
+  {
+    "key": "DP_0780_0001",
+    "original": "ほっかいどう（さっぽろ）",
+    "translation": "ほっかいどう（さっぽろ）",
+    "index": 1
+  },
+  {
+    "key": "DP_0780_0002",
+    "original": "ほっかいどう（はこだて）",
+    "translation": "ほっかいどう（はこだて）",
+    "index": 2
+  },
+  {
+    "key": "DP_0780_0003",
+    "original": "ほっかいどう（わっかない）",
+    "translation": "ほっかいどう（わっかない）",
+    "index": 3
+  },
+  {
+    "key": "DP_0780_0004",
+    "original": "ほっかいどう（くしろ）",
+    "translation": "ほっかいどう（くしろ）",
+    "index": 4
+  },
+  {
+    "key": "DP_0780_0005",
+    "original": "あおもり",
+    "translation": "あおもり",
+    "index": 5
+  },
+  {
+    "key": "DP_0780_0006",
+    "original": "いわて",
+    "translation": "いわて",
+    "index": 6
+  },
+  {
+    "key": "DP_0780_0007",
+    "original": "みやぎ",
+    "translation": "みやぎ",
+    "index": 7
+  },
+  {
+    "key": "DP_0780_0008",
+    "original": "あきた",
+    "translation": "あきた",
+    "index": 8
+  },
+  {
+    "key": "DP_0780_0009",
+    "original": "やまがた",
+    "translation": "やまがた",
+    "index": 9
+  },
+  {
+    "key": "DP_0780_0010",
+    "original": "ふくしま",
+    "translation": "ふくしま",
+    "index": 10
+  },
+  {
+    "key": "DP_0780_0011",
+    "original": "いばらき",
+    "translation": "いばらき",
+    "index": 11
+  },
+  {
+    "key": "DP_0780_0012",
+    "original": "とちぎ",
+    "translation": "とちぎ",
+    "index": 12
+  },
+  {
+    "key": "DP_0780_0013",
+    "original": "ぐんま",
+    "translation": "ぐんま",
+    "index": 13
+  },
+  {
+    "key": "DP_0780_0014",
+    "original": "さいたま",
+    "translation": "さいたま",
+    "index": 14
+  },
+  {
+    "key": "DP_0780_0015",
+    "original": "ちば",
+    "translation": "ちば",
+    "index": 15
+  },
+  {
+    "key": "DP_0780_0016",
+    "original": "とうきょう",
+    "translation": "とうきょう",
+    "index": 16
+  },
+  {
+    "key": "DP_0780_0017",
+    "original": "かながわ",
+    "translation": "かながわ",
+    "index": 17
+  },
+  {
+    "key": "DP_0780_0018",
+    "original": "にいがた",
+    "translation": "にいがた",
+    "index": 18
+  },
+  {
+    "key": "DP_0780_0019",
+    "original": "とやま",
+    "translation": "とやま",
+    "index": 19
+  },
+  {
+    "key": "DP_0780_0020",
+    "original": "いしかわ",
+    "translation": "いしかわ",
+    "index": 20
+  },
+  {
+    "key": "DP_0780_0021",
+    "original": "ふくい",
+    "translation": "ふくい",
+    "index": 21
+  },
+  {
+    "key": "DP_0780_0022",
+    "original": "やまなし",
+    "translation": "やまなし",
+    "index": 22
+  },
+  {
+    "key": "DP_0780_0023",
+    "original": "ながの",
+    "translation": "ながの",
+    "index": 23
+  },
+  {
+    "key": "DP_0780_0024",
+    "original": "ぎふ",
+    "translation": "ぎふ",
+    "index": 24
+  },
+  {
+    "key": "DP_0780_0025",
+    "original": "しずおか",
+    "translation": "しずおか",
+    "index": 25
+  },
+  {
+    "key": "DP_0780_0026",
+    "original": "あいち",
+    "translation": "あいち",
+    "index": 26
+  },
+  {
+    "key": "DP_0780_0027",
+    "original": "みえ",
+    "translation": "みえ",
+    "index": 27
+  },
+  {
+    "key": "DP_0780_0028",
+    "original": "しが",
+    "translation": "しが",
+    "index": 28
+  },
+  {
+    "key": "DP_0780_0029",
+    "original": "きょうと",
+    "translation": "きょうと",
+    "index": 29
+  },
+  {
+    "key": "DP_0780_0030",
+    "original": "おおさか",
+    "translation": "おおさか",
+    "index": 30
+  },
+  {
+    "key": "DP_0780_0031",
+    "original": "ひょうご",
+    "translation": "ひょうご",
+    "index": 31
+  },
+  {
+    "key": "DP_0780_0032",
+    "original": "なら",
+    "translation": "なら",
+    "index": 32
+  },
+  {
+    "key": "DP_0780_0033",
+    "original": "わかやま",
+    "translation": "わかやま",
+    "index": 33
+  },
+  {
+    "key": "DP_0780_0034",
+    "original": "とっとり",
+    "translation": "とっとり",
+    "index": 34
+  },
+  {
+    "key": "DP_0780_0035",
+    "original": "しまね",
+    "translation": "しまね",
+    "index": 35
+  },
+  {
+    "key": "DP_0780_0036",
+    "original": "おかやま",
+    "translation": "おかやま",
+    "index": 36
+  },
+  {
+    "key": "DP_0780_0037",
+    "original": "ひろしま",
+    "translation": "ひろしま",
+    "index": 37
+  },
+  {
+    "key": "DP_0780_0038",
+    "original": "やまぐち",
+    "translation": "やまぐち",
+    "index": 38
+  },
+  {
+    "key": "DP_0780_0039",
+    "original": "とくしま",
+    "translation": "とくしま",
+    "index": 39
+  },
+  {
+    "key": "DP_0780_0040",
+    "original": "かがわ",
+    "translation": "かがわ",
+    "index": 40
+  },
+  {
+    "key": "DP_0780_0041",
+    "original": "えひめ",
+    "translation": "えひめ",
+    "index": 41
+  },
+  {
+    "key": "DP_0780_0042",
+    "original": "こうち",
+    "translation": "こうち",
+    "index": 42
+  },
+  {
+    "key": "DP_0780_0043",
+    "original": "ふくおか",
+    "translation": "ふくおか",
+    "index": 43
+  },
+  {
+    "key": "DP_0780_0044",
+    "original": "さが",
+    "translation": "さが",
+    "index": 44
+  },
+  {
+    "key": "DP_0780_0045",
+    "original": "ながさき",
+    "translation": "ながさき",
+    "index": 45
+  },
+  {
+    "key": "DP_0780_0046",
+    "original": "くまもと",
+    "translation": "くまもと",
+    "index": 46
+  },
+  {
+    "key": "DP_0780_0047",
+    "original": "おおいた",
+    "translation": "おおいた",
+    "index": 47
+  },
+  {
+    "key": "DP_0780_0048",
+    "original": "みやざき",
+    "translation": "みやざき",
+    "index": 48
+  },
+  {
+    "key": "DP_0780_0049",
+    "original": "かごしま",
+    "translation": "かごしま",
+    "index": 49
+  },
+  {
+    "key": "DP_0780_0050",
+    "original": "おきなわ",
+    "translation": "おきなわ",
+    "index": 50
+  }
+]

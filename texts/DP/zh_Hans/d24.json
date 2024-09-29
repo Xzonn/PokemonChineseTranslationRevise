@@ -1,0 +1,20 @@
+[
+  {
+    "key": "DP_0256_0000",
+    "original": "ふね のるかい？",
+    "translation": "要乘船吗？",
+    "index": 0
+  },
+  {
+    "key": "DP_0256_0001",
+    "original": "じゃ いくぜ！\\f\n",
+    "translation": "那我们出发吧！\\f\n",
+    "index": 1
+  },
+  {
+    "key": "DP_0256_0002",
+    "original": "そうかい きがむいたら\nまた こえを かけてくれよ",
+    "translation": "是吗，如果你改变心意了，\n再来找我吧。",
+    "index": 2
+  }
+]

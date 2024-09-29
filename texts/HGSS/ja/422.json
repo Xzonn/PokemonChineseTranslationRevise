@@ -1,0 +1,170 @@
+[
+  {
+    "key": "HGSS_0422_0000",
+    "original": "エリアを どうする？",
+    "translation": "エリアを どうする？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0422_0001",
+    "original": "どれと とりかえる？",
+    "translation": "どれと とりかえる？",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0422_0002",
+    "original": "どこに いどうする？",
+    "translation": "どこに いどうする？",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0422_0003",
+    "original": "はいちした ブロックが\nとれますが よろしいですか？",
+    "translation": "はいちした ブロックが\nとれますが よろしいですか？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0422_0004",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0422_0005",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0422_0006",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0422_0007",
+    "original": "とりかえる",
+    "translation": "とりかえる",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0422_0008",
+    "original": "ならびかえ",
+    "translation": "ならびかえ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0422_0009",
+    "original": "[0132,0000]／２",
+    "translation": "[0132,0000]／２",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0422_0010",
+    "original": "そうげんに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "そうげんに いる ポケモンが\nすきそうな ブロックの かず",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0422_0011",
+    "original": "もりに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "もりに いる ポケモンが\nすきそうな ブロックの かず",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0422_0012",
+    "original": "いわばに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "いわばに いる ポケモンが\nすきそうな ブロックの かず",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0422_0013",
+    "original": "みずべに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "みずべに いる ポケモンが\nすきそうな ブロックの かず",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0422_0014",
+    "original": "そのほかの ブロックの かず",
+    "translation": "そのほかの ブロックの かず",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0422_0015",
+    "original": "[0133,0000]こ",
+    "translation": "[0133,0000]こ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0422_0016",
+    "original": "そうげん",
+    "translation": "そうげん",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0422_0017",
+    "original": "はなばたけ",
+    "translation": "はなばたけ",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0422_0018",
+    "original": "サバンナ",
+    "translation": "サバンナ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0422_0019",
+    "original": "いわば",
+    "translation": "いわば",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0422_0020",
+    "original": "みずべのいわば",
+    "translation": "みずべのいわば",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0422_0021",
+    "original": "しつげん",
+    "translation": "しつげん",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0422_0022",
+    "original": "もり",
+    "translation": "もり",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0422_0023",
+    "original": "みずべのもり",
+    "translation": "みずべのもり",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0422_0024",
+    "original": "ぬまち",
+    "translation": "ぬまち",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0422_0025",
+    "original": "あれち",
+    "translation": "あれち",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0422_0026",
+    "original": "やま",
+    "translation": "やま",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0422_0027",
+    "original": "さばく",
+    "translation": "さばく",
+    "index": 27
+  }
+]

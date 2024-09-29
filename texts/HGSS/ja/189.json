@@ -1,0 +1,2852 @@
+[
+  {
+    "key": "HGSS_0189_0000",
+    "original": "どく",
+    "translation": "どく",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0189_0001",
+    "original": "まひ",
+    "translation": "まひ",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0189_0002",
+    "original": "ねむり",
+    "translation": "ねむり",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0189_0003",
+    "original": "やけど",
+    "translation": "やけど",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0189_0004",
+    "original": "こおり",
+    "translation": "こおり",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0189_0005",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0189_0006",
+    "original": "シングルバトル",
+    "translation": "シングルバトル",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0189_0007",
+    "original": "ダブルバトル",
+    "translation": "ダブルバトル",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0189_0008",
+    "original": "ミックスバトル",
+    "translation": "ミックスバトル",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0189_0009",
+    "original": "マルチバトル",
+    "translation": "マルチバトル",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0189_0010",
+    "original": "フラットバトル",
+    "translation": "フラットバトル",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0189_0011",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0189_0012",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0189_0013",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0189_0014",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0189_0015",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0189_0016",
+    "original": "げんざいの フロア",
+    "translation": "げんざいの フロア",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0189_0017",
+    "original": "[0132,0000]かい",
+    "translation": "[0132,0000]かい",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0189_0018",
+    "original": "かっこよさ",
+    "translation": "かっこよさ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0189_0019",
+    "original": "うつくしさ",
+    "translation": "うつくしさ",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0189_0020",
+    "original": "かわいさ",
+    "translation": "かわいさ",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0189_0021",
+    "original": "たくましさ",
+    "translation": "たくましさ",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0189_0022",
+    "original": "かしこさ",
+    "translation": "かしこさ",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0189_0023",
+    "original": "こうかん",
+    "translation": "こうかん",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0189_0024",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0189_0025",
+    "original": "ファンシーカップ",
+    "translation": "ファンシーカップ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0189_0026",
+    "original": "イエローカップ",
+    "translation": "イエローカップ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0189_0027",
+    "original": "リトルカップ",
+    "translation": "リトルカップ",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0189_0028",
+    "original": "ミドルカップ",
+    "translation": "ミドルカップ",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0189_0029",
+    "original": "ヘビーカップ",
+    "translation": "ヘビーカップ",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0189_0030",
+    "original": "[011A,0000]カップ",
+    "translation": "[011A,0000]カップ",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0189_0031",
+    "original": "[011A,0001]カップ",
+    "translation": "[011A,0001]カップ",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0189_0032",
+    "original": "[011A,0002]カップ",
+    "translation": "[011A,0002]カップ",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0189_0033",
+    "original": "[011A,0003]カップ",
+    "translation": "[011A,0003]カップ",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0189_0034",
+    "original": "[011A,0004]カップ",
+    "translation": "[011A,0004]カップ",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0189_0035",
+    "original": "あずかりシステム",
+    "translation": "あずかりシステム",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0189_0036",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0189_0037",
+    "original": "スイッチをきる",
+    "translation": "スイッチをきる",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0189_0038",
+    "original": "ふつうに たいせん",
+    "translation": "ふつうに たいせん",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0189_0039",
+    "original": "ルールブックをつかう",
+    "translation": "ルールブックをつかう",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0189_0040",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0189_0041",
+    "original": "ルールをみる",
+    "translation": "ルールをみる",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0189_0042",
+    "original": "はい",
+    "translation": "はい",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0189_0043",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0189_0044",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0189_0045",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0189_0046",
+    "original": "[0205]はい",
+    "translation": "[0205]はい",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0189_0047",
+    "original": "[0205]いいえ",
+    "translation": "[0205]いいえ",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0189_0048",
+    "original": "ほのお",
+    "translation": "ほのお",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0189_0049",
+    "original": "みず",
+    "translation": "みず",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0189_0050",
+    "original": "くさ",
+    "translation": "くさ",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0189_0051",
+    "original": "カード",
+    "translation": "カード",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0189_0052",
+    "original": "たいせん",
+    "translation": "たいせん",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0189_0053",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0189_0054",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0189_0055",
+    "original": "[0103,0002]",
+    "translation": "[0103,0002]",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0189_0056",
+    "original": "[0103,0003]",
+    "translation": "[0103,0003]",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0189_0057",
+    "original": "ひりょうをまく",
+    "translation": "ひりょうをまく",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0189_0058",
+    "original": "きのみをうめる",
+    "translation": "きのみをうめる",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0189_0059",
+    "original": "おえかき",
+    "translation": "おえかき",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0189_0060",
+    "original": " ",
+    "translation": " ",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0189_0061",
+    "original": "だれかのパソコン",
+    "translation": "だれかのパソコン",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0189_0062",
+    "original": "マサキのパソコン",
+    "translation": "マサキのパソコン",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0189_0063",
+    "original": "[0103,0000]のパソコン",
+    "translation": "[0103,0000]のパソコン",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0189_0064",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0189_0065",
+    "original": "フォトアルバム",
+    "translation": "フォトアルバム",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0189_0066",
+    "original": "スイッチを きる",
+    "translation": "スイッチを きる",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0189_0067",
+    "original": "ポケモンを\nあずける",
+    "translation": "ポケモンを\nあずける",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0189_0068",
+    "original": "ポケモンを\nつれていく",
+    "translation": "ポケモンを\nつれていく",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0189_0069",
+    "original": "ボックスを\nせいりする",
+    "translation": "ボックスを\nせいりする",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0189_0070",
+    "original": "もちものを\nせいりする",
+    "translation": "もちものを\nせいりする",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0189_0071",
+    "original": "つよさ くらべ",
+    "translation": "つよさ くらべ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0189_0072",
+    "original": "さようなら",
+    "translation": "さようなら",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0189_0073",
+    "original": "メールボックス",
+    "translation": "メールボックス",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0189_0074",
+    "original": "ボールカプセル",
+    "translation": "ボールカプセル",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0189_0075",
+    "original": "せつぞくを きる",
+    "translation": "せつぞくを きる",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0189_0076",
+    "original": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "translation": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0189_0077",
+    "original": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "translation": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0189_0078",
+    "original": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "translation": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0189_0079",
+    "original": "ポケモンが もっている どうぐを\nせいり できます",
+    "translation": "ポケモンが もっている どうぐを\nせいり できます",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0189_0080",
+    "original": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "translation": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0189_0081",
+    "original": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "translation": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0189_0082",
+    "original": "メールを ２０つう まで\nほぞん することが できます",
+    "translation": "メールを ２０つう まで\nほぞん することが できます",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0189_0083",
+    "original": "ボールカプセルの\nセットや へんしゅうが できます",
+    "translation": "ボールカプセルの\nセットや へんしゅうが できます",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0189_0084",
+    "original": "じぶんのパソコン への つうしんを\nせつだん します",
+    "translation": "じぶんのパソコン への つうしんを\nせつだん します",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0189_0085",
+    "original": "きねんに さつえいした しゃしんを\nみることが できます",
+    "translation": "きねんに さつえいした しゃしんを\nみることが できます",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0189_0086",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0189_0087",
+    "original": "ないようを よむ",
+    "translation": "ないようを よむ",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0189_0088",
+    "original": "バッグに もどす",
+    "translation": "バッグに もどす",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0189_0089",
+    "original": "ポケモンに もたせる",
+    "translation": "ポケモンに もたせる",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0189_0090",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0189_0091",
+    "original": "とりだす",
+    "translation": "とりだす",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0189_0092",
+    "original": "さんかする",
+    "translation": "さんかする",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0189_0093",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0189_0094",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0189_0095",
+    "original": "またのさんかを\nおまちしております",
+    "translation": "またのさんかを\nおまちしております",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0189_0096",
+    "original": "コンテストのきほん",
+    "translation": "コンテストのきほん",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0189_0097",
+    "original": "コンテストのしゅるい",
+    "translation": "コンテストのしゅるい",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0189_0098",
+    "original": "ランクについて",
+    "translation": "ランクについて",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0189_0099",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0189_0100",
+    "original": "コンテストとは？",
+    "translation": "コンテストとは？",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0189_0101",
+    "original": "ビジュアルぶもん",
+    "translation": "ビジュアルぶもん",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0189_0102",
+    "original": "ダンスぶもん",
+    "translation": "ダンスぶもん",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0189_0103",
+    "original": "えんぎぶもん",
+    "translation": "えんぎぶもん",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0189_0104",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0189_0105",
+    "original": "ノーマルランク",
+    "translation": "ノーマルランク",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0189_0106",
+    "original": "グレートランク",
+    "translation": "グレートランク",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0189_0107",
+    "original": "ウルトラランク",
+    "translation": "ウルトラランク",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0189_0108",
+    "original": "マスターランク",
+    "translation": "マスターランク",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0189_0109",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0189_0110",
+    "original": "かっこよさコンテスト",
+    "translation": "かっこよさコンテスト",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0189_0111",
+    "original": "うつくしさコンテスト",
+    "translation": "うつくしさコンテスト",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0189_0112",
+    "original": "かわいさコンテスト",
+    "translation": "かわいさコンテスト",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0189_0113",
+    "original": "かしこさコンテスト",
+    "translation": "かしこさコンテスト",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0189_0114",
+    "original": "たくましさコンテスト",
+    "translation": "たくましさコンテスト",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0189_0115",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0189_0116",
+    "original": "１かい",
+    "translation": "１かい",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0189_0117",
+    "original": "２かい",
+    "translation": "２かい",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0189_0118",
+    "original": "３かい",
+    "translation": "３かい",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0189_0119",
+    "original": "４かい",
+    "translation": "４かい",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0189_0120",
+    "original": "５かい",
+    "translation": "５かい",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0189_0121",
+    "original": "６かい",
+    "translation": "６かい",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0189_0122",
+    "original": "ちか１かい",
+    "translation": "ちか１かい",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0189_0123",
+    "original": "ちか２かい",
+    "translation": "ちか２かい",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0189_0124",
+    "original": "てんぼうしつ",
+    "translation": "てんぼうしつ",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0189_0125",
+    "original": "おくじょう",
+    "translation": "おくじょう",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0189_0126",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0189_0127",
+    "original": "５０まい[0203,003C]１０００¥   ",
+    "translation": "５０まい[0203,003C]１０００¥   ",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0189_0128",
+    "original": "５００まい[0203,003C]１００００¥  ",
+    "translation": "５００まい[0203,003C]１００００¥  ",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0189_0129",
+    "original": "いらない ",
+    "translation": "いらない ",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0189_0130",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0189_0131",
+    "original": "こうかんを する",
+    "translation": "こうかんを する",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0189_0132",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0189_0133",
+    "original": "ポケモンをあずけるって？",
+    "translation": "ポケモンをあずけるって？",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0189_0134",
+    "original": "ポケモンをさがすって？",
+    "translation": "ポケモンをさがすって？",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0189_0135",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0189_0136",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0189_0137",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0189_0138",
+    "original": "やめる             ",
+    "translation": "やめる             ",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0189_0139",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0189_0140",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0189_0141",
+    "original": "ぐるぐる",
+    "translation": "ぐるぐる",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0189_0142",
+    "original": "レコード",
+    "translation": "レコード",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0189_0143",
+    "original": "ちょうせんする",
+    "translation": "ちょうせんする",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0189_0144",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0189_0145",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0189_0146",
+    "original": "シングル",
+    "translation": "シングル",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0189_0147",
+    "original": "ダブル",
+    "translation": "ダブル",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0189_0148",
+    "original": "つづける",
+    "translation": "つづける",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0189_0149",
+    "original": "やすむ",
+    "translation": "やすむ",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0189_0150",
+    "original": "リタイア",
+    "translation": "リタイア",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0189_0151",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0189_0152",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0189_0153",
+    "original": "れきだいリーダー\nをみる",
+    "translation": "れきだいリーダー\nをみる",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0189_0154",
+    "original": "まえのへやに\nちょうせんする",
+    "translation": "まえのへやに\nちょうせんする",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0189_0155",
+    "original": "れきだいリーダーをみる",
+    "translation": "れきだいリーダーをみる",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0189_0156",
+    "original": "ともだちを とうろくするには？",
+    "translation": "ともだちを とうろくするには？",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0189_0157",
+    "original": "もう わかった！",
+    "translation": "もう わかった！",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0189_0158",
+    "original": "もういっかい おしえて！",
+    "translation": "もういっかい おしえて！",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0189_0159",
+    "original": "ひみつのコハク",
+    "translation": "ひみつのコハク",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0189_0160",
+    "original": "かいのカセキ",
+    "translation": "かいのカセキ",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0189_0161",
+    "original": "こうらのカセキ",
+    "translation": "こうらのカセキ",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0189_0162",
+    "original": "ねっこのカセキ",
+    "translation": "ねっこのカセキ",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0189_0163",
+    "original": "ツメのカセキ",
+    "translation": "ツメのカセキ",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0189_0164",
+    "original": "たてのカセキ",
+    "translation": "たてのカセキ",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0189_0165",
+    "original": "ずがいのカセキ",
+    "translation": "ずがいのカセキ",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0189_0166",
+    "original": "ふたりで たいせん",
+    "translation": "ふたりで たいせん",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0189_0167",
+    "original": "４にんで たいせん",
+    "translation": "４にんで たいせん",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0189_0168",
+    "original": "あいさつ",
+    "translation": "あいさつ",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0189_0169",
+    "original": "おはなしする",
+    "translation": "おはなしする",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0189_0170",
+    "original": "チャット",
+    "translation": "チャット",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0189_0171",
+    "original": "[0108,0000][0203,0060][0136,0001]",
+    "translation": "[0108,0000][0203,0060][0136,0001]",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0189_0172",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0189_0173",
+    "original": "わざマシン２４   ４０００まい ",
+    "translation": "わざマシン２４   ４０００まい ",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0189_0174",
+    "original": "わざマシン３０   ４５００まい ",
+    "translation": "わざマシン３０   ４５００まい ",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0189_0175",
+    "original": "わざマシン３５   ４０００まい ",
+    "translation": "わざマシン３５   ４０００まい ",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0189_0176",
+    "original": "いらない",
+    "translation": "いらない",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0189_0177",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0189_0178",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0189_0179",
+    "original": "ビジュアル",
+    "translation": "ビジュアル",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0189_0180",
+    "original": "ダンス",
+    "translation": "ダンス",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0189_0181",
+    "original": "えんぎ",
+    "translation": "えんぎ",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0189_0182",
+    "original": "れんしゅうって？",
+    "translation": "れんしゅうって？",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0189_0183",
+    "original": "ハタ",
+    "translation": "ハタ",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0189_0184",
+    "original": "タマ",
+    "translation": "タマ",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0189_0185",
+    "original": "トラップ",
+    "translation": "トラップ",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0189_0186",
+    "original": "グッズ",
+    "translation": "グッズ",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0189_0187",
+    "original": "たから",
+    "translation": "たから",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0189_0188",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "まえのへやに ちょうせんする",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0189_0189",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0189_0190",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0189_0191",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0189_0192",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0189_0193",
+    "original": "[0136,0000]まい",
+    "translation": "[0136,0000]まい",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0189_0194",
+    "original": "きほんルール",
+    "translation": "きほんルール",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0189_0195",
+    "original": "ほかくショー",
+    "translation": "ほかくショー",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0189_0196",
+    "original": "あずけかた",
+    "translation": "あずけかた",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0189_0197",
+    "original": "あずけかた２",
+    "translation": "あずけかた２",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0189_0198",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0189_0199",
+    "original": "さんか する",
+    "translation": "さんか する",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0189_0200",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0189_0201",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0189_0202",
+    "original": "ポケモンをえらぶ",
+    "translation": "ポケモンをえらぶ",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0189_0203",
+    "original": "せつめい",
+    "translation": "せつめい",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0189_0204",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0189_0205",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0189_0206",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0189_0207",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0189_0208",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0189_0209",
+    "original": "おいしいみず[0203,0050]２００¥",
+    "translation": "おいしいみず[0203,0050]２００¥",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0189_0210",
+    "original": "サイコソーダ[0203,0050]３００¥",
+    "translation": "サイコソーダ[0203,0050]３００¥",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0189_0211",
+    "original": "ミックスオレ[0203,0050]３５０¥",
+    "translation": "ミックスオレ[0203,0050]３５０¥",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0189_0212",
+    "original": "いらない         ",
+    "translation": "いらない         ",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0189_0213",
+    "original": "すくすくこやし[0203,005A]\n２００¥",
+    "translation": "すくすくこやし[0203,005A]\n２００¥",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0189_0214",
+    "original": "じめじめこやし[0203,005A]\n２００¥",
+    "translation": "じめじめこやし[0203,005A]\n２００¥",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0189_0215",
+    "original": "ながながこやし[0203,005A]\n２００¥",
+    "translation": "ながながこやし[0203,005A]\n２００¥",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0189_0216",
+    "original": "ねばねばこやし[0203,005A]\n２００¥",
+    "translation": "ねばねばこやし[0203,005A]\n２００¥",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0189_0217",
+    "original": "やめる            ",
+    "translation": "やめる            ",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0189_0218",
+    "original": "なんでもない",
+    "translation": "なんでもない",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0189_0219",
+    "original": "おすすめは？",
+    "translation": "おすすめは？",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0189_0220",
+    "original": "[0135,0000]ＢＰ",
+    "translation": "[0135,0000]ＢＰ",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0189_0221",
+    "original": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "translation": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0189_0222",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0189_0223",
+    "original": "[0136,0000]Ｐ",
+    "translation": "[0136,0000]Ｐ",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0189_0224",
+    "original": "デジタルどけい",
+    "translation": "デジタルどけい",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0189_0225",
+    "original": "ストップウォッチ",
+    "translation": "ストップウォッチ",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0189_0226",
+    "original": "けいさんき",
+    "translation": "けいさんき",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0189_0227",
+    "original": "メモようし",
+    "translation": "メモようし",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0189_0228",
+    "original": "アナログどけい",
+    "translation": "アナログどけい",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0189_0229",
+    "original": "ドットアート",
+    "translation": "ドットアート",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0189_0230",
+    "original": "ポケモンリスト",
+    "translation": "ポケモンリスト",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0189_0231",
+    "original": "なつきチェッカー",
+    "translation": "なつきチェッカー",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0189_0232",
+    "original": "ダウジングマシン",
+    "translation": "ダウジングマシン",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0189_0233",
+    "original": "カウンター",
+    "translation": "カウンター",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0189_0234",
+    "original": "ほすうカウンター",
+    "translation": "ほすうカウンター",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0189_0235",
+    "original": "そだてやチェッカー",
+    "translation": "そだてやチェッカー",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0189_0236",
+    "original": "ルーレット",
+    "translation": "ルーレット",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0189_0237",
+    "original": "コイントス",
+    "translation": "コイントス",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0189_0238",
+    "original": "わざこうかチェッカー",
+    "translation": "わざこうかチェッカー",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0189_0239",
+    "original": "あいしょうチェッカー",
+    "translation": "あいしょうチェッカー",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0189_0240",
+    "original": "アラームどけい",
+    "translation": "アラームどけい",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0189_0241",
+    "original": "キッチンタイマー",
+    "translation": "キッチンタイマー",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0189_0242",
+    "original": "マーキングマップ",
+    "translation": "マーキングマップ",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0189_0243",
+    "original": "きのみサーチャー",
+    "translation": "きのみサーチャー",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0189_0244",
+    "original": "カラーチェンジャー",
+    "translation": "カラーチェンジャー",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0189_0245",
+    "original": "カレンダー",
+    "translation": "カレンダー",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0189_0246",
+    "original": "つうしんサーチャー",
+    "translation": "つうしんサーチャー",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0189_0247",
+    "original": "ポケトレカウンター",
+    "translation": "ポケトレカウンター",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0189_0248",
+    "original": "ポケモンヒストリー",
+    "translation": "ポケモンヒストリー",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0189_0249",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0189_0250",
+    "original": "その１",
+    "translation": "その１",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0189_0251",
+    "original": "その２",
+    "translation": "その２",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0189_0252",
+    "original": "その３",
+    "translation": "その３",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0189_0253",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0189_0254",
+    "original": "ダークボール",
+    "translation": "ダークボール",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0189_0255",
+    "original": "ヒールボール",
+    "translation": "ヒールボール",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0189_0256",
+    "original": "クイックボール",
+    "translation": "クイックボール",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0189_0257",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0189_0258",
+    "original": "ダイブボール",
+    "translation": "ダイブボール",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0189_0259",
+    "original": "うちゅうのはじまり",
+    "translation": "うちゅうのはじまり",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0189_0260",
+    "original": "しんわのポケモン",
+    "translation": "しんわのポケモン",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0189_0261",
+    "original": "あかいくさり",
+    "translation": "あかいくさり",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0189_0262",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0189_0263",
+    "original": "きろくする",
+    "translation": "きろくする",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0189_0264",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0189_0265",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0189_0266",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0189_0267",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0189_0268",
+    "original": "[0134,0000]こ",
+    "translation": "[0134,0000]こ",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0189_0269",
+    "original": "１こ",
+    "translation": "１こ",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0189_0270",
+    "original": "１０こ",
+    "translation": "１０こ",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0189_0271",
+    "original": "さんかする",
+    "translation": "さんかする",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0189_0272",
+    "original": "ポケスロンとは",
+    "translation": "ポケスロンとは",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0189_0273",
+    "original": "スピードコース",
+    "translation": "スピードコース",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0189_0274",
+    "original": "パワーコース",
+    "translation": "パワーコース",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0189_0275",
+    "original": "スタミナコース",
+    "translation": "スタミナコース",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0189_0276",
+    "original": "ジャンプコース",
+    "translation": "ジャンプコース",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0189_0277",
+    "original": "テクニックコース",
+    "translation": "テクニックコース",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0189_0278",
+    "original": "オールスターとは",
+    "translation": "オールスターとは",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0189_0279",
+    "original": "F.マスターコース",
+    "translation": "F.マスターコース",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0189_0280",
+    "original": "なかま",
+    "translation": "なかま",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0189_0281",
+    "original": "てした",
+    "translation": "てした",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0189_0282",
+    "original": "ともだち",
+    "translation": "ともだち",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0189_0283",
+    "original": "さくせん",
+    "translation": "さくせん",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0189_0284",
+    "original": "いくせい",
+    "translation": "いくせい",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0189_0285",
+    "original": "インチキ",
+    "translation": "インチキ",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0189_0286",
+    "original": "よわいひと",
+    "translation": "よわいひと",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0189_0287",
+    "original": "つよいひと",
+    "translation": "つよいひと",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0189_0288",
+    "original": "だれとでも",
+    "translation": "だれとでも",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0189_0289",
+    "original": "あいじょう",
+    "translation": "あいじょう",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0189_0290",
+    "original": "ぼうりょく",
+    "translation": "ぼうりょく",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0189_0291",
+    "original": "ちしき",
+    "translation": "ちしき",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0189_0292",
+    "original": "つよいほう",
+    "translation": "つよいほう",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0189_0293",
+    "original": "どっちも",
+    "translation": "どっちも",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0189_0294",
+    "original": "よわいほう",
+    "translation": "よわいほう",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0189_0295",
+    "original": "しゃしんをとる",
+    "translation": "しゃしんをとる",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0189_0296",
+    "original": "きょうぎについて",
+    "translation": "きょうぎについて",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0189_0297",
+    "original": "おにいさんについて",
+    "translation": "おにいさんについて",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0189_0298",
+    "original": "ダッシュハードル",
+    "translation": "ダッシュハードル",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0189_0299",
+    "original": "スティールフラッグ",
+    "translation": "スティールフラッグ",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0189_0300",
+    "original": "プッシュサークル",
+    "translation": "プッシュサークル",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0189_0301",
+    "original": "ブレイクブロック",
+    "translation": "ブレイクブロック",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0189_0302",
+    "original": "キャッチソーサー",
+    "translation": "キャッチソーサー",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0189_0303",
+    "original": "バウンドフィールド",
+    "translation": "バウンドフィールド",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0189_0304",
+    "original": "チェンジリレー",
+    "translation": "チェンジリレー",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0189_0305",
+    "original": "リングアウトファイト",
+    "translation": "リングアウトファイト",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0189_0306",
+    "original": "シューティングスノー",
+    "translation": "シューティングスノー",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0189_0307",
+    "original": "スマッシュゴール",
+    "translation": "スマッシュゴール",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0189_0308",
+    "original": "スピードコース",
+    "translation": "スピードコース",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0189_0309",
+    "original": "パワーコース",
+    "translation": "パワーコース",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0189_0310",
+    "original": "テクニックコース",
+    "translation": "テクニックコース",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0189_0311",
+    "original": "スタミナコース",
+    "translation": "スタミナコース",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0189_0312",
+    "original": "ジャンプコース",
+    "translation": "ジャンプコース",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0189_0313",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0189_0314",
+    "original": "わざマシン１４\nコイン ５５００まい",
+    "translation": "わざマシン１４\nコイン ５５００まい",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0189_0315",
+    "original": "わざマシン２５\nコイン ５５００まい",
+    "translation": "わざマシン２５\nコイン ５５００まい",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0189_0316",
+    "original": "わざマシン３８\nコイン ５５００まい",
+    "translation": "わざマシン３８\nコイン ５５００まい",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0189_0317",
+    "original": "ケーシィ\nコイン ２００まい",
+    "translation": "ケーシィ\nコイン ２００まい",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0189_0318",
+    "original": "アーボ\nコイン ７００まい",
+    "translation": "アーボ\nコイン ７００まい",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0189_0319",
+    "original": "サンド\nコイン ７００まい",
+    "translation": "サンド\nコイン ７００まい",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0189_0320",
+    "original": "ミニリュウ\nコイン ２１００まい",
+    "translation": "ミニリュウ\nコイン ２１００まい",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0189_0321",
+    "original": "かいに きた",
+    "translation": "かいに きた",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0189_0322",
+    "original": "うりに きた",
+    "translation": "うりに きた",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0189_0323",
+    "original": "なんでも ないです",
+    "translation": "なんでも ないです",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0189_0324",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0189_0325",
+    "original": "けいひん こうかん",
+    "translation": "けいひん こうかん",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0189_0326",
+    "original": "ボンドリンクって？",
+    "translation": "ボンドリンクって？",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0189_0327",
+    "original": "ボンドリンクのコツ！",
+    "translation": "ボンドリンクのコツ！",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0189_0328",
+    "original": "かう",
+    "translation": "かう",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0189_0329",
+    "original": "ラベルを みる",
+    "translation": "ラベルを みる",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0189_0330",
+    "original": "あずけている きんがく",
+    "translation": "あずけている きんがく",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0189_0331",
+    "original": "もっている きんがく",
+    "translation": "もっている きんがく",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0189_0332",
+    "original": "[0137,0000]¥",
+    "translation": "[0137,0000]¥",
+    "index": 332
+  },
+  {
+    "key": "HGSS_0189_0333",
+    "original": "Ａ このグループに はいる",
+    "translation": "Ａ このグループに はいる",
+    "index": 333
+  },
+  {
+    "key": "HGSS_0189_0334",
+    "original": "Ｂ やめる",
+    "translation": "Ｂ やめる",
+    "index": 334
+  },
+  {
+    "key": "HGSS_0189_0335",
+    "original": "Ｂ メンバーから ぬける",
+    "translation": "Ｂ メンバーから ぬける",
+    "index": 335
+  },
+  {
+    "key": "HGSS_0189_0336",
+    "original": "Ａ このメンバーで はじめる",
+    "translation": "Ａ このメンバーで はじめる",
+    "index": 336
+  },
+  {
+    "key": "HGSS_0189_0337",
+    "original": "おかねで かう",
+    "translation": "おかねで かう",
+    "index": 337
+  },
+  {
+    "key": "HGSS_0189_0338",
+    "original": "ポイントで かう",
+    "translation": "ポイントで かう",
+    "index": 338
+  },
+  {
+    "key": "HGSS_0189_0339",
+    "original": "おいしいみず[0203,0050]５０ポイント",
+    "translation": "おいしいみず[0203,0050]５０ポイント",
+    "index": 339
+  },
+  {
+    "key": "HGSS_0189_0340",
+    "original": "サイコソーダ[0203,0050]８０ポイント",
+    "translation": "サイコソーダ[0203,0050]８０ポイント",
+    "index": 340
+  },
+  {
+    "key": "HGSS_0189_0341",
+    "original": "ミックスオレ[0203,0050]１００ポイント",
+    "translation": "ミックスオレ[0203,0050]１００ポイント",
+    "index": 341
+  },
+  {
+    "key": "HGSS_0189_0342",
+    "original": "A.スピード＆\n ジャンプコース",
+    "translation": "A.スピード＆\n ジャンプコース",
+    "index": 342
+  },
+  {
+    "key": "HGSS_0189_0343",
+    "original": "B.ジャンプ＆\n テクニックコース",
+    "translation": "B.ジャンプ＆\n テクニックコース",
+    "index": 343
+  },
+  {
+    "key": "HGSS_0189_0344",
+    "original": "C.テクニック＆\n パワーコース",
+    "translation": "C.テクニック＆\n パワーコース",
+    "index": 344
+  },
+  {
+    "key": "HGSS_0189_0345",
+    "original": "D.パワー＆\n スタミナコース",
+    "translation": "D.パワー＆\n スタミナコース",
+    "index": 345
+  },
+  {
+    "key": "HGSS_0189_0346",
+    "original": "E.スタミナ＆\n スピードコース",
+    "translation": "E.スタミナ＆\n スピードコース",
+    "index": 346
+  },
+  {
+    "key": "HGSS_0189_0347",
+    "original": "そだてる\nどうぐ その１",
+    "translation": "そだてる\nどうぐ その１",
+    "index": 347
+  },
+  {
+    "key": "HGSS_0189_0348",
+    "original": "そだてる\nどうぐ その２",
+    "translation": "そだてる\nどうぐ その２",
+    "index": 348
+  },
+  {
+    "key": "HGSS_0189_0349",
+    "original": "たたかいの\nどうぐ その１",
+    "translation": "たたかいの\nどうぐ その１",
+    "index": 349
+  },
+  {
+    "key": "HGSS_0189_0350",
+    "original": "たたかいの\nどうぐ その２",
+    "translation": "たたかいの\nどうぐ その２",
+    "index": 350
+  },
+  {
+    "key": "HGSS_0189_0351",
+    "original": "ぶつり わざ",
+    "translation": "ぶつり わざ",
+    "index": 351
+  },
+  {
+    "key": "HGSS_0189_0352",
+    "original": "とくしゅ わざ",
+    "translation": "とくしゅ わざ",
+    "index": 352
+  },
+  {
+    "key": "HGSS_0189_0353",
+    "original": "へんか わざ",
+    "translation": "へんか わざ",
+    "index": 353
+  },
+  {
+    "key": "HGSS_0189_0354",
+    "original": "タウリン\n１BP",
+    "translation": "タウリン\n１BP",
+    "index": 354
+  },
+  {
+    "key": "HGSS_0189_0355",
+    "original": "リゾチウム\n１BP",
+    "translation": "リゾチウム\n１BP",
+    "index": 355
+  },
+  {
+    "key": "HGSS_0189_0356",
+    "original": "ブロムヘキシン\n１BP",
+    "translation": "ブロムヘキシン\n１BP",
+    "index": 356
+  },
+  {
+    "key": "HGSS_0189_0357",
+    "original": "キトサン\n１BP",
+    "translation": "キトサン\n１BP",
+    "index": 357
+  },
+  {
+    "key": "HGSS_0189_0358",
+    "original": "インドメタシン\n１BP",
+    "translation": "インドメタシン\n１BP",
+    "index": 358
+  },
+  {
+    "key": "HGSS_0189_0359",
+    "original": "マックスアップ\n１BP",
+    "translation": "マックスアップ\n１BP",
+    "index": 359
+  },
+  {
+    "key": "HGSS_0189_0360",
+    "original": "パワーリスト\n１６BP",
+    "translation": "パワーリスト\n１６BP",
+    "index": 360
+  },
+  {
+    "key": "HGSS_0189_0361",
+    "original": "パワーベルト\n１６BP",
+    "translation": "パワーベルト\n１６BP",
+    "index": 361
+  },
+  {
+    "key": "HGSS_0189_0362",
+    "original": "パワーレンズ\n１６BP",
+    "translation": "パワーレンズ\n１６BP",
+    "index": 362
+  },
+  {
+    "key": "HGSS_0189_0363",
+    "original": "パワーバンド\n１６BP",
+    "translation": "パワーバンド\n１６BP",
+    "index": 363
+  },
+  {
+    "key": "HGSS_0189_0364",
+    "original": "パワーアンクル\n１６BP",
+    "translation": "パワーアンクル\n１６BP",
+    "index": 364
+  },
+  {
+    "key": "HGSS_0189_0365",
+    "original": "パワーウエイト\n１６BP",
+    "translation": "パワーウエイト\n１６BP",
+    "index": 365
+  },
+  {
+    "key": "HGSS_0189_0366",
+    "original": "どくどくだま\n１６BP",
+    "translation": "どくどくだま\n１６BP",
+    "index": 366
+  },
+  {
+    "key": "HGSS_0189_0367",
+    "original": "かえんだま\n１６BP",
+    "translation": "かえんだま\n１６BP",
+    "index": 367
+  },
+  {
+    "key": "HGSS_0189_0368",
+    "original": "しろいハーブ\n３２BP",
+    "translation": "しろいハーブ\n３２BP",
+    "index": 368
+  },
+  {
+    "key": "HGSS_0189_0369",
+    "original": "パワフルハーブ\n３２BP",
+    "translation": "パワフルハーブ\n３２BP",
+    "index": 369
+  },
+  {
+    "key": "HGSS_0189_0370",
+    "original": "ひかりのこな\n４８BP",
+    "translation": "ひかりのこな\n４８BP",
+    "index": 370
+  },
+  {
+    "key": "HGSS_0189_0371",
+    "original": "こだわりハチマキ\n４８BP",
+    "translation": "こだわりハチマキ\n４８BP",
+    "index": 371
+  },
+  {
+    "key": "HGSS_0189_0372",
+    "original": "きあいのハチマキ\n４８BP",
+    "translation": "きあいのハチマキ\n４８BP",
+    "index": 372
+  },
+  {
+    "key": "HGSS_0189_0373",
+    "original": "ピントレンズ\n４８BP",
+    "translation": "ピントレンズ\n４８BP",
+    "index": 373
+  },
+  {
+    "key": "HGSS_0189_0374",
+    "original": "ちからのハチマキ\n４８BP",
+    "translation": "ちからのハチマキ\n４８BP",
+    "index": 374
+  },
+  {
+    "key": "HGSS_0189_0375",
+    "original": "きあいのタスキ\n４８BP",
+    "translation": "きあいのタスキ\n４８BP",
+    "index": 375
+  },
+  {
+    "key": "HGSS_0189_0376",
+    "original": "こだわりスカーフ\n４８BP",
+    "translation": "こだわりスカーフ\n４８BP",
+    "index": 376
+  },
+  {
+    "key": "HGSS_0189_0377",
+    "original": "するどいツメ\n４８BP",
+    "translation": "するどいツメ\n４８BP",
+    "index": 377
+  },
+  {
+    "key": "HGSS_0189_0378",
+    "original": "するどいキバ\n４８BP",
+    "translation": "するどいキバ\n４８BP",
+    "index": 378
+  },
+  {
+    "key": "HGSS_0189_0379",
+    "original": "ふしぎなアメ\n４８BP",
+    "translation": "ふしぎなアメ\n４８BP",
+    "index": 379
+  },
+  {
+    "key": "HGSS_0189_0380",
+    "original": "つばめがえし\n４０BP",
+    "translation": "つばめがえし\n４０BP",
+    "index": 380
+  },
+  {
+    "key": "HGSS_0189_0381",
+    "original": "かわらわり\n４０BP",
+    "translation": "かわらわり\n４０BP",
+    "index": 381
+  },
+  {
+    "key": "HGSS_0189_0382",
+    "original": "とんぼがえり\n４０BP",
+    "translation": "とんぼがえり\n４０BP",
+    "index": 382
+  },
+  {
+    "key": "HGSS_0189_0383",
+    "original": "シザークロス\n６４BP",
+    "translation": "シザークロス\n６４BP",
+    "index": 383
+  },
+  {
+    "key": "HGSS_0189_0384",
+    "original": "ストーンエッジ\n８０BP",
+    "translation": "ストーンエッジ\n８０BP",
+    "index": 384
+  },
+  {
+    "key": "HGSS_0189_0385",
+    "original": "じしん\n８０BP",
+    "translation": "じしん\n８０BP",
+    "index": 385
+  },
+  {
+    "key": "HGSS_0189_0386",
+    "original": "シャドーボール\n６４BP",
+    "translation": "シャドーボール\n６４BP",
+    "index": 386
+  },
+  {
+    "key": "HGSS_0189_0387",
+    "original": "エナジーボール\n６４BP",
+    "translation": "エナジーボール\n６４BP",
+    "index": 387
+  },
+  {
+    "key": "HGSS_0189_0388",
+    "original": "ヘドロばくだん\n８０BP",
+    "translation": "ヘドロばくだん\n８０BP",
+    "index": 388
+  },
+  {
+    "key": "HGSS_0189_0389",
+    "original": "りゅうのはどう\n８０BP",
+    "translation": "りゅうのはどう\n８０BP",
+    "index": 389
+  },
+  {
+    "key": "HGSS_0189_0390",
+    "original": "どくどく\n３２BP",
+    "translation": "どくどく\n３２BP",
+    "index": 390
+  },
+  {
+    "key": "HGSS_0189_0391",
+    "original": "でんじは\n３２BP",
+    "translation": "でんじは\n３２BP",
+    "index": 391
+  },
+  {
+    "key": "HGSS_0189_0392",
+    "original": "おにび\n３２BP",
+    "translation": "おにび\n３２BP",
+    "index": 392
+  },
+  {
+    "key": "HGSS_0189_0393",
+    "original": "メロメロ\n３２BP",
+    "translation": "メロメロ\n３２BP",
+    "index": 393
+  },
+  {
+    "key": "HGSS_0189_0394",
+    "original": "ビルドアップ\n４８BP",
+    "translation": "ビルドアップ\n４８BP",
+    "index": 394
+  },
+  {
+    "key": "HGSS_0189_0395",
+    "original": "めいそう\n４８BP",
+    "translation": "めいそう\n４８BP",
+    "index": 395
+  },
+  {
+    "key": "HGSS_0189_0396",
+    "original": "ポケモン １ひきの こうげきの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの こうげきの\nきそポイントを あげます",
+    "index": 396
+  },
+  {
+    "key": "HGSS_0189_0397",
+    "original": "ポケモン １ひきの とくこうの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの とくこうの\nきそポイントを あげます",
+    "index": 397
+  },
+  {
+    "key": "HGSS_0189_0398",
+    "original": "ポケモン １ひきの ぼうぎょの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの ぼうぎょの\nきそポイントを あげます",
+    "index": 398
+  },
+  {
+    "key": "HGSS_0189_0399",
+    "original": "ポケモン １ひきの とくぼうの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの とくぼうの\nきそポイントを あげます",
+    "index": 399
+  },
+  {
+    "key": "HGSS_0189_0400",
+    "original": "ポケモン １ひきの すばやさの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの すばやさの\nきそポイントを あげます",
+    "index": 400
+  },
+  {
+    "key": "HGSS_0189_0401",
+    "original": "ポケモン １ひきの HPの\nきそポイントを あげます",
+    "translation": "ポケモン １ひきの HPの\nきそポイントを あげます",
+    "index": 401
+  },
+  {
+    "key": "HGSS_0189_0402",
+    "original": "あたえると ポケモン １ひきの\nレベルが １だけ あがります",
+    "translation": "あたえると ポケモン １ひきの\nレベルが １だけ あがります",
+    "index": 402
+  },
+  {
+    "key": "HGSS_0189_0403",
+    "original": "もたせると すばやさが さがりますが\nこうげきが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nこうげきが そだちやすく なります",
+    "index": 403
+  },
+  {
+    "key": "HGSS_0189_0404",
+    "original": "もたせると すばやさが さがりますが\nぼうぎょが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nぼうぎょが そだちやすく なります",
+    "index": 404
+  },
+  {
+    "key": "HGSS_0189_0405",
+    "original": "もたせると すばやさが さがりますが\nとくこうが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nとくこうが そだちやすく なります",
+    "index": 405
+  },
+  {
+    "key": "HGSS_0189_0406",
+    "original": "もたせると すばやさが さがりますが\nとくぼうが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nとくぼうが そだちやすく なります",
+    "index": 406
+  },
+  {
+    "key": "HGSS_0189_0407",
+    "original": "もたせると すばやさが さがりますが\nすばやさが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nすばやさが そだちやすく なります",
+    "index": 407
+  },
+  {
+    "key": "HGSS_0189_0408",
+    "original": "もたせると すばやさが さがりますが\nHPが そだちやすく なります",
+    "translation": "もたせると すばやさが さがりますが\nHPが そだちやすく なります",
+    "index": 408
+  },
+  {
+    "key": "HGSS_0189_0409",
+    "original": "もたせると せんとうちゅうに\nもうどくの じょうたいに なります",
+    "translation": "もたせると せんとうちゅうに\nもうどくの じょうたいに なります",
+    "index": 409
+  },
+  {
+    "key": "HGSS_0189_0410",
+    "original": "もたせると せんとうちゅうに\nやけどの じょうたいに なります",
+    "translation": "もたせると せんとうちゅうに\nやけどの じょうたいに なります",
+    "index": 410
+  },
+  {
+    "key": "HGSS_0189_0411",
+    "original": "ポケモンの のうりょくが さがったとき\nいちどだけ もとに もどします",
+    "translation": "ポケモンの のうりょくが さがったとき\nいちどだけ もとに もどします",
+    "index": 411
+  },
+  {
+    "key": "HGSS_0189_0412",
+    "original": "いちどだけ １ターンめに ためる\nわざを すぐに つかうことが できます",
+    "translation": "いちどだけ １ターンめに ためる\nわざを すぐに つかうことが できます",
+    "index": 412
+  },
+  {
+    "key": "HGSS_0189_0413",
+    "original": "あいての わざが じぶんに\nめいちゅう しにくく なります",
+    "translation": "あいての わざが じぶんに\nめいちゅう しにくく なります",
+    "index": 413
+  },
+  {
+    "key": "HGSS_0189_0414",
+    "original": "もたせると こうげきは あがりますが\nおなじ わざしか だせなく なります",
+    "translation": "もたせると こうげきは あがりますが\nおなじ わざしか だせなく なります",
+    "index": 414
+  },
+  {
+    "key": "HGSS_0189_0415",
+    "original": "ひんしになる わざを うけても\nHP１で たえることが あります",
+    "translation": "ひんしになる わざを うけても\nHP１で たえることが あります",
+    "index": 415
+  },
+  {
+    "key": "HGSS_0189_0416",
+    "original": "もたせた ポケモンの わざが\nきゅうしょに あたりやすく なります",
+    "translation": "もたせた ポケモンの わざが\nきゅうしょに あたりやすく なります",
+    "index": 416
+  },
+  {
+    "key": "HGSS_0189_0417",
+    "original": "もたせると ぶつりわざの\nいりょくが すこし あがります",
+    "translation": "もたせると ぶつりわざの\nいりょくが すこし あがります",
+    "index": 417
+  },
+  {
+    "key": "HGSS_0189_0418",
+    "original": "HPが まんたんから たおれそうに\nなっても いちどだけ HP１で たえます",
+    "translation": "HPが まんたんから たおれそうに\nなっても いちどだけ HP１で たえます",
+    "index": 418
+  },
+  {
+    "key": "HGSS_0189_0419",
+    "original": "もたせると すばやさが あがりますが\nおなじ わざしか だせなく なります",
+    "translation": "もたせると すばやさが あがりますが\nおなじ わざしか だせなく なります",
+    "index": 419
+  },
+  {
+    "key": "HGSS_0189_0420",
+    "original": "もたせると わざが きゅうしょに\nあたりやすく なります",
+    "translation": "もたせると わざが きゅうしょに\nあたりやすく なります",
+    "index": 420
+  },
+  {
+    "key": "HGSS_0189_0421",
+    "original": "もたせると ダメージを あたえたとき\nひるませることが あります",
+    "translation": "もたせると ダメージを あたえたとき\nひるませることが あります",
+    "index": 421
+  },
+  {
+    "key": "HGSS_0189_0422",
+    "original": "すばやく こうげきし かならず\nあいてに めいちゅうします",
+    "translation": "すばやく こうげきし かならず\nあいてに めいちゅうします",
+    "index": 422
+  },
+  {
+    "key": "HGSS_0189_0423",
+    "original": "こうげきと どうじに ひかりのかべや\nリフレクターも はかいできます",
+    "translation": "こうげきと どうじに ひかりのかべや\nリフレクターも はかいできます",
+    "index": 423
+  },
+  {
+    "key": "HGSS_0189_0424",
+    "original": "あいてを こうげきした あとに\nひかえの ポケモンと いれかわります",
+    "translation": "あいてを こうげきした あとに\nひかえの ポケモンと いれかわります",
+    "index": 424
+  },
+  {
+    "key": "HGSS_0189_0425",
+    "original": "カマや ツメを ハサミのように\nこうさ させながら こうげきします",
+    "translation": "カマや ツメを ハサミのように\nこうさ させながら こうげきします",
+    "index": 425
+  },
+  {
+    "key": "HGSS_0189_0426",
+    "original": "とがった がんせきで こうげきします\nきゅうしょに あたりやすい わざです",
+    "translation": "とがった がんせきで こうげきします\nきゅうしょに あたりやすい わざです",
+    "index": 426
+  },
+  {
+    "key": "HGSS_0189_0427",
+    "original": "たたかっている ポケモン すべてに\nじしんの しょうげきで こうげきします",
+    "translation": "たたかっている ポケモン すべてに\nじしんの しょうげきで こうげきします",
+    "index": 427
+  },
+  {
+    "key": "HGSS_0189_0428",
+    "original": "くろい かげで こうげきし あいての\nとくぼうを さげることが あります",
+    "translation": "くろい かげで こうげきし あいての\nとくぼうを さげることが あります",
+    "index": 428
+  },
+  {
+    "key": "HGSS_0189_0429",
+    "original": "エネルギーで こうげきし あいての\nとくぼうを さげることが あります",
+    "translation": "エネルギーで こうげきし あいての\nとくぼうを さげることが あります",
+    "index": 429
+  },
+  {
+    "key": "HGSS_0189_0430",
+    "original": "ヘドロで こうげきし あいてを どくの\nじょうたいに することが あります",
+    "translation": "ヘドロで こうげきし あいてを どくの\nじょうたいに することが あります",
+    "index": 430
+  },
+  {
+    "key": "HGSS_0189_0431",
+    "original": "おおきな くちから しょうげきはを\nはなって こうげきします",
+    "translation": "おおきな くちから しょうげきはを\nはなって こうげきします",
+    "index": 431
+  },
+  {
+    "key": "HGSS_0189_0432",
+    "original": "きょうりょくな どくで あいてを\nもうどくの じょうたいに します ",
+    "translation": "きょうりょくな どくで あいてを\nもうどくの じょうたいに します ",
+    "index": 432
+  },
+  {
+    "key": "HGSS_0189_0433",
+    "original": "よわい でんきを あびせることで\nあいてを まひじょうたいに します",
+    "translation": "よわい でんきを あびせることで\nあいてを まひじょうたいに します",
+    "index": 433
+  },
+  {
+    "key": "HGSS_0189_0434",
+    "original": "あおじろい ほのおで あいてを\nやけどの じょうたいに します",
+    "translation": "あおじろい ほのおで あいてを\nやけどの じょうたいに します",
+    "index": 434
+  },
+  {
+    "key": "HGSS_0189_0435",
+    "original": "㊚なら㊛を ㊛なら㊚を メロメロにして\nあいての わざを だしにくく します",
+    "translation": "㊚なら㊛を ㊛なら㊚を メロメロにして\nあいての わざを だしにくく します",
+    "index": 435
+  },
+  {
+    "key": "HGSS_0189_0436",
+    "original": "ちからを こめて じぶんの\nこうげきと ぼうぎょを あげます",
+    "translation": "ちからを こめて じぶんの\nこうげきと ぼうぎょを あげます",
+    "index": 436
+  },
+  {
+    "key": "HGSS_0189_0437",
+    "original": "せいしんを とういつして じぶんの\nとくこうと とくぼうを あげます",
+    "translation": "せいしんを とういつして じぶんの\nとくこうと とくぼうを あげます",
+    "index": 437
+  },
+  {
+    "key": "HGSS_0189_0438",
+    "original": "しゅるいの せんたくに もどります",
+    "translation": "しゅるいの せんたくに もどります",
+    "index": 438
+  },
+  {
+    "key": "HGSS_0189_0439",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 439
+  },
+  {
+    "key": "HGSS_0189_0440",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 440
+  },
+  {
+    "key": "HGSS_0189_0441",
+    "original": "はい",
+    "translation": "はい",
+    "index": 441
+  },
+  {
+    "key": "HGSS_0189_0442",
+    "original": "どうぐの せつめいを きく",
+    "translation": "どうぐの せつめいを きく",
+    "index": 442
+  },
+  {
+    "key": "HGSS_0189_0443",
+    "original": "わざの せつめいを きく",
+    "translation": "わざの せつめいを きく",
+    "index": 443
+  },
+  {
+    "key": "HGSS_0189_0444",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 444
+  },
+  {
+    "key": "HGSS_0189_0445",
+    "original": "きんのたま\n４５００¥",
+    "translation": "きんのたま\n４５００¥",
+    "index": 445
+  },
+  {
+    "key": "HGSS_0189_0446",
+    "original": "しんじゅ\n６５０¥",
+    "translation": "しんじゅ\n６５０¥",
+    "index": 446
+  },
+  {
+    "key": "HGSS_0189_0447",
+    "original": "おおきなしんじゅ\n３５００¥",
+    "translation": "おおきなしんじゅ\n３５００¥",
+    "index": 447
+  },
+  {
+    "key": "HGSS_0189_0448",
+    "original": "ほしのすな\n９００¥",
+    "translation": "ほしのすな\n９００¥",
+    "index": 448
+  },
+  {
+    "key": "HGSS_0189_0449",
+    "original": "ほしのかけら\n４６００¥",
+    "translation": "ほしのかけら\n４６００¥",
+    "index": 449
+  },
+  {
+    "key": "HGSS_0189_0450",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 450
+  },
+  {
+    "key": "HGSS_0189_0451",
+    "original": "バトル\nフロンティアとは",
+    "translation": "バトル\nフロンティアとは",
+    "index": 451
+  },
+  {
+    "key": "HGSS_0189_0452",
+    "original": "きほんの\nルールについて",
+    "translation": "きほんの\nルールについて",
+    "index": 452
+  },
+  {
+    "key": "HGSS_0189_0453",
+    "original": "バトル\nポイントとは",
+    "translation": "バトル\nポイントとは",
+    "index": 453
+  },
+  {
+    "key": "HGSS_0189_0454",
+    "original": "BPひきかえ\nコーナーとは",
+    "translation": "BPひきかえ\nコーナーとは",
+    "index": 454
+  },
+  {
+    "key": "HGSS_0189_0455",
+    "original": "せいせき\nモニターとは",
+    "translation": "せいせき\nモニターとは",
+    "index": 455
+  },
+  {
+    "key": "HGSS_0189_0456",
+    "original": "おわる",
+    "translation": "おわる",
+    "index": 456
+  },
+  {
+    "key": "HGSS_0189_0457",
+    "original": "エリアカスタム\nとは",
+    "translation": "エリアカスタム\nとは",
+    "index": 457
+  },
+  {
+    "key": "HGSS_0189_0458",
+    "original": "エリアカスタムの\nはじめかた",
+    "translation": "エリアカスタムの\nはじめかた",
+    "index": 458
+  },
+  {
+    "key": "HGSS_0189_0459",
+    "original": "エリアの\nとりかえかた",
+    "translation": "エリアの\nとりかえかた",
+    "index": 459
+  },
+  {
+    "key": "HGSS_0189_0460",
+    "original": "エリアの\nならびかえかた",
+    "translation": "エリアの\nならびかえかた",
+    "index": 460
+  },
+  {
+    "key": "HGSS_0189_0461",
+    "original": "ポケモンの\nしゅつげん",
+    "translation": "ポケモンの\nしゅつげん",
+    "index": 461
+  },
+  {
+    "key": "HGSS_0189_0462",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 462
+  },
+  {
+    "key": "HGSS_0189_0463",
+    "original": "ブロックとは",
+    "translation": "ブロックとは",
+    "index": 463
+  },
+  {
+    "key": "HGSS_0189_0464",
+    "original": "ブロックの\nはいちほうほう",
+    "translation": "ブロックの\nはいちほうほう",
+    "index": 464
+  },
+  {
+    "key": "HGSS_0189_0465",
+    "original": "ブロックの\nとりのぞきかた",
+    "translation": "ブロックの\nとりのぞきかた",
+    "index": 465
+  },
+  {
+    "key": "HGSS_0189_0466",
+    "original": "ブロックの\nしゅるい",
+    "translation": "ブロックの\nしゅるい",
+    "index": 466
+  },
+  {
+    "key": "HGSS_0189_0467",
+    "original": "ポケモンの\nしゅつげん",
+    "translation": "ポケモンの\nしゅつげん",
+    "index": 467
+  },
+  {
+    "key": "HGSS_0189_0468",
+    "original": "ブロックの\nクリア",
+    "translation": "ブロックの\nクリア",
+    "index": 468
+  },
+  {
+    "key": "HGSS_0189_0469",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 469
+  },
+  {
+    "key": "HGSS_0189_0470",
+    "original": "つちの かわきが はやくなるが\nきのみの そだちも はやくなる",
+    "translation": "つちの かわきが はやくなるが\nきのみの そだちも はやくなる",
+    "index": 470
+  },
+  {
+    "key": "HGSS_0189_0471",
+    "original": "きのみが おちるまでの じかんが\nふだんより ながくなる",
+    "translation": "きのみが おちるまでの じかんが\nふだんより ながくなる",
+    "index": 471
+  },
+  {
+    "key": "HGSS_0189_0472",
+    "original": "つちの かわきが おそくなるが\nきのみの そだちも おそくなる",
+    "translation": "つちの かわきが おそくなるが\nきのみの そだちも おそくなる",
+    "index": 472
+  },
+  {
+    "key": "HGSS_0189_0473",
+    "original": "かれたあとに あたらしい めが\nでてくる かいすうが ふえる",
+    "translation": "かれたあとに あたらしい めが\nでてくる かいすうが ふえる",
+    "index": 473
+  },
+  {
+    "key": "HGSS_0189_0474",
+    "original": "かうのを やめる",
+    "translation": "かうのを やめる",
+    "index": 474
+  }
+]

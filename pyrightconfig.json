@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "out",
+    "tools",
+    "weblate",
+  ]
+}

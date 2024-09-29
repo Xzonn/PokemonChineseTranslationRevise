@@ -1,0 +1,80 @@
+[
+  {
+    "key": "DP_0777_0000",
+    "original": "なし",
+    "translation": "无",
+    "index": 0
+  },
+  {
+    "key": "DP_0777_0001",
+    "original": "ひがしイングランド",
+    "translation": "东英格兰",
+    "index": 1
+  },
+  {
+    "key": "DP_0777_0002",
+    "original": "イースト・ミッドランド",
+    "translation": "东米德兰",
+    "index": 2
+  },
+  {
+    "key": "DP_0777_0003",
+    "original": "グレーター・ロンドン",
+    "translation": "大伦敦",
+    "index": 3
+  },
+  {
+    "key": "DP_0777_0004",
+    "original": "ほくとうイングランド",
+    "translation": "东北英格兰",
+    "index": 4
+  },
+  {
+    "key": "DP_0777_0005",
+    "original": "ほくせいイングランド",
+    "translation": "西北英格兰",
+    "index": 5
+  },
+  {
+    "key": "DP_0777_0006",
+    "original": "きたアイルランド",
+    "translation": "北英格兰",
+    "index": 6
+  },
+  {
+    "key": "DP_0777_0007",
+    "original": "スコットランド",
+    "translation": "苏格兰",
+    "index": 7
+  },
+  {
+    "key": "DP_0777_0008",
+    "original": "なんとうイングランド",
+    "translation": "东南英格兰",
+    "index": 8
+  },
+  {
+    "key": "DP_0777_0009",
+    "original": "なんせいイングランド",
+    "translation": "西南英格兰",
+    "index": 9
+  },
+  {
+    "key": "DP_0777_0010",
+    "original": "ウェールズ",
+    "translation": "威尔士",
+    "index": 10
+  },
+  {
+    "key": "DP_0777_0011",
+    "original": "ウェスト・ミッドランド",
+    "translation": "西米德兰兹",
+    "index": 11
+  },
+  {
+    "key": "DP_0777_0012",
+    "original": "ヨークシャー・ハンバーサイド",
+    "translation": "约克郡・亨伯",
+    "index": 12
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "key": "HGSS_0499_0000",
+    "original": "ゲームフリーク せんよう\nエレベーター です\\f\nいきたい フロアを\nえらんでください[0200,0000]",
+    "translation": "ゲームフリーク せんよう\nエレベーター です\\f\nいきたい フロアを\nえらんでください[0200,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0499_0001",
+    "original": "では また どうぞ",
+    "translation": "では また どうぞ",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0499_0002",
+    "original": "では うえのかいへ いどうします\\f\n",
+    "translation": "では うえのかいへ いどうします\\f\n",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0499_0003",
+    "original": "では したのかいへ いどうします\\f\n",
+    "translation": "では したのかいへ いどうします\\f\n",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0499_0004",
+    "original": "それは ここ です",
+    "translation": "それは ここ です",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0499_0005",
+    "original": "１かいに つきました\\f\n",
+    "translation": "１かいに つきました\\f\n",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0499_0006",
+    "original": "３かい ゲームフリーク です\\f\n",
+    "translation": "３かい ゲームフリーク です\\f\n",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0499_0007",
+    "original": "おくじょうに つきました\\f\n",
+    "translation": "おくじょうに つきました\\f\n",
+    "index": 7
+  }
+]

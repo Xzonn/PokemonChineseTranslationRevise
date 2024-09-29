@@ -1,0 +1,62 @@
+[
+  {
+    "key": "DP_0402_0000",
+    "original": "つうしんサーチャー",
+    "translation": "连接搜索器",
+    "index": 0
+  },
+  {
+    "key": "DP_0402_0001",
+    "original": "つうしん しているひとを\nさがしています\nそのまま おまちください",
+    "translation": "在寻找正在连接的人，\n请稍等。",
+    "index": 1
+  },
+  {
+    "key": "DP_0402_0002",
+    "original": "エラー！",
+    "translation": "错误！",
+    "index": 2
+  },
+  {
+    "key": "DP_0402_0003",
+    "original": "ここでは サーチできません！",
+    "translation": "这里不能搜索！",
+    "index": 3
+  },
+  {
+    "key": "DP_0402_0004",
+    "original": "サーチちゅうは\nうごかないで ください！",
+    "translation": "在搜索中请不要移动！",
+    "index": 4
+  },
+  {
+    "key": "DP_0402_0005",
+    "original": "つうしん じょうきょう",
+    "translation": "连接状况",
+    "index": 5
+  },
+  {
+    "key": "DP_0402_0006",
+    "original": "ユニオンルーム",
+    "translation": "联盟交谊厅",
+    "index": 6
+  },
+  {
+    "key": "DP_0402_0007",
+    "original": "ちかつうろ",
+    "translation": "地下通道",
+    "index": 7
+  },
+  {
+    "key": "DP_0402_0008",
+    "original": "コロシアム",
+    "translation": "圆形剧场",
+    "index": 8
+  },
+  {
+    "key": "DP_0402_0009",
+    "original": "そのほかの つうしん",
+    "translation": "其他连接",
+    "index": 9
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "key": "PT_0418_0000",
+    "original": "おともだちを まっています！",
+    "translation": "朋友在等着你！",
+    "index": 0
+  },
+  {
+    "key": "PT_0418_0001",
+    "original": "[0133,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "使用[0133,0000]ＣＰ\n提高等级吗？",
+    "index": 1
+  },
+  {
+    "key": "PT_0418_0002",
+    "original": "はい",
+    "translation": "是",
+    "index": 2
+  },
+  {
+    "key": "PT_0418_0003",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 3
+  },
+  {
+    "key": "PT_0418_0004",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰ不足！",
+    "index": 4
+  },
+  {
+    "key": "PT_0418_0005",
+    "original": "いいキズぐすりで\nかいふく できるように なりました！",
+    "translation": "使用了好伤药\n就可以恢复了！",
+    "index": 5
+  },
+  {
+    "key": "PT_0418_0006",
+    "original": "すごいキズぐすりと ピーピーマックスで\nかいふく できるように なりました！",
+    "translation": "使用了厉害伤药和ＰＰ多项全补剂，\n现在又可以恢复了！",
+    "index": 6
+  },
+  {
+    "key": "PT_0418_0007",
+    "original": "レンタル できる どうぐが\nふえました！",
+    "translation": "可以出租的道具增加了！",
+    "index": 7
+  },
+  {
+    "key": "PT_0418_0008",
+    "original": "たいせん ポケモンの つよさを\nＣＰをつかい みることが できます！",
+    "translation": "对战宝可梦的资料可以通过\n使用ＣＰ来查看！",
+    "index": 8
+  },
+  {
+    "key": "PT_0418_0009",
+    "original": "たいせん ポケモンが つかう わざを\nＣＰをつかい みることが できます！",
+    "translation": "对战宝可梦使用的招式可以通过\n使用ＣＰ来查看！",
+    "index": 9
+  },
+  {
+    "key": "PT_0418_0010",
+    "original": "これ いじょう ランクは\nあがりません！",
+    "translation": "已经不能再提升等级了！",
+    "index": 10
+  },
+  {
+    "key": "PT_0418_0011",
+    "original": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "translation": "[0103,0000]\n选择了“返回”！",
+    "index": 11
+  },
+  {
+    "key": "PT_0418_0012",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 12
+  },
+  {
+    "key": "PT_0418_0013",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 13
+  },
+  {
+    "key": "PT_0418_0014",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 14
+  },
+  {
+    "key": "PT_0418_0015",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 15
+  },
+  {
+    "key": "PT_0418_0016",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 16
+  },
+  {
+    "key": "PT_0418_0017",
+    "original": "ランク[0132,0000]",
+    "translation": "等级[0132,0000]",
+    "index": 17
+  },
+  {
+    "key": "PT_0418_0018",
+    "original": "どうぐ",
+    "translation": "道具",
+    "index": 18
+  },
+  {
+    "key": "PT_0418_0019",
+    "original": "ランク[0132,0000]",
+    "translation": "等级[0132,0000]",
+    "index": 19
+  },
+  {
+    "key": "PT_0418_0020",
+    "original": "じょうほう",
+    "translation": "情报",
+    "index": 20
+  },
+  {
+    "key": "PT_0418_0021",
+    "original": "ランク[0132,0000]",
+    "translation": "等级[0132,0000]",
+    "index": 21
+  },
+  {
+    "key": "PT_0418_0022",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 22
+  }
+]

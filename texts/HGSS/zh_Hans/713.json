@@ -1,0 +1,5528 @@
+[
+  {
+    "key": "HGSS_0713_0000",
+    "original": "いくぞー！",
+    "translation": "上啦～！",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0713_0001",
+    "original": "いえーい！\\f\n",
+    "translation": "耶～！\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0713_0002",
+    "original": "ふえーん！\\f\n",
+    "translation": "哼～！\\f\n",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0713_0003",
+    "original": "おい ひよっこ！\nかかって こいよ！",
+    "translation": "喂，菜鸟！\n放马过来啊！",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0713_0004",
+    "original": "やっぱり ひよっこ だな！\\f\n",
+    "translation": "你果然是只菜鸟啊！\\f\n",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0713_0005",
+    "original": "ふえーん！\nひよっこの くせにー\\f\n",
+    "translation": "哼～！\n明明就是只菜鸟却这么嚣张。\\f\n",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0713_0006",
+    "original": "やっぱり たんパンが いちばん！",
+    "translation": "果然还是短裤最厉害了！",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0713_0007",
+    "original": "たんパン サイコー！\\f\n",
+    "translation": "短裤万岁！\\f\n",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0713_0008",
+    "original": "たんパンは あげないぞ！\\f\n",
+    "translation": "短裤才不会送给你呢！\\f\n",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0713_0009",
+    "original": "ミニスカートは\nあたしの ポリシー！",
+    "translation": "迷你裙\n是我的原则！",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0713_0010",
+    "original": "ミニスカート さいこー！\\f\n",
+    "translation": "迷你裙最棒了～！\\f\n",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0713_0011",
+    "original": "あなたの ポリシーは なに？\\f\n",
+    "translation": "你的原则是什么？\\f\n",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0713_0012",
+    "original": "わたしのミニスカートは\nほんとに ミニスカート！",
+    "translation": "我的迷你裙\n才是最正宗的迷你裙！",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0713_0013",
+    "original": "みとれてたでしょ！\\f\n",
+    "translation": "你有没有被迷倒呀！\\f\n",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0713_0014",
+    "original": "ミニスカートって あしが\nながく みえるよね！\\f\n",
+    "translation": "迷你裙能让双腿显得更加修长呢！\\f\n",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0713_0015",
+    "original": "かわいい アクセサリー さがしてるの",
+    "translation": "我在寻找可爱的饰物。",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0713_0016",
+    "original": "みつけたら おしえてね\\f\n",
+    "translation": "如果你找到了，记得告诉我哦。\\f\n",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0713_0017",
+    "original": "わたしも ドレスアップ したいなー\\f\n",
+    "translation": "我也想好好打扮一下啊～\\f\n",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0713_0018",
+    "original": "じゅくで べんきょう したこと\nきみで じっけんして みますね！",
+    "translation": "让我在你身上实践一下\n在补习班学到的技巧吧！",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0713_0019",
+    "original": "やった！\nだいせいこうです！\\f\n",
+    "translation": "太好了！\n超级成功！\\f\n",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0713_0020",
+    "original": "うーん⋯⋯ おかしいなぁ\\f\n",
+    "translation": "嗯……好奇怪啊。\\f\n",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0713_0021",
+    "original": "う うぉーっ！！",
+    "translation": "唔、唔哦～！！",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0713_0022",
+    "original": "しょうぶは\nいきおいと きあい なのです\\f\n",
+    "translation": "对战比的就是气势和干劲。\\f\n",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0713_0023",
+    "original": "やっぱ きあいだけじゃ ダメですか\\f\n",
+    "translation": "看来只凭干劲是行不通的……\\f\n",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0713_0024",
+    "original": "せかいじゅうで おしごと したいから\nまいにち おべんきょう です！",
+    "translation": "我今后想工作在世界各地，\n所以每天都在努力学习！",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0713_0025",
+    "original": "ゆめは ワールドワイドです！\\f\n",
+    "translation": "我的梦想就是要国际化！\\f\n",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0713_0026",
+    "original": "ポケモンしょうぶの\nべんきょうも しないと\\f\n",
+    "translation": "看来我也要好好学习\n宝可梦对战才行。\\f\n",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0713_0027",
+    "original": "おおきく なったら\nポケモン はかせに なるんだー！",
+    "translation": "长大后我要成为\n宝可梦博士！",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0713_0028",
+    "original": "おっほん！ おっほん！\nきみも まだまだ じゃなー\\f\n",
+    "translation": "咳哼！咳哼！\n你也没什么本事嘛～！\\f\n",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0713_0029",
+    "original": "おっほん！ おっほん！\nワシも まだまだ じゃな！\\f\n",
+    "translation": "咳哼！咳哼！\n我也没有什么本事啊！\\f\n",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0713_0030",
+    "original": "ポケモンの べんきょうなら\nまけないんだからね！",
+    "translation": "有关宝可梦的学问，\n我可不会输给你！",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0713_0031",
+    "original": "ちしきの しょうり！\\f\n",
+    "translation": "这是知识的胜利！\\f\n",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0713_0032",
+    "original": "かえって ふくしゅう！\nそして あなたに ふくしゅうよ！\\f\n",
+    "translation": "我要回家复习了！\n之后再找你算账！\\f\n",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0713_0033",
+    "original": "あ なんか よわそー\nこれ かてるかもー",
+    "translation": "啊，你看起来好弱哦～\n看来我能赢呢～",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0713_0034",
+    "original": "やったぁ！\\f\n",
+    "translation": "棒极了！\\f\n",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0713_0035",
+    "original": "いたいなぁ もう\\f\n",
+    "translation": "好疼啊～真是的～\\f\n",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0713_0036",
+    "original": "うんうん いいんだよ\nなにも いわなくても",
+    "translation": "嗯嗯，没关系，\n你什么都不用说。",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0713_0037",
+    "original": "うんうん わかってる\nがんばったよ キミは\\f\n",
+    "translation": "嗯嗯，我知道，\n你很努力了。\\f\n",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0713_0038",
+    "original": "うんうん わかってる⋯⋯\nなにも いわくても いいよ⋯⋯\\f\n",
+    "translation": "唔唔，我明白的……\n什么都不用说，没事的……\\f\n",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0713_0039",
+    "original": "ぼく リッチ！",
+    "translation": "我有的是钱！",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0713_0040",
+    "original": "まあね リッチだからね\\f\n",
+    "translation": "这个嘛，谁叫我钱多啊！\\f\n",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0713_0041",
+    "original": "なんでなのっ！\nリッチなのにっ！\\f\n",
+    "translation": "怎么会这样！\n明明我有那么多钱！\\f\n",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0713_0042",
+    "original": "ふーん キミつよいんだ ふーん",
+    "translation": "哼～你很强嘛，哼～",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0713_0043",
+    "original": "ふーん たいしたこと ないね ふーん\\f\n",
+    "translation": "哼～你也不过如此嘛，哼～\\f\n",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0713_0044",
+    "original": "ふーん つよいじゃん ふーん\\f\n",
+    "translation": "哼～挺强的嘛，哼～\\f\n",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0713_0045",
+    "original": "あ それ\nいきますわよ！",
+    "translation": "啊，那么，\n我要上啦！",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0713_0046",
+    "original": "やりましたわ！\\f\n",
+    "translation": "我做到咯！\\f\n",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0713_0047",
+    "original": "まあ ざんねん\\f\n",
+    "translation": "哎，真遗憾。\\f\n",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0713_0048",
+    "original": "ココデ オワリデス\nカクゴ シロヨ デス",
+    "translation": "到此为止啦。\n你觉悟吧。",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0713_0049",
+    "original": "シテ ヤッタリ デス\\f\n",
+    "translation": "我做到咯。\\f\n",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0713_0050",
+    "original": "アア クヤシイ デシタ\nアリガトウ ゴザイマシタ\\f\n",
+    "translation": "啊啊，好不甘心啊。\n谢谢你。\\f\n",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0713_0051",
+    "original": "たいくつ なのよね⋯⋯",
+    "translation": "好无聊啊……",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0713_0052",
+    "original": "ほんと たいくつ⋯⋯\\f\n",
+    "translation": "真的好无聊……\\f\n",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0713_0053",
+    "original": "いい ヒマつぶしに なったわ\\f\n",
+    "translation": "真是打发了不少时间呢。\\f\n",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0713_0054",
+    "original": "あれ？ みんなが いない？",
+    "translation": "咦？大家去哪儿啦？",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0713_0055",
+    "original": "みんなーー！ どこーー！？\\f\n",
+    "translation": "大家～！在哪儿～！？\\f\n",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0713_0056",
+    "original": "キャンプに きたんだけど\nはぐれちゃった みたい⋯⋯\\f\n",
+    "translation": "我来参加露营，\n但好像和大家走散了……\\f\n",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0713_0057",
+    "original": "お！\nきみも ポケッチ もってるの？",
+    "translation": "哦！\n你也有宝可表啊？",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0713_0058",
+    "original": "ポケッチで あそんでたのに\nかっちゃった！\\f\n",
+    "translation": "我只是折腾了一下宝可表而已，\n竟然就赢了！\\f\n",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0713_0059",
+    "original": "ポケッチで あそんでたら\nまけちゃった⋯⋯\\f\n",
+    "translation": "我只是折腾了一下宝可表而已，\n竟然就输了……\\f\n",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0713_0060",
+    "original": "もりで きたえた ポケモンだ",
+    "translation": "这是我在森林里锻炼过的宝可梦。",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0713_0061",
+    "original": "もりの パワーだ\\f\n",
+    "translation": "这就是森林的力量。\\f\n",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0713_0062",
+    "original": "もう もりへ かえるよ\\f\n",
+    "translation": "我要回森林里去了。\\f\n",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0713_0063",
+    "original": "ピクニック きぶんで\nしょうぶ します！",
+    "translation": "用野餐时的心情，\n来和你对战！",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0713_0064",
+    "original": "ルンルンルン！\\f\n",
+    "translation": "啦啦啦！\\f\n",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0713_0065",
+    "original": "ピクニックきぶん じゃ\nかてないよね\\f\n",
+    "translation": "看来用野餐时的心情，\n是赢不了你的。\\f\n",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0713_0066",
+    "original": "ウーララー！\nいっくわよぉ！",
+    "translation": "唔～啦啦～！\n我要上咯！",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0713_0067",
+    "original": "ウーララー！\nかって ごきげん！\\f\n",
+    "translation": "唔～啦啦～！\n赢了，心情超棒！\\f\n",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0713_0068",
+    "original": "ウーララー！\nまけても ごきげん！\\f\n",
+    "translation": "唔～啦啦～！\n输了，心情也还好！\\f\n",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0713_0069",
+    "original": "ポケモンしょうぶの たのしさを\nわたしが おしえて あげます",
+    "translation": "让我来告诉你，\n宝可梦对战多么有趣吧。",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0713_0070",
+    "original": "わたしとの しょうぶは\nたのしかったでしょ！\\f\n",
+    "translation": "和我对战很好玩吧！\\f\n",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0713_0071",
+    "original": "あらやだ かんどう！\nあなた さいこう！\\f\n",
+    "translation": "哎呀，好感动！\n你真棒！\\f\n",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0713_0072",
+    "original": "ほ ほんとは うきわが\nなくっても およげるもん！",
+    "translation": "实、实话说，就算没有泳圈\n我也会游泳！",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0713_0073",
+    "original": "ほ ほ ほんと だよ！\\f\n",
+    "translation": "这是真、真、真的哦！\\f\n",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0713_0074",
+    "original": "う うそじゃ ないもん！\\f\n",
+    "translation": "我、我可不是骗你的！\\f\n",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0713_0075",
+    "original": "ボクは うみより かわが すきだよ！\nきみは どっちが すきですか？",
+    "translation": "比起大海，我更喜欢河川！\n你喜欢哪个呢？",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0713_0076",
+    "original": "かわの みずって つめたくて\nきもちいいよね\\f\n",
+    "translation": "河水冰冰凉凉的，\n感觉可清爽了。\\f\n",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0713_0077",
+    "original": "うみは みずが めに はいると\nちくちくするから イヤ！\\f\n",
+    "translation": "海水进到眼睛里会又刺又疼的，\n很讨厌！\\f\n",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0713_0078",
+    "original": "がんばれ！\nぼくの ポケモン！",
+    "translation": "加油！\n我的宝可梦！",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0713_0079",
+    "original": "やったぞ！\nぼくの ポケモン！\\f\n",
+    "translation": "干得好！\n我的宝可梦！\\f\n",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0713_0080",
+    "original": "がんばったね！\nぼくの ポケモン！\\f\n",
+    "translation": "你们尽力啦！\n我的宝可梦！\\f\n",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0713_0081",
+    "original": "うみの おすなの うえ あるくと\nあしが アチチって なるよ！",
+    "translation": "走在海边的沙滩上，\n脚底就会烫烫的呢！",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0713_0082",
+    "original": "うみ だいすきー\\f\n",
+    "translation": "我超～爱大海。\\f\n",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0713_0083",
+    "original": "アチチ！ アチチ！\\f\n",
+    "translation": "烫死啦！烫死啦！\\f\n",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0713_0084",
+    "original": "ちゃぷちゃぷ！\nちゃぷちゃぷ！",
+    "translation": "嚓噗嚓噗！\n嚓噗嚓噗！",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0713_0085",
+    "original": "ざばーん！！\nざぱーん！！\\f\n",
+    "translation": "哗啦～！！\n哗啦～！！\\f\n",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0713_0086",
+    "original": "ばちゃばちゃ！\\f\n",
+    "translation": "吧撒吧撒！\\f\n",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0713_0087",
+    "original": "うきわ だいすきっこ です！\nよろしく おねがいします！",
+    "translation": "我是酷爱泳圈的泳圈女孩！\n请多指教！",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0713_0088",
+    "original": "ありがとうございました！\nうきわ だいすきっこ でした！\\f\n",
+    "translation": "谢谢你！\n泳圈女孩在此告退！\\f\n",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0713_0089",
+    "original": "さようなら！\\f\nうきわ だいすきっこ でした！\\f\n",
+    "translation": "再见！\\f\n泳圈女孩在此告退！\\f\n",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0713_0090",
+    "original": "きたきたきたー！\nきみとは はちょうが あいそうだ！",
+    "translation": "来了来了来啦～！\n感觉我们挺合得来嘛！",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0713_0091",
+    "original": "ジャーーーン！！\\f\n",
+    "translation": "锵～～～！！\\f\n",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0713_0092",
+    "original": "ちぇっ！ まけたら リズムが\nおかしく なっちまった！\\f\n",
+    "translation": "切！\n输了之后节奏也变乱了！\\f\n",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0713_0093",
+    "original": "ロック？ ジャズ？ テクノ？\nＢＧＭなら なんでもオッケー！",
+    "translation": "摇滚？爵士？电子乐？\n背景音乐的话什么我都可以！",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0713_0094",
+    "original": "キュワワーン！\\f\n",
+    "translation": "吱扭！\\f\n",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0713_0095",
+    "original": "はぁ⋯⋯ ブルースでも\nうたいたい きぶんだよ⋯⋯\\f\n",
+    "translation": "哈……我有点想唱\n蓝调了……\\f\n",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0713_0096",
+    "original": "いざ！ セッション！",
+    "translation": "来！我们合奏吧！",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0713_0097",
+    "original": "れんしゅうが たりないぜ\\f\n",
+    "translation": "练习得还不够啊。\\f\n",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0713_0098",
+    "original": "せかいツアー なんて\nとおい ゆめの はなしかな⋯⋯\\f\n",
+    "translation": "世界巡演，\n会不会只是个遥远的梦呢……\\f\n",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0713_0099",
+    "original": "あら あなた⋯⋯\nオシャレな スカーフしてるね！",
+    "translation": "哎呀，你……\n戴着一条时髦的头巾呢！",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0713_0100",
+    "original": "どこで かったの？\\f\n",
+    "translation": "在哪买的呢？\\f\n",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0713_0101",
+    "original": "もう！ オシャレ だけじゃなくて\nポケモンも つよいなんて くやしい！\\f\n",
+    "translation": "真是的！不仅时髦，\n你的宝可梦还那么强。好不甘心啊！\\f\n",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0713_0102",
+    "original": "いつも おうえん ありがとう！",
+    "translation": "感谢你平时的支持！",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0713_0103",
+    "original": "あれ？ わたしの ファンじゃないの？\\f\n",
+    "translation": "咦？你不是我的粉丝吗？\\f\n",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0713_0104",
+    "original": "アイドルに なんてことを⋯⋯\\f\n",
+    "translation": "竟然对偶像明星下如此狠手……\\f\n",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0713_0105",
+    "original": "ラー ララー ラー",
+    "translation": "啦～啦啦～啦～",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0713_0106",
+    "original": "ラー ラララー\nラララー ラー\\f\n",
+    "translation": "啦～啦啦啦～\n啦啦啦～啦～\\f\n",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0713_0107",
+    "original": "さよならー ララー\\f\n",
+    "translation": "再见啦～啦啦～\\f\n",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0713_0108",
+    "original": "キサマのだいすきと オレのだいすき\nどちらが うえか はっきりさせよう",
+    "translation": "今天就来讲清楚，\n到底是你还是我的爱比较浓烈吧。",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0713_0109",
+    "original": "フハハッ！ オレのほうが\nだいすき ということ らしいな！\\f\n",
+    "translation": "哇哈哈！\n看来是我的爱更加浓烈啊！\\f\n",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0713_0110",
+    "original": "くっ⋯⋯ キサマのほうが\nだいすきだと いうのか！？\\f\n",
+    "translation": "唔……难道是你的爱\n比较浓烈吗！？\\f\n",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0713_0111",
+    "original": "おらの ポケモンは つえーど",
+    "translation": "我的宝可梦可强啦～",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0713_0112",
+    "original": "おらを なめちゃいかんよ\\f\n",
+    "translation": "你可别小看我。\\f\n",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0713_0113",
+    "original": "おめ やるなー\\f\n",
+    "translation": "好家伙，厉害啊～\\f\n",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0713_0114",
+    "original": "さぁ きみの だいすきな ポケモン\nぼくに みせてごらん ホラホラ",
+    "translation": "来，把你最喜欢的宝可梦给我看看吧，\n来啊来啊。",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0713_0115",
+    "original": "ほうほう⋯⋯\nかわいいが ちょっと よわいねえ\\f\n",
+    "translation": "嚯嚯……\n的确挺可爱的，但是有点弱啊。\\f\n",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0713_0116",
+    "original": "ほおー\nかわいいのに つよいねえ\\f\n",
+    "translation": "嚯～\n明明很可爱，却挺强的嘛。\\f\n",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0713_0117",
+    "original": "あたしの ポケモンちゃんは\nかわいいけど あんまし つよくない！",
+    "translation": "我的小宝可梦，\n虽然可爱但不怎么强！",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0713_0118",
+    "original": "あれ？ かっちゃった？\\f\n",
+    "translation": "咦？赢啦？\\f\n",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0713_0119",
+    "original": "でも いいの\nあたしが すきなら いいの\\f\n",
+    "translation": "没关系，\n只要我喜欢就足够了。\\f\n",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0713_0120",
+    "original": "さいきん あまやかして ばかり\nだから だいじょうぶ かしら？",
+    "translation": "我最近太宠它们了，\n不知道行不行啊？",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0713_0121",
+    "original": "うーん やったわ！\nさすが わたしの ポケモンちゃん！\\f\n",
+    "translation": "嗯～干得好！\n不愧是我的小宝可梦！\\f\n",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0713_0122",
+    "original": "あまやかしすぎちゃ ダメね⋯⋯\\f\n",
+    "translation": "真不能太惯着它们了……\\f\n",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0713_0123",
+    "original": "あなたも だいすきクラブに\nはいりませんこと？",
+    "translation": "你也没加入\n发烧友俱乐部么？",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0713_0124",
+    "original": "にゅうかい すれば\nたのしいこと いっぱいよ！\\f\n",
+    "translation": "入会的话，\n会有很多好玩的事情哦！\\f\n",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0713_0125",
+    "original": "はいりましょ！\nホラホラ ぜひ はいりましょ！\\f\n",
+    "translation": "加入吧！\n来嘛来嘛，快来加入吧！\\f\n",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0713_0126",
+    "original": "ごちゅうもんを どうぞ",
+    "translation": "请问您想来点什么？",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0713_0127",
+    "original": "かしこまりました\nまけを おひとつ ですね\\f\n",
+    "translation": "了解了，\n您想要输一局是吧。\\f\n",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0713_0128",
+    "original": "かしこまりました\nかちを おひとつ ですね\\f\n",
+    "translation": "了解了，\n您想要赢一局是吧。\\f\n",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0713_0129",
+    "original": "ほんとは ぼく コックに\nなりたかったんだ⋯⋯",
+    "translation": "其实我原本想当个\n厨师来着……",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0713_0130",
+    "original": "いまの しごとも たのしい けどな\\f\n",
+    "translation": "虽然现在的工作也很开心吧。\\f\n",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0713_0131",
+    "original": "しらない ひとと はなすの\nにがて なんだよね⋯⋯\\f\n",
+    "translation": "但我实在不习惯\n和陌生人沟通啊……\\f\n",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0713_0132",
+    "original": "ポケモンしょうぶも オーダーも\nスピードが かんじん！",
+    "translation": "无论是宝可梦对战还是点餐，\n速度都是关键！",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0713_0133",
+    "original": "サクッとね！\\f\n",
+    "translation": "都要快嗖嗖的！\\f\n",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0713_0134",
+    "original": "りょうりも しょうぶも\nあついうちに だせ！\\f\n",
+    "translation": "无论做菜还是对战，\n都要趁热解决！\\f\n",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0713_0135",
+    "original": "いつもは サービスが おしごとなのぉ\nでも ここでは サービスしないよぉ",
+    "translation": "提供服务一直都是我的工作，\n但在这里我可就不会提供服务啦。",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0713_0136",
+    "original": "むふふ\\f\n",
+    "translation": "嗯呵呵。\\f\n",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0713_0137",
+    "original": "もー サービスしてよぉー\nそんなんじゃ モテないよぉ\\f\n",
+    "translation": "真是的～放点水啦～\n你这样是不会受欢迎的啦。\\f\n",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0713_0138",
+    "original": "かわいいでしょ？\nこの せいふく？",
+    "translation": "这套制服可爱不？",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0713_0139",
+    "original": "おきにいりなの！\\f\n",
+    "translation": "这是人家最喜欢的！\\f\n",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0713_0140",
+    "original": "せいふく よごれちゃうよー！\\f\n",
+    "translation": "制服会被弄脏的啦～！\\f\n",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0713_0141",
+    "original": "あなた つよいよね？",
+    "translation": "你很强吧？",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0713_0142",
+    "original": "あれれ ちょっと ざんねん\\f\n",
+    "translation": "哎呀呀，让我有点失望。\\f\n",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0713_0143",
+    "original": "やっぱり つよい トレーナーさんだぁ\\f\n",
+    "translation": "你果然是个很强的训练家。\\f\n",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0713_0144",
+    "original": "いろんな ポケモンを\nつかまえて そだててるんだ",
+    "translation": "我捕捉各式各样的宝可梦来培育。",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0713_0145",
+    "original": "どうだい？\nよく そだってるでしょ\\f\n",
+    "translation": "怎么样？\n培育得还不错吧。\\f\n",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0713_0146",
+    "original": "もっと そだてないと！\\f\n",
+    "translation": "不再好好培育一下的话！\\f\n",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0713_0147",
+    "original": "きみも この あみで\nつかまえてやる！！",
+    "translation": "我要用这个网\n把你也给捉起来！！",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0713_0148",
+    "original": "めしとったり！\\f\n",
+    "translation": "一网打尽！\\f\n",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0713_0149",
+    "original": "こら！ にげるなよ！\\f\n",
+    "translation": "喂！不许逃啊！\\f\n",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0713_0150",
+    "original": "どこかに でっかい ヘラクロス\nいないかなー",
+    "translation": "哪里能找到\n巨大的赫拉克罗斯啊～",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0713_0151",
+    "original": "おうさまみたいに でっかいやつね！\\f\n",
+    "translation": "我要捉个巨无霸！\\f\n",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0713_0152",
+    "original": "でかい ヘラクロスさえ いればなぁ\\f\n",
+    "translation": "我要是有巨大的赫拉克罗斯的话……\\f\n",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0713_0153",
+    "original": "かくごー！！",
+    "translation": "准备接招吧！！",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0713_0154",
+    "original": "うちとったりー！\\f\n",
+    "translation": "获取胜利！\\f\n",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0713_0155",
+    "original": "むねんじゃ⋯⋯\\f\n",
+    "translation": "好遗憾……\\f\n",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0713_0156",
+    "original": "おそろしい にんじゅつを くらえ！",
+    "translation": "吃我一记厉害的忍术！",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0713_0157",
+    "original": "はは！ みたか！\\f\n",
+    "translation": "哈哈！看到没！\\f\n",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0713_0158",
+    "original": "にんぽうハッタリ だいしっぱい！\\f\n",
+    "translation": "冒牌忍术简直太失败了！\\f\n",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0713_0159",
+    "original": "おおきくなったら ほんとうの\nにんじゃに なるのじゃ！",
+    "translation": "长大后我要成为\n真正的忍者！",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0713_0160",
+    "original": "アッパレ！ アッパレ！\\f\n",
+    "translation": "漂亮！真漂亮！\\f\n",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0713_0161",
+    "original": "で ほんとの にんじゃって\nなにを すれば いいんじゃ？\\f\n",
+    "translation": "话说回来，真正的忍者\n一般都该做些什么啊？\\f\n",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0713_0162",
+    "original": "いじめる？ いじめる？",
+    "translation": "该欺负你么？该不该欺负你呢？",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0713_0163",
+    "original": "わぁい！ わぁい！\\f\n",
+    "translation": "耶！耶！\\f\n",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0713_0164",
+    "original": "いじめる いやー！\\f\n",
+    "translation": "欺负人真讨厌～！\\f\n",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0713_0165",
+    "original": "この ふくねー おかーちゃんに\nつくって もらったのー",
+    "translation": "这件衣服啊～\n是妈妈做给我的呢～",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0713_0166",
+    "original": "かわいいでしょー\\f\n",
+    "translation": "可爱吧～\\f\n",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0713_0167",
+    "original": "おかーちゃん おさいほうが\nとっても じょうずなのー\\f\n",
+    "translation": "我妈妈可擅长裁缝了～\\f\n",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0713_0168",
+    "original": "みんな がんばろーね！",
+    "translation": "大家加油哦～！",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0713_0169",
+    "original": "みんな ありがとー！\\f\n",
+    "translation": "谢谢大家～！\\f\n",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0713_0170",
+    "original": "うぇえええん！\\f\n",
+    "translation": "呜呜呜！\\f\n",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0713_0171",
+    "original": "しょうぶ だからと いって\nガツガツするのは みっともないよ",
+    "translation": "就算是对战，\n太贪的话也是会很丢人的。",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0713_0172",
+    "original": "ほら リラックス リラックス\nしぜんが いちばん だいじだよ\\f\n",
+    "translation": "快放松放松，\n自然是最重要的。\\f\n",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0713_0173",
+    "original": "もっと リラックス しないとなー\\f\n",
+    "translation": "你要再放松点才行～\\f\n",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0713_0174",
+    "original": "つって つって つって つりまくる！\nどいつも こいつも つりあげてやる！",
+    "translation": "钓～钓～钓～钓遍所有！\n大大小小通通上钩！",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0713_0175",
+    "original": "カーカッカッ！！\nぜっこうちょう だわ！！\\f\n",
+    "translation": "咔咔咔！\n我的状态绝佳啊！！\\f\n",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0713_0176",
+    "original": "おわー！\nにがしたかー！\\f\n",
+    "translation": "哎呀～！\n被逃掉啦～！\\f\n",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0713_0177",
+    "original": "いせきを ちょうさするのも\nいろいろ たいへん なんだぜ！",
+    "translation": "调查遗迹时\n也有很多辛酸事呢！",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0713_0178",
+    "original": "きみの ちからじゃ\nいせきマニアは むり かもね\\f\n",
+    "translation": "凭你这点能耐，\n看来是做不了遗迹迷的。\\f\n",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0713_0179",
+    "original": "いせきには きけんが\nいっぱい なのさ！\\f\n",
+    "translation": "遗迹里可是\n充满了危险！\\f\n",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0713_0180",
+    "original": "ともに せかいを たびした\nおいらの なかま！",
+    "translation": "这是与我一起\n周游世界的小伙伴！",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0713_0181",
+    "original": "どうだい？\nつよいだろ？\\f\n",
+    "translation": "怎样？\n厉害吧？\\f\n",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0713_0182",
+    "original": "また たびに でようかな⋯⋯\\f\n",
+    "translation": "是时候再去旅行了……\\f\n",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0713_0183",
+    "original": "ちょっと あーた これ みてよ！\nめずらしい ポケモンちゃん ですよ！",
+    "translation": "喂～你看看这个！\n是只很稀有的小宝可梦哦！",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0713_0184",
+    "original": "めずらしい うえに つよーい\nポケモンちゃんな わけですよ！\\f\n",
+    "translation": "不仅稀有还很强，\n不愧是我家小宝可梦啊！\\f\n",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0713_0185",
+    "original": "ああ！ こら！ まって！\nいや！ やめて！ さわらないで！\\f\n",
+    "translation": "啊啊！喂！你给我站住！\n不要！住手！不要碰我家小宝可梦！\\f\n",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0713_0186",
+    "original": "きょうは ぼくちんの\nとっておきを おみせしますよ！",
+    "translation": "今天就让你看看\n本少爷的珍藏！",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0713_0187",
+    "original": "どうよどうよ？ いいでしょ？\nちょー かっこいいでしょ？\\f\n",
+    "translation": "怎样怎样？不错吧？\n特～别酷吧！\\f\n",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0713_0188",
+    "original": "あわわ⋯⋯ ぼくちんの⋯⋯\nぼくちんの ポケモンが⋯⋯\\f\n",
+    "translation": "哎呀呀……本少爷的……\n本少爷的宝可梦……\\f\n",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0713_0189",
+    "original": "ねえ みて！ おきにいりの\nパラソルと じまんの ポケモン！",
+    "translation": "喂，快看！我心爱的阳伞，\n还有我自豪的宝可梦！",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0713_0190",
+    "original": "どっちも かわいいでしょ？\\f\n",
+    "translation": "哪个都很可爱吧？\\f\n",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0713_0191",
+    "original": "みせるだけ！\nあげないよ！\\f\n",
+    "translation": "就给你看看！\n我可不给你哦！\\f\n",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0713_0192",
+    "original": "あなた にじ みたことある？",
+    "translation": "你看过彩虹吗？",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0713_0193",
+    "original": "にじの むこうには\nなにが あるのかな？\\f\n",
+    "translation": "彩虹的另一端\n到底有什么呢？\\f\n",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0713_0194",
+    "original": "にじを ながめてると なんか\nいいこと ありそな きが するよ！\\f\n",
+    "translation": "望着彩虹，\n总感觉会有什么好事发生！\\f\n",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0713_0195",
+    "original": "いまの あなたは どんな おてんき？",
+    "translation": "你现在的心情如何？",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0713_0196",
+    "original": "いまの あたしは\nたいよう さんさん！\\f\n",
+    "translation": "我现在的心情，\n像太阳公公一样灿烂！\\f\n",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0713_0197",
+    "original": "いまの あたしは\nきりの なか⋯⋯\\f\n",
+    "translation": "我现在的心情，\n就像下雾一样吧……\\f\n",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0713_0198",
+    "original": "おねえさんはね よわっちい\nトレーナー きらいよ！",
+    "translation": "大姐姐可不喜欢\n弱小的训练家！",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0713_0199",
+    "original": "たよりがい ないなぁ！\\f\n",
+    "translation": "真是靠不住啊！\\f\n",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0713_0200",
+    "original": "やっぱ ポケモン トレーナーは\nつよくて ムチムチが いいわよね\\f\n",
+    "translation": "果然，宝可梦训练家\n就是要又强又壮的才可靠。\\f\n",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0713_0201",
+    "original": "おねえさんね⋯⋯ さいきん\nなやんでることが あるの⋯⋯",
+    "translation": "大姐姐我啊……\n最近有些烦恼呢……",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0713_0202",
+    "original": "しょうぶに かったら\nどうでも よくなっちゃった！\\f\n",
+    "translation": "对战胜利后，\n所有的烦恼也都抛之脑后了呢！\\f\n",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0713_0203",
+    "original": "また なやみが ふえるわね\\f\n",
+    "translation": "烦恼又增多了……\\f\n",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0713_0204",
+    "original": "ちょっと いたいかも しれないけど\nすぐに おわるから がまん してネ！",
+    "translation": "可能会有点疼，\n不过马上就好，稍微忍忍哦！",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0713_0205",
+    "original": "はい オシマイ！\\f\n",
+    "translation": "好，结束啦！\\f\n",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0713_0206",
+    "original": "やーん！ いったーい！\\f\n",
+    "translation": "不要嘛～！好痛～！\\f\n",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0713_0207",
+    "original": "グスッ グスッ⋯⋯",
+    "translation": "哧溜，哧溜……",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0713_0208",
+    "original": "グスッ グスッ⋯⋯\nかぜ かしら⋯⋯\\f\n",
+    "translation": "哧溜，哧溜……\n我是不是感冒了……\\f\n",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0713_0209",
+    "original": "グスッ グスッ⋯⋯\nはなが つまるわぁ⋯⋯\\f\n",
+    "translation": "哧溜，哧溜……\n鼻子塞住啦……\\f\n",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0713_0210",
+    "original": "くんくん⋯⋯",
+    "translation": "嗅嗅……",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0713_0211",
+    "original": "なんの におい かしら⋯⋯\\f\n",
+    "translation": "这是什么味道……\\f\n",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0713_0212",
+    "original": "あなた こうすいでも つけてる？\nなんだか ちょっと いい におい！\\f\n",
+    "translation": "你难道喷了香水？\n感觉好香啊！\\f\n",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0713_0213",
+    "original": "すてきな かおりに つつまれて\nあなたは まけるのっ！",
+    "translation": "在此芳香之中，\n你必定会输！",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0713_0214",
+    "original": "キャハハッ！\nうっとり してる からよ！\\f\n",
+    "translation": "咔哈哈！\n香晕过头了吧！\\f\n",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0713_0215",
+    "original": "キィー！ くやしいー！\\f\n",
+    "translation": "呀～！不甘心啊～！\\f\n",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0713_0216",
+    "original": "うなれ ギター！\nさけべ おれー！",
+    "translation": "响起来吧，吉他！\n嘶吼吧，本大爷！",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0713_0217",
+    "original": "イェーイ！\\f\n",
+    "translation": "耶～！\\f\n",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0713_0218",
+    "original": "ギャアアアア！！\\f\n",
+    "translation": "呀啊啊啊啊！！\\f\n",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0713_0219",
+    "original": "じぶんの すなおな きもちを\nうたに すると いいですよ",
+    "translation": "把自己最真实的感受，\n用歌声表达出来就对了。",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0713_0220",
+    "original": "いまは ロックな きぶんですね\\f\n",
+    "translation": "现在是摇滚的心情。\\f\n",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0713_0221",
+    "original": "いまの きもちは フォークですかね\\f\n",
+    "translation": "我现在想来首民谣。\\f\n",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0713_0222",
+    "original": "ききなさい！\nとりつかいの こころえ そのいち！",
+    "translation": "听好了！\n养鸟人心得之一！",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0713_0223",
+    "original": "かったら おおぞら とびまわれ！\\f\n",
+    "translation": "赢了的话就在蓝天中展翅翱翔吧！\\f\n",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0713_0224",
+    "original": "まけたら つばさを やすめよう！\\f\n",
+    "translation": "输了的话就收起翅膀养精蓄锐吧！\\f\n",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0713_0225",
+    "original": "おたがい ベストを つくしましょ！",
+    "translation": "让我们彼此全力以赴吧！",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0713_0226",
+    "original": "おたがい がんばったもんね！\\f\n",
+    "translation": "我们都尽力了！\\f\n",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0713_0227",
+    "original": "さっすがぁー！\\f\n",
+    "translation": "你果然名不虚传啊！\\f\n",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0713_0228",
+    "original": "とんで とんで とんで！！\nしょうぶを せいするわ！",
+    "translation": "飞吧，飞吧，飞吧！！\n看我拿下这场对决吧！",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0713_0229",
+    "original": "びゅーん！\\f\n",
+    "translation": "嗖～！\\f\n",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0713_0230",
+    "original": "おーちーるー！\\f\n",
+    "translation": "掉～下～来～啦～！\\f\n",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0713_0231",
+    "original": "わし ふなのり オブ ふなのり！\nうまれたのは ふねの なか！",
+    "translation": "老夫是水手中的水手！\n我可是生在船上的！",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0713_0232",
+    "original": "なみが ゆりかご！\nうみが わしの かあちゃんだ！\\f\n",
+    "translation": "海浪是老夫的摇篮！\n大海是老夫的母亲！\\f\n",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0713_0233",
+    "original": "うう⋯⋯ だからな うっぷ⋯⋯\nりくに いたら よっちまうのさ⋯⋯\\f\n",
+    "translation": "呜呜……就说了，呜咕……\n老夫上陆就会晕啊……\\f\n",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0713_0234",
+    "original": "いい⋯⋯\nやっぱり うみは いい⋯⋯",
+    "translation": "好啊……\n到底还是大海好啊……",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0713_0235",
+    "original": "おお⋯⋯ きこえる⋯⋯\nなみの おとが きこえるぜ⋯⋯\\f\n",
+    "translation": "哦哦……听到了……\n我听到了海浪的咆哮……\\f\n",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0713_0236",
+    "original": "おれも うみ みてえな\nでっかい おとこに なりたいぜ\\f\n",
+    "translation": "我要成为像大海一样\n魁梧壮大的男儿。\\f\n",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0713_0237",
+    "original": "やっーーーほーーー！！",
+    "translation": "嗨～～～！！",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0713_0238",
+    "original": "ほら！ きみも さけぼうっ！\\f\n",
+    "translation": "来啊！你也一起喊喊看！\\f\n",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0713_0239",
+    "original": "ごほっ!！ ごほっ！ ごほっ！\nさけびすぎて むせた⋯⋯\\f\n",
+    "translation": "咳！！咳！咳！\n喊太久了呛到嗓子了……\\f\n",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0713_0240",
+    "original": "やまおとこに ほれなさい！",
+    "translation": "为我登山男着迷吧！",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0713_0241",
+    "original": "ほれたね？\nもう ベタぼれだね？\\f\n",
+    "translation": "着迷了没？\n已经被我迷得神魂颠倒了吧？\\f\n",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0713_0242",
+    "original": "さあ ほれなさい！\nさあ！ さあさあ！\\f\n",
+    "translation": "来吧，快为我着迷！\n来吧！来吧来吧！\\f\n",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0713_0243",
+    "original": "あたしも あたしの\nポケモンも アイドルよ！",
+    "translation": "我和我的宝可梦\n都是偶像明星哦！",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0713_0244",
+    "original": "なんて いったって アイドルよ！\\f\n",
+    "translation": "不管怎么说，毕竟我们是偶像明星啊！\\f\n",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0713_0245",
+    "original": "にんき だったら\nまけないんだから⋯⋯\\f\n",
+    "translation": "要是比人气，\n我就不会输了……\\f\n",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0713_0246",
+    "original": "さあ わたしを みて！\nもっと わたしを みるの！",
+    "translation": "快来看我啊！\n给我更多的关注吧！",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0713_0247",
+    "original": "か・い・か・ん⋯⋯\\f\n",
+    "translation": "浑、身、舒、畅……\\f\n",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0713_0248",
+    "original": "だれよりも めだちたいから\nアイドルに なったの！\\f\n",
+    "translation": "我想比其他人更耀眼，\n所以才选择当偶像明星的！\\f\n",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0713_0249",
+    "original": "ポケモンしょうぶの やりすぎで\nアイドル くびに なりそう",
+    "translation": "我太专注于宝可梦对战了，\n这可能会丢掉偶像明星的饭碗。",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0713_0250",
+    "original": "ポケモンしょうぶは\nたのしすぎるわね！\\f\n",
+    "translation": "宝可梦对战\n简直太有意思啦！\\f\n",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0713_0251",
+    "original": "ポケモンしょうぶは\nどうにも とまらないわ\\f\n",
+    "translation": "宝可梦对战，\n真让人上瘾啊。\\f\n",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0713_0252",
+    "original": "まいあさ マラソン さいこうさー！",
+    "translation": "每天早上来趟马拉松，简直棒极了～！",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0713_0253",
+    "original": "きたえた からだで\nらくしょうさー！\\f\n",
+    "translation": "用我这锻炼过的好身材，\n轻松搞定你！\\f\n",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0713_0254",
+    "original": "まけても\nマラソン さいこうさー！\\f\n",
+    "translation": "就算输了，\n马拉松还是棒极了！\\f\n",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0713_0255",
+    "original": "けんこうに きを つかい\nはしりながら しょうぶ します！",
+    "translation": "为了维持健康，\n我要一边小跑一边和你对战！",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0713_0256",
+    "original": "けんこう バンザイ！\\f\n",
+    "translation": "健康万岁！\\f\n",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0713_0257",
+    "original": "グキッ！\nあしが あしが⋯⋯\\f\n",
+    "translation": "嘎嘣！\n我，我的脚腕……\\f\n",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0713_0258",
+    "original": "じゃん じゃん はこぶぞ！",
+    "translation": "锵锵，搬起来！",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0713_0259",
+    "original": "おまえも どこかに\nはこんで やろうか？\\f\n",
+    "translation": "顺便把你也\n搬到哪里去吧？\\f\n",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0713_0260",
+    "original": "まいにち はこびすぎて\nきんにくつう だ！\\f\n",
+    "translation": "每天都在不停地搬东西，\n我的肌肉都有点酸疼了！\\f\n",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0713_0261",
+    "original": "このあたりの たてものは\nおれっちが つくったのよ！",
+    "translation": "这附近的建筑\n都是本大爷建的！",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0713_0262",
+    "original": "どうよ？ いかすだろ？\\f\n",
+    "translation": "怎么样？壮观不？\\f\n",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0713_0263",
+    "original": "おれっちの ゆめは やまより\nたかい ビルを こしらえる こと！\\f\n",
+    "translation": "本大爷的梦想是\n建造比山还要高的大楼！\\f\n",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0713_0264",
+    "original": "ほーら おじさんから ぼくそうの\nにおいが プーンと するだろう？",
+    "translation": "闻到没～叔叔身上\n有没有散发着牧草的芳香？",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0713_0265",
+    "original": "うぉう！\\f\n",
+    "translation": "哇哦！\\f\n",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0713_0266",
+    "original": "これはね ポケモンが だーいすきな\nあまーい ぼくそうの におい なんだよ\\f\n",
+    "translation": "这是宝可梦最～喜欢的，\n又甜又香的牧草味哦。\\f\n",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0713_0267",
+    "original": "ほら おっさんが むねを かすよっ！\nたっぷり かかって きなさいっ！",
+    "translation": "来吧，叔叔把胸膛借给你！\n放马过来吧！",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0713_0268",
+    "original": "もう おわりかいっ！？\nもっと はげしく ぶつかっておいで！\\f\n",
+    "translation": "结束了吗！？\n来啊，使劲儿冲过来啊！\\f\n",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0713_0269",
+    "original": "おお⋯⋯ いたい⋯⋯ いたいよ⋯⋯\nおっさん むねが はりさけそうだよ⋯⋯\\f\n",
+    "translation": "哦哦……好疼……好疼啊……\n感觉叔叔的胸膛要裂开了……\\f\n",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0713_0270",
+    "original": "おれも わかくないからね\nあんまり むりは しないよ",
+    "translation": "实话说我也老大不小的了，\n不想那么拼了。",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0713_0271",
+    "original": "わかさの かわりに\nけいけんが あるからね\\f\n",
+    "translation": "只能说姜还是老的辣啊。\\f\n",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0713_0272",
+    "original": "いいね きみ わかいね\nキラキラしてるね\\f\n",
+    "translation": "不错，你还很年轻嘛，\n看你这生龙活虎的。\\f\n",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0713_0273",
+    "original": "ヘイ！ そこの トレーナー！\nわたしと しょうぶよ！",
+    "translation": "嘿！那边的训练家！\n和我一决胜负吧！",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0713_0274",
+    "original": "やりぃ！！\\f\n",
+    "translation": "厉害！！\\f\n",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0713_0275",
+    "original": "アンビーリバボー！\\f\n",
+    "translation": "简直难以置信！\\f\n",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0713_0276",
+    "original": "とうちゃんと かあちゃんと\nあたしで そだてた ポケモン！",
+    "translation": "这些是我和爸爸妈妈\n一起培育的宝可梦！",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0713_0277",
+    "original": "めちゃんこ つよい でしょが\\f\n",
+    "translation": "有没有很强啊。\\f\n",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0713_0278",
+    "original": "あんれー まけちゃったー\\f\n",
+    "translation": "哎呀～输掉啦～\\f\n",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0713_0279",
+    "original": "わたし いっぱい がんばるから！\nあなたも いっぱい がんばってね！",
+    "translation": "我会好好努力的！\n你也要好好努力哦！",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0713_0280",
+    "original": "ふう！ がんばったね！\\f\n",
+    "translation": "呼！你已经尽力了！\\f\n",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0713_0281",
+    "original": "いっぱい がんばったね！\\f\n",
+    "translation": "已经十分尽力了！\\f\n",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0713_0282",
+    "original": "ハイハイ わらってー！",
+    "translation": "看这里，笑一个～！",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0713_0283",
+    "original": "ホラホラ わらってー！\\f\n",
+    "translation": "来来，笑一个～！\\f\n",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0713_0284",
+    "original": "イイえがお だねー！\nしょうりの ポーズも きまってるぅ！\\f\n",
+    "translation": "笑得挺灿烂的嘛～！\n胜利的姿势摆得也不错！\\f\n",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0713_0285",
+    "original": "きみに ズームイン！",
+    "translation": "聚焦关注！",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0713_0286",
+    "original": "ばっちり フォーカス！\\f\n",
+    "translation": "密切关注！\\f\n",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0713_0287",
+    "original": "きみから ズームアウト⋯⋯\\f\n",
+    "translation": "取消对你的关注……\\f\n",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0713_0288",
+    "original": "カメラというのは じつは\nとっても おもいのですよ",
+    "translation": "摄像机这玩意儿\n其实挺重的。",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0713_0289",
+    "original": "いつも かたが パンパン⋯⋯\nおかげで たくましく なりましたよ\\f\n",
+    "translation": "肩膀总是硬邦邦的……\n但也让我变得壮实了不少。\\f\n",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0713_0290",
+    "original": "うう⋯⋯ フラフラする⋯⋯\\f\n",
+    "translation": "呜呜……头晕眼花的……\\f\n",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0713_0291",
+    "original": "そこの トレーナーさーん\nしょうぶ おねがいしまーす",
+    "translation": "那边的训～练～家～同学，\n麻烦和我对个战吧～",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0713_0292",
+    "original": "ありがとう ございましたー\\f\n",
+    "translation": "谢谢你啦～\\f\n",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0713_0293",
+    "original": "きょうしゅく でーす\\f\n",
+    "translation": "甘拜下风～\\f\n",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0713_0294",
+    "original": "ニュースの ためなら\nなんだって しますわ！",
+    "translation": "为了新闻，\n我什么都愿意做！",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0713_0295",
+    "original": "ポケモンしょうぶ だって\nがんばります！\\f\n",
+    "translation": "就算是宝可梦对战，\n我也会全力以赴！\\f\n",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0713_0296",
+    "original": "やめて やめて\nマイクが おれちゃう\\f\n",
+    "translation": "不要，不要啊，\n麦克风会断掉的。\\f\n",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0713_0297",
+    "original": "あなたは わたしの こと\nどう おもって いますか？",
+    "translation": "你觉得\n我这个人怎么样？",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0713_0298",
+    "original": "つよい トレーナー！\nと おもって いますか？\\f\n",
+    "translation": "你是不是觉得\n我是个很强的训练家呢？\\f\n",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0713_0299",
+    "original": "わたしは わたしに ついて\nレポート しているのです\\f\n",
+    "translation": "我正在进行\n对自己的采访。\\f\n",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0713_0300",
+    "original": "さあ！\nいっしょに はしろうぜ！",
+    "translation": "来吧！\n让我们跑起来！",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0713_0301",
+    "original": "ゴーーール！\\f\n",
+    "translation": "到达终点～！\\f\n",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0713_0302",
+    "original": "わー おいていかないでー\\f\n",
+    "translation": "哇～不要丢下我啊～\\f\n",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0713_0303",
+    "original": "ギアチェンジ！\nトップスピードで おまえにアタック！",
+    "translation": "换挡！\n对你进行快速猛攻！",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0713_0304",
+    "original": "びゅーん！\\f\n",
+    "translation": "嗖～！\\f\n",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0713_0305",
+    "original": "ドッカーン！！\\f\n",
+    "translation": "砰咚！！\\f\n",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0713_0306",
+    "original": "わたしの ポケモンの\nはしりに ついて これるか？",
+    "translation": "你能跟得上\n我家宝可梦的速度吗？",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0713_0307",
+    "original": "おそいっ！\\f\n",
+    "translation": "慢死了！\\f\n",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0713_0308",
+    "original": "スピードの かなたへ いくぜ！\\f\n",
+    "translation": "我要奔向速度的彼岸！\\f\n",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0713_0309",
+    "original": "わたし はやく はしるより\nのんびり サイクリングが すき！ ",
+    "translation": "比起快跑，\n我更喜欢骑车兜风！",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0713_0310",
+    "original": "のんびり しましょ！\\f\n",
+    "translation": "慢慢来吧！\\f\n",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0713_0311",
+    "original": "もっと のんびり\nすれば いいのに⋯⋯\\f\n",
+    "translation": "你可以再悠闲点的……\\f\n",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0713_0312",
+    "original": "とししたの あいてにも\nぜんりょくで いどむ！",
+    "translation": "就算对手比我年轻，\n我也会全力以赴！",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0713_0313",
+    "original": "ぜんりょくで かつ！\\f\n",
+    "translation": "全力胜出！\\f\n",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0713_0314",
+    "original": "きょうから あなたを\nししょうと よばせてください！\\f\n",
+    "translation": "从今天开始\n让我叫你一声“师傅”吧！\\f\n",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0713_0315",
+    "original": "もえる こころと はがねの こぶし\nながれる あせは たきの ごとし",
+    "translation": "炽热的心与钢之拳，\n汗流浃背如同瀑布一般。",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0713_0316",
+    "original": "むんっ！！\\f\n",
+    "translation": "唔嗯！！\\f\n",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0713_0317",
+    "original": "あせを ながした りょうでは\nまけない つもりだ！\\f\n",
+    "translation": "以流过的汗量来说，\n我不会输！\\f\n",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0713_0318",
+    "original": "かくごしなよっ！",
+    "translation": "做好觉悟吧！！",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0713_0319",
+    "original": "まだまだ いけるわよ？\\f\n",
+    "translation": "我还能继续哦？\\f\n",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0713_0320",
+    "original": "くっ⋯⋯ おぼえてなさい\\f\n",
+    "translation": "唔……你给我记住。\\f\n",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0713_0321",
+    "original": "ヘイ！ カモン！",
+    "translation": "嘿！来啊！",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0713_0322",
+    "original": "ナイスファイト！\\f\n",
+    "translation": "打得好！\\f\n",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0713_0323",
+    "original": "やるわね アンタ\\f\n",
+    "translation": "好家伙，厉害啊。\\f\n",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0713_0324",
+    "original": "わが きゅうきょくの おうぎ！\nとくと くらえぃ！！",
+    "translation": "看我的终极奥义！\n吃我一招！",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0713_0325",
+    "original": "われこそ さいきょう なり！\nぐわーっはっはっ！！\\f\n",
+    "translation": "吾乃天下最强！\n哇哈哈哈哈哈！！\\f\n",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0713_0326",
+    "original": "わ われが やぶれると いうのか⋯⋯\nぐっ ぐあーっ！！\\f\n",
+    "translation": "我我，我竟然会被打败……\n呜，呜啊啊啊啊啊～！！\\f\n",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0713_0327",
+    "original": "そこの こどもさん！\nしょうぶ おねがい しまっす！",
+    "translation": "那边的小朋友！\n和我过两招吧！",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0713_0328",
+    "original": "こどもさん！\nありがとう ございましたっす！\\f\n",
+    "translation": "小朋友！\n真的谢谢你啊！\\f\n",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0713_0329",
+    "original": "こどもさん！\nじぶん ほんと くやしいっす！\\f\n",
+    "translation": "小朋友！\n我真的好不甘心！\\f\n",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0713_0330",
+    "original": "ほ ほんとうは からて なんて\nやったこと ないんだ！",
+    "translation": "其、其实我根本\n没有练过空手道！",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0713_0331",
+    "original": "うっそ！？\nおれ さいのう あり！？\\f\n",
+    "translation": "不是吧！？\n难道我那么有天赋吗！？\\f\n",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0713_0332",
+    "original": "からてか って かっこいいじゃん\nだから ものまね してるだけ なんだ\\f\n",
+    "translation": "空手道家听起来很帅吧？\n所以我只是模仿一下啊。\\f\n",
+    "index": 332
+  },
+  {
+    "key": "HGSS_0713_0333",
+    "original": "やまに こもって はや５ねん！\nかみのけも のびっぱなし！",
+    "translation": "我在山中转眼间已经隐居了５年，\n头发一根都没剪过。",
+    "index": 333
+  },
+  {
+    "key": "HGSS_0713_0334",
+    "original": "おふろなら まいにち\nはいってるわよ！\\f\n",
+    "translation": "我每天都有洗澡哦！\\f\n",
+    "index": 334
+  },
+  {
+    "key": "HGSS_0713_0335",
+    "original": "あと ５ねんかな⋯⋯\\f\n",
+    "translation": "看来还要再待个５年……\\f\n",
+    "index": 335
+  },
+  {
+    "key": "HGSS_0713_0336",
+    "original": "ちょっと いま わたしの\nきんにく みて わらわなかった！？",
+    "translation": "等一下！你这家伙\n刚刚是不是在嘲笑我的肌肉！？",
+    "index": 336
+  },
+  {
+    "key": "HGSS_0713_0337",
+    "original": "きんにくの うつくしさを\nしらないのね！\\f\n",
+    "translation": "看来你并不懂得\n欣赏肌肉的美感！\\f\n",
+    "index": 337
+  },
+  {
+    "key": "HGSS_0713_0338",
+    "original": "きんにくこそ きゅうきょくの び！\\f\n",
+    "translation": "肌肉才是终极的美！\\f\n",
+    "index": 338
+  },
+  {
+    "key": "HGSS_0713_0339",
+    "original": "こいも しょうぶも まけしらず！",
+    "translation": "无论恋爱还是对战我都没输过！",
+    "index": 339
+  },
+  {
+    "key": "HGSS_0713_0340",
+    "original": "また かっちゃった！\\f\n",
+    "translation": "一不留神又赢了！\\f\n",
+    "index": 340
+  },
+  {
+    "key": "HGSS_0713_0341",
+    "original": "まけても いいもーん！\nこのあと デートだから いいもーん！\\f\n",
+    "translation": "输了也无所谓～！\n等会我还要去约会，所以无所谓～！\\f\n",
+    "index": 341
+  },
+  {
+    "key": "HGSS_0713_0342",
+    "original": "ときは きたれりっ！\nみなのもの であえーい！",
+    "translation": "时机已到！\n大伙儿，上啊～！",
+    "index": 342
+  },
+  {
+    "key": "HGSS_0713_0343",
+    "original": "てきトレーナー！\nうちとったりー！\\f\n",
+    "translation": "敌方训练家！\n已被讨伐！\\f\n",
+    "index": 343
+  },
+  {
+    "key": "HGSS_0713_0344",
+    "original": "ひけー！ みなのもの ひけー！\\f\n",
+    "translation": "撤离～！大伙儿快撤离～！\\f\n",
+    "index": 344
+  },
+  {
+    "key": "HGSS_0713_0345",
+    "original": "トレーナーれき ７５ねんの\nわしに かてると おもってるか？",
+    "translation": "老夫有着７５年的训练家阅历，\n难道你以为自己能赢过老夫吗？",
+    "index": 345
+  },
+  {
+    "key": "HGSS_0713_0346",
+    "original": "わしの れきしに カンパイ！\\f\n",
+    "translation": "为老夫的阅历干杯！\\f\n",
+    "index": 346
+  },
+  {
+    "key": "HGSS_0713_0347",
+    "original": "わしの えいこうの れきしがー\\f\n",
+    "translation": "老夫当年的光荣历史啊～\\f\n",
+    "index": 347
+  },
+  {
+    "key": "HGSS_0713_0348",
+    "original": "じゅんびは よろしいかな？",
+    "translation": "准备好了吗？",
+    "index": 348
+  },
+  {
+    "key": "HGSS_0713_0349",
+    "original": "すばらしい しょうぶで あったぞ\\f\n",
+    "translation": "真是一场精彩的对战。\\f\n",
+    "index": 349
+  },
+  {
+    "key": "HGSS_0713_0350",
+    "original": "やるのう おぬし\\f\n",
+    "translation": "你可以啊。\\f\n",
+    "index": 350
+  },
+  {
+    "key": "HGSS_0713_0351",
+    "original": "おやまあ⋯⋯\nかわいい トレーナーだこと⋯⋯",
+    "translation": "哎呀呀……\n好可爱的训练家啊……",
+    "index": 351
+  },
+  {
+    "key": "HGSS_0713_0352",
+    "original": "くやしがっているのね⋯⋯\nかわいいわ⋯⋯\\f\n",
+    "translation": "你现在很不甘心吧……\n这样子真可爱……\\f\n",
+    "index": 352
+  },
+  {
+    "key": "HGSS_0713_0353",
+    "original": "ふうん⋯⋯\nかわいいだけでは ないのね\\f\n",
+    "translation": "哼……\n你看来不只是可爱而已呀。\\f\n",
+    "index": 353
+  },
+  {
+    "key": "HGSS_0713_0354",
+    "original": "そいやさーっ！",
+    "translation": "嘿哟～！",
+    "index": 354
+  },
+  {
+    "key": "HGSS_0713_0355",
+    "original": "かっこいい かけごえでしょう？\nきあいが はいりますのよ！",
+    "translation": "我打招呼的方式酷吧？\n我可是气势十足哦！",
+    "index": 355
+  },
+  {
+    "key": "HGSS_0713_0356",
+    "original": "はあっ はあっ⋯⋯\nつかれましたわ⋯⋯\\f\n",
+    "translation": "呼……呼……\n累死我了……\\f\n",
+    "index": 356
+  },
+  {
+    "key": "HGSS_0713_0357",
+    "original": "おかねもちの せいかつも\nいろいろ なやみが ありますの⋯⋯",
+    "translation": "有钱人的生活\n也是有很多烦恼的……",
+    "index": 357
+  },
+  {
+    "key": "HGSS_0713_0358",
+    "original": "まあ おかねが ないより\nいいです けれども⋯⋯\\f\n",
+    "translation": "嗯，至少\n比没钱要好得多……\\f\n",
+    "index": 358
+  },
+  {
+    "key": "HGSS_0713_0359",
+    "original": "まいにち つづく パーティ⋯⋯\nいいかげん ウンザリですわ⋯⋯\\f\n",
+    "translation": "永无止境日复一日的派对……\n我真是有点腻了……\\f\n",
+    "index": 359
+  },
+  {
+    "key": "HGSS_0713_0360",
+    "original": "しるがいい はいぼくを⋯⋯\nまなぶがいい しょうぶを⋯⋯",
+    "translation": "要体会何为败北……\n要学会何为对战……",
+    "index": 360
+  },
+  {
+    "key": "HGSS_0713_0361",
+    "original": "おまえは まだ つよくなる⋯⋯\\f\n",
+    "translation": "你还会变得更强……\\f\n",
+    "index": 361
+  },
+  {
+    "key": "HGSS_0713_0362",
+    "original": "はいしゃは さるのみ⋯⋯\\f\n",
+    "translation": "输家只有退场的命……\\f\n",
+    "index": 362
+  },
+  {
+    "key": "HGSS_0713_0363",
+    "original": "おれの めをみろ！",
+    "translation": "看我的眼睛！",
+    "index": 363
+  },
+  {
+    "key": "HGSS_0713_0364",
+    "original": "あんじに かかったな！\\f\n",
+    "translation": "被我这招暗示到了吧！\\f\n",
+    "index": 364
+  },
+  {
+    "key": "HGSS_0713_0365",
+    "original": "おれの あんじが\nきかないなんて！\\f\n",
+    "translation": "我使出的暗示，\n竟然对你无效！\\f\n",
+    "index": 365
+  },
+  {
+    "key": "HGSS_0713_0366",
+    "original": "⋯⋯ ⋯⋯",
+    "translation": "…………",
+    "index": 366
+  },
+  {
+    "key": "HGSS_0713_0367",
+    "original": "⋯⋯ ⋯⋯やった\\f\n",
+    "translation": "…………赢了。\\f\n",
+    "index": 367
+  },
+  {
+    "key": "HGSS_0713_0368",
+    "original": "だまって せいしんを\nしゅうちゅう させて いました⋯⋯\\f\n",
+    "translation": "我一直专注在\n集中精神……\\f\n",
+    "index": 368
+  },
+  {
+    "key": "HGSS_0713_0369",
+    "original": "あたいの パワー！\nトリックじゃないわ！",
+    "translation": "人家的力量！\n可是货真价实的哦！",
+    "index": 369
+  },
+  {
+    "key": "HGSS_0713_0370",
+    "original": "これが ちょうのうりょく！\\f\n",
+    "translation": "这就是超能力！\\f\n",
+    "index": 370
+  },
+  {
+    "key": "HGSS_0713_0371",
+    "original": "トリックじゃ ないのに⋯⋯\\f\n",
+    "translation": "人家明明就没有使诈……\\f\n",
+    "index": 371
+  },
+  {
+    "key": "HGSS_0713_0372",
+    "original": "くらうが いいわぁ！",
+    "translation": "吃我一记！",
+    "index": 372
+  },
+  {
+    "key": "HGSS_0713_0373",
+    "original": "あっはっはっ！！\\f\n",
+    "translation": "啊哈哈！！\\f\n",
+    "index": 373
+  },
+  {
+    "key": "HGSS_0713_0374",
+    "original": "ギギギ\\f\n",
+    "translation": "叽叽叽。\\f\n",
+    "index": 374
+  },
+  {
+    "key": "HGSS_0713_0375",
+    "original": "めを とじて ゆっくりと\nかずを かぞえなさい⋯⋯",
+    "translation": "闭上眼睛\n慢慢倒数吧……",
+    "index": 375
+  },
+  {
+    "key": "HGSS_0713_0376",
+    "original": "わたしが かつまでの\nカウントダウンよ⋯⋯\\f\n",
+    "translation": "那是为我胜利的\n倒计时……\\f\n",
+    "index": 376
+  },
+  {
+    "key": "HGSS_0713_0377",
+    "original": "ちっ⋯⋯\nねむくなると おもったのに⋯⋯\\f\n",
+    "translation": "切……\n还以为你会困呢……\\f\n",
+    "index": 377
+  },
+  {
+    "key": "HGSS_0713_0378",
+    "original": "ぼくは ポケモンたちと\nいっしょに せいかつを しています",
+    "translation": "我和宝可梦们生活在一起。",
+    "index": 378
+  },
+  {
+    "key": "HGSS_0713_0379",
+    "original": "しょうぶは とくいでは ないのですが\\f\n",
+    "translation": "我不太擅长对战，不过……\\f\n",
+    "index": 379
+  },
+  {
+    "key": "HGSS_0713_0380",
+    "original": "しょうぶは とくいでは ないのです\\f\n",
+    "translation": "我不太擅长对战。\\f\n",
+    "index": 380
+  },
+  {
+    "key": "HGSS_0713_0381",
+    "original": "⋯⋯とうさんと いっしょに\nそだてた ポケモンです⋯⋯",
+    "translation": "……这些是我和爸爸\n一起培育的宝可梦……",
+    "index": 381
+  },
+  {
+    "key": "HGSS_0713_0382",
+    "original": "⋯⋯ とうさん みてる⋯⋯？\nぼくやったよ⋯⋯\\f\n",
+    "translation": "……爸爸，你看到了吗……？\n我赢了哦……\\f\n",
+    "index": 382
+  },
+  {
+    "key": "HGSS_0713_0383",
+    "original": "だめだ とうさん⋯⋯\nもっと そだてないと だめだ⋯⋯\\f\n",
+    "translation": "不行了，爸爸……\n得再努力培育一下宝可梦才行……\\f\n",
+    "index": 383
+  },
+  {
+    "key": "HGSS_0713_0384",
+    "original": "ポケモン そだてるのは\nとても てが かかるけん！",
+    "translation": "培育宝可梦\n真是超费工夫呀！",
+    "index": 384
+  },
+  {
+    "key": "HGSS_0713_0385",
+    "original": "わはは！ てしおに かけた\nポケモン じゃけんのぅ！\\f\n",
+    "translation": "哇哈哈！这可是我细心\n呵护的宝可梦呀！\\f\n",
+    "index": 385
+  },
+  {
+    "key": "HGSS_0713_0386",
+    "original": "うがが！\nわしの ポケモンがぁ！！\\f\n",
+    "translation": "哎呀呀！\n我的宝可梦呀！！\\f\n",
+    "index": 386
+  },
+  {
+    "key": "HGSS_0713_0387",
+    "original": "うちの そだてた\nポケモン みてくれる？",
+    "translation": "要不要看看\n我培育的宝可梦？",
+    "index": 387
+  },
+  {
+    "key": "HGSS_0713_0388",
+    "original": "どう？ かわいいやろ？\\f\n",
+    "translation": "怎么样？可爱吧？\\f\n",
+    "index": 388
+  },
+  {
+    "key": "HGSS_0713_0389",
+    "original": "かんにんやー\\f\n",
+    "translation": "饶了我吧～\\f\n",
+    "index": 389
+  },
+  {
+    "key": "HGSS_0713_0390",
+    "original": "かわいい ポケモンを\nせんもんに そだててるの！",
+    "translation": "我是培育可爱宝可梦的\n专业户！",
+    "index": 390
+  },
+  {
+    "key": "HGSS_0713_0391",
+    "original": "かわいくて つよいでしょ！\\f\n",
+    "translation": "是不是既可爱又厉害啊！\\f\n",
+    "index": 391
+  },
+  {
+    "key": "HGSS_0713_0392",
+    "original": "こんなに かわいいのに！\\f\n",
+    "translation": "我的宝可梦明明这么可爱！\\f\n",
+    "index": 392
+  },
+  {
+    "key": "HGSS_0713_0393",
+    "original": "はじめまして！\nなめてると いたいめ みるわよ！",
+    "translation": "初次见面！\n小看我的话可是会吃大亏的哦！",
+    "index": 393
+  },
+  {
+    "key": "HGSS_0713_0394",
+    "original": "ほらね！\\f\n",
+    "translation": "看吧！\\f\n",
+    "index": 394
+  },
+  {
+    "key": "HGSS_0713_0395",
+    "original": "わたしが なめてた みたい⋯⋯\\f\n",
+    "translation": "看来是我小瞧你了……\\f\n",
+    "index": 395
+  },
+  {
+    "key": "HGSS_0713_0396",
+    "original": "ふむふむ⋯⋯ きみは なかなか\nすてきな ひとみを しておるネ！",
+    "translation": "嗯嗯……你有着一双\n炯炯有神的大眼睛呢！",
+    "index": 396
+  },
+  {
+    "key": "HGSS_0713_0397",
+    "original": "まけても くもらぬ かがやき⋯⋯ \nまるで ほうせきの ようだネ！\\f\n",
+    "translation": "就算输了也不失光彩……\n你的双眼好像宝石一样呢！\\f\n",
+    "index": 397
+  },
+  {
+    "key": "HGSS_0713_0398",
+    "original": "わがやの どんな ビッグな\nほうせきより かがいているネ！\\f\n",
+    "translation": "这眼神比我家里的\n任何一颗大宝石都要耀眼呢！\\f\n",
+    "index": 398
+  },
+  {
+    "key": "HGSS_0713_0399",
+    "original": "わしも わかいころは\nむちゃなことを したものだよ！",
+    "translation": "老夫年轻的时候\n也经常乱来呢！",
+    "index": 399
+  },
+  {
+    "key": "HGSS_0713_0400",
+    "original": "きみを みとると\nむかしを おもいだすね\\f\n",
+    "translation": "看着你\n我就会想起从前。\\f\n",
+    "index": 400
+  },
+  {
+    "key": "HGSS_0713_0401",
+    "original": "きみも なかなか\nむちゃな やつだ！\\f\n",
+    "translation": "你也是个\n挺能乱来的家伙啊！\\f\n",
+    "index": 401
+  },
+  {
+    "key": "HGSS_0713_0402",
+    "original": "おうちに かえるなら\nいまの うちだぜぇ！",
+    "translation": "你想要跑回家的话，\n最好趁现在！",
+    "index": 402
+  },
+  {
+    "key": "HGSS_0713_0403",
+    "original": "ゲヘヘェ！\\f\n",
+    "translation": "哎嘿嘿！\\f\n",
+    "index": 403
+  },
+  {
+    "key": "HGSS_0713_0404",
+    "original": "わー！ おがあちゃーん！！\\f\n",
+    "translation": "哇～妈妈～！！\\f\n",
+    "index": 404
+  },
+  {
+    "key": "HGSS_0713_0405",
+    "original": "しょうぶは なにも うまない！！\nてを とりあおう！ ラブだっ！",
+    "translation": "对战不会得到任何结果！！\n让我们手拉手吧！这就是爱！",
+    "index": 405
+  },
+  {
+    "key": "HGSS_0713_0406",
+    "original": "うっかり しょうぶして しまったが\nてを とりあおう！ ラブだっ！\\f\n",
+    "translation": "虽然我糊里糊涂就对起战来了，\n不过让我们手拉手吧！这就是爱！\\f\n",
+    "index": 406
+  },
+  {
+    "key": "HGSS_0713_0407",
+    "original": "しょうぶなんて むなしい！\nてを とりあおう！ ラブだっ！\\f\n",
+    "translation": "胜负什么的都是徒然！\n让我们手拉手吧！这就是爱！\\f\n",
+    "index": 407
+  },
+  {
+    "key": "HGSS_0713_0408",
+    "original": "めがねを おとしちゃってさー\nまえが ぜんぜん みえないなー",
+    "translation": "我的眼镜掉了～\n根本看不清楚～",
+    "index": 408
+  },
+  {
+    "key": "HGSS_0713_0409",
+    "original": "かった みたいだなー\nなんにも みえないけどなー\\f\n",
+    "translation": "看来是我赢了啊～\n虽然根本看不清楚～\\f\n",
+    "index": 409
+  },
+  {
+    "key": "HGSS_0713_0410",
+    "original": "まけた みたいだなー\nなんにも みえないけどなー\\f\n",
+    "translation": "看来是我输了啊～\n虽然根本看不清楚～\\f\n",
+    "index": 410
+  },
+  {
+    "key": "HGSS_0713_0411",
+    "original": "ちいさなことから コツコツと！",
+    "translation": "万事都靠日积月累！",
+    "index": 411
+  },
+  {
+    "key": "HGSS_0713_0412",
+    "original": "コツコツと かちました！\\f\n",
+    "translation": "功夫不负有心人，我赢了！\\f\n",
+    "index": 412
+  },
+  {
+    "key": "HGSS_0713_0413",
+    "original": "コツコツと やったのに⋯⋯\\f\n",
+    "translation": "我明明日积月累地努力……\\f\n",
+    "index": 413
+  },
+  {
+    "key": "HGSS_0713_0414",
+    "original": "ヘラヘラヘラ⋯⋯",
+    "translation": "嘿嘿嘿嘿……",
+    "index": 414
+  },
+  {
+    "key": "HGSS_0713_0415",
+    "original": "ゲラゲラゲラ！\\f\n",
+    "translation": "嘻嘻嘻嘻！\\f\n",
+    "index": 415
+  },
+  {
+    "key": "HGSS_0713_0416",
+    "original": "しくしくしく\\f\n",
+    "translation": "呜呜呜呜。\\f\n",
+    "index": 416
+  },
+  {
+    "key": "HGSS_0713_0417",
+    "original": "さー ゆかいな ポケモンショーの\nはじまり ですよ！",
+    "translation": "看～欢乐的宝可秀就要开演啦！",
+    "index": 417
+  },
+  {
+    "key": "HGSS_0713_0418",
+    "original": "ほーら ゆかい でしょう？\\f\n",
+    "translation": "看吧～很欢乐吧？\\f\n",
+    "index": 418
+  },
+  {
+    "key": "HGSS_0713_0419",
+    "original": "んー おれ ふゆかいー\\f\n",
+    "translation": "嗯～我不是很开心～\\f\n",
+    "index": 419
+  },
+  {
+    "key": "HGSS_0713_0420",
+    "original": "けいこを つけてやろう",
+    "translation": "我们来训练吧。",
+    "index": 420
+  },
+  {
+    "key": "HGSS_0713_0421",
+    "original": "まだだ！ たてっ！\\f\n",
+    "translation": "还不够！快站起来！\\f\n",
+    "index": 421
+  },
+  {
+    "key": "HGSS_0713_0422",
+    "original": "よしっ！ そこまでっ！\\f\n",
+    "translation": "很好！到此为止！\\f\n",
+    "index": 422
+  },
+  {
+    "key": "HGSS_0713_0423",
+    "original": "なんにも かんがえなくて いいじゃん！\nたのしきゃ それで いーじゃん！",
+    "translation": "什么都不去多想就是啦！\n只要开心就好啊！",
+    "index": 423
+  },
+  {
+    "key": "HGSS_0713_0424",
+    "original": "しょうぶも かてるじゃん！\nもんだい ないじゃん！\\f\n",
+    "translation": "我这不是能赢吗！\n没什么问题啊！\\f\n",
+    "index": 424
+  },
+  {
+    "key": "HGSS_0713_0425",
+    "original": "まけても いいじゃん！\nたのしきゃ いいじゃん！\\f\n",
+    "translation": "输了也无所谓啊！\n只要开心就好啊！\\f\n",
+    "index": 425
+  },
+  {
+    "key": "HGSS_0713_0426",
+    "original": "きたい してる からね⋯⋯\nがっかり させないで くれよっ！",
+    "translation": "我很期待你的表现……\n千万不要让我失望啊！",
+    "index": 426
+  },
+  {
+    "key": "HGSS_0713_0427",
+    "original": "きたい はずれか⋯⋯\\f\n",
+    "translation": "我的期待落空了啊……\\f\n",
+    "index": 427
+  },
+  {
+    "key": "HGSS_0713_0428",
+    "original": "いいね キミ\\f\n",
+    "translation": "你很棒啊！\\f\n",
+    "index": 428
+  },
+  {
+    "key": "HGSS_0713_0429",
+    "original": "あたしの パパも ママも\nつよい トレーナーなのよ！",
+    "translation": "我的爸爸妈妈都是\n很强的训练家哦！",
+    "index": 429
+  },
+  {
+    "key": "HGSS_0713_0430",
+    "original": "ちすじ って やつね！\\f\n",
+    "translation": "这就叫血统吧！\\f\n",
+    "index": 430
+  },
+  {
+    "key": "HGSS_0713_0431",
+    "original": "パパ ママ ごめんなさーい！\\f\n",
+    "translation": "爸爸、妈妈，对不起～！\\f\n",
+    "index": 431
+  },
+  {
+    "key": "HGSS_0713_0432",
+    "original": "わたしは どんな しょうぶも\nぜんりょくで いどむ！",
+    "translation": "我无论面对何种对战，\n都一定会全力以赴！",
+    "index": 432
+  },
+  {
+    "key": "HGSS_0713_0433",
+    "original": "とうぜんの けっか！\\f\n",
+    "translation": "理所当然的结果！\\f\n",
+    "index": 433
+  },
+  {
+    "key": "HGSS_0713_0434",
+    "original": "まいりました！\\f\n",
+    "translation": "甘拜下风！\\f\n",
+    "index": 434
+  },
+  {
+    "key": "HGSS_0713_0435",
+    "original": "ここが じんせいの おおいちばん！\nまけるわけには いかないのよっ！",
+    "translation": "这是人生的重要转折点！\n我绝对不能输！",
+    "index": 435
+  },
+  {
+    "key": "HGSS_0713_0436",
+    "original": "うっしゃーーっ！！\\f\n",
+    "translation": "哦耶～！\\f\n",
+    "index": 436
+  },
+  {
+    "key": "HGSS_0713_0437",
+    "original": "ミニスカートから でなおしね⋯⋯\\f\n",
+    "translation": "又要从迷你裙做起了……\\f\n",
+    "index": 437
+  },
+  {
+    "key": "HGSS_0713_0438",
+    "original": "しぜんと ポケモンが すきで\nレンジャーに なったんだ！",
+    "translation": "我喜欢大自然与宝可梦，\n所以成为了巡护员！",
+    "index": 438
+  },
+  {
+    "key": "HGSS_0713_0439",
+    "original": "しょうぶも すき だけどね！\\f\n",
+    "translation": "当然我也很喜欢对战！\\f\n",
+    "index": 439
+  },
+  {
+    "key": "HGSS_0713_0440",
+    "original": "うーん⋯⋯\nしょうぶも すきなんだけどな\\f\n",
+    "translation": "嗯……\n其实我也很喜欢对战。\\f\n",
+    "index": 440
+  },
+  {
+    "key": "HGSS_0713_0441",
+    "original": "ハーイ！ きみも\nレンジャーに ならないか！",
+    "translation": "嗨～！你要不要来\n一起做巡护员啊！",
+    "index": 441
+  },
+  {
+    "key": "HGSS_0713_0442",
+    "original": "ああ でも\nきみの ちからじゃ ムリかも\\f\n",
+    "translation": "啊啊，但是以你现在的\n实力应该还不够格。\\f\n",
+    "index": 442
+  },
+  {
+    "key": "HGSS_0713_0443",
+    "original": "いいね つよいね きみ\nレンジャーは たのしいぞー！\\f\n",
+    "translation": "很好，你很厉害啊。\n做巡护员可有意思啦～！\\f\n",
+    "index": 443
+  },
+  {
+    "key": "HGSS_0713_0444",
+    "original": "かっても まけても\nしょうぶは いちどきり！",
+    "translation": "无论输赢，\n胜负仅此一次！",
+    "index": 444
+  },
+  {
+    "key": "HGSS_0713_0445",
+    "original": "くいは ない？\\f\n",
+    "translation": "你不后悔吗？\\f\n",
+    "index": 445
+  },
+  {
+    "key": "HGSS_0713_0446",
+    "original": "くいは ない！\\f\n",
+    "translation": "我无怨无悔！\\f\n",
+    "index": 446
+  },
+  {
+    "key": "HGSS_0713_0447",
+    "original": "しぜんと そこにくらす ポケモンを\nまもるのが わたしの しめい！",
+    "translation": "保护大自然和生活在那里的宝可梦！\n就是我的使命！",
+    "index": 447
+  },
+  {
+    "key": "HGSS_0713_0448",
+    "original": "たいへん だけど\nとっても たのしい まいにちよ！\\f\n",
+    "translation": "虽然很辛苦，\n但是每天都很开心哦！\\f\n",
+    "index": 448
+  },
+  {
+    "key": "HGSS_0713_0449",
+    "original": "とても やりがいが あるわ！\nあなたも どうかしら？\\f\n",
+    "translation": "这份工作真的很有意义！\n你要不要也来加入我们呢？\\f\n",
+    "index": 449
+  },
+  {
+    "key": "HGSS_0713_0450",
+    "original": "わたしの ポケモンちゃんで\nたっぷり かわいがって あげる！",
+    "translation": "我要用我的小宝可梦\n好好关爱你！",
+    "index": 450
+  },
+  {
+    "key": "HGSS_0713_0451",
+    "original": "どうかしら？ まんぞくした？\\f\n",
+    "translation": "怎么样？满足了吗？\\f\n",
+    "index": 451
+  },
+  {
+    "key": "HGSS_0713_0452",
+    "original": "つよいわね あなた！\nちょっと ビックリ！\\f\n",
+    "translation": "你真强啊！\n有点吓到我了！\\f\n",
+    "index": 452
+  },
+  {
+    "key": "HGSS_0713_0453",
+    "original": "よるも ねないで\nかんがえた さくせんよ！",
+    "translation": "这是我不眠不休\n想出的战术哦！",
+    "index": 453
+  },
+  {
+    "key": "HGSS_0713_0454",
+    "original": "さくせん せいこう！\\f\n",
+    "translation": "成功作战！\\f\n",
+    "index": 454
+  },
+  {
+    "key": "HGSS_0713_0455",
+    "original": "そんなぁ⋯⋯\nこんやは ねむれないと⋯⋯\\f\n",
+    "translation": "怎么会这样……\n今晚我要睡不着了吗……\\f\n",
+    "index": 455
+  },
+  {
+    "key": "HGSS_0713_0456",
+    "original": "ドラゴンつかいの こころえ\nそのいち！",
+    "translation": "驯龙师的\n心得之一！",
+    "index": 456
+  },
+  {
+    "key": "HGSS_0713_0457",
+    "original": "かったら ほえろ！\nドラゴンと！\\f\n",
+    "translation": "赢了就咆哮吧！\n和龙一起！\\f\n",
+    "index": 457
+  },
+  {
+    "key": "HGSS_0713_0458",
+    "original": "まけても ほえろ！\nドラゴンと！\\f\n",
+    "translation": "输了也咆哮吧！\n和龙一起！\\f\n",
+    "index": 458
+  },
+  {
+    "key": "HGSS_0713_0459",
+    "original": "ドラゴンの ように たくましく！",
+    "translation": "像龙一样矫健！",
+    "index": 459
+  },
+  {
+    "key": "HGSS_0713_0460",
+    "original": "つよい おれさま！\\f\n",
+    "translation": "我太强啦！\\f\n",
+    "index": 460
+  },
+  {
+    "key": "HGSS_0713_0461",
+    "original": "⋯⋯ ぜえぜえ⋯⋯\nたくましく なりたかった⋯⋯\\f\n",
+    "translation": "……咳，咳……\n我本想变得更矫健……\\f\n",
+    "index": 461
+  },
+  {
+    "key": "HGSS_0713_0462",
+    "original": "みるが いい！ かんじるが いい！\nたぶん さいきょうの ちからを！",
+    "translation": "仔细看吧！好好体会吧！\n这或许就是最强的力量！",
+    "index": 462
+  },
+  {
+    "key": "HGSS_0713_0463",
+    "original": "たぶん さいきょうの\nわしに まけは ない！\\f\n",
+    "translation": "或许最强的我\n是不会输的！\\f\n",
+    "index": 463
+  },
+  {
+    "key": "HGSS_0713_0464",
+    "original": "たぶん さいきょうの しょうごう！\nおぬしに ゆずろう じゃないか！\\f\n",
+    "translation": "或许最强的这个称号！\n就让给你吧！\\f\n",
+    "index": 464
+  },
+  {
+    "key": "HGSS_0713_0465",
+    "original": "あーっ！\nめずらしい ポケモンだーっ！",
+    "translation": "啊～！\n好稀有的宝可梦啊！",
+    "index": 465
+  },
+  {
+    "key": "HGSS_0713_0466",
+    "original": "ヒヒヒ⋯⋯ しょうぶに\nすきを みせる からだ\\f\n",
+    "translation": "嘿嘿嘿……因为你在对战时\n让我有机可乘啊。\\f\n",
+    "index": 466
+  },
+  {
+    "key": "HGSS_0713_0467",
+    "original": "ちぇ だませなかった\\f\n",
+    "translation": "切，竟然没骗到你。\\f\n",
+    "index": 467
+  },
+  {
+    "key": "HGSS_0713_0468",
+    "original": "ひどい さむがり だけど\nけっこう つよいよ ぼく",
+    "translation": "虽然很怕冷，\n但是我很强。",
+    "index": 468
+  },
+  {
+    "key": "HGSS_0713_0469",
+    "original": "ガタガタ⋯⋯\nわ わはは かった かったぞ\\f\n",
+    "translation": "好冷冷冷……\n哇、哇哈哈，我赢了、赢了！\\f\n",
+    "index": 469
+  },
+  {
+    "key": "HGSS_0713_0470",
+    "original": "ガタガタ⋯⋯ うう⋯⋯\nなんだか もう ねむいや⋯⋯\\f\n",
+    "translation": "好冷冷冷……呜呜……\n有点困了……\\f\n",
+    "index": 470
+  },
+  {
+    "key": "HGSS_0713_0471",
+    "original": "ボク ごじまんの\nポケモンが いくじゃなーい！",
+    "translation": "上吧～！\n我自豪的宝可梦。",
+    "index": 471
+  },
+  {
+    "key": "HGSS_0713_0472",
+    "original": "いがいに やるじゃなーい\\f\n",
+    "translation": "想不到你这么有能耐～\\f\n",
+    "index": 472
+  },
+  {
+    "key": "HGSS_0713_0473",
+    "original": "いいセンスしてる じゃなーい\\f\n",
+    "translation": "你还挺有本事的啊～\\f\n",
+    "index": 473
+  },
+  {
+    "key": "HGSS_0713_0474",
+    "original": "ゆきって すてき よね！\nあたりが まっしろに なって！",
+    "translation": "雪真的好美啊！\n周围都会被染成银白色的世界！",
+    "index": 474
+  },
+  {
+    "key": "HGSS_0713_0475",
+    "original": "ゆきって ロマンティック！\\f\n",
+    "translation": "雪好浪漫啊！\\f\n",
+    "index": 475
+  },
+  {
+    "key": "HGSS_0713_0476",
+    "original": "めのまえが まっしろ⋯⋯\\f\n",
+    "translation": "我的眼前一片空白……\\f\n",
+    "index": 476
+  },
+  {
+    "key": "HGSS_0713_0477",
+    "original": "かわいい コートでしょ？\nちょっと うごきにくいけど",
+    "translation": "这件外套很可爱吧？\n虽然穿着它行动有些不便。",
+    "index": 477
+  },
+  {
+    "key": "HGSS_0713_0478",
+    "original": "ぬくぬく\\f\n",
+    "translation": "暖暖和和。\\f\n",
+    "index": 478
+  },
+  {
+    "key": "HGSS_0713_0479",
+    "original": "もごもご\\f\n",
+    "translation": "蠕动蠕动。\\f\n",
+    "index": 479
+  },
+  {
+    "key": "HGSS_0713_0480",
+    "original": "ぼくこそ \nたんパン なんばーわん！",
+    "translation": "我才是短裤小子中的\n第一名～！",
+    "index": 480
+  },
+  {
+    "key": "HGSS_0713_0481",
+    "original": "みたか！\nなんばーわんの じつりょく！\\f\n",
+    "translation": "看到没！\n这就是第一名的实力！\\f\n",
+    "index": 481
+  },
+  {
+    "key": "HGSS_0713_0482",
+    "original": "くそう⋯⋯\nなんばーわんの ぼくが⋯⋯\\f\n",
+    "translation": "可恶……\n第一名的我居然……\\f\n",
+    "index": 482
+  },
+  {
+    "key": "HGSS_0713_0483",
+    "original": "おれこそ \nたんパン おんりーわん！",
+    "translation": "我才是独一无二的\n短裤小子！",
+    "index": 483
+  },
+  {
+    "key": "HGSS_0713_0484",
+    "original": "みたか！\nおんりーわんの じつりょく！\\f\n",
+    "translation": "看到没！\n这就是独一无二的实力！\\f\n",
+    "index": 484
+  },
+  {
+    "key": "HGSS_0713_0485",
+    "original": "くそう⋯⋯\nおんりーわんの おれが⋯⋯\\f\n",
+    "translation": "可恶……\n独一无二的我居然……\\f\n",
+    "index": 485
+  },
+  {
+    "key": "HGSS_0713_0486",
+    "original": "あ あの\nよろしく おねがいしますね",
+    "translation": "那、那个，\n请多多指教。",
+    "index": 486
+  },
+  {
+    "key": "HGSS_0713_0487",
+    "original": "わ わわ かってしまいました？\nえ えと？ ごごごめんなさい\\f\n",
+    "translation": "哇，哇哇，我赢了吗？\n那，那个？对对，对不起。\\f\n",
+    "index": 487
+  },
+  {
+    "key": "HGSS_0713_0488",
+    "original": "あ あの \nありがとう ございました⋯⋯\\f\n",
+    "translation": "那、那个，\n谢谢你……\\f\n",
+    "index": 488
+  },
+  {
+    "key": "HGSS_0713_0489",
+    "original": "いっくよぉー！！",
+    "translation": "上啦！！",
+    "index": 489
+  },
+  {
+    "key": "HGSS_0713_0490",
+    "original": "ぶらぼー！\\f\n",
+    "translation": "万岁～！\\f\n",
+    "index": 490
+  },
+  {
+    "key": "HGSS_0713_0491",
+    "original": "きゃん！\\f\n",
+    "translation": "呀！\\f\n",
+    "index": 491
+  },
+  {
+    "key": "HGSS_0713_0492",
+    "original": "きみも まなべ！",
+    "translation": "你也学着点儿！",
+    "index": 492
+  },
+  {
+    "key": "HGSS_0713_0493",
+    "original": "しょうぶの つらさを！\\f\n",
+    "translation": "学学对战的苦！\\f\n",
+    "index": 493
+  },
+  {
+    "key": "HGSS_0713_0494",
+    "original": "しょうりの よろこびを！\\f\n",
+    "translation": "学学胜利的喜悦！\\f\n",
+    "index": 494
+  },
+  {
+    "key": "HGSS_0713_0495",
+    "original": "べんきょうさせて もらいます",
+    "translation": "让我向你学习一下吧。",
+    "index": 495
+  },
+  {
+    "key": "HGSS_0713_0496",
+    "original": "べんきょうに なりませんよ\\f\n",
+    "translation": "在你身上根本学不到东西嘛。\\f\n",
+    "index": 496
+  },
+  {
+    "key": "HGSS_0713_0497",
+    "original": "そうか あんなときには\nあんなわざを だせば いいのか\\f\n",
+    "translation": "原来如此～那种情况下，\n使出那个招式就行啦。\\f\n",
+    "index": 497
+  },
+  {
+    "key": "HGSS_0713_0498",
+    "original": "せんせいから しょうぶの コツを\nおしえて もらったの！",
+    "translation": "我已经从老师那里\n学到对战的秘诀了！",
+    "index": 498
+  },
+  {
+    "key": "HGSS_0713_0499",
+    "original": "やったよ せんせい！\nちょー らくしょー！！\\f\n",
+    "translation": "赢啦，老师！\n超～级轻松，小菜一碟！！\\f\n",
+    "index": 499
+  },
+  {
+    "key": "HGSS_0713_0500",
+    "original": "もー！ せんせいー！！\nぜんぜん ダメじゃーん！\\f\n",
+    "translation": "哎呀～！老师～！\n根本行不通啊～！\\f\n",
+    "index": 500
+  },
+  {
+    "key": "HGSS_0713_0501",
+    "original": "ねえねえ？ なんで しょうぶするの？",
+    "translation": "喂喂？我们为什么要对战啊？",
+    "index": 501
+  },
+  {
+    "key": "HGSS_0713_0502",
+    "original": "なんで？ なんで？\\f\n",
+    "translation": "为什么？为什么呢？\\f\n",
+    "index": 502
+  },
+  {
+    "key": "HGSS_0713_0503",
+    "original": "しょうぶに かって どうするの？\\f\n",
+    "translation": "赢了对战后你打算怎么办？\\f\n",
+    "index": 503
+  },
+  {
+    "key": "HGSS_0713_0504",
+    "original": "しょせん ポケモンも ブランド\nだれが かつか わかってるよな？",
+    "translation": "归根结底，宝可梦也是一种品牌，\n你应该知道谁会赢了吧？",
+    "index": 504
+  },
+  {
+    "key": "HGSS_0713_0505",
+    "original": "とうぜんの けっかに\nきょうみは ないな\\f\n",
+    "translation": "对这种理所当然的结果，\n我完全提不起兴趣。\\f\n",
+    "index": 505
+  },
+  {
+    "key": "HGSS_0713_0506",
+    "original": "そんな⋯⋯ ぼくの⋯⋯\nぼくの そだてた ポケモンが⋯⋯\\f\n",
+    "translation": "不可能……我……\n我培育的宝可梦竟然……\\f\n",
+    "index": 506
+  },
+  {
+    "key": "HGSS_0713_0507",
+    "original": "ぼくに かえないものは ないんだよ！\nしょうぶだって おかねの ちからで！",
+    "translation": "没有我买不起的东西！\n对战当然也能用钱来解决！",
+    "index": 507
+  },
+  {
+    "key": "HGSS_0713_0508",
+    "original": "おかねで かえないもの\nなんて ないんだよ！\\f\n",
+    "translation": "这世上根本没有\n用钱买不到的东西！\\f\n",
+    "index": 508
+  },
+  {
+    "key": "HGSS_0713_0509",
+    "original": "おこづかい あげるから\nぼくを かたせてー！\\f\n",
+    "translation": "给你点零花钱，\n就让我赢一次吧～！\\f\n",
+    "index": 509
+  },
+  {
+    "key": "HGSS_0713_0510",
+    "original": "わたし ほんとは おじょうさま なんて\nガラじゃないのよね⋯⋯",
+    "translation": "其实，我根本不是\n千金小姐这块料啊……",
+    "index": 510
+  },
+  {
+    "key": "HGSS_0713_0511",
+    "original": "がはははっ！！\\f\n",
+    "translation": "啊哈哈哈！！\\f\n",
+    "index": 511
+  },
+  {
+    "key": "HGSS_0713_0512",
+    "original": "くそっ！ くやしいぜ！\\f\n",
+    "translation": "可恶！真不甘心！\\f\n",
+    "index": 512
+  },
+  {
+    "key": "HGSS_0713_0513",
+    "original": "ツルツルッと おわらせて あげますわ",
+    "translation": "我要干净利索地干掉你。",
+    "index": 513
+  },
+  {
+    "key": "HGSS_0713_0514",
+    "original": "ツルツルッと いただきましたわ！\\f\n",
+    "translation": "看我干净利索地赢得了胜利！\\f\n",
+    "index": 514
+  },
+  {
+    "key": "HGSS_0713_0515",
+    "original": "ツルツルッと ごめんあそばせ！\\f\n",
+    "translation": "我将干净利索地告退！\\f\n",
+    "index": 515
+  },
+  {
+    "key": "HGSS_0713_0516",
+    "original": "ボリボリ⋯⋯\nボリボリ⋯⋯",
+    "translation": "咯吱咯吱……\n咯吱咯吱……",
+    "index": 516
+  },
+  {
+    "key": "HGSS_0713_0517",
+    "original": "ああ フエンせんべいは\nおいしいなぁ⋯⋯\\f\n",
+    "translation": "啊啊，\n釜炎仙贝真好吃……\\f\n",
+    "index": 517
+  },
+  {
+    "key": "HGSS_0713_0518",
+    "original": "ああ かゆいなぁ⋯⋯\\f\n",
+    "translation": "啊啊，好痒啊……\\f\n",
+    "index": 518
+  },
+  {
+    "key": "HGSS_0713_0519",
+    "original": "むしとりしょうねんの いきざま！\nしっかりと みるが いいっ！",
+    "translation": "捕虫少年的真实生态！\n你给我瞪大眼睛看好吧！",
+    "index": 519
+  },
+  {
+    "key": "HGSS_0713_0520",
+    "original": "これが むしとりしょうねんの\nいきざま だっ！！\\f\n",
+    "translation": "这就是捕虫少年的\n真实生态！！\\f\n",
+    "index": 520
+  },
+  {
+    "key": "HGSS_0713_0521",
+    "original": "むしとりしょうねん バンザーーイ！！\\f\n",
+    "translation": "捕虫少年，万岁～！！\\f\n",
+    "index": 521
+  },
+  {
+    "key": "HGSS_0713_0522",
+    "original": "ひでんの わざを ごらんあれぃ！",
+    "translation": "见识一下我的秘传招式吧！",
+    "index": 522
+  },
+  {
+    "key": "HGSS_0713_0523",
+    "original": "いやいや どうでしょー？\nすごかったでしょー？\\f\n",
+    "translation": "哎呀哎呀，怎么样～？\n厉害吧～？\\f\n",
+    "index": 523
+  },
+  {
+    "key": "HGSS_0713_0524",
+    "original": "では このへんで どろん します\\f\n",
+    "translation": "那我先撤了。\\f\n",
+    "index": 524
+  },
+  {
+    "key": "HGSS_0713_0525",
+    "original": "みえたっ！！",
+    "translation": "看到了！！",
+    "index": 525
+  },
+  {
+    "key": "HGSS_0713_0526",
+    "original": "わるく おもうなよ⋯⋯\\f\n",
+    "translation": "你可别怪我啊……\\f\n",
+    "index": 526
+  },
+  {
+    "key": "HGSS_0713_0527",
+    "original": "ギョエーッ！！\\f\n",
+    "translation": "呜哇！！\\f\n",
+    "index": 527
+  },
+  {
+    "key": "HGSS_0713_0528",
+    "original": "ピカー！",
+    "translation": "皮卡～！",
+    "index": 528
+  },
+  {
+    "key": "HGSS_0713_0529",
+    "original": "ピカピカー！！\\f\n",
+    "translation": "皮卡皮卡～！！\\f\n",
+    "index": 529
+  },
+  {
+    "key": "HGSS_0713_0530",
+    "original": "ピ ピカ⋯⋯\\f\n",
+    "translation": "皮，皮卡……\\f\n",
+    "index": 530
+  },
+  {
+    "key": "HGSS_0713_0531",
+    "original": "しょうぶ？\nぜったい まけんばい！",
+    "translation": "对战？\n我绝对不会输！",
+    "index": 531
+  },
+  {
+    "key": "HGSS_0713_0532",
+    "original": "わーい！ わーい！\nかったばいー！！\\f\n",
+    "translation": "耶！耶～！\n我赢啦～！\\f\n",
+    "index": 532
+  },
+  {
+    "key": "HGSS_0713_0533",
+    "original": "うう⋯⋯\nまけたばい⋯⋯\\f\n",
+    "translation": "呜呜……\n我输啦……\\f\n",
+    "index": 533
+  },
+  {
+    "key": "HGSS_0713_0534",
+    "original": "わたし かわいいことが しごと",
+    "translation": "展现可爱就是我的工作。",
+    "index": 534
+  },
+  {
+    "key": "HGSS_0713_0535",
+    "original": "かわいいって\nそれだけで ざいさん\\f\n",
+    "translation": "可爱就等于财产。\\f\n",
+    "index": 535
+  },
+  {
+    "key": "HGSS_0713_0536",
+    "original": "うががー！！\nこんちくしょー！！！\\f\n",
+    "translation": "哇啊啊～！！\n混蛋～！！！\\f\n",
+    "index": 536
+  },
+  {
+    "key": "HGSS_0713_0537",
+    "original": "わたしと あくしゅ！！",
+    "translation": "来和我握手吧！！",
+    "index": 537
+  },
+  {
+    "key": "HGSS_0713_0538",
+    "original": "かったら サインもして\nあげたのにぃ！\\f\n",
+    "translation": "我本打算你要是赢了，\n就送你张签名呢！\\f\n",
+    "index": 538
+  },
+  {
+    "key": "HGSS_0713_0539",
+    "original": "マネージャーが\nだまってないわよ！！\\f\n",
+    "translation": "我的经纪人\n绝对不会放过你的！！\\f\n",
+    "index": 539
+  },
+  {
+    "key": "HGSS_0713_0540",
+    "original": "はしれっ！！\nかんがえるなっ！ はしれっ！！",
+    "translation": "跑吧！！\n别想了！跑起来！！",
+    "index": 540
+  },
+  {
+    "key": "HGSS_0713_0541",
+    "original": "もっと！\nもっともっと はやくっ！！\\f\n",
+    "translation": "加把力！\n再快一点！！\\f\n",
+    "index": 541
+  },
+  {
+    "key": "HGSS_0713_0542",
+    "original": "はしれっ！\nおれの ぶんまで はしれっ！！\\f\n",
+    "translation": "跑吧！\n把我那份也跑出去吧！！\\f\n",
+    "index": 542
+  },
+  {
+    "key": "HGSS_0713_0543",
+    "original": "チース\nよろしく おねがいしまーす",
+    "translation": "耶～\n请多多关照～",
+    "index": 543
+  },
+  {
+    "key": "HGSS_0713_0544",
+    "original": "チース\nおつかれさまでしたー\\f\n",
+    "translation": "耶～\n辛苦啦～\\f\n",
+    "index": 544
+  },
+  {
+    "key": "HGSS_0713_0545",
+    "original": "チース\nありがとございましたー\\f\n",
+    "translation": "耶～\n谢谢啦～\\f\n",
+    "index": 545
+  },
+  {
+    "key": "HGSS_0713_0546",
+    "original": "なかまには たいこうぼうと\nよばれる わし！",
+    "translation": "大伙儿都叫我\n姜太公！",
+    "index": 546
+  },
+  {
+    "key": "HGSS_0713_0547",
+    "original": "きょうも おおものを\nつりあげた わし！\\f\n",
+    "translation": "今天我也\n钓了只大的！\\f\n",
+    "index": 547
+  },
+  {
+    "key": "HGSS_0713_0548",
+    "original": "たいこうぼうの いみは\nパパか ママに ききなさい\\f\n",
+    "translation": "姜太公的意思嘛～\n可以去问你的爸妈。\\f\n",
+    "index": 548
+  },
+  {
+    "key": "HGSS_0713_0549",
+    "original": "まー おいら くらいに なってくると\nねてても らくしょうな わけ",
+    "translation": "嗯～练得和我一样强后，\n一般躺着都能赢。",
+    "index": 549
+  },
+  {
+    "key": "HGSS_0713_0550",
+    "original": "ぐー ぐー\\f\n",
+    "translation": "呼～呼～\\f\n",
+    "index": 550
+  },
+  {
+    "key": "HGSS_0713_0551",
+    "original": "すやすや⋯⋯\\f\n",
+    "translation": "睡得死死的……\\f\n",
+    "index": 551
+  },
+  {
+    "key": "HGSS_0713_0552",
+    "original": "ボクはね ママと まいぞうきんを\nさがして たびして いるよ",
+    "translation": "我和妈妈为了寻找\n埋藏的宝藏，正在旅行。",
+    "index": 552
+  },
+  {
+    "key": "HGSS_0713_0553",
+    "original": "あとは まいにち つりを したり\nはたけを たがやしているね\\f\n",
+    "translation": "另外，我们每天都会去垂钓，\n或者去耕地。\\f\n",
+    "index": 553
+  },
+  {
+    "key": "HGSS_0713_0554",
+    "original": "きみは あくせく してるね\\f\n",
+    "translation": "你真是闲不住啊。\\f\n",
+    "index": 554
+  },
+  {
+    "key": "HGSS_0713_0555",
+    "original": "きょうも かつ かつ！\nあすも かつ！",
+    "translation": "今天也要赢，要赢！\n明天也要赢！",
+    "index": 555
+  },
+  {
+    "key": "HGSS_0713_0556",
+    "original": "なはは！ なはは！\nオレは いっしょう まけない！\\f\n",
+    "translation": "哇哈哈！哇哈哈！\n我这辈子都不会输！\\f\n",
+    "index": 556
+  },
+  {
+    "key": "HGSS_0713_0557",
+    "original": "やだ！ やだやだ！\nオレ まけてないもん！\\f\n",
+    "translation": "讨厌！讨厌讨厌！\n我才没输！\\f\n",
+    "index": 557
+  },
+  {
+    "key": "HGSS_0713_0558",
+    "original": "どれどれ キミの あつめっぷりを\nボクが チェックして あげよう",
+    "translation": "来吧来吧，\n让我来看看你的收藏成果吧。",
+    "index": 558
+  },
+  {
+    "key": "HGSS_0713_0559",
+    "original": "まだ あまいねぇ\nがんばって くれたまえよ\\f\n",
+    "translation": "你太嫩啦。\n继续努力吧。\\f\n",
+    "index": 559
+  },
+  {
+    "key": "HGSS_0713_0560",
+    "original": "なかなかの コレクションだね\nぜんぶ ゆずって くれたまえ\\f\n",
+    "translation": "你的收藏品相当不错啊，\n全都让给我吧。\\f\n",
+    "index": 560
+  },
+  {
+    "key": "HGSS_0713_0561",
+    "original": "そりゃ そりゃ そりゃー！！",
+    "translation": "这个，那个，这个～！！",
+    "index": 561
+  },
+  {
+    "key": "HGSS_0713_0562",
+    "original": "おっしゃー！\\f\n",
+    "translation": "很好～！\\f\n",
+    "index": 562
+  },
+  {
+    "key": "HGSS_0713_0563",
+    "original": "オロローン！\\f\n",
+    "translation": "呜呜呜呜！\\f\n",
+    "index": 563
+  },
+  {
+    "key": "HGSS_0713_0564",
+    "original": "きいてくれい！\nたましいの さけび！",
+    "translation": "倾听吧！\n灵魂的嘶吼！",
+    "index": 564
+  },
+  {
+    "key": "HGSS_0713_0565",
+    "original": "あい らぶ みゅーじっく！！\\f\n",
+    "translation": "我！爱！音乐！！\\f\n",
+    "index": 565
+  },
+  {
+    "key": "HGSS_0713_0566",
+    "original": "アンコール いくかー？\\f\n",
+    "translation": "要不要再来一首啊？\\f\n",
+    "index": 566
+  },
+  {
+    "key": "HGSS_0713_0567",
+    "original": "しょうぶー？\nあー いいよー",
+    "translation": "对战～？\n啊～好啊～",
+    "index": 567
+  },
+  {
+    "key": "HGSS_0713_0568",
+    "original": "へー つよいねー\\f\n",
+    "translation": "哎呀～挺强啊～\\f\n",
+    "index": 568
+  },
+  {
+    "key": "HGSS_0713_0569",
+    "original": "ありがとー\\f\n",
+    "translation": "谢谢啦～\\f\n",
+    "index": 569
+  },
+  {
+    "key": "HGSS_0713_0570",
+    "original": "ばびゅーん！",
+    "translation": "嗖嗖～！",
+    "index": 570
+  },
+  {
+    "key": "HGSS_0713_0571",
+    "original": "ばさっ！ ばさっ！\\f\n",
+    "translation": "沙沙！沙沙！\\f\n",
+    "index": 571
+  },
+  {
+    "key": "HGSS_0713_0572",
+    "original": "ついばんじゃうぞ！\\f\n",
+    "translation": "小心我啄你！\\f\n",
+    "index": 572
+  },
+  {
+    "key": "HGSS_0713_0573",
+    "original": "いっちょ もんでやるかぁ！",
+    "translation": "我来陪你玩玩吧！",
+    "index": 573
+  },
+  {
+    "key": "HGSS_0713_0574",
+    "original": "また しょうぶしような！\\f\n",
+    "translation": "有机会再战吧！\\f\n",
+    "index": 574
+  },
+  {
+    "key": "HGSS_0713_0575",
+    "original": "おまえ なかなか やるなぁ！\\f\n",
+    "translation": "你这家伙挺强的啊！\\f\n",
+    "index": 575
+  },
+  {
+    "key": "HGSS_0713_0576",
+    "original": "なみを ながめてると\nいろいろな ことを おもいだす⋯⋯",
+    "translation": "眺望着海浪，\n就会回忆起很多往事……",
+    "index": 576
+  },
+  {
+    "key": "HGSS_0713_0577",
+    "original": "うおーー！\nおとっつぁーーん！！\\f\n",
+    "translation": "哇～！\n老爹～！\\f\n",
+    "index": 577
+  },
+  {
+    "key": "HGSS_0713_0578",
+    "original": "うおーー！\nおっかさーーん！！\\f\n",
+    "translation": "哇～！\n老娘～！\\f\n",
+    "index": 578
+  },
+  {
+    "key": "HGSS_0713_0579",
+    "original": "さあ！ おにいさんに\nとびこんで おいで！",
+    "translation": "来！\n奔向大哥哥的怀抱吧！",
+    "index": 579
+  },
+  {
+    "key": "HGSS_0713_0580",
+    "original": "どうだい？\nおにいさんは でっかいだろ？\\f\n",
+    "translation": "怎么样？\n大哥哥很魁梧吧？\\f\n",
+    "index": 580
+  },
+  {
+    "key": "HGSS_0713_0581",
+    "original": "よく およぎきったね！\\f\n",
+    "translation": "不错，你游完全程了！\\f\n",
+    "index": 581
+  },
+  {
+    "key": "HGSS_0713_0582",
+    "original": "わー！ わー！ ちょっと まってー！\nまだ こころの じゅんびがー！！",
+    "translation": "哇～！哇～！等一下～！\n我还没做好心理准备～！！",
+    "index": 582
+  },
+  {
+    "key": "HGSS_0713_0583",
+    "original": "れれ？ もう おしまい？\nえ？ ぼく かったの？\\f\n",
+    "translation": "咦？已经结束了？\n嗯？我赢了？\\f\n",
+    "index": 583
+  },
+  {
+    "key": "HGSS_0713_0584",
+    "original": "ん？ んん？ もう おしまい？\nえ？ ぼく まけたの？\\f\n",
+    "translation": "嗯？嗯嗯？已经结束了？\n咦？我输了？\\f\n",
+    "index": 584
+  },
+  {
+    "key": "HGSS_0713_0585",
+    "original": "わしのー だいこうぶつはー\nモーモーミルク だぞー",
+    "translation": "我最～喜欢的\n就是哞哞鲜奶～",
+    "index": 585
+  },
+  {
+    "key": "HGSS_0713_0586",
+    "original": "わははー わしの かちー\nモーモーミルク のみいくかー\\f\n",
+    "translation": "哇哈哈～我赢了～\n我去喝哞哞鲜奶吧～\\f\n",
+    "index": 586
+  },
+  {
+    "key": "HGSS_0713_0587",
+    "original": "うぃー モーモーミルクだぁー！\nモーモーミルク もってこーい！\\f\n",
+    "translation": "呜～哞哞鲜奶～\n快把哞哞鲜奶给我拿过来！\\f\n",
+    "index": 587
+  },
+  {
+    "key": "HGSS_0713_0588",
+    "original": "ごようだ！\nごようだ！ ごようだ！",
+    "translation": "逮捕！\n逮捕！逮捕你！",
+    "index": 588
+  },
+  {
+    "key": "HGSS_0713_0589",
+    "original": "めしとったりぃ！！\\f\n",
+    "translation": "捉到你了！\\f\n",
+    "index": 589
+  },
+  {
+    "key": "HGSS_0713_0590",
+    "original": "べらぼうめぇ！！\\f\n",
+    "translation": "混账！！\\f\n",
+    "index": 590
+  },
+  {
+    "key": "HGSS_0713_0591",
+    "original": "おまわりさんじゃ ないんですよねぇ\nせいふくコレクター なんですねぇ",
+    "translation": "我可不是什么警察先生，\n只是个制服收藏家。",
+    "index": 591
+  },
+  {
+    "key": "HGSS_0713_0592",
+    "original": "きみも せいふく にあいそうですねぇ\nどんどんと きていくと いいですねぇ\\f\n",
+    "translation": "你看来也挺适合穿制服的啊，\n多穿穿看吧，挺好的。\\f\n",
+    "index": 592
+  },
+  {
+    "key": "HGSS_0713_0593",
+    "original": "いやぁ しょうぶって\nほんとに いいもの ですねぇ\\f\n",
+    "translation": "呀～\n对战可真不错啊。\\f\n",
+    "index": 593
+  },
+  {
+    "key": "HGSS_0713_0594",
+    "original": "じんせい すべてが ギャンブルよ！\nあしたのこと なんざ わからねぇ！",
+    "translation": "人生如同胜负难料的游戏！\n谁也不知道明天会发生什么！",
+    "index": 594
+  },
+  {
+    "key": "HGSS_0713_0595",
+    "original": "きょうは まけても あしたは\nかてるかも しれねーぜ！\\f\n",
+    "translation": "就算今天输了，\n说不定明天就会赢呢！\\f\n",
+    "index": 595
+  },
+  {
+    "key": "HGSS_0713_0596",
+    "original": "あしたは かてるかも しれねえ！\nそう しんじるのさ！\\f\n",
+    "translation": "说不定明天会赢！\n我相信！\\f\n",
+    "index": 596
+  },
+  {
+    "key": "HGSS_0713_0597",
+    "original": "ぼくの すべてを かけて\nしょうぶ するよ",
+    "translation": "我要拼上我的一切，\n来和你对战。",
+    "index": 597
+  },
+  {
+    "key": "HGSS_0713_0598",
+    "original": "ヒャッホー！\\f\n",
+    "translation": "呀呵～！\\f\n",
+    "index": 598
+  },
+  {
+    "key": "HGSS_0713_0599",
+    "original": "おしまいだー\\f\n",
+    "translation": "结束啦～！\\f\n",
+    "index": 599
+  },
+  {
+    "key": "HGSS_0713_0600",
+    "original": "かんぜん むてきの キャンプボーイ\nここに けんざん！",
+    "translation": "绝对无敌的露营少年，\n在此闪亮登场！",
+    "index": 600
+  },
+  {
+    "key": "HGSS_0713_0601",
+    "original": "でしに してあげても いいよ！\\f\n",
+    "translation": "我可以收你做弟子哦！\\f\n",
+    "index": 601
+  },
+  {
+    "key": "HGSS_0713_0602",
+    "original": "きみの でしに なりたいなぁ\\f\n",
+    "translation": "我想成为你的弟子……\\f\n",
+    "index": 602
+  },
+  {
+    "key": "HGSS_0713_0603",
+    "original": "かてるきは まるで しないけど\nしょうぶ してみるよ",
+    "translation": "虽然我感觉不可能赢，\n但还是对战看看吧。",
+    "index": 603
+  },
+  {
+    "key": "HGSS_0713_0604",
+    "original": "わー かてることも あるんだー\\f\n",
+    "translation": "哇～原来我也有赢的时候啊～\\f\n",
+    "index": 604
+  },
+  {
+    "key": "HGSS_0713_0605",
+    "original": "やっぱり まけたー\nうーん ごめんね マイハート\\f\n",
+    "translation": "果然还是输了～\n嗯～对不起，我脆弱的小心灵。\\f\n",
+    "index": 605
+  },
+  {
+    "key": "HGSS_0713_0606",
+    "original": "きみさぁ あたしにぃ きょうみ\nしんしん って かんじでしょ",
+    "translation": "我说你啊\n是不是对我很感兴趣啊？",
+    "index": 606
+  },
+  {
+    "key": "HGSS_0713_0607",
+    "original": "あたしばっかりぃ みてるからぁ\nまけるのよぉ\\f\n",
+    "translation": "因为你一直在盯着我看，\n所以才会输啊。\\f\n",
+    "index": 607
+  },
+  {
+    "key": "HGSS_0713_0608",
+    "original": "なんでぇ かつのよおぉ\nあたし すきじゃないのぉ？\\f\n",
+    "translation": "你为什么要赢？\n你不是喜欢我吗？\\f\n",
+    "index": 608
+  },
+  {
+    "key": "HGSS_0713_0609",
+    "original": "かっても まけても\nうらみっこ なしね",
+    "translation": "无论输赢，\n都不能怨恨对方哦。",
+    "index": 609
+  },
+  {
+    "key": "HGSS_0713_0610",
+    "original": "わーい わーい わーい\nやった やったぁー！\\f\n",
+    "translation": "耶～耶～耶～\n赢了，我赢了～！\\f\n",
+    "index": 610
+  },
+  {
+    "key": "HGSS_0713_0611",
+    "original": "ちょっと！\nおぼえてなさいよぉ！\\f\n",
+    "translation": "你你你！\n你给我记住！\\f\n",
+    "index": 611
+  },
+  {
+    "key": "HGSS_0713_0612",
+    "original": "おとなの ポケモン⋯⋯\nみせて あげよう⋯⋯",
+    "translation": "给你看看……\n什么是大人的宝可梦……",
+    "index": 612
+  },
+  {
+    "key": "HGSS_0713_0613",
+    "original": "どうよ？ どうよ？\nえんか みたいに しぶいオレ！\\f\n",
+    "translation": "怎么样？怎么样？\n我像演歌一样有韵味吧！\\f\n",
+    "index": 613
+  },
+  {
+    "key": "HGSS_0713_0614",
+    "original": "く くやしくても\nがまん するのが おとな⋯⋯\\f\n",
+    "translation": "就，就算不甘心，\n懂得忍耐才算是大人……\\f\n",
+    "index": 614
+  },
+  {
+    "key": "HGSS_0713_0615",
+    "original": "オレが もってるのは\nギターじゃないのだ",
+    "translation": "我拿着的\n可不是吉他。",
+    "index": 615
+  },
+  {
+    "key": "HGSS_0713_0616",
+    "original": "ピコピコピコ\\f\n",
+    "translation": "滋滋嗡嗡。\\f\n",
+    "index": 616
+  },
+  {
+    "key": "HGSS_0713_0617",
+    "original": "キーボードなのだ\\f\n",
+    "translation": "这是键盘。\\f\n",
+    "index": 617
+  },
+  {
+    "key": "HGSS_0713_0618",
+    "original": "しごとでは ビキニのおねえさんや\nおとなのおねえさん にも なるのよ",
+    "translation": "工作时，有时我会变身为\n比基尼姐姐或是大姐姐哦。",
+    "index": 618
+  },
+  {
+    "key": "HGSS_0713_0619",
+    "original": "アイドルは なんにでも なれるの！\\f\n",
+    "translation": "偶像明星可以摇身变成各种角色！\\f\n",
+    "index": 619
+  },
+  {
+    "key": "HGSS_0713_0620",
+    "original": "でも ほんとの わたしは\nまだまだ かわいい ミニスカート！\\f\n",
+    "translation": "但真正的我\n还只是个可爱的迷你裙！\\f\n",
+    "index": 620
+  },
+  {
+    "key": "HGSS_0713_0621",
+    "original": "たのしく あそびましょう\nいたいことは きらいだよ！",
+    "translation": "让我们开心地玩耍吧，\n我不喜欢会痛的事情！",
+    "index": 621
+  },
+  {
+    "key": "HGSS_0713_0622",
+    "original": "あー たのしいー！\\f\n",
+    "translation": "啊～好开心～！\\f\n",
+    "index": 622
+  },
+  {
+    "key": "HGSS_0713_0623",
+    "original": "いったぁい！ ちょっとぉ！\nあなた つよすぎるよ！！\\f\n",
+    "translation": "好痛啊！我说你！\n你有点强过头了吧！！\\f\n",
+    "index": 623
+  },
+  {
+    "key": "HGSS_0713_0624",
+    "original": "おわりにして やろうっ！\nオレさまの だいすきなポケモンでっ！",
+    "translation": "用本大爷最爱的宝可梦！\n把你终结掉！",
+    "index": 624
+  },
+  {
+    "key": "HGSS_0713_0625",
+    "original": "オレさまの ポケモンあいは\nかんぜんで さいきょうなのだ⋯⋯\\f\n",
+    "translation": "本大爷对宝可梦的爱，\n不仅完美还无比强大……\\f\n",
+    "index": 625
+  },
+  {
+    "key": "HGSS_0713_0626",
+    "original": "なぜっ！ なぜだっ！！\nなぜ オレさまが まけるっ！！\\f\n",
+    "translation": "为什么！为什么会这样！！\n为什么本大爷会输！！\\f\n",
+    "index": 626
+  },
+  {
+    "key": "HGSS_0713_0627",
+    "original": "ポケモンがいる くらし\nまいにちが さいこうさ⋯⋯",
+    "translation": "有宝可梦陪伴的生活，\n每天都无比幸福……",
+    "index": 627
+  },
+  {
+    "key": "HGSS_0713_0628",
+    "original": "えへへ⋯⋯\nポケモンは さいこうだね⋯⋯\\f\n",
+    "translation": "嘿嘿嘿……\n宝可梦真是棒极啦……\\f\n",
+    "index": 628
+  },
+  {
+    "key": "HGSS_0713_0629",
+    "original": "まけても ポケモンが いるし\nもんだいないさ⋯⋯\\f\n",
+    "translation": "就算输了我还有宝可梦在，\n没问题的……\\f\n",
+    "index": 629
+  },
+  {
+    "key": "HGSS_0713_0630",
+    "original": "もう ポケモンさえ いれば\nあとは なーんにも いらないわ",
+    "translation": "只要宝可梦陪在我身边，\n其他的我什～么都不要。",
+    "index": 630
+  },
+  {
+    "key": "HGSS_0713_0631",
+    "original": "ポケモンが いればね\nわたし まいにち しあわせよ\\f\n",
+    "translation": "只要有宝可梦在身边，\n我每天都会很幸福哦。\\f\n",
+    "index": 631
+  },
+  {
+    "key": "HGSS_0713_0632",
+    "original": "あなたも そうでしょ？ ね？\\f\n",
+    "translation": "你也是吧？对吧？\\f\n",
+    "index": 632
+  },
+  {
+    "key": "HGSS_0713_0633",
+    "original": "おばさん こうみえても\nわかいころは イケイケだったのよ",
+    "translation": "别看阿姨现在这样，\n年轻的时候可是个万人迷呢。",
+    "index": 633
+  },
+  {
+    "key": "HGSS_0713_0634",
+    "original": "まあ いまも イケイケだけどさ\\f\n",
+    "translation": "不过，我现在也很吃香就是了。\\f\n",
+    "index": 634
+  },
+  {
+    "key": "HGSS_0713_0635",
+    "original": "あのころが なつかしいわぁ\\f\n",
+    "translation": "好怀念那时候啊……\\f\n",
+    "index": 635
+  },
+  {
+    "key": "HGSS_0713_0636",
+    "original": "がんばれよぉ！\nあいする こどもたち！",
+    "translation": "加油啊！\n我心爱的孩子们！",
+    "index": 636
+  },
+  {
+    "key": "HGSS_0713_0637",
+    "original": "わはは！ よくやったぞ！\nママも よろこんでるぞ！\\f\n",
+    "translation": "哇哈哈！干得好！\n妈妈想必也会很开心！\\f\n",
+    "index": 637
+  },
+  {
+    "key": "HGSS_0713_0638",
+    "original": "ポケモンは わしの\nだいじな かぞくなのだよ\\f\n",
+    "translation": "宝可梦算是我\n最重要的家人了。\\f\n",
+    "index": 638
+  },
+  {
+    "key": "HGSS_0713_0639",
+    "original": "ぼっちゃん？ じょうちゃん？\nどっちでも いいけど いくぞぉ！",
+    "translation": "小少爷？小姑娘？\n总之我们先上吧！",
+    "index": 639
+  },
+  {
+    "key": "HGSS_0713_0640",
+    "original": "ぼっちゃん？ じょうちゃん？\nどっちでも いいけど ごめんなぁ\\f\n",
+    "translation": "小少爷？小姑娘？\n总之对不住啦。\\f\n",
+    "index": 640
+  },
+  {
+    "key": "HGSS_0713_0641",
+    "original": "ぼっちゃん？ じょうちゃん？\nどっちでも いいけど つよいなぁ\\f\n",
+    "translation": "小少爷？小姑娘？\n总之你挺强的啊。\\f\n",
+    "index": 641
+  },
+  {
+    "key": "HGSS_0713_0642",
+    "original": "オワリニ シテヤル",
+    "translation": "让我来终结一切吧。",
+    "index": 642
+  },
+  {
+    "key": "HGSS_0713_0643",
+    "original": "コレデ オワリダ\\f\n",
+    "translation": "这就算结束了。\\f\n",
+    "index": 643
+  },
+  {
+    "key": "HGSS_0713_0644",
+    "original": "ツヨイ デスネ\\f\n",
+    "translation": "你好强啊……\\f\n",
+    "index": 644
+  },
+  {
+    "key": "HGSS_0713_0645",
+    "original": "がんばっちゃうもんねー！\nえい えい おー！",
+    "translation": "我要努力拿下胜利～！\n耶～耶～哦～！",
+    "index": 645
+  },
+  {
+    "key": "HGSS_0713_0646",
+    "original": "ばんざーい！ ぶいぶい！\\f\n",
+    "translation": "万岁～！嘿嘿嘿！\\f\n",
+    "index": 646
+  },
+  {
+    "key": "HGSS_0713_0647",
+    "original": "まけちゃったー しくしくしくー\\f\n",
+    "translation": "输掉啦～呜呜呜～\\f\n",
+    "index": 647
+  },
+  {
+    "key": "HGSS_0713_0648",
+    "original": "ごしょうかい しましょう！\nぼくの だいじな パートナー！",
+    "translation": "来给你介绍一下！\n我最重要的搭档！",
+    "index": 648
+  },
+  {
+    "key": "HGSS_0713_0649",
+    "original": "どうですか？\nぼくの パートナーは！\\f\n",
+    "translation": "怎么样？\n这就是我的搭档！\\f\n",
+    "index": 649
+  },
+  {
+    "key": "HGSS_0713_0650",
+    "original": "あわわ⋯⋯\nぼくの パートナーが⋯⋯\\f\n",
+    "translation": "哎呀呀……\n我的搭档被……\\f\n",
+    "index": 650
+  },
+  {
+    "key": "HGSS_0713_0651",
+    "original": "かちまけ ばかりが\nしょうぶじゃ ないよ",
+    "translation": "对战不仅是输赢而已。",
+    "index": 651
+  },
+  {
+    "key": "HGSS_0713_0652",
+    "original": "かったら うれしいけどね\\f\n",
+    "translation": "赢了的话当然开心啦。\\f\n",
+    "index": 652
+  },
+  {
+    "key": "HGSS_0713_0653",
+    "original": "どれだけ がんばったかが\nたいせつ なんだよ\\f\n",
+    "translation": "最重要的是，\n你到底付出了多少努力。\\f\n",
+    "index": 653
+  },
+  {
+    "key": "HGSS_0713_0654",
+    "original": "きびしくても だめ⋯⋯\nあまやかしても だめ⋯⋯",
+    "translation": "严格点也不是……\n宠着点也不成……",
+    "index": 654
+  },
+  {
+    "key": "HGSS_0713_0655",
+    "original": "ポケモン ブリーダーは\nおくが ふかいの！\\f\n",
+    "translation": "宝可梦培育家这个职业，\n可是十分深奥的！\\f\n",
+    "index": 655
+  },
+  {
+    "key": "HGSS_0713_0656",
+    "original": "いいポケモンを そだてるには\nバランスが たいせつだよ\\f\n",
+    "translation": "要培育出优秀的宝可梦，\n掌握平衡是非常重要的。\\f\n",
+    "index": 656
+  },
+  {
+    "key": "HGSS_0713_0657",
+    "original": "ポケモンの そだてぐあい\nチェックして あげるね",
+    "translation": "让我来看看\n你把宝可梦培育得如何了吧。",
+    "index": 657
+  },
+  {
+    "key": "HGSS_0713_0658",
+    "original": "まだまだ！\nそだてかたが あまーい！\\f\n",
+    "translation": "不行不行！\n你的培育方式太业余了！\\f\n",
+    "index": 658
+  },
+  {
+    "key": "HGSS_0713_0659",
+    "original": "これは すごいわ！\nずいぶん コッテリと そだてたのね\\f\n",
+    "translation": "这真是太厉害了！\n你培育得挺扎实的。\\f\n",
+    "index": 659
+  },
+  {
+    "key": "HGSS_0713_0660",
+    "original": "ぼくかつ\nこれマジ",
+    "translation": "我会赢的，\n这是实话。",
+    "index": 660
+  },
+  {
+    "key": "HGSS_0713_0661",
+    "original": "な？\\f\n",
+    "translation": "看吧？\\f\n",
+    "index": 661
+  },
+  {
+    "key": "HGSS_0713_0662",
+    "original": "む！\\f\n",
+    "translation": "唔！\\f\n",
+    "index": 662
+  },
+  {
+    "key": "HGSS_0713_0663",
+    "original": "フハーッ！ フハーッ！\nかてると おもうて おるのかー！",
+    "translation": "呼哈～！呼哈～！\n你以为你能赢吗！",
+    "index": 663
+  },
+  {
+    "key": "HGSS_0713_0664",
+    "original": "フハーッ！ フハーッ！\nわしの かちじゃー！\\f\n",
+    "translation": "呼哈～！呼哈～！\n是老夫的胜利！\\f\n",
+    "index": 664
+  },
+  {
+    "key": "HGSS_0713_0665",
+    "original": "フハーッ！\\f\n",
+    "translation": "呼哈～！\\f\n",
+    "index": 665
+  },
+  {
+    "key": "HGSS_0713_0666",
+    "original": "もう にがさない\nあきらめなさい",
+    "translation": "我不会再让任何人逃跑了。\n放弃挣扎吧。",
+    "index": 666
+  },
+  {
+    "key": "HGSS_0713_0667",
+    "original": "わるく なかったわ\nまた あいましょ\\f\n",
+    "translation": "表现得真不赖，\n我们下次再见。\\f\n",
+    "index": 667
+  },
+  {
+    "key": "HGSS_0713_0668",
+    "original": "こんな ことって⋯⋯\\f\n",
+    "translation": "怎么会这样……\\f\n",
+    "index": 668
+  },
+  {
+    "key": "HGSS_0713_0669",
+    "original": "やあやあ！\nたのしく あそびましょ！",
+    "translation": "嘿～嘿～！\n一起愉快地玩耍吧！",
+    "index": 669
+  },
+  {
+    "key": "HGSS_0713_0670",
+    "original": "ありがとう\nまた あそぼうね！\\f\n",
+    "translation": "谢谢～\n下次再一起玩啊！\\f\n",
+    "index": 670
+  },
+  {
+    "key": "HGSS_0713_0671",
+    "original": "ありがとう！\nまた あそんでね！\\f\n",
+    "translation": "谢谢！\n下次再来一起玩吧！\\f\n",
+    "index": 671
+  },
+  {
+    "key": "HGSS_0713_0672",
+    "original": "ユー ぜんぜん ダメだヨー\nミーが おしえて あげるヨー",
+    "translation": "你～完全没戏哟～\n我来告诉你哟～",
+    "index": 672
+  },
+  {
+    "key": "HGSS_0713_0673",
+    "original": "ユー だめだヨー ほら たつヨー \nネバネバ ネバ ギブアップ だヨー\\f\n",
+    "translation": "你～不行哟～来，快站起来哟，\n永不永不，永不放弃哟～\\f\n",
+    "index": 673
+  },
+  {
+    "key": "HGSS_0713_0674",
+    "original": "ユー いいヨー\nがんばったヨー さいこうダヨー\\f\n",
+    "translation": "你～不错哟～\n尽力了哟～好厉害哟～\\f\n",
+    "index": 674
+  },
+  {
+    "key": "HGSS_0713_0675",
+    "original": "ぜんりょく とうきゅうだ！",
+    "translation": "全力投球！",
+    "index": 675
+  },
+  {
+    "key": "HGSS_0713_0676",
+    "original": "うーん！ しびれるー！\\f\n",
+    "translation": "嗯！触电般的感觉～！\\f\n",
+    "index": 676
+  },
+  {
+    "key": "HGSS_0713_0677",
+    "original": "ビリビリきたー！！\\f\n",
+    "translation": "哔哩哔哩，感觉来了！！\\f\n",
+    "index": 677
+  },
+  {
+    "key": "HGSS_0713_0678",
+    "original": "さあ かかってこい！",
+    "translation": "来，放马过来吧！",
+    "index": 678
+  },
+  {
+    "key": "HGSS_0713_0679",
+    "original": "うむ よわいぞ！\nがんばってくれ！\\f\n",
+    "translation": "嗯，好弱啊！\n你要加油啊！\\f\n",
+    "index": 679
+  },
+  {
+    "key": "HGSS_0713_0680",
+    "original": "うむ つよいじゃないか！\nまた しょうぶして くれ！\\f\n",
+    "translation": "嗯，挺强的嘛！\n有空再来切磋啊！\\f\n",
+    "index": 680
+  },
+  {
+    "key": "HGSS_0713_0681",
+    "original": "ほんきで いらっしゃいな！",
+    "translation": "拿出真本事来吧！",
+    "index": 681
+  },
+  {
+    "key": "HGSS_0713_0682",
+    "original": "あら これだけ？\\f\n",
+    "translation": "咦，就这点能耐？\\f\n",
+    "index": 682
+  },
+  {
+    "key": "HGSS_0713_0683",
+    "original": "ふうん⋯⋯\nなかなかの ものね\\f\n",
+    "translation": "哼……\n你还挺强的嘛。\\f\n",
+    "index": 683
+  },
+  {
+    "key": "HGSS_0713_0684",
+    "original": "あはは！ ざんねんだね！\nぼくが あいてだよ！",
+    "translation": "啊哈哈！算你倒霉！\n遇上了我！",
+    "index": 684
+  },
+  {
+    "key": "HGSS_0713_0685",
+    "original": "あはは！\\f\n",
+    "translation": "啊哈哈！\\f\n",
+    "index": 685
+  },
+  {
+    "key": "HGSS_0713_0686",
+    "original": "あは⋯⋯\nあはは⋯⋯\\f\n",
+    "translation": "啊哈……\n啊哈哈……\\f\n",
+    "index": 686
+  },
+  {
+    "key": "HGSS_0713_0687",
+    "original": "きんちょう してるかな？\nおにーさんに まかせなさい！",
+    "translation": "你很紧张吗？\n放心交给大哥哥吧！",
+    "index": 687
+  },
+  {
+    "key": "HGSS_0713_0688",
+    "original": "いい しょうぶ だったよ\nまた あいたいねー\\f\n",
+    "translation": "刚刚的对决真精彩，\n希望还能和你再会～\\f\n",
+    "index": 688
+  },
+  {
+    "key": "HGSS_0713_0689",
+    "original": "ふうー\nまさか まけちゃう なんてねー\\f\n",
+    "translation": "呼～\n没想到我竟然会输～\\f\n",
+    "index": 689
+  },
+  {
+    "key": "HGSS_0713_0690",
+    "original": "しぜんの ちから\nみせて あげる！",
+    "translation": "让你见识一下\n大自然的力量！",
+    "index": 690
+  },
+  {
+    "key": "HGSS_0713_0691",
+    "original": "これが しぜんの ちから！\\f\n",
+    "translation": "这就是大自然的力量！\\f\n",
+    "index": 691
+  },
+  {
+    "key": "HGSS_0713_0692",
+    "original": "しぜんを たいせつ にね⋯⋯ ",
+    "translation": "要好好珍惜大自然啊……",
+    "index": 692
+  },
+  {
+    "key": "HGSS_0713_0693",
+    "original": "ぼくと しょうぶ？\nしらないよぉ！",
+    "translation": "想和我对战？\n结果我可不负责哦！",
+    "index": 693
+  },
+  {
+    "key": "HGSS_0713_0694",
+    "original": "ほーら\nこうなると おもったんだ！\\f\n",
+    "translation": "看吧～\n我就知道会变成这样！\\f\n",
+    "index": 694
+  },
+  {
+    "key": "HGSS_0713_0695",
+    "original": "ぶー！ぶー！\nこんなことって！！\\f\n",
+    "translation": "唔～！唔～！\n怎么会这样！！\\f\n",
+    "index": 695
+  },
+  {
+    "key": "HGSS_0713_0696",
+    "original": "フハハハッ！\nわがはいが あいてだ！",
+    "translation": "啊哈哈哈哈！\n在下就是你的对手！",
+    "index": 696
+  },
+  {
+    "key": "HGSS_0713_0697",
+    "original": "フハハハッ！\nわがはいに かてると おもったか！\\f\n",
+    "translation": "啊哈哈哈！\n你以为能赢过在下吗！\\f\n",
+    "index": 697
+  },
+  {
+    "key": "HGSS_0713_0698",
+    "original": "フハハハッ！\nまた あおう！\\f\n",
+    "translation": "啊哈哈哈！\n下次再见！\\f\n",
+    "index": 698
+  },
+  {
+    "key": "HGSS_0713_0699",
+    "original": "ゆきなさいぃー！ きたえぬいた\nボクの ポケモンちゃん たちー！",
+    "translation": "上吧～！\n经过我严格训练的小宝可梦们～！",
+    "index": 699
+  },
+  {
+    "key": "HGSS_0713_0700",
+    "original": "やったぁー！\nさすが ボクの ポケモンちゃんー！\\f\n",
+    "translation": "太棒啦～！\n不愧是我的小宝可梦～！\\f\n",
+    "index": 700
+  },
+  {
+    "key": "HGSS_0713_0701",
+    "original": "ああん！ やだー！\nボクの ポケモンちゃんがー！\\f\n",
+    "translation": "哎呀！不要啊～！\n我的小宝可梦～！\\f\n",
+    "index": 701
+  },
+  {
+    "key": "HGSS_0713_0702",
+    "original": "ポケモンしょうぶは しんけんしょうぶ\nちょっとの ゆだんも できんのだ！",
+    "translation": "每场宝可梦对战都是认真的对决。\n一点都不能疏忽！",
+    "index": 702
+  },
+  {
+    "key": "HGSS_0713_0703",
+    "original": "きを ぬいては いかん！\\f\n",
+    "translation": "决不能疏忽！\\f\n",
+    "index": 703
+  },
+  {
+    "key": "HGSS_0713_0704",
+    "original": "ちょっと ぼーっと してた⋯⋯\\f\n",
+    "translation": "稍微发了会儿呆……\\f\n",
+    "index": 704
+  },
+  {
+    "key": "HGSS_0713_0705",
+    "original": "オス！！",
+    "translation": "嘿呀！！",
+    "index": 705
+  },
+  {
+    "key": "HGSS_0713_0706",
+    "original": "オーッス！！\\f\n",
+    "translation": "嘿～呀！！\\f\n",
+    "index": 706
+  },
+  {
+    "key": "HGSS_0713_0707",
+    "original": "オッス⋯⋯\\f\n",
+    "translation": "嘿呀……\\f\n",
+    "index": 707
+  },
+  {
+    "key": "HGSS_0713_0708",
+    "original": "あたし つよい それだけ",
+    "translation": "我很强，仅此而已。",
+    "index": 708
+  },
+  {
+    "key": "HGSS_0713_0709",
+    "original": "あたし かった それだけ\\f\n",
+    "translation": "我赢了，仅此而已。\\f\n",
+    "index": 709
+  },
+  {
+    "key": "HGSS_0713_0710",
+    "original": "あたし まけた それだけ\\f\n",
+    "translation": "我输了，仅此而已。\\f\n",
+    "index": 710
+  },
+  {
+    "key": "HGSS_0713_0711",
+    "original": "シャーッ！",
+    "translation": "呀～！",
+    "index": 711
+  },
+  {
+    "key": "HGSS_0713_0712",
+    "original": "ホォーッ！\\f\n",
+    "translation": "喝～！\\f\n",
+    "index": 712
+  },
+  {
+    "key": "HGSS_0713_0713",
+    "original": "ハウッ！！\\f\n",
+    "translation": "哈！！\\f\n",
+    "index": 713
+  },
+  {
+    "key": "HGSS_0713_0714",
+    "original": "ボク もう なんねんも\nここにいるけど まるで あきないね",
+    "translation": "我已经在这里待了好几年了，\n但是一点都不觉得腻。",
+    "index": 714
+  },
+  {
+    "key": "HGSS_0713_0715",
+    "original": "こうみえても まだ こどもさ\nきみと どうきゅうせい だよ\\f\n",
+    "translation": "别看我这样，其实我还是个孩子。\n和你同龄呢。\\f\n",
+    "index": 715
+  },
+  {
+    "key": "HGSS_0713_0716",
+    "original": "かみのけが まっしろに なっても\nポケモンしょうぶ して いたいね\\f\n",
+    "translation": "就算哪天我变得白发苍苍，\n也希望能将宝可梦对战进行到底。\\f\n",
+    "index": 716
+  },
+  {
+    "key": "HGSS_0713_0717",
+    "original": "はじめに いって おこう⋯⋯\nきみでは わたしに かつことはできない",
+    "translation": "我先说明白……\n你是赢不了我的。",
+    "index": 717
+  },
+  {
+    "key": "HGSS_0713_0718",
+    "original": "だから いっただろう？\nきみでは わたしに かてるはずがない\\f\n",
+    "translation": "我就说了吧？\n你根本不可能赢得了我。\\f\n",
+    "index": 718
+  },
+  {
+    "key": "HGSS_0713_0719",
+    "original": "なぜだ⋯⋯ うきわガールにしか\nまけたことのない このわたしが⋯⋯\\f\n",
+    "translation": "怎么会这样……\n只输给过泳圈女孩的我竟然……\\f\n",
+    "index": 719
+  },
+  {
+    "key": "HGSS_0713_0720",
+    "original": "まだ おこさんじゃ ないの",
+    "translation": "你还是个孩子吧？",
+    "index": 720
+  },
+  {
+    "key": "HGSS_0713_0721",
+    "original": "さいきんの おこさんは\nげんきが ないのねぇ\\f\n",
+    "translation": "最近的小孩子\n这么没精打采啊。\\f\n",
+    "index": 721
+  },
+  {
+    "key": "HGSS_0713_0722",
+    "original": "さいきんの おこさんも げんきねぇ\\f\n",
+    "translation": "最近的小孩子可真精神。\\f\n",
+    "index": 722
+  },
+  {
+    "key": "HGSS_0713_0723",
+    "original": "うちの こには つよくて りっぱな\nトレーナーに なって もらいたいわ",
+    "translation": "希望我家孩子\n能成为优秀强大的训练家。",
+    "index": 723
+  },
+  {
+    "key": "HGSS_0713_0724",
+    "original": "あなたくらいの\nつよさでは こまるわ⋯⋯\\f\n",
+    "translation": "我家孩子如果就你这点能耐的话，\n的确让人头疼……\\f\n",
+    "index": 724
+  },
+  {
+    "key": "HGSS_0713_0725",
+    "original": "あなたくらいに つよくなって\nほしいわね⋯⋯\\f\n",
+    "translation": "希望我家孩子能变得\n像你一样强……\\f\n",
+    "index": 725
+  },
+  {
+    "key": "HGSS_0713_0726",
+    "original": "みせて あげよー！\nエスパーふしぎパワー！",
+    "translation": "看好了！\n这就是超能力的神秘力量！",
+    "index": 726
+  },
+  {
+    "key": "HGSS_0713_0727",
+    "original": "みたかー！\nエスパーふしぎパワー！！\\f\n",
+    "translation": "看到没！\n这就是超能力的神秘力量！\\f\n",
+    "index": 727
+  },
+  {
+    "key": "HGSS_0713_0728",
+    "original": "そんなー！\nエスパーふしぎパワーが！！\\f\n",
+    "translation": "怎么会这样！\n超能力的神秘力量竟然……！！\\f\n",
+    "index": 728
+  },
+  {
+    "key": "HGSS_0713_0729",
+    "original": "おれの きょうだいが\nかわいがってやる！",
+    "translation": "我的兄弟\n会好好疼爱你的！",
+    "index": 729
+  },
+  {
+    "key": "HGSS_0713_0730",
+    "original": "おいおい きょうだい！\nそれくらいに しておけよ！\\f\n",
+    "translation": "喂喂，兄弟！\n差不多就住手吧！\\f\n",
+    "index": 730
+  },
+  {
+    "key": "HGSS_0713_0731",
+    "original": "ぼくの かわいい きょうだいが⋯⋯\\f\n",
+    "translation": "我可爱的兄弟竟然被……\\f\n",
+    "index": 731
+  },
+  {
+    "key": "HGSS_0713_0732",
+    "original": "ぐるぐるぐる⋯⋯",
+    "translation": "咕噜咕噜咕噜……",
+    "index": 732
+  },
+  {
+    "key": "HGSS_0713_0733",
+    "original": "めが まわった？\\f\n",
+    "translation": "你头晕了吗？\\f\n",
+    "index": 733
+  },
+  {
+    "key": "HGSS_0713_0734",
+    "original": "ああん⋯⋯ おなかが⋯⋯\\f\n",
+    "translation": "啊啊……肚子好痛……\\f\n",
+    "index": 734
+  },
+  {
+    "key": "HGSS_0713_0735",
+    "original": "おにいちゃんが おしえてくれたよ！\nめだ！ めを ねらえ って！",
+    "translation": "哥哥是这么教我的！\n眼睛！他说要瞄准眼睛！",
+    "index": 735
+  },
+  {
+    "key": "HGSS_0713_0736",
+    "original": "やったぁ！ やったよ！\nおにいちゃん！",
+    "translation": "太好啦！我赢啦！\n哥哥！",
+    "index": 736
+  },
+  {
+    "key": "HGSS_0713_0737",
+    "original": "めいちゅうりつを さげるんだ！\nって おにいちゃんが いってた！",
+    "translation": "哥哥还说了！\n要降低命中率！",
+    "index": 737
+  },
+  {
+    "key": "HGSS_0713_0738",
+    "original": "おー！ きみ つよそうだねー\nたのしみ たのしみ！",
+    "translation": "哦～！你看起来挺强的嘛～\n好期待，好期待！",
+    "index": 738
+  },
+  {
+    "key": "HGSS_0713_0739",
+    "original": "おもった とおり\nつよいねー きみ！\\f\n",
+    "translation": "和我想的一样，\n你挺强的嘛～！\\f\n",
+    "index": 739
+  },
+  {
+    "key": "HGSS_0713_0740",
+    "original": "やっぱり つよいねー\nがんばってよ きみ\\f\n",
+    "translation": "你果然很强嘛～\n继续加油啊。\\f\n",
+    "index": 740
+  },
+  {
+    "key": "HGSS_0713_0741",
+    "original": "らっしゃい ませぇー！！",
+    "translation": "欢迎光临～！！",
+    "index": 741
+  },
+  {
+    "key": "HGSS_0713_0742",
+    "original": "いじょうで\nよろしい でしょうかぁー！\\f\n",
+    "translation": "以上\n就是您要点的吗～！\\f\n",
+    "index": 742
+  },
+  {
+    "key": "HGSS_0713_0743",
+    "original": "ありがとう ございましたぁー！\\f\n",
+    "translation": "多谢光临～！\\f\n",
+    "index": 743
+  },
+  {
+    "key": "HGSS_0713_0744",
+    "original": "おかえりなさいませ！",
+    "translation": "您回来啦！",
+    "index": 744
+  },
+  {
+    "key": "HGSS_0713_0745",
+    "original": "ありがとう ございます！\\f\n",
+    "translation": "谢谢您！\\f\n",
+    "index": 745
+  },
+  {
+    "key": "HGSS_0713_0746",
+    "original": "いってらっしゃいませ！\\f\n",
+    "translation": "您慢走！\\f\n",
+    "index": 746
+  },
+  {
+    "key": "HGSS_0713_0747",
+    "original": "かわいい おきゃくさん！\nいっぱい サービスするよん！",
+    "translation": "这位客官真可爱！\n我会好好为您服务哦！",
+    "index": 747
+  },
+  {
+    "key": "HGSS_0713_0748",
+    "original": "ねえねえ どうだった？\nあたしの サービス？\\f\n",
+    "translation": "喂喂，怎么样？\n我的服务您还满意吗？\\f\n",
+    "index": 748
+  },
+  {
+    "key": "HGSS_0713_0749",
+    "original": "あーん まだ サービスの\nとちゅう なのにー\\f\n",
+    "translation": "哎呀～\n我才服务到一半啊～\\f\n",
+    "index": 749
+  },
+  {
+    "key": "HGSS_0713_0750",
+    "original": "じーっ",
+    "translation": "我盯……",
+    "index": 750
+  },
+  {
+    "key": "HGSS_0713_0751",
+    "original": "おっと チャックが⋯⋯\\f\n",
+    "translation": "哎呀，拉链开了……\\f\n",
+    "index": 751
+  },
+  {
+    "key": "HGSS_0713_0752",
+    "original": "きみ かっこいいなぁ\nみとれちゃったよ\\f\n",
+    "translation": "你好帅啊。\n我都看到出神了。\\f\n",
+    "index": 752
+  },
+  {
+    "key": "HGSS_0713_0753",
+    "original": "きみの ような トレーナーを\nずっと まっていたんだ",
+    "translation": "我一直在等待\n像你这样的训练家出现。",
+    "index": 753
+  },
+  {
+    "key": "HGSS_0713_0754",
+    "original": "おもったとおり つよいね！\nぼくも あぶなかった！\\f\n",
+    "translation": "你和我想得一样强啊！\n我差点都要输了！\\f\n",
+    "index": 754
+  },
+  {
+    "key": "HGSS_0713_0755",
+    "original": "おもったとおり！\nつよい トレーナーだね！\\f\n",
+    "translation": "和我想得一样！\n你真是位强大的训练家啊！\\f\n",
+    "index": 755
+  },
+  {
+    "key": "HGSS_0713_0756",
+    "original": "さて どうやって\nせめよう かしらねぇ？",
+    "translation": "嗯～怎么进攻比较好呢？",
+    "index": 756
+  },
+  {
+    "key": "HGSS_0713_0757",
+    "original": "ほらぁ もっと がんばらないと\nだめじゃないの\\f\n",
+    "translation": "看吧，你不再加把力\n可不行啊。\\f\n",
+    "index": 757
+  },
+  {
+    "key": "HGSS_0713_0758",
+    "original": "あらぁ もう いいの？\nいいわ また こんどね\\f\n",
+    "translation": "哎呀，完事儿啦？\n好吧，那下次再见啦。\\f\n",
+    "index": 758
+  },
+  {
+    "key": "HGSS_0713_0759",
+    "original": "わたくしの ポケモンは\nひとあじ ちがいますわよ",
+    "translation": "我的宝可梦\n可有点与众不同哦。",
+    "index": 759
+  },
+  {
+    "key": "HGSS_0713_0760",
+    "original": "いかがかしら？\nまったりと コクが あるでしょう？\\f\n",
+    "translation": "如何？\n是不是很浓厚？\\f\n",
+    "index": 760
+  },
+  {
+    "key": "HGSS_0713_0761",
+    "original": "いかがかしら？\nすっきり アッサリしてる でしょう？\\f\n",
+    "translation": "如何？\n是不是很清爽？\\f\n",
+    "index": 761
+  },
+  {
+    "key": "HGSS_0713_0762",
+    "original": "オッス！\nつよそうな トレーナーだな！",
+    "translation": "嘿呀！\n你这位训练家看起来很强啊！",
+    "index": 762
+  },
+  {
+    "key": "HGSS_0713_0763",
+    "original": "なんだか ワクワク してきたぞ！\\f\n",
+    "translation": "我感觉越来越兴奋啦！\\f\n",
+    "index": 763
+  },
+  {
+    "key": "HGSS_0713_0764",
+    "original": "いちち⋯⋯\nつえーなー おまえ！\\f\n",
+    "translation": "好痛……\n你真强啊！\\f\n",
+    "index": 764
+  },
+  {
+    "key": "HGSS_0713_0765",
+    "original": "ブロロローーー！！\nわしの フルスロットルを みろー！",
+    "translation": "噗噜噜噜～～～！！\n看我的油门全开～！",
+    "index": 765
+  },
+  {
+    "key": "HGSS_0713_0766",
+    "original": "ブロロローン！！\nまだまだ とばすぞー！\\f\n",
+    "translation": "噗噜噜噜～～～！！\n我要继续奔驰～！\\f\n",
+    "index": 766
+  },
+  {
+    "key": "HGSS_0713_0767",
+    "original": "ブロ⋯⋯ ブロロ⋯⋯\nスタミナぎれだ⋯⋯\\f\n",
+    "translation": "噗噜……噗噜噜……\n没力气了……\\f\n",
+    "index": 767
+  },
+  {
+    "key": "HGSS_0713_0768",
+    "original": "チャリン チャリーン",
+    "translation": "叮铃，叮铃铃。",
+    "index": 768
+  },
+  {
+    "key": "HGSS_0713_0769",
+    "original": "キキーッ！\\f\n",
+    "translation": "吱吱～！\\f\n",
+    "index": 769
+  },
+  {
+    "key": "HGSS_0713_0770",
+    "original": "ドタッ！\\f\n",
+    "translation": "啪嗒！\\f\n",
+    "index": 770
+  },
+  {
+    "key": "HGSS_0713_0771",
+    "original": "かれしと じてんしゃに\nのってね デートするのが ゆめなの",
+    "translation": "我梦想着有机会要和男朋友\n一起骑车约会。",
+    "index": 771
+  },
+  {
+    "key": "HGSS_0713_0772",
+    "original": "ふたりのりは ダメだけどね\\f\n",
+    "translation": "虽然两个人骑一辆车是不行的。\\f\n",
+    "index": 772
+  },
+  {
+    "key": "HGSS_0713_0773",
+    "original": "あー かれし ほっしー\\f\n",
+    "translation": "啊～我好想要男朋友啊～\\f\n",
+    "index": 773
+  },
+  {
+    "key": "HGSS_0713_0774",
+    "original": "きみは なにを かけるんだい？\nぼくは すべてを かけよう！",
+    "translation": "你要拿什么来胜负呢？\n我会付出我的全部！",
+    "index": 774
+  },
+  {
+    "key": "HGSS_0713_0775",
+    "original": "きみの まけだね\nどうするんだい？\\f\n",
+    "translation": "你输了，\n接下来打算怎么办？\\f\n",
+    "index": 775
+  },
+  {
+    "key": "HGSS_0713_0776",
+    "original": "ガクッ\\f\n",
+    "translation": "咣当倒地。\\f\n",
+    "index": 776
+  },
+  {
+    "key": "HGSS_0713_0777",
+    "original": "しぶい しょうぶ しようか",
+    "translation": "来场有深度的对决吧。",
+    "index": 777
+  },
+  {
+    "key": "HGSS_0713_0778",
+    "original": "けっこうな おてまえで⋯⋯\\f\n",
+    "translation": "实力不错嘛……\\f\n",
+    "index": 778
+  },
+  {
+    "key": "HGSS_0713_0779",
+    "original": "おそまつさま でした⋯⋯\\f\n",
+    "translation": "多谢指教……\\f\n",
+    "index": 779
+  },
+  {
+    "key": "HGSS_0713_0780",
+    "original": "ほんとに やるき？ あたしと？",
+    "translation": "你真的要对战？和我吗？",
+    "index": 780
+  },
+  {
+    "key": "HGSS_0713_0781",
+    "original": "ケラケラケラ！\nやめれば よかったのにぃ\\f\n",
+    "translation": "呵呵呵呵！\n你不该来惹我的。\\f\n",
+    "index": 781
+  },
+  {
+    "key": "HGSS_0713_0782",
+    "original": "すごいすごい！\\f\n",
+    "translation": "厉害厉害！\\f\n",
+    "index": 782
+  },
+  {
+    "key": "HGSS_0713_0783",
+    "original": "うたって おどって\nキミを くぎづけに しちゃう！",
+    "translation": "唱歌～跳舞～\n锁住你的视线！",
+    "index": 783
+  },
+  {
+    "key": "HGSS_0713_0784",
+    "original": "うっふーん\\f\n",
+    "translation": "嗯哼～\\f\n",
+    "index": 784
+  },
+  {
+    "key": "HGSS_0713_0785",
+    "original": "コンコン⋯⋯\nこんどは べつの くぎを うつ⋯⋯\\f\n",
+    "translation": "咚咚……\n下次我要用别的方法锁住你的视线……\\f\n",
+    "index": 785
+  },
+  {
+    "key": "HGSS_0713_0786",
+    "original": "よーい ドン！",
+    "translation": "预备！咚～！",
+    "index": 786
+  },
+  {
+    "key": "HGSS_0713_0787",
+    "original": "おさきにー！\\f\n",
+    "translation": "我先走一步啦～！\\f\n",
+    "index": 787
+  },
+  {
+    "key": "HGSS_0713_0788",
+    "original": "わーん まってえー！\\f\n",
+    "translation": "喂，等等我～！\\f\n",
+    "index": 788
+  },
+  {
+    "key": "HGSS_0713_0789",
+    "original": "なぜ ぼくは\nここに いるの⋯⋯",
+    "translation": "为什么我会在这里……",
+    "index": 789
+  },
+  {
+    "key": "HGSS_0713_0790",
+    "original": "きみは だれ なの⋯⋯\\f\n",
+    "translation": "你是谁啊……\\f\n",
+    "index": 790
+  },
+  {
+    "key": "HGSS_0713_0791",
+    "original": "なんで ぼくは しょうぶして いるの？\\f\n",
+    "translation": "我为什么在对战？\\f\n",
+    "index": 791
+  },
+  {
+    "key": "HGSS_0713_0792",
+    "original": "シンオウいちの さおテクニック！\nみせて あげよう！",
+    "translation": "让你见识一下！\n神奥第一的抛竿技术！",
+    "index": 792
+  },
+  {
+    "key": "HGSS_0713_0793",
+    "original": "みたか！ おどろいたか！\\f\n",
+    "translation": "看到没！震惊吧！\\f\n",
+    "index": 793
+  },
+  {
+    "key": "HGSS_0713_0794",
+    "original": "さおテクニックは しょうぶに\nかんけい ないよな⋯⋯\\f\n",
+    "translation": "看来抛竿技术\n和输赢没有半点关系啊……\\f\n",
+    "index": 794
+  },
+  {
+    "key": "HGSS_0713_0795",
+    "original": "わしは つりと しょうぶが\nほんとうに だいすき",
+    "translation": "老夫最喜欢垂钓和对战了。",
+    "index": 795
+  },
+  {
+    "key": "HGSS_0713_0796",
+    "original": "おおものを つったときや\nしょうぶに かったときは サイコー\\f\n",
+    "translation": "钓到大猎物和赢得对战的瞬间，\n那感觉简直太棒了。\\f\n",
+    "index": 796
+  },
+  {
+    "key": "HGSS_0713_0797",
+    "original": "わしは つりと しょうぶを\nするために うまれてきたんじゃ！\\f\n",
+    "translation": "老夫就是为了\n垂钓与对战而生的！\\f\n",
+    "index": 797
+  },
+  {
+    "key": "HGSS_0713_0798",
+    "original": "オオキナ フネニ\nノッテ キマシタ",
+    "translation": "我乘大船来的。",
+    "index": 798
+  },
+  {
+    "key": "HGSS_0713_0799",
+    "original": "シンオウ トテモ ヨイ トコロ\\f\n",
+    "translation": "神奥真是个好地方。\\f\n",
+    "index": 799
+  },
+  {
+    "key": "HGSS_0713_0800",
+    "original": "キミモ フネニ ノリマセンカ\nステキナ トコ ツレテ イキマスヨ\\f\n",
+    "translation": "你要不要也来乘船呢？\n带你去好地方哦。\\f\n",
+    "index": 800
+  },
+  {
+    "key": "HGSS_0713_0801",
+    "original": "ええ？ きみが あいて？\nなんだか ふあんだな⋯⋯",
+    "translation": "咦？对手是你啊？\n总感觉有些不安……",
+    "index": 801
+  },
+  {
+    "key": "HGSS_0713_0802",
+    "original": "いがい⋯⋯\nかてると おもわなかったよ\\f\n",
+    "translation": "好意外……\n没想到我会赢。\\f\n",
+    "index": 802
+  },
+  {
+    "key": "HGSS_0713_0803",
+    "original": "ほらね⋯⋯\nつよいと おもったんだ\\f\n",
+    "translation": "看吧……\n我就知道你很强。\\f\n",
+    "index": 803
+  },
+  {
+    "key": "HGSS_0713_0804",
+    "original": "どすこい！ どすこい！",
+    "translation": "来啊！来啊！",
+    "index": 804
+  },
+  {
+    "key": "HGSS_0713_0805",
+    "original": "はぁー！！ どすこーい！\\f\n",
+    "translation": "哈～！！你来啊！\\f\n",
+    "index": 805
+  },
+  {
+    "key": "HGSS_0713_0806",
+    "original": "ごっちゃんでーす！\\f\n",
+    "translation": "谢啦～！\\f\n",
+    "index": 806
+  },
+  {
+    "key": "HGSS_0713_0807",
+    "original": "さわやかに しょうぶ しましょう！\nさあ！ わらって！",
+    "translation": "让我们来场爽快的对战吧！\n来！笑一个！",
+    "index": 807
+  },
+  {
+    "key": "HGSS_0713_0808",
+    "original": "あははっ！ あははっ！\nさあ きみも わらうんだよ！\\f\n",
+    "translation": "啊哈哈！啊哈哈！\n来，你也来笑一个吧！\\f\n",
+    "index": 808
+  },
+  {
+    "key": "HGSS_0713_0809",
+    "original": "まけても さわやかに！\nあははっ！ あははっ！\\f\n",
+    "translation": "输了也要保持清爽！\n啊哈哈！啊哈哈！\\f\n",
+    "index": 809
+  },
+  {
+    "key": "HGSS_0713_0810",
+    "original": "きあい いれろ",
+    "translation": "铆足劲儿上吧。",
+    "index": 810
+  },
+  {
+    "key": "HGSS_0713_0811",
+    "original": "わるくない\\f\n",
+    "translation": "还不错。\\f\n",
+    "index": 811
+  },
+  {
+    "key": "HGSS_0713_0812",
+    "original": "いいな おまえ\\f\n",
+    "translation": "你挺厉害啊。\\f\n",
+    "index": 812
+  },
+  {
+    "key": "HGSS_0713_0813",
+    "original": "ポケモンしょうぶの だいごみは\nさいごの いちげきに ありっ！",
+    "translation": "宝可梦对战的乐趣，\n就在最后一击！",
+    "index": 813
+  },
+  {
+    "key": "HGSS_0713_0814",
+    "original": "どうじゃっ！\nわしの さいごの いちげきはっ！\\f\n",
+    "translation": "怎么样！\n我这最后一击！\\f\n",
+    "index": 814
+  },
+  {
+    "key": "HGSS_0713_0815",
+    "original": "おふぅ⋯⋯\nおまえの いちげきは きくのぉ\\f\n",
+    "translation": "呼……\n你这一击还真有效啊。\\f\n",
+    "index": 815
+  },
+  {
+    "key": "HGSS_0713_0816",
+    "original": "へー いいんじゃん きみ",
+    "translation": "嘿～你可以啊。",
+    "index": 816
+  },
+  {
+    "key": "HGSS_0713_0817",
+    "original": "へー がんばった じゃん\\f\n",
+    "translation": "嘿～你已经尽力了。\\f\n",
+    "index": 817
+  },
+  {
+    "key": "HGSS_0713_0818",
+    "original": "へー つよいじゃん きみ\\f\n",
+    "translation": "嘿～你挺强的嘛。\\f\n",
+    "index": 818
+  },
+  {
+    "key": "HGSS_0713_0819",
+    "original": "ぼくと ぼくの ポケモンたちの\nコーラスを きいてください",
+    "translation": "请听我和宝可梦们的大合唱。",
+    "index": 819
+  },
+  {
+    "key": "HGSS_0713_0820",
+    "original": "ダバダバダバダバー\\f\n",
+    "translation": "哒啦哒啦哒啦哒啦～\\f\n",
+    "index": 820
+  },
+  {
+    "key": "HGSS_0713_0821",
+    "original": "あっ ちょっと！！\nまだ おわってないです！\\f\n",
+    "translation": "啊，等等！！\n还没结束呢！\\f\n",
+    "index": 821
+  },
+  {
+    "key": "HGSS_0713_0822",
+    "original": "パソコンの なかまから じょうほうを\nきいて そだてたんだぞ！",
+    "translation": "我是借鉴了网友的情报\n培育的宝可梦！",
+    "index": 822
+  },
+  {
+    "key": "HGSS_0713_0823",
+    "original": "ありがとう パソコンの なかま！\nかおも しらないけど！！\\f\n",
+    "translation": "感谢网友！\n虽然我们没见过面！！\\f\n",
+    "index": 823
+  },
+  {
+    "key": "HGSS_0713_0824",
+    "original": "だめじゃないかよー！\nパソコンの なかまー！\\f\n",
+    "translation": "这不灵啊～！\n我的网友～！\\f\n",
+    "index": 824
+  },
+  {
+    "key": "HGSS_0713_0825",
+    "original": "ちょっと まってくれよぉ\nメール かいてるんだよぉ",
+    "translation": "等我会儿啊，\n我在写邮件呢。",
+    "index": 825
+  },
+  {
+    "key": "HGSS_0713_0826",
+    "original": "はやく かえって\nメールを みないとぉ\\f\n",
+    "translation": "我得赶紧回去\n确认邮件才行。\\f\n",
+    "index": 826
+  },
+  {
+    "key": "HGSS_0713_0827",
+    "original": "なにするんだよぉ\nもう ぼく かえるよぉ\\f\n",
+    "translation": "你要干嘛？\n真是的，我要回去啦。\\f\n",
+    "index": 827
+  },
+  {
+    "key": "HGSS_0713_0828",
+    "original": "おとうさま⋯⋯ おかあさま⋯⋯\nわたしを みていて ください⋯⋯",
+    "translation": "爸……妈……\n好好看着吧……",
+    "index": 828
+  },
+  {
+    "key": "HGSS_0713_0829",
+    "original": "おとうさま⋯⋯ おかあさま⋯⋯\nみていて くれましたか⋯⋯\\f\n",
+    "translation": "爸……妈……\n看到了吗……\\f\n",
+    "index": 829
+  },
+  {
+    "key": "HGSS_0713_0830",
+    "original": "おとうさま⋯⋯ おかあさま⋯⋯\nもうしわけ ありません⋯⋯\\f\n",
+    "translation": "爸……妈……\n对不起……\\f\n",
+    "index": 830
+  },
+  {
+    "key": "HGSS_0713_0831",
+    "original": "ぼく ほんとうは\nしょうぶは すきじゃないんだな",
+    "translation": "我其实不喜欢对战。",
+    "index": 831
+  },
+  {
+    "key": "HGSS_0713_0832",
+    "original": "うう かったけど\nこわかったんだな⋯⋯\\f\n",
+    "translation": "呜呜，虽然我赢了，\n但是好可怕啊……\\f\n",
+    "index": 832
+  },
+  {
+    "key": "HGSS_0713_0833",
+    "original": "う うう⋯⋯\nくやしくて なきそう なんだな\\f\n",
+    "translation": "呜，呜呜……\n真不甘心，好想哭啊。\\f\n",
+    "index": 833
+  },
+  {
+    "key": "HGSS_0713_0834",
+    "original": "かがくの ちからですっ！",
+    "translation": "这就是科学的力量！",
+    "index": 834
+  },
+  {
+    "key": "HGSS_0713_0835",
+    "original": "みましたか！ おどろきましたか！\nこれが かがくの ちからです！\\f\n",
+    "translation": "看到了吗！有没有很震惊！\n这就是科学的力量！\\f\n",
+    "index": 835
+  },
+  {
+    "key": "HGSS_0713_0836",
+    "original": "かんがえられません⋯⋯\nかがくの ちからが やぶれるなんて\\f\n",
+    "translation": "完全无法理解……\n科学的力量竟然被打败了。\\f\n",
+    "index": 836
+  },
+  {
+    "key": "HGSS_0713_0837",
+    "original": "とつげきせよ！ ぼくの ポケモン！\nじっけんの せいかを みせてやれっ！",
+    "translation": "突击吧！我的宝可梦！\n展示我们的试验成果吧！",
+    "index": 837
+  },
+  {
+    "key": "HGSS_0713_0838",
+    "original": "やったぞ ポケモンっ！\nこれで ぼくも はかせだっ！\\f\n",
+    "translation": "赢啦！宝可梦！\n这样我就成为博士了！\\f\n",
+    "index": 838
+  },
+  {
+    "key": "HGSS_0713_0839",
+    "original": "どんな じっけんか？\nそれは な い し ょ",
+    "translation": "什么样的试验？\n这是秘～密！",
+    "index": 839
+  },
+  {
+    "key": "HGSS_0713_0840",
+    "original": "こどもの きもちに かえって\nしょうぶと いきましょうか！",
+    "translation": "让我们回归童心\n来场对战吧！",
+    "index": 840
+  },
+  {
+    "key": "HGSS_0713_0841",
+    "original": "ばぶー\\f\n",
+    "translation": "咿呀～\\f\n",
+    "index": 841
+  },
+  {
+    "key": "HGSS_0713_0842",
+    "original": "ばぶばぶー\\f\n",
+    "translation": "咿呀咿呀～\\f\n",
+    "index": 842
+  },
+  {
+    "key": "HGSS_0713_0843",
+    "original": "ファファファファ！！\nよく かちぬいているな！",
+    "translation": "呵呵呵呵！！\n你一路赢过来可不容易啊！",
+    "index": 843
+  },
+  {
+    "key": "HGSS_0713_0844",
+    "original": "ファファファファ！！\\f\n",
+    "translation": "呵呵呵呵！！\\f\n",
+    "index": 844
+  },
+  {
+    "key": "HGSS_0713_0845",
+    "original": "ファファファファ！！\nいいなかまに めぐまれて おるな！\\f\n",
+    "translation": "呵呵呵呵！！\n你有着不错的小伙伴啊！\\f\n",
+    "index": 845
+  },
+  {
+    "key": "HGSS_0713_0846",
+    "original": "スクラップに してやる",
+    "translation": "看我把你打成废铁。",
+    "index": 846
+  },
+  {
+    "key": "HGSS_0713_0847",
+    "original": "リサイクルしてやる\\f\n",
+    "translation": "看我把你回收掉。\\f\n",
+    "index": 847
+  },
+  {
+    "key": "HGSS_0713_0848",
+    "original": "しげんを たいせつにな\\f\n",
+    "translation": "要珍惜资源啊。\\f\n",
+    "index": 848
+  },
+  {
+    "key": "HGSS_0713_0849",
+    "original": "お！ いいねぇ！\nやろうじゃ ないの！",
+    "translation": "哦！不错啊！\n来场对战吧！",
+    "index": 849
+  },
+  {
+    "key": "HGSS_0713_0850",
+    "original": "いっちょあがり！\\f\n",
+    "translation": "大功告成！\\f\n",
+    "index": 850
+  },
+  {
+    "key": "HGSS_0713_0851",
+    "original": "しごとの あいまの ポケモンしょうぶ\nいい きぶんてんかん なるねぇ\\f\n",
+    "translation": "工作之余来场宝可梦对战，\n也算是种不错的放松方式吧。\\f\n",
+    "index": 851
+  },
+  {
+    "key": "HGSS_0713_0852",
+    "original": "せいいっぱい やらせて いただきます\nよろしく おねがい いたします！",
+    "translation": "我会全力以赴的。\n请多多关照！",
+    "index": 852
+  },
+  {
+    "key": "HGSS_0713_0853",
+    "original": "わたくし やりました！\nわたくし やりとげましたよ！\\f\n",
+    "translation": "我赢了！\n我终于做到了！\\f\n",
+    "index": 853
+  },
+  {
+    "key": "HGSS_0713_0854",
+    "original": "せいいっぱい がんばりました！\nせいえん ありがとう ございました！\\f\n",
+    "translation": "我尽全力了！\n感谢你的支持！\\f\n",
+    "index": 854
+  },
+  {
+    "key": "HGSS_0713_0855",
+    "original": "ポケモンしょうぶと いうのはね\nすなに かいた ラブレターなのだよ",
+    "translation": "所谓的宝可梦对战\n就像写在沙滩上的情书一样。",
+    "index": 855
+  },
+  {
+    "key": "HGSS_0713_0856",
+    "original": "キミに わかるかなぁー？\nわかんねぇんだろうなぁー\\f\n",
+    "translation": "你能懂么？\n不～你应该不懂。\\f\n",
+    "index": 856
+  },
+  {
+    "key": "HGSS_0713_0857",
+    "original": "キミに わかるかなぁー？\nわかんねぇんだろうなぁー\\f\n",
+    "translation": "你能懂么？\n不～你应该不懂。\\f\n",
+    "index": 857
+  },
+  {
+    "key": "HGSS_0713_0858",
+    "original": "はい きみー そこの きみー\nちょっと まって くださーい！",
+    "translation": "喂，你～说的就是那边的你～\n请你稍等一下～！",
+    "index": 858
+  },
+  {
+    "key": "HGSS_0713_0859",
+    "original": "はいはい こどもは\nさっさと おうちに かえりなさーい\\f\n",
+    "translation": "行了行了，\n小朋友就赶紧回家吧～\\f\n",
+    "index": 859
+  },
+  {
+    "key": "HGSS_0713_0860",
+    "original": "わー きみー おまわりさんに\nひどいこと するねー\\f\n",
+    "translation": "哇，你你你～\n对警察先生好过分啊～\\f\n",
+    "index": 860
+  },
+  {
+    "key": "HGSS_0713_0861",
+    "original": "ムニャ⋯⋯ ムニャ⋯⋯",
+    "translation": "呜呜……嗯嗯……",
+    "index": 861
+  },
+  {
+    "key": "HGSS_0713_0862",
+    "original": "ピッピー⋯⋯ ムニャ⋯⋯\nまってよぉ⋯⋯ ムニャ⋯⋯\\f\n",
+    "translation": "皮皮……呜呜……\n等等我啊……嗯嗯……\\f\n",
+    "index": 862
+  },
+  {
+    "key": "HGSS_0713_0863",
+    "original": "ムニャ⋯⋯\nえへへ⋯⋯ ムニャ⋯⋯\\f\n",
+    "translation": "呜呜……\n嘿嘿嘿……嗯嗯……\\f\n",
+    "index": 863
+  },
+  {
+    "key": "HGSS_0713_0864",
+    "original": "つきあって もらおう！\nかれいなる かけに！",
+    "translation": "陪我来一场吧！\n华丽的胜负！",
+    "index": 864
+  },
+  {
+    "key": "HGSS_0713_0865",
+    "original": "んー！ イエスッ！\\f\n",
+    "translation": "嗯～！太棒了！\\f\n",
+    "index": 865
+  },
+  {
+    "key": "HGSS_0713_0866",
+    "original": "きみも かなり ギャンブラーだな！\\f\n",
+    "translation": "你也是一名出色的胜负师啊！\\f\n",
+    "index": 866
+  },
+  {
+    "key": "HGSS_0713_0867",
+    "original": "しょうぶ ってのはな チマチマ\nけいさんする もん じゃねーの！",
+    "translation": "输赢可不是用\n精密计算算出来的！",
+    "index": 867
+  },
+  {
+    "key": "HGSS_0713_0868",
+    "original": "ほらなー？\nかつときゃ かつの！\\f\n",
+    "translation": "看吧？\n该赢的时候就会赢！\\f\n",
+    "index": 868
+  },
+  {
+    "key": "HGSS_0713_0869",
+    "original": "なーっ？\nまけるときゃ まけるの！\\f\n",
+    "translation": "看吧？\n该输的时候就会输！\\f\n",
+    "index": 869
+  },
+  {
+    "key": "HGSS_0713_0870",
+    "original": "じんせい おもいどおりに\nいかないことも たくさん ある！",
+    "translation": "人生啊，很多时候\n都不会让你称心如意！",
+    "index": 870
+  },
+  {
+    "key": "HGSS_0713_0871",
+    "original": "ばんざーい！\nおもいどおりに なったぞー！\\f\n",
+    "translation": "万岁！\n这简直是如我所愿啊！\\f\n",
+    "index": 871
+  },
+  {
+    "key": "HGSS_0713_0872",
+    "original": "ほらね⋯⋯\\f\n",
+    "translation": "看吧……\\f\n",
+    "index": 872
+  },
+  {
+    "key": "HGSS_0713_0873",
+    "original": "もう にげばは ないわ！",
+    "translation": "你已经无处可逃了！",
+    "index": 873
+  },
+  {
+    "key": "HGSS_0713_0874",
+    "original": "はじめから きまって いたの！\\f\n",
+    "translation": "起初就大局已定了！\\f\n",
+    "index": 874
+  },
+  {
+    "key": "HGSS_0713_0875",
+    "original": "さーよーなーらー！！\\f\n",
+    "translation": "再～见～啦～！！\\f\n",
+    "index": 875
+  },
+  {
+    "key": "HGSS_0713_0876",
+    "original": "あめのひも はれのひも ここで\nつよい トレーナーを さがす わたし",
+    "translation": "无论是晴天还是下雨，\n我都会在这里寻找强大的训练家。",
+    "index": 876
+  },
+  {
+    "key": "HGSS_0713_0877",
+    "original": "おかげで こんなに\nつよく なって しまったの⋯⋯\\f\n",
+    "translation": "多亏如此，\n我变得这么强了……\\f\n",
+    "index": 877
+  },
+  {
+    "key": "HGSS_0713_0878",
+    "original": "つよくて いや それより かっこいい\nトレーナーは いないの かしら⋯⋯\\f\n",
+    "translation": "强大的……不，\n难道就没有超酷的训练家吗……\\f\n",
+    "index": 878
+  },
+  {
+    "key": "HGSS_0713_0879",
+    "original": "これね ひがさ なの",
+    "translation": "这是把遮阳伞。",
+    "index": 879
+  },
+  {
+    "key": "HGSS_0713_0880",
+    "original": "しょうぶは つよいけど\nおひさまに よわいの⋯⋯\\f\n",
+    "translation": "我虽然对战起来很强，\n但是很怕阳光……\\f\n",
+    "index": 880
+  },
+  {
+    "key": "HGSS_0713_0881",
+    "original": "おはだを やきたくないの\\f\n",
+    "translation": "我可不想把皮肤晒黑。\\f\n",
+    "index": 881
+  },
+  {
+    "key": "HGSS_0713_0882",
+    "original": "まぁ⋯⋯ めずらしい ポケモン⋯⋯",
+    "translation": "嗯……罕见的宝可梦……",
+    "index": 882
+  },
+  {
+    "key": "HGSS_0713_0883",
+    "original": "つかまえられないわぁ⋯⋯\nほんと かわった ポケモンねぇ\\f\n",
+    "translation": "捉不到啊……\n真是只奇怪的宝可梦。\\f\n",
+    "index": 883
+  },
+  {
+    "key": "HGSS_0713_0884",
+    "original": "あら あなた トレーナー？\nポケモンでは ないの⋯⋯？\\f\n",
+    "translation": "哎呀，你是训练家？\n原来不是宝可梦啊……？\\f\n",
+    "index": 884
+  },
+  {
+    "key": "HGSS_0713_0885",
+    "original": "いいかな？",
+    "translation": "好了吗？",
+    "index": 885
+  },
+  {
+    "key": "HGSS_0713_0886",
+    "original": "やるじゃん\\f\n",
+    "translation": "不错嘛。\\f\n",
+    "index": 886
+  },
+  {
+    "key": "HGSS_0713_0887",
+    "original": "バイバイ！\\f\n",
+    "translation": "拜拜！\\f\n",
+    "index": 887
+  },
+  {
+    "key": "HGSS_0713_0888",
+    "original": "あたいに かとう なんざ\nじゅうねん はやいんだよ！！",
+    "translation": "想赢我？\n你还早了十年！！",
+    "index": 888
+  },
+  {
+    "key": "HGSS_0713_0889",
+    "original": "あまいんだよ！！\\f\n",
+    "translation": "你太嫩了！！\\f\n",
+    "index": 889
+  },
+  {
+    "key": "HGSS_0713_0890",
+    "original": "つよいっスね！！\nじぶん かんどうっス！\\f\n",
+    "translation": "你挺强的啊！！\n我太感动了！\\f\n",
+    "index": 890
+  },
+  {
+    "key": "HGSS_0713_0891",
+    "original": "いい かおりを かいでると\nねむく なっちゃうよね⋯⋯",
+    "translation": "闻到香香的味道，\n就会很想睡啊……",
+    "index": 891
+  },
+  {
+    "key": "HGSS_0713_0892",
+    "original": "⋯⋯ふあぁ\nあらぁ？ もう おしまいなのぉ？\\f\n",
+    "translation": "……呼啊，\n咦？已经结束了吗？\\f\n",
+    "index": 892
+  },
+  {
+    "key": "HGSS_0713_0893",
+    "original": "⋯⋯ふあぁ\nあらぁ？ まけちゃったのぉ？\\f\n",
+    "translation": "……呼啊，\n咦？我输了？\\f\n",
+    "index": 893
+  },
+  {
+    "key": "HGSS_0713_0894",
+    "original": "キミ だいじょうぶ？\nあたし ウルトラすっごいよ！",
+    "translation": "你真的没问题吧？\n我可是超级强的哦！",
+    "index": 894
+  },
+  {
+    "key": "HGSS_0713_0895",
+    "original": "しかたないよ！\nあたし ウルトラすっごいもん！\\f\n",
+    "translation": "没办法！\n谁叫我超级强啊！\\f\n",
+    "index": 895
+  },
+  {
+    "key": "HGSS_0713_0896",
+    "original": "きみは ミラクルすっごいね！\\f\n",
+    "translation": "你厉害得简直是个奇迹！\\f\n",
+    "index": 896
+  },
+  {
+    "key": "HGSS_0713_0897",
+    "original": "しょうぶだけが わたしの いきがい\nしょうりだけが わたしの ねがい",
+    "translation": "对战是我唯一的生存价值，\n胜利是我唯一的愿望。",
+    "index": 897
+  },
+  {
+    "key": "HGSS_0713_0898",
+    "original": "⋯⋯とうぜん\\f\n",
+    "translation": "……这是理所当然的结果。\\f\n",
+    "index": 898
+  },
+  {
+    "key": "HGSS_0713_0899",
+    "original": "あなた なにものよ⋯⋯\\f\n",
+    "translation": "你到底是何方神圣……\\f\n",
+    "index": 899
+  },
+  {
+    "key": "HGSS_0713_0900",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 900
+  },
+  {
+    "key": "HGSS_0713_0901",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 901
+  },
+  {
+    "key": "HGSS_0713_0902",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 902
+  },
+  {
+    "key": "HGSS_0713_0903",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 903
+  },
+  {
+    "key": "HGSS_0713_0904",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 904
+  },
+  {
+    "key": "HGSS_0713_0905",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 905
+  },
+  {
+    "key": "HGSS_0713_0906",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 906
+  },
+  {
+    "key": "HGSS_0713_0907",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 907
+  },
+  {
+    "key": "HGSS_0713_0908",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 908
+  },
+  {
+    "key": "HGSS_0713_0909",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 909
+  },
+  {
+    "key": "HGSS_0713_0910",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 910
+  },
+  {
+    "key": "HGSS_0713_0911",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 911
+  },
+  {
+    "key": "HGSS_0713_0912",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 912
+  },
+  {
+    "key": "HGSS_0713_0913",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 913
+  },
+  {
+    "key": "HGSS_0713_0914",
+    "original": "ダミー\\f\n",
+    "translation": "模型\\f\n",
+    "index": 914
+  },
+  {
+    "key": "HGSS_0713_0915",
+    "original": "さあ タワータイクーンの わたしに\nその じつりょく みせてくれたまえ！",
+    "translation": "来吧，向对战塔大君我\n展现一下你的实力吧！",
+    "index": 915
+  },
+  {
+    "key": "HGSS_0713_0916",
+    "original": "すばらしい しょうぶ だった！\nまた きてくれたまえ！\\f\n",
+    "translation": "真是一场精彩的对决！\n有空再来吧！\\f\n",
+    "index": 916
+  },
+  {
+    "key": "HGSS_0713_0917",
+    "original": "きみのような すごい トレーナーに\nまけたのであれば なっとく だ！\\f\n",
+    "translation": "能输给你这么厉害的训练家，\n我心服口服！\\f\n",
+    "index": 917
+  },
+  {
+    "key": "HGSS_0713_0918",
+    "original": "さあ タワータイクーンの わたしに\nその じつりょく みせてくれたまえ！",
+    "translation": "来吧，向对战塔大君我\n展现一下你的实力吧！",
+    "index": 918
+  },
+  {
+    "key": "HGSS_0713_0919",
+    "original": "すばらしい しょうぶ だった！\nまた きてくれたまえ！\\f\n",
+    "translation": "真是一场精彩的对决！\n有空再来吧！\\f\n",
+    "index": 919
+  },
+  {
+    "key": "HGSS_0713_0920",
+    "original": "きみのような すごい トレーナーに\nまけたのであれば なっとく だ！\\f\n",
+    "translation": "能输给你这么厉害的训练家，\n我心服口服！\\f\n",
+    "index": 920
+  }
+]

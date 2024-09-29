@@ -1,0 +1,2810 @@
+[
+  {
+    "key": "PT_0390_0000",
+    "original": "なし",
+    "translation": "なし",
+    "index": 0
+  },
+  {
+    "key": "PT_0390_0001",
+    "original": "マスターボール",
+    "translation": "マスターボール",
+    "index": 1
+  },
+  {
+    "key": "PT_0390_0002",
+    "original": "ハイパーボール",
+    "translation": "ハイパーボール",
+    "index": 2
+  },
+  {
+    "key": "PT_0390_0003",
+    "original": "スーパーボール",
+    "translation": "スーパーボール",
+    "index": 3
+  },
+  {
+    "key": "PT_0390_0004",
+    "original": "モンスターボール",
+    "translation": "モンスターボール",
+    "index": 4
+  },
+  {
+    "key": "PT_0390_0005",
+    "original": "サファリボール",
+    "translation": "サファリボール",
+    "index": 5
+  },
+  {
+    "key": "PT_0390_0006",
+    "original": "ネットボール",
+    "translation": "ネットボール",
+    "index": 6
+  },
+  {
+    "key": "PT_0390_0007",
+    "original": "ダイブボール",
+    "translation": "ダイブボール",
+    "index": 7
+  },
+  {
+    "key": "PT_0390_0008",
+    "original": "ネストボール",
+    "translation": "ネストボール",
+    "index": 8
+  },
+  {
+    "key": "PT_0390_0009",
+    "original": "リピートボール",
+    "translation": "リピートボール",
+    "index": 9
+  },
+  {
+    "key": "PT_0390_0010",
+    "original": "タイマーボール",
+    "translation": "タイマーボール",
+    "index": 10
+  },
+  {
+    "key": "PT_0390_0011",
+    "original": "ゴージャスボール",
+    "translation": "ゴージャスボール",
+    "index": 11
+  },
+  {
+    "key": "PT_0390_0012",
+    "original": "プレミアボール",
+    "translation": "プレミアボール",
+    "index": 12
+  },
+  {
+    "key": "PT_0390_0013",
+    "original": "ダークボール",
+    "translation": "ダークボール",
+    "index": 13
+  },
+  {
+    "key": "PT_0390_0014",
+    "original": "ヒールボール",
+    "translation": "ヒールボール",
+    "index": 14
+  },
+  {
+    "key": "PT_0390_0015",
+    "original": "クイックボール",
+    "translation": "クイックボール",
+    "index": 15
+  },
+  {
+    "key": "PT_0390_0016",
+    "original": "プレシャスボール",
+    "translation": "プレシャスボール",
+    "index": 16
+  },
+  {
+    "key": "PT_0390_0017",
+    "original": "キズぐすり",
+    "translation": "キズぐすり",
+    "index": 17
+  },
+  {
+    "key": "PT_0390_0018",
+    "original": "どくけし",
+    "translation": "どくけし",
+    "index": 18
+  },
+  {
+    "key": "PT_0390_0019",
+    "original": "やけどなおし",
+    "translation": "やけどなおし",
+    "index": 19
+  },
+  {
+    "key": "PT_0390_0020",
+    "original": "こおりなおし",
+    "translation": "こおりなおし",
+    "index": 20
+  },
+  {
+    "key": "PT_0390_0021",
+    "original": "ねむけざまし",
+    "translation": "ねむけざまし",
+    "index": 21
+  },
+  {
+    "key": "PT_0390_0022",
+    "original": "まひなおし",
+    "translation": "まひなおし",
+    "index": 22
+  },
+  {
+    "key": "PT_0390_0023",
+    "original": "かいふくのくすり",
+    "translation": "かいふくのくすり",
+    "index": 23
+  },
+  {
+    "key": "PT_0390_0024",
+    "original": "まんたんのくすり",
+    "translation": "まんたんのくすり",
+    "index": 24
+  },
+  {
+    "key": "PT_0390_0025",
+    "original": "すごいキズぐすり",
+    "translation": "すごいキズぐすり",
+    "index": 25
+  },
+  {
+    "key": "PT_0390_0026",
+    "original": "いいキズぐすり",
+    "translation": "いいキズぐすり",
+    "index": 26
+  },
+  {
+    "key": "PT_0390_0027",
+    "original": "なんでもなおし",
+    "translation": "なんでもなおし",
+    "index": 27
+  },
+  {
+    "key": "PT_0390_0028",
+    "original": "げんきのかけら",
+    "translation": "げんきのかけら",
+    "index": 28
+  },
+  {
+    "key": "PT_0390_0029",
+    "original": "げんきのかたまり",
+    "translation": "げんきのかたまり",
+    "index": 29
+  },
+  {
+    "key": "PT_0390_0030",
+    "original": "おいしいみず",
+    "translation": "おいしいみず",
+    "index": 30
+  },
+  {
+    "key": "PT_0390_0031",
+    "original": "サイコソーダ",
+    "translation": "サイコソーダ",
+    "index": 31
+  },
+  {
+    "key": "PT_0390_0032",
+    "original": "ミックスオレ",
+    "translation": "ミックスオレ",
+    "index": 32
+  },
+  {
+    "key": "PT_0390_0033",
+    "original": "モーモーミルク",
+    "translation": "モーモーミルク",
+    "index": 33
+  },
+  {
+    "key": "PT_0390_0034",
+    "original": "ちからのこな",
+    "translation": "ちからのこな",
+    "index": 34
+  },
+  {
+    "key": "PT_0390_0035",
+    "original": "ちからのねっこ",
+    "translation": "ちからのねっこ",
+    "index": 35
+  },
+  {
+    "key": "PT_0390_0036",
+    "original": "ばんのうごな",
+    "translation": "ばんのうごな",
+    "index": 36
+  },
+  {
+    "key": "PT_0390_0037",
+    "original": "ふっかつそう",
+    "translation": "ふっかつそう",
+    "index": 37
+  },
+  {
+    "key": "PT_0390_0038",
+    "original": "ピーピーエイド",
+    "translation": "ピーピーエイド",
+    "index": 38
+  },
+  {
+    "key": "PT_0390_0039",
+    "original": "ピーピーリカバー",
+    "translation": "ピーピーリカバー",
+    "index": 39
+  },
+  {
+    "key": "PT_0390_0040",
+    "original": "ピーピーエイダー",
+    "translation": "ピーピーエイダー",
+    "index": 40
+  },
+  {
+    "key": "PT_0390_0041",
+    "original": "ピーピーマックス",
+    "translation": "ピーピーマックス",
+    "index": 41
+  },
+  {
+    "key": "PT_0390_0042",
+    "original": "フエンせんべい",
+    "translation": "フエンせんべい",
+    "index": 42
+  },
+  {
+    "key": "PT_0390_0043",
+    "original": "きのみジュース",
+    "translation": "きのみジュース",
+    "index": 43
+  },
+  {
+    "key": "PT_0390_0044",
+    "original": "せいなるはい",
+    "translation": "せいなるはい",
+    "index": 44
+  },
+  {
+    "key": "PT_0390_0045",
+    "original": "マックスアップ",
+    "translation": "マックスアップ",
+    "index": 45
+  },
+  {
+    "key": "PT_0390_0046",
+    "original": "タウリン",
+    "translation": "タウリン",
+    "index": 46
+  },
+  {
+    "key": "PT_0390_0047",
+    "original": "ブロムヘキシン",
+    "translation": "ブロムヘキシン",
+    "index": 47
+  },
+  {
+    "key": "PT_0390_0048",
+    "original": "インドメタシン",
+    "translation": "インドメタシン",
+    "index": 48
+  },
+  {
+    "key": "PT_0390_0049",
+    "original": "リゾチウム",
+    "translation": "リゾチウム",
+    "index": 49
+  },
+  {
+    "key": "PT_0390_0050",
+    "original": "ふしぎなアメ",
+    "translation": "ふしぎなアメ",
+    "index": 50
+  },
+  {
+    "key": "PT_0390_0051",
+    "original": "ポイントアップ",
+    "translation": "ポイントアップ",
+    "index": 51
+  },
+  {
+    "key": "PT_0390_0052",
+    "original": "キトサン",
+    "translation": "キトサン",
+    "index": 52
+  },
+  {
+    "key": "PT_0390_0053",
+    "original": "ポイントマックス",
+    "translation": "ポイントマックス",
+    "index": 53
+  },
+  {
+    "key": "PT_0390_0054",
+    "original": "もりのヨウカン",
+    "translation": "もりのヨウカン",
+    "index": 54
+  },
+  {
+    "key": "PT_0390_0055",
+    "original": "エフェクトガード",
+    "translation": "エフェクトガード",
+    "index": 55
+  },
+  {
+    "key": "PT_0390_0056",
+    "original": "クリティカッター",
+    "translation": "クリティカッター",
+    "index": 56
+  },
+  {
+    "key": "PT_0390_0057",
+    "original": "プラスパワー",
+    "translation": "プラスパワー",
+    "index": 57
+  },
+  {
+    "key": "PT_0390_0058",
+    "original": "ディフェンダー",
+    "translation": "ディフェンダー",
+    "index": 58
+  },
+  {
+    "key": "PT_0390_0059",
+    "original": "スピーダー",
+    "translation": "スピーダー",
+    "index": 59
+  },
+  {
+    "key": "PT_0390_0060",
+    "original": "ヨクアタール",
+    "translation": "ヨクアタール",
+    "index": 60
+  },
+  {
+    "key": "PT_0390_0061",
+    "original": "スペシャルアップ",
+    "translation": "スペシャルアップ",
+    "index": 61
+  },
+  {
+    "key": "PT_0390_0062",
+    "original": "スペシャルガード",
+    "translation": "スペシャルガード",
+    "index": 62
+  },
+  {
+    "key": "PT_0390_0063",
+    "original": "ピッピにんぎょう",
+    "translation": "ピッピにんぎょう",
+    "index": 63
+  },
+  {
+    "key": "PT_0390_0064",
+    "original": "エネコのシッポ",
+    "translation": "エネコのシッポ",
+    "index": 64
+  },
+  {
+    "key": "PT_0390_0065",
+    "original": "あおいビードロ",
+    "translation": "あおいビードロ",
+    "index": 65
+  },
+  {
+    "key": "PT_0390_0066",
+    "original": "きいろビードロ",
+    "translation": "きいろビードロ",
+    "index": 66
+  },
+  {
+    "key": "PT_0390_0067",
+    "original": "あかいビードロ",
+    "translation": "あかいビードロ",
+    "index": 67
+  },
+  {
+    "key": "PT_0390_0068",
+    "original": "くろいビードロ",
+    "translation": "くろいビードロ",
+    "index": 68
+  },
+  {
+    "key": "PT_0390_0069",
+    "original": "しろいビードロ",
+    "translation": "しろいビードロ",
+    "index": 69
+  },
+  {
+    "key": "PT_0390_0070",
+    "original": "あさせのしお",
+    "translation": "あさせのしお",
+    "index": 70
+  },
+  {
+    "key": "PT_0390_0071",
+    "original": "あさせのかいがら",
+    "translation": "あさせのかいがら",
+    "index": 71
+  },
+  {
+    "key": "PT_0390_0072",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 72
+  },
+  {
+    "key": "PT_0390_0073",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 73
+  },
+  {
+    "key": "PT_0390_0074",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 74
+  },
+  {
+    "key": "PT_0390_0075",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 75
+  },
+  {
+    "key": "PT_0390_0076",
+    "original": "シルバースプレー",
+    "translation": "シルバースプレー",
+    "index": 76
+  },
+  {
+    "key": "PT_0390_0077",
+    "original": "ゴールドスプレー",
+    "translation": "ゴールドスプレー",
+    "index": 77
+  },
+  {
+    "key": "PT_0390_0078",
+    "original": "あなぬけのヒモ",
+    "translation": "あなぬけのヒモ",
+    "index": 78
+  },
+  {
+    "key": "PT_0390_0079",
+    "original": "むしよけスプレー",
+    "translation": "むしよけスプレー",
+    "index": 79
+  },
+  {
+    "key": "PT_0390_0080",
+    "original": "たいようのいし",
+    "translation": "たいようのいし",
+    "index": 80
+  },
+  {
+    "key": "PT_0390_0081",
+    "original": "つきのいし",
+    "translation": "つきのいし",
+    "index": 81
+  },
+  {
+    "key": "PT_0390_0082",
+    "original": "ほのおのいし",
+    "translation": "ほのおのいし",
+    "index": 82
+  },
+  {
+    "key": "PT_0390_0083",
+    "original": "かみなりのいし",
+    "translation": "かみなりのいし",
+    "index": 83
+  },
+  {
+    "key": "PT_0390_0084",
+    "original": "みずのいし",
+    "translation": "みずのいし",
+    "index": 84
+  },
+  {
+    "key": "PT_0390_0085",
+    "original": "リーフのいし",
+    "translation": "リーフのいし",
+    "index": 85
+  },
+  {
+    "key": "PT_0390_0086",
+    "original": "ちいさなキノコ",
+    "translation": "ちいさなキノコ",
+    "index": 86
+  },
+  {
+    "key": "PT_0390_0087",
+    "original": "おおきなキノコ",
+    "translation": "おおきなキノコ",
+    "index": 87
+  },
+  {
+    "key": "PT_0390_0088",
+    "original": "しんじゅ",
+    "translation": "しんじゅ",
+    "index": 88
+  },
+  {
+    "key": "PT_0390_0089",
+    "original": "おおきなしんじゅ",
+    "translation": "おおきなしんじゅ",
+    "index": 89
+  },
+  {
+    "key": "PT_0390_0090",
+    "original": "ほしのすな",
+    "translation": "ほしのすな",
+    "index": 90
+  },
+  {
+    "key": "PT_0390_0091",
+    "original": "ほしのかけら",
+    "translation": "ほしのかけら",
+    "index": 91
+  },
+  {
+    "key": "PT_0390_0092",
+    "original": "きんのたま",
+    "translation": "きんのたま",
+    "index": 92
+  },
+  {
+    "key": "PT_0390_0093",
+    "original": "ハートのウロコ",
+    "translation": "ハートのウロコ",
+    "index": 93
+  },
+  {
+    "key": "PT_0390_0094",
+    "original": "あまいミツ",
+    "translation": "あまいミツ",
+    "index": 94
+  },
+  {
+    "key": "PT_0390_0095",
+    "original": "すくすくこやし",
+    "translation": "すくすくこやし",
+    "index": 95
+  },
+  {
+    "key": "PT_0390_0096",
+    "original": "じめじめこやし",
+    "translation": "じめじめこやし",
+    "index": 96
+  },
+  {
+    "key": "PT_0390_0097",
+    "original": "ながながこやし",
+    "translation": "ながながこやし",
+    "index": 97
+  },
+  {
+    "key": "PT_0390_0098",
+    "original": "ねばねばこやし",
+    "translation": "ねばねばこやし",
+    "index": 98
+  },
+  {
+    "key": "PT_0390_0099",
+    "original": "ねっこのカセキ",
+    "translation": "ねっこのカセキ",
+    "index": 99
+  },
+  {
+    "key": "PT_0390_0100",
+    "original": "ツメのカセキ",
+    "translation": "ツメのカセキ",
+    "index": 100
+  },
+  {
+    "key": "PT_0390_0101",
+    "original": "かいのカセキ",
+    "translation": "かいのカセキ",
+    "index": 101
+  },
+  {
+    "key": "PT_0390_0102",
+    "original": "こうらのカセキ",
+    "translation": "こうらのカセキ",
+    "index": 102
+  },
+  {
+    "key": "PT_0390_0103",
+    "original": "ひみつのコハク",
+    "translation": "ひみつのコハク",
+    "index": 103
+  },
+  {
+    "key": "PT_0390_0104",
+    "original": "たてのカセキ",
+    "translation": "たてのカセキ",
+    "index": 104
+  },
+  {
+    "key": "PT_0390_0105",
+    "original": "ずがいのカセキ",
+    "translation": "ずがいのカセキ",
+    "index": 105
+  },
+  {
+    "key": "PT_0390_0106",
+    "original": "きちょうなホネ",
+    "translation": "きちょうなホネ",
+    "index": 106
+  },
+  {
+    "key": "PT_0390_0107",
+    "original": "ひかりのいし",
+    "translation": "ひかりのいし",
+    "index": 107
+  },
+  {
+    "key": "PT_0390_0108",
+    "original": "やみのいし",
+    "translation": "やみのいし",
+    "index": 108
+  },
+  {
+    "key": "PT_0390_0109",
+    "original": "めざめいし",
+    "translation": "めざめいし",
+    "index": 109
+  },
+  {
+    "key": "PT_0390_0110",
+    "original": "まんまるいし",
+    "translation": "まんまるいし",
+    "index": 110
+  },
+  {
+    "key": "PT_0390_0111",
+    "original": "かなめいし",
+    "translation": "かなめいし",
+    "index": 111
+  },
+  {
+    "key": "PT_0390_0112",
+    "original": "はっきんだま",
+    "translation": "はっきんだま",
+    "index": 112
+  },
+  {
+    "key": "PT_0390_0113",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 113
+  },
+  {
+    "key": "PT_0390_0114",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 114
+  },
+  {
+    "key": "PT_0390_0115",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 115
+  },
+  {
+    "key": "PT_0390_0116",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 116
+  },
+  {
+    "key": "PT_0390_0117",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 117
+  },
+  {
+    "key": "PT_0390_0118",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 118
+  },
+  {
+    "key": "PT_0390_0119",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 119
+  },
+  {
+    "key": "PT_0390_0120",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 120
+  },
+  {
+    "key": "PT_0390_0121",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 121
+  },
+  {
+    "key": "PT_0390_0122",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 122
+  },
+  {
+    "key": "PT_0390_0123",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 123
+  },
+  {
+    "key": "PT_0390_0124",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 124
+  },
+  {
+    "key": "PT_0390_0125",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 125
+  },
+  {
+    "key": "PT_0390_0126",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 126
+  },
+  {
+    "key": "PT_0390_0127",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 127
+  },
+  {
+    "key": "PT_0390_0128",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 128
+  },
+  {
+    "key": "PT_0390_0129",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 129
+  },
+  {
+    "key": "PT_0390_0130",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 130
+  },
+  {
+    "key": "PT_0390_0131",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 131
+  },
+  {
+    "key": "PT_0390_0132",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 132
+  },
+  {
+    "key": "PT_0390_0133",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 133
+  },
+  {
+    "key": "PT_0390_0134",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 134
+  },
+  {
+    "key": "PT_0390_0135",
+    "original": "こんごうだま",
+    "translation": "こんごうだま",
+    "index": 135
+  },
+  {
+    "key": "PT_0390_0136",
+    "original": "しらたま",
+    "translation": "しらたま",
+    "index": 136
+  },
+  {
+    "key": "PT_0390_0137",
+    "original": "グラスメール",
+    "translation": "グラスメール",
+    "index": 137
+  },
+  {
+    "key": "PT_0390_0138",
+    "original": "フレイムメール",
+    "translation": "フレイムメール",
+    "index": 138
+  },
+  {
+    "key": "PT_0390_0139",
+    "original": "ブルーメール",
+    "translation": "ブルーメール",
+    "index": 139
+  },
+  {
+    "key": "PT_0390_0140",
+    "original": "ブルームメール",
+    "translation": "ブルームメール",
+    "index": 140
+  },
+  {
+    "key": "PT_0390_0141",
+    "original": "トンネルメール",
+    "translation": "トンネルメール",
+    "index": 141
+  },
+  {
+    "key": "PT_0390_0142",
+    "original": "スチールメール",
+    "translation": "スチールメール",
+    "index": 142
+  },
+  {
+    "key": "PT_0390_0143",
+    "original": "ラブラブメール",
+    "translation": "ラブラブメール",
+    "index": 143
+  },
+  {
+    "key": "PT_0390_0144",
+    "original": "ブリザードメール",
+    "translation": "ブリザードメール",
+    "index": 144
+  },
+  {
+    "key": "PT_0390_0145",
+    "original": "スペースメール",
+    "translation": "スペースメール",
+    "index": 145
+  },
+  {
+    "key": "PT_0390_0146",
+    "original": "エアメール",
+    "translation": "エアメール",
+    "index": 146
+  },
+  {
+    "key": "PT_0390_0147",
+    "original": "モザイクメール",
+    "translation": "モザイクメール",
+    "index": 147
+  },
+  {
+    "key": "PT_0390_0148",
+    "original": "ブリックメール",
+    "translation": "ブリックメール",
+    "index": 148
+  },
+  {
+    "key": "PT_0390_0149",
+    "original": "クラボのみ",
+    "translation": "クラボのみ",
+    "index": 149
+  },
+  {
+    "key": "PT_0390_0150",
+    "original": "カゴのみ",
+    "translation": "カゴのみ",
+    "index": 150
+  },
+  {
+    "key": "PT_0390_0151",
+    "original": "モモンのみ",
+    "translation": "モモンのみ",
+    "index": 151
+  },
+  {
+    "key": "PT_0390_0152",
+    "original": "チーゴのみ",
+    "translation": "チーゴのみ",
+    "index": 152
+  },
+  {
+    "key": "PT_0390_0153",
+    "original": "ナナシのみ",
+    "translation": "ナナシのみ",
+    "index": 153
+  },
+  {
+    "key": "PT_0390_0154",
+    "original": "ヒメリのみ",
+    "translation": "ヒメリのみ",
+    "index": 154
+  },
+  {
+    "key": "PT_0390_0155",
+    "original": "オレンのみ",
+    "translation": "オレンのみ",
+    "index": 155
+  },
+  {
+    "key": "PT_0390_0156",
+    "original": "キーのみ",
+    "translation": "キーのみ",
+    "index": 156
+  },
+  {
+    "key": "PT_0390_0157",
+    "original": "ラムのみ",
+    "translation": "ラムのみ",
+    "index": 157
+  },
+  {
+    "key": "PT_0390_0158",
+    "original": "オボンのみ",
+    "translation": "オボンのみ",
+    "index": 158
+  },
+  {
+    "key": "PT_0390_0159",
+    "original": "フィラのみ",
+    "translation": "フィラのみ",
+    "index": 159
+  },
+  {
+    "key": "PT_0390_0160",
+    "original": "ウイのみ",
+    "translation": "ウイのみ",
+    "index": 160
+  },
+  {
+    "key": "PT_0390_0161",
+    "original": "マゴのみ",
+    "translation": "マゴのみ",
+    "index": 161
+  },
+  {
+    "key": "PT_0390_0162",
+    "original": "バンジのみ",
+    "translation": "バンジのみ",
+    "index": 162
+  },
+  {
+    "key": "PT_0390_0163",
+    "original": "イアのみ",
+    "translation": "イアのみ",
+    "index": 163
+  },
+  {
+    "key": "PT_0390_0164",
+    "original": "ズリのみ",
+    "translation": "ズリのみ",
+    "index": 164
+  },
+  {
+    "key": "PT_0390_0165",
+    "original": "ブリーのみ",
+    "translation": "ブリーのみ",
+    "index": 165
+  },
+  {
+    "key": "PT_0390_0166",
+    "original": "ナナのみ",
+    "translation": "ナナのみ",
+    "index": 166
+  },
+  {
+    "key": "PT_0390_0167",
+    "original": "セシナのみ",
+    "translation": "セシナのみ",
+    "index": 167
+  },
+  {
+    "key": "PT_0390_0168",
+    "original": "パイルのみ",
+    "translation": "パイルのみ",
+    "index": 168
+  },
+  {
+    "key": "PT_0390_0169",
+    "original": "ザロクのみ",
+    "translation": "ザロクのみ",
+    "index": 169
+  },
+  {
+    "key": "PT_0390_0170",
+    "original": "ネコブのみ",
+    "translation": "ネコブのみ",
+    "index": 170
+  },
+  {
+    "key": "PT_0390_0171",
+    "original": "タポルのみ",
+    "translation": "タポルのみ",
+    "index": 171
+  },
+  {
+    "key": "PT_0390_0172",
+    "original": "ロメのみ",
+    "translation": "ロメのみ",
+    "index": 172
+  },
+  {
+    "key": "PT_0390_0173",
+    "original": "ウブのみ",
+    "translation": "ウブのみ",
+    "index": 173
+  },
+  {
+    "key": "PT_0390_0174",
+    "original": "マトマのみ",
+    "translation": "マトマのみ",
+    "index": 174
+  },
+  {
+    "key": "PT_0390_0175",
+    "original": "モコシのみ",
+    "translation": "モコシのみ",
+    "index": 175
+  },
+  {
+    "key": "PT_0390_0176",
+    "original": "ゴスのみ",
+    "translation": "ゴスのみ",
+    "index": 176
+  },
+  {
+    "key": "PT_0390_0177",
+    "original": "ラブタのみ",
+    "translation": "ラブタのみ",
+    "index": 177
+  },
+  {
+    "key": "PT_0390_0178",
+    "original": "ノメルのみ",
+    "translation": "ノメルのみ",
+    "index": 178
+  },
+  {
+    "key": "PT_0390_0179",
+    "original": "ノワキのみ",
+    "translation": "ノワキのみ",
+    "index": 179
+  },
+  {
+    "key": "PT_0390_0180",
+    "original": "シーヤのみ",
+    "translation": "シーヤのみ",
+    "index": 180
+  },
+  {
+    "key": "PT_0390_0181",
+    "original": "カイスのみ",
+    "translation": "カイスのみ",
+    "index": 181
+  },
+  {
+    "key": "PT_0390_0182",
+    "original": "ドリのみ",
+    "translation": "ドリのみ",
+    "index": 182
+  },
+  {
+    "key": "PT_0390_0183",
+    "original": "ベリブのみ",
+    "translation": "ベリブのみ",
+    "index": 183
+  },
+  {
+    "key": "PT_0390_0184",
+    "original": "オッカのみ",
+    "translation": "オッカのみ",
+    "index": 184
+  },
+  {
+    "key": "PT_0390_0185",
+    "original": "イトケのみ",
+    "translation": "イトケのみ",
+    "index": 185
+  },
+  {
+    "key": "PT_0390_0186",
+    "original": "ソクノのみ",
+    "translation": "ソクノのみ",
+    "index": 186
+  },
+  {
+    "key": "PT_0390_0187",
+    "original": "リンドのみ",
+    "translation": "リンドのみ",
+    "index": 187
+  },
+  {
+    "key": "PT_0390_0188",
+    "original": "ヤチェのみ",
+    "translation": "ヤチェのみ",
+    "index": 188
+  },
+  {
+    "key": "PT_0390_0189",
+    "original": "ヨプのみ",
+    "translation": "ヨプのみ",
+    "index": 189
+  },
+  {
+    "key": "PT_0390_0190",
+    "original": "ビアーのみ",
+    "translation": "ビアーのみ",
+    "index": 190
+  },
+  {
+    "key": "PT_0390_0191",
+    "original": "シュカのみ",
+    "translation": "シュカのみ",
+    "index": 191
+  },
+  {
+    "key": "PT_0390_0192",
+    "original": "バコウのみ",
+    "translation": "バコウのみ",
+    "index": 192
+  },
+  {
+    "key": "PT_0390_0193",
+    "original": "ウタンのみ",
+    "translation": "ウタンのみ",
+    "index": 193
+  },
+  {
+    "key": "PT_0390_0194",
+    "original": "タンガのみ",
+    "translation": "タンガのみ",
+    "index": 194
+  },
+  {
+    "key": "PT_0390_0195",
+    "original": "ヨロギのみ",
+    "translation": "ヨロギのみ",
+    "index": 195
+  },
+  {
+    "key": "PT_0390_0196",
+    "original": "カシブのみ",
+    "translation": "カシブのみ",
+    "index": 196
+  },
+  {
+    "key": "PT_0390_0197",
+    "original": "ハバンのみ",
+    "translation": "ハバンのみ",
+    "index": 197
+  },
+  {
+    "key": "PT_0390_0198",
+    "original": "ナモのみ",
+    "translation": "ナモのみ",
+    "index": 198
+  },
+  {
+    "key": "PT_0390_0199",
+    "original": "リリバのみ",
+    "translation": "リリバのみ",
+    "index": 199
+  },
+  {
+    "key": "PT_0390_0200",
+    "original": "ホズのみ",
+    "translation": "ホズのみ",
+    "index": 200
+  },
+  {
+    "key": "PT_0390_0201",
+    "original": "チイラのみ",
+    "translation": "チイラのみ",
+    "index": 201
+  },
+  {
+    "key": "PT_0390_0202",
+    "original": "リュガのみ",
+    "translation": "リュガのみ",
+    "index": 202
+  },
+  {
+    "key": "PT_0390_0203",
+    "original": "カムラのみ",
+    "translation": "カムラのみ",
+    "index": 203
+  },
+  {
+    "key": "PT_0390_0204",
+    "original": "ヤタピのみ",
+    "translation": "ヤタピのみ",
+    "index": 204
+  },
+  {
+    "key": "PT_0390_0205",
+    "original": "ズアのみ",
+    "translation": "ズアのみ",
+    "index": 205
+  },
+  {
+    "key": "PT_0390_0206",
+    "original": "サンのみ",
+    "translation": "サンのみ",
+    "index": 206
+  },
+  {
+    "key": "PT_0390_0207",
+    "original": "スターのみ",
+    "translation": "スターのみ",
+    "index": 207
+  },
+  {
+    "key": "PT_0390_0208",
+    "original": "ナゾのみ",
+    "translation": "ナゾのみ",
+    "index": 208
+  },
+  {
+    "key": "PT_0390_0209",
+    "original": "ミクルのみ",
+    "translation": "ミクルのみ",
+    "index": 209
+  },
+  {
+    "key": "PT_0390_0210",
+    "original": "イバンのみ",
+    "translation": "イバンのみ",
+    "index": 210
+  },
+  {
+    "key": "PT_0390_0211",
+    "original": "ジャポのみ",
+    "translation": "ジャポのみ",
+    "index": 211
+  },
+  {
+    "key": "PT_0390_0212",
+    "original": "レンブのみ",
+    "translation": "レンブのみ",
+    "index": 212
+  },
+  {
+    "key": "PT_0390_0213",
+    "original": "ひかりのこな",
+    "translation": "ひかりのこな",
+    "index": 213
+  },
+  {
+    "key": "PT_0390_0214",
+    "original": "しろいハーブ",
+    "translation": "しろいハーブ",
+    "index": 214
+  },
+  {
+    "key": "PT_0390_0215",
+    "original": "きょうせいギプス",
+    "translation": "きょうせいギプス",
+    "index": 215
+  },
+  {
+    "key": "PT_0390_0216",
+    "original": "がくしゅうそうち",
+    "translation": "がくしゅうそうち",
+    "index": 216
+  },
+  {
+    "key": "PT_0390_0217",
+    "original": "せんせいのツメ",
+    "translation": "せんせいのツメ",
+    "index": 217
+  },
+  {
+    "key": "PT_0390_0218",
+    "original": "やすらぎのすず",
+    "translation": "やすらぎのすず",
+    "index": 218
+  },
+  {
+    "key": "PT_0390_0219",
+    "original": "メンタルハーブ",
+    "translation": "メンタルハーブ",
+    "index": 219
+  },
+  {
+    "key": "PT_0390_0220",
+    "original": "こだわりハチマキ",
+    "translation": "こだわりハチマキ",
+    "index": 220
+  },
+  {
+    "key": "PT_0390_0221",
+    "original": "おうじゃのしるし",
+    "translation": "おうじゃのしるし",
+    "index": 221
+  },
+  {
+    "key": "PT_0390_0222",
+    "original": "ぎんのこな",
+    "translation": "ぎんのこな",
+    "index": 222
+  },
+  {
+    "key": "PT_0390_0223",
+    "original": "おまもりこばん",
+    "translation": "おまもりこばん",
+    "index": 223
+  },
+  {
+    "key": "PT_0390_0224",
+    "original": "きよめのおふだ",
+    "translation": "きよめのおふだ",
+    "index": 224
+  },
+  {
+    "key": "PT_0390_0225",
+    "original": "こころのしずく",
+    "translation": "こころのしずく",
+    "index": 225
+  },
+  {
+    "key": "PT_0390_0226",
+    "original": "しんかいのキバ",
+    "translation": "しんかいのキバ",
+    "index": 226
+  },
+  {
+    "key": "PT_0390_0227",
+    "original": "しんかいのウロコ",
+    "translation": "しんかいのウロコ",
+    "index": 227
+  },
+  {
+    "key": "PT_0390_0228",
+    "original": "けむりだま",
+    "translation": "けむりだま",
+    "index": 228
+  },
+  {
+    "key": "PT_0390_0229",
+    "original": "かわらずのいし",
+    "translation": "かわらずのいし",
+    "index": 229
+  },
+  {
+    "key": "PT_0390_0230",
+    "original": "きあいのハチマキ",
+    "translation": "きあいのハチマキ",
+    "index": 230
+  },
+  {
+    "key": "PT_0390_0231",
+    "original": "しあわせタマゴ",
+    "translation": "しあわせタマゴ",
+    "index": 231
+  },
+  {
+    "key": "PT_0390_0232",
+    "original": "ピントレンズ",
+    "translation": "ピントレンズ",
+    "index": 232
+  },
+  {
+    "key": "PT_0390_0233",
+    "original": "メタルコート",
+    "translation": "メタルコート",
+    "index": 233
+  },
+  {
+    "key": "PT_0390_0234",
+    "original": "たべのこし",
+    "translation": "たべのこし",
+    "index": 234
+  },
+  {
+    "key": "PT_0390_0235",
+    "original": "りゅうのウロコ",
+    "translation": "りゅうのウロコ",
+    "index": 235
+  },
+  {
+    "key": "PT_0390_0236",
+    "original": "でんきだま",
+    "translation": "でんきだま",
+    "index": 236
+  },
+  {
+    "key": "PT_0390_0237",
+    "original": "やわらかいすな",
+    "translation": "やわらかいすな",
+    "index": 237
+  },
+  {
+    "key": "PT_0390_0238",
+    "original": "かたいいし",
+    "translation": "かたいいし",
+    "index": 238
+  },
+  {
+    "key": "PT_0390_0239",
+    "original": "きせきのタネ",
+    "translation": "きせきのタネ",
+    "index": 239
+  },
+  {
+    "key": "PT_0390_0240",
+    "original": "くろいメガネ",
+    "translation": "くろいメガネ",
+    "index": 240
+  },
+  {
+    "key": "PT_0390_0241",
+    "original": "くろおび",
+    "translation": "くろおび",
+    "index": 241
+  },
+  {
+    "key": "PT_0390_0242",
+    "original": "じしゃく",
+    "translation": "じしゃく",
+    "index": 242
+  },
+  {
+    "key": "PT_0390_0243",
+    "original": "しんぴのしずく",
+    "translation": "しんぴのしずく",
+    "index": 243
+  },
+  {
+    "key": "PT_0390_0244",
+    "original": "するどいくちばし",
+    "translation": "するどいくちばし",
+    "index": 244
+  },
+  {
+    "key": "PT_0390_0245",
+    "original": "どくバリ",
+    "translation": "どくバリ",
+    "index": 245
+  },
+  {
+    "key": "PT_0390_0246",
+    "original": "とけないこおり",
+    "translation": "とけないこおり",
+    "index": 246
+  },
+  {
+    "key": "PT_0390_0247",
+    "original": "のろいのおふだ",
+    "translation": "のろいのおふだ",
+    "index": 247
+  },
+  {
+    "key": "PT_0390_0248",
+    "original": "まがったスプーン",
+    "translation": "まがったスプーン",
+    "index": 248
+  },
+  {
+    "key": "PT_0390_0249",
+    "original": "もくたん",
+    "translation": "もくたん",
+    "index": 249
+  },
+  {
+    "key": "PT_0390_0250",
+    "original": "りゅうのキバ",
+    "translation": "りゅうのキバ",
+    "index": 250
+  },
+  {
+    "key": "PT_0390_0251",
+    "original": "シルクのスカーフ",
+    "translation": "シルクのスカーフ",
+    "index": 251
+  },
+  {
+    "key": "PT_0390_0252",
+    "original": "アップグレード",
+    "translation": "アップグレード",
+    "index": 252
+  },
+  {
+    "key": "PT_0390_0253",
+    "original": "かいがらのすず",
+    "translation": "かいがらのすず",
+    "index": 253
+  },
+  {
+    "key": "PT_0390_0254",
+    "original": "うしおのおこう",
+    "translation": "うしおのおこう",
+    "index": 254
+  },
+  {
+    "key": "PT_0390_0255",
+    "original": "のんきのおこう",
+    "translation": "のんきのおこう",
+    "index": 255
+  },
+  {
+    "key": "PT_0390_0256",
+    "original": "ラッキーパンチ",
+    "translation": "ラッキーパンチ",
+    "index": 256
+  },
+  {
+    "key": "PT_0390_0257",
+    "original": "メタルパウダー",
+    "translation": "メタルパウダー",
+    "index": 257
+  },
+  {
+    "key": "PT_0390_0258",
+    "original": "ふといホネ",
+    "translation": "ふといホネ",
+    "index": 258
+  },
+  {
+    "key": "PT_0390_0259",
+    "original": "ながねぎ",
+    "translation": "ながねぎ",
+    "index": 259
+  },
+  {
+    "key": "PT_0390_0260",
+    "original": "あかいバンダナ",
+    "translation": "あかいバンダナ",
+    "index": 260
+  },
+  {
+    "key": "PT_0390_0261",
+    "original": "あおいバンダナ",
+    "translation": "あおいバンダナ",
+    "index": 261
+  },
+  {
+    "key": "PT_0390_0262",
+    "original": "ピンクのバンダナ",
+    "translation": "ピンクのバンダナ",
+    "index": 262
+  },
+  {
+    "key": "PT_0390_0263",
+    "original": "みどりのバンダナ",
+    "translation": "みどりのバンダナ",
+    "index": 263
+  },
+  {
+    "key": "PT_0390_0264",
+    "original": "きいろのバンダナ",
+    "translation": "きいろのバンダナ",
+    "index": 264
+  },
+  {
+    "key": "PT_0390_0265",
+    "original": "こうかくレンズ",
+    "translation": "こうかくレンズ",
+    "index": 265
+  },
+  {
+    "key": "PT_0390_0266",
+    "original": "ちからのハチマキ",
+    "translation": "ちからのハチマキ",
+    "index": 266
+  },
+  {
+    "key": "PT_0390_0267",
+    "original": "ものしりメガネ",
+    "translation": "ものしりメガネ",
+    "index": 267
+  },
+  {
+    "key": "PT_0390_0268",
+    "original": "たつじんのおび",
+    "translation": "たつじんのおび",
+    "index": 268
+  },
+  {
+    "key": "PT_0390_0269",
+    "original": "ひかりのねんど",
+    "translation": "ひかりのねんど",
+    "index": 269
+  },
+  {
+    "key": "PT_0390_0270",
+    "original": "いのちのたま",
+    "translation": "いのちのたま",
+    "index": 270
+  },
+  {
+    "key": "PT_0390_0271",
+    "original": "パワフルハーブ",
+    "translation": "パワフルハーブ",
+    "index": 271
+  },
+  {
+    "key": "PT_0390_0272",
+    "original": "どくどくだま",
+    "translation": "どくどくだま",
+    "index": 272
+  },
+  {
+    "key": "PT_0390_0273",
+    "original": "かえんだま",
+    "translation": "かえんだま",
+    "index": 273
+  },
+  {
+    "key": "PT_0390_0274",
+    "original": "スピードパウダー",
+    "translation": "スピードパウダー",
+    "index": 274
+  },
+  {
+    "key": "PT_0390_0275",
+    "original": "きあいのタスキ",
+    "translation": "きあいのタスキ",
+    "index": 275
+  },
+  {
+    "key": "PT_0390_0276",
+    "original": "フォーカスレンズ",
+    "translation": "フォーカスレンズ",
+    "index": 276
+  },
+  {
+    "key": "PT_0390_0277",
+    "original": "メトロノーム",
+    "translation": "メトロノーム",
+    "index": 277
+  },
+  {
+    "key": "PT_0390_0278",
+    "original": "くろいてっきゅう",
+    "translation": "くろいてっきゅう",
+    "index": 278
+  },
+  {
+    "key": "PT_0390_0279",
+    "original": "こうこうのしっぽ",
+    "translation": "こうこうのしっぽ",
+    "index": 279
+  },
+  {
+    "key": "PT_0390_0280",
+    "original": "あかいいと",
+    "translation": "あかいいと",
+    "index": 280
+  },
+  {
+    "key": "PT_0390_0281",
+    "original": "くろいヘドロ",
+    "translation": "くろいヘドロ",
+    "index": 281
+  },
+  {
+    "key": "PT_0390_0282",
+    "original": "つめたいいわ",
+    "translation": "つめたいいわ",
+    "index": 282
+  },
+  {
+    "key": "PT_0390_0283",
+    "original": "さらさらいわ",
+    "translation": "さらさらいわ",
+    "index": 283
+  },
+  {
+    "key": "PT_0390_0284",
+    "original": "あついいわ",
+    "translation": "あついいわ",
+    "index": 284
+  },
+  {
+    "key": "PT_0390_0285",
+    "original": "しめったいわ",
+    "translation": "しめったいわ",
+    "index": 285
+  },
+  {
+    "key": "PT_0390_0286",
+    "original": "ねばりのかぎづめ",
+    "translation": "ねばりのかぎづめ",
+    "index": 286
+  },
+  {
+    "key": "PT_0390_0287",
+    "original": "こだわりスカーフ",
+    "translation": "こだわりスカーフ",
+    "index": 287
+  },
+  {
+    "key": "PT_0390_0288",
+    "original": "くっつきバリ",
+    "translation": "くっつきバリ",
+    "index": 288
+  },
+  {
+    "key": "PT_0390_0289",
+    "original": "パワーリスト",
+    "translation": "パワーリスト",
+    "index": 289
+  },
+  {
+    "key": "PT_0390_0290",
+    "original": "パワーベルト",
+    "translation": "パワーベルト",
+    "index": 290
+  },
+  {
+    "key": "PT_0390_0291",
+    "original": "パワーレンズ",
+    "translation": "パワーレンズ",
+    "index": 291
+  },
+  {
+    "key": "PT_0390_0292",
+    "original": "パワーバンド",
+    "translation": "パワーバンド",
+    "index": 292
+  },
+  {
+    "key": "PT_0390_0293",
+    "original": "パワーアンクル",
+    "translation": "パワーアンクル",
+    "index": 293
+  },
+  {
+    "key": "PT_0390_0294",
+    "original": "パワーウエイト",
+    "translation": "パワーウエイト",
+    "index": 294
+  },
+  {
+    "key": "PT_0390_0295",
+    "original": "きれいなぬけがら",
+    "translation": "きれいなぬけがら",
+    "index": 295
+  },
+  {
+    "key": "PT_0390_0296",
+    "original": "おおきなねっこ",
+    "translation": "おおきなねっこ",
+    "index": 296
+  },
+  {
+    "key": "PT_0390_0297",
+    "original": "こだわりメガネ",
+    "translation": "こだわりメガネ",
+    "index": 297
+  },
+  {
+    "key": "PT_0390_0298",
+    "original": "ひのたまプレート",
+    "translation": "ひのたまプレート",
+    "index": 298
+  },
+  {
+    "key": "PT_0390_0299",
+    "original": "しずくプレート",
+    "translation": "しずくプレート",
+    "index": 299
+  },
+  {
+    "key": "PT_0390_0300",
+    "original": "いかずちプレート",
+    "translation": "いかずちプレート",
+    "index": 300
+  },
+  {
+    "key": "PT_0390_0301",
+    "original": "みどりのプレート",
+    "translation": "みどりのプレート",
+    "index": 301
+  },
+  {
+    "key": "PT_0390_0302",
+    "original": "つららのプレート",
+    "translation": "つららのプレート",
+    "index": 302
+  },
+  {
+    "key": "PT_0390_0303",
+    "original": "こぶしのプレート",
+    "translation": "こぶしのプレート",
+    "index": 303
+  },
+  {
+    "key": "PT_0390_0304",
+    "original": "もうどくプレート",
+    "translation": "もうどくプレート",
+    "index": 304
+  },
+  {
+    "key": "PT_0390_0305",
+    "original": "だいちのプレート",
+    "translation": "だいちのプレート",
+    "index": 305
+  },
+  {
+    "key": "PT_0390_0306",
+    "original": "あおぞらプレート",
+    "translation": "あおぞらプレート",
+    "index": 306
+  },
+  {
+    "key": "PT_0390_0307",
+    "original": "ふしぎのプレート",
+    "translation": "ふしぎのプレート",
+    "index": 307
+  },
+  {
+    "key": "PT_0390_0308",
+    "original": "たまむしプレート",
+    "translation": "たまむしプレート",
+    "index": 308
+  },
+  {
+    "key": "PT_0390_0309",
+    "original": "がんせきプレート",
+    "translation": "がんせきプレート",
+    "index": 309
+  },
+  {
+    "key": "PT_0390_0310",
+    "original": "もののけプレート",
+    "translation": "もののけプレート",
+    "index": 310
+  },
+  {
+    "key": "PT_0390_0311",
+    "original": "りゅうのプレート",
+    "translation": "りゅうのプレート",
+    "index": 311
+  },
+  {
+    "key": "PT_0390_0312",
+    "original": "こわもてプレート",
+    "translation": "こわもてプレート",
+    "index": 312
+  },
+  {
+    "key": "PT_0390_0313",
+    "original": "こうてつプレート",
+    "translation": "こうてつプレート",
+    "index": 313
+  },
+  {
+    "key": "PT_0390_0314",
+    "original": "あやしいおこう",
+    "translation": "あやしいおこう",
+    "index": 314
+  },
+  {
+    "key": "PT_0390_0315",
+    "original": "がんせきおこう",
+    "translation": "がんせきおこう",
+    "index": 315
+  },
+  {
+    "key": "PT_0390_0316",
+    "original": "まんぷくおこう",
+    "translation": "まんぷくおこう",
+    "index": 316
+  },
+  {
+    "key": "PT_0390_0317",
+    "original": "さざなみのおこう",
+    "translation": "さざなみのおこう",
+    "index": 317
+  },
+  {
+    "key": "PT_0390_0318",
+    "original": "おはなのおこう",
+    "translation": "おはなのおこう",
+    "index": 318
+  },
+  {
+    "key": "PT_0390_0319",
+    "original": "こううんのおこう",
+    "translation": "こううんのおこう",
+    "index": 319
+  },
+  {
+    "key": "PT_0390_0320",
+    "original": "きよめのおこう",
+    "translation": "きよめのおこう",
+    "index": 320
+  },
+  {
+    "key": "PT_0390_0321",
+    "original": "プロテクター",
+    "translation": "プロテクター",
+    "index": 321
+  },
+  {
+    "key": "PT_0390_0322",
+    "original": "エレキブースター",
+    "translation": "エレキブースター",
+    "index": 322
+  },
+  {
+    "key": "PT_0390_0323",
+    "original": "マグマブースター",
+    "translation": "マグマブースター",
+    "index": 323
+  },
+  {
+    "key": "PT_0390_0324",
+    "original": "あやしいパッチ",
+    "translation": "あやしいパッチ",
+    "index": 324
+  },
+  {
+    "key": "PT_0390_0325",
+    "original": "れいかいのぬの",
+    "translation": "れいかいのぬの",
+    "index": 325
+  },
+  {
+    "key": "PT_0390_0326",
+    "original": "するどいツメ",
+    "translation": "するどいツメ",
+    "index": 326
+  },
+  {
+    "key": "PT_0390_0327",
+    "original": "するどいキバ",
+    "translation": "するどいキバ",
+    "index": 327
+  },
+  {
+    "key": "PT_0390_0328",
+    "original": "わざマシン０１",
+    "translation": "わざマシン０１",
+    "index": 328
+  },
+  {
+    "key": "PT_0390_0329",
+    "original": "わざマシン０２",
+    "translation": "わざマシン０２",
+    "index": 329
+  },
+  {
+    "key": "PT_0390_0330",
+    "original": "わざマシン０３",
+    "translation": "わざマシン０３",
+    "index": 330
+  },
+  {
+    "key": "PT_0390_0331",
+    "original": "わざマシン０４",
+    "translation": "わざマシン０４",
+    "index": 331
+  },
+  {
+    "key": "PT_0390_0332",
+    "original": "わざマシン０５",
+    "translation": "わざマシン０５",
+    "index": 332
+  },
+  {
+    "key": "PT_0390_0333",
+    "original": "わざマシン０６",
+    "translation": "わざマシン０６",
+    "index": 333
+  },
+  {
+    "key": "PT_0390_0334",
+    "original": "わざマシン０７",
+    "translation": "わざマシン０７",
+    "index": 334
+  },
+  {
+    "key": "PT_0390_0335",
+    "original": "わざマシン０８",
+    "translation": "わざマシン０８",
+    "index": 335
+  },
+  {
+    "key": "PT_0390_0336",
+    "original": "わざマシン０９",
+    "translation": "わざマシン０９",
+    "index": 336
+  },
+  {
+    "key": "PT_0390_0337",
+    "original": "わざマシン１０",
+    "translation": "わざマシン１０",
+    "index": 337
+  },
+  {
+    "key": "PT_0390_0338",
+    "original": "わざマシン１１",
+    "translation": "わざマシン１１",
+    "index": 338
+  },
+  {
+    "key": "PT_0390_0339",
+    "original": "わざマシン１２",
+    "translation": "わざマシン１２",
+    "index": 339
+  },
+  {
+    "key": "PT_0390_0340",
+    "original": "わざマシン１３",
+    "translation": "わざマシン１３",
+    "index": 340
+  },
+  {
+    "key": "PT_0390_0341",
+    "original": "わざマシン１４",
+    "translation": "わざマシン１４",
+    "index": 341
+  },
+  {
+    "key": "PT_0390_0342",
+    "original": "わざマシン１５",
+    "translation": "わざマシン１５",
+    "index": 342
+  },
+  {
+    "key": "PT_0390_0343",
+    "original": "わざマシン１６",
+    "translation": "わざマシン１６",
+    "index": 343
+  },
+  {
+    "key": "PT_0390_0344",
+    "original": "わざマシン１７",
+    "translation": "わざマシン１７",
+    "index": 344
+  },
+  {
+    "key": "PT_0390_0345",
+    "original": "わざマシン１８",
+    "translation": "わざマシン１８",
+    "index": 345
+  },
+  {
+    "key": "PT_0390_0346",
+    "original": "わざマシン１９",
+    "translation": "わざマシン１９",
+    "index": 346
+  },
+  {
+    "key": "PT_0390_0347",
+    "original": "わざマシン２０",
+    "translation": "わざマシン２０",
+    "index": 347
+  },
+  {
+    "key": "PT_0390_0348",
+    "original": "わざマシン２１",
+    "translation": "わざマシン２１",
+    "index": 348
+  },
+  {
+    "key": "PT_0390_0349",
+    "original": "わざマシン２２",
+    "translation": "わざマシン２２",
+    "index": 349
+  },
+  {
+    "key": "PT_0390_0350",
+    "original": "わざマシン２３",
+    "translation": "わざマシン２３",
+    "index": 350
+  },
+  {
+    "key": "PT_0390_0351",
+    "original": "わざマシン２４",
+    "translation": "わざマシン２４",
+    "index": 351
+  },
+  {
+    "key": "PT_0390_0352",
+    "original": "わざマシン２５",
+    "translation": "わざマシン２５",
+    "index": 352
+  },
+  {
+    "key": "PT_0390_0353",
+    "original": "わざマシン２６",
+    "translation": "わざマシン２６",
+    "index": 353
+  },
+  {
+    "key": "PT_0390_0354",
+    "original": "わざマシン２７",
+    "translation": "わざマシン２７",
+    "index": 354
+  },
+  {
+    "key": "PT_0390_0355",
+    "original": "わざマシン２８",
+    "translation": "わざマシン２８",
+    "index": 355
+  },
+  {
+    "key": "PT_0390_0356",
+    "original": "わざマシン２９",
+    "translation": "わざマシン２９",
+    "index": 356
+  },
+  {
+    "key": "PT_0390_0357",
+    "original": "わざマシン３０",
+    "translation": "わざマシン３０",
+    "index": 357
+  },
+  {
+    "key": "PT_0390_0358",
+    "original": "わざマシン３１",
+    "translation": "わざマシン３１",
+    "index": 358
+  },
+  {
+    "key": "PT_0390_0359",
+    "original": "わざマシン３２",
+    "translation": "わざマシン３２",
+    "index": 359
+  },
+  {
+    "key": "PT_0390_0360",
+    "original": "わざマシン３３",
+    "translation": "わざマシン３３",
+    "index": 360
+  },
+  {
+    "key": "PT_0390_0361",
+    "original": "わざマシン３４",
+    "translation": "わざマシン３４",
+    "index": 361
+  },
+  {
+    "key": "PT_0390_0362",
+    "original": "わざマシン３５",
+    "translation": "わざマシン３５",
+    "index": 362
+  },
+  {
+    "key": "PT_0390_0363",
+    "original": "わざマシン３６",
+    "translation": "わざマシン３６",
+    "index": 363
+  },
+  {
+    "key": "PT_0390_0364",
+    "original": "わざマシン３７",
+    "translation": "わざマシン３７",
+    "index": 364
+  },
+  {
+    "key": "PT_0390_0365",
+    "original": "わざマシン３８",
+    "translation": "わざマシン３８",
+    "index": 365
+  },
+  {
+    "key": "PT_0390_0366",
+    "original": "わざマシン３９",
+    "translation": "わざマシン３９",
+    "index": 366
+  },
+  {
+    "key": "PT_0390_0367",
+    "original": "わざマシン４０",
+    "translation": "わざマシン４０",
+    "index": 367
+  },
+  {
+    "key": "PT_0390_0368",
+    "original": "わざマシン４１",
+    "translation": "わざマシン４１",
+    "index": 368
+  },
+  {
+    "key": "PT_0390_0369",
+    "original": "わざマシン４２",
+    "translation": "わざマシン４２",
+    "index": 369
+  },
+  {
+    "key": "PT_0390_0370",
+    "original": "わざマシン４３",
+    "translation": "わざマシン４３",
+    "index": 370
+  },
+  {
+    "key": "PT_0390_0371",
+    "original": "わざマシン４４",
+    "translation": "わざマシン４４",
+    "index": 371
+  },
+  {
+    "key": "PT_0390_0372",
+    "original": "わざマシン４５",
+    "translation": "わざマシン４５",
+    "index": 372
+  },
+  {
+    "key": "PT_0390_0373",
+    "original": "わざマシン４６",
+    "translation": "わざマシン４６",
+    "index": 373
+  },
+  {
+    "key": "PT_0390_0374",
+    "original": "わざマシン４７",
+    "translation": "わざマシン４７",
+    "index": 374
+  },
+  {
+    "key": "PT_0390_0375",
+    "original": "わざマシン４８",
+    "translation": "わざマシン４８",
+    "index": 375
+  },
+  {
+    "key": "PT_0390_0376",
+    "original": "わざマシン４９",
+    "translation": "わざマシン４９",
+    "index": 376
+  },
+  {
+    "key": "PT_0390_0377",
+    "original": "わざマシン５０",
+    "translation": "わざマシン５０",
+    "index": 377
+  },
+  {
+    "key": "PT_0390_0378",
+    "original": "わざマシン５１",
+    "translation": "わざマシン５１",
+    "index": 378
+  },
+  {
+    "key": "PT_0390_0379",
+    "original": "わざマシン５２",
+    "translation": "わざマシン５２",
+    "index": 379
+  },
+  {
+    "key": "PT_0390_0380",
+    "original": "わざマシン５３",
+    "translation": "わざマシン５３",
+    "index": 380
+  },
+  {
+    "key": "PT_0390_0381",
+    "original": "わざマシン５４",
+    "translation": "わざマシン５４",
+    "index": 381
+  },
+  {
+    "key": "PT_0390_0382",
+    "original": "わざマシン５５",
+    "translation": "わざマシン５５",
+    "index": 382
+  },
+  {
+    "key": "PT_0390_0383",
+    "original": "わざマシン５６",
+    "translation": "わざマシン５６",
+    "index": 383
+  },
+  {
+    "key": "PT_0390_0384",
+    "original": "わざマシン５７",
+    "translation": "わざマシン５７",
+    "index": 384
+  },
+  {
+    "key": "PT_0390_0385",
+    "original": "わざマシン５８",
+    "translation": "わざマシン５８",
+    "index": 385
+  },
+  {
+    "key": "PT_0390_0386",
+    "original": "わざマシン５９",
+    "translation": "わざマシン５９",
+    "index": 386
+  },
+  {
+    "key": "PT_0390_0387",
+    "original": "わざマシン６０",
+    "translation": "わざマシン６０",
+    "index": 387
+  },
+  {
+    "key": "PT_0390_0388",
+    "original": "わざマシン６１",
+    "translation": "わざマシン６１",
+    "index": 388
+  },
+  {
+    "key": "PT_0390_0389",
+    "original": "わざマシン６２",
+    "translation": "わざマシン６２",
+    "index": 389
+  },
+  {
+    "key": "PT_0390_0390",
+    "original": "わざマシン６３",
+    "translation": "わざマシン６３",
+    "index": 390
+  },
+  {
+    "key": "PT_0390_0391",
+    "original": "わざマシン６４",
+    "translation": "わざマシン６４",
+    "index": 391
+  },
+  {
+    "key": "PT_0390_0392",
+    "original": "わざマシン６５",
+    "translation": "わざマシン６５",
+    "index": 392
+  },
+  {
+    "key": "PT_0390_0393",
+    "original": "わざマシン６６",
+    "translation": "わざマシン６６",
+    "index": 393
+  },
+  {
+    "key": "PT_0390_0394",
+    "original": "わざマシン６７",
+    "translation": "わざマシン６７",
+    "index": 394
+  },
+  {
+    "key": "PT_0390_0395",
+    "original": "わざマシン６８",
+    "translation": "わざマシン６８",
+    "index": 395
+  },
+  {
+    "key": "PT_0390_0396",
+    "original": "わざマシン６９",
+    "translation": "わざマシン６９",
+    "index": 396
+  },
+  {
+    "key": "PT_0390_0397",
+    "original": "わざマシン７０",
+    "translation": "わざマシン７０",
+    "index": 397
+  },
+  {
+    "key": "PT_0390_0398",
+    "original": "わざマシン７１",
+    "translation": "わざマシン７１",
+    "index": 398
+  },
+  {
+    "key": "PT_0390_0399",
+    "original": "わざマシン７２",
+    "translation": "わざマシン７２",
+    "index": 399
+  },
+  {
+    "key": "PT_0390_0400",
+    "original": "わざマシン７３",
+    "translation": "わざマシン７３",
+    "index": 400
+  },
+  {
+    "key": "PT_0390_0401",
+    "original": "わざマシン７４",
+    "translation": "わざマシン７４",
+    "index": 401
+  },
+  {
+    "key": "PT_0390_0402",
+    "original": "わざマシン７５",
+    "translation": "わざマシン７５",
+    "index": 402
+  },
+  {
+    "key": "PT_0390_0403",
+    "original": "わざマシン７６",
+    "translation": "わざマシン７６",
+    "index": 403
+  },
+  {
+    "key": "PT_0390_0404",
+    "original": "わざマシン７７",
+    "translation": "わざマシン７７",
+    "index": 404
+  },
+  {
+    "key": "PT_0390_0405",
+    "original": "わざマシン７８",
+    "translation": "わざマシン７８",
+    "index": 405
+  },
+  {
+    "key": "PT_0390_0406",
+    "original": "わざマシン７９",
+    "translation": "わざマシン７９",
+    "index": 406
+  },
+  {
+    "key": "PT_0390_0407",
+    "original": "わざマシン８０",
+    "translation": "わざマシン８０",
+    "index": 407
+  },
+  {
+    "key": "PT_0390_0408",
+    "original": "わざマシン８１",
+    "translation": "わざマシン８１",
+    "index": 408
+  },
+  {
+    "key": "PT_0390_0409",
+    "original": "わざマシン８２",
+    "translation": "わざマシン８２",
+    "index": 409
+  },
+  {
+    "key": "PT_0390_0410",
+    "original": "わざマシン８３",
+    "translation": "わざマシン８３",
+    "index": 410
+  },
+  {
+    "key": "PT_0390_0411",
+    "original": "わざマシン８４",
+    "translation": "わざマシン８４",
+    "index": 411
+  },
+  {
+    "key": "PT_0390_0412",
+    "original": "わざマシン８５",
+    "translation": "わざマシン８５",
+    "index": 412
+  },
+  {
+    "key": "PT_0390_0413",
+    "original": "わざマシン８６",
+    "translation": "わざマシン８６",
+    "index": 413
+  },
+  {
+    "key": "PT_0390_0414",
+    "original": "わざマシン８７",
+    "translation": "わざマシン８７",
+    "index": 414
+  },
+  {
+    "key": "PT_0390_0415",
+    "original": "わざマシン８８",
+    "translation": "わざマシン８８",
+    "index": 415
+  },
+  {
+    "key": "PT_0390_0416",
+    "original": "わざマシン８９",
+    "translation": "わざマシン８９",
+    "index": 416
+  },
+  {
+    "key": "PT_0390_0417",
+    "original": "わざマシン９０",
+    "translation": "わざマシン９０",
+    "index": 417
+  },
+  {
+    "key": "PT_0390_0418",
+    "original": "わざマシン９１",
+    "translation": "わざマシン９１",
+    "index": 418
+  },
+  {
+    "key": "PT_0390_0419",
+    "original": "わざマシン９２",
+    "translation": "わざマシン９２",
+    "index": 419
+  },
+  {
+    "key": "PT_0390_0420",
+    "original": "ひでんマシン０１",
+    "translation": "ひでんマシン０１",
+    "index": 420
+  },
+  {
+    "key": "PT_0390_0421",
+    "original": "ひでんマシン０２",
+    "translation": "ひでんマシン０２",
+    "index": 421
+  },
+  {
+    "key": "PT_0390_0422",
+    "original": "ひでんマシン０３",
+    "translation": "ひでんマシン０３",
+    "index": 422
+  },
+  {
+    "key": "PT_0390_0423",
+    "original": "ひでんマシン０４",
+    "translation": "ひでんマシン０４",
+    "index": 423
+  },
+  {
+    "key": "PT_0390_0424",
+    "original": "ひでんマシン０５",
+    "translation": "ひでんマシン０５",
+    "index": 424
+  },
+  {
+    "key": "PT_0390_0425",
+    "original": "ひでんマシン０６",
+    "translation": "ひでんマシン０６",
+    "index": 425
+  },
+  {
+    "key": "PT_0390_0426",
+    "original": "ひでんマシン０７",
+    "translation": "ひでんマシン０７",
+    "index": 426
+  },
+  {
+    "key": "PT_0390_0427",
+    "original": "ひでんマシン０８",
+    "translation": "ひでんマシン０８",
+    "index": 427
+  },
+  {
+    "key": "PT_0390_0428",
+    "original": "たんけんセット",
+    "translation": "たんけんセット",
+    "index": 428
+  },
+  {
+    "key": "PT_0390_0429",
+    "original": "たからぶくろ",
+    "translation": "たからぶくろ",
+    "index": 429
+  },
+  {
+    "key": "PT_0390_0430",
+    "original": "ルールブック",
+    "translation": "ルールブック",
+    "index": 430
+  },
+  {
+    "key": "PT_0390_0431",
+    "original": "ポケトレ",
+    "translation": "ポケトレ",
+    "index": 431
+  },
+  {
+    "key": "PT_0390_0432",
+    "original": "ポイントカード",
+    "translation": "ポイントカード",
+    "index": 432
+  },
+  {
+    "key": "PT_0390_0433",
+    "original": "ぼうけんノート",
+    "translation": "ぼうけんノート",
+    "index": 433
+  },
+  {
+    "key": "PT_0390_0434",
+    "original": "シールいれ",
+    "translation": "シールいれ",
+    "index": 434
+  },
+  {
+    "key": "PT_0390_0435",
+    "original": "アクセサリーいれ",
+    "translation": "アクセサリーいれ",
+    "index": 435
+  },
+  {
+    "key": "PT_0390_0436",
+    "original": "シールぶくろ",
+    "translation": "シールぶくろ",
+    "index": 436
+  },
+  {
+    "key": "PT_0390_0437",
+    "original": "ともだちてちょう",
+    "translation": "ともだちてちょう",
+    "index": 437
+  },
+  {
+    "key": "PT_0390_0438",
+    "original": "はつでんしょキー",
+    "translation": "はつでんしょキー",
+    "index": 438
+  },
+  {
+    "key": "PT_0390_0439",
+    "original": "こだいのおまもり",
+    "translation": "こだいのおまもり",
+    "index": 439
+  },
+  {
+    "key": "PT_0390_0440",
+    "original": "ギンガだんのカギ",
+    "translation": "ギンガだんのカギ",
+    "index": 440
+  },
+  {
+    "key": "PT_0390_0441",
+    "original": "あかいくさり",
+    "translation": "あかいくさり",
+    "index": 441
+  },
+  {
+    "key": "PT_0390_0442",
+    "original": "タウンマップ",
+    "translation": "タウンマップ",
+    "index": 442
+  },
+  {
+    "key": "PT_0390_0443",
+    "original": "バトルサーチャー",
+    "translation": "バトルサーチャー",
+    "index": 443
+  },
+  {
+    "key": "PT_0390_0444",
+    "original": "コインケース",
+    "translation": "コインケース",
+    "index": 444
+  },
+  {
+    "key": "PT_0390_0445",
+    "original": "ボロのつりざお",
+    "translation": "ボロのつりざお",
+    "index": 445
+  },
+  {
+    "key": "PT_0390_0446",
+    "original": "いいつりざお",
+    "translation": "いいつりざお",
+    "index": 446
+  },
+  {
+    "key": "PT_0390_0447",
+    "original": "すごいつりざお",
+    "translation": "すごいつりざお",
+    "index": 447
+  },
+  {
+    "key": "PT_0390_0448",
+    "original": "コダックじょうろ",
+    "translation": "コダックじょうろ",
+    "index": 448
+  },
+  {
+    "key": "PT_0390_0449",
+    "original": "ポフィンケース",
+    "translation": "ポフィンケース",
+    "index": 449
+  },
+  {
+    "key": "PT_0390_0450",
+    "original": "じてんしゃ",
+    "translation": "じてんしゃ",
+    "index": 450
+  },
+  {
+    "key": "PT_0390_0451",
+    "original": "ルームキー",
+    "translation": "ルームキー",
+    "index": 451
+  },
+  {
+    "key": "PT_0390_0452",
+    "original": "オーキドのてがみ",
+    "translation": "オーキドのてがみ",
+    "index": 452
+  },
+  {
+    "key": "PT_0390_0453",
+    "original": "みかづきのはね",
+    "translation": "みかづきのはね",
+    "index": 453
+  },
+  {
+    "key": "PT_0390_0454",
+    "original": "メンバーズカード",
+    "translation": "メンバーズカード",
+    "index": 454
+  },
+  {
+    "key": "PT_0390_0455",
+    "original": "てんかいのふえ",
+    "translation": "てんかいのふえ",
+    "index": 455
+  },
+  {
+    "key": "PT_0390_0456",
+    "original": "ふねのチケット",
+    "translation": "ふねのチケット",
+    "index": 456
+  },
+  {
+    "key": "PT_0390_0457",
+    "original": "コンテストパス",
+    "translation": "コンテストパス",
+    "index": 457
+  },
+  {
+    "key": "PT_0390_0458",
+    "original": "かざんのおきいし",
+    "translation": "かざんのおきいし",
+    "index": 458
+  },
+  {
+    "key": "PT_0390_0459",
+    "original": "おとどけもの",
+    "translation": "おとどけもの",
+    "index": 459
+  },
+  {
+    "key": "PT_0390_0460",
+    "original": "ひきかえけん１",
+    "translation": "ひきかえけん１",
+    "index": 460
+  },
+  {
+    "key": "PT_0390_0461",
+    "original": "ひきかえけん２",
+    "translation": "ひきかえけん２",
+    "index": 461
+  },
+  {
+    "key": "PT_0390_0462",
+    "original": "ひきかえけん３",
+    "translation": "ひきかえけん３",
+    "index": 462
+  },
+  {
+    "key": "PT_0390_0463",
+    "original": "そうこのカギ",
+    "translation": "そうこのカギ",
+    "index": 463
+  },
+  {
+    "key": "PT_0390_0464",
+    "original": "ひでんのくすり",
+    "translation": "ひでんのくすり",
+    "index": 464
+  },
+  {
+    "key": "PT_0390_0465",
+    "original": "バトルレコーダー",
+    "translation": "バトルレコーダー",
+    "index": 465
+  },
+  {
+    "key": "PT_0390_0466",
+    "original": "グラシデアのはな",
+    "translation": "グラシデアのはな",
+    "index": 466
+  },
+  {
+    "key": "PT_0390_0467",
+    "original": "ひみつのカギ",
+    "translation": "ひみつのカギ",
+    "index": 467
+  }
+]

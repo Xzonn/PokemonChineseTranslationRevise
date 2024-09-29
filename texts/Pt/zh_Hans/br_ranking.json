@@ -1,0 +1,572 @@
+[
+  {
+    "key": "PT_0025_0000",
+    "original": "でんどういり した かいすう",
+    "translation": "登入名人堂的次数",
+    "index": 0
+  },
+  {
+    "key": "PT_0025_0001",
+    "original": " ",
+    "translation": "　",
+    "index": 1
+  },
+  {
+    "key": "PT_0025_0002",
+    "original": " ",
+    "translation": "　",
+    "index": 2
+  },
+  {
+    "key": "PT_0025_0003",
+    "original": " ",
+    "translation": "　",
+    "index": 3
+  },
+  {
+    "key": "PT_0025_0004",
+    "original": "バトルタワー シングルバトルでの\nれんしょう きろく",
+    "translation": "对战塔单打对战的\n连胜记录",
+    "index": 4
+  },
+  {
+    "key": "PT_0025_0005",
+    "original": " ",
+    "translation": "　",
+    "index": 5
+  },
+  {
+    "key": "PT_0025_0006",
+    "original": "バトルタワー ダブルバトルでの\nれんしょう きろく",
+    "translation": "对战塔双打对战的\n连胜记录",
+    "index": 6
+  },
+  {
+    "key": "PT_0025_0007",
+    "original": " ",
+    "translation": "　",
+    "index": 7
+  },
+  {
+    "key": "PT_0025_0008",
+    "original": "バトルタワー マルチバトルでの\nれんしょう きろく",
+    "translation": "对战塔多人对战的\n连胜记录",
+    "index": 8
+  },
+  {
+    "key": "PT_0025_0009",
+    "original": " ",
+    "translation": "　",
+    "index": 9
+  },
+  {
+    "key": "PT_0025_0010",
+    "original": "バトルタワー マルチバトルでの\nともだちとの れんしょう きろく",
+    "translation": "对战塔多人对战\n与朋友的连胜记录",
+    "index": 10
+  },
+  {
+    "key": "PT_0025_0011",
+    "original": " ",
+    "translation": "　",
+    "index": 11
+  },
+  {
+    "key": "PT_0025_0012",
+    "original": "ＷｉーＦｉバトルタワー での\nれんしょう きろく",
+    "translation": "ＷｉーＦｉ对战塔的连胜记录",
+    "index": 12
+  },
+  {
+    "key": "PT_0025_0013",
+    "original": " ",
+    "translation": "　",
+    "index": 13
+  },
+  {
+    "key": "PT_0025_0014",
+    "original": "ひとりで コンテストに\nさんか した かいすう",
+    "translation": "一个人参加\n华丽大赛的次数",
+    "index": 14
+  },
+  {
+    "key": "PT_0025_0015",
+    "original": "ともだちと コンテストに\nさんか した かいすう",
+    "translation": "与朋友一起参加\n华丽大赛的次数",
+    "index": 15
+  },
+  {
+    "key": "PT_0025_0016",
+    "original": "ひとりで コンテストに さんかして\nゆうしょう した かいすう",
+    "translation": "一个人参加华丽大赛\n优胜的次数",
+    "index": 16
+  },
+  {
+    "key": "PT_0025_0017",
+    "original": "ともだちと コンテストに さんかして\nゆうしょう した かいすう",
+    "translation": "与朋友一起参加华丽大赛\n优胜的次数",
+    "index": 17
+  },
+  {
+    "key": "PT_0025_0018",
+    "original": " ",
+    "translation": "　",
+    "index": 18
+  },
+  {
+    "key": "PT_0025_0019",
+    "original": " ",
+    "translation": "　",
+    "index": 19
+  },
+  {
+    "key": "PT_0025_0020",
+    "original": " ",
+    "translation": "　",
+    "index": 20
+  },
+  {
+    "key": "PT_0025_0021",
+    "original": " ",
+    "translation": "　",
+    "index": 21
+  },
+  {
+    "key": "PT_0025_0022",
+    "original": " ",
+    "translation": "　",
+    "index": 22
+  },
+  {
+    "key": "PT_0025_0023",
+    "original": "やせいの ポケモンに\nにげられて しまった かいすう",
+    "translation": "让野生的宝可梦\n逃走的次数",
+    "index": 23
+  },
+  {
+    "key": "PT_0025_0024",
+    "original": " ",
+    "translation": "　",
+    "index": 24
+  },
+  {
+    "key": "PT_0025_0025",
+    "original": "うえた きのみの かず",
+    "translation": "收获的树果的数量",
+    "index": 25
+  },
+  {
+    "key": "PT_0025_0026",
+    "original": "あるいた ほすう",
+    "translation": "步数",
+    "index": 26
+  },
+  {
+    "key": "PT_0025_0027",
+    "original": "やせいの ポケモンと\nたたかった かいすう",
+    "translation": "与野生的宝可梦\n战斗过的次数",
+    "index": 27
+  },
+  {
+    "key": "PT_0025_0028",
+    "original": "トレーナーと たたかった かいすう\n⋯つうしん・フロンティア いがい",
+    "translation": "与训练家战斗过的次数\n…连接、开拓区除外",
+    "index": 28
+  },
+  {
+    "key": "PT_0025_0029",
+    "original": "つかまえた ポケモンの かず",
+    "translation": "捉到的宝可梦数量",
+    "index": 29
+  },
+  {
+    "key": "PT_0025_0030",
+    "original": "つりあげた ポケモンの かず",
+    "translation": "钓到的宝可梦数量",
+    "index": 30
+  },
+  {
+    "key": "PT_0025_0031",
+    "original": "タマゴを かえした かいすう",
+    "translation": "孵化了的蛋的数量",
+    "index": 31
+  },
+  {
+    "key": "PT_0025_0032",
+    "original": "てもちの ポケモンが\nしんか した かいすう",
+    "translation": "所持宝可梦\n进化的次数",
+    "index": 32
+  },
+  {
+    "key": "PT_0025_0033",
+    "original": "ゲームコーナーの スロットを\nおおあたり させた かいすう",
+    "translation": "在游戏城的机器\n中头奖的次数",
+    "index": 33
+  },
+  {
+    "key": "PT_0025_0034",
+    "original": "バトルタワーに ちょうせん\nした かいすう",
+    "translation": "挑战对战塔的次数",
+    "index": 34
+  },
+  {
+    "key": "PT_0025_0035",
+    "original": " ",
+    "translation": "　",
+    "index": 35
+  },
+  {
+    "key": "PT_0025_0036",
+    "original": " ",
+    "translation": "　",
+    "index": 36
+  },
+  {
+    "key": "PT_0025_0037",
+    "original": " ",
+    "translation": "　",
+    "index": 37
+  },
+  {
+    "key": "PT_0025_0038",
+    "original": " ",
+    "translation": "　",
+    "index": 38
+  },
+  {
+    "key": "PT_0025_0039",
+    "original": "ＧＴＳで ポケモンの こうかんが\nせいりつした かいすう",
+    "translation": "用ＧＴＳ交换宝可梦成功次数",
+    "index": 39
+  },
+  {
+    "key": "PT_0025_0040",
+    "original": "ＷｉーＦｉつうしんたいせん で\nかった かいすう",
+    "translation": "ＷｉーＦｉ连接对战的胜利次数",
+    "index": 40
+  },
+  {
+    "key": "PT_0025_0041",
+    "original": " ",
+    "translation": "　",
+    "index": 41
+  },
+  {
+    "key": "PT_0025_0042",
+    "original": "ＷｉーＦｉつうしんたいせん で\nひきわけた かいすう",
+    "translation": "ＷｉーＦｉ连接对战的平手次数",
+    "index": 42
+  },
+  {
+    "key": "PT_0025_0043",
+    "original": "バトルタワーで\nしょうぶに かった かいすう",
+    "translation": "挑战对战塔的胜利次数",
+    "index": 43
+  },
+  {
+    "key": "PT_0025_0044",
+    "original": "いままで かいもので\nしはらった おかね",
+    "translation": "至今为止用在\n购买物品上的钱",
+    "index": 44
+  },
+  {
+    "key": "PT_0025_0045",
+    "original": "そだてやに ポケモンを\nあずけた かず",
+    "translation": "寄放在培育屋里的宝可梦数量",
+    "index": 45
+  },
+  {
+    "key": "PT_0025_0046",
+    "original": "たおした ポケモンの かず",
+    "translation": "打倒的宝可梦数量",
+    "index": 46
+  },
+  {
+    "key": "PT_0025_0047",
+    "original": "ＧＴＳに ポケモンを\nあずけた かいすう",
+    "translation": "存放宝可梦在ＧＴＳ里的次数",
+    "index": 47
+  },
+  {
+    "key": "PT_0025_0048",
+    "original": "ともだちと ＷｉーＦｉクラブで\nポケモンを こうかんした かいすう",
+    "translation": "与朋友在ＷｉーＦｉ俱乐部\n交换的宝可梦的数量",
+    "index": 48
+  },
+  {
+    "key": "PT_0025_0049",
+    "original": "トレーナーカードに サインを\nかいた かいすう",
+    "translation": "在训练家卡片签名的次数",
+    "index": 49
+  },
+  {
+    "key": "PT_0025_0050",
+    "original": "ポケモンの かせきを\nふくげん した かいすう",
+    "translation": "复活宝可梦化石的次数",
+    "index": 50
+  },
+  {
+    "key": "PT_0025_0051",
+    "original": "フトマキはかせに あしあとを\nみて もらった かいすう",
+    "translation": "让步迈博士查看足迹的次数",
+    "index": 51
+  },
+  {
+    "key": "PT_0025_0052",
+    "original": "メールを かいた かいすう",
+    "translation": "写信的次数",
+    "index": 52
+  },
+  {
+    "key": "PT_0025_0053",
+    "original": "あまいみつで やせいの ポケモンと\nであった かいすう",
+    "translation": "用甘甜花蜜捕捉宝可梦的次数",
+    "index": 53
+  },
+  {
+    "key": "PT_0025_0054",
+    "original": "ＷｉーＦｉひろばで だれかに\nはなしかけた かいすう",
+    "translation": "ＷｉーＦｉ广场与他人对话的次数",
+    "index": 54
+  },
+  {
+    "key": "PT_0025_0055",
+    "original": "ちかつうろで タマを うめたかず",
+    "translation": "在地下通道掩埋玉石的次数",
+    "index": 55
+  },
+  {
+    "key": "PT_0025_0056",
+    "original": "テレビを みた かいすう",
+    "translation": "观看电视的次数",
+    "index": 56
+  },
+  {
+    "key": "PT_0025_0057",
+    "original": "ポケモンに ニックネームを\nつけた かいすう",
+    "translation": "给宝可梦起昵称的次数",
+    "index": 57
+  },
+  {
+    "key": "PT_0025_0058",
+    "original": "もらった プレミアボールの かず",
+    "translation": "得到的纪念球的个数",
+    "index": 58
+  },
+  {
+    "key": "PT_0025_0059",
+    "original": "ふれあいひろばで ポケモンに\nなにか もらった かいすう",
+    "translation": "在互动广场得到宝可梦\n赠送的物品的数量",
+    "index": 59
+  },
+  {
+    "key": "PT_0025_0060",
+    "original": "ひとりで ポフィンを\nつくったかいすう",
+    "translation": "一个人制作宝芬的次数",
+    "index": 60
+  },
+  {
+    "key": "PT_0025_0061",
+    "original": "ともだちと ポフィンを\nつくった かいすう",
+    "translation": "与朋友一起制作宝芬的次数",
+    "index": 61
+  },
+  {
+    "key": "PT_0025_0062",
+    "original": "ポケモンの ドレスアップ\nしゃしんを つくった かいすう",
+    "translation": "制作宝可梦的艺术照的次数",
+    "index": 62
+  },
+  {
+    "key": "PT_0025_0063",
+    "original": "ひでんわざ かいりきで\nいわを おした かいすう",
+    "translation": "使用秘传招式怪力\n推动岩石的次数",
+    "index": 63
+  },
+  {
+    "key": "PT_0025_0064",
+    "original": "ぬまに はまった かいすう",
+    "translation": "陷入沼泽的次数",
+    "index": 64
+  },
+  {
+    "key": "PT_0025_0065",
+    "original": "しょうぶどころで ライバルや\nジムリーダーと たたかった かいすう",
+    "translation": "与宿敌和道馆馆主\n战斗过的次数",
+    "index": 65
+  },
+  {
+    "key": "PT_0025_0066",
+    "original": "バトルフロンティアで しせつに\nちょうせん した かいすう",
+    "translation": "挑战对战开拓区的设施的\n次数",
+    "index": 66
+  },
+  {
+    "key": "PT_0025_0067",
+    "original": "フロンティアブレーンに\nあった かいすう",
+    "translation": "见过开拓头脑的次数",
+    "index": 67
+  },
+  {
+    "key": "PT_0025_0068",
+    "original": "バトルファクトリーで\nかった かいすう",
+    "translation": "挑战对战工厂的\n胜利次数",
+    "index": 68
+  },
+  {
+    "key": "PT_0025_0069",
+    "original": "バトルキャッスルで\nかった かいすう",
+    "translation": "挑战对战城堡的\n胜利次数",
+    "index": 69
+  },
+  {
+    "key": "PT_0025_0070",
+    "original": "バトルステージで\nかった かいすう",
+    "translation": "挑战对战舞台的\n胜利次数",
+    "index": 70
+  },
+  {
+    "key": "PT_0025_0071",
+    "original": "バトルルーレットで\nかった かいすう",
+    "translation": "挑战对战轮盘的\n胜利次数",
+    "index": 71
+  },
+  {
+    "key": "PT_0025_0072",
+    "original": "バトルファクトリーで ポケモンを\nこうかん した かいすう",
+    "translation": "在对战工厂\n替换宝可梦的次数",
+    "index": 72
+  },
+  {
+    "key": "PT_0025_0073",
+    "original": "バトルキャッスルで\nかせいだ キャッスルポイント",
+    "translation": "挑战对战城堡\n得到的城堡点数",
+    "index": 73
+  },
+  {
+    "key": "PT_0025_0074",
+    "original": "バトルステージで ランク１０の\nポケモンに かった かいすう",
+    "translation": "挑战对战舞台\n战胜等级１０的宝可梦数量",
+    "index": 74
+  },
+  {
+    "key": "PT_0025_0075",
+    "original": "バトルルーレットの めで\nもらった バトルポイント",
+    "translation": "挑战对战轮盘\n得到的对战点数",
+    "index": 75
+  },
+  {
+    "key": "PT_0025_0076",
+    "original": "かちとった バトルポイント",
+    "translation": "胜利后得到的对战点数",
+    "index": 76
+  },
+  {
+    "key": "PT_0025_0077",
+    "original": "つかった バトルポイント",
+    "translation": "使用过的对战点数",
+    "index": 77
+  },
+  {
+    "key": "PT_0025_0078",
+    "original": "ＷｉーＦｉひろばの ゲームに\nさんか した かいすう",
+    "translation": "在ＷｉーＦｉ广场\n参加过的游戏次数",
+    "index": 78
+  },
+  {
+    "key": "PT_0025_0079",
+    "original": "ぐるぐるこうかんで\nこうかんした タマゴの かず",
+    "translation": "在咕噜咕噜交换中\n交换宝可梦的蛋的个数",
+    "index": 79
+  },
+  {
+    "key": "PT_0025_0080",
+    "original": "タタラせいてつじょで こうかんした\nほしのかけらの かず",
+    "translation": "在多多罗钢铁厂里\n交换星星碎片的个数",
+    "index": 80
+  },
+  {
+    "key": "PT_0025_0081",
+    "original": "ルーレットの めで もらった\nバトルポイント",
+    "translation": "在轮盘\n对战点数",
+    "index": 81
+  },
+  {
+    "key": "PT_0025_0082",
+    "original": "ルーレットの めで もらった\nきのみと どうぐの かず",
+    "translation": "在轮盘得到的\n树果与道具的个数",
+    "index": 82
+  },
+  {
+    "key": "PT_0025_0083",
+    "original": "かちとった バトルポイント",
+    "translation": "胜利后得到的对战点数",
+    "index": 83
+  },
+  {
+    "key": "PT_0025_0084",
+    "original": "つかった バトルポイント",
+    "translation": "使用过的对战点数",
+    "index": 84
+  },
+  {
+    "key": "PT_0025_0085",
+    "original": "ＷｉーＦｉひろばの ゲームで\nゆうしょう した かいすう",
+    "translation": "ＷｉーＦｉ广场的游戏中\n优胜的次数",
+    "index": 85
+  },
+  {
+    "key": "PT_0025_0086",
+    "original": "ぐるぐるこうかんで\nこうかんした タマゴの かず",
+    "translation": "在咕噜咕噜交换中\n交换宝可梦的蛋的个数",
+    "index": 86
+  },
+  {
+    "key": "PT_0025_0087",
+    "original": " かい",
+    "translation": "次",
+    "index": 87
+  },
+  {
+    "key": "PT_0025_0088",
+    "original": " こ",
+    "translation": "个",
+    "index": 88
+  },
+  {
+    "key": "PT_0025_0089",
+    "original": " ほ",
+    "translation": "步",
+    "index": 89
+  },
+  {
+    "key": "PT_0025_0090",
+    "original": " ひき",
+    "translation": "只",
+    "index": 90
+  },
+  {
+    "key": "PT_0025_0091",
+    "original": " えん",
+    "translation": "元",
+    "index": 91
+  },
+  {
+    "key": "PT_0025_0092",
+    "original": " ＣＰ",
+    "translation": "ＣＰ",
+    "index": 92
+  },
+  {
+    "key": "PT_0025_0093",
+    "original": " ＢＰ",
+    "translation": "ＢＰ",
+    "index": 93
+  },
+  {
+    "key": "PT_0025_0094",
+    "original": " ",
+    "translation": "　",
+    "index": 94
+  }
+]

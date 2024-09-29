@@ -1,0 +1,278 @@
+[
+  {
+    "key": "PT_0018_0000",
+    "original": "[0101,0000]を どうしますか？",
+    "translation": "要对[0101,0000]\n做什么？",
+    "index": 0
+  },
+  {
+    "key": "PT_0018_0001",
+    "original": "マーキング してください",
+    "translation": "请做标记。",
+    "index": 1
+  },
+  {
+    "key": "PT_0018_0002",
+    "original": "ほんとうに にがしますか？",
+    "translation": "真的要放生吗？",
+    "index": 2
+  },
+  {
+    "key": "PT_0018_0003",
+    "original": "[0101,0000]を そとに にがしてあげた",
+    "translation": "将[0101,0000]放生了",
+    "index": 3
+  },
+  {
+    "key": "PT_0018_0004",
+    "original": "ばいばい [0101,0000]！",
+    "translation": "再见，[0101,0000]！",
+    "index": 4
+  },
+  {
+    "key": "PT_0018_0005",
+    "original": "てもちが いっぱいです！",
+    "translation": "所持宝可梦满了！",
+    "index": 5
+  },
+  {
+    "key": "PT_0018_0006",
+    "original": "たたかうポケモンが いなくなります！",
+    "translation": "这样就没有可以战斗的宝可梦了！",
+    "index": 6
+  },
+  {
+    "key": "PT_0018_0007",
+    "original": "このボックスを どうしますか？",
+    "translation": "要拿这个盒子做什么？",
+    "index": 7
+  },
+  {
+    "key": "PT_0018_0008",
+    "original": "どのボックスに ジャンプしますか？",
+    "translation": "要移动到哪个盒子去？",
+    "index": 8
+  },
+  {
+    "key": "PT_0018_0009",
+    "original": "どのテーマに しますか？",
+    "translation": "要选哪个主题？",
+    "index": 9
+  },
+  {
+    "key": "PT_0018_0010",
+    "original": "どのかべがみに しますか？",
+    "translation": "要选哪个壁纸？",
+    "index": 10
+  },
+  {
+    "key": "PT_0018_0011",
+    "original": "ボックスを しゅうりょうしますか？",
+    "translation": "要结束查看盒子吗？",
+    "index": 11
+  },
+  {
+    "key": "PT_0018_0012",
+    "original": "ボックスそうさを つづけますか？",
+    "translation": "要继续操作盒子吗？",
+    "index": 12
+  },
+  {
+    "key": "PT_0018_0013",
+    "original": "このボックスは いっぱいだ！",
+    "translation": "这个盒子满了！",
+    "index": 13
+  },
+  {
+    "key": "PT_0018_0014",
+    "original": "バッグが いっぱいです！",
+    "translation": "包包已满！",
+    "index": 14
+  },
+  {
+    "key": "PT_0018_0015",
+    "original": "[0108,0000]を あずかった！",
+    "translation": "存放了[0108,0000]！",
+    "index": 15
+  },
+  {
+    "key": "PT_0018_0016",
+    "original": "[0108,0000]を もたせた！",
+    "translation": "让宝可梦携带了[0108,0000]！",
+    "index": 16
+  },
+  {
+    "key": "PT_0018_0017",
+    "original": "ポケモンを つかんだままですよ！",
+    "translation": "手上还拿着宝可梦哦！",
+    "index": 17
+  },
+  {
+    "key": "PT_0018_0018",
+    "original": "つれていく ポケモンを えらんで！",
+    "translation": "请选择要带走的宝可梦！",
+    "index": 18
+  },
+  {
+    "key": "PT_0018_0019",
+    "original": "どのボックスに あずけますか？",
+    "translation": "要放在哪个盒子里？",
+    "index": 19
+  },
+  {
+    "key": "PT_0018_0020",
+    "original": "もちものなし",
+    "translation": "没有持有道具",
+    "index": 20
+  },
+  {
+    "key": "PT_0018_0021",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 21
+  },
+  {
+    "key": "PT_0018_0022",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 22
+  },
+  {
+    "key": "PT_0018_0023",
+    "original": "[0108,0000]を あずかりますか？",
+    "translation": "要收回[0108,0000]吗？",
+    "index": 23
+  },
+  {
+    "key": "PT_0018_0024",
+    "original": "メールをあずかることは できません！",
+    "translation": "无法存放邮件！",
+    "index": 24
+  },
+  {
+    "key": "PT_0018_0025",
+    "original": "[0108,0000]を どうしますか？",
+    "translation": "要对[0108,0000]做什么？",
+    "index": 25
+  },
+  {
+    "key": "PT_0018_0026",
+    "original": "[0108,0000]を しまいますか？",
+    "translation": "要收起[0108,0000]吗？",
+    "index": 26
+  },
+  {
+    "key": "PT_0018_0027",
+    "original": "[0108,0000]を バッグに いれた！",
+    "translation": "将[0108,0000]放进包包里了！",
+    "index": 27
+  },
+  {
+    "key": "PT_0018_0028",
+    "original": "どうぐを もたせますか？",
+    "translation": "要持有道具吗？",
+    "index": 28
+  },
+  {
+    "key": "PT_0018_0029",
+    "original": "ボールカプセルを はずしてください！",
+    "translation": "请取下球壳！",
+    "index": 29
+  },
+  {
+    "key": "PT_0018_0030",
+    "original": "メールを はずしてください！",
+    "translation": "请取下邮件！",
+    "index": 30
+  },
+  {
+    "key": "PT_0018_0031",
+    "original": "タマゴを にがすことは できません！",
+    "translation": "无法将蛋放生！",
+    "index": 31
+  },
+  {
+    "key": "PT_0018_0032",
+    "original": "[0101,0000]が もどってきちゃった！",
+    "translation": "[0101,0000]自己回来了！",
+    "index": 32
+  },
+  {
+    "key": "PT_0018_0033",
+    "original": "しんぱい だったのかな⋯⋯",
+    "translation": "是不是因为不放心呢……",
+    "index": 33
+  },
+  {
+    "key": "PT_0018_0034",
+    "original": "タマゴは どうぐを もてません！",
+    "translation": "蛋无法携带道具！",
+    "index": 34
+  },
+  {
+    "key": "PT_0018_0035",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 35
+  },
+  {
+    "key": "PT_0018_0036",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 36
+  },
+  {
+    "key": "PT_0018_0037",
+    "original": "Ｈ Ｐ",
+    "translation": "ＨＰ",
+    "index": 37
+  },
+  {
+    "key": "PT_0018_0038",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 38
+  },
+  {
+    "key": "PT_0018_0039",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 39
+  },
+  {
+    "key": "PT_0018_0040",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 40
+  },
+  {
+    "key": "PT_0018_0041",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 41
+  },
+  {
+    "key": "PT_0018_0042",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 42
+  },
+  {
+    "key": "PT_0018_0043",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 43
+  },
+  {
+    "key": "PT_0018_0044",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 44
+  },
+  {
+    "key": "PT_0018_0045",
+    "original": "[0108,0000]を もてない！",
+    "translation": "并没持有[0108,0000]！",
+    "index": 45
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "key": "HGSS_0238_0000",
+    "original": "ねえねえ！\\f\nしょうぶの まえや かったり\nまけたり したときの きもちとか\\f\nいちばんに なれたときの\nきもちとか おしえて くれない？\\f\n",
+    "translation": "喂喂！\\f\n对战之前，取胜后，\n失败后的心情，\\f\n还有成为第一时的心情是怎样的？\\f\n",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0238_0001",
+    "original": "じゃあ しょうぶの まえの\nきもちを おしえて！\\f\n",
+    "translation": "那么告诉我对战前的\n心情吧！\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0238_0002",
+    "original": "じゃあ かったときの きもちを\nおしえて！\\f\n",
+    "translation": "那么告诉我取胜后的\n心情吧！\\f\n",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0238_0003",
+    "original": "じゃあ まけたときの きもちを\nおしえて！\\f\n",
+    "translation": "那么告诉我失败后的\n心情吧！\\f\n",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0238_0004",
+    "original": "じゃあ いちばんに なったときの\nきもちを おしえて！\\f\n",
+    "translation": "那么告诉我成为第一\n后的心情吧！\\f\n",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0238_0005",
+    "original": "あれ？ おしえて くれないの？\nざんねん⋯⋯",
+    "translation": "哎？不告诉我吗？\n真遗憾……",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0238_0006",
+    "original": "ありがとう！\nほかにも おしえてくれる？",
+    "translation": "谢谢！\n其他也能告诉我吗？",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0238_0007",
+    "original": "わかったよ ありがとう！",
+    "translation": "明白了，谢谢！",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0238_0008",
+    "original": "わかったよ ありがとう！\nそうか [011C,0000] か⋯⋯",
+    "translation": "明白了，谢谢！\n是吗，[011C,0000]吗……",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0238_0009",
+    "original": "たたかうまえ",
+    "translation": "对战前",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0238_0010",
+    "original": "かったとき",
+    "translation": "取胜时",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0238_0011",
+    "original": "まけたとき",
+    "translation": "失败时",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0238_0012",
+    "original": "いちばんになった",
+    "translation": "成为第一时",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0238_0013",
+    "original": "おしえない",
+    "translation": "不告诉",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0238_0014",
+    "original": "はい",
+    "translation": "是",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0238_0015",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 15
+  }
+]

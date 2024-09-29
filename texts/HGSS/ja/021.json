@@ -1,0 +1,194 @@
+[
+  {
+    "key": "HGSS_0021_0000",
+    "original": "パフォーマンス",
+    "translation": "パフォーマンス",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0021_0001",
+    "original": "[0203,000B]つかう",
+    "translation": "[0203,000B]つかう",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0021_0002",
+    "original": "[0203,000B]もどる",
+    "translation": "[0203,000B]もどる",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0021_0003",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0021_0004",
+    "original": "Lv.[0134,0000]",
+    "translation": "Lv.[0134,0000]",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0021_0005",
+    "original": "パワー",
+    "translation": "パワー",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0021_0006",
+    "original": "スタミナ",
+    "translation": "スタミナ",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0021_0007",
+    "original": "テクニック",
+    "translation": "テクニック",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0021_0008",
+    "original": "ジャンプ",
+    "translation": "ジャンプ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0021_0009",
+    "original": "スピード",
+    "translation": "スピード",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0021_0010",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0021_0011",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0021_0012",
+    "original": "あじなしドリンクを つかった！",
+    "translation": "あじなしドリンクを つかった！",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0021_0013",
+    "original": "パワードリンクを つかった！",
+    "translation": "パワードリンクを つかった！",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0021_0014",
+    "original": "スタミナドリンクを つかった！",
+    "translation": "スタミナドリンクを つかった！",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0021_0015",
+    "original": "テクニックドリンクを つかった！",
+    "translation": "テクニックドリンクを つかった！",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0021_0016",
+    "original": "ジャンプドリンクを つかった！",
+    "translation": "ジャンプドリンクを つかった！",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0021_0017",
+    "original": "スピードドリンクを つかった！",
+    "translation": "スピードドリンクを つかった！",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0021_0018",
+    "original": "なにも かわらなかった\\f\n",
+    "translation": "なにも かわらなかった\\f\n",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0021_0019",
+    "original": "パワーパフォーマンスが あがった！\\f\n",
+    "translation": "パワーパフォーマンスが あがった！\\f\n",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0021_0020",
+    "original": "スタミナパフォーマンスが あがった！\\f\n",
+    "translation": "スタミナパフォーマンスが あがった！\\f\n",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0021_0021",
+    "original": "テクニックパフォーマンスが あがった！\\f\n",
+    "translation": "テクニックパフォーマンスが あがった！\\f\n",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0021_0022",
+    "original": "ジャンプパフォーマンスが あがった！\\f\n",
+    "translation": "ジャンプパフォーマンスが あがった！\\f\n",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0021_0023",
+    "original": "スピードパフォーマンスが あがった！\\f\n",
+    "translation": "スピードパフォーマンスが あがった！\\f\n",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0021_0024",
+    "original": "パワーパフォーマンスが さがった！\\f\n",
+    "translation": "パワーパフォーマンスが さがった！\\f\n",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0021_0025",
+    "original": "スタミナパフォーマンスが さがった！\\f\n",
+    "translation": "スタミナパフォーマンスが さがった！\\f\n",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0021_0026",
+    "original": "テクニックパフォーマンスが さがった！\\f\n",
+    "translation": "テクニックパフォーマンスが さがった！\\f\n",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0021_0027",
+    "original": "ジャンプパフォーマンスが さがった！\\f\n",
+    "translation": "ジャンプパフォーマンスが さがった！\\f\n",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0021_0028",
+    "original": "スピードパフォーマンスが さがった！\\f\n",
+    "translation": "スピードパフォーマンスが さがった！\\f\n",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0021_0029",
+    "original": "ジュースをあげるまえ",
+    "translation": "ジュースをあげるまえ",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0021_0030",
+    "original": "ジュースをあげたあと",
+    "translation": "ジュースをあげたあと",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0021_0031",
+    "original": "♢cond[0133,0000] rev[0133,0001] add[0133,0002] base[0133,0003]\n min[0133,0004] max[0133,0005] result[0133,0006]",
+    "translation": "♢cond[0133,0000] rev[0133,0001] add[0133,0002] base[0133,0003]\n min[0133,0004] max[0133,0005] result[0133,0006]",
+    "index": 31
+  }
+]

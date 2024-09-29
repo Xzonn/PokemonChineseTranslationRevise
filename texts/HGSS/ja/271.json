@@ -1,0 +1,62 @@
+[
+  {
+    "key": "HGSS_0271_0000",
+    "original": "[0401,0000]",
+    "translation": "[0401,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0271_0001",
+    "original": "オールスター",
+    "translation": "オールスター",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0271_0002",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0271_0003",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0271_0004",
+    "original": "パワー",
+    "translation": "パワー",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0271_0005",
+    "original": "スタミナ",
+    "translation": "スタミナ",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0271_0006",
+    "original": "テクニック",
+    "translation": "テクニック",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0271_0007",
+    "original": "ジャンプ",
+    "translation": "ジャンプ",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0271_0008",
+    "original": "スピード",
+    "translation": "スピード",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0271_0009",
+    "original": "[0100,0000]で\nとったメダル",
+    "translation": "[0100,0000]で\nとったメダル",
+    "index": 9
+  }
+]

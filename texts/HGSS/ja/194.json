@@ -1,0 +1,224 @@
+[
+  {
+    "key": "HGSS_0194_0000",
+    "original": "ずかん",
+    "translation": "ずかん",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0194_0001",
+    "original": "ポケモン",
+    "translation": "ポケモン",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0194_0002",
+    "original": "バッグ",
+    "translation": "バッグ",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0194_0003",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0194_0004",
+    "original": "レポート",
+    "translation": "レポート",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0194_0005",
+    "original": "せってい",
+    "translation": "せってい",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0194_0006",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0194_0007",
+    "original": "チャット",
+    "translation": "チャット",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0194_0008",
+    "original": "リタイア",
+    "translation": "リタイア",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0194_0009",
+    "original": "サファリボール",
+    "translation": "サファリボール",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0194_0010",
+    "original": "パークボール",
+    "translation": "パークボール",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0194_0011",
+    "original": "のこり [0133,0000]こ",
+    "translation": "のこり [0133,0000]こ",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0194_0012",
+    "original": "メニュー",
+    "translation": "メニュー",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0194_0013",
+    "original": "ボタンそうさ",
+    "translation": "ボタンそうさ",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0194_0014",
+    "original": "ポケギア",
+    "translation": "ポケギア",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0194_0015",
+    "original": "じてんしゃ",
+    "translation": "じてんしゃ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0194_0016",
+    "original": "ボロいつりざお",
+    "translation": "ボロいつりざお",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0194_0017",
+    "original": "はなす",
+    "translation": "はなす",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0194_0018",
+    "original": "しらべる",
+    "translation": "しらべる",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0194_0019",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0194_0020",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0194_0021",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0194_0022",
+    "original": "つり",
+    "translation": "つり",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0194_0023",
+    "original": "つぎへ",
+    "translation": "つぎへ",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0194_0024",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0194_0025",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0194_0026",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0194_0027",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0194_0028",
+    "original": "／",
+    "translation": "／",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0194_0029",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0194_0030",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0194_0031",
+    "original": "[0205]⊗[0133,0000]",
+    "translation": "[0205]⊗[0133,0000]",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0194_0032",
+    "original": "ボール",
+    "translation": "ボール",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0194_0033",
+    "original": "[0205]LV.[0134,0000]",
+    "translation": "[0205]LV.[0134,0000]",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0194_0034",
+    "original": "チャット",
+    "translation": "チャット",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0194_0035",
+    "original": "ログ",
+    "translation": "ログ",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0194_0036",
+    "original": "h[0137,0000] t[0134,0001]",
+    "translation": "h[0137,0000] t[0134,0001]",
+    "index": 36
+  }
+]

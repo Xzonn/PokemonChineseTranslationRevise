@@ -1,0 +1,176 @@
+[
+  {
+    "key": "HGSS_0262_0000",
+    "original": "ポケモンミュージック",
+    "translation": "宝可梦音乐",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0262_0001",
+    "original": "みんなで うたおう！",
+    "translation": "大家来唱歌！",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0262_0002",
+    "original": "ラッキーチャンネル６",
+    "translation": "幸运频道６",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0262_0003",
+    "original": "オーキドはかせの ポケモンこうざ",
+    "translation": "大木博士的宝可梦讲座",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0262_0004",
+    "original": "よくわかる ポケモンずかん",
+    "translation": "万事通宝可梦图鉴",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0262_0005",
+    "original": "あのまち このひと",
+    "translation": "那座城，这些人",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0262_0006",
+    "original": "あのまち このひと かいがいばん",
+    "translation": "那座城，这些人　海外版",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0262_0007",
+    "original": "ショッピング チャンネル",
+    "translation": "购物频道",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0262_0008",
+    "original": "なぞのでんぱ",
+    "translation": "谜之电波",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0262_0009",
+    "original": "ロケットだん せんげん",
+    "translation": "火箭队宣言",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0262_0010",
+    "original": "はかせにおまかせ！",
+    "translation": "交给博士吧！",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0262_0011",
+    "original": "セージ",
+    "translation": "靖史",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0262_0012",
+    "original": "ツゲ",
+    "translation": "阿植",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0262_0013",
+    "original": "クルミ",
+    "translation": "胡桃",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0262_0014",
+    "original": "リリス",
+    "translation": "莉莉丝",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0262_0015",
+    "original": "コージ",
+    "translation": "浩史",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0262_0016",
+    "original": "セージ『ポケモン ミュージック\nチャンネル！\nディージェイは セイジで ごじゃる",
+    "translation": "靖史：这里是宝可梦音乐频道！\n我是ＤＪ靖史。",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0262_0017",
+    "original": "コージ『ポケモン ミュージック\nチャンネル！\nディージェイは コウジで おおくりします",
+    "translation": "浩史：这里是宝可梦音乐频道！\n我是ＤＪ浩史。",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0262_0018",
+    "original": "きょうは [011C,0000] ということで\nポケモンたちも すやすや ねむる\nポケモンこもりうた！",
+    "translation": "今天是[011C,0000]，\n将播放宝可梦们也会呼呼大睡的\n宝可梦摇篮曲！",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0262_0019",
+    "original": "きょうは [011C,0000] ということで\nポケモンたちも げんきに なる\nポケモンマーチ！",
+    "translation": "今天是[011C,0000]，\n将播放让宝可梦们精神奕奕的\n宝可梦进行曲！",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0262_0020",
+    "original": "きょうは [011C,0000] ということで\nなつかしの あの めいきょくを\nおたのしみ ください",
+    "translation": "今天是[011C,0000]，\n请欣赏让人怀念的\n那首名曲吧。",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0262_0021",
+    "original": "",
+    "translation": "\\x0000",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0262_0022",
+    "original": "にちようび",
+    "translation": "星期日",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0262_0023",
+    "original": "げつようび",
+    "translation": "星期一",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0262_0024",
+    "original": "かようび",
+    "translation": "星期二",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0262_0025",
+    "original": "すいようび",
+    "translation": "星期三",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0262_0026",
+    "original": "もくようび",
+    "translation": "星期四",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0262_0027",
+    "original": "きんようび",
+    "translation": "星期五",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0262_0028",
+    "original": "どようび",
+    "translation": "星期六",
+    "index": 28
+  }
+]

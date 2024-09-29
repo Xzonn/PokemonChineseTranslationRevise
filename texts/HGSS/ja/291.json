@@ -1,0 +1,38 @@
+[
+  {
+    "key": "HGSS_0291_0000",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0291_0001",
+    "original": "てもち",
+    "translation": "てもち",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0291_0002",
+    "original": "この３ひきで いいですか？",
+    "translation": "この３ひきで いいですか？",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0291_0003",
+    "original": "このポケモンで いいですか？",
+    "translation": "このポケモンで いいですか？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0291_0004",
+    "original": "さんかを とりけしますか？",
+    "translation": "さんかを とりけしますか？",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0291_0005",
+    "original": "どのポケモンを つれていく？",
+    "translation": "どのポケモンを つれていく？",
+    "index": 5
+  }
+]

@@ -1,0 +1,2852 @@
+[
+  {
+    "key": "HGSS_0189_0000",
+    "original": "どく",
+    "translation": "中毒",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0189_0001",
+    "original": "まひ",
+    "translation": "麻痹",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0189_0002",
+    "original": "ねむり",
+    "translation": "睡眠",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0189_0003",
+    "original": "やけど",
+    "translation": "灼伤",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0189_0004",
+    "original": "こおり",
+    "translation": "冰冻",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0189_0005",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0189_0006",
+    "original": "シングルバトル",
+    "translation": "单打对战",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0189_0007",
+    "original": "ダブルバトル",
+    "translation": "双打对战",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0189_0008",
+    "original": "ミックスバトル",
+    "translation": "混合对战",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0189_0009",
+    "original": "マルチバトル",
+    "translation": "多人对战",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0189_0010",
+    "original": "フラットバトル",
+    "translation": "平等战斗",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0189_0011",
+    "original": "せつめいをきく",
+    "translation": "听说明",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0189_0012",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0189_0013",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0189_0014",
+    "original": "グループにはいる",
+    "translation": "加入群组",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0189_0015",
+    "original": "リーダーになる",
+    "translation": "成为组长",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0189_0016",
+    "original": "げんざいの フロア",
+    "translation": "现在的楼层",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0189_0017",
+    "original": "[0132,0000]かい",
+    "translation": "[0132,0000]楼",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0189_0018",
+    "original": "かっこよさ",
+    "translation": "帅气",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0189_0019",
+    "original": "うつくしさ",
+    "translation": "美丽",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0189_0020",
+    "original": "かわいさ",
+    "translation": "可爱",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0189_0021",
+    "original": "たくましさ",
+    "translation": "强壮",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0189_0022",
+    "original": "かしこさ",
+    "translation": "聪明",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0189_0023",
+    "original": "こうかん",
+    "translation": "交换",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0189_0024",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0189_0025",
+    "original": "ファンシーカップ",
+    "translation": "基础杯",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0189_0026",
+    "original": "イエローカップ",
+    "translation": "黄色杯",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0189_0027",
+    "original": "リトルカップ",
+    "translation": "新芽杯",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0189_0028",
+    "original": "ミドルカップ",
+    "translation": "中级杯",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0189_0029",
+    "original": "ヘビーカップ",
+    "translation": "高级杯",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0189_0030",
+    "original": "[011A,0000]カップ",
+    "translation": "[011A,0000]杯",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0189_0031",
+    "original": "[011A,0001]カップ",
+    "translation": "[011A,0001]杯",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0189_0032",
+    "original": "[011A,0002]カップ",
+    "translation": "[011A,0002]杯",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0189_0033",
+    "original": "[011A,0003]カップ",
+    "translation": "[011A,0003]杯",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0189_0034",
+    "original": "[011A,0004]カップ",
+    "translation": "[011A,0004]杯",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0189_0035",
+    "original": "あずかりシステム",
+    "translation": "寄放系统",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0189_0036",
+    "original": "でんどういり",
+    "translation": "登入名人堂",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0189_0037",
+    "original": "スイッチをきる",
+    "translation": "关闭电源",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0189_0038",
+    "original": "ふつうに たいせん",
+    "translation": "一般对战",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0189_0039",
+    "original": "ルールブックをつかう",
+    "translation": "使用规则书",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0189_0040",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0189_0041",
+    "original": "ルールをみる",
+    "translation": "确认规则",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0189_0042",
+    "original": "はい",
+    "translation": "是",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0189_0043",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0189_0044",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0189_0045",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0189_0046",
+    "original": "[0205]はい",
+    "translation": "[0205]是",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0189_0047",
+    "original": "[0205]いいえ",
+    "translation": "[0205]否",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0189_0048",
+    "original": "ほのお",
+    "translation": "火",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0189_0049",
+    "original": "みず",
+    "translation": "水",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0189_0050",
+    "original": "くさ",
+    "translation": "草",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0189_0051",
+    "original": "カード",
+    "translation": "卡片",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0189_0052",
+    "original": "たいせん",
+    "translation": "对战",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0189_0053",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0189_0054",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0189_0055",
+    "original": "[0103,0002]",
+    "translation": "[0103,0002]",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0189_0056",
+    "original": "[0103,0003]",
+    "translation": "[0103,0003]",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0189_0057",
+    "original": "ひりょうをまく",
+    "translation": "施肥",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0189_0058",
+    "original": "きのみをうめる",
+    "translation": "种树果",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0189_0059",
+    "original": "おえかき",
+    "translation": "画画",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0189_0060",
+    "original": " ",
+    "translation": "　",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0189_0061",
+    "original": "だれかのパソコン",
+    "translation": "某人的电脑",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0189_0062",
+    "original": "マサキのパソコン",
+    "translation": "正辉的电脑",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0189_0063",
+    "original": "[0103,0000]のパソコン",
+    "translation": "[0103,0000]的电脑",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0189_0064",
+    "original": "でんどういり",
+    "translation": "登入名人堂",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0189_0065",
+    "original": "フォトアルバム",
+    "translation": "相册",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0189_0066",
+    "original": "スイッチを きる",
+    "translation": "关闭电源",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0189_0067",
+    "original": "ポケモンを\nあずける",
+    "translation": "存放宝可梦",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0189_0068",
+    "original": "ポケモンを\nつれていく",
+    "translation": "取出宝可梦",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0189_0069",
+    "original": "ボックスを\nせいりする",
+    "translation": "整理盒子",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0189_0070",
+    "original": "もちものを\nせいりする",
+    "translation": "整理携带物品",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0189_0071",
+    "original": "つよさ くらべ",
+    "translation": "比较能力",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0189_0072",
+    "original": "さようなら",
+    "translation": "再见",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0189_0073",
+    "original": "メールボックス",
+    "translation": "邮箱",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0189_0074",
+    "original": "ボールカプセル",
+    "translation": "球壳",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0189_0075",
+    "original": "せつぞくを きる",
+    "translation": "切断连接",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0189_0076",
+    "original": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "translation": "把身上的宝可梦存放在盒子里",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0189_0077",
+    "original": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "translation": "把存放在盒子里的宝可梦带在身上",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0189_0078",
+    "original": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "translation": "整理盒子或者身上的宝可梦",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0189_0079",
+    "original": "ポケモンが もっている どうぐを\nせいり できます",
+    "translation": "整理宝可梦带着的道具",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0189_0080",
+    "original": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "translation": "比较盒子或者身上宝可梦的能力",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0189_0081",
+    "original": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "translation": "切断连接寄存宝可梦的程序",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0189_0082",
+    "original": "メールを ２０つう まで\nほぞん することが できます",
+    "translation": "可以保存２０封邮件",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0189_0083",
+    "original": "ボールカプセルの\nセットや へんしゅうが できます",
+    "translation": "可以设置或修改球壳",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0189_0084",
+    "original": "じぶんのパソコン への つうしんを\nせつだん します",
+    "translation": "切断与电脑的连接",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0189_0085",
+    "original": "きねんに さつえいした しゃしんを\nみることが できます",
+    "translation": "可以查看纪念照片",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0189_0086",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0189_0087",
+    "original": "ないようを よむ",
+    "translation": "阅读内容",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0189_0088",
+    "original": "バッグに もどす",
+    "translation": "返回包包",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0189_0089",
+    "original": "ポケモンに もたせる",
+    "translation": "让宝可梦携带",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0189_0090",
+    "original": "あずける",
+    "translation": "寄放",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0189_0091",
+    "original": "とりだす",
+    "translation": "取出",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0189_0092",
+    "original": "さんかする",
+    "translation": "参加",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0189_0093",
+    "original": "せつめいをきく",
+    "translation": "听说明",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0189_0094",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0189_0095",
+    "original": "またのさんかを\nおまちしております",
+    "translation": "欢迎再次参加",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0189_0096",
+    "original": "コンテストのきほん",
+    "translation": "华丽大赛的基本",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0189_0097",
+    "original": "コンテストのしゅるい",
+    "translation": "华丽大赛的种类",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0189_0098",
+    "original": "ランクについて",
+    "translation": "关于级别",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0189_0099",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0189_0100",
+    "original": "コンテストとは？",
+    "translation": "华丽大赛是什么？",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0189_0101",
+    "original": "ビジュアルぶもん",
+    "translation": "视觉方面",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0189_0102",
+    "original": "ダンスぶもん",
+    "translation": "舞蹈部",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0189_0103",
+    "original": "えんぎぶもん",
+    "translation": "表演部",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0189_0104",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0189_0105",
+    "original": "ノーマルランク",
+    "translation": "普通级",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0189_0106",
+    "original": "グレートランク",
+    "translation": "高手级",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0189_0107",
+    "original": "ウルトラランク",
+    "translation": "究极级",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0189_0108",
+    "original": "マスターランク",
+    "translation": "大师级",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0189_0109",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0189_0110",
+    "original": "かっこよさコンテスト",
+    "translation": "帅气华丽大赛",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0189_0111",
+    "original": "うつくしさコンテスト",
+    "translation": "美丽华丽大赛",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0189_0112",
+    "original": "かわいさコンテスト",
+    "translation": "可爱华丽大赛",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0189_0113",
+    "original": "かしこさコンテスト",
+    "translation": "聪明华丽大赛",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0189_0114",
+    "original": "たくましさコンテスト",
+    "translation": "强壮华丽大赛",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0189_0115",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0189_0116",
+    "original": "１かい",
+    "translation": "１楼",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0189_0117",
+    "original": "２かい",
+    "translation": "２楼",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0189_0118",
+    "original": "３かい",
+    "translation": "３楼",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0189_0119",
+    "original": "４かい",
+    "translation": "４楼",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0189_0120",
+    "original": "５かい",
+    "translation": "５楼",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0189_0121",
+    "original": "６かい",
+    "translation": "６楼",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0189_0122",
+    "original": "ちか１かい",
+    "translation": "地下１楼",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0189_0123",
+    "original": "ちか２かい",
+    "translation": "地下２楼",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0189_0124",
+    "original": "てんぼうしつ",
+    "translation": "展望室",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0189_0125",
+    "original": "おくじょう",
+    "translation": "楼顶",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0189_0126",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0189_0127",
+    "original": "５０まい[0203,003C]１０００¥   ",
+    "translation": "５０枚　[0203,003C]$１０００　　　",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0189_0128",
+    "original": "５００まい[0203,003C]１００００¥  ",
+    "translation": "５００枚　[0203,003C]$１００００　　",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0189_0129",
+    "original": "いらない ",
+    "translation": "不需要　",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0189_0130",
+    "original": "せつめいを きく",
+    "translation": "听说明",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0189_0131",
+    "original": "こうかんを する",
+    "translation": "交换",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0189_0132",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0189_0133",
+    "original": "ポケモンをあずけるって？",
+    "translation": "什么是存放宝可梦？",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0189_0134",
+    "original": "ポケモンをさがすって？",
+    "translation": "什么是搜索宝可梦？",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0189_0135",
+    "original": "もうわかった！",
+    "translation": "明白了！",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0189_0136",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0189_0137",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0189_0138",
+    "original": "やめる             ",
+    "translation": "取消　　　　　　　　　　　　　　",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0189_0139",
+    "original": "みぎ",
+    "translation": "右",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0189_0140",
+    "original": "ひだり",
+    "translation": "左",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0189_0141",
+    "original": "ぐるぐる",
+    "translation": "转圈圈",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0189_0142",
+    "original": "レコード",
+    "translation": "记录",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0189_0143",
+    "original": "ちょうせんする",
+    "translation": "挑战",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0189_0144",
+    "original": "せつめいをきく",
+    "translation": "听说明",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0189_0145",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0189_0146",
+    "original": "シングル",
+    "translation": "单打",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0189_0147",
+    "original": "ダブル",
+    "translation": "双打",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0189_0148",
+    "original": "つづける",
+    "translation": "继续",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0189_0149",
+    "original": "やすむ",
+    "translation": "休息",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0189_0150",
+    "original": "リタイア",
+    "translation": "退出",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0189_0151",
+    "original": "リーダーになる",
+    "translation": "成为组长",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0189_0152",
+    "original": "グループにはいる",
+    "translation": "加入群组",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0189_0153",
+    "original": "れきだいリーダー\nをみる",
+    "translation": "查看历代领队",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0189_0154",
+    "original": "まえのへやに\nちょうせんする",
+    "translation": "挑战前面的房间",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0189_0155",
+    "original": "れきだいリーダーをみる",
+    "translation": "查看历代领队",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0189_0156",
+    "original": "ともだちを とうろくするには？",
+    "translation": "怎样添加朋友？",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0189_0157",
+    "original": "もう わかった！",
+    "translation": "我知道了！",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0189_0158",
+    "original": "もういっかい おしえて！",
+    "translation": "再讲一次！",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0189_0159",
+    "original": "ひみつのコハク",
+    "translation": "秘密琥珀",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0189_0160",
+    "original": "かいのカセキ",
+    "translation": "贝壳化石",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0189_0161",
+    "original": "こうらのカセキ",
+    "translation": "甲壳化石",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0189_0162",
+    "original": "ねっこのカセキ",
+    "translation": "根状化石",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0189_0163",
+    "original": "ツメのカセキ",
+    "translation": "爪子化石",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0189_0164",
+    "original": "たてのカセキ",
+    "translation": "盾甲化石",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0189_0165",
+    "original": "ずがいのカセキ",
+    "translation": "头盖化石",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0189_0166",
+    "original": "ふたりで たいせん",
+    "translation": "双人对战",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0189_0167",
+    "original": "４にんで たいせん",
+    "translation": "４人对战",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0189_0168",
+    "original": "あいさつ",
+    "translation": "打招呼",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0189_0169",
+    "original": "おはなしする",
+    "translation": "聊天",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0189_0170",
+    "original": "チャット",
+    "translation": "闲谈",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0189_0171",
+    "original": "[0108,0000][0203,0060][0136,0001]",
+    "translation": "[0108,0000][0203,0060][0136,0001]",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0189_0172",
+    "original": "いらない            ",
+    "translation": "不需要　　　　　　　　　　　　",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0189_0173",
+    "original": "わざマシン２４   ４０００まい ",
+    "translation": "招式学习器２４　　　４０００枚　",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0189_0174",
+    "original": "わざマシン３０   ４５００まい ",
+    "translation": "招式学习器３０　　　４５００枚　",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0189_0175",
+    "original": "わざマシン３５   ４０００まい ",
+    "translation": "招式学习器３５　　　４０００枚　",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0189_0176",
+    "original": "いらない",
+    "translation": "不需要",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0189_0177",
+    "original": "みぎ",
+    "translation": "右",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0189_0178",
+    "original": "ひだり",
+    "translation": "左",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0189_0179",
+    "original": "ビジュアル",
+    "translation": "视觉",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0189_0180",
+    "original": "ダンス",
+    "translation": "舞蹈",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0189_0181",
+    "original": "えんぎ",
+    "translation": "演技",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0189_0182",
+    "original": "れんしゅうって？",
+    "translation": "什么是练习？",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0189_0183",
+    "original": "ハタ",
+    "translation": "旗",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0189_0184",
+    "original": "タマ",
+    "translation": "玉",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0189_0185",
+    "original": "トラップ",
+    "translation": "陷阱",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0189_0186",
+    "original": "グッズ",
+    "translation": "物品",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0189_0187",
+    "original": "たから",
+    "translation": "宝物",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0189_0188",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "挑战前面的房间",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0189_0189",
+    "original": "あかいかけら",
+    "translation": "红色碎片",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0189_0190",
+    "original": "あおいかけら",
+    "translation": "蓝色碎片",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0189_0191",
+    "original": "きいろいかけら",
+    "translation": "黄色碎片",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0189_0192",
+    "original": "みどりのかけら",
+    "translation": "绿色碎片",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0189_0193",
+    "original": "[0136,0000]まい",
+    "translation": "[0136,0000]枚",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0189_0194",
+    "original": "きほんルール",
+    "translation": "基本规则",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0189_0195",
+    "original": "ほかくショー",
+    "translation": "抓捕展览",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0189_0196",
+    "original": "あずけかた",
+    "translation": "寄存方式",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0189_0197",
+    "original": "あずけかた２",
+    "translation": "寄存方式２",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0189_0198",
+    "original": "もうわかった！",
+    "translation": "明白了！",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0189_0199",
+    "original": "さんか する",
+    "translation": "参加",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0189_0200",
+    "original": "せつめいを きく",
+    "translation": "听说明",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0189_0201",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0189_0202",
+    "original": "ポケモンをえらぶ",
+    "translation": "选择宝可梦",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0189_0203",
+    "original": "せつめい",
+    "translation": "说明",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0189_0204",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0189_0205",
+    "original": "あかいかけら",
+    "translation": "红色碎片",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0189_0206",
+    "original": "あおいかけら",
+    "translation": "蓝色碎片",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0189_0207",
+    "original": "きいろいかけら",
+    "translation": "黄色碎片",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0189_0208",
+    "original": "みどりのかけら",
+    "translation": "绿色碎片",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0189_0209",
+    "original": "おいしいみず[0203,0050]２００¥",
+    "translation": "美味之水[0203,0050]$２００　　",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0189_0210",
+    "original": "サイコソーダ[0203,0050]３００¥",
+    "translation": "劲爽汽水[0203,0050]$３００　　",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0189_0211",
+    "original": "ミックスオレ[0203,0050]３５０¥",
+    "translation": "果汁牛奶[0203,0050]$３５０　　",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0189_0212",
+    "original": "いらない         ",
+    "translation": "不需要　　　　　　　　　",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0189_0213",
+    "original": "すくすくこやし[0203,005A]\n２００¥",
+    "translation": "速速肥[0203,005A]\n$２００　　　",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0189_0214",
+    "original": "じめじめこやし[0203,005A]\n２００¥",
+    "translation": "湿湿肥[0203,005A]\n$２００　　　",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0189_0215",
+    "original": "ながながこやし[0203,005A]\n２００¥",
+    "translation": "久久肥[0203,005A]\n$２００　　　",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0189_0216",
+    "original": "ねばねばこやし[0203,005A]\n２００¥",
+    "translation": "粘粘肥[0203,005A]\n$２００　　　",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0189_0217",
+    "original": "やめる            ",
+    "translation": "取消　　　　　　　　　　　　　",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0189_0218",
+    "original": "なんでもない",
+    "translation": "什么都没有",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0189_0219",
+    "original": "おすすめは？",
+    "translation": "有什么推荐的？",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0189_0220",
+    "original": "[0135,0000]ＢＰ",
+    "translation": "[0135,0000]ＢＰ",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0189_0221",
+    "original": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "translation": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0189_0222",
+    "original": "いらない            ",
+    "translation": "不需要　　　　　　　　　　　　",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0189_0223",
+    "original": "[0136,0000]Ｐ",
+    "translation": "[0136,0000]Ｐ",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0189_0224",
+    "original": "デジタルどけい",
+    "translation": "数字时钟",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0189_0225",
+    "original": "ストップウォッチ",
+    "translation": "秒表",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0189_0226",
+    "original": "けいさんき",
+    "translation": "计算器",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0189_0227",
+    "original": "メモようし",
+    "translation": "便签",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0189_0228",
+    "original": "アナログどけい",
+    "translation": "模拟时钟",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0189_0229",
+    "original": "ドットアート",
+    "translation": "像素画",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0189_0230",
+    "original": "ポケモンリスト",
+    "translation": "宝可梦列表",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0189_0231",
+    "original": "なつきチェッカー",
+    "translation": "亲密度检测器",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0189_0232",
+    "original": "ダウジングマシン",
+    "translation": "探宝器",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0189_0233",
+    "original": "カウンター",
+    "translation": "计数器",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0189_0234",
+    "original": "ほすうカウンター",
+    "translation": "步数计",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0189_0235",
+    "original": "そだてやチェッカー",
+    "translation": "培育屋检测器",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0189_0236",
+    "original": "ルーレット",
+    "translation": "轮盘",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0189_0237",
+    "original": "コイントス",
+    "translation": "掷硬币",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0189_0238",
+    "original": "わざこうかチェッカー",
+    "translation": "招式效果检测器",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0189_0239",
+    "original": "あいしょうチェッカー",
+    "translation": "契合度检测器",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0189_0240",
+    "original": "アラームどけい",
+    "translation": "闹钟",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0189_0241",
+    "original": "キッチンタイマー",
+    "translation": "计时器",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0189_0242",
+    "original": "マーキングマップ",
+    "translation": "标记地图",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0189_0243",
+    "original": "きのみサーチャー",
+    "translation": "树果搜索",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0189_0244",
+    "original": "カラーチェンジャー",
+    "translation": "变色器",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0189_0245",
+    "original": "カレンダー",
+    "translation": "日历",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0189_0246",
+    "original": "つうしんサーチャー",
+    "translation": "连接搜索器",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0189_0247",
+    "original": "ポケトレカウンター",
+    "translation": "宝可追踪计数器",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0189_0248",
+    "original": "ポケモンヒストリー",
+    "translation": "宝可梦履历",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0189_0249",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0189_0250",
+    "original": "その１",
+    "translation": "其一",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0189_0251",
+    "original": "その２",
+    "translation": "其二",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0189_0252",
+    "original": "その３",
+    "translation": "其三",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0189_0253",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0189_0254",
+    "original": "ダークボール",
+    "translation": "黑暗球",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0189_0255",
+    "original": "ヒールボール",
+    "translation": "治愈球",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0189_0256",
+    "original": "クイックボール",
+    "translation": "先机球",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0189_0257",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0189_0258",
+    "original": "ダイブボール",
+    "translation": "潜水球",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0189_0259",
+    "original": "うちゅうのはじまり",
+    "translation": "宇宙的起源",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0189_0260",
+    "original": "しんわのポケモン",
+    "translation": "神话的宝可梦",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0189_0261",
+    "original": "あかいくさり",
+    "translation": "红色锁链",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0189_0262",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0189_0263",
+    "original": "きろくする",
+    "translation": "记录",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0189_0264",
+    "original": "あかいかけら",
+    "translation": "红色碎片",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0189_0265",
+    "original": "あおいかけら",
+    "translation": "蓝色碎片",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0189_0266",
+    "original": "きいろいかけら",
+    "translation": "黄色碎片",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0189_0267",
+    "original": "みどりのかけら",
+    "translation": "绿色碎片",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0189_0268",
+    "original": "[0134,0000]こ",
+    "translation": "[0134,0000]个",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0189_0269",
+    "original": "１こ",
+    "translation": "１个",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0189_0270",
+    "original": "１０こ",
+    "translation": "１０个",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0189_0271",
+    "original": "さんかする",
+    "translation": "参加",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0189_0272",
+    "original": "ポケスロンとは",
+    "translation": "宝可全能竞技赛是？",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0189_0273",
+    "original": "スピードコース",
+    "translation": "速度竞技",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0189_0274",
+    "original": "パワーコース",
+    "translation": "力量竞技",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0189_0275",
+    "original": "スタミナコース",
+    "translation": "耐力竞技",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0189_0276",
+    "original": "ジャンプコース",
+    "translation": "跳跃竞技",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0189_0277",
+    "original": "テクニックコース",
+    "translation": "技巧竞技",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0189_0278",
+    "original": "オールスターとは",
+    "translation": "全明星是什么",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0189_0279",
+    "original": "F.マスターコース",
+    "translation": "F.大师竞技",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0189_0280",
+    "original": "なかま",
+    "translation": "伙伴",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0189_0281",
+    "original": "てした",
+    "translation": "手下",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0189_0282",
+    "original": "ともだち",
+    "translation": "朋友",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0189_0283",
+    "original": "さくせん",
+    "translation": "作战",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0189_0284",
+    "original": "いくせい",
+    "translation": "育成",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0189_0285",
+    "original": "インチキ",
+    "translation": "欺骗",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0189_0286",
+    "original": "よわいひと",
+    "translation": "弱者",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0189_0287",
+    "original": "つよいひと",
+    "translation": "坚强的人",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0189_0288",
+    "original": "だれとでも",
+    "translation": "谁都可以",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0189_0289",
+    "original": "あいじょう",
+    "translation": "热爱",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0189_0290",
+    "original": "ぼうりょく",
+    "translation": "暴力",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0189_0291",
+    "original": "ちしき",
+    "translation": "知识",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0189_0292",
+    "original": "つよいほう",
+    "translation": "强的一方",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0189_0293",
+    "original": "どっちも",
+    "translation": "两者兼顾",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0189_0294",
+    "original": "よわいほう",
+    "translation": "弱的一方",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0189_0295",
+    "original": "しゃしんをとる",
+    "translation": "拍照",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0189_0296",
+    "original": "きょうぎについて",
+    "translation": "关于竞技",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0189_0297",
+    "original": "おにいさんについて",
+    "translation": "关于哥哥",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0189_0298",
+    "original": "ダッシュハードル",
+    "translation": "跨栏冲刺",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0189_0299",
+    "original": "スティールフラッグ",
+    "translation": "旗帜争夺",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0189_0300",
+    "original": "プッシュサークル",
+    "translation": "推挤抢位",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0189_0301",
+    "original": "ブレイクブロック",
+    "translation": "徒手劈砖",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0189_0302",
+    "original": "キャッチソーサー",
+    "translation": "接盘子",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0189_0303",
+    "original": "バウンドフィールド",
+    "translation": "弹跳摸灯",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0189_0304",
+    "original": "チェンジリレー",
+    "translation": "越野接力",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0189_0305",
+    "original": "リングアウトファイト",
+    "translation": "擂台碰撞",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0189_0306",
+    "original": "シューティングスノー",
+    "translation": "雪球投掷",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0189_0307",
+    "original": "スマッシュゴール",
+    "translation": "足球射门",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0189_0308",
+    "original": "スピードコース",
+    "translation": "速度竞技",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0189_0309",
+    "original": "パワーコース",
+    "translation": "力量竞技",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0189_0310",
+    "original": "テクニックコース",
+    "translation": "技巧竞技",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0189_0311",
+    "original": "スタミナコース",
+    "translation": "耐力竞技",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0189_0312",
+    "original": "ジャンプコース",
+    "translation": "跳跃竞技",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0189_0313",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0189_0314",
+    "original": "わざマシン１４\nコイン ５５００まい",
+    "translation": "招式学习器１４\n５５００枚硬币",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0189_0315",
+    "original": "わざマシン２５\nコイン ５５００まい",
+    "translation": "招式学习器２５\n５５００枚硬币",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0189_0316",
+    "original": "わざマシン３８\nコイン ５５００まい",
+    "translation": "招式学习器３８\n５５００枚硬币",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0189_0317",
+    "original": "ケーシィ\nコイン ２００まい",
+    "translation": "凯西\n２００枚硬币",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0189_0318",
+    "original": "アーボ\nコイン ７００まい",
+    "translation": "阿柏蛇\n７００枚硬币",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0189_0319",
+    "original": "サンド\nコイン ７００まい",
+    "translation": "穿山鼠\n７００枚硬币",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0189_0320",
+    "original": "ミニリュウ\nコイン ２１００まい",
+    "translation": "迷你龙\n２１００枚硬币",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0189_0321",
+    "original": "かいに きた",
+    "translation": "购买",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0189_0322",
+    "original": "うりに きた",
+    "translation": "出售",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0189_0323",
+    "original": "なんでも ないです",
+    "translation": "什么也不需要",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0189_0324",
+    "original": "せつめいを きく",
+    "translation": "听说明",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0189_0325",
+    "original": "けいひん こうかん",
+    "translation": "兑换奖品",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0189_0326",
+    "original": "ボンドリンクって？",
+    "translation": "运动饮料是什么？",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0189_0327",
+    "original": "ボンドリンクのコツ！",
+    "translation": "运动饮料的要点！",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0189_0328",
+    "original": "かう",
+    "translation": "购买",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0189_0329",
+    "original": "ラベルを みる",
+    "translation": "查看说明",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0189_0330",
+    "original": "あずけている きんがく",
+    "translation": "存放的金额",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0189_0331",
+    "original": "もっている きんがく",
+    "translation": "持有的金额",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0189_0332",
+    "original": "[0137,0000]¥",
+    "translation": "$[0137,0000]",
+    "index": 332
+  },
+  {
+    "key": "HGSS_0189_0333",
+    "original": "Ａ このグループに はいる",
+    "translation": "Ａ　加入这个团队",
+    "index": 333
+  },
+  {
+    "key": "HGSS_0189_0334",
+    "original": "Ｂ やめる",
+    "translation": "Ｂ　放弃",
+    "index": 334
+  },
+  {
+    "key": "HGSS_0189_0335",
+    "original": "Ｂ メンバーから ぬける",
+    "translation": "Ｂ　从成员中退出",
+    "index": 335
+  },
+  {
+    "key": "HGSS_0189_0336",
+    "original": "Ａ このメンバーで はじめる",
+    "translation": "Ａ　以这个成员开始",
+    "index": 336
+  },
+  {
+    "key": "HGSS_0189_0337",
+    "original": "おかねで かう",
+    "translation": "用钱来买",
+    "index": 337
+  },
+  {
+    "key": "HGSS_0189_0338",
+    "original": "ポイントで かう",
+    "translation": "用点数来买",
+    "index": 338
+  },
+  {
+    "key": "HGSS_0189_0339",
+    "original": "おいしいみず[0203,0050]５０ポイント",
+    "translation": "美味之水[0203,0050]５０点",
+    "index": 339
+  },
+  {
+    "key": "HGSS_0189_0340",
+    "original": "サイコソーダ[0203,0050]８０ポイント",
+    "translation": "劲爽汽水[0203,0050]８０点",
+    "index": 340
+  },
+  {
+    "key": "HGSS_0189_0341",
+    "original": "ミックスオレ[0203,0050]１００ポイント",
+    "translation": "果汁牛奶[0203,0050]１００点",
+    "index": 341
+  },
+  {
+    "key": "HGSS_0189_0342",
+    "original": "A.スピード＆\n ジャンプコース",
+    "translation": "A.速度＆\n　跳跃竞技",
+    "index": 342
+  },
+  {
+    "key": "HGSS_0189_0343",
+    "original": "B.ジャンプ＆\n テクニックコース",
+    "translation": "B.跳跃＆\n　技巧竞技",
+    "index": 343
+  },
+  {
+    "key": "HGSS_0189_0344",
+    "original": "C.テクニック＆\n パワーコース",
+    "translation": "C.技巧＆\n　力量竞技",
+    "index": 344
+  },
+  {
+    "key": "HGSS_0189_0345",
+    "original": "D.パワー＆\n スタミナコース",
+    "translation": "D.力量＆\n　耐力竞技",
+    "index": 345
+  },
+  {
+    "key": "HGSS_0189_0346",
+    "original": "E.スタミナ＆\n スピードコース",
+    "translation": "E.耐力＆\n　速度竞技",
+    "index": 346
+  },
+  {
+    "key": "HGSS_0189_0347",
+    "original": "そだてる\nどうぐ その１",
+    "translation": "培育道具１",
+    "index": 347
+  },
+  {
+    "key": "HGSS_0189_0348",
+    "original": "そだてる\nどうぐ その２",
+    "translation": "培育道具２",
+    "index": 348
+  },
+  {
+    "key": "HGSS_0189_0349",
+    "original": "たたかいの\nどうぐ その１",
+    "translation": "战斗道具１",
+    "index": 349
+  },
+  {
+    "key": "HGSS_0189_0350",
+    "original": "たたかいの\nどうぐ その２",
+    "translation": "战斗道具２",
+    "index": 350
+  },
+  {
+    "key": "HGSS_0189_0351",
+    "original": "ぶつり わざ",
+    "translation": "物理招式",
+    "index": 351
+  },
+  {
+    "key": "HGSS_0189_0352",
+    "original": "とくしゅ わざ",
+    "translation": "特殊招式",
+    "index": 352
+  },
+  {
+    "key": "HGSS_0189_0353",
+    "original": "へんか わざ",
+    "translation": "变化招式",
+    "index": 353
+  },
+  {
+    "key": "HGSS_0189_0354",
+    "original": "タウリン\n１BP",
+    "translation": "攻击增强剂\n１BP",
+    "index": 354
+  },
+  {
+    "key": "HGSS_0189_0355",
+    "original": "リゾチウム\n１BP",
+    "translation": "特攻增强剂\n１BP",
+    "index": 355
+  },
+  {
+    "key": "HGSS_0189_0356",
+    "original": "ブロムヘキシン\n１BP",
+    "translation": "防御增强剂\n１BP",
+    "index": 356
+  },
+  {
+    "key": "HGSS_0189_0357",
+    "original": "キトサン\n１BP",
+    "translation": "特防增强剂\n１BP",
+    "index": 357
+  },
+  {
+    "key": "HGSS_0189_0358",
+    "original": "インドメタシン\n１BP",
+    "translation": "速度增强剂\n１BP",
+    "index": 358
+  },
+  {
+    "key": "HGSS_0189_0359",
+    "original": "マックスアップ\n１BP",
+    "translation": "ＨＰ增强剂\n１BP",
+    "index": 359
+  },
+  {
+    "key": "HGSS_0189_0360",
+    "original": "パワーリスト\n１６BP",
+    "translation": "力量护腕\n１６BP",
+    "index": 360
+  },
+  {
+    "key": "HGSS_0189_0361",
+    "original": "パワーベルト\n１６BP",
+    "translation": "力量腰带\n１６BP",
+    "index": 361
+  },
+  {
+    "key": "HGSS_0189_0362",
+    "original": "パワーレンズ\n１６BP",
+    "translation": "力量镜\n１６BP",
+    "index": 362
+  },
+  {
+    "key": "HGSS_0189_0363",
+    "original": "パワーバンド\n１６BP",
+    "translation": "力量束带\n１６BP",
+    "index": 363
+  },
+  {
+    "key": "HGSS_0189_0364",
+    "original": "パワーアンクル\n１６BP",
+    "translation": "力量护踝\n１６BP",
+    "index": 364
+  },
+  {
+    "key": "HGSS_0189_0365",
+    "original": "パワーウエイト\n１６BP",
+    "translation": "力量负重\n１６BP",
+    "index": 365
+  },
+  {
+    "key": "HGSS_0189_0366",
+    "original": "どくどくだま\n１６BP",
+    "translation": "剧毒宝珠\n１６BP",
+    "index": 366
+  },
+  {
+    "key": "HGSS_0189_0367",
+    "original": "かえんだま\n１６BP",
+    "translation": "火焰宝珠\n１６BP",
+    "index": 367
+  },
+  {
+    "key": "HGSS_0189_0368",
+    "original": "しろいハーブ\n３２BP",
+    "translation": "白色香草\n３２BP",
+    "index": 368
+  },
+  {
+    "key": "HGSS_0189_0369",
+    "original": "パワフルハーブ\n３２BP",
+    "translation": "强力香草\n３２BP",
+    "index": 369
+  },
+  {
+    "key": "HGSS_0189_0370",
+    "original": "ひかりのこな\n４８BP",
+    "translation": "光粉\n４８BP",
+    "index": 370
+  },
+  {
+    "key": "HGSS_0189_0371",
+    "original": "こだわりハチマキ\n４８BP",
+    "translation": "讲究头带\n４８BP",
+    "index": 371
+  },
+  {
+    "key": "HGSS_0189_0372",
+    "original": "きあいのハチマキ\n４８BP",
+    "translation": "气势头带\n４８BP",
+    "index": 372
+  },
+  {
+    "key": "HGSS_0189_0373",
+    "original": "ピントレンズ\n４８BP",
+    "translation": "焦点镜\n４８BP",
+    "index": 373
+  },
+  {
+    "key": "HGSS_0189_0374",
+    "original": "ちからのハチマキ\n４８BP",
+    "translation": "力量头带\n４８BP",
+    "index": 374
+  },
+  {
+    "key": "HGSS_0189_0375",
+    "original": "きあいのタスキ\n４８BP",
+    "translation": "气势披带\n４８BP",
+    "index": 375
+  },
+  {
+    "key": "HGSS_0189_0376",
+    "original": "こだわりスカーフ\n４８BP",
+    "translation": "讲究围巾\n４８BP",
+    "index": 376
+  },
+  {
+    "key": "HGSS_0189_0377",
+    "original": "するどいツメ\n４８BP",
+    "translation": "锐利之爪\n４８BP",
+    "index": 377
+  },
+  {
+    "key": "HGSS_0189_0378",
+    "original": "するどいキバ\n４８BP",
+    "translation": "锐利之牙\n４８BP",
+    "index": 378
+  },
+  {
+    "key": "HGSS_0189_0379",
+    "original": "ふしぎなアメ\n４８BP",
+    "translation": "神奇糖果\n４８BP",
+    "index": 379
+  },
+  {
+    "key": "HGSS_0189_0380",
+    "original": "つばめがえし\n４０BP",
+    "translation": "燕返\n４０BP",
+    "index": 380
+  },
+  {
+    "key": "HGSS_0189_0381",
+    "original": "かわらわり\n４０BP",
+    "translation": "劈瓦\n４０BP",
+    "index": 381
+  },
+  {
+    "key": "HGSS_0189_0382",
+    "original": "とんぼがえり\n４０BP",
+    "translation": "急速折返\n４０BP",
+    "index": 382
+  },
+  {
+    "key": "HGSS_0189_0383",
+    "original": "シザークロス\n６４BP",
+    "translation": "十字剪\n６４BP",
+    "index": 383
+  },
+  {
+    "key": "HGSS_0189_0384",
+    "original": "ストーンエッジ\n８０BP",
+    "translation": "尖石攻击\n８０BP",
+    "index": 384
+  },
+  {
+    "key": "HGSS_0189_0385",
+    "original": "じしん\n８０BP",
+    "translation": "地震\n８０BP",
+    "index": 385
+  },
+  {
+    "key": "HGSS_0189_0386",
+    "original": "シャドーボール\n６４BP",
+    "translation": "暗影球\n６４BP",
+    "index": 386
+  },
+  {
+    "key": "HGSS_0189_0387",
+    "original": "エナジーボール\n６４BP",
+    "translation": "能量球\n６４BP",
+    "index": 387
+  },
+  {
+    "key": "HGSS_0189_0388",
+    "original": "ヘドロばくだん\n８０BP",
+    "translation": "污泥炸弹\n８０BP",
+    "index": 388
+  },
+  {
+    "key": "HGSS_0189_0389",
+    "original": "りゅうのはどう\n８０BP",
+    "translation": "龙之波动\n８０BP",
+    "index": 389
+  },
+  {
+    "key": "HGSS_0189_0390",
+    "original": "どくどく\n３２BP",
+    "translation": "剧毒\n３２BP",
+    "index": 390
+  },
+  {
+    "key": "HGSS_0189_0391",
+    "original": "でんじは\n３２BP",
+    "translation": "电磁波\n３２BP",
+    "index": 391
+  },
+  {
+    "key": "HGSS_0189_0392",
+    "original": "おにび\n３２BP",
+    "translation": "磷火\n３２BP",
+    "index": 392
+  },
+  {
+    "key": "HGSS_0189_0393",
+    "original": "メロメロ\n３２BP",
+    "translation": "迷人\n３２BP",
+    "index": 393
+  },
+  {
+    "key": "HGSS_0189_0394",
+    "original": "ビルドアップ\n４８BP",
+    "translation": "健美\n４８BP",
+    "index": 394
+  },
+  {
+    "key": "HGSS_0189_0395",
+    "original": "めいそう\n４８BP",
+    "translation": "冥想\n４８BP",
+    "index": 395
+  },
+  {
+    "key": "HGSS_0189_0396",
+    "original": "ポケモン １ひきの こうげきの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n攻击基础点数。",
+    "index": 396
+  },
+  {
+    "key": "HGSS_0189_0397",
+    "original": "ポケモン １ひきの とくこうの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n特攻基础点数。",
+    "index": 397
+  },
+  {
+    "key": "HGSS_0189_0398",
+    "original": "ポケモン １ひきの ぼうぎょの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n防御基础点数。",
+    "index": 398
+  },
+  {
+    "key": "HGSS_0189_0399",
+    "original": "ポケモン １ひきの とくぼうの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n特防基础点数。",
+    "index": 399
+  },
+  {
+    "key": "HGSS_0189_0400",
+    "original": "ポケモン １ひきの すばやさの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n速度基础点数。",
+    "index": 400
+  },
+  {
+    "key": "HGSS_0189_0401",
+    "original": "ポケモン １ひきの HPの\nきそポイントを あげます",
+    "translation": "提升１只宝可梦\n点ＨＰ基础点数",
+    "index": 401
+  },
+  {
+    "key": "HGSS_0189_0402",
+    "original": "あたえると ポケモン １ひきの\nレベルが １だけ あがります",
+    "translation": "使１只宝可梦的等级提升１。",
+    "index": 402
+  },
+  {
+    "key": "HGSS_0189_0403",
+    "original": "もたせると すばやさが さがりますが\nこうげきが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但攻击会比平时成长得更高。",
+    "index": 403
+  },
+  {
+    "key": "HGSS_0189_0404",
+    "original": "もたせると すばやさが さがりますが\nぼうぎょが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但防御会比平时成长得更高。",
+    "index": 404
+  },
+  {
+    "key": "HGSS_0189_0405",
+    "original": "もたせると すばやさが さがりますが\nとくこうが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但特攻会比平时成长得更高。",
+    "index": 405
+  },
+  {
+    "key": "HGSS_0189_0406",
+    "original": "もたせると すばやさが さがりますが\nとくぼうが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但特防会比平时成长得更高。",
+    "index": 406
+  },
+  {
+    "key": "HGSS_0189_0407",
+    "original": "もたせると すばやさが さがりますが\nすばやさが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但速度会比平时成长得更高。",
+    "index": 407
+  },
+  {
+    "key": "HGSS_0189_0408",
+    "original": "もたせると すばやさが さがりますが\nHPが そだちやすく なります",
+    "translation": "携带后速度会降低，\n但ＨＰ会比平时成长得更高。",
+    "index": 408
+  },
+  {
+    "key": "HGSS_0189_0409",
+    "original": "もたせると せんとうちゅうに\nもうどくの じょうたいに なります",
+    "translation": "携带后在战斗中变为剧毒状态。",
+    "index": 409
+  },
+  {
+    "key": "HGSS_0189_0410",
+    "original": "もたせると せんとうちゅうに\nやけどの じょうたいに なります",
+    "translation": "携带后在战斗中变为灼伤状态。",
+    "index": 410
+  },
+  {
+    "key": "HGSS_0189_0411",
+    "original": "ポケモンの のうりょくが さがったとき\nいちどだけ もとに もどします",
+    "translation": "携带后宝可梦的能力\n下降时可还原一次。",
+    "index": 411
+  },
+  {
+    "key": "HGSS_0189_0412",
+    "original": "いちどだけ １ターンめに ためる\nわざを すぐに つかうことが できます",
+    "translation": "携带后需要１回合蓄力\n时间的招式可立刻发动。",
+    "index": 412
+  },
+  {
+    "key": "HGSS_0189_0413",
+    "original": "あいての わざが じぶんに\nめいちゅう しにくく なります",
+    "translation": "携带后用光迷惑对手，\n使对手招式命中下降。",
+    "index": 413
+  },
+  {
+    "key": "HGSS_0189_0414",
+    "original": "もたせると こうげきは あがりますが\nおなじ わざしか だせなく なります",
+    "translation": "携带后招式威力会提高，\n但只能使出相同的招式。",
+    "index": 414
+  },
+  {
+    "key": "HGSS_0189_0415",
+    "original": "ひんしになる わざを うけても\nHP１で たえることが あります",
+    "translation": "携带后即便受到导致昏厥的招式，\n有时也能仅以１ＨＰ撑过去。",
+    "index": 415
+  },
+  {
+    "key": "HGSS_0189_0416",
+    "original": "もたせた ポケモンの わざが\nきゅうしょに あたりやすく なります",
+    "translation": "携带它的宝可梦的招式\n会变得容易击中要害。",
+    "index": 416
+  },
+  {
+    "key": "HGSS_0189_0417",
+    "original": "もたせると ぶつりわざの\nいりょくが すこし あがります",
+    "translation": "携带后物理招式的威力\n就会少量提高。",
+    "index": 417
+  },
+  {
+    "key": "HGSS_0189_0418",
+    "original": "HPが まんたんから たおれそうに\nなっても いちどだけ HP１で たえます",
+    "translation": "携带后在ＨＰ全满时受到致命攻击，\n也能仅以１ＨＰ撑过去一次。",
+    "index": 418
+  },
+  {
+    "key": "HGSS_0189_0419",
+    "original": "もたせると すばやさが あがりますが\nおなじ わざしか だせなく なります",
+    "translation": "携带后速度会提高，\n但只能使出相同的招式。",
+    "index": 419
+  },
+  {
+    "key": "HGSS_0189_0420",
+    "original": "もたせると わざが きゅうしょに\nあたりやすく なります",
+    "translation": "携带后招式会变得\n容易击中要害。",
+    "index": 420
+  },
+  {
+    "key": "HGSS_0189_0421",
+    "original": "もたせると ダメージを あたえたとき\nひるませることが あります",
+    "translation": "携带后在给予伤害时，\n有时会让对手畏缩。",
+    "index": 421
+  },
+  {
+    "key": "HGSS_0189_0422",
+    "original": "すばやく こうげきし かならず\nあいてに めいちゅうします",
+    "translation": "以敏捷的动作戏弄对手后进行切斩。\n攻击必定会命中。",
+    "index": 422
+  },
+  {
+    "key": "HGSS_0189_0423",
+    "original": "こうげきと どうじに ひかりのかべや\nリフレクターも はかいできます",
+    "translation": "将手刀猛烈地挥下攻击对手。\n还可以破坏光墙和反射壁等。",
+    "index": 423
+  },
+  {
+    "key": "HGSS_0189_0424",
+    "original": "あいてを こうげきした あとに\nひかえの ポケモンと いれかわります",
+    "translation": "在攻击之后急速返回，\n和后备宝可梦进行替换。",
+    "index": 424
+  },
+  {
+    "key": "HGSS_0189_0425",
+    "original": "カマや ツメを ハサミのように\nこうさ させながら こうげきします",
+    "translation": "将镰刀或爪子像剪刀般地交叉，\n顺势劈开对手。",
+    "index": 425
+  },
+  {
+    "key": "HGSS_0189_0426",
+    "original": "とがった がんせきで こうげきします\nきゅうしょに あたりやすい わざです",
+    "translation": "从下方突出尖锐的岩石。\n容易击中要害。",
+    "index": 426
+  },
+  {
+    "key": "HGSS_0189_0427",
+    "original": "たたかっている ポケモン すべてに\nじしんの しょうげきで こうげきします",
+    "translation": "利用地震的冲击，\n攻击自己周围所有的宝可梦。",
+    "index": 427
+  },
+  {
+    "key": "HGSS_0189_0428",
+    "original": "くろい かげで こうげきし あいての\nとくぼうを さげることが あります",
+    "translation": "投掷一团黑影进行攻击。\n有时会降低对手的特防。",
+    "index": 428
+  },
+  {
+    "key": "HGSS_0189_0429",
+    "original": "エネルギーで こうげきし あいての\nとくぼうを さげることが あります",
+    "translation": "发射从自然收集的生命力量。\n有时会降低对手的特防。",
+    "index": 429
+  },
+  {
+    "key": "HGSS_0189_0430",
+    "original": "ヘドロで こうげきし あいてを どくの\nじょうたいに することが あります",
+    "translation": "用污泥投掷对手进行攻击。\n有时会让对手陷入中毒状态。",
+    "index": 430
+  },
+  {
+    "key": "HGSS_0189_0431",
+    "original": "おおきな くちから しょうげきはを\nはなって こうげきします",
+    "translation": "从大大的口中\n掀起冲击波攻击对手。",
+    "index": 431
+  },
+  {
+    "key": "HGSS_0189_0432",
+    "original": "きょうりょくな どくで あいてを\nもうどくの じょうたいに します ",
+    "translation": "让对手陷入剧毒状态。\n随着回合的推进，中毒伤害会增加。",
+    "index": 432
+  },
+  {
+    "key": "HGSS_0189_0433",
+    "original": "よわい でんきを あびせることで\nあいてを まひじょうたいに します",
+    "translation": "向对手发出微弱的电击，\n从而让对手陷入麻痹状态。",
+    "index": 433
+  },
+  {
+    "key": "HGSS_0189_0434",
+    "original": "あおじろい ほのおで あいてを\nやけどの じょうたいに します",
+    "translation": "放出怪异的火焰，\n从而让对手陷入灼伤状态。",
+    "index": 434
+  },
+  {
+    "key": "HGSS_0189_0435",
+    "original": "㊚なら㊛を ㊛なら㊚を メロメロにして\nあいての わざを だしにくく します",
+    "translation": "♂诱惑♀或♀诱惑♂，让对手着迷。\n对手将很难使出招式。",
+    "index": 435
+  },
+  {
+    "key": "HGSS_0189_0436",
+    "original": "ちからを こめて じぶんの\nこうげきと ぼうぎょを あげます",
+    "translation": "使出全身力气绷紧肌肉，\n从而提高自己的攻击和防御。",
+    "index": 436
+  },
+  {
+    "key": "HGSS_0189_0437",
+    "original": "せいしんを とういつして じぶんの\nとくこうと とくぼうを あげます",
+    "translation": "静心凝神，\n从而提高自己的特攻和特防。",
+    "index": 437
+  },
+  {
+    "key": "HGSS_0189_0438",
+    "original": "しゅるいの せんたくに もどります",
+    "translation": "返回选择种类",
+    "index": 438
+  },
+  {
+    "key": "HGSS_0189_0439",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 439
+  },
+  {
+    "key": "HGSS_0189_0440",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 440
+  },
+  {
+    "key": "HGSS_0189_0441",
+    "original": "はい",
+    "translation": "是",
+    "index": 441
+  },
+  {
+    "key": "HGSS_0189_0442",
+    "original": "どうぐの せつめいを きく",
+    "translation": "听取道具的说明",
+    "index": 442
+  },
+  {
+    "key": "HGSS_0189_0443",
+    "original": "わざの せつめいを きく",
+    "translation": "听取招式的说明",
+    "index": 443
+  },
+  {
+    "key": "HGSS_0189_0444",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 444
+  },
+  {
+    "key": "HGSS_0189_0445",
+    "original": "きんのたま\n４５００¥",
+    "translation": "金珠\n$４５００",
+    "index": 445
+  },
+  {
+    "key": "HGSS_0189_0446",
+    "original": "しんじゅ\n６５０¥",
+    "translation": "珍珠\n$６５０",
+    "index": 446
+  },
+  {
+    "key": "HGSS_0189_0447",
+    "original": "おおきなしんじゅ\n３５００¥",
+    "translation": "大珍珠\n$３５００",
+    "index": 447
+  },
+  {
+    "key": "HGSS_0189_0448",
+    "original": "ほしのすな\n９００¥",
+    "translation": "星星沙子\n$９００",
+    "index": 448
+  },
+  {
+    "key": "HGSS_0189_0449",
+    "original": "ほしのかけら\n４６００¥",
+    "translation": "星星碎片\n$４６００",
+    "index": 449
+  },
+  {
+    "key": "HGSS_0189_0450",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 450
+  },
+  {
+    "key": "HGSS_0189_0451",
+    "original": "バトル\nフロンティアとは",
+    "translation": "什么是\n对战开拓区",
+    "index": 451
+  },
+  {
+    "key": "HGSS_0189_0452",
+    "original": "きほんの\nルールについて",
+    "translation": "关于基本规则",
+    "index": 452
+  },
+  {
+    "key": "HGSS_0189_0453",
+    "original": "バトル\nポイントとは",
+    "translation": "什么是\n对战点数",
+    "index": 453
+  },
+  {
+    "key": "HGSS_0189_0454",
+    "original": "BPひきかえ\nコーナーとは",
+    "translation": "什么是\nＢＰ兑换中心",
+    "index": 454
+  },
+  {
+    "key": "HGSS_0189_0455",
+    "original": "せいせき\nモニターとは",
+    "translation": "什么是\n成绩显示器",
+    "index": 455
+  },
+  {
+    "key": "HGSS_0189_0456",
+    "original": "おわる",
+    "translation": "结束",
+    "index": 456
+  },
+  {
+    "key": "HGSS_0189_0457",
+    "original": "エリアカスタム\nとは",
+    "translation": "定制区域是什么",
+    "index": 457
+  },
+  {
+    "key": "HGSS_0189_0458",
+    "original": "エリアカスタムの\nはじめかた",
+    "translation": "定制区域的\n开始方法",
+    "index": 458
+  },
+  {
+    "key": "HGSS_0189_0459",
+    "original": "エリアの\nとりかえかた",
+    "translation": "区域的交换方法",
+    "index": 459
+  },
+  {
+    "key": "HGSS_0189_0460",
+    "original": "エリアの\nならびかえかた",
+    "translation": "区域的替换方法",
+    "index": 460
+  },
+  {
+    "key": "HGSS_0189_0461",
+    "original": "ポケモンの\nしゅつげん",
+    "translation": "宝可梦的出现",
+    "index": 461
+  },
+  {
+    "key": "HGSS_0189_0462",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 462
+  },
+  {
+    "key": "HGSS_0189_0463",
+    "original": "ブロックとは",
+    "translation": "区块是什么",
+    "index": 463
+  },
+  {
+    "key": "HGSS_0189_0464",
+    "original": "ブロックの\nはいちほうほう",
+    "translation": "区块的配置方法",
+    "index": 464
+  },
+  {
+    "key": "HGSS_0189_0465",
+    "original": "ブロックの\nとりのぞきかた",
+    "translation": "区块的撤除方法",
+    "index": 465
+  },
+  {
+    "key": "HGSS_0189_0466",
+    "original": "ブロックの\nしゅるい",
+    "translation": "区块的种类",
+    "index": 466
+  },
+  {
+    "key": "HGSS_0189_0467",
+    "original": "ポケモンの\nしゅつげん",
+    "translation": "宝可梦的出现",
+    "index": 467
+  },
+  {
+    "key": "HGSS_0189_0468",
+    "original": "ブロックの\nクリア",
+    "translation": "区块的清除",
+    "index": 468
+  },
+  {
+    "key": "HGSS_0189_0469",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 469
+  },
+  {
+    "key": "HGSS_0189_0470",
+    "original": "つちの かわきが はやくなるが\nきのみの そだちも はやくなる",
+    "translation": "泥土会加速干燥，\n树果的成长速度加快。",
+    "index": 470
+  },
+  {
+    "key": "HGSS_0189_0471",
+    "original": "きのみが おちるまでの じかんが\nふだんより ながくなる",
+    "translation": "泥土会减慢干燥，\n树果的成长速度减慢。",
+    "index": 471
+  },
+  {
+    "key": "HGSS_0189_0472",
+    "original": "つちの かわきが おそくなるが\nきのみの そだちも おそくなる",
+    "translation": "泥土会减慢干燥，\n树果的成熟时间变长。",
+    "index": 472
+  },
+  {
+    "key": "HGSS_0189_0473",
+    "original": "かれたあとに あたらしい めが\nでてくる かいすうが ふえる",
+    "translation": "树果枯萎后\n长出新芽的次数增加。",
+    "index": 473
+  },
+  {
+    "key": "HGSS_0189_0474",
+    "original": "かうのを やめる",
+    "translation": "放弃购买",
+    "index": 474
+  }
+]

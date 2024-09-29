@@ -1,0 +1,230 @@
+[
+  {
+    "key": "DP_0278_0000",
+    "original": "あいしょう",
+    "translation": "相性",
+    "index": 0
+  },
+  {
+    "key": "DP_0278_0001",
+    "original": "いちばん",
+    "translation": "最",
+    "index": 1
+  },
+  {
+    "key": "DP_0278_0002",
+    "original": "かくご",
+    "translation": "过去",
+    "index": 2
+  },
+  {
+    "key": "DP_0278_0003",
+    "original": "かち",
+    "translation": "获胜",
+    "index": 3
+  },
+  {
+    "key": "DP_0278_0004",
+    "original": "かなわない",
+    "translation": "不敌",
+    "index": 4
+  },
+  {
+    "key": "DP_0278_0005",
+    "original": "きあい",
+    "translation": "劲头",
+    "index": 5
+  },
+  {
+    "key": "DP_0278_0006",
+    "original": "きりふだ",
+    "translation": "王牌",
+    "index": 6
+  },
+  {
+    "key": "DP_0278_0007",
+    "original": "こい！",
+    "translation": "来吧！",
+    "index": 7
+  },
+  {
+    "key": "DP_0278_0008",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 8
+  },
+  {
+    "key": "DP_0278_0009",
+    "original": "こうさん",
+    "translation": "认输",
+    "index": 9
+  },
+  {
+    "key": "DP_0278_0010",
+    "original": "こんじょう",
+    "translation": "毅力",
+    "index": 10
+  },
+  {
+    "key": "DP_0278_0011",
+    "original": "さいのう",
+    "translation": "才能",
+    "index": 11
+  },
+  {
+    "key": "DP_0278_0012",
+    "original": "さくせん",
+    "translation": "作战",
+    "index": 12
+  },
+  {
+    "key": "DP_0278_0013",
+    "original": "しょうぶ",
+    "translation": "胜负",
+    "index": 13
+  },
+  {
+    "key": "DP_0278_0014",
+    "original": "しょうり",
+    "translation": "胜利",
+    "index": 14
+  },
+  {
+    "key": "DP_0278_0015",
+    "original": "センス",
+    "translation": "品位",
+    "index": 15
+  },
+  {
+    "key": "DP_0278_0016",
+    "original": "たいせん",
+    "translation": "对战",
+    "index": 16
+  },
+  {
+    "key": "DP_0278_0017",
+    "original": "たたかい",
+    "translation": "战斗",
+    "index": 17
+  },
+  {
+    "key": "DP_0278_0018",
+    "original": "ちから",
+    "translation": "力量",
+    "index": 18
+  },
+  {
+    "key": "DP_0278_0019",
+    "original": "チャレンジ",
+    "translation": "挑战",
+    "index": 19
+  },
+  {
+    "key": "DP_0278_0020",
+    "original": "つよい",
+    "translation": "强大",
+    "index": 20
+  },
+  {
+    "key": "DP_0278_0021",
+    "original": "てかげん",
+    "translation": "手下留情",
+    "index": 21
+  },
+  {
+    "key": "DP_0278_0022",
+    "original": "てき",
+    "translation": "敌人",
+    "index": 22
+  },
+  {
+    "key": "DP_0278_0023",
+    "original": "てんさい",
+    "translation": "天才",
+    "index": 23
+  },
+  {
+    "key": "DP_0278_0024",
+    "original": "でんせつ",
+    "translation": "传说",
+    "index": 24
+  },
+  {
+    "key": "DP_0278_0025",
+    "original": "バトル",
+    "translation": "对决",
+    "index": 25
+  },
+  {
+    "key": "DP_0278_0026",
+    "original": "ファイト",
+    "translation": "热斗",
+    "index": 26
+  },
+  {
+    "key": "DP_0278_0027",
+    "original": "ふっかつ",
+    "translation": "复活",
+    "index": 27
+  },
+  {
+    "key": "DP_0278_0028",
+    "original": "ポイント",
+    "translation": "重点",
+    "index": 28
+  },
+  {
+    "key": "DP_0278_0029",
+    "original": "ほんき",
+    "translation": "真正实力",
+    "index": 29
+  },
+  {
+    "key": "DP_0278_0030",
+    "original": "まけ",
+    "translation": "失败",
+    "index": 30
+  },
+  {
+    "key": "DP_0278_0031",
+    "original": "みかた",
+    "translation": "战友",
+    "index": 31
+  },
+  {
+    "key": "DP_0278_0032",
+    "original": "むてき",
+    "translation": "无敌",
+    "index": 32
+  },
+  {
+    "key": "DP_0278_0033",
+    "original": "よゆう",
+    "translation": "轻松",
+    "index": 33
+  },
+  {
+    "key": "DP_0278_0034",
+    "original": "よわい",
+    "translation": "弱小",
+    "index": 34
+  },
+  {
+    "key": "DP_0278_0035",
+    "original": "らくしょう",
+    "translation": "轻松获胜",
+    "index": 35
+  },
+  {
+    "key": "DP_0278_0036",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 36
+  },
+  {
+    "key": "DP_0278_0037",
+    "original": "トレーナー",
+    "translation": "训练家",
+    "index": 37
+  }
+]

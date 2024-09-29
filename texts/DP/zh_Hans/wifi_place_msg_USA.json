@@ -1,0 +1,314 @@
+[
+  {
+    "key": "DP_0785_0000",
+    "original": "なし",
+    "translation": "无",
+    "index": 0
+  },
+  {
+    "key": "DP_0785_0001",
+    "original": "アラバマ",
+    "translation": "亚拉巴马",
+    "index": 1
+  },
+  {
+    "key": "DP_0785_0002",
+    "original": "アラスカ",
+    "translation": "阿拉斯加",
+    "index": 2
+  },
+  {
+    "key": "DP_0785_0003",
+    "original": "アリゾナ",
+    "translation": "亚利桑那",
+    "index": 3
+  },
+  {
+    "key": "DP_0785_0004",
+    "original": "アーカンソー",
+    "translation": "阿肯色",
+    "index": 4
+  },
+  {
+    "key": "DP_0785_0005",
+    "original": "カリフォルニア",
+    "translation": "加利福尼亚",
+    "index": 5
+  },
+  {
+    "key": "DP_0785_0006",
+    "original": "コロラド",
+    "translation": "科罗拉多",
+    "index": 6
+  },
+  {
+    "key": "DP_0785_0007",
+    "original": "コネチカット",
+    "translation": "康涅狄格",
+    "index": 7
+  },
+  {
+    "key": "DP_0785_0008",
+    "original": "デラウェア",
+    "translation": "特拉华",
+    "index": 8
+  },
+  {
+    "key": "DP_0785_0009",
+    "original": "フロリダ",
+    "translation": "佛罗里达",
+    "index": 9
+  },
+  {
+    "key": "DP_0785_0010",
+    "original": "ジョージア",
+    "translation": "佐治亚",
+    "index": 10
+  },
+  {
+    "key": "DP_0785_0011",
+    "original": "ハワイ",
+    "translation": "夏威夷",
+    "index": 11
+  },
+  {
+    "key": "DP_0785_0012",
+    "original": "アイダホ",
+    "translation": "艾奥瓦",
+    "index": 12
+  },
+  {
+    "key": "DP_0785_0013",
+    "original": "イリノイ",
+    "translation": "爱达荷",
+    "index": 13
+  },
+  {
+    "key": "DP_0785_0014",
+    "original": "インディアナ",
+    "translation": "伊利诺伊",
+    "index": 14
+  },
+  {
+    "key": "DP_0785_0015",
+    "original": "アイオワ",
+    "translation": "印第安纳",
+    "index": 15
+  },
+  {
+    "key": "DP_0785_0016",
+    "original": "カンザス",
+    "translation": "堪萨斯",
+    "index": 16
+  },
+  {
+    "key": "DP_0785_0017",
+    "original": "ケンタッキー",
+    "translation": "肯塔基",
+    "index": 17
+  },
+  {
+    "key": "DP_0785_0018",
+    "original": "ルイジアナ",
+    "translation": "路易斯安那",
+    "index": 18
+  },
+  {
+    "key": "DP_0785_0019",
+    "original": "メイン",
+    "translation": "缅因",
+    "index": 19
+  },
+  {
+    "key": "DP_0785_0020",
+    "original": "メリーランド",
+    "translation": "马里兰",
+    "index": 20
+  },
+  {
+    "key": "DP_0785_0021",
+    "original": "マサチューセッツ",
+    "translation": "马萨诸塞",
+    "index": 21
+  },
+  {
+    "key": "DP_0785_0022",
+    "original": "ミシガン",
+    "translation": "密歇根",
+    "index": 22
+  },
+  {
+    "key": "DP_0785_0023",
+    "original": "ミネソタ",
+    "translation": "明尼苏达",
+    "index": 23
+  },
+  {
+    "key": "DP_0785_0024",
+    "original": "ミシシッピ",
+    "translation": "密西西比",
+    "index": 24
+  },
+  {
+    "key": "DP_0785_0025",
+    "original": "ミズーリ",
+    "translation": "密苏里",
+    "index": 25
+  },
+  {
+    "key": "DP_0785_0026",
+    "original": "モンタナ",
+    "translation": "蒙大拿",
+    "index": 26
+  },
+  {
+    "key": "DP_0785_0027",
+    "original": "ネブラスカ",
+    "translation": "内布拉斯加",
+    "index": 27
+  },
+  {
+    "key": "DP_0785_0028",
+    "original": "ネバダ",
+    "translation": "内华达",
+    "index": 28
+  },
+  {
+    "key": "DP_0785_0029",
+    "original": "ニューハンプシャー",
+    "translation": "新罕布什尔",
+    "index": 29
+  },
+  {
+    "key": "DP_0785_0030",
+    "original": "ニュージャージー",
+    "translation": "新泽西",
+    "index": 30
+  },
+  {
+    "key": "DP_0785_0031",
+    "original": "ニューメキシコ",
+    "translation": "新墨西哥",
+    "index": 31
+  },
+  {
+    "key": "DP_0785_0032",
+    "original": "ニューヨーク",
+    "translation": "纽约",
+    "index": 32
+  },
+  {
+    "key": "DP_0785_0033",
+    "original": "ノースカロライナ",
+    "translation": "北卡罗来纳",
+    "index": 33
+  },
+  {
+    "key": "DP_0785_0034",
+    "original": "ノースダコタ",
+    "translation": "北达科他",
+    "index": 34
+  },
+  {
+    "key": "DP_0785_0035",
+    "original": "オハイオ",
+    "translation": "俄亥俄",
+    "index": 35
+  },
+  {
+    "key": "DP_0785_0036",
+    "original": "オクラホマ",
+    "translation": "俄克拉荷马",
+    "index": 36
+  },
+  {
+    "key": "DP_0785_0037",
+    "original": "オレゴン",
+    "translation": "俄勒冈",
+    "index": 37
+  },
+  {
+    "key": "DP_0785_0038",
+    "original": "ペンシルバニア",
+    "translation": "宾夕法尼亚",
+    "index": 38
+  },
+  {
+    "key": "DP_0785_0039",
+    "original": "ロードアイランド",
+    "translation": "罗得岛",
+    "index": 39
+  },
+  {
+    "key": "DP_0785_0040",
+    "original": "サウスカロライナ",
+    "translation": "南卡罗来纳",
+    "index": 40
+  },
+  {
+    "key": "DP_0785_0041",
+    "original": "サウスダコタ",
+    "translation": "南达科他",
+    "index": 41
+  },
+  {
+    "key": "DP_0785_0042",
+    "original": "テネシー",
+    "translation": "田纳西",
+    "index": 42
+  },
+  {
+    "key": "DP_0785_0043",
+    "original": "テキサス",
+    "translation": "得克萨斯",
+    "index": 43
+  },
+  {
+    "key": "DP_0785_0044",
+    "original": "ユタ",
+    "translation": "犹他",
+    "index": 44
+  },
+  {
+    "key": "DP_0785_0045",
+    "original": "バーモント",
+    "translation": "佛蒙特",
+    "index": 45
+  },
+  {
+    "key": "DP_0785_0046",
+    "original": "バージニア",
+    "translation": "弗吉尼亚",
+    "index": 46
+  },
+  {
+    "key": "DP_0785_0047",
+    "original": "ワシントン",
+    "translation": "华盛顿",
+    "index": 47
+  },
+  {
+    "key": "DP_0785_0048",
+    "original": "ワシントンＤ．Ｃ．",
+    "translation": "华盛顿特区",
+    "index": 48
+  },
+  {
+    "key": "DP_0785_0049",
+    "original": "ウェストバージニア",
+    "translation": "西维吉尼亚",
+    "index": 49
+  },
+  {
+    "key": "DP_0785_0050",
+    "original": "ウィスコンシン",
+    "translation": "威斯康星",
+    "index": 50
+  },
+  {
+    "key": "DP_0785_0051",
+    "original": "ワイオミング",
+    "translation": "怀俄明",
+    "index": 51
+  }
+]

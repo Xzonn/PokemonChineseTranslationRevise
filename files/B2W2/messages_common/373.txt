@@ -1,2 +1,0 @@
-0	请按下ＳＴＡＲＴ按键
-1	PUSH　START　BUTTON

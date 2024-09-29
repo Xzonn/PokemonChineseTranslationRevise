@@ -1,0 +1,806 @@
+[
+  {
+    "key": "HGSS_0020_0000",
+    "original": "ぼんぐりケース",
+    "translation": "ぼんぐりケース",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0020_0001",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0020_0002",
+    "original": "つかう",
+    "translation": "つかう",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0020_0003",
+    "original": "あじみ",
+    "translation": "あじみ",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0020_0004",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0020_0005",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0020_0006",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0020_0007",
+    "original": "あかぼんぐり",
+    "translation": "あかぼんぐり",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0020_0008",
+    "original": "きぼんぐり",
+    "translation": "きぼんぐり",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0020_0009",
+    "original": "あおぼんぐり",
+    "translation": "あおぼんぐり",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0020_0010",
+    "original": "みどぼんぐり",
+    "translation": "みどぼんぐり",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0020_0011",
+    "original": "ももぼんぐり",
+    "translation": "ももぼんぐり",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0020_0012",
+    "original": "しろぼんぐり",
+    "translation": "しろぼんぐり",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0020_0013",
+    "original": "くろぼんぐり",
+    "translation": "くろぼんぐり",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0020_0014",
+    "original": "タケ",
+    "translation": "タケ",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0020_0015",
+    "original": "リサ",
+    "translation": "リサ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0020_0016",
+    "original": "ギルモア",
+    "translation": "ギルモア",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0020_0017",
+    "original": "ユキ",
+    "translation": "ユキ",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0020_0018",
+    "original": "ヒデ",
+    "translation": "ヒデ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0020_0019",
+    "original": "あじなしドリンク",
+    "translation": "あじなしドリンク",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0020_0020",
+    "original": "パワードリンク",
+    "translation": "パワードリンク",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0020_0021",
+    "original": "スタミナドリンク",
+    "translation": "スタミナドリンク",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0020_0022",
+    "original": "テクニックドリンク",
+    "translation": "テクニックドリンク",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0020_0023",
+    "original": "ジャンプドリンク",
+    "translation": "ジャンプドリンク",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0020_0024",
+    "original": "スピードドリンク",
+    "translation": "スピードドリンク",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0020_0025",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0020_0026",
+    "original": "こ",
+    "translation": "こ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0020_0027",
+    "original": "あつめた ぼんぐりが はいってる",
+    "translation": "あつめた ぼんぐりが はいってる",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0020_0028",
+    "original": "ぼんぐりを シェイカーに いれられます",
+    "translation": "ぼんぐりを シェイカーに いれられます",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0020_0029",
+    "original": "まだ シェイクが たりなそう⋯",
+    "translation": "まだ シェイクが たりなそう⋯",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0020_0030",
+    "original": "そろそろ ドリンクが できそう⋯",
+    "translation": "そろそろ ドリンクが できそう⋯",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0020_0031",
+    "original": "もうすこしで ドリンクに なりそう！",
+    "translation": "もうすこしで ドリンクに なりそう！",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0020_0032",
+    "original": "ボンドリンクが できています",
+    "translation": "ボンドリンクが できています",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0020_0033",
+    "original": "あと [0132,0000]こ はいります",
+    "translation": "あと [0132,0000]こ はいります",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0020_0034",
+    "original": "ぼんぐりは もう はいりません",
+    "translation": "ぼんぐりは もう はいりません",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0020_0035",
+    "original": "ボンドリンクを どうしますか？",
+    "translation": "ボンドリンクを どうしますか？",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0020_0036",
+    "original": "ボンドリンクを ちょっと なめた！",
+    "translation": "ボンドリンクを ちょっと なめた！",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0020_0037",
+    "original": "わたす ぼんぐりを えらんでください",
+    "translation": "わたす ぼんぐりを えらんでください",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0020_0038",
+    "original": "いくつ わたしますか？",
+    "translation": "いくつ わたしますか？",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0020_0039",
+    "original": "[0108,0000]を [0133,0001]こで いいですか？",
+    "translation": "[0108,0000]を [0133,0001]こで いいですか？",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0020_0040",
+    "original": "あかぼんぐり\nあかいろの ぼんぐり\nつーんと はなにくる かおりがする",
+    "translation": "あかぼんぐり\nあかいろの ぼんぐり\nつーんと はなにくる かおりがする",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0020_0041",
+    "original": "きぼんぐり\nきいろの ぼんぐり\nさわやかな かおりがする",
+    "translation": "きぼんぐり\nきいろの ぼんぐり\nさわやかな かおりがする",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0020_0042",
+    "original": "あおぼんぐり\nあおいろの ぼんぐり\nすこし あおくさい かおりがする",
+    "translation": "あおぼんぐり\nあおいろの ぼんぐり\nすこし あおくさい かおりがする",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0020_0043",
+    "original": "みどぼんぐり\nみどりいろの ぼんぐり\nふしぎと こうばしい かおりがする",
+    "translation": "みどぼんぐり\nみどりいろの ぼんぐり\nふしぎと こうばしい かおりがする",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0020_0044",
+    "original": "ももぼんぐり\nももいろの ぼんぐり\nあまそうな いい かおりがする",
+    "translation": "ももぼんぐり\nももいろの ぼんぐり\nあまそうな いい かおりがする",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0020_0045",
+    "original": "しろぼんぐり\nしろいろの ぼんぐり\nなんの かおりも しない",
+    "translation": "しろぼんぐり\nしろいろの ぼんぐり\nなんの かおりも しない",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0020_0046",
+    "original": "くろぼんぐり\nくろいろの ぼんぐり\nなんとも いえない かおりがする",
+    "translation": "くろぼんぐり\nくろいろの ぼんぐり\nなんとも いえない かおりがする",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0020_0047",
+    "original": "ボンシェイカー",
+    "translation": "ボンシェイカー",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0020_0048",
+    "original": "[0108,0000]\nあじのこさ [0134,0001] まろやかさ [0134,0002]\nあと [0132,0003]こ いれられます",
+    "translation": "[0108,0000]\nあじのこさ [0134,0001] まろやかさ [0134,0002]\nあと [0132,0003]こ いれられます",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0020_0049",
+    "original": "～ボンドリンクの つくりかた～\nぼんぐりを つかんで\nシェイカーに いれる！\\f\n１こでも できるけど\nたくさん いれると\nおいしさ アップ！\\f\nぼんぐりを いれたら\nとなりの まちまで\nはしって シェイク！",
+    "translation": "～ボンドリンクの つくりかた～\nぼんぐりを つかんで\nシェイカーに いれる！\\f\n１こでも できるけど\nたくさん いれると\nおいしさ アップ！\\f\nぼんぐりを いれたら\nとなりの まちまで\nはしって シェイク！",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0020_0050",
+    "original": "ボンドリンクが できました！",
+    "translation": "ボンドリンクが できました！",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0020_0051",
+    "original": "ボンドリンクの あじが\nへんか しました！",
+    "translation": "ボンドリンクの あじが\nへんか しました！",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0020_0052",
+    "original": "ドリンクが できていません！\nぼんぐりを シェイカーに いれて\nあるいて シェイク！",
+    "translation": "ドリンクが できていません！\nぼんぐりを シェイカーに いれて\nあるいて シェイク！",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0020_0053",
+    "original": "これいじょう はいらない！\nはしって シェイク しよう！",
+    "translation": "これいじょう はいらない！\nはしって シェイク しよう！",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0020_0054",
+    "original": "ドリンク さくせいちゅう！\nあるいて シェイク しよう！",
+    "translation": "ドリンク さくせいちゅう！\nあるいて シェイク しよう！",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0020_0055",
+    "original": "ドリンク かいりょうちゅう！\nあるいて シェイク しよう！",
+    "translation": "ドリンク かいりょうちゅう！\nあるいて シェイク しよう！",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0020_0056",
+    "original": "からさのある あじだ",
+    "translation": "からさのある あじだ",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0020_0057",
+    "original": "ピリッとした あじわい！",
+    "translation": "ピリッとした あじわい！",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0020_0058",
+    "original": "あせがふきでる からさだ！",
+    "translation": "あせがふきでる からさだ！",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0020_0059",
+    "original": "せきこむような からさだ！",
+    "translation": "せきこむような からさだ！",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0020_0060",
+    "original": "ひびきわたる からさだ！",
+    "translation": "ひびきわたる からさだ！",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0020_0061",
+    "original": "きゅうきょくの からさだ！",
+    "translation": "きゅうきょくの からさだ！",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0020_0062",
+    "original": "さんみのある あじだ",
+    "translation": "さんみのある あじだ",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0020_0063",
+    "original": "さわやかな あじがする",
+    "translation": "さわやかな あじがする",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0020_0064",
+    "original": "ん～～～っ すっぱい！",
+    "translation": "ん～～～っ すっぱい！",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0020_0065",
+    "original": "すっぱくて たまらない！",
+    "translation": "すっぱくて たまらない！",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0020_0066",
+    "original": "あじわいぶかい さんみだ！",
+    "translation": "あじわいぶかい さんみだ！",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0020_0067",
+    "original": "さんみを きわめた あじだ！",
+    "translation": "さんみを きわめた あじだ！",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0020_0068",
+    "original": "しぶみのある あじだ",
+    "translation": "しぶみのある あじだ",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0020_0069",
+    "original": "しぶみが つよい！",
+    "translation": "しぶみが つよい！",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0020_0070",
+    "original": "たまらなく しぶい！",
+    "translation": "たまらなく しぶい！",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0020_0071",
+    "original": "しぶみが しみわたる！",
+    "translation": "しぶみが しみわたる！",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0020_0072",
+    "original": "ふかみのある しぶみ！",
+    "translation": "ふかみのある しぶみ！",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0020_0073",
+    "original": "しぶみを きわめた あじだ！",
+    "translation": "しぶみを きわめた あじだ！",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0020_0074",
+    "original": "にがみのある あじだ",
+    "translation": "にがみのある あじだ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0020_0075",
+    "original": "ほろにがい あじだ",
+    "translation": "ほろにがい あじだ",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0020_0076",
+    "original": "きょうれつな にがみだ！",
+    "translation": "きょうれつな にがみだ！",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0020_0077",
+    "original": "どっしりとした にがみ！",
+    "translation": "どっしりとした にがみ！",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0020_0078",
+    "original": "しずみこむように にがい！",
+    "translation": "しずみこむように にがい！",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0020_0079",
+    "original": "にがみの ちょうてんだ！",
+    "translation": "にがみの ちょうてんだ！",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0020_0080",
+    "original": "あまみのある あじだ",
+    "translation": "あまみのある あじだ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0020_0081",
+    "original": "あまい あじが する",
+    "translation": "あまい あじが する",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0020_0082",
+    "original": "とっても あまい！",
+    "translation": "とっても あまい！",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0020_0083",
+    "original": "あまったるい あじだ！",
+    "translation": "あまったるい あじだ！",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0020_0084",
+    "original": "とろけるような あまさ！",
+    "translation": "とろけるような あまさ！",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0020_0085",
+    "original": "あまさの ちょうてんだ！",
+    "translation": "あまさの ちょうてんだ！",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0020_0086",
+    "original": "わずかに からみが あり⋯",
+    "translation": "わずかに からみが あり⋯",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0020_0087",
+    "original": "すこし からみが あり⋯",
+    "translation": "すこし からみが あり⋯",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0020_0088",
+    "original": "だいぶ からみも あり⋯",
+    "translation": "だいぶ からみも あり⋯",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0020_0089",
+    "original": "きょうれつな からさと⋯",
+    "translation": "きょうれつな からさと⋯",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0020_0090",
+    "original": "わずかに さんみが あり⋯",
+    "translation": "わずかに さんみが あり⋯",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0020_0091",
+    "original": "すこし さんみが あり⋯",
+    "translation": "すこし さんみが あり⋯",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0020_0092",
+    "original": "だいぶ さんみも あり⋯",
+    "translation": "だいぶ さんみも あり⋯",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0020_0093",
+    "original": "きょうれつな すっぱさに⋯",
+    "translation": "きょうれつな すっぱさに⋯",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0020_0094",
+    "original": "わずかに しぶみが あり⋯",
+    "translation": "わずかに しぶみが あり⋯",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0020_0095",
+    "original": "すこし しぶみが あり⋯",
+    "translation": "すこし しぶみが あり⋯",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0020_0096",
+    "original": "だいぶ しぶみも あり⋯",
+    "translation": "だいぶ しぶみも あり⋯",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0020_0097",
+    "original": "きょうれつな しぶみと⋯",
+    "translation": "きょうれつな しぶみと⋯",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0020_0098",
+    "original": "わずかに にがみが あり⋯",
+    "translation": "わずかに にがみが あり⋯",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0020_0099",
+    "original": "すこし にがみが あり⋯",
+    "translation": "すこし にがみが あり⋯",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0020_0100",
+    "original": "だいぶ にがみも あり⋯",
+    "translation": "だいぶ にがみも あり⋯",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0020_0101",
+    "original": "きょうれつな にがみと⋯",
+    "translation": "きょうれつな にがみと⋯",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0020_0102",
+    "original": "わずかに あまみが あり⋯",
+    "translation": "わずかに あまみが あり⋯",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0020_0103",
+    "original": "すこし あまみが あり⋯",
+    "translation": "すこし あまみが あり⋯",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0020_0104",
+    "original": "だいぶ あまみも あり⋯",
+    "translation": "だいぶ あまみも あり⋯",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0020_0105",
+    "original": "きょうれつな あまさと⋯",
+    "translation": "きょうれつな あまさと⋯",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0020_0106",
+    "original": "それでいて かすかに からい",
+    "translation": "それでいて かすかに からい",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0020_0107",
+    "original": "わずかだが からさも ある",
+    "translation": "わずかだが からさも ある",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0020_0108",
+    "original": "からさも まけていない",
+    "translation": "からさも まけていない",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0020_0109",
+    "original": "それでいて かすかな さんみ",
+    "translation": "それでいて かすかな さんみ",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0020_0110",
+    "original": "わずかだが さんみも ある",
+    "translation": "わずかだが さんみも ある",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0020_0111",
+    "original": "さんみも まけていない",
+    "translation": "さんみも まけていない",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0020_0112",
+    "original": "それでいて かすかに しぶい",
+    "translation": "それでいて かすかに しぶい",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0020_0113",
+    "original": "わずかだが しぶみも ある",
+    "translation": "わずかだが しぶみも ある",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0020_0114",
+    "original": "しぶさも まけていない",
+    "translation": "しぶさも まけていない",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0020_0115",
+    "original": "それでいて かすかに にがい",
+    "translation": "それでいて かすかに にがい",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0020_0116",
+    "original": "わずかだが にがみも ある",
+    "translation": "わずかだが にがみも ある",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0020_0117",
+    "original": "にがみも まけていない",
+    "translation": "にがみも まけていない",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0020_0118",
+    "original": "それでいて かすかに あまい",
+    "translation": "それでいて かすかに あまい",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0020_0119",
+    "original": "わずかだが あまみも ある",
+    "translation": "わずかだが あまみも ある",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0020_0120",
+    "original": "あまみも まけていない",
+    "translation": "あまみも まけていない",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0020_0121",
+    "original": "ざつみが くちに のこる",
+    "translation": "ざつみが くちに のこる",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0020_0122",
+    "original": "すっきりした あとあじ！",
+    "translation": "すっきりした あとあじ！",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0020_0123",
+    "original": "からさを けしている",
+    "translation": "からさを けしている",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0020_0124",
+    "original": "さんみを けしている",
+    "translation": "さんみを けしている",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0020_0125",
+    "original": "しぶみを けしている",
+    "translation": "しぶみを けしている",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0020_0126",
+    "original": "にがみを けしている",
+    "translation": "にがみを けしている",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0020_0127",
+    "original": "あまみを けしている",
+    "translation": "あまみを けしている",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0020_0128",
+    "original": "まだまだ あじが よわい\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ⋯",
+    "translation": "まだまだ あじが よわい\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ⋯",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0020_0129",
+    "original": "なんともいえない あじだ！\nおたがいが ゆずりあい⋯\nなんのあじだか わからない！",
+    "translation": "なんともいえない あじだ！\nおたがいが ゆずりあい⋯\nなんのあじだか わからない！",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0020_0130",
+    "original": "なんともいえない あじだ！\nおたがいが きそいあい⋯\nなんのあじだか わからない！",
+    "translation": "なんともいえない あじだ！\nおたがいが きそいあい⋯\nなんのあじだか わからない！",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0020_0131",
+    "original": "まったく あじが しない！\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ",
+    "translation": "まったく あじが しない！\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0020_0132",
+    "original": "からい[0133,0000] すっぱい[0133,0001] しぶい[0133,0002]\nにがい[0133,0003] あまい[0133,0004]\nまろやか[0133,0005] あじち[0133,0006]",
+    "translation": "からい[0133,0000] すっぱい[0133,0001] しぶい[0133,0002]\nにがい[0133,0003] あまい[0133,0004]\nまろやか[0133,0005] あじち[0133,0006]",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0020_0133",
+    "original": "いま [013B,0000]ほ ストック [0132,0001]こ\n１：[0132,0002] ２：[0132,0003] ３：[0132,0004] ４：[0132,0005] ５：[0132,0006] \nジュース START [013B,0007]ほ あと[0134,0008]ほ\nまろやか START [013B,0009]ほ あと[0134,000A]ほ",
+    "translation": "いま [013B,0000]ほ ストック [0132,0001]こ\n１：[0132,0002] ２：[0132,0003] ３：[0132,0004] ４：[0132,0005] ５：[0132,0006] \nジュース START [013B,0007]ほ あと[0134,0008]ほ\nまろやか START [013B,0009]ほ あと[0134,000A]ほ",
+    "index": 133
+  }
+]

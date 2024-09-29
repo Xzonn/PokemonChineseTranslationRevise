@@ -1,0 +1,578 @@
+[
+  {
+    "key": "DP_0003_0000",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 0
+  },
+  {
+    "key": "DP_0003_0001",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 1
+  },
+  {
+    "key": "DP_0003_0002",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 2
+  },
+  {
+    "key": "DP_0003_0003",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 3
+  },
+  {
+    "key": "DP_0003_0004",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 4
+  },
+  {
+    "key": "DP_0003_0005",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 5
+  },
+  {
+    "key": "DP_0003_0006",
+    "original": "ポケモンを えらんでください",
+    "translation": "ポケモンを えらんでください",
+    "index": 6
+  },
+  {
+    "key": "DP_0003_0007",
+    "original": "どの ポケモンに つかう？",
+    "translation": "どの ポケモンに つかう？",
+    "index": 7
+  },
+  {
+    "key": "DP_0003_0008",
+    "original": "[0105,0000]",
+    "translation": "[0105,0000]",
+    "index": 8
+  },
+  {
+    "key": "DP_0003_0009",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 9
+  },
+  {
+    "key": "DP_0003_0010",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 10
+  },
+  {
+    "key": "DP_0003_0011",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 11
+  },
+  {
+    "key": "DP_0003_0012",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 12
+  },
+  {
+    "key": "DP_0003_0013",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 13
+  },
+  {
+    "key": "DP_0003_0014",
+    "original": "ＰＰ",
+    "translation": "ＰＰ",
+    "index": 14
+  },
+  {
+    "key": "DP_0003_0015",
+    "original": "いれかえる",
+    "translation": "いれかえる",
+    "index": 15
+  },
+  {
+    "key": "DP_0003_0016",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 16
+  },
+  {
+    "key": "DP_0003_0017",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 17
+  },
+  {
+    "key": "DP_0003_0018",
+    "original": "つよさをみる",
+    "translation": "つよさをみる",
+    "index": 18
+  },
+  {
+    "key": "DP_0003_0019",
+    "original": "わざをみる",
+    "translation": "わざをみる",
+    "index": 19
+  },
+  {
+    "key": "DP_0003_0020",
+    "original": "もちものなし",
+    "translation": "もちものなし",
+    "index": 20
+  },
+  {
+    "key": "DP_0003_0021",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 21
+  },
+  {
+    "key": "DP_0003_0022",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 22
+  },
+  {
+    "key": "DP_0003_0023",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 23
+  },
+  {
+    "key": "DP_0003_0024",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 24
+  },
+  {
+    "key": "DP_0003_0025",
+    "original": "つぎのレベルまで",
+    "translation": "つぎのレベルまで",
+    "index": 25
+  },
+  {
+    "key": "DP_0003_0026",
+    "original": "[0137,0000]",
+    "translation": "[0137,0000]",
+    "index": 26
+  },
+  {
+    "key": "DP_0003_0027",
+    "original": "[0105,0000]",
+    "translation": "[0105,0000]",
+    "index": 27
+  },
+  {
+    "key": "DP_0003_0028",
+    "original": "ＨＰ",
+    "translation": "ＨＰ",
+    "index": 28
+  },
+  {
+    "key": "DP_0003_0029",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 29
+  },
+  {
+    "key": "DP_0003_0030",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 30
+  },
+  {
+    "key": "DP_0003_0031",
+    "original": "／",
+    "translation": "／",
+    "index": 31
+  },
+  {
+    "key": "DP_0003_0032",
+    "original": "こうげき",
+    "translation": "こうげき",
+    "index": 32
+  },
+  {
+    "key": "DP_0003_0033",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 33
+  },
+  {
+    "key": "DP_0003_0034",
+    "original": "ぼうぎょ",
+    "translation": "ぼうぎょ",
+    "index": 34
+  },
+  {
+    "key": "DP_0003_0035",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 35
+  },
+  {
+    "key": "DP_0003_0036",
+    "original": "とくこう",
+    "translation": "とくこう",
+    "index": 36
+  },
+  {
+    "key": "DP_0003_0037",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 37
+  },
+  {
+    "key": "DP_0003_0038",
+    "original": "とくぼう",
+    "translation": "とくぼう",
+    "index": 38
+  },
+  {
+    "key": "DP_0003_0039",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 39
+  },
+  {
+    "key": "DP_0003_0040",
+    "original": "すばやさ",
+    "translation": "すばやさ",
+    "index": 40
+  },
+  {
+    "key": "DP_0003_0041",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 41
+  },
+  {
+    "key": "DP_0003_0042",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 42
+  },
+  {
+    "key": "DP_0003_0043",
+    "original": "ＰＰ",
+    "translation": "ＰＰ",
+    "index": 43
+  },
+  {
+    "key": "DP_0003_0044",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 44
+  },
+  {
+    "key": "DP_0003_0045",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 45
+  },
+  {
+    "key": "DP_0003_0046",
+    "original": "／",
+    "translation": "／",
+    "index": 46
+  },
+  {
+    "key": "DP_0003_0047",
+    "original": "ーー",
+    "translation": "ーー",
+    "index": 47
+  },
+  {
+    "key": "DP_0003_0048",
+    "original": "いりょく",
+    "translation": "いりょく",
+    "index": 48
+  },
+  {
+    "key": "DP_0003_0049",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 49
+  },
+  {
+    "key": "DP_0003_0050",
+    "original": "ーーー",
+    "translation": "ーーー",
+    "index": 50
+  },
+  {
+    "key": "DP_0003_0051",
+    "original": "めいちゅう",
+    "translation": "めいちゅう",
+    "index": 51
+  },
+  {
+    "key": "DP_0003_0052",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 52
+  },
+  {
+    "key": "DP_0003_0053",
+    "original": "ぶんるい",
+    "translation": "ぶんるい",
+    "index": 53
+  },
+  {
+    "key": "DP_0003_0054",
+    "original": "ぶつり",
+    "translation": "ぶつり",
+    "index": 54
+  },
+  {
+    "key": "DP_0003_0055",
+    "original": "へんか",
+    "translation": "へんか",
+    "index": 55
+  },
+  {
+    "key": "DP_0003_0056",
+    "original": "とくしゅ",
+    "translation": "とくしゅ",
+    "index": 56
+  },
+  {
+    "key": "DP_0003_0057",
+    "original": "アピールポイント",
+    "translation": "アピールポイント",
+    "index": 57
+  },
+  {
+    "key": "DP_0003_0058",
+    "original": "わすれさせる",
+    "translation": "わすれさせる",
+    "index": 58
+  },
+  {
+    "key": "DP_0003_0059",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 59
+  },
+  {
+    "key": "DP_0003_0060",
+    "original": "たいせつな わざです。\nわすれさせることは\nできません！",
+    "translation": "たいせつな わざです。\nわすれさせることは\nできません！",
+    "index": 60
+  },
+  {
+    "key": "DP_0003_0061",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 61
+  },
+  {
+    "key": "DP_0003_0062",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 62
+  },
+  {
+    "key": "DP_0003_0063",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 63
+  },
+  {
+    "key": "DP_0003_0064",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 64
+  },
+  {
+    "key": "DP_0003_0065",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 65
+  },
+  {
+    "key": "DP_0003_0066",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 66
+  },
+  {
+    "key": "DP_0003_0067",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 67
+  },
+  {
+    "key": "DP_0003_0068",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 68
+  },
+  {
+    "key": "DP_0003_0069",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 69
+  },
+  {
+    "key": "DP_0003_0070",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 70
+  },
+  {
+    "key": "DP_0003_0071",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 71
+  },
+  {
+    "key": "DP_0003_0072",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 72
+  },
+  {
+    "key": "DP_0003_0073",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 73
+  },
+  {
+    "key": "DP_0003_0074",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 74
+  },
+  {
+    "key": "DP_0003_0075",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 75
+  },
+  {
+    "key": "DP_0003_0076",
+    "original": "[0101,0000]は\nすでに せんとうに でています",
+    "translation": "[0101,0000]は\nすでに せんとうに でています",
+    "index": 76
+  },
+  {
+    "key": "DP_0003_0077",
+    "original": "[0101,0000]は たたかうための\nげんきが のこっていません！",
+    "translation": "[0101,0000]は たたかうための\nげんきが のこっていません！",
+    "index": 77
+  },
+  {
+    "key": "DP_0003_0078",
+    "original": "[0101,0000]を\nもどすことが できない！",
+    "translation": "[0101,0000]を\nもどすことが できない！",
+    "index": 78
+  },
+  {
+    "key": "DP_0003_0079",
+    "original": "タマゴを\nせんとうに だすことは できません",
+    "translation": "タマゴを\nせんとうに だすことは できません",
+    "index": 79
+  },
+  {
+    "key": "DP_0003_0080",
+    "original": "[0103,0000]の ポケモンと \nいれかえることは できません！",
+    "translation": "[0103,0000]の ポケモンと \nいれかえることは できません！",
+    "index": 80
+  },
+  {
+    "key": "DP_0003_0081",
+    "original": "つかっても こうかが ないよ",
+    "translation": "つかっても こうかが ないよ",
+    "index": 81
+  },
+  {
+    "key": "DP_0003_0082",
+    "original": "[0101,0000]の たいりょくが\n[0134,0001] かいふくした！",
+    "translation": "[0101,0000]の たいりょくが\n[0134,0001] かいふくした！",
+    "index": 82
+  },
+  {
+    "key": "DP_0003_0083",
+    "original": "[0101,0000]の どくは\nきれい さっぱり なくなった！",
+    "translation": "[0101,0000]の どくは\nきれい さっぱり なくなった！",
+    "index": 83
+  },
+  {
+    "key": "DP_0003_0084",
+    "original": "[0101,0000]の\nからだの しびれが とれた！",
+    "translation": "[0101,0000]の\nからだの しびれが とれた！",
+    "index": 84
+  },
+  {
+    "key": "DP_0003_0085",
+    "original": "[0101,0000]の\nやけどが なおった！",
+    "translation": "[0101,0000]の\nやけどが なおった！",
+    "index": 85
+  },
+  {
+    "key": "DP_0003_0086",
+    "original": "[0101,0000]の\nからだの こおりが とけた！",
+    "translation": "[0101,0000]の\nからだの こおりが とけた！",
+    "index": 86
+  },
+  {
+    "key": "DP_0003_0087",
+    "original": "わざポイントが かいふくした！ ",
+    "translation": "わざポイントが かいふくした！ ",
+    "index": 87
+  },
+  {
+    "key": "DP_0003_0088",
+    "original": "[0101,0000]は\nげんきを とりもどした！",
+    "translation": "[0101,0000]は\nげんきを とりもどした！",
+    "index": 88
+  },
+  {
+    "key": "DP_0003_0089",
+    "original": "[0101,0000]は\nけんこうに なった！",
+    "translation": "[0101,0000]は\nけんこうに なった！",
+    "index": 89
+  },
+  {
+    "key": "DP_0003_0090",
+    "original": "[0101,0000]の\nこんらんが とけた！",
+    "translation": "[0101,0000]の\nこんらんが とけた！",
+    "index": 90
+  },
+  {
+    "key": "DP_0003_0091",
+    "original": "[0101,0000]の\nメロメロが とけた！",
+    "translation": "[0101,0000]の\nメロメロが とけた！",
+    "index": 91
+  },
+  {
+    "key": "DP_0003_0092",
+    "original": "[0101,0000]は\nめを さました！",
+    "translation": "[0101,0000]は\nめを さました！",
+    "index": 92
+  },
+  {
+    "key": "DP_0003_0093",
+    "original": "[0101,0000]は すでに\nせんたく されています",
+    "translation": "[0101,0000]は すでに\nせんたく されています",
+    "index": 93
+  },
+  {
+    "key": "DP_0003_0094",
+    "original": "どの わざを かいふくする？",
+    "translation": "どの わざを かいふくする？",
+    "index": 94
+  },
+  {
+    "key": "DP_0003_0095",
+    "original": "[0106,0001]の こうかで\n[0101,0000]には つかえません！",
+    "translation": "[0106,0001]の こうかで\n[0101,0000]には つかえません！",
+    "index": 95
+  }
+]

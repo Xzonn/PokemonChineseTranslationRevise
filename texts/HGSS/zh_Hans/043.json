@@ -1,0 +1,362 @@
+[
+  {
+    "key": "HGSS_0043_0000",
+    "original": "せっていを かえる",
+    "translation": "设置",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0043_0001",
+    "original": "はなしの はやさ",
+    "translation": "语速",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0043_0002",
+    "original": "せんとうアニメ",
+    "translation": "对战动画",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0043_0003",
+    "original": "しあいの ルール",
+    "translation": "比赛规则",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0043_0004",
+    "original": "サウンド",
+    "translation": "音效",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0043_0005",
+    "original": "ボタンモード",
+    "translation": "按键模式",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0043_0006",
+    "original": "ウインドウ",
+    "translation": "界面",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0043_0007",
+    "original": "[0205]けってい",
+    "translation": "[0205]决定",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0043_0008",
+    "original": "[0205]やめる",
+    "translation": "[0205]取消",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0043_0009",
+    "original": "おそい",
+    "translation": "慢",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0043_0010",
+    "original": "ふつう",
+    "translation": "普通",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0043_0011",
+    "original": "はやい",
+    "translation": "快",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0043_0012",
+    "original": "みる",
+    "translation": "看",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0043_0013",
+    "original": "みない",
+    "translation": "不看",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0043_0014",
+    "original": "いれかえ",
+    "translation": "替换",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0043_0015",
+    "original": "かちぬき",
+    "translation": "连战",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0043_0016",
+    "original": "ステレオ",
+    "translation": "立体声",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0043_0017",
+    "original": "モノラル",
+    "translation": "单声道",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0043_0018",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0043_0019",
+    "original": "Ｌ＝Ａ",
+    "translation": "　　Ｌ＝Ａ",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0043_0020",
+    "original": "タイプ1",
+    "translation": "类型１",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0043_0021",
+    "original": "タイプ２",
+    "translation": "类型２",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0043_0022",
+    "original": "タイプ３",
+    "translation": "类型３",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0043_0023",
+    "original": "タイプ４",
+    "translation": "类型４",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0043_0024",
+    "original": "タイプ５",
+    "translation": "类型５",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0043_0025",
+    "original": "タイプ６",
+    "translation": "类型６",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0043_0026",
+    "original": "タイプ７",
+    "translation": "类型７",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0043_0027",
+    "original": "タイプ８",
+    "translation": "类型８",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0043_0028",
+    "original": "タイプ９",
+    "translation": "类型９",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0043_0029",
+    "original": "タイプ１０",
+    "translation": "类型１０",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0043_0030",
+    "original": "タイプ１１",
+    "translation": "类型１１",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0043_0031",
+    "original": "タイプ１２",
+    "translation": "类型１２",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0043_0032",
+    "original": "タイプ１３",
+    "translation": "类型１３",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0043_0033",
+    "original": "タイプ１４",
+    "translation": "类型１４",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0043_0034",
+    "original": "タイプ１５",
+    "translation": "类型１５",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0043_0035",
+    "original": "タイプ１６",
+    "translation": "类型１６",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0043_0036",
+    "original": "タイプ１７",
+    "translation": "类型１７",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0043_0037",
+    "original": "タイプ１８",
+    "translation": "类型１８",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0043_0038",
+    "original": "タイプ１９",
+    "translation": "类型１９",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0043_0039",
+    "original": "タイプ２０",
+    "translation": "类型２０",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0043_0040",
+    "original": "ウインドウ タイプ１",
+    "translation": "窗口　类型１",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0043_0041",
+    "original": "ウインドウ タイプ２",
+    "translation": "窗口　类型２",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0043_0042",
+    "original": "ウインドウ タイプ３",
+    "translation": "窗口　类型３",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0043_0043",
+    "original": "ウインドウ タイプ４",
+    "translation": "窗口　类型４",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0043_0044",
+    "original": "ウインドウ タイプ５",
+    "translation": "窗口　类型５",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0043_0045",
+    "original": "ウインドウ タイプ６",
+    "translation": "窗口　类型６",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0043_0046",
+    "original": "ウインドウ タイプ７",
+    "translation": "窗口　类型７",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0043_0047",
+    "original": "ウインドウ タイプ８",
+    "translation": "窗口　类型８",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0043_0048",
+    "original": "ウインドウ タイプ９",
+    "translation": "窗口　类型９",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0043_0049",
+    "original": "ウインドウ タイプ１０",
+    "translation": "窗口　类型１０",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0043_0050",
+    "original": "ウインドウ タイプ１１",
+    "translation": "窗口　类型１１",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0043_0051",
+    "original": "ウインドウ タイプ１２",
+    "translation": "窗口　类型１２",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0043_0052",
+    "original": "ウインドウ タイプ１３",
+    "translation": "窗口　类型１３",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0043_0053",
+    "original": "ウインドウ タイプ１４",
+    "translation": "窗口　类型１４",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0043_0054",
+    "original": "ウインドウ タイプ１５",
+    "translation": "窗口　类型１５",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0043_0055",
+    "original": "ウインドウ タイプ１６",
+    "translation": "窗口　类型１６",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0043_0056",
+    "original": "ウインドウ タイプ１７",
+    "translation": "窗口　类型１７",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0043_0057",
+    "original": "ウインドウ タイプ１８",
+    "translation": "窗口　类型１８",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0043_0058",
+    "original": "ウインドウ タイプ１９",
+    "translation": "窗口　类型１９",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0043_0059",
+    "original": "ウインドウ タイプ２０",
+    "translation": "窗口　类型２０",
+    "index": 59
+  }
+]

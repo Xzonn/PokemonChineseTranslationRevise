@@ -1,0 +1,200 @@
+[
+  {
+    "key": "HGSS_0270_0000",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0270_0001",
+    "original": "",
+    "translation": "\\x0000",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0270_0002",
+    "original": "[0134,0000]:[0133,0001]",
+    "translation": "[0134,0000]:[0133,0001]",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0270_0003",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0270_0004",
+    "original": "ポケスロン さんかかいすう",
+    "translation": "参加宝可全能竞技赛次数",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0270_0005",
+    "original": "ポケスロン １い かいすう",
+    "translation": "宝可全能竞技赛第一名次数",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0270_0006",
+    "original": "ポケスロン ビリ かいすう",
+    "translation": "宝可全能竞技赛倒数第一次数",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0270_0007",
+    "original": "ボーナス かくとくかいすう",
+    "translation": "额外奖励获得次数",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0270_0008",
+    "original": "きょうぎ １い かいすう",
+    "translation": "竞技第一次数",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0270_0009",
+    "original": "きょうぎ ビリ かいすう",
+    "translation": "竞技末尾次数",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0270_0010",
+    "original": "つうしん さんかかいすう",
+    "translation": "连接参加次数",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0270_0011",
+    "original": "つうしん １い かいすう",
+    "translation": "连接第一次数",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0270_0012",
+    "original": "つうしん ビリ かいすう",
+    "translation": "连接末尾次数",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0270_0013",
+    "original": "ポケスロン さんかじかん",
+    "translation": "宝可全能竞技赛参加实践",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0270_0014",
+    "original": "ハードル １い かいすう",
+    "translation": "跨栏冲刺第一次数",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0270_0015",
+    "original": "フラッグ １い かいすう",
+    "translation": "旗帜争夺第一次数",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0270_0016",
+    "original": "サークル １い かいすう",
+    "translation": "推挤抢位第一次数",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0270_0017",
+    "original": "ブロック １い かいすう",
+    "translation": "徒手劈砖第一次数",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0270_0018",
+    "original": "ソーサー １い かいすう",
+    "translation": "接盘子第一次数",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0270_0019",
+    "original": "フィールド １い かいすう",
+    "translation": "弹跳摸灯第一次数",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0270_0020",
+    "original": "リレー １い かいすう",
+    "translation": "越野接力第一次数",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0270_0021",
+    "original": "ファイト １い かいすう",
+    "translation": "擂台碰撞第一次数",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0270_0022",
+    "original": "スノー １い かいすう",
+    "translation": "雪球投掷第一次数",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0270_0023",
+    "original": "ゴール １い かいすう",
+    "translation": "足球射门第一次数",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0270_0024",
+    "original": "ポケモン タッチかいすう",
+    "translation": "宝可梦接触次数",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0270_0025",
+    "original": "ポケモン ダッシュかいすう",
+    "translation": "宝可梦冲刺次数",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0270_0026",
+    "original": "ポケモン ジャンプかいすう",
+    "translation": "宝可梦跳跃次数",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0270_0027",
+    "original": "ポケモン たいあたりかいすう",
+    "translation": "宝可梦碰撞次数",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0270_0028",
+    "original": "ポケモン こうたいかいすう",
+    "translation": "宝可梦交换次数",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0270_0029",
+    "original": "ポケモン じめつかいすう",
+    "translation": "宝可梦力尽次数",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0270_0030",
+    "original": "ポケモン かくとくポイント",
+    "translation": "宝可梦获得点数",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0270_0031",
+    "original": "ポケモン しっぱいかいすう",
+    "translation": "宝可梦失败次数",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0270_0032",
+    "original": "ポケモン おちたかいすう",
+    "translation": "宝可梦掉落次数",
+    "index": 32
+  }
+]

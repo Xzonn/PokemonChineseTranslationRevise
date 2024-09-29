@@ -1,0 +1,176 @@
+[
+  {
+    "key": "DP_0311_0000",
+    "original": "からいポフィン",
+    "translation": "辣味宝芬",
+    "index": 0
+  },
+  {
+    "key": "DP_0311_0001",
+    "original": "からしぶポフィン",
+    "translation": "辣涩宝芬",
+    "index": 1
+  },
+  {
+    "key": "DP_0311_0002",
+    "original": "からあまポフィン",
+    "translation": "辣甜宝芬",
+    "index": 2
+  },
+  {
+    "key": "DP_0311_0003",
+    "original": "からにがポフィン",
+    "translation": "辣苦宝芬",
+    "index": 3
+  },
+  {
+    "key": "DP_0311_0004",
+    "original": "からすっぱポフィン",
+    "translation": "辣酸宝芬",
+    "index": 4
+  },
+  {
+    "key": "DP_0311_0005",
+    "original": "しぶからポフィン",
+    "translation": "涩辣宝芬",
+    "index": 5
+  },
+  {
+    "key": "DP_0311_0006",
+    "original": "しぶいポフィン",
+    "translation": "涩味宝芬",
+    "index": 6
+  },
+  {
+    "key": "DP_0311_0007",
+    "original": "しぶあまポフィン",
+    "translation": "涩甜宝芬",
+    "index": 7
+  },
+  {
+    "key": "DP_0311_0008",
+    "original": "しぶにがポフィン",
+    "translation": "涩苦宝芬",
+    "index": 8
+  },
+  {
+    "key": "DP_0311_0009",
+    "original": "しぶすっぱポフィン",
+    "translation": "涩酸宝芬",
+    "index": 9
+  },
+  {
+    "key": "DP_0311_0010",
+    "original": "あまからポフィン",
+    "translation": "甜辣宝芬",
+    "index": 10
+  },
+  {
+    "key": "DP_0311_0011",
+    "original": "あましぶポフィン",
+    "translation": "甜涩宝芬",
+    "index": 11
+  },
+  {
+    "key": "DP_0311_0012",
+    "original": "あまいポフィン",
+    "translation": "甜味宝芬",
+    "index": 12
+  },
+  {
+    "key": "DP_0311_0013",
+    "original": "あまにがポフィン",
+    "translation": "甜苦宝芬",
+    "index": 13
+  },
+  {
+    "key": "DP_0311_0014",
+    "original": "あまずっぱポフィン",
+    "translation": "甜酸宝芬",
+    "index": 14
+  },
+  {
+    "key": "DP_0311_0015",
+    "original": "にがからポフィン",
+    "translation": "苦辣宝芬",
+    "index": 15
+  },
+  {
+    "key": "DP_0311_0016",
+    "original": "にがしぶポフィン",
+    "translation": "苦涩宝芬",
+    "index": 16
+  },
+  {
+    "key": "DP_0311_0017",
+    "original": "にがあまポフィン",
+    "translation": "苦甜宝芬",
+    "index": 17
+  },
+  {
+    "key": "DP_0311_0018",
+    "original": "にがいポフィン",
+    "translation": "苦味宝芬",
+    "index": 18
+  },
+  {
+    "key": "DP_0311_0019",
+    "original": "にがすっぱポフィン",
+    "translation": "苦酸宝芬",
+    "index": 19
+  },
+  {
+    "key": "DP_0311_0020",
+    "original": "すっぱからポフィン",
+    "translation": "酸辣宝芬",
+    "index": 20
+  },
+  {
+    "key": "DP_0311_0021",
+    "original": "すっぱしぶポフィン",
+    "translation": "酸涩宝芬",
+    "index": 21
+  },
+  {
+    "key": "DP_0311_0022",
+    "original": "すっぱあまポフィン",
+    "translation": "酸甜宝芬",
+    "index": 22
+  },
+  {
+    "key": "DP_0311_0023",
+    "original": "すっぱにがポフィン",
+    "translation": "酸苦宝芬",
+    "index": 23
+  },
+  {
+    "key": "DP_0311_0024",
+    "original": "すっぱいポフィン",
+    "translation": "酸味宝芬",
+    "index": 24
+  },
+  {
+    "key": "DP_0311_0025",
+    "original": "こってりポフィン",
+    "translation": "浓厚宝芬",
+    "index": 25
+  },
+  {
+    "key": "DP_0311_0026",
+    "original": "くどいポフィン",
+    "translation": "腻口宝芬",
+    "index": 26
+  },
+  {
+    "key": "DP_0311_0027",
+    "original": "まずいポフィン",
+    "translation": "难吃宝芬",
+    "index": 27
+  },
+  {
+    "key": "DP_0311_0028",
+    "original": "まろやかポフィン",
+    "translation": "香醇宝芬",
+    "index": 28
+  }
+]

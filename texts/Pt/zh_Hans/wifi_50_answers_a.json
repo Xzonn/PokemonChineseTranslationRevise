@@ -1,0 +1,302 @@
+[
+  {
+    "key": "PT_0746_0000",
+    "original": "のんびりゆったり",
+    "translation": "休闲舒适",
+    "index": 0
+  },
+  {
+    "key": "PT_0746_0001",
+    "original": "アイドル",
+    "translation": "偶像明星",
+    "index": 1
+  },
+  {
+    "key": "PT_0746_0002",
+    "original": "ほのおポケモン",
+    "translation": "火宝可梦",
+    "index": 2
+  },
+  {
+    "key": "PT_0746_0003",
+    "original": "たいせん",
+    "translation": "对战",
+    "index": 3
+  },
+  {
+    "key": "PT_0746_0004",
+    "original": "ある",
+    "translation": "有",
+    "index": 4
+  },
+  {
+    "key": "PT_0746_0005",
+    "original": "ポケモンセンター",
+    "translation": "宝可梦中心",
+    "index": 5
+  },
+  {
+    "key": "PT_0746_0006",
+    "original": "みため",
+    "translation": "出现",
+    "index": 6
+  },
+  {
+    "key": "PT_0746_0007",
+    "original": "いえのそと",
+    "translation": "家外面",
+    "index": 7
+  },
+  {
+    "key": "PT_0746_0008",
+    "original": "たべながら・・・",
+    "translation": "一边吃・・・",
+    "index": 8
+  },
+  {
+    "key": "PT_0746_0009",
+    "original": "まひ",
+    "translation": "麻痹",
+    "index": 9
+  },
+  {
+    "key": "PT_0746_0010",
+    "original": "こおらせる",
+    "translation": "被冰冻",
+    "index": 10
+  },
+  {
+    "key": "PT_0746_0011",
+    "original": "キズぐすり",
+    "translation": "伤药",
+    "index": 11
+  },
+  {
+    "key": "PT_0746_0012",
+    "original": "うみ",
+    "translation": "海",
+    "index": 12
+  },
+  {
+    "key": "PT_0746_0013",
+    "original": "あさ",
+    "translation": "早上",
+    "index": 13
+  },
+  {
+    "key": "PT_0746_0014",
+    "original": "おや",
+    "translation": "初训家",
+    "index": 14
+  },
+  {
+    "key": "PT_0746_0015",
+    "original": "ねむけざまし",
+    "translation": "解眠药",
+    "index": 15
+  },
+  {
+    "key": "PT_0746_0016",
+    "original": "マルノーム",
+    "translation": "吞食兽",
+    "index": 16
+  },
+  {
+    "key": "PT_0746_0017",
+    "original": "いりょく",
+    "translation": "威力",
+    "index": 17
+  },
+  {
+    "key": "PT_0746_0018",
+    "original": "させる",
+    "translation": "派遣",
+    "index": 18
+  },
+  {
+    "key": "PT_0746_0019",
+    "original": "サイコソーダ",
+    "translation": "劲爽汽水",
+    "index": 19
+  },
+  {
+    "key": "PT_0746_0020",
+    "original": "こだわりハチマキ",
+    "translation": "讲究头带",
+    "index": 20
+  },
+  {
+    "key": "PT_0746_0021",
+    "original": "わざマシン",
+    "translation": "招式学习器",
+    "index": 21
+  },
+  {
+    "key": "PT_0746_0022",
+    "original": "だれかとこうかん",
+    "translation": "和谁交换",
+    "index": 22
+  },
+  {
+    "key": "PT_0746_0023",
+    "original": "つよくかっこいい",
+    "translation": "强大真酷",
+    "index": 23
+  },
+  {
+    "key": "PT_0746_0024",
+    "original": "ともだち",
+    "translation": "朋友",
+    "index": 24
+  },
+  {
+    "key": "PT_0746_0025",
+    "original": "ワイルドにいきる",
+    "translation": "野外生存",
+    "index": 25
+  },
+  {
+    "key": "PT_0746_0026",
+    "original": "ポケモンがにげた",
+    "translation": "宝可梦跑了",
+    "index": 26
+  },
+  {
+    "key": "PT_0746_0027",
+    "original": "しょうぶのきょく",
+    "translation": "决胜局",
+    "index": 27
+  },
+  {
+    "key": "PT_0746_0028",
+    "original": "どんどんつかう",
+    "translation": "一直使用",
+    "index": 28
+  },
+  {
+    "key": "PT_0746_0029",
+    "original": "きれいにせいとん",
+    "translation": "漂亮的整顿",
+    "index": 29
+  },
+  {
+    "key": "PT_0746_0030",
+    "original": "だいたいいっしょ",
+    "translation": "基本上一样",
+    "index": 30
+  },
+  {
+    "key": "PT_0746_0031",
+    "original": "どうぐがおおい",
+    "translation": "很多道具",
+    "index": 31
+  },
+  {
+    "key": "PT_0746_0032",
+    "original": "みんなしってる",
+    "translation": "大家都知道",
+    "index": 32
+  },
+  {
+    "key": "PT_0746_0033",
+    "original": "じてんしゃ",
+    "translation": "自行车",
+    "index": 33
+  },
+  {
+    "key": "PT_0746_0034",
+    "original": "ぶつりこうげき",
+    "translation": "物理攻击",
+    "index": 34
+  },
+  {
+    "key": "PT_0746_0035",
+    "original": "なきごえ",
+    "translation": "叫声",
+    "index": 35
+  },
+  {
+    "key": "PT_0746_0036",
+    "original": "ゴーストポケモン",
+    "translation": "幽灵属性宝可梦",
+    "index": 36
+  },
+  {
+    "key": "PT_0746_0037",
+    "original": "かいものしまくり",
+    "translation": "疯狂购物",
+    "index": 37
+  },
+  {
+    "key": "PT_0746_0038",
+    "original": "ポケモン",
+    "translation": "宝可梦",
+    "index": 38
+  },
+  {
+    "key": "PT_0746_0039",
+    "original": "こうげきとくこう",
+    "translation": "攻击特攻",
+    "index": 39
+  },
+  {
+    "key": "PT_0746_0040",
+    "original": "いた",
+    "translation": "木板",
+    "index": 40
+  },
+  {
+    "key": "PT_0746_0041",
+    "original": "ヒトっぽいなまえ",
+    "translation": "像人一样的名字",
+    "index": 41
+  },
+  {
+    "key": "PT_0746_0042",
+    "original": "いわくだき",
+    "translation": "碎岩",
+    "index": 42
+  },
+  {
+    "key": "PT_0746_0043",
+    "original": "どうぐでなおす",
+    "translation": "用道具治疗",
+    "index": 43
+  },
+  {
+    "key": "PT_0746_0044",
+    "original": "いる",
+    "translation": "在",
+    "index": 44
+  },
+  {
+    "key": "PT_0746_0045",
+    "original": "いあいぎり",
+    "translation": "居合劈",
+    "index": 45
+  },
+  {
+    "key": "PT_0746_0046",
+    "original": "ある",
+    "translation": "有",
+    "index": 46
+  },
+  {
+    "key": "PT_0746_0047",
+    "original": "しゅっしんち",
+    "translation": "出身地",
+    "index": 47
+  },
+  {
+    "key": "PT_0746_0048",
+    "original": "すきなポケモン！",
+    "translation": "喜欢的宝可梦！",
+    "index": 48
+  },
+  {
+    "key": "PT_0746_0049",
+    "original": "なついている",
+    "translation": "在接近",
+    "index": 49
+  }
+]

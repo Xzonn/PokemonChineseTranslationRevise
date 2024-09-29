@@ -1,0 +1,488 @@
+[
+  {
+    "key": "PT_0200_0000",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 0
+  },
+  {
+    "key": "PT_0200_0001",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 1
+  },
+  {
+    "key": "PT_0200_0002",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 2
+  },
+  {
+    "key": "PT_0200_0003",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 3
+  },
+  {
+    "key": "PT_0200_0004",
+    "original": "どのポケモンを みるか\nえらんで ください！",
+    "translation": "どのポケモンを みるか\nえらんで ください！",
+    "index": 4
+  },
+  {
+    "key": "PT_0200_0005",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 5
+  },
+  {
+    "key": "PT_0200_0006",
+    "original": "おともだちを まっています！",
+    "translation": "おともだちを まっています！",
+    "index": 6
+  },
+  {
+    "key": "PT_0200_0007",
+    "original": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "translation": "[0103,0000]さんが\n「もどる」を せんたく しました！",
+    "index": 7
+  },
+  {
+    "key": "PT_0200_0008",
+    "original": "しらべる",
+    "translation": "しらべる",
+    "index": 8
+  },
+  {
+    "key": "PT_0200_0009",
+    "original": "レベル",
+    "translation": "レベル",
+    "index": 9
+  },
+  {
+    "key": "PT_0200_0010",
+    "original": "じょうほう",
+    "translation": "じょうほう",
+    "index": 10
+  },
+  {
+    "key": "PT_0200_0011",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 11
+  },
+  {
+    "key": "PT_0200_0012",
+    "original": "ポケモンの すがたを\nみることが できます",
+    "translation": "ポケモンの すがたを\nみることが できます",
+    "index": 12
+  },
+  {
+    "key": "PT_0200_0013",
+    "original": "ポケモンの レベルを\nかえることが できます",
+    "translation": "ポケモンの レベルを\nかえることが できます",
+    "index": 13
+  },
+  {
+    "key": "PT_0200_0014",
+    "original": "あいての じょうほうを\nしることが できます",
+    "translation": "あいての じょうほうを\nしることが できます",
+    "index": 14
+  },
+  {
+    "key": "PT_0200_0015",
+    "original": "えらぶに もどります",
+    "translation": "えらぶに もどります",
+    "index": 15
+  },
+  {
+    "key": "PT_0200_0016",
+    "original": "ポケモンの しょうたいが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "translation": "ポケモンの しょうたいが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "index": 16
+  },
+  {
+    "key": "PT_0200_0017",
+    "original": "はい",
+    "translation": "はい",
+    "index": 17
+  },
+  {
+    "key": "PT_0200_0018",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 18
+  },
+  {
+    "key": "PT_0200_0019",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 19
+  },
+  {
+    "key": "PT_0200_0020",
+    "original": "ポケモンの しょうたいは\n[0100,0000] でした！",
+    "translation": "ポケモンの しょうたいは\n[0100,0000] でした！",
+    "index": 20
+  },
+  {
+    "key": "PT_0200_0021",
+    "original": "ポケモンの レベルを かえられます\nどちらに しますか？",
+    "translation": "ポケモンの レベルを かえられます\nどちらに しますか？",
+    "index": 21
+  },
+  {
+    "key": "PT_0200_0022",
+    "original": "レベル＋５",
+    "translation": "レベル＋５",
+    "index": 22
+  },
+  {
+    "key": "PT_0200_0023",
+    "original": "レベルー５",
+    "translation": "レベルー５",
+    "index": 23
+  },
+  {
+    "key": "PT_0200_0024",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 24
+  },
+  {
+    "key": "PT_0200_0025",
+    "original": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
+    "translation": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
+    "index": 25
+  },
+  {
+    "key": "PT_0200_0026",
+    "original": "はい",
+    "translation": "はい",
+    "index": 26
+  },
+  {
+    "key": "PT_0200_0027",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 27
+  },
+  {
+    "key": "PT_0200_0028",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 28
+  },
+  {
+    "key": "PT_0200_0029",
+    "original": "これいじょう あがりません！",
+    "translation": "これいじょう あがりません！",
+    "index": 29
+  },
+  {
+    "key": "PT_0200_0030",
+    "original": "これいじょう さがりません！",
+    "translation": "これいじょう さがりません！",
+    "index": 30
+  },
+  {
+    "key": "PT_0200_0031",
+    "original": "ポケモンの レベルが\n＋５ されました！",
+    "translation": "ポケモンの レベルが\n＋５ されました！",
+    "index": 31
+  },
+  {
+    "key": "PT_0200_0032",
+    "original": "ポケモンの レベルが\nー５ されました！",
+    "translation": "ポケモンの レベルが\nー５ されました！",
+    "index": 32
+  },
+  {
+    "key": "PT_0200_0033",
+    "original": "つよさ",
+    "translation": "つよさ",
+    "index": 33
+  },
+  {
+    "key": "PT_0200_0034",
+    "original": "わざ",
+    "translation": "わざ",
+    "index": 34
+  },
+  {
+    "key": "PT_0200_0035",
+    "original": "ランクアップ",
+    "translation": "ランクアップ",
+    "index": 35
+  },
+  {
+    "key": "PT_0200_0036",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 36
+  },
+  {
+    "key": "PT_0200_0037",
+    "original": "ポケモンの つよさが わかります",
+    "translation": "ポケモンの つよさが わかります",
+    "index": 37
+  },
+  {
+    "key": "PT_0200_0038",
+    "original": "ポケモンの わざが わかります",
+    "translation": "ポケモンの わざが わかります",
+    "index": 38
+  },
+  {
+    "key": "PT_0200_0039",
+    "original": "ランクアップで わざの じょうほうを\nかうことが できるように なります",
+    "translation": "ランクアップで わざの じょうほうを\nかうことが できるように なります",
+    "index": 39
+  },
+  {
+    "key": "PT_0200_0040",
+    "original": "これ いじょう\nランクは あがりません",
+    "translation": "これ いじょう\nランクは あがりません",
+    "index": 40
+  },
+  {
+    "key": "PT_0200_0041",
+    "original": "なにを するか\nえらぶに もどります",
+    "translation": "なにを するか\nえらぶに もどります",
+    "index": 41
+  },
+  {
+    "key": "PT_0200_0042",
+    "original": "じょうほうの ランクが ひくいので\nわざを みることが できません",
+    "translation": "じょうほうの ランクが ひくいので\nわざを みることが できません",
+    "index": 42
+  },
+  {
+    "key": "PT_0200_0043",
+    "original": "ポケモンの つよさが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "translation": "ポケモンの つよさが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "index": 43
+  },
+  {
+    "key": "PT_0200_0044",
+    "original": "はい",
+    "translation": "はい",
+    "index": 44
+  },
+  {
+    "key": "PT_0200_0045",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 45
+  },
+  {
+    "key": "PT_0200_0046",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 46
+  },
+  {
+    "key": "PT_0200_0047",
+    "original": "つよさの じょうほうを かいました！",
+    "translation": "つよさの じょうほうを かいました！",
+    "index": 47
+  },
+  {
+    "key": "PT_0200_0048",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 48
+  },
+  {
+    "key": "PT_0200_0049",
+    "original": "[FF00,0002][0108,0000][FF00,0000]",
+    "translation": "[FF00,0002][0108,0000][FF00,0000]",
+    "index": 49
+  },
+  {
+    "key": "PT_0200_0050",
+    "original": "せいかく",
+    "translation": "せいかく",
+    "index": 50
+  },
+  {
+    "key": "PT_0200_0051",
+    "original": "[FF00,0002][0107,0000][FF00,0000]",
+    "translation": "[FF00,0002][0107,0000][FF00,0000]",
+    "index": 51
+  },
+  {
+    "key": "PT_0200_0052",
+    "original": "とくせい",
+    "translation": "とくせい",
+    "index": 52
+  },
+  {
+    "key": "PT_0200_0053",
+    "original": "[FF00,0002][0105,0000][FF00,0000]",
+    "translation": "[FF00,0002][0105,0000][FF00,0000]",
+    "index": 53
+  },
+  {
+    "key": "PT_0200_0054",
+    "original": "こうげき",
+    "translation": "こうげき",
+    "index": 54
+  },
+  {
+    "key": "PT_0200_0055",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 55
+  },
+  {
+    "key": "PT_0200_0056",
+    "original": "ぼうぎょ",
+    "translation": "ぼうぎょ",
+    "index": 56
+  },
+  {
+    "key": "PT_0200_0057",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 57
+  },
+  {
+    "key": "PT_0200_0058",
+    "original": "とくこう",
+    "translation": "とくこう",
+    "index": 58
+  },
+  {
+    "key": "PT_0200_0059",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 59
+  },
+  {
+    "key": "PT_0200_0060",
+    "original": "とくぼう",
+    "translation": "とくぼう",
+    "index": 60
+  },
+  {
+    "key": "PT_0200_0061",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 61
+  },
+  {
+    "key": "PT_0200_0062",
+    "original": "すばやさ",
+    "translation": "すばやさ",
+    "index": 62
+  },
+  {
+    "key": "PT_0200_0063",
+    "original": "[FF00,0002][0134,0000][FF00,0000]",
+    "translation": "[FF00,0002][0134,0000][FF00,0000]",
+    "index": 63
+  },
+  {
+    "key": "PT_0200_0064",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 64
+  },
+  {
+    "key": "PT_0200_0065",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 65
+  },
+  {
+    "key": "PT_0200_0066",
+    "original": "もっている わざが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "translation": "もっている わざが わかります\n[0133,0000]ＣＰを つかいますか？",
+    "index": 66
+  },
+  {
+    "key": "PT_0200_0067",
+    "original": "はい",
+    "translation": "はい",
+    "index": 67
+  },
+  {
+    "key": "PT_0200_0068",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 68
+  },
+  {
+    "key": "PT_0200_0069",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 69
+  },
+  {
+    "key": "PT_0200_0070",
+    "original": "わざの じょうほうを かいました！",
+    "translation": "わざの じょうほうを かいました！",
+    "index": 70
+  },
+  {
+    "key": "PT_0200_0071",
+    "original": "[0106,0000]",
+    "translation": "[0106,0000]",
+    "index": 71
+  },
+  {
+    "key": "PT_0200_0072",
+    "original": "[0106,0001]",
+    "translation": "[0106,0001]",
+    "index": 72
+  },
+  {
+    "key": "PT_0200_0073",
+    "original": "[0106,0002]",
+    "translation": "[0106,0002]",
+    "index": 73
+  },
+  {
+    "key": "PT_0200_0074",
+    "original": "[0106,0003]",
+    "translation": "[0106,0003]",
+    "index": 74
+  },
+  {
+    "key": "PT_0200_0075",
+    "original": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "translation": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
+    "index": 75
+  },
+  {
+    "key": "PT_0200_0076",
+    "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "translation": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
+    "index": 76
+  },
+  {
+    "key": "PT_0200_0077",
+    "original": "はい",
+    "translation": "はい",
+    "index": 77
+  },
+  {
+    "key": "PT_0200_0078",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 78
+  },
+  {
+    "key": "PT_0200_0079",
+    "original": "ＣＰが たりません！",
+    "translation": "ＣＰが たりません！",
+    "index": 79
+  },
+  {
+    "key": "PT_0200_0080",
+    "original": "[0103,0005]は わざの じょうほうを\nかうことが できるように なりました",
+    "translation": "[0103,0005]は わざの じょうほうを\nかうことが できるように なりました",
+    "index": 80
+  }
+]

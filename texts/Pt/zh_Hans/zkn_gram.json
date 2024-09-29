@@ -1,0 +1,2966 @@
+[
+  {
+    "key": "PT_0799_0000",
+    "original": "？？？.？ｋｇ",
+    "translation": "???.?ｋｇ",
+    "index": 0
+  },
+  {
+    "key": "PT_0799_0001",
+    "original": "  ６．９ｋｇ",
+    "translation": "  ６．９ｋｇ",
+    "index": 1
+  },
+  {
+    "key": "PT_0799_0002",
+    "original": " １３．０ｋｇ",
+    "translation": " １３．０ｋｇ",
+    "index": 2
+  },
+  {
+    "key": "PT_0799_0003",
+    "original": "１００．０ｋｇ",
+    "translation": "１００．０ｋｇ",
+    "index": 3
+  },
+  {
+    "key": "PT_0799_0004",
+    "original": "  ８．５ｋｇ",
+    "translation": "  ８．５ｋｇ",
+    "index": 4
+  },
+  {
+    "key": "PT_0799_0005",
+    "original": " １９．０ｋｇ",
+    "translation": " １９．０ｋｇ",
+    "index": 5
+  },
+  {
+    "key": "PT_0799_0006",
+    "original": " ９０．５ｋｇ",
+    "translation": " ９０．５ｋｇ",
+    "index": 6
+  },
+  {
+    "key": "PT_0799_0007",
+    "original": "  ９．０ｋｇ",
+    "translation": "  ９．０ｋｇ",
+    "index": 7
+  },
+  {
+    "key": "PT_0799_0008",
+    "original": " ２２．５ｋｇ",
+    "translation": " ２２．５ｋｇ",
+    "index": 8
+  },
+  {
+    "key": "PT_0799_0009",
+    "original": " ８５．５ｋｇ",
+    "translation": " ８５．５ｋｇ",
+    "index": 9
+  },
+  {
+    "key": "PT_0799_0010",
+    "original": "  ２．９ｋｇ",
+    "translation": "  ２．９ｋｇ",
+    "index": 10
+  },
+  {
+    "key": "PT_0799_0011",
+    "original": "  ９．９ｋｇ",
+    "translation": "  ９．９ｋｇ",
+    "index": 11
+  },
+  {
+    "key": "PT_0799_0012",
+    "original": " ３２．０ｋｇ",
+    "translation": " ３２．０ｋｇ",
+    "index": 12
+  },
+  {
+    "key": "PT_0799_0013",
+    "original": "  ３．２ｋｇ",
+    "translation": "  ３．２ｋｇ",
+    "index": 13
+  },
+  {
+    "key": "PT_0799_0014",
+    "original": " １０．０ｋｇ",
+    "translation": " １０．０ｋｇ",
+    "index": 14
+  },
+  {
+    "key": "PT_0799_0015",
+    "original": " ２９．５ｋｇ",
+    "translation": " ２９．５ｋｇ",
+    "index": 15
+  },
+  {
+    "key": "PT_0799_0016",
+    "original": "  １．８ｋｇ",
+    "translation": "  １．８ｋｇ",
+    "index": 16
+  },
+  {
+    "key": "PT_0799_0017",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 17
+  },
+  {
+    "key": "PT_0799_0018",
+    "original": " ３９．５ｋｇ",
+    "translation": " ３９．５ｋｇ",
+    "index": 18
+  },
+  {
+    "key": "PT_0799_0019",
+    "original": "  ３．５ｋｇ",
+    "translation": "  ３．５ｋｇ",
+    "index": 19
+  },
+  {
+    "key": "PT_0799_0020",
+    "original": " １８．５ｋｇ",
+    "translation": " １８．５ｋｇ",
+    "index": 20
+  },
+  {
+    "key": "PT_0799_0021",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 21
+  },
+  {
+    "key": "PT_0799_0022",
+    "original": " ３８．０ｋｇ",
+    "translation": " ３８．０ｋｇ",
+    "index": 22
+  },
+  {
+    "key": "PT_0799_0023",
+    "original": "  ６．９ｋｇ",
+    "translation": "  ６．９ｋｇ",
+    "index": 23
+  },
+  {
+    "key": "PT_0799_0024",
+    "original": " ６５．０ｋｇ",
+    "translation": " ６５．０ｋｇ",
+    "index": 24
+  },
+  {
+    "key": "PT_0799_0025",
+    "original": "  ６．０ｋｇ",
+    "translation": "  ６．０ｋｇ",
+    "index": 25
+  },
+  {
+    "key": "PT_0799_0026",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 26
+  },
+  {
+    "key": "PT_0799_0027",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 27
+  },
+  {
+    "key": "PT_0799_0028",
+    "original": " ２９．５ｋｇ",
+    "translation": " ２９．５ｋｇ",
+    "index": 28
+  },
+  {
+    "key": "PT_0799_0029",
+    "original": "  ７．０ｋｇ",
+    "translation": "  ７．０ｋｇ",
+    "index": 29
+  },
+  {
+    "key": "PT_0799_0030",
+    "original": " ２０．０ｋｇ",
+    "translation": " ２０．０ｋｇ",
+    "index": 30
+  },
+  {
+    "key": "PT_0799_0031",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 31
+  },
+  {
+    "key": "PT_0799_0032",
+    "original": "  ９．０ｋｇ",
+    "translation": "  ９．０ｋｇ",
+    "index": 32
+  },
+  {
+    "key": "PT_0799_0033",
+    "original": " １９．５ｋｇ",
+    "translation": " １９．５ｋｇ",
+    "index": 33
+  },
+  {
+    "key": "PT_0799_0034",
+    "original": " ６２．０ｋｇ",
+    "translation": " ６２．０ｋｇ",
+    "index": 34
+  },
+  {
+    "key": "PT_0799_0035",
+    "original": "  ７．５ｋｇ",
+    "translation": "  ７．５ｋｇ",
+    "index": 35
+  },
+  {
+    "key": "PT_0799_0036",
+    "original": " ４０．０ｋｇ",
+    "translation": " ４０．０ｋｇ",
+    "index": 36
+  },
+  {
+    "key": "PT_0799_0037",
+    "original": "  ９．９ｋｇ",
+    "translation": "  ９．９ｋｇ",
+    "index": 37
+  },
+  {
+    "key": "PT_0799_0038",
+    "original": " １９．９ｋｇ",
+    "translation": " １９．９ｋｇ",
+    "index": 38
+  },
+  {
+    "key": "PT_0799_0039",
+    "original": "  ５．５ｋｇ",
+    "translation": "  ５．５ｋｇ",
+    "index": 39
+  },
+  {
+    "key": "PT_0799_0040",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 40
+  },
+  {
+    "key": "PT_0799_0041",
+    "original": "  ７．５ｋｇ",
+    "translation": "  ７．５ｋｇ",
+    "index": 41
+  },
+  {
+    "key": "PT_0799_0042",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 42
+  },
+  {
+    "key": "PT_0799_0043",
+    "original": "  ５．４ｋｇ",
+    "translation": "  ５．４ｋｇ",
+    "index": 43
+  },
+  {
+    "key": "PT_0799_0044",
+    "original": "  ８．６ｋｇ",
+    "translation": "  ８．６ｋｇ",
+    "index": 44
+  },
+  {
+    "key": "PT_0799_0045",
+    "original": " １８．６ｋｇ",
+    "translation": " １８．６ｋｇ",
+    "index": 45
+  },
+  {
+    "key": "PT_0799_0046",
+    "original": "  ５．４ｋｇ",
+    "translation": "  ５．４ｋｇ",
+    "index": 46
+  },
+  {
+    "key": "PT_0799_0047",
+    "original": " ２９．５ｋｇ",
+    "translation": " ２９．５ｋｇ",
+    "index": 47
+  },
+  {
+    "key": "PT_0799_0048",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 48
+  },
+  {
+    "key": "PT_0799_0049",
+    "original": " １２．５ｋｇ",
+    "translation": " １２．５ｋｇ",
+    "index": 49
+  },
+  {
+    "key": "PT_0799_0050",
+    "original": "  ０．８ｋｇ",
+    "translation": "  ０．８ｋｇ",
+    "index": 50
+  },
+  {
+    "key": "PT_0799_0051",
+    "original": " ３３．３ｋｇ",
+    "translation": " ３３．３ｋｇ",
+    "index": 51
+  },
+  {
+    "key": "PT_0799_0052",
+    "original": "  ４．２ｋｇ",
+    "translation": "  ４．２ｋｇ",
+    "index": 52
+  },
+  {
+    "key": "PT_0799_0053",
+    "original": " ３２．０ｋｇ",
+    "translation": " ３２．０ｋｇ",
+    "index": 53
+  },
+  {
+    "key": "PT_0799_0054",
+    "original": " １９．６ｋｇ",
+    "translation": " １９．６ｋｇ",
+    "index": 54
+  },
+  {
+    "key": "PT_0799_0055",
+    "original": " ７６．６ｋｇ",
+    "translation": " ７６．６ｋｇ",
+    "index": 55
+  },
+  {
+    "key": "PT_0799_0056",
+    "original": " ２８．０ｋｇ",
+    "translation": " ２８．０ｋｇ",
+    "index": 56
+  },
+  {
+    "key": "PT_0799_0057",
+    "original": " ３２．０ｋｇ",
+    "translation": " ３２．０ｋｇ",
+    "index": 57
+  },
+  {
+    "key": "PT_0799_0058",
+    "original": " １９．０ｋｇ",
+    "translation": " １９．０ｋｇ",
+    "index": 58
+  },
+  {
+    "key": "PT_0799_0059",
+    "original": "１５５．０ｋｇ",
+    "translation": "１５５．０ｋｇ",
+    "index": 59
+  },
+  {
+    "key": "PT_0799_0060",
+    "original": " １２．４ｋｇ",
+    "translation": " １２．４ｋｇ",
+    "index": 60
+  },
+  {
+    "key": "PT_0799_0061",
+    "original": " ２０．０ｋｇ",
+    "translation": " ２０．０ｋｇ",
+    "index": 61
+  },
+  {
+    "key": "PT_0799_0062",
+    "original": " ５４．０ｋｇ",
+    "translation": " ５４．０ｋｇ",
+    "index": 62
+  },
+  {
+    "key": "PT_0799_0063",
+    "original": " １９．５ｋｇ",
+    "translation": " １９．５ｋｇ",
+    "index": 63
+  },
+  {
+    "key": "PT_0799_0064",
+    "original": " ５６．５ｋｇ",
+    "translation": " ５６．５ｋｇ",
+    "index": 64
+  },
+  {
+    "key": "PT_0799_0065",
+    "original": " ４８．０ｋｇ",
+    "translation": " ４８．０ｋｇ",
+    "index": 65
+  },
+  {
+    "key": "PT_0799_0066",
+    "original": " １９．５ｋｇ",
+    "translation": " １９．５ｋｇ",
+    "index": 66
+  },
+  {
+    "key": "PT_0799_0067",
+    "original": " ７０．５ｋｇ",
+    "translation": " ７０．５ｋｇ",
+    "index": 67
+  },
+  {
+    "key": "PT_0799_0068",
+    "original": "１３０．０ｋｇ",
+    "translation": "１３０．０ｋｇ",
+    "index": 68
+  },
+  {
+    "key": "PT_0799_0069",
+    "original": "  ４．０ｋｇ",
+    "translation": "  ４．０ｋｇ",
+    "index": 69
+  },
+  {
+    "key": "PT_0799_0070",
+    "original": "  ６．４ｋｇ",
+    "translation": "  ６．４ｋｇ",
+    "index": 70
+  },
+  {
+    "key": "PT_0799_0071",
+    "original": " １５．５ｋｇ",
+    "translation": " １５．５ｋｇ",
+    "index": 71
+  },
+  {
+    "key": "PT_0799_0072",
+    "original": " ４５．５ｋｇ",
+    "translation": " ４５．５ｋｇ",
+    "index": 72
+  },
+  {
+    "key": "PT_0799_0073",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 73
+  },
+  {
+    "key": "PT_0799_0074",
+    "original": " ２０．０ｋｇ",
+    "translation": " ２０．０ｋｇ",
+    "index": 74
+  },
+  {
+    "key": "PT_0799_0075",
+    "original": "１０５．０ｋｇ",
+    "translation": "１０５．０ｋｇ",
+    "index": 75
+  },
+  {
+    "key": "PT_0799_0076",
+    "original": "３００．０ｋｇ",
+    "translation": "３００．０ｋｇ",
+    "index": 76
+  },
+  {
+    "key": "PT_0799_0077",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 77
+  },
+  {
+    "key": "PT_0799_0078",
+    "original": " ９５．０ｋｇ",
+    "translation": " ９５．０ｋｇ",
+    "index": 78
+  },
+  {
+    "key": "PT_0799_0079",
+    "original": " ３６．０ｋｇ",
+    "translation": " ３６．０ｋｇ",
+    "index": 79
+  },
+  {
+    "key": "PT_0799_0080",
+    "original": " ７８．５ｋｇ",
+    "translation": " ７８．５ｋｇ",
+    "index": 80
+  },
+  {
+    "key": "PT_0799_0081",
+    "original": "  ６．０ｋｇ",
+    "translation": "  ６．０ｋｇ",
+    "index": 81
+  },
+  {
+    "key": "PT_0799_0082",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 82
+  },
+  {
+    "key": "PT_0799_0083",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 83
+  },
+  {
+    "key": "PT_0799_0084",
+    "original": " ３９．２ｋｇ",
+    "translation": " ３９．２ｋｇ",
+    "index": 84
+  },
+  {
+    "key": "PT_0799_0085",
+    "original": " ８５．２ｋｇ",
+    "translation": " ８５．２ｋｇ",
+    "index": 85
+  },
+  {
+    "key": "PT_0799_0086",
+    "original": " ９０．０ｋｇ",
+    "translation": " ９０．０ｋｇ",
+    "index": 86
+  },
+  {
+    "key": "PT_0799_0087",
+    "original": "１２０．０ｋｇ",
+    "translation": "１２０．０ｋｇ",
+    "index": 87
+  },
+  {
+    "key": "PT_0799_0088",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 88
+  },
+  {
+    "key": "PT_0799_0089",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 89
+  },
+  {
+    "key": "PT_0799_0090",
+    "original": "  ４．０ｋｇ",
+    "translation": "  ４．０ｋｇ",
+    "index": 90
+  },
+  {
+    "key": "PT_0799_0091",
+    "original": "１３２．５ｋｇ",
+    "translation": "１３２．５ｋｇ",
+    "index": 91
+  },
+  {
+    "key": "PT_0799_0092",
+    "original": "  ０．１ｋｇ",
+    "translation": "  ０．１ｋｇ",
+    "index": 92
+  },
+  {
+    "key": "PT_0799_0093",
+    "original": "  ０．１ｋｇ",
+    "translation": "  ０．１ｋｇ",
+    "index": 93
+  },
+  {
+    "key": "PT_0799_0094",
+    "original": " ４０．５ｋｇ",
+    "translation": " ４０．５ｋｇ",
+    "index": 94
+  },
+  {
+    "key": "PT_0799_0095",
+    "original": "２１０．０ｋｇ",
+    "translation": "２１０．０ｋｇ",
+    "index": 95
+  },
+  {
+    "key": "PT_0799_0096",
+    "original": " ３２．４ｋｇ",
+    "translation": " ３２．４ｋｇ",
+    "index": 96
+  },
+  {
+    "key": "PT_0799_0097",
+    "original": " ７５．６ｋｇ",
+    "translation": " ７５．６ｋｇ",
+    "index": 97
+  },
+  {
+    "key": "PT_0799_0098",
+    "original": "  ６．５ｋｇ",
+    "translation": "  ６．５ｋｇ",
+    "index": 98
+  },
+  {
+    "key": "PT_0799_0099",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 99
+  },
+  {
+    "key": "PT_0799_0100",
+    "original": " １０．４ｋｇ",
+    "translation": " １０．４ｋｇ",
+    "index": 100
+  },
+  {
+    "key": "PT_0799_0101",
+    "original": " ６６．６ｋｇ",
+    "translation": " ６６．６ｋｇ",
+    "index": 101
+  },
+  {
+    "key": "PT_0799_0102",
+    "original": "  ２．５ｋｇ",
+    "translation": "  ２．５ｋｇ",
+    "index": 102
+  },
+  {
+    "key": "PT_0799_0103",
+    "original": "１２０．０ｋｇ",
+    "translation": "１２０．０ｋｇ",
+    "index": 103
+  },
+  {
+    "key": "PT_0799_0104",
+    "original": "  ６．５ｋｇ",
+    "translation": "  ６．５ｋｇ",
+    "index": 104
+  },
+  {
+    "key": "PT_0799_0105",
+    "original": " ４５．０ｋｇ",
+    "translation": " ４５．０ｋｇ",
+    "index": 105
+  },
+  {
+    "key": "PT_0799_0106",
+    "original": " ４９．８ｋｇ",
+    "translation": " ４９．８ｋｇ",
+    "index": 106
+  },
+  {
+    "key": "PT_0799_0107",
+    "original": " ５０．２ｋｇ",
+    "translation": " ５０．２ｋｇ",
+    "index": 107
+  },
+  {
+    "key": "PT_0799_0108",
+    "original": " ６５．５ｋｇ",
+    "translation": " ６５．５ｋｇ",
+    "index": 108
+  },
+  {
+    "key": "PT_0799_0109",
+    "original": "  １．０ｋｇ",
+    "translation": "  １．０ｋｇ",
+    "index": 109
+  },
+  {
+    "key": "PT_0799_0110",
+    "original": "  ９．５ｋｇ",
+    "translation": "  ９．５ｋｇ",
+    "index": 110
+  },
+  {
+    "key": "PT_0799_0111",
+    "original": "１１５．０ｋｇ",
+    "translation": "１１５．０ｋｇ",
+    "index": 111
+  },
+  {
+    "key": "PT_0799_0112",
+    "original": "１２０．０ｋｇ",
+    "translation": "１２０．０ｋｇ",
+    "index": 112
+  },
+  {
+    "key": "PT_0799_0113",
+    "original": " ３４．６ｋｇ",
+    "translation": " ３４．６ｋｇ",
+    "index": 113
+  },
+  {
+    "key": "PT_0799_0114",
+    "original": " ３５．０ｋｇ",
+    "translation": " ３５．０ｋｇ",
+    "index": 114
+  },
+  {
+    "key": "PT_0799_0115",
+    "original": " ８０．０ｋｇ",
+    "translation": " ８０．０ｋｇ",
+    "index": 115
+  },
+  {
+    "key": "PT_0799_0116",
+    "original": "  ８．０ｋｇ",
+    "translation": "  ８．０ｋｇ",
+    "index": 116
+  },
+  {
+    "key": "PT_0799_0117",
+    "original": " ２５．０ｋｇ",
+    "translation": " ２５．０ｋｇ",
+    "index": 117
+  },
+  {
+    "key": "PT_0799_0118",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 118
+  },
+  {
+    "key": "PT_0799_0119",
+    "original": " ３９．０ｋｇ",
+    "translation": " ３９．０ｋｇ",
+    "index": 119
+  },
+  {
+    "key": "PT_0799_0120",
+    "original": " ３４．５ｋｇ",
+    "translation": " ３４．５ｋｇ",
+    "index": 120
+  },
+  {
+    "key": "PT_0799_0121",
+    "original": " ８０．０ｋｇ",
+    "translation": " ８０．０ｋｇ",
+    "index": 121
+  },
+  {
+    "key": "PT_0799_0122",
+    "original": " ５４．５ｋｇ",
+    "translation": " ５４．５ｋｇ",
+    "index": 122
+  },
+  {
+    "key": "PT_0799_0123",
+    "original": " ５６．０ｋｇ",
+    "translation": " ５６．０ｋｇ",
+    "index": 123
+  },
+  {
+    "key": "PT_0799_0124",
+    "original": " ４０．６ｋｇ",
+    "translation": " ４０．６ｋｇ",
+    "index": 124
+  },
+  {
+    "key": "PT_0799_0125",
+    "original": " ３０．０ｋｇ",
+    "translation": " ３０．０ｋｇ",
+    "index": 125
+  },
+  {
+    "key": "PT_0799_0126",
+    "original": " ４４．５ｋｇ",
+    "translation": " ４４．５ｋｇ",
+    "index": 126
+  },
+  {
+    "key": "PT_0799_0127",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 127
+  },
+  {
+    "key": "PT_0799_0128",
+    "original": " ８８．４ｋｇ",
+    "translation": " ８８．４ｋｇ",
+    "index": 128
+  },
+  {
+    "key": "PT_0799_0129",
+    "original": " １０．０ｋｇ",
+    "translation": " １０．０ｋｇ",
+    "index": 129
+  },
+  {
+    "key": "PT_0799_0130",
+    "original": "２３５．０ｋｇ",
+    "translation": "２３５．０ｋｇ",
+    "index": 130
+  },
+  {
+    "key": "PT_0799_0131",
+    "original": "２２０．０ｋｇ",
+    "translation": "２２０．０ｋｇ",
+    "index": 131
+  },
+  {
+    "key": "PT_0799_0132",
+    "original": "  ４．０ｋｇ",
+    "translation": "  ４．０ｋｇ",
+    "index": 132
+  },
+  {
+    "key": "PT_0799_0133",
+    "original": "  ６．５ｋｇ",
+    "translation": "  ６．５ｋｇ",
+    "index": 133
+  },
+  {
+    "key": "PT_0799_0134",
+    "original": " ２９．０ｋｇ",
+    "translation": " ２９．０ｋｇ",
+    "index": 134
+  },
+  {
+    "key": "PT_0799_0135",
+    "original": " ２４．５ｋｇ",
+    "translation": " ２４．５ｋｇ",
+    "index": 135
+  },
+  {
+    "key": "PT_0799_0136",
+    "original": " ２５．０ｋｇ",
+    "translation": " ２５．０ｋｇ",
+    "index": 136
+  },
+  {
+    "key": "PT_0799_0137",
+    "original": " ３６．５ｋｇ",
+    "translation": " ３６．５ｋｇ",
+    "index": 137
+  },
+  {
+    "key": "PT_0799_0138",
+    "original": "  ７．５ｋｇ",
+    "translation": "  ７．５ｋｇ",
+    "index": 138
+  },
+  {
+    "key": "PT_0799_0139",
+    "original": " ３５．０ｋｇ",
+    "translation": " ３５．０ｋｇ",
+    "index": 139
+  },
+  {
+    "key": "PT_0799_0140",
+    "original": " １１．５ｋｇ",
+    "translation": " １１．５ｋｇ",
+    "index": 140
+  },
+  {
+    "key": "PT_0799_0141",
+    "original": " ４０．５ｋｇ",
+    "translation": " ４０．５ｋｇ",
+    "index": 141
+  },
+  {
+    "key": "PT_0799_0142",
+    "original": " ５９．０ｋｇ",
+    "translation": " ５９．０ｋｇ",
+    "index": 142
+  },
+  {
+    "key": "PT_0799_0143",
+    "original": "４６０．０ｋｇ",
+    "translation": "４６０．０ｋｇ",
+    "index": 143
+  },
+  {
+    "key": "PT_0799_0144",
+    "original": " ５５．４ｋｇ",
+    "translation": " ５５．４ｋｇ",
+    "index": 144
+  },
+  {
+    "key": "PT_0799_0145",
+    "original": " ５２．６ｋｇ",
+    "translation": " ５２．６ｋｇ",
+    "index": 145
+  },
+  {
+    "key": "PT_0799_0146",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 146
+  },
+  {
+    "key": "PT_0799_0147",
+    "original": "  ３．３ｋｇ",
+    "translation": "  ３．３ｋｇ",
+    "index": 147
+  },
+  {
+    "key": "PT_0799_0148",
+    "original": " １６．５ｋｇ",
+    "translation": " １６．５ｋｇ",
+    "index": 148
+  },
+  {
+    "key": "PT_0799_0149",
+    "original": "２１０．０ｋｇ",
+    "translation": "２１０．０ｋｇ",
+    "index": 149
+  },
+  {
+    "key": "PT_0799_0150",
+    "original": "１２２．０ｋｇ",
+    "translation": "１２２．０ｋｇ",
+    "index": 150
+  },
+  {
+    "key": "PT_0799_0151",
+    "original": "  ４．０ｋｇ",
+    "translation": "  ４．０ｋｇ",
+    "index": 151
+  },
+  {
+    "key": "PT_0799_0152",
+    "original": "  ６．４ｋｇ",
+    "translation": "  ６．４ｋｇ",
+    "index": 152
+  },
+  {
+    "key": "PT_0799_0153",
+    "original": " １５．８ｋｇ",
+    "translation": " １５．８ｋｇ",
+    "index": 153
+  },
+  {
+    "key": "PT_0799_0154",
+    "original": "１００．５ｋｇ",
+    "translation": "１００．５ｋｇ",
+    "index": 154
+  },
+  {
+    "key": "PT_0799_0155",
+    "original": "  ７．９ｋｇ",
+    "translation": "  ７．９ｋｇ",
+    "index": 155
+  },
+  {
+    "key": "PT_0799_0156",
+    "original": " １９．０ｋｇ",
+    "translation": " １９．０ｋｇ",
+    "index": 156
+  },
+  {
+    "key": "PT_0799_0157",
+    "original": " ７９．５ｋｇ",
+    "translation": " ７９．５ｋｇ",
+    "index": 157
+  },
+  {
+    "key": "PT_0799_0158",
+    "original": "  ９．５ｋｇ",
+    "translation": "  ９．５ｋｇ",
+    "index": 158
+  },
+  {
+    "key": "PT_0799_0159",
+    "original": " ２５．０ｋｇ",
+    "translation": " ２５．０ｋｇ",
+    "index": 159
+  },
+  {
+    "key": "PT_0799_0160",
+    "original": " ８８．８ｋｇ",
+    "translation": " ８８．８ｋｇ",
+    "index": 160
+  },
+  {
+    "key": "PT_0799_0161",
+    "original": "  ６．０ｋｇ",
+    "translation": "  ６．０ｋｇ",
+    "index": 161
+  },
+  {
+    "key": "PT_0799_0162",
+    "original": " ３２．５ｋｇ",
+    "translation": " ３２．５ｋｇ",
+    "index": 162
+  },
+  {
+    "key": "PT_0799_0163",
+    "original": " ２１．２ｋｇ",
+    "translation": " ２１．２ｋｇ",
+    "index": 163
+  },
+  {
+    "key": "PT_0799_0164",
+    "original": " ４０．８ｋｇ",
+    "translation": " ４０．８ｋｇ",
+    "index": 164
+  },
+  {
+    "key": "PT_0799_0165",
+    "original": " １０．８ｋｇ",
+    "translation": " １０．８ｋｇ",
+    "index": 165
+  },
+  {
+    "key": "PT_0799_0166",
+    "original": " ３５．６ｋｇ",
+    "translation": " ３５．６ｋｇ",
+    "index": 166
+  },
+  {
+    "key": "PT_0799_0167",
+    "original": "  ８．５ｋｇ",
+    "translation": "  ８．５ｋｇ",
+    "index": 167
+  },
+  {
+    "key": "PT_0799_0168",
+    "original": " ３３．５ｋｇ",
+    "translation": " ３３．５ｋｇ",
+    "index": 168
+  },
+  {
+    "key": "PT_0799_0169",
+    "original": " ７５．０ｋｇ",
+    "translation": " ７５．０ｋｇ",
+    "index": 169
+  },
+  {
+    "key": "PT_0799_0170",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 170
+  },
+  {
+    "key": "PT_0799_0171",
+    "original": " ２２．５ｋｇ",
+    "translation": " ２２．５ｋｇ",
+    "index": 171
+  },
+  {
+    "key": "PT_0799_0172",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 172
+  },
+  {
+    "key": "PT_0799_0173",
+    "original": "  ３．０ｋｇ",
+    "translation": "  ３．０ｋｇ",
+    "index": 173
+  },
+  {
+    "key": "PT_0799_0174",
+    "original": "  １．０ｋｇ",
+    "translation": "  １．０ｋｇ",
+    "index": 174
+  },
+  {
+    "key": "PT_0799_0175",
+    "original": "  １．５ｋｇ",
+    "translation": "  １．５ｋｇ",
+    "index": 175
+  },
+  {
+    "key": "PT_0799_0176",
+    "original": "  ３．２ｋｇ",
+    "translation": "  ３．２ｋｇ",
+    "index": 176
+  },
+  {
+    "key": "PT_0799_0177",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 177
+  },
+  {
+    "key": "PT_0799_0178",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 178
+  },
+  {
+    "key": "PT_0799_0179",
+    "original": "  ７．８ｋｇ",
+    "translation": "  ７．８ｋｇ",
+    "index": 179
+  },
+  {
+    "key": "PT_0799_0180",
+    "original": " １３．３ｋｇ",
+    "translation": " １３．３ｋｇ",
+    "index": 180
+  },
+  {
+    "key": "PT_0799_0181",
+    "original": " ６１．５ｋｇ",
+    "translation": " ６１．５ｋｇ",
+    "index": 181
+  },
+  {
+    "key": "PT_0799_0182",
+    "original": "  ５．８ｋｇ",
+    "translation": "  ５．８ｋｇ",
+    "index": 182
+  },
+  {
+    "key": "PT_0799_0183",
+    "original": "  ８．５ｋｇ",
+    "translation": "  ８．５ｋｇ",
+    "index": 183
+  },
+  {
+    "key": "PT_0799_0184",
+    "original": " ２８．５ｋｇ",
+    "translation": " ２８．５ｋｇ",
+    "index": 184
+  },
+  {
+    "key": "PT_0799_0185",
+    "original": " ３８．０ｋｇ",
+    "translation": " ３８．０ｋｇ",
+    "index": 185
+  },
+  {
+    "key": "PT_0799_0186",
+    "original": " ３３．９ｋｇ",
+    "translation": " ３３．９ｋｇ",
+    "index": 186
+  },
+  {
+    "key": "PT_0799_0187",
+    "original": "  ０．５ｋｇ",
+    "translation": "  ０．５ｋｇ",
+    "index": 187
+  },
+  {
+    "key": "PT_0799_0188",
+    "original": "  １．０ｋｇ",
+    "translation": "  １．０ｋｇ",
+    "index": 188
+  },
+  {
+    "key": "PT_0799_0189",
+    "original": "  ３．０ｋｇ",
+    "translation": "  ３．０ｋｇ",
+    "index": 189
+  },
+  {
+    "key": "PT_0799_0190",
+    "original": " １１．５ｋｇ",
+    "translation": " １１．５ｋｇ",
+    "index": 190
+  },
+  {
+    "key": "PT_0799_0191",
+    "original": "  １．８ｋｇ",
+    "translation": "  １．８ｋｇ",
+    "index": 191
+  },
+  {
+    "key": "PT_0799_0192",
+    "original": "  ８．５ｋｇ",
+    "translation": "  ８．５ｋｇ",
+    "index": 192
+  },
+  {
+    "key": "PT_0799_0193",
+    "original": " ３８．０ｋｇ",
+    "translation": " ３８．０ｋｇ",
+    "index": 193
+  },
+  {
+    "key": "PT_0799_0194",
+    "original": "  ８．５ｋｇ",
+    "translation": "  ８．５ｋｇ",
+    "index": 194
+  },
+  {
+    "key": "PT_0799_0195",
+    "original": " ７５．０ｋｇ",
+    "translation": " ７５．０ｋｇ",
+    "index": 195
+  },
+  {
+    "key": "PT_0799_0196",
+    "original": " ２６．５ｋｇ",
+    "translation": " ２６．５ｋｇ",
+    "index": 196
+  },
+  {
+    "key": "PT_0799_0197",
+    "original": " ２７．０ｋｇ",
+    "translation": " ２７．０ｋｇ",
+    "index": 197
+  },
+  {
+    "key": "PT_0799_0198",
+    "original": "  ２．１ｋｇ",
+    "translation": "  ２．１ｋｇ",
+    "index": 198
+  },
+  {
+    "key": "PT_0799_0199",
+    "original": " ７９．５ｋｇ",
+    "translation": " ７９．５ｋｇ",
+    "index": 199
+  },
+  {
+    "key": "PT_0799_0200",
+    "original": "  １．０ｋｇ",
+    "translation": "  １．０ｋｇ",
+    "index": 200
+  },
+  {
+    "key": "PT_0799_0201",
+    "original": "  ５．０ｋｇ",
+    "translation": "  ５．０ｋｇ",
+    "index": 201
+  },
+  {
+    "key": "PT_0799_0202",
+    "original": " ２８．５ｋｇ",
+    "translation": " ２８．５ｋｇ",
+    "index": 202
+  },
+  {
+    "key": "PT_0799_0203",
+    "original": " ４１．５ｋｇ",
+    "translation": " ４１．５ｋｇ",
+    "index": 203
+  },
+  {
+    "key": "PT_0799_0204",
+    "original": "  ７．２ｋｇ",
+    "translation": "  ７．２ｋｇ",
+    "index": 204
+  },
+  {
+    "key": "PT_0799_0205",
+    "original": "１２５．８ｋｇ",
+    "translation": "１２５．８ｋｇ",
+    "index": 205
+  },
+  {
+    "key": "PT_0799_0206",
+    "original": " １４．０ｋｇ",
+    "translation": " １４．０ｋｇ",
+    "index": 206
+  },
+  {
+    "key": "PT_0799_0207",
+    "original": " ６４．８ｋｇ",
+    "translation": " ６４．８ｋｇ",
+    "index": 207
+  },
+  {
+    "key": "PT_0799_0208",
+    "original": "４００．０ｋｇ",
+    "translation": "４００．０ｋｇ",
+    "index": 208
+  },
+  {
+    "key": "PT_0799_0209",
+    "original": "  ７．８ｋｇ",
+    "translation": "  ７．８ｋｇ",
+    "index": 209
+  },
+  {
+    "key": "PT_0799_0210",
+    "original": " ４８．７ｋｇ",
+    "translation": " ４８．７ｋｇ",
+    "index": 210
+  },
+  {
+    "key": "PT_0799_0211",
+    "original": "  ３．９ｋｇ",
+    "translation": "  ３．９ｋｇ",
+    "index": 211
+  },
+  {
+    "key": "PT_0799_0212",
+    "original": "１１８．０ｋｇ",
+    "translation": "１１８．０ｋｇ",
+    "index": 212
+  },
+  {
+    "key": "PT_0799_0213",
+    "original": " ２０．５ｋｇ",
+    "translation": " ２０．５ｋｇ",
+    "index": 213
+  },
+  {
+    "key": "PT_0799_0214",
+    "original": " ５４．０ｋｇ",
+    "translation": " ５４．０ｋｇ",
+    "index": 214
+  },
+  {
+    "key": "PT_0799_0215",
+    "original": " ２８．０ｋｇ",
+    "translation": " ２８．０ｋｇ",
+    "index": 215
+  },
+  {
+    "key": "PT_0799_0216",
+    "original": "  ８．８ｋｇ",
+    "translation": "  ８．８ｋｇ",
+    "index": 216
+  },
+  {
+    "key": "PT_0799_0217",
+    "original": "１２５．８ｋｇ",
+    "translation": "１２５．８ｋｇ",
+    "index": 217
+  },
+  {
+    "key": "PT_0799_0218",
+    "original": " ３５．０ｋｇ",
+    "translation": " ３５．０ｋｇ",
+    "index": 218
+  },
+  {
+    "key": "PT_0799_0219",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 219
+  },
+  {
+    "key": "PT_0799_0220",
+    "original": "  ６．５ｋｇ",
+    "translation": "  ６．５ｋｇ",
+    "index": 220
+  },
+  {
+    "key": "PT_0799_0221",
+    "original": " ５５．８ｋｇ",
+    "translation": " ５５．８ｋｇ",
+    "index": 221
+  },
+  {
+    "key": "PT_0799_0222",
+    "original": "  ５．０ｋｇ",
+    "translation": "  ５．０ｋｇ",
+    "index": 222
+  },
+  {
+    "key": "PT_0799_0223",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 223
+  },
+  {
+    "key": "PT_0799_0224",
+    "original": " ２８．５ｋｇ",
+    "translation": " ２８．５ｋｇ",
+    "index": 224
+  },
+  {
+    "key": "PT_0799_0225",
+    "original": " １６．０ｋｇ",
+    "translation": " １６．０ｋｇ",
+    "index": 225
+  },
+  {
+    "key": "PT_0799_0226",
+    "original": "２２０．０ｋｇ",
+    "translation": "２２０．０ｋｇ",
+    "index": 226
+  },
+  {
+    "key": "PT_0799_0227",
+    "original": " ５０．５ｋｇ",
+    "translation": " ５０．５ｋｇ",
+    "index": 227
+  },
+  {
+    "key": "PT_0799_0228",
+    "original": " １０．８ｋｇ",
+    "translation": " １０．８ｋｇ",
+    "index": 228
+  },
+  {
+    "key": "PT_0799_0229",
+    "original": " ３５．０ｋｇ",
+    "translation": " ３５．０ｋｇ",
+    "index": 229
+  },
+  {
+    "key": "PT_0799_0230",
+    "original": "１５２．０ｋｇ",
+    "translation": "１５２．０ｋｇ",
+    "index": 230
+  },
+  {
+    "key": "PT_0799_0231",
+    "original": " ３３．５ｋｇ",
+    "translation": " ３３．５ｋｇ",
+    "index": 231
+  },
+  {
+    "key": "PT_0799_0232",
+    "original": "１２０．０ｋｇ",
+    "translation": "１２０．０ｋｇ",
+    "index": 232
+  },
+  {
+    "key": "PT_0799_0233",
+    "original": " ３２．５ｋｇ",
+    "translation": " ３２．５ｋｇ",
+    "index": 233
+  },
+  {
+    "key": "PT_0799_0234",
+    "original": " ７１．２ｋｇ",
+    "translation": " ７１．２ｋｇ",
+    "index": 234
+  },
+  {
+    "key": "PT_0799_0235",
+    "original": " ５８．０ｋｇ",
+    "translation": " ５８．０ｋｇ",
+    "index": 235
+  },
+  {
+    "key": "PT_0799_0236",
+    "original": " ２１．０ｋｇ",
+    "translation": " ２１．０ｋｇ",
+    "index": 236
+  },
+  {
+    "key": "PT_0799_0237",
+    "original": " ４８．０ｋｇ",
+    "translation": " ４８．０ｋｇ",
+    "index": 237
+  },
+  {
+    "key": "PT_0799_0238",
+    "original": "  ６．０ｋｇ",
+    "translation": "  ６．０ｋｇ",
+    "index": 238
+  },
+  {
+    "key": "PT_0799_0239",
+    "original": " ２３．５ｋｇ",
+    "translation": " ２３．５ｋｇ",
+    "index": 239
+  },
+  {
+    "key": "PT_0799_0240",
+    "original": " ２１．４ｋｇ",
+    "translation": " ２１．４ｋｇ",
+    "index": 240
+  },
+  {
+    "key": "PT_0799_0241",
+    "original": " ７５．５ｋｇ",
+    "translation": " ７５．５ｋｇ",
+    "index": 241
+  },
+  {
+    "key": "PT_0799_0242",
+    "original": " ４６．８ｋｇ",
+    "translation": " ４６．８ｋｇ",
+    "index": 242
+  },
+  {
+    "key": "PT_0799_0243",
+    "original": "１７８．０ｋｇ",
+    "translation": "１７８．０ｋｇ",
+    "index": 243
+  },
+  {
+    "key": "PT_0799_0244",
+    "original": "１９８．０ｋｇ",
+    "translation": "１９８．０ｋｇ",
+    "index": 244
+  },
+  {
+    "key": "PT_0799_0245",
+    "original": "１８７．０ｋｇ",
+    "translation": "１８７．０ｋｇ",
+    "index": 245
+  },
+  {
+    "key": "PT_0799_0246",
+    "original": " ７２．０ｋｇ",
+    "translation": " ７２．０ｋｇ",
+    "index": 246
+  },
+  {
+    "key": "PT_0799_0247",
+    "original": "１５２．０ｋｇ",
+    "translation": "１５２．０ｋｇ",
+    "index": 247
+  },
+  {
+    "key": "PT_0799_0248",
+    "original": "２０２．０ｋｇ",
+    "translation": "２０２．０ｋｇ",
+    "index": 248
+  },
+  {
+    "key": "PT_0799_0249",
+    "original": "２１６．０ｋｇ",
+    "translation": "２１６．０ｋｇ",
+    "index": 249
+  },
+  {
+    "key": "PT_0799_0250",
+    "original": "１９９．０ｋｇ",
+    "translation": "１９９．０ｋｇ",
+    "index": 250
+  },
+  {
+    "key": "PT_0799_0251",
+    "original": "  ５．０ｋｇ",
+    "translation": "  ５．０ｋｇ",
+    "index": 251
+  },
+  {
+    "key": "PT_0799_0252",
+    "original": "  ５．０ｋｇ",
+    "translation": "  ５．０ｋｇ",
+    "index": 252
+  },
+  {
+    "key": "PT_0799_0253",
+    "original": " ２１．６ｋｇ",
+    "translation": " ２１．６ｋｇ",
+    "index": 253
+  },
+  {
+    "key": "PT_0799_0254",
+    "original": " ５２．２ｋｇ",
+    "translation": " ５２．２ｋｇ",
+    "index": 254
+  },
+  {
+    "key": "PT_0799_0255",
+    "original": "  ２．５ｋｇ",
+    "translation": "  ２．５ｋｇ",
+    "index": 255
+  },
+  {
+    "key": "PT_0799_0256",
+    "original": " １９．５ｋｇ",
+    "translation": " １９．５ｋｇ",
+    "index": 256
+  },
+  {
+    "key": "PT_0799_0257",
+    "original": " ５２．０ｋｇ",
+    "translation": " ５２．０ｋｇ",
+    "index": 257
+  },
+  {
+    "key": "PT_0799_0258",
+    "original": "  ７．６ｋｇ",
+    "translation": "  ７．６ｋｇ",
+    "index": 258
+  },
+  {
+    "key": "PT_0799_0259",
+    "original": " ２８．０ｋｇ",
+    "translation": " ２８．０ｋｇ",
+    "index": 259
+  },
+  {
+    "key": "PT_0799_0260",
+    "original": " ８１．９ｋｇ",
+    "translation": " ８１．９ｋｇ",
+    "index": 260
+  },
+  {
+    "key": "PT_0799_0261",
+    "original": " １３．６ｋｇ",
+    "translation": " １３．６ｋｇ",
+    "index": 261
+  },
+  {
+    "key": "PT_0799_0262",
+    "original": " ３７．０ｋｇ",
+    "translation": " ３７．０ｋｇ",
+    "index": 262
+  },
+  {
+    "key": "PT_0799_0263",
+    "original": " １７．５ｋｇ",
+    "translation": " １７．５ｋｇ",
+    "index": 263
+  },
+  {
+    "key": "PT_0799_0264",
+    "original": " ３２．５ｋｇ",
+    "translation": " ３２．５ｋｇ",
+    "index": 264
+  },
+  {
+    "key": "PT_0799_0265",
+    "original": "  ３．６ｋｇ",
+    "translation": "  ３．６ｋｇ",
+    "index": 265
+  },
+  {
+    "key": "PT_0799_0266",
+    "original": " １０．０ｋｇ",
+    "translation": " １０．０ｋｇ",
+    "index": 266
+  },
+  {
+    "key": "PT_0799_0267",
+    "original": " ２８．４ｋｇ",
+    "translation": " ２８．４ｋｇ",
+    "index": 267
+  },
+  {
+    "key": "PT_0799_0268",
+    "original": " １１．５ｋｇ",
+    "translation": " １１．５ｋｇ",
+    "index": 268
+  },
+  {
+    "key": "PT_0799_0269",
+    "original": " ３１．６ｋｇ",
+    "translation": " ３１．６ｋｇ",
+    "index": 269
+  },
+  {
+    "key": "PT_0799_0270",
+    "original": "  ２．６ｋｇ",
+    "translation": "  ２．６ｋｇ",
+    "index": 270
+  },
+  {
+    "key": "PT_0799_0271",
+    "original": " ３２．５ｋｇ",
+    "translation": " ３２．５ｋｇ",
+    "index": 271
+  },
+  {
+    "key": "PT_0799_0272",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 272
+  },
+  {
+    "key": "PT_0799_0273",
+    "original": "  ４．０ｋｇ",
+    "translation": "  ４．０ｋｇ",
+    "index": 273
+  },
+  {
+    "key": "PT_0799_0274",
+    "original": " ２８．０ｋｇ",
+    "translation": " ２８．０ｋｇ",
+    "index": 274
+  },
+  {
+    "key": "PT_0799_0275",
+    "original": " ５９．６ｋｇ",
+    "translation": " ５９．６ｋｇ",
+    "index": 275
+  },
+  {
+    "key": "PT_0799_0276",
+    "original": "  ２．３ｋｇ",
+    "translation": "  ２．３ｋｇ",
+    "index": 276
+  },
+  {
+    "key": "PT_0799_0277",
+    "original": " １９．８ｋｇ",
+    "translation": " １９．８ｋｇ",
+    "index": 277
+  },
+  {
+    "key": "PT_0799_0278",
+    "original": "  ９．５ｋｇ",
+    "translation": "  ９．５ｋｇ",
+    "index": 278
+  },
+  {
+    "key": "PT_0799_0279",
+    "original": " ２８．０ｋｇ",
+    "translation": " ２８．０ｋｇ",
+    "index": 279
+  },
+  {
+    "key": "PT_0799_0280",
+    "original": "  ６．６ｋｇ",
+    "translation": "  ６．６ｋｇ",
+    "index": 280
+  },
+  {
+    "key": "PT_0799_0281",
+    "original": " ２０．２ｋｇ",
+    "translation": " ２０．２ｋｇ",
+    "index": 281
+  },
+  {
+    "key": "PT_0799_0282",
+    "original": " ４８．４ｋｇ",
+    "translation": " ４８．４ｋｇ",
+    "index": 282
+  },
+  {
+    "key": "PT_0799_0283",
+    "original": "  １．７ｋｇ",
+    "translation": "  １．７ｋｇ",
+    "index": 283
+  },
+  {
+    "key": "PT_0799_0284",
+    "original": "  ３．６ｋｇ",
+    "translation": "  ３．６ｋｇ",
+    "index": 284
+  },
+  {
+    "key": "PT_0799_0285",
+    "original": "  ４．５ｋｇ",
+    "translation": "  ４．５ｋｇ",
+    "index": 285
+  },
+  {
+    "key": "PT_0799_0286",
+    "original": " ３９．２ｋｇ",
+    "translation": " ３９．２ｋｇ",
+    "index": 286
+  },
+  {
+    "key": "PT_0799_0287",
+    "original": " ２４．０ｋｇ",
+    "translation": " ２４．０ｋｇ",
+    "index": 287
+  },
+  {
+    "key": "PT_0799_0288",
+    "original": " ４６．５ｋｇ",
+    "translation": " ４６．５ｋｇ",
+    "index": 288
+  },
+  {
+    "key": "PT_0799_0289",
+    "original": "１３０．５ｋｇ",
+    "translation": "１３０．５ｋｇ",
+    "index": 289
+  },
+  {
+    "key": "PT_0799_0290",
+    "original": "  ５．５ｋｇ",
+    "translation": "  ５．５ｋｇ",
+    "index": 290
+  },
+  {
+    "key": "PT_0799_0291",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 291
+  },
+  {
+    "key": "PT_0799_0292",
+    "original": "  １．２ｋｇ",
+    "translation": "  １．２ｋｇ",
+    "index": 292
+  },
+  {
+    "key": "PT_0799_0293",
+    "original": " １６．３ｋｇ",
+    "translation": " １６．３ｋｇ",
+    "index": 293
+  },
+  {
+    "key": "PT_0799_0294",
+    "original": " ４０．５ｋｇ",
+    "translation": " ４０．５ｋｇ",
+    "index": 294
+  },
+  {
+    "key": "PT_0799_0295",
+    "original": " ８４．０ｋｇ",
+    "translation": " ８４．０ｋｇ",
+    "index": 295
+  },
+  {
+    "key": "PT_0799_0296",
+    "original": " ８６．４ｋｇ",
+    "translation": " ８６．４ｋｇ",
+    "index": 296
+  },
+  {
+    "key": "PT_0799_0297",
+    "original": "２５３．８ｋｇ",
+    "translation": "２５３．８ｋｇ",
+    "index": 297
+  },
+  {
+    "key": "PT_0799_0298",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 298
+  },
+  {
+    "key": "PT_0799_0299",
+    "original": " ９７．０ｋｇ",
+    "translation": " ９７．０ｋｇ",
+    "index": 299
+  },
+  {
+    "key": "PT_0799_0300",
+    "original": " １１．０ｋｇ",
+    "translation": " １１．０ｋｇ",
+    "index": 300
+  },
+  {
+    "key": "PT_0799_0301",
+    "original": " ３２．６ｋｇ",
+    "translation": " ３２．６ｋｇ",
+    "index": 301
+  },
+  {
+    "key": "PT_0799_0302",
+    "original": " １１．０ｋｇ",
+    "translation": " １１．０ｋｇ",
+    "index": 302
+  },
+  {
+    "key": "PT_0799_0303",
+    "original": " １１．５ｋｇ",
+    "translation": " １１．５ｋｇ",
+    "index": 303
+  },
+  {
+    "key": "PT_0799_0304",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 304
+  },
+  {
+    "key": "PT_0799_0305",
+    "original": "１２０．０ｋｇ",
+    "translation": "１２０．０ｋｇ",
+    "index": 305
+  },
+  {
+    "key": "PT_0799_0306",
+    "original": "３６０．０ｋｇ",
+    "translation": "３６０．０ｋｇ",
+    "index": 306
+  },
+  {
+    "key": "PT_0799_0307",
+    "original": " １１．２ｋｇ",
+    "translation": " １１．２ｋｇ",
+    "index": 307
+  },
+  {
+    "key": "PT_0799_0308",
+    "original": " ３１．５ｋｇ",
+    "translation": " ３１．５ｋｇ",
+    "index": 308
+  },
+  {
+    "key": "PT_0799_0309",
+    "original": " １５．２ｋｇ",
+    "translation": " １５．２ｋｇ",
+    "index": 309
+  },
+  {
+    "key": "PT_0799_0310",
+    "original": " ４０．２ｋｇ",
+    "translation": " ４０．２ｋｇ",
+    "index": 310
+  },
+  {
+    "key": "PT_0799_0311",
+    "original": "  ４．２ｋｇ",
+    "translation": "  ４．２ｋｇ",
+    "index": 311
+  },
+  {
+    "key": "PT_0799_0312",
+    "original": "  ４．２ｋｇ",
+    "translation": "  ４．２ｋｇ",
+    "index": 312
+  },
+  {
+    "key": "PT_0799_0313",
+    "original": " １７．７ｋｇ",
+    "translation": " １７．７ｋｇ",
+    "index": 313
+  },
+  {
+    "key": "PT_0799_0314",
+    "original": " １７．７ｋｇ",
+    "translation": " １７．７ｋｇ",
+    "index": 314
+  },
+  {
+    "key": "PT_0799_0315",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 315
+  },
+  {
+    "key": "PT_0799_0316",
+    "original": " １０．３ｋｇ",
+    "translation": " １０．３ｋｇ",
+    "index": 316
+  },
+  {
+    "key": "PT_0799_0317",
+    "original": " ８０．０ｋｇ",
+    "translation": " ８０．０ｋｇ",
+    "index": 317
+  },
+  {
+    "key": "PT_0799_0318",
+    "original": " ２０．８ｋｇ",
+    "translation": " ２０．８ｋｇ",
+    "index": 318
+  },
+  {
+    "key": "PT_0799_0319",
+    "original": " ８８．８ｋｇ",
+    "translation": " ８８．８ｋｇ",
+    "index": 319
+  },
+  {
+    "key": "PT_0799_0320",
+    "original": "１３０．０ｋｇ",
+    "translation": "１３０．０ｋｇ",
+    "index": 320
+  },
+  {
+    "key": "PT_0799_0321",
+    "original": "３９８．０ｋｇ",
+    "translation": "３９８．０ｋｇ",
+    "index": 321
+  },
+  {
+    "key": "PT_0799_0322",
+    "original": " ２４．０ｋｇ",
+    "translation": " ２４．０ｋｇ",
+    "index": 322
+  },
+  {
+    "key": "PT_0799_0323",
+    "original": "２２０．０ｋｇ",
+    "translation": "２２０．０ｋｇ",
+    "index": 323
+  },
+  {
+    "key": "PT_0799_0324",
+    "original": " ８０．４ｋｇ",
+    "translation": " ８０．４ｋｇ",
+    "index": 324
+  },
+  {
+    "key": "PT_0799_0325",
+    "original": " ３０．６ｋｇ",
+    "translation": " ３０．６ｋｇ",
+    "index": 325
+  },
+  {
+    "key": "PT_0799_0326",
+    "original": " ７１．５ｋｇ",
+    "translation": " ７１．５ｋｇ",
+    "index": 326
+  },
+  {
+    "key": "PT_0799_0327",
+    "original": "  ５．０ｋｇ",
+    "translation": "  ５．０ｋｇ",
+    "index": 327
+  },
+  {
+    "key": "PT_0799_0328",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 328
+  },
+  {
+    "key": "PT_0799_0329",
+    "original": " １５．３ｋｇ",
+    "translation": " １５．３ｋｇ",
+    "index": 329
+  },
+  {
+    "key": "PT_0799_0330",
+    "original": " ８２．０ｋｇ",
+    "translation": " ８２．０ｋｇ",
+    "index": 330
+  },
+  {
+    "key": "PT_0799_0331",
+    "original": " ５１．３ｋｇ",
+    "translation": " ５１．３ｋｇ",
+    "index": 331
+  },
+  {
+    "key": "PT_0799_0332",
+    "original": " ７７．４ｋｇ",
+    "translation": " ７７．４ｋｇ",
+    "index": 332
+  },
+  {
+    "key": "PT_0799_0333",
+    "original": "  １．２ｋｇ",
+    "translation": "  １．２ｋｇ",
+    "index": 333
+  },
+  {
+    "key": "PT_0799_0334",
+    "original": " ２０．６ｋｇ",
+    "translation": " ２０．６ｋｇ",
+    "index": 334
+  },
+  {
+    "key": "PT_0799_0335",
+    "original": " ４０．３ｋｇ",
+    "translation": " ４０．３ｋｇ",
+    "index": 335
+  },
+  {
+    "key": "PT_0799_0336",
+    "original": " ５２．５ｋｇ",
+    "translation": " ５２．５ｋｇ",
+    "index": 336
+  },
+  {
+    "key": "PT_0799_0337",
+    "original": "１６８．０ｋｇ",
+    "translation": "１６８．０ｋｇ",
+    "index": 337
+  },
+  {
+    "key": "PT_0799_0338",
+    "original": "１５４．０ｋｇ",
+    "translation": "１５４．０ｋｇ",
+    "index": 338
+  },
+  {
+    "key": "PT_0799_0339",
+    "original": "  １．９ｋｇ",
+    "translation": "  １．９ｋｇ",
+    "index": 339
+  },
+  {
+    "key": "PT_0799_0340",
+    "original": " ２３．６ｋｇ",
+    "translation": " ２３．６ｋｇ",
+    "index": 340
+  },
+  {
+    "key": "PT_0799_0341",
+    "original": " １１．５ｋｇ",
+    "translation": " １１．５ｋｇ",
+    "index": 341
+  },
+  {
+    "key": "PT_0799_0342",
+    "original": " ３２．８ｋｇ",
+    "translation": " ３２．８ｋｇ",
+    "index": 342
+  },
+  {
+    "key": "PT_0799_0343",
+    "original": " ２１．５ｋｇ",
+    "translation": " ２１．５ｋｇ",
+    "index": 343
+  },
+  {
+    "key": "PT_0799_0344",
+    "original": "１０８．０ｋｇ",
+    "translation": "１０８．０ｋｇ",
+    "index": 344
+  },
+  {
+    "key": "PT_0799_0345",
+    "original": " ２３．８ｋｇ",
+    "translation": " ２３．８ｋｇ",
+    "index": 345
+  },
+  {
+    "key": "PT_0799_0346",
+    "original": " ６０．４ｋｇ",
+    "translation": " ６０．４ｋｇ",
+    "index": 346
+  },
+  {
+    "key": "PT_0799_0347",
+    "original": " １２．５ｋｇ",
+    "translation": " １２．５ｋｇ",
+    "index": 347
+  },
+  {
+    "key": "PT_0799_0348",
+    "original": " ６８．２ｋｇ",
+    "translation": " ６８．２ｋｇ",
+    "index": 348
+  },
+  {
+    "key": "PT_0799_0349",
+    "original": "  ７．４ｋｇ",
+    "translation": "  ７．４ｋｇ",
+    "index": 349
+  },
+  {
+    "key": "PT_0799_0350",
+    "original": "１６２．０ｋｇ",
+    "translation": "１６２．０ｋｇ",
+    "index": 350
+  },
+  {
+    "key": "PT_0799_0351",
+    "original": "  ０．８ｋｇ",
+    "translation": "  ０．８ｋｇ",
+    "index": 351
+  },
+  {
+    "key": "PT_0799_0352",
+    "original": " ２２．０ｋｇ",
+    "translation": " ２２．０ｋｇ",
+    "index": 352
+  },
+  {
+    "key": "PT_0799_0353",
+    "original": "  ２．３ｋｇ",
+    "translation": "  ２．３ｋｇ",
+    "index": 353
+  },
+  {
+    "key": "PT_0799_0354",
+    "original": " １２．５ｋｇ",
+    "translation": " １２．５ｋｇ",
+    "index": 354
+  },
+  {
+    "key": "PT_0799_0355",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 355
+  },
+  {
+    "key": "PT_0799_0356",
+    "original": " ３０．６ｋｇ",
+    "translation": " ３０．６ｋｇ",
+    "index": 356
+  },
+  {
+    "key": "PT_0799_0357",
+    "original": "１００．０ｋｇ",
+    "translation": "１００．０ｋｇ",
+    "index": 357
+  },
+  {
+    "key": "PT_0799_0358",
+    "original": "  １．０ｋｇ",
+    "translation": "  １．０ｋｇ",
+    "index": 358
+  },
+  {
+    "key": "PT_0799_0359",
+    "original": " ４７．０ｋｇ",
+    "translation": " ４７．０ｋｇ",
+    "index": 359
+  },
+  {
+    "key": "PT_0799_0360",
+    "original": " １４．０ｋｇ",
+    "translation": " １４．０ｋｇ",
+    "index": 360
+  },
+  {
+    "key": "PT_0799_0361",
+    "original": " １６．８ｋｇ",
+    "translation": " １６．８ｋｇ",
+    "index": 361
+  },
+  {
+    "key": "PT_0799_0362",
+    "original": "２５６．５ｋｇ",
+    "translation": "２５６．５ｋｇ",
+    "index": 362
+  },
+  {
+    "key": "PT_0799_0363",
+    "original": " ３９．５ｋｇ",
+    "translation": " ３９．５ｋｇ",
+    "index": 363
+  },
+  {
+    "key": "PT_0799_0364",
+    "original": " ８７．６ｋｇ",
+    "translation": " ８７．６ｋｇ",
+    "index": 364
+  },
+  {
+    "key": "PT_0799_0365",
+    "original": "１５０．６ｋｇ",
+    "translation": "１５０．６ｋｇ",
+    "index": 365
+  },
+  {
+    "key": "PT_0799_0366",
+    "original": " ５２．５ｋｇ",
+    "translation": " ５２．５ｋｇ",
+    "index": 366
+  },
+  {
+    "key": "PT_0799_0367",
+    "original": " ２７．０ｋｇ",
+    "translation": " ２７．０ｋｇ",
+    "index": 367
+  },
+  {
+    "key": "PT_0799_0368",
+    "original": " ２２．６ｋｇ",
+    "translation": " ２２．６ｋｇ",
+    "index": 368
+  },
+  {
+    "key": "PT_0799_0369",
+    "original": " ２３．４ｋｇ",
+    "translation": " ２３．４ｋｇ",
+    "index": 369
+  },
+  {
+    "key": "PT_0799_0370",
+    "original": "  ８．７ｋｇ",
+    "translation": "  ８．７ｋｇ",
+    "index": 370
+  },
+  {
+    "key": "PT_0799_0371",
+    "original": " ４２．１ｋｇ",
+    "translation": " ４２．１ｋｇ",
+    "index": 371
+  },
+  {
+    "key": "PT_0799_0372",
+    "original": "１１０．５ｋｇ",
+    "translation": "１１０．５ｋｇ",
+    "index": 372
+  },
+  {
+    "key": "PT_0799_0373",
+    "original": "１０２．６ｋｇ",
+    "translation": "１０２．６ｋｇ",
+    "index": 373
+  },
+  {
+    "key": "PT_0799_0374",
+    "original": " ９５．２ｋｇ",
+    "translation": " ９５．２ｋｇ",
+    "index": 374
+  },
+  {
+    "key": "PT_0799_0375",
+    "original": "２０２．５ｋｇ",
+    "translation": "２０２．５ｋｇ",
+    "index": 375
+  },
+  {
+    "key": "PT_0799_0376",
+    "original": "５５０．０ｋｇ",
+    "translation": "５５０．０ｋｇ",
+    "index": 376
+  },
+  {
+    "key": "PT_0799_0377",
+    "original": "２３０．０ｋｇ",
+    "translation": "２３０．０ｋｇ",
+    "index": 377
+  },
+  {
+    "key": "PT_0799_0378",
+    "original": "１７５．０ｋｇ",
+    "translation": "１７５．０ｋｇ",
+    "index": 378
+  },
+  {
+    "key": "PT_0799_0379",
+    "original": "２０５．０ｋｇ",
+    "translation": "２０５．０ｋｇ",
+    "index": 379
+  },
+  {
+    "key": "PT_0799_0380",
+    "original": " ４０．０ｋｇ",
+    "translation": " ４０．０ｋｇ",
+    "index": 380
+  },
+  {
+    "key": "PT_0799_0381",
+    "original": " ６０．０ｋｇ",
+    "translation": " ６０．０ｋｇ",
+    "index": 381
+  },
+  {
+    "key": "PT_0799_0382",
+    "original": "３５２．０ｋｇ",
+    "translation": "３５２．０ｋｇ",
+    "index": 382
+  },
+  {
+    "key": "PT_0799_0383",
+    "original": "９５０．０ｋｇ",
+    "translation": "９５０．０ｋｇ",
+    "index": 383
+  },
+  {
+    "key": "PT_0799_0384",
+    "original": "２０６．５ｋｇ",
+    "translation": "２０６．５ｋｇ",
+    "index": 384
+  },
+  {
+    "key": "PT_0799_0385",
+    "original": "  １．１ｋｇ",
+    "translation": "  １．１ｋｇ",
+    "index": 385
+  },
+  {
+    "key": "PT_0799_0386",
+    "original": " ６０．８ｋｇ",
+    "translation": " ６０．８ｋｇ",
+    "index": 386
+  },
+  {
+    "key": "PT_0799_0387",
+    "original": " １０．２ｋｇ",
+    "translation": " １０．２ｋｇ",
+    "index": 387
+  },
+  {
+    "key": "PT_0799_0388",
+    "original": " ９７．０ｋｇ",
+    "translation": " ９７．０ｋｇ",
+    "index": 388
+  },
+  {
+    "key": "PT_0799_0389",
+    "original": "３１０．０ｋｇ",
+    "translation": "３１０．０ｋｇ",
+    "index": 389
+  },
+  {
+    "key": "PT_0799_0390",
+    "original": "  ６．２ｋｇ",
+    "translation": "  ６．２ｋｇ",
+    "index": 390
+  },
+  {
+    "key": "PT_0799_0391",
+    "original": " ２２．０ｋｇ",
+    "translation": " ２２．０ｋｇ",
+    "index": 391
+  },
+  {
+    "key": "PT_0799_0392",
+    "original": " ５５．０ｋｇ",
+    "translation": " ５５．０ｋｇ",
+    "index": 392
+  },
+  {
+    "key": "PT_0799_0393",
+    "original": "  ５．２ｋｇ",
+    "translation": "  ５．２ｋｇ",
+    "index": 393
+  },
+  {
+    "key": "PT_0799_0394",
+    "original": " ２３．０ｋｇ",
+    "translation": " ２３．０ｋｇ",
+    "index": 394
+  },
+  {
+    "key": "PT_0799_0395",
+    "original": " ８４．５ｋｇ",
+    "translation": " ８４．５ｋｇ",
+    "index": 395
+  },
+  {
+    "key": "PT_0799_0396",
+    "original": "  ２．０ｋｇ",
+    "translation": "  ２．０ｋｇ",
+    "index": 396
+  },
+  {
+    "key": "PT_0799_0397",
+    "original": " １５．５ｋｇ",
+    "translation": " １５．５ｋｇ",
+    "index": 397
+  },
+  {
+    "key": "PT_0799_0398",
+    "original": " ２４．９ｋｇ",
+    "translation": " ２４．９ｋｇ",
+    "index": 398
+  },
+  {
+    "key": "PT_0799_0399",
+    "original": " ２０．０ｋｇ",
+    "translation": " ２０．０ｋｇ",
+    "index": 399
+  },
+  {
+    "key": "PT_0799_0400",
+    "original": " ３１．５ｋｇ",
+    "translation": " ３１．５ｋｇ",
+    "index": 400
+  },
+  {
+    "key": "PT_0799_0401",
+    "original": "  ２．２ｋｇ",
+    "translation": "  ２．２ｋｇ",
+    "index": 401
+  },
+  {
+    "key": "PT_0799_0402",
+    "original": " ２５．５ｋｇ",
+    "translation": " ２５．５ｋｇ",
+    "index": 402
+  },
+  {
+    "key": "PT_0799_0403",
+    "original": "  ９．５ｋｇ",
+    "translation": "  ９．５ｋｇ",
+    "index": 403
+  },
+  {
+    "key": "PT_0799_0404",
+    "original": " ３０．５ｋｇ",
+    "translation": " ３０．５ｋｇ",
+    "index": 404
+  },
+  {
+    "key": "PT_0799_0405",
+    "original": " ４２．０ｋｇ",
+    "translation": " ４２．０ｋｇ",
+    "index": 405
+  },
+  {
+    "key": "PT_0799_0406",
+    "original": "  １．２ｋｇ",
+    "translation": "  １．２ｋｇ",
+    "index": 406
+  },
+  {
+    "key": "PT_0799_0407",
+    "original": " １４．５ｋｇ",
+    "translation": " １４．５ｋｇ",
+    "index": 407
+  },
+  {
+    "key": "PT_0799_0408",
+    "original": " ３１．５ｋｇ",
+    "translation": " ３１．５ｋｇ",
+    "index": 408
+  },
+  {
+    "key": "PT_0799_0409",
+    "original": "１０２．５ｋｇ",
+    "translation": "１０２．５ｋｇ",
+    "index": 409
+  },
+  {
+    "key": "PT_0799_0410",
+    "original": " ５７．０ｋｇ",
+    "translation": " ５７．０ｋｇ",
+    "index": 410
+  },
+  {
+    "key": "PT_0799_0411",
+    "original": "１４９．５ｋｇ",
+    "translation": "１４９．５ｋｇ",
+    "index": 411
+  },
+  {
+    "key": "PT_0799_0412",
+    "original": "  ３．４ｋｇ",
+    "translation": "  ３．４ｋｇ",
+    "index": 412
+  },
+  {
+    "key": "PT_0799_0413",
+    "original": "  ６．５ｋｇ",
+    "translation": "  ６．５ｋｇ",
+    "index": 413
+  },
+  {
+    "key": "PT_0799_0414",
+    "original": " ２３．３ｋｇ",
+    "translation": " ２３．３ｋｇ",
+    "index": 414
+  },
+  {
+    "key": "PT_0799_0415",
+    "original": "  ５．５ｋｇ",
+    "translation": "  ５．５ｋｇ",
+    "index": 415
+  },
+  {
+    "key": "PT_0799_0416",
+    "original": " ３８．５ｋｇ",
+    "translation": " ３８．５ｋｇ",
+    "index": 416
+  },
+  {
+    "key": "PT_0799_0417",
+    "original": "  ３．９ｋｇ",
+    "translation": "  ３．９ｋｇ",
+    "index": 417
+  },
+  {
+    "key": "PT_0799_0418",
+    "original": " ２９．５ｋｇ",
+    "translation": " ２９．５ｋｇ",
+    "index": 418
+  },
+  {
+    "key": "PT_0799_0419",
+    "original": " ３３．５ｋｇ",
+    "translation": " ３３．５ｋｇ",
+    "index": 419
+  },
+  {
+    "key": "PT_0799_0420",
+    "original": "  ３．３ｋｇ",
+    "translation": "  ３．３ｋｇ",
+    "index": 420
+  },
+  {
+    "key": "PT_0799_0421",
+    "original": "  ９．３ｋｇ",
+    "translation": "  ９．３ｋｇ",
+    "index": 421
+  },
+  {
+    "key": "PT_0799_0422",
+    "original": "  ６．３ｋｇ",
+    "translation": "  ６．３ｋｇ",
+    "index": 422
+  },
+  {
+    "key": "PT_0799_0423",
+    "original": " ２９．９ｋｇ",
+    "translation": " ２９．９ｋｇ",
+    "index": 423
+  },
+  {
+    "key": "PT_0799_0424",
+    "original": " ２０．３ｋｇ",
+    "translation": " ２０．３ｋｇ",
+    "index": 424
+  },
+  {
+    "key": "PT_0799_0425",
+    "original": "  １．２ｋｇ",
+    "translation": "  １．２ｋｇ",
+    "index": 425
+  },
+  {
+    "key": "PT_0799_0426",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 426
+  },
+  {
+    "key": "PT_0799_0427",
+    "original": "  ５．５ｋｇ",
+    "translation": "  ５．５ｋｇ",
+    "index": 427
+  },
+  {
+    "key": "PT_0799_0428",
+    "original": " ３３．３ｋｇ",
+    "translation": " ３３．３ｋｇ",
+    "index": 428
+  },
+  {
+    "key": "PT_0799_0429",
+    "original": "  ４．４ｋｇ",
+    "translation": "  ４．４ｋｇ",
+    "index": 429
+  },
+  {
+    "key": "PT_0799_0430",
+    "original": " ２７．３ｋｇ",
+    "translation": " ２７．３ｋｇ",
+    "index": 430
+  },
+  {
+    "key": "PT_0799_0431",
+    "original": "  ３．９ｋｇ",
+    "translation": "  ３．９ｋｇ",
+    "index": 431
+  },
+  {
+    "key": "PT_0799_0432",
+    "original": " ４３．８ｋｇ",
+    "translation": " ４３．８ｋｇ",
+    "index": 432
+  },
+  {
+    "key": "PT_0799_0433",
+    "original": "  ０．６ｋｇ",
+    "translation": "  ０．６ｋｇ",
+    "index": 433
+  },
+  {
+    "key": "PT_0799_0434",
+    "original": " １９．２ｋｇ",
+    "translation": " １９．２ｋｇ",
+    "index": 434
+  },
+  {
+    "key": "PT_0799_0435",
+    "original": " ３８．０ｋｇ",
+    "translation": " ３８．０ｋｇ",
+    "index": 435
+  },
+  {
+    "key": "PT_0799_0436",
+    "original": " ６０．５ｋｇ",
+    "translation": " ６０．５ｋｇ",
+    "index": 436
+  },
+  {
+    "key": "PT_0799_0437",
+    "original": "１８７．０ｋｇ",
+    "translation": "１８７．０ｋｇ",
+    "index": 437
+  },
+  {
+    "key": "PT_0799_0438",
+    "original": " １５．０ｋｇ",
+    "translation": " １５．０ｋｇ",
+    "index": 438
+  },
+  {
+    "key": "PT_0799_0439",
+    "original": " １３．０ｋｇ",
+    "translation": " １３．０ｋｇ",
+    "index": 439
+  },
+  {
+    "key": "PT_0799_0440",
+    "original": " ２４．４ｋｇ",
+    "translation": " ２４．４ｋｇ",
+    "index": 440
+  },
+  {
+    "key": "PT_0799_0441",
+    "original": "  １．９ｋｇ",
+    "translation": "  １．９ｋｇ",
+    "index": 441
+  },
+  {
+    "key": "PT_0799_0442",
+    "original": "１０８．０ｋｇ",
+    "translation": "１０８．０ｋｇ",
+    "index": 442
+  },
+  {
+    "key": "PT_0799_0443",
+    "original": " ２０．５ｋｇ",
+    "translation": " ２０．５ｋｇ",
+    "index": 443
+  },
+  {
+    "key": "PT_0799_0444",
+    "original": " ５６．０ｋｇ",
+    "translation": " ５６．０ｋｇ",
+    "index": 444
+  },
+  {
+    "key": "PT_0799_0445",
+    "original": " ９５．０ｋｇ",
+    "translation": " ９５．０ｋｇ",
+    "index": 445
+  },
+  {
+    "key": "PT_0799_0446",
+    "original": "１０５．０ｋｇ",
+    "translation": "１０５．０ｋｇ",
+    "index": 446
+  },
+  {
+    "key": "PT_0799_0447",
+    "original": " ２０．２ｋｇ",
+    "translation": " ２０．２ｋｇ",
+    "index": 447
+  },
+  {
+    "key": "PT_0799_0448",
+    "original": " ５４．０ｋｇ",
+    "translation": " ５４．０ｋｇ",
+    "index": 448
+  },
+  {
+    "key": "PT_0799_0449",
+    "original": " ４９．５ｋｇ",
+    "translation": " ４９．５ｋｇ",
+    "index": 449
+  },
+  {
+    "key": "PT_0799_0450",
+    "original": "３００．０ｋｇ",
+    "translation": "３００．０ｋｇ",
+    "index": 450
+  },
+  {
+    "key": "PT_0799_0451",
+    "original": " １２．０ｋｇ",
+    "translation": " １２．０ｋｇ",
+    "index": 451
+  },
+  {
+    "key": "PT_0799_0452",
+    "original": " ６１．５ｋｇ",
+    "translation": " ６１．５ｋｇ",
+    "index": 452
+  },
+  {
+    "key": "PT_0799_0453",
+    "original": " ２３．０ｋｇ",
+    "translation": " ２３．０ｋｇ",
+    "index": 453
+  },
+  {
+    "key": "PT_0799_0454",
+    "original": " ４４．４ｋｇ",
+    "translation": " ４４．４ｋｇ",
+    "index": 454
+  },
+  {
+    "key": "PT_0799_0455",
+    "original": " ２７．０ｋｇ",
+    "translation": " ２７．０ｋｇ",
+    "index": 455
+  },
+  {
+    "key": "PT_0799_0456",
+    "original": "  ７．０ｋｇ",
+    "translation": "  ７．０ｋｇ",
+    "index": 456
+  },
+  {
+    "key": "PT_0799_0457",
+    "original": " ２４．０ｋｇ",
+    "translation": " ２４．０ｋｇ",
+    "index": 457
+  },
+  {
+    "key": "PT_0799_0458",
+    "original": " ６５．０ｋｇ",
+    "translation": " ６５．０ｋｇ",
+    "index": 458
+  },
+  {
+    "key": "PT_0799_0459",
+    "original": " ５０．５ｋｇ",
+    "translation": " ５０．５ｋｇ",
+    "index": 459
+  },
+  {
+    "key": "PT_0799_0460",
+    "original": "１３５．５ｋｇ",
+    "translation": "１３５．５ｋｇ",
+    "index": 460
+  },
+  {
+    "key": "PT_0799_0461",
+    "original": " ３４．０ｋｇ",
+    "translation": " ３４．０ｋｇ",
+    "index": 461
+  },
+  {
+    "key": "PT_0799_0462",
+    "original": "１８０．０ｋｇ",
+    "translation": "１８０．０ｋｇ",
+    "index": 462
+  },
+  {
+    "key": "PT_0799_0463",
+    "original": "１４０．０ｋｇ",
+    "translation": "１４０．０ｋｇ",
+    "index": 463
+  },
+  {
+    "key": "PT_0799_0464",
+    "original": "２８２．８ｋｇ",
+    "translation": "２８２．８ｋｇ",
+    "index": 464
+  },
+  {
+    "key": "PT_0799_0465",
+    "original": "１２８．６ｋｇ",
+    "translation": "１２８．６ｋｇ",
+    "index": 465
+  },
+  {
+    "key": "PT_0799_0466",
+    "original": "１３８．６ｋｇ",
+    "translation": "１３８．６ｋｇ",
+    "index": 466
+  },
+  {
+    "key": "PT_0799_0467",
+    "original": " ６８．０ｋｇ",
+    "translation": " ６８．０ｋｇ",
+    "index": 467
+  },
+  {
+    "key": "PT_0799_0468",
+    "original": " ３８．０ｋｇ",
+    "translation": " ３８．０ｋｇ",
+    "index": 468
+  },
+  {
+    "key": "PT_0799_0469",
+    "original": " ５１．５ｋｇ",
+    "translation": " ５１．５ｋｇ",
+    "index": 469
+  },
+  {
+    "key": "PT_0799_0470",
+    "original": " ２５．５ｋｇ",
+    "translation": " ２５．５ｋｇ",
+    "index": 470
+  },
+  {
+    "key": "PT_0799_0471",
+    "original": " ２５．９ｋｇ",
+    "translation": " ２５．９ｋｇ",
+    "index": 471
+  },
+  {
+    "key": "PT_0799_0472",
+    "original": " ４２．５ｋｇ",
+    "translation": " ４２．５ｋｇ",
+    "index": 472
+  },
+  {
+    "key": "PT_0799_0473",
+    "original": "２９１．０ｋｇ",
+    "translation": "２９１．０ｋｇ",
+    "index": 473
+  },
+  {
+    "key": "PT_0799_0474",
+    "original": " ３４．０ｋｇ",
+    "translation": " ３４．０ｋｇ",
+    "index": 474
+  },
+  {
+    "key": "PT_0799_0475",
+    "original": " ５２．０ｋｇ",
+    "translation": " ５２．０ｋｇ",
+    "index": 475
+  },
+  {
+    "key": "PT_0799_0476",
+    "original": "３４０．０ｋｇ",
+    "translation": "３４０．０ｋｇ",
+    "index": 476
+  },
+  {
+    "key": "PT_0799_0477",
+    "original": "１０６．６ｋｇ",
+    "translation": "１０６．６ｋｇ",
+    "index": 477
+  },
+  {
+    "key": "PT_0799_0478",
+    "original": " ２６．６ｋｇ",
+    "translation": " ２６．６ｋｇ",
+    "index": 478
+  },
+  {
+    "key": "PT_0799_0479",
+    "original": "  ０．３ｋｇ",
+    "translation": "  ０．３ｋｇ",
+    "index": 479
+  },
+  {
+    "key": "PT_0799_0480",
+    "original": "  ０．３ｋｇ",
+    "translation": "  ０．３ｋｇ",
+    "index": 480
+  },
+  {
+    "key": "PT_0799_0481",
+    "original": "  ０．３ｋｇ",
+    "translation": "  ０．３ｋｇ",
+    "index": 481
+  },
+  {
+    "key": "PT_0799_0482",
+    "original": "  ０．３ｋｇ",
+    "translation": "  ０．３ｋｇ",
+    "index": 482
+  },
+  {
+    "key": "PT_0799_0483",
+    "original": "６８３．０ｋｇ",
+    "translation": "６８３．０ｋｇ",
+    "index": 483
+  },
+  {
+    "key": "PT_0799_0484",
+    "original": "３３６．０ｋｇ",
+    "translation": "３３６．０ｋｇ",
+    "index": 484
+  },
+  {
+    "key": "PT_0799_0485",
+    "original": "４３０．０ｋｇ",
+    "translation": "４３０．０ｋｇ",
+    "index": 485
+  },
+  {
+    "key": "PT_0799_0486",
+    "original": "４２０．０ｋｇ",
+    "translation": "４２０．０ｋｇ",
+    "index": 486
+  },
+  {
+    "key": "PT_0799_0487",
+    "original": "６５０．０ｋｇ",
+    "translation": "６５０．０ｋｇ",
+    "index": 487
+  },
+  {
+    "key": "PT_0799_0488",
+    "original": " ８５．６ｋｇ",
+    "translation": " ８５．６ｋｇ",
+    "index": 488
+  },
+  {
+    "key": "PT_0799_0489",
+    "original": "  ３．１ｋｇ",
+    "translation": "  ３．１ｋｇ",
+    "index": 489
+  },
+  {
+    "key": "PT_0799_0490",
+    "original": "  １．４ｋｇ",
+    "translation": "  １．４ｋｇ",
+    "index": 490
+  },
+  {
+    "key": "PT_0799_0491",
+    "original": " ５０．５ｋｇ",
+    "translation": " ５０．５ｋｇ",
+    "index": 491
+  },
+  {
+    "key": "PT_0799_0492",
+    "original": "  ２．１ｋｇ",
+    "translation": "  ２．１ｋｇ",
+    "index": 492
+  },
+  {
+    "key": "PT_0799_0493",
+    "original": "３２０．０ｋｇ",
+    "translation": "３２０．０ｋｇ",
+    "index": 493
+  }
+]

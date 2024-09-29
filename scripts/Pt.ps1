@@ -1,18 +1,15 @@
 $PCTRTools = "tools/PCTRTools/bin/Release/PCTRTools.exe"
 
-# Copy files and edit banner
-dotnet script scripts/Pt.csx
-
 # Replace narc
-& "$PCTRTools" "replace-narc" -i "files/Pt/data/" -n "textures/Pt/" -o "out/Pt/data/"
+& "$PCTRTools" "replace-narc" -i "original_files/Pt/data/" -n "textures/Pt/" -o "out/Pt/data/"
 
 # Create new font
-& "$PCTRTools" "font" -c "files/CharTable.txt" -i "files/Pt/data/graphic/pl_font.narc" -o "out/Pt/data/graphic/pl_font.narc"
+& "$PCTRTools" "font" -c "files/CharTable.txt" -i "original_files/Pt/data/graphic/pl_font.narc" -o "out/Pt/data/graphic/pl_font.narc"
 
 # Import text
-& "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "files/Pt/data/msgdata/pl_msg.narc" -t "out/Messages_Pt.txt" -o "out/Pt/data/msgdata/pl_msg.narc"
+& "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "original_files/Pt/data/msgdata/pl_msg.narc" -t "temp/Pt/messages.txt" -o "out/Pt/data/msgdata/pl_msg.narc"
 
-dotnet script scripts/pad_text.csx "files/Pt/data/msgdata/pl_msg.narc" "out/Pt/data/msgdata/pl_msg.narc"
+dotnet script scripts/pad_text.csx "original_files/Pt/data/msgdata/pl_msg.narc" "out/Pt/data/msgdata/pl_msg.narc"
 
 # Create patch for Platinum
 Compress-Archive -Path "out/Pt/*" -DestinationPath "out/Patch-Pt.zip" -Force

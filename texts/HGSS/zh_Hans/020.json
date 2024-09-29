@@ -1,0 +1,806 @@
+[
+  {
+    "key": "HGSS_0020_0000",
+    "original": "ぼんぐりケース",
+    "translation": "球果盒",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0020_0001",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0020_0002",
+    "original": "つかう",
+    "translation": "使用",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0020_0003",
+    "original": "あじみ",
+    "translation": "尝味道",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0020_0004",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0020_0005",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0020_0006",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0020_0007",
+    "original": "あかぼんぐり",
+    "translation": "红球果",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0020_0008",
+    "original": "きぼんぐり",
+    "translation": "黄球果",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0020_0009",
+    "original": "あおぼんぐり",
+    "translation": "蓝球果",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0020_0010",
+    "original": "みどぼんぐり",
+    "translation": "绿球果",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0020_0011",
+    "original": "ももぼんぐり",
+    "translation": "粉球果",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0020_0012",
+    "original": "しろぼんぐり",
+    "translation": "白球果",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0020_0013",
+    "original": "くろぼんぐり",
+    "translation": "黑球果",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0020_0014",
+    "original": "タケ",
+    "translation": "阿竹",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0020_0015",
+    "original": "リサ",
+    "translation": "梨纱",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0020_0016",
+    "original": "ギルモア",
+    "translation": "基尔摩",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0020_0017",
+    "original": "ユキ",
+    "translation": "由纪",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0020_0018",
+    "original": "ヒデ",
+    "translation": "旭德",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0020_0019",
+    "original": "あじなしドリンク",
+    "translation": "无味饮料",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0020_0020",
+    "original": "パワードリンク",
+    "translation": "力量饮料",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0020_0021",
+    "original": "スタミナドリンク",
+    "translation": "耐力饮料",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0020_0022",
+    "original": "テクニックドリンク",
+    "translation": "技巧饮料",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0020_0023",
+    "original": "ジャンプドリンク",
+    "translation": "跳跃饮料",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0020_0024",
+    "original": "スピードドリンク",
+    "translation": "速度饮料",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0020_0025",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0020_0026",
+    "original": "こ",
+    "translation": "个",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0020_0027",
+    "original": "あつめた ぼんぐりが はいってる",
+    "translation": "装着收集来的球果",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0020_0028",
+    "original": "ぼんぐりを シェイカーに いれられます",
+    "translation": "球果放进榨汁机",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0020_0029",
+    "original": "まだ シェイクが たりなそう⋯",
+    "translation": "搅拌得还不够…",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0020_0030",
+    "original": "そろそろ ドリンクが できそう⋯",
+    "translation": "饮料差不多快做好了…",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0020_0031",
+    "original": "もうすこしで ドリンクに なりそう！",
+    "translation": "再差一点就能做成饮料了！",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0020_0032",
+    "original": "ボンドリンクが できています",
+    "translation": "球果饮料做好了！",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0020_0033",
+    "original": "あと [0132,0000]こ はいります",
+    "translation": "还有[0132,0000]个",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0020_0034",
+    "original": "ぼんぐりは もう はいりません",
+    "translation": "已经放不下球果了。",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0020_0035",
+    "original": "ボンドリンクを どうしますか？",
+    "translation": "怎么处理球果饮料？",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0020_0036",
+    "original": "ボンドリンクを ちょっと なめた！",
+    "translation": "稍微尝了下球果饮料！",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0020_0037",
+    "original": "わたす ぼんぐりを えらんでください",
+    "translation": "请选择给予的球果。",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0020_0038",
+    "original": "いくつ わたしますか？",
+    "translation": "要给予多少个？",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0020_0039",
+    "original": "[0108,0000]を [0133,0001]こで いいですか？",
+    "translation": "[0108,0000]　[0133,0001]个，可以吗？",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0020_0040",
+    "original": "あかぼんぐり\nあかいろの ぼんぐり\nつーんと はなにくる かおりがする",
+    "translation": "红球果\n红色的球果\n散发着冲鼻的香味。",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0020_0041",
+    "original": "きぼんぐり\nきいろの ぼんぐり\nさわやかな かおりがする",
+    "translation": "黄球果\n黄色的球果\n散发着温和的香味。",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0020_0042",
+    "original": "あおぼんぐり\nあおいろの ぼんぐり\nすこし あおくさい かおりがする",
+    "translation": "蓝球果\n蓝色的球果\n散发着须草香。",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0020_0043",
+    "original": "みどぼんぐり\nみどりいろの ぼんぐり\nふしぎと こうばしい かおりがする",
+    "translation": "绿球果\n绿色的球果\n散发着不可思议的清香。",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0020_0044",
+    "original": "ももぼんぐり\nももいろの ぼんぐり\nあまそうな いい かおりがする",
+    "translation": "粉球果\n粉色的球果\n散发着美味的香气。",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0020_0045",
+    "original": "しろぼんぐり\nしろいろの ぼんぐり\nなんの かおりも しない",
+    "translation": "白球果\n白色的球果\n什么味道也没有。",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0020_0046",
+    "original": "くろぼんぐり\nくろいろの ぼんぐり\nなんとも いえない かおりがする",
+    "translation": "黑球果\n黑色的球果\n散发着难以用语言形容的味道。",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0020_0047",
+    "original": "ボンシェイカー",
+    "translation": "球果榨汁机",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0020_0048",
+    "original": "[0108,0000]\nあじのこさ [0134,0001] まろやかさ [0134,0002]\nあと [0132,0003]こ いれられます",
+    "translation": "[0108,0000]\n　口味浓度：[0134,0001]，顺滑度：[0134,0002]，\n还能装[0132,0003]个。",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0020_0049",
+    "original": "～ボンドリンクの つくりかた～\nぼんぐりを つかんで\nシェイカーに いれる！\\f\n１こでも できるけど\nたくさん いれると\nおいしさ アップ！\\f\nぼんぐりを いれたら\nとなりの まちまで\nはしって シェイク！",
+    "translation": "～球果饮料的作法～\n抓起球果放进榨汁机！\\f\n１个虽然也能做，\n但放多点进去\n能提升美味度！\\f\n放进球果后，\n就去附近的城镇搅拌吧！",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0020_0050",
+    "original": "ボンドリンクが できました！",
+    "translation": "球果饮料完成了！",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0020_0051",
+    "original": "ボンドリンクの あじが\nへんか しました！",
+    "translation": "球果饮料的味道变化了！",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0020_0052",
+    "original": "ドリンクが できていません！\nぼんぐりを シェイカーに いれて\nあるいて シェイク！",
+    "translation": "球果饮料没做成！\n把球果放进榨汁机\n跑起来搅拌吧！",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0020_0053",
+    "original": "これいじょう はいらない！\nはしって シェイク しよう！",
+    "translation": "不用再多了！\n跑起来搅拌吧！",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0020_0054",
+    "original": "ドリンク さくせいちゅう！\nあるいて シェイク しよう！",
+    "translation": "饮料制作中！\n走动搅拌吧！",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0020_0055",
+    "original": "ドリンク かいりょうちゅう！\nあるいて シェイク しよう！",
+    "translation": "饮料改良中！\n走动搅拌吧！",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0020_0056",
+    "original": "からさのある あじだ",
+    "translation": "有点辛辣的味道！",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0020_0057",
+    "original": "ピリッとした あじわい！",
+    "translation": "麻麻的味道！",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0020_0058",
+    "original": "あせがふきでる からさだ！",
+    "translation": "喷汗的辛辣！",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0020_0059",
+    "original": "せきこむような からさだ！",
+    "translation": "咳嗽不止的辛辣！",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0020_0060",
+    "original": "ひびきわたる からさだ！",
+    "translation": "响彻苍穹的辛辣！",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0020_0061",
+    "original": "きゅうきょくの からさだ！",
+    "translation": "终极的辛辣！",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0020_0062",
+    "original": "さんみのある あじだ",
+    "translation": "有点酸酸的味道！",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0020_0063",
+    "original": "さわやかな あじがする",
+    "translation": "爽快的味道！",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0020_0064",
+    "original": "ん～～～っ すっぱい！",
+    "translation": "唔～～～好酸！",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0020_0065",
+    "original": "すっぱくて たまらない！",
+    "translation": "酸死了！",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0020_0066",
+    "original": "あじわいぶかい さんみだ！",
+    "translation": "回味无穷的酸！",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0020_0067",
+    "original": "さんみを きわめた あじだ！",
+    "translation": "酸到极点的味道！",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0020_0068",
+    "original": "しぶみのある あじだ",
+    "translation": "涩涩的味道！",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0020_0069",
+    "original": "しぶみが つよい！",
+    "translation": "很涩！",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0020_0070",
+    "original": "たまらなく しぶい！",
+    "translation": "涩死了！",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0020_0071",
+    "original": "しぶみが しみわたる！",
+    "translation": "涩味弥漫全身！",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0020_0072",
+    "original": "ふかみのある しぶみ！",
+    "translation": "巨涩！",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0020_0073",
+    "original": "しぶみを きわめた あじだ！",
+    "translation": "涩到极点的味道！",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0020_0074",
+    "original": "にがみのある あじだ",
+    "translation": "有点苦的味道！",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0020_0075",
+    "original": "ほろにがい あじだ",
+    "translation": "超苦的味道！",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0020_0076",
+    "original": "きょうれつな にがみだ！",
+    "translation": "强烈的苦味！",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0020_0077",
+    "original": "どっしりとした にがみ！",
+    "translation": "喷饭的苦味！",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0020_0078",
+    "original": "しずみこむように にがい！",
+    "translation": "沉没般的苦味！",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0020_0079",
+    "original": "にがみの ちょうてんだ！",
+    "translation": "苦到极点！",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0020_0080",
+    "original": "あまみのある あじだ",
+    "translation": "有点甜的味道！",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0020_0081",
+    "original": "あまい あじが する",
+    "translation": "甜甜的味道！",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0020_0082",
+    "original": "とっても あまい！",
+    "translation": "非常甜！",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0020_0083",
+    "original": "あまったるい あじだ！",
+    "translation": "超甜的味道！",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0020_0084",
+    "original": "とろけるような あまさ！",
+    "translation": "溶化般的甜味！",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0020_0085",
+    "original": "あまさの ちょうてんだ！",
+    "translation": "甜到极点！",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0020_0086",
+    "original": "わずかに からみが あり⋯",
+    "translation": "微微有点辛辣…",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0020_0087",
+    "original": "すこし からみが あり⋯",
+    "translation": "稍微有点辛辣…",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0020_0088",
+    "original": "だいぶ からみも あり⋯",
+    "translation": "非常辛辣…",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0020_0089",
+    "original": "きょうれつな からさと⋯",
+    "translation": "强烈的辛辣…",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0020_0090",
+    "original": "わずかに さんみが あり⋯",
+    "translation": "微微有点酸…",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0020_0091",
+    "original": "すこし さんみが あり⋯",
+    "translation": "稍微有点酸…",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0020_0092",
+    "original": "だいぶ さんみも あり⋯",
+    "translation": "非常酸…",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0020_0093",
+    "original": "きょうれつな すっぱさに⋯",
+    "translation": "强烈的酸味…",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0020_0094",
+    "original": "わずかに しぶみが あり⋯",
+    "translation": "微微有点涩…",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0020_0095",
+    "original": "すこし しぶみが あり⋯",
+    "translation": "稍微有点涩…",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0020_0096",
+    "original": "だいぶ しぶみも あり⋯",
+    "translation": "非常涩…",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0020_0097",
+    "original": "きょうれつな しぶみと⋯",
+    "translation": "强烈的涩味…",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0020_0098",
+    "original": "わずかに にがみが あり⋯",
+    "translation": "微微有点苦…",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0020_0099",
+    "original": "すこし にがみが あり⋯",
+    "translation": "稍微有点苦…",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0020_0100",
+    "original": "だいぶ にがみも あり⋯",
+    "translation": "非常苦…",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0020_0101",
+    "original": "きょうれつな にがみと⋯",
+    "translation": "强烈的苦味…",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0020_0102",
+    "original": "わずかに あまみが あり⋯",
+    "translation": "微微有点甜…",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0020_0103",
+    "original": "すこし あまみが あり⋯",
+    "translation": "稍微有点甜…",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0020_0104",
+    "original": "だいぶ あまみも あり⋯",
+    "translation": "非常甜…",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0020_0105",
+    "original": "きょうれつな あまさと⋯",
+    "translation": "强烈的甜味…",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0020_0106",
+    "original": "それでいて かすかに からい",
+    "translation": "微微的有一点点辛辣。",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0020_0107",
+    "original": "わずかだが からさも ある",
+    "translation": "有点辛辣，虽然很细微。",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0020_0108",
+    "original": "からさも まけていない",
+    "translation": "不输给真正的辛辣。",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0020_0109",
+    "original": "それでいて かすかな さんみ",
+    "translation": "微微的有一点点酸味。",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0020_0110",
+    "original": "わずかだが さんみも ある",
+    "translation": "有点酸，虽然很细微。",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0020_0111",
+    "original": "さんみも まけていない",
+    "translation": "不输给真正的酸味。",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0020_0112",
+    "original": "それでいて かすかに しぶい",
+    "translation": "微微的有一点点涩。",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0020_0113",
+    "original": "わずかだが しぶみも ある",
+    "translation": "有点涩，虽然很细微。",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0020_0114",
+    "original": "しぶさも まけていない",
+    "translation": "不输给真正的涩味。",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0020_0115",
+    "original": "それでいて かすかに にがい",
+    "translation": "微微的有一点苦味。",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0020_0116",
+    "original": "わずかだが にがみも ある",
+    "translation": "有点苦，虽然很细微。",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0020_0117",
+    "original": "にがみも まけていない",
+    "translation": "不输给真正的苦味。",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0020_0118",
+    "original": "それでいて かすかに あまい",
+    "translation": "稍微的有一点点甜。",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0020_0119",
+    "original": "わずかだが あまみも ある",
+    "translation": "有点甜，虽然很细微。",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0020_0120",
+    "original": "あまみも まけていない",
+    "translation": "不输给真正的甜味。",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0020_0121",
+    "original": "ざつみが くちに のこる",
+    "translation": "回味无穷。",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0020_0122",
+    "original": "すっきりした あとあじ！",
+    "translation": "清爽的回味！",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0020_0123",
+    "original": "からさを けしている",
+    "translation": "消除辛辣！",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0020_0124",
+    "original": "さんみを けしている",
+    "translation": "消除酸味！",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0020_0125",
+    "original": "しぶみを けしている",
+    "translation": "消除涩味！",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0020_0126",
+    "original": "にがみを けしている",
+    "translation": "消除苦味！",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0020_0127",
+    "original": "あまみを けしている",
+    "translation": "消除甜味！",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0020_0128",
+    "original": "まだまだ あじが よわい\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ⋯",
+    "translation": "味道还很淡，\n加进有颜色的球果\n应该会更好…",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0020_0129",
+    "original": "なんともいえない あじだ！\nおたがいが ゆずりあい⋯\nなんのあじだか わからない！",
+    "translation": "什么都说不出来的味道！\n相互融合的味道…\n不知道到底算什么！",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0020_0130",
+    "original": "なんともいえない あじだ！\nおたがいが きそいあい⋯\nなんのあじだか わからない！",
+    "translation": "什么都说不起来的味道！\n相互排斥的味道…\n不知道到底是什么！",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0020_0131",
+    "original": "まったく あじが しない！\nいろの ついた ぼんぐりを\nいれたほうが よさそうだ",
+    "translation": "完全没有味道！\n加进有颜色的球果\n应该会更好！",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0020_0132",
+    "original": "からい[0133,0000] すっぱい[0133,0001] しぶい[0133,0002]\nにがい[0133,0003] あまい[0133,0004]\nまろやか[0133,0005] あじち[0133,0006]",
+    "translation": "辛辣[0133,0000]，酸[0133,0001]，涩[0133,0002]\n苦[0133,0003]，甜[0133,0004]\n浓度[0133,0005]，味道[0133,0006]",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0020_0133",
+    "original": "いま [013B,0000]ほ ストック [0132,0001]こ\n１：[0132,0002] ２：[0132,0003] ３：[0132,0004] ４：[0132,0005] ５：[0132,0006] \nジュース START [013B,0007]ほ あと[0134,0008]ほ\nまろやか START [013B,0009]ほ あと[0134,000A]ほ",
+    "translation": "现在第[013B,0000]步，贮备[0132,0001]个\n１：[0132,0002]，２：[0132,0003]，３：[0132,0004]，４：[0132,0005]，５：[0132,0006]　\n果汁第START [013B,0007]步，还要[0134,0008]步\n浓度 START [013B,0009]步，还要[0134,000A]步",
+    "index": 133
+  }
+]

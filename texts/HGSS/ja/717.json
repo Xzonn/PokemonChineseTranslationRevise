@@ -1,0 +1,116 @@
+[
+  {
+    "key": "HGSS_0717_0000",
+    "original": "ＩＤＮｏ．",
+    "translation": "ＩＤＮｏ．",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0717_0001",
+    "original": "なまえ",
+    "translation": "なまえ",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0717_0002",
+    "original": "おこづかい",
+    "translation": "おこづかい",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0717_0003",
+    "original": "ポケモンずかん",
+    "translation": "ポケモンずかん",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0717_0004",
+    "original": "ＳＣＯＲＥ",
+    "translation": "ＳＣＯＲＥ",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0717_0005",
+    "original": "プレイじかん",
+    "translation": "プレイじかん",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0717_0006",
+    "original": "ぼうけんを はじめたとき",
+    "translation": "ぼうけんを はじめたとき",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0717_0007",
+    "original": "はじめての でんどういり",
+    "translation": "はじめての でんどういり",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0717_0008",
+    "original": "つうしんした かいすう",
+    "translation": "つうしんした かいすう",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0717_0009",
+    "original": "つうしん たいせん",
+    "translation": "つうしん たいせん",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0717_0010",
+    "original": "つうしん こうかん",
+    "translation": "つうしん こうかん",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0717_0011",
+    "original": ":",
+    "translation": ":",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0717_0012",
+    "original": "ーー",
+    "translation": "ーー",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0717_0013",
+    "original": "ーー:ーー",
+    "translation": "ーー:ーー",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0717_0014",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0717_0015",
+    "original": "カードを タッチして めくる",
+    "translation": "カードを タッチして めくる",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0717_0016",
+    "original": "サインを かく",
+    "translation": "サインを かく",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0717_0017",
+    "original": "トレーナーカードに サインを\nかきますか？",
+    "translation": "トレーナーカードに サインを\nかきますか？",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0717_0018",
+    "original": "いま かかれている サインは\nきえますが よろしいですか？",
+    "translation": "いま かかれている サインは\nきえますが よろしいですか？",
+    "index": 18
+  }
+]

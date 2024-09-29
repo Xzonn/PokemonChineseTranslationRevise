@@ -1,0 +1,20 @@
+[
+  {
+    "key": "HGSS_0229_0000",
+    "original": "マイクテスト",
+    "translation": "麦克风测试",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0229_0001",
+    "original": "ほんたいの マイクに むかって\nこえを だして ください",
+    "translation": "请对着主机的麦克风发声。",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0229_0002",
+    "original": "[0205]もどる",
+    "translation": "[0205]返回",
+    "index": 2
+  }
+]

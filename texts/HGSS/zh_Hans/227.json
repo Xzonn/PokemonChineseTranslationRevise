@@ -1,0 +1,92 @@
+[
+  {
+    "key": "HGSS_0227_0000",
+    "original": "メールボックス",
+    "translation": "邮箱",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0227_0001",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0227_0002",
+    "original": "／",
+    "translation": "／",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0227_0003",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0227_0004",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0227_0005",
+    "original": "メールを よむ",
+    "translation": "阅读邮件",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0227_0006",
+    "original": "メールを けす",
+    "translation": "清除邮件",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0227_0007",
+    "original": "もたせる",
+    "translation": "携带",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0227_0008",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0227_0009",
+    "original": "[0103,0000]の\nメールを どうしますか？",
+    "translation": "要怎么处理\n[0103,0000]的邮件？",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0227_0010",
+    "original": "ないようは きえて しまいますが\nよろしい ですか？",
+    "translation": "要清除内容\n确定吗？",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0227_0011",
+    "original": "ないようを けしました",
+    "translation": "内容已清除。",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0227_0012",
+    "original": "ポケモンに もたせますか？",
+    "translation": "要给宝可梦携带吗？",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0227_0013",
+    "original": "ないようを けした メールを\nバッグに しまいました",
+    "translation": "清除内容的邮件\n已放入包包内。",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0227_0014",
+    "original": "バッグが いっぱいです⋯\nメールを すてました",
+    "translation": "包包内已经满了…\n因此扔掉了邮件。",
+    "index": 14
+  }
+]

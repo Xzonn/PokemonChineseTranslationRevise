@@ -1,0 +1,80 @@
+[
+  {
+    "key": "DP_0777_0000",
+    "original": "なし",
+    "translation": "なし",
+    "index": 0
+  },
+  {
+    "key": "DP_0777_0001",
+    "original": "ひがしイングランド",
+    "translation": "ひがしイングランド",
+    "index": 1
+  },
+  {
+    "key": "DP_0777_0002",
+    "original": "イースト・ミッドランド",
+    "translation": "イースト・ミッドランド",
+    "index": 2
+  },
+  {
+    "key": "DP_0777_0003",
+    "original": "グレーター・ロンドン",
+    "translation": "グレーター・ロンドン",
+    "index": 3
+  },
+  {
+    "key": "DP_0777_0004",
+    "original": "ほくとうイングランド",
+    "translation": "ほくとうイングランド",
+    "index": 4
+  },
+  {
+    "key": "DP_0777_0005",
+    "original": "ほくせいイングランド",
+    "translation": "ほくせいイングランド",
+    "index": 5
+  },
+  {
+    "key": "DP_0777_0006",
+    "original": "きたアイルランド",
+    "translation": "きたアイルランド",
+    "index": 6
+  },
+  {
+    "key": "DP_0777_0007",
+    "original": "スコットランド",
+    "translation": "スコットランド",
+    "index": 7
+  },
+  {
+    "key": "DP_0777_0008",
+    "original": "なんとうイングランド",
+    "translation": "なんとうイングランド",
+    "index": 8
+  },
+  {
+    "key": "DP_0777_0009",
+    "original": "なんせいイングランド",
+    "translation": "なんせいイングランド",
+    "index": 9
+  },
+  {
+    "key": "DP_0777_0010",
+    "original": "ウェールズ",
+    "translation": "ウェールズ",
+    "index": 10
+  },
+  {
+    "key": "DP_0777_0011",
+    "original": "ウェスト・ミッドランド",
+    "translation": "ウェスト・ミッドランド",
+    "index": 11
+  },
+  {
+    "key": "DP_0777_0012",
+    "original": "ヨークシャー・ハンバーサイド",
+    "translation": "ヨークシャー・ハンバーサイド",
+    "index": 12
+  }
+]

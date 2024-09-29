@@ -1,0 +1,806 @@
+[
+  {
+    "key": "DP_0392_0000",
+    "original": "つぶれて はなる",
+    "translation": "つぶれて はなる",
+    "index": 0
+  },
+  {
+    "key": "DP_0392_0001",
+    "original": "たてに ブルブル",
+    "translation": "たてに ブルブル",
+    "index": 1
+  },
+  {
+    "key": "DP_0392_0002",
+    "original": "たてに ひっぱる",
+    "translation": "たてに ひっぱる",
+    "index": 2
+  },
+  {
+    "key": "DP_0392_0003",
+    "original": "ちぢんで ふくらむ",
+    "translation": "ちぢんで ふくらむ",
+    "index": 3
+  },
+  {
+    "key": "DP_0392_0004",
+    "original": "ためて はねる スロー",
+    "translation": "ためて はねる スロー",
+    "index": 4
+  },
+  {
+    "key": "DP_0392_0005",
+    "original": "よこに ブルブル",
+    "translation": "よこに ブルブル",
+    "index": 5
+  },
+  {
+    "key": "DP_0392_0006",
+    "original": "ピョンピョン スモール",
+    "translation": "ピョンピョン スモール",
+    "index": 6
+  },
+  {
+    "key": "DP_0392_0007",
+    "original": "ためて よこはね",
+    "translation": "ためて よこはね",
+    "index": 7
+  },
+  {
+    "key": "DP_0392_0008",
+    "original": "たてゆれ",
+    "translation": "たてゆれ",
+    "index": 8
+  },
+  {
+    "key": "DP_0392_0009",
+    "original": "ヤジロベー スロー",
+    "translation": "ヤジロベー スロー",
+    "index": 9
+  },
+  {
+    "key": "DP_0392_0010",
+    "original": "よことびはね スロー",
+    "translation": "よことびはね スロー",
+    "index": 10
+  },
+  {
+    "key": "DP_0392_0011",
+    "original": "きざみよことび",
+    "translation": "きざみよことび",
+    "index": 11
+  },
+  {
+    "key": "DP_0392_0012",
+    "original": "よことびはね スモール",
+    "translation": "よことびはね スモール",
+    "index": 12
+  },
+  {
+    "key": "DP_0392_0013",
+    "original": "ゆれながら さゆう",
+    "translation": "ゆれながら さゆう",
+    "index": 13
+  },
+  {
+    "key": "DP_0392_0014",
+    "original": "ガクンガクン",
+    "translation": "ガクンガクン",
+    "index": 14
+  },
+  {
+    "key": "DP_0392_0015",
+    "original": "かげぶんしん",
+    "translation": "かげぶんしん",
+    "index": 15
+  },
+  {
+    "key": "DP_0392_0016",
+    "original": "よこゆれ スロー",
+    "translation": "よこゆれ スロー",
+    "index": 16
+  },
+  {
+    "key": "DP_0392_0017",
+    "original": "ゆれながら じょうげ",
+    "translation": "ゆれながら じょうげ",
+    "index": 17
+  },
+  {
+    "key": "DP_0392_0018",
+    "original": "よこに ひっぱる",
+    "translation": "よこに ひっぱる",
+    "index": 18
+  },
+  {
+    "key": "DP_0392_0019",
+    "original": "スパーク",
+    "translation": "スパーク",
+    "index": 19
+  },
+  {
+    "key": "DP_0392_0020",
+    "original": "ボワボワ",
+    "translation": "ボワボワ",
+    "index": 20
+  },
+  {
+    "key": "DP_0392_0021",
+    "original": "2かい ちぢんで ふくらむ",
+    "translation": "2かい ちぢんで ふくらむ",
+    "index": 21
+  },
+  {
+    "key": "DP_0392_0022",
+    "original": "ゆりかご スロー",
+    "translation": "ゆりかご スロー",
+    "index": 22
+  },
+  {
+    "key": "DP_0392_0023",
+    "original": "よことびはね",
+    "translation": "よことびはね",
+    "index": 23
+  },
+  {
+    "key": "DP_0392_0024",
+    "original": "たてはね から よこはね",
+    "translation": "たてはね から よこはね",
+    "index": 24
+  },
+  {
+    "key": "DP_0392_0025",
+    "original": "ピョンピョン",
+    "translation": "ピョンピョン",
+    "index": 25
+  },
+  {
+    "key": "DP_0392_0026",
+    "original": "たてゆれ スロー",
+    "translation": "たてゆれ スロー",
+    "index": 26
+  },
+  {
+    "key": "DP_0392_0027",
+    "original": "くりくり",
+    "translation": "くりくり",
+    "index": 27
+  },
+  {
+    "key": "DP_0392_0028",
+    "original": "ヤジロベー 2かい",
+    "translation": "ヤジロベー 2かい",
+    "index": 28
+  },
+  {
+    "key": "DP_0392_0029",
+    "original": "よこゆれ",
+    "translation": "よこゆれ",
+    "index": 29
+  },
+  {
+    "key": "DP_0392_0030",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 30
+  },
+  {
+    "key": "DP_0392_0031",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 31
+  },
+  {
+    "key": "DP_0392_0032",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 32
+  },
+  {
+    "key": "DP_0392_0033",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 33
+  },
+  {
+    "key": "DP_0392_0034",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 34
+  },
+  {
+    "key": "DP_0392_0035",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 35
+  },
+  {
+    "key": "DP_0392_0036",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 36
+  },
+  {
+    "key": "DP_0392_0037",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 37
+  },
+  {
+    "key": "DP_0392_0038",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 38
+  },
+  {
+    "key": "DP_0392_0039",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 39
+  },
+  {
+    "key": "DP_0392_0040",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 40
+  },
+  {
+    "key": "DP_0392_0041",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 41
+  },
+  {
+    "key": "DP_0392_0042",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 42
+  },
+  {
+    "key": "DP_0392_0043",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 43
+  },
+  {
+    "key": "DP_0392_0044",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 44
+  },
+  {
+    "key": "DP_0392_0045",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 45
+  },
+  {
+    "key": "DP_0392_0046",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 46
+  },
+  {
+    "key": "DP_0392_0047",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 47
+  },
+  {
+    "key": "DP_0392_0048",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 48
+  },
+  {
+    "key": "DP_0392_0049",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 49
+  },
+  {
+    "key": "DP_0392_0050",
+    "original": "Ｂ かげぶんしん1",
+    "translation": "Ｂ かげぶんしん1",
+    "index": 50
+  },
+  {
+    "key": "DP_0392_0051",
+    "original": "Ｂ かげぶんしん2",
+    "translation": "Ｂ かげぶんしん2",
+    "index": 51
+  },
+  {
+    "key": "DP_0392_0052",
+    "original": "Ｂ かげぶんしん3",
+    "translation": "Ｂ かげぶんしん3",
+    "index": 52
+  },
+  {
+    "key": "DP_0392_0053",
+    "original": "Ｂ よこゆれ1",
+    "translation": "Ｂ よこゆれ1",
+    "index": 53
+  },
+  {
+    "key": "DP_0392_0054",
+    "original": "Ｂ よこゆれ2",
+    "translation": "Ｂ よこゆれ2",
+    "index": 54
+  },
+  {
+    "key": "DP_0392_0055",
+    "original": "Ｂ よこゆれ3",
+    "translation": "Ｂ よこゆれ3",
+    "index": 55
+  },
+  {
+    "key": "DP_0392_0056",
+    "original": "Ｂ たてブルブル1",
+    "translation": "Ｂ たてブルブル1",
+    "index": 56
+  },
+  {
+    "key": "DP_0392_0057",
+    "original": "Ｂ たてブルブル2",
+    "translation": "Ｂ たてブルブル2",
+    "index": 57
+  },
+  {
+    "key": "DP_0392_0058",
+    "original": "Ｂ たてブルブル3",
+    "translation": "Ｂ たてブルブル3",
+    "index": 58
+  },
+  {
+    "key": "DP_0392_0059",
+    "original": "Ｂ よこブルブル1",
+    "translation": "Ｂ よこブルブル1",
+    "index": 59
+  },
+  {
+    "key": "DP_0392_0060",
+    "original": "Ｂ よこブルブル2",
+    "translation": "Ｂ よこブルブル2",
+    "index": 60
+  },
+  {
+    "key": "DP_0392_0061",
+    "original": "Ｂ よこブルブル3",
+    "translation": "Ｂ よこブルブル3",
+    "index": 61
+  },
+  {
+    "key": "DP_0392_0062",
+    "original": "Ｂ たてのび1",
+    "translation": "Ｂ たてのび1",
+    "index": 62
+  },
+  {
+    "key": "DP_0392_0063",
+    "original": "Ｂ たてのび2",
+    "translation": "Ｂ たてのび2",
+    "index": 63
+  },
+  {
+    "key": "DP_0392_0064",
+    "original": "Ｂ たてのび3",
+    "translation": "Ｂ たてのび3",
+    "index": 64
+  },
+  {
+    "key": "DP_0392_0065",
+    "original": "Ｂ よこのび1",
+    "translation": "Ｂ よこのび1",
+    "index": 65
+  },
+  {
+    "key": "DP_0392_0066",
+    "original": "Ｂ よこのび2",
+    "translation": "Ｂ よこのび2",
+    "index": 66
+  },
+  {
+    "key": "DP_0392_0067",
+    "original": "Ｂ よこのび3",
+    "translation": "Ｂ よこのび3",
+    "index": 67
+  },
+  {
+    "key": "DP_0392_0068",
+    "original": "Ｂ たてよこのび1",
+    "translation": "Ｂ たてよこのび1",
+    "index": 68
+  },
+  {
+    "key": "DP_0392_0069",
+    "original": "Ｂ たてよこのび2",
+    "translation": "Ｂ たてよこのび2",
+    "index": 69
+  },
+  {
+    "key": "DP_0392_0070",
+    "original": "Ｂ たてよこのび3",
+    "translation": "Ｂ たてよこのび3",
+    "index": 70
+  },
+  {
+    "key": "DP_0392_0071",
+    "original": "Ｂ ガクン1",
+    "translation": "Ｂ ガクン1",
+    "index": 71
+  },
+  {
+    "key": "DP_0392_0072",
+    "original": "Ｂ ガクン2",
+    "translation": "Ｂ ガクン2",
+    "index": 72
+  },
+  {
+    "key": "DP_0392_0073",
+    "original": "Ｂ ガクン3",
+    "translation": "Ｂ ガクン3",
+    "index": 73
+  },
+  {
+    "key": "DP_0392_0074",
+    "original": "Ｂ さんかく1",
+    "translation": "Ｂ さんかく1",
+    "index": 74
+  },
+  {
+    "key": "DP_0392_0075",
+    "original": "Ｂ さんかく2",
+    "translation": "Ｂ さんかく2",
+    "index": 75
+  },
+  {
+    "key": "DP_0392_0076",
+    "original": "Ｂ さんかく3",
+    "translation": "Ｂ さんかく3",
+    "index": 76
+  },
+  {
+    "key": "DP_0392_0077",
+    "original": "Ｂ バウンド1",
+    "translation": "Ｂ バウンド1",
+    "index": 77
+  },
+  {
+    "key": "DP_0392_0078",
+    "original": "Ｂ バウンド2",
+    "translation": "Ｂ バウンド2",
+    "index": 78
+  },
+  {
+    "key": "DP_0392_0079",
+    "original": "Ｂ バウンド3",
+    "translation": "Ｂ バウンド3",
+    "index": 79
+  },
+  {
+    "key": "DP_0392_0080",
+    "original": "Ｂ バウンドスモール1",
+    "translation": "Ｂ バウンドスモール1",
+    "index": 80
+  },
+  {
+    "key": "DP_0392_0081",
+    "original": "Ｂ バウンドスモール2",
+    "translation": "Ｂ バウンドスモール2",
+    "index": 81
+  },
+  {
+    "key": "DP_0392_0082",
+    "original": "Ｂ バウンドスモール3",
+    "translation": "Ｂ バウンドスモール3",
+    "index": 82
+  },
+  {
+    "key": "DP_0392_0083",
+    "original": "Ｂ さゆうゆれ1",
+    "translation": "Ｂ さゆうゆれ1",
+    "index": 83
+  },
+  {
+    "key": "DP_0392_0084",
+    "original": "Ｂ さゆうゆれ2",
+    "translation": "Ｂ さゆうゆれ2",
+    "index": 84
+  },
+  {
+    "key": "DP_0392_0085",
+    "original": "Ｂ さゆうゆれ3",
+    "translation": "Ｂ さゆうゆれ3",
+    "index": 85
+  },
+  {
+    "key": "DP_0392_0086",
+    "original": "Ｂ しずむ1",
+    "translation": "Ｂ しずむ1",
+    "index": 86
+  },
+  {
+    "key": "DP_0392_0087",
+    "original": "Ｂ しずむ2",
+    "translation": "Ｂ しずむ2",
+    "index": 87
+  },
+  {
+    "key": "DP_0392_0088",
+    "original": "Ｂ しずむ3",
+    "translation": "Ｂ しずむ3",
+    "index": 88
+  },
+  {
+    "key": "DP_0392_0089",
+    "original": "Ｂ ちぢんでふくらむ1",
+    "translation": "Ｂ ちぢんでふくらむ1",
+    "index": 89
+  },
+  {
+    "key": "DP_0392_0090",
+    "original": "Ｂ ちぢんでふくらむ2",
+    "translation": "Ｂ ちぢんでふくらむ2",
+    "index": 90
+  },
+  {
+    "key": "DP_0392_0091",
+    "original": "Ｂ ちぢんでふくらむ3",
+    "translation": "Ｂ ちぢんでふくらむ3",
+    "index": 91
+  },
+  {
+    "key": "DP_0392_0092",
+    "original": "Ｂ とっしん1",
+    "translation": "Ｂ とっしん1",
+    "index": 92
+  },
+  {
+    "key": "DP_0392_0093",
+    "original": "Ｂ とっしん",
+    "translation": "Ｂ とっしん",
+    "index": 93
+  },
+  {
+    "key": "DP_0392_0094",
+    "original": "Ｂ とっしん",
+    "translation": "Ｂ とっしん",
+    "index": 94
+  },
+  {
+    "key": "DP_0392_0095",
+    "original": "Ｂ フェードあか1",
+    "translation": "Ｂ フェードあか1",
+    "index": 95
+  },
+  {
+    "key": "DP_0392_0096",
+    "original": "Ｂ フェードあか2",
+    "translation": "Ｂ フェードあか2",
+    "index": 96
+  },
+  {
+    "key": "DP_0392_0097",
+    "original": "Ｂ フェードあか3",
+    "translation": "Ｂ フェードあか3",
+    "index": 97
+  },
+  {
+    "key": "DP_0392_0098",
+    "original": "Ｂ フェードあお1",
+    "translation": "Ｂ フェードあお1",
+    "index": 98
+  },
+  {
+    "key": "DP_0392_0099",
+    "original": "Ｂ フェードあお2",
+    "translation": "Ｂ フェードあお2",
+    "index": 99
+  },
+  {
+    "key": "DP_0392_0100",
+    "original": "Ｂ フェードあお3",
+    "translation": "Ｂ フェードあお3",
+    "index": 100
+  },
+  {
+    "key": "DP_0392_0101",
+    "original": "Ｂ フェードみどり1",
+    "translation": "Ｂ フェードみどり1",
+    "index": 101
+  },
+  {
+    "key": "DP_0392_0102",
+    "original": "Ｂ フェードみどり2",
+    "translation": "Ｂ フェードみどり2",
+    "index": 102
+  },
+  {
+    "key": "DP_0392_0103",
+    "original": "Ｂ フェードみどり3",
+    "translation": "Ｂ フェードみどり3",
+    "index": 103
+  },
+  {
+    "key": "DP_0392_0104",
+    "original": "Ｂ スパーク1",
+    "translation": "Ｂ スパーク1",
+    "index": 104
+  },
+  {
+    "key": "DP_0392_0105",
+    "original": "Ｂ スパーク2",
+    "translation": "Ｂ スパーク2",
+    "index": 105
+  },
+  {
+    "key": "DP_0392_0106",
+    "original": "Ｂ スパーク3",
+    "translation": "Ｂ スパーク3",
+    "index": 106
+  },
+  {
+    "key": "DP_0392_0107",
+    "original": "Ｂ ブルブルよこいどう1",
+    "translation": "Ｂ ブルブルよこいどう1",
+    "index": 107
+  },
+  {
+    "key": "DP_0392_0108",
+    "original": "Ｂ ブルブルよこいどう2",
+    "translation": "Ｂ ブルブルよこいどう2",
+    "index": 108
+  },
+  {
+    "key": "DP_0392_0109",
+    "original": "Ｂ ブルブルよこいどう3",
+    "translation": "Ｂ ブルブルよこいどう3",
+    "index": 109
+  },
+  {
+    "key": "DP_0392_0110",
+    "original": "Ｂ こうそくかいてん1",
+    "translation": "Ｂ こうそくかいてん1",
+    "index": 110
+  },
+  {
+    "key": "DP_0392_0111",
+    "original": "Ｂ こうそくかいてん2",
+    "translation": "Ｂ こうそくかいてん2",
+    "index": 111
+  },
+  {
+    "key": "DP_0392_0112",
+    "original": "Ｂ こうそくかいてん3",
+    "translation": "Ｂ こうそくかいてん3",
+    "index": 112
+  },
+  {
+    "key": "DP_0392_0113",
+    "original": "Ｂ ふくらむ1",
+    "translation": "Ｂ ふくらむ1",
+    "index": 113
+  },
+  {
+    "key": "DP_0392_0114",
+    "original": "Ｂ ふくらむ2",
+    "translation": "Ｂ ふくらむ2",
+    "index": 114
+  },
+  {
+    "key": "DP_0392_0115",
+    "original": "Ｂ ふくらむ3",
+    "translation": "Ｂ ふくらむ3",
+    "index": 115
+  },
+  {
+    "key": "DP_0392_0116",
+    "original": "Ｂ ちぢんで ふくらむ1",
+    "translation": "Ｂ ちぢんで ふくらむ1",
+    "index": 116
+  },
+  {
+    "key": "DP_0392_0117",
+    "original": "Ｂ ちぢんで ふくらむ2",
+    "translation": "Ｂ ちぢんで ふくらむ2",
+    "index": 117
+  },
+  {
+    "key": "DP_0392_0118",
+    "original": "Ｂ ちぢんで ふくらむ3",
+    "translation": "Ｂ ちぢんで ふくらむ3",
+    "index": 118
+  },
+  {
+    "key": "DP_0392_0119",
+    "original": "Ｂ つぶれよこゆれＡ1",
+    "translation": "Ｂ つぶれよこゆれＡ1",
+    "index": 119
+  },
+  {
+    "key": "DP_0392_0120",
+    "original": "Ｂ つぶれよこゆれＡ2",
+    "translation": "Ｂ つぶれよこゆれＡ2",
+    "index": 120
+  },
+  {
+    "key": "DP_0392_0121",
+    "original": "Ｂ つぶれよこゆれＡ3",
+    "translation": "Ｂ つぶれよこゆれＡ3",
+    "index": 121
+  },
+  {
+    "key": "DP_0392_0122",
+    "original": "Ｂ つぶれよこゆれＢ1",
+    "translation": "Ｂ つぶれよこゆれＢ1",
+    "index": 122
+  },
+  {
+    "key": "DP_0392_0123",
+    "original": "Ｂ つぶれよこゆれＢ2",
+    "translation": "Ｂ つぶれよこゆれＢ2",
+    "index": 123
+  },
+  {
+    "key": "DP_0392_0124",
+    "original": "Ｂ つぶれよこゆれＢ3",
+    "translation": "Ｂ つぶれよこゆれＢ3",
+    "index": 124
+  },
+  {
+    "key": "DP_0392_0125",
+    "original": "Ｂ ピョンピョン1",
+    "translation": "Ｂ ピョンピョン1",
+    "index": 125
+  },
+  {
+    "key": "DP_0392_0126",
+    "original": "Ｂ ピョンピョン2",
+    "translation": "Ｂ ピョンピョン2",
+    "index": 126
+  },
+  {
+    "key": "DP_0392_0127",
+    "original": "Ｂ ピョンピョン3",
+    "translation": "Ｂ ピョンピョン3",
+    "index": 127
+  },
+  {
+    "key": "DP_0392_0128",
+    "original": "Ｂ ゆれながら じょうげ1",
+    "translation": "Ｂ ゆれながら じょうげ1",
+    "index": 128
+  },
+  {
+    "key": "DP_0392_0129",
+    "original": "Ｂ ゆれながら じょうげ2",
+    "translation": "Ｂ ゆれながら じょうげ2",
+    "index": 129
+  },
+  {
+    "key": "DP_0392_0130",
+    "original": "Ｂ ゆれながら じょうげ3",
+    "translation": "Ｂ ゆれながら じょうげ3",
+    "index": 130
+  },
+  {
+    "key": "DP_0392_0131",
+    "original": "Ｂ あしぶみ1",
+    "translation": "Ｂ あしぶみ1",
+    "index": 131
+  },
+  {
+    "key": "DP_0392_0132",
+    "original": "Ｂ あしぶみ2",
+    "translation": "Ｂ あしぶみ2",
+    "index": 132
+  },
+  {
+    "key": "DP_0392_0133",
+    "original": "Ｂ あしぶみ3",
+    "translation": "Ｂ あしぶみ3",
+    "index": 133
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "key": "HGSS_0407_0000",
+    "original": "オーキドはかせの ポケモンこうざ",
+    "translation": "大木博士的宝可梦讲座",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0407_0001",
+    "original": "クルミとオーキド",
+    "translation": "胡桃与大木",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0407_0002",
+    "original": "クルミ『ポケモンを あいする\nあなたに おとどけ！\nオーキドはかせの ポケモンこうざ！\nおあいては わたし クルミですう！",
+    "translation": "胡桃：献给\n热爱宝可梦的你！\n《大木博士的宝可梦讲座》！\n我是大家的胡桃！",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0407_0003",
+    "original": "ポケモン ポケモン\nポケモン チャンネル",
+    "translation": "宝可梦　宝可梦\n宝可梦　频道",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0407_0004",
+    "original": "オーキド『[0100,0001]は\n[0104,0000]に\nせいそくして おるようじゃ！",
+    "translation": "大木：[0100,0001]在\n[0104,0000]里\n生活着！",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0407_0005",
+    "original": "クルミ『[0100,0001]って\n[011C,0002]\n[011C,0003]",
+    "translation": "胡桃：[0100,0001]\n[011C,0002]\n[011C,0003]",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0407_0006",
+    "original": "ひとめ あった そのときから",
+    "translation": "只要看一眼",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0407_0007",
+    "original": "ゆめに でてくるほど",
+    "translation": "就会入梦",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0407_0008",
+    "original": "これといって りゆうは ないけど",
+    "translation": "这个没有什么理由",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0407_0009",
+    "original": "そこに いるだけで",
+    "translation": "只要呆在那里",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0407_0010",
+    "original": "うえからみても したからみても",
+    "translation": "不管从上边看还是下边看",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0407_0011",
+    "original": "つれあるいて いるだけで",
+    "translation": "只要在一起散步",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0407_0012",
+    "original": "なまえを よんでみるだけで",
+    "translation": "只要试着读出名字",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0407_0013",
+    "original": "みかたを ちょっと かえるだけで",
+    "translation": "悄悄瞅一眼",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0407_0014",
+    "original": "たんにんの せんせいに にていて",
+    "translation": "就像被班主任盯着一样",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0407_0015",
+    "original": "がまん できない くらいに",
+    "translation": "无法忍受",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0407_0016",
+    "original": "いつだって",
+    "translation": "不论何时",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0407_0017",
+    "original": "かるく つっついて みると",
+    "translation": "轻轻地戳一下",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0407_0018",
+    "original": "おもってた いじょうに",
+    "translation": "就会比想象的",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0407_0019",
+    "original": "わらいが とまんなーい！",
+    "translation": "笑得更为厉害！",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0407_0020",
+    "original": "こころが やすらぐのよねえー",
+    "translation": "心里非常轻松",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0407_0021",
+    "original": "たのもしいのよねえー",
+    "translation": "非常可靠",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0407_0022",
+    "original": "めが はなせないのよねえー",
+    "translation": "不要移开这视线",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0407_0023",
+    "original": "トリコに させられちゃう！",
+    "translation": "我已经被俘虏！",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0407_0024",
+    "original": "いい おともだちに なれそう！",
+    "translation": "应该能成为好朋友！",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0407_0025",
+    "original": "みんなが ひれふすの！",
+    "translation": "所有人都在膜拜！",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0407_0026",
+    "original": "びっくり させられっぱなし！",
+    "translation": "大吃一惊！",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0407_0027",
+    "original": "だいはくりょく なのよねえー",
+    "translation": "大魄力！",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0407_0028",
+    "original": "ステキだと おもわなーい？",
+    "translation": "你不觉得很帅吗？",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0407_0029",
+    "original": "クールよねえー",
+    "translation": "很酷吧",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0407_0030",
+    "original": "なんか へんな かんじー",
+    "translation": "感觉有点奇怪",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0407_0031",
+    "original": "ポケモンらしい ポケモンよねえー",
+    "translation": "很像宝可梦的宝可梦",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0407_0032",
+    "original": "クルミ『りんじニュース ですよう！\n[0104,0000]で\n[0100,0001]が たっくさん\nすがたを みせている ようですねえ\n[0100,0001]と あいたーい\nって トレーナーさんは\n[0104,0000]に\nいそぎましょうー！\nりんじニュースは いじょうですう！",
+    "translation": "胡桃：零点新闻！\n[0104,0000]出现了很多的\n[0100,0001]，\n想抓[0100,0001]的\n训练家们立刻去\n[0104,0000]吧！\n零点新闻到此结束！",
+    "index": 32
+  }
+]

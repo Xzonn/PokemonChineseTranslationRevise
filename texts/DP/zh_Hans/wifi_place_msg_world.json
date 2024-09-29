@@ -1,0 +1,1406 @@
+[
+  {
+    "key": "DP_0786_0000",
+    "original": "なし",
+    "translation": "无",
+    "index": 0
+  },
+  {
+    "key": "DP_0786_0001",
+    "original": "アフガニスタン",
+    "translation": "阿富汗",
+    "index": 1
+  },
+  {
+    "key": "DP_0786_0002",
+    "original": "アルバニア",
+    "translation": "阿尔巴尼亚",
+    "index": 2
+  },
+  {
+    "key": "DP_0786_0003",
+    "original": "アルジェリア",
+    "translation": "阿尔及利亚",
+    "index": 3
+  },
+  {
+    "key": "DP_0786_0004",
+    "original": "アメリカりょうサモア",
+    "translation": "美属萨摩亚",
+    "index": 4
+  },
+  {
+    "key": "DP_0786_0005",
+    "original": "アンドラ",
+    "translation": "安道尔",
+    "index": 5
+  },
+  {
+    "key": "DP_0786_0006",
+    "original": "アンゴラ",
+    "translation": "安哥拉",
+    "index": 6
+  },
+  {
+    "key": "DP_0786_0007",
+    "original": "アンギラ",
+    "translation": "安圭拉",
+    "index": 7
+  },
+  {
+    "key": "DP_0786_0008",
+    "original": "アンティグア・バーブーダ",
+    "translation": "安提瓜和巴布达",
+    "index": 8
+  },
+  {
+    "key": "DP_0786_0009",
+    "original": "アルゼンチン",
+    "translation": "阿根廷",
+    "index": 9
+  },
+  {
+    "key": "DP_0786_0010",
+    "original": "アルメニア",
+    "translation": "亚美尼亚",
+    "index": 10
+  },
+  {
+    "key": "DP_0786_0011",
+    "original": "アルバ",
+    "translation": "阿鲁巴",
+    "index": 11
+  },
+  {
+    "key": "DP_0786_0012",
+    "original": "オーストラリア",
+    "translation": "澳大利亚",
+    "index": 12
+  },
+  {
+    "key": "DP_0786_0013",
+    "original": "オーストリア",
+    "translation": "奥地利",
+    "index": 13
+  },
+  {
+    "key": "DP_0786_0014",
+    "original": "アゼルバイジャン",
+    "translation": "阿塞拜疆",
+    "index": 14
+  },
+  {
+    "key": "DP_0786_0015",
+    "original": "バハマ",
+    "translation": "巴哈马",
+    "index": 15
+  },
+  {
+    "key": "DP_0786_0016",
+    "original": "バーレーン",
+    "translation": "巴林",
+    "index": 16
+  },
+  {
+    "key": "DP_0786_0017",
+    "original": "バングラデシュ",
+    "translation": "孟加拉",
+    "index": 17
+  },
+  {
+    "key": "DP_0786_0018",
+    "original": "バルバドス",
+    "translation": "巴巴多斯",
+    "index": 18
+  },
+  {
+    "key": "DP_0786_0019",
+    "original": "ベラルーシ",
+    "translation": "白俄罗斯",
+    "index": 19
+  },
+  {
+    "key": "DP_0786_0020",
+    "original": "ベルギー",
+    "translation": "比利时",
+    "index": 20
+  },
+  {
+    "key": "DP_0786_0021",
+    "original": "ベリーズ",
+    "translation": "伯利兹",
+    "index": 21
+  },
+  {
+    "key": "DP_0786_0022",
+    "original": "ベナン",
+    "translation": "贝宁",
+    "index": 22
+  },
+  {
+    "key": "DP_0786_0023",
+    "original": "バミューダ",
+    "translation": "百慕大",
+    "index": 23
+  },
+  {
+    "key": "DP_0786_0024",
+    "original": "ブータン",
+    "translation": "不丹",
+    "index": 24
+  },
+  {
+    "key": "DP_0786_0025",
+    "original": "ボリビア",
+    "translation": "玻利维亚",
+    "index": 25
+  },
+  {
+    "key": "DP_0786_0026",
+    "original": "ボスニア・ヘルツェゴビナ",
+    "translation": "波斯尼亚和黑塞哥维那",
+    "index": 26
+  },
+  {
+    "key": "DP_0786_0027",
+    "original": "ボツワナ",
+    "translation": "博茨瓦纳",
+    "index": 27
+  },
+  {
+    "key": "DP_0786_0028",
+    "original": "ブラジル",
+    "translation": "巴西",
+    "index": 28
+  },
+  {
+    "key": "DP_0786_0029",
+    "original": "イギリスりょうバージンしょとう",
+    "translation": "英属维尔京群岛",
+    "index": 29
+  },
+  {
+    "key": "DP_0786_0030",
+    "original": "ブルネイ",
+    "translation": "文莱",
+    "index": 30
+  },
+  {
+    "key": "DP_0786_0031",
+    "original": "ブルガリア",
+    "translation": "保加利亚",
+    "index": 31
+  },
+  {
+    "key": "DP_0786_0032",
+    "original": "ブルキナファソ",
+    "translation": "布基纳法索",
+    "index": 32
+  },
+  {
+    "key": "DP_0786_0033",
+    "original": "ブルンジ",
+    "translation": "布隆迪",
+    "index": 33
+  },
+  {
+    "key": "DP_0786_0034",
+    "original": "カンボジア",
+    "translation": "柬埔寨",
+    "index": 34
+  },
+  {
+    "key": "DP_0786_0035",
+    "original": "カメルーン",
+    "translation": "喀麦隆",
+    "index": 35
+  },
+  {
+    "key": "DP_0786_0036",
+    "original": "カナダ",
+    "translation": "加拿大",
+    "index": 36
+  },
+  {
+    "key": "DP_0786_0037",
+    "original": "カーボベルデ",
+    "translation": "佛得角",
+    "index": 37
+  },
+  {
+    "key": "DP_0786_0038",
+    "original": "ケイマンしょとう",
+    "translation": "开曼群岛",
+    "index": 38
+  },
+  {
+    "key": "DP_0786_0039",
+    "original": "ちゅうおうアフリカ",
+    "translation": "中非共和国",
+    "index": 39
+  },
+  {
+    "key": "DP_0786_0040",
+    "original": "チャド",
+    "translation": "乍得",
+    "index": 40
+  },
+  {
+    "key": "DP_0786_0041",
+    "original": "チャネルしょとう",
+    "translation": "海峡群岛",
+    "index": 41
+  },
+  {
+    "key": "DP_0786_0042",
+    "original": "チリ",
+    "translation": "智利",
+    "index": 42
+  },
+  {
+    "key": "DP_0786_0043",
+    "original": "ちゅうごく",
+    "translation": "中国",
+    "index": 43
+  },
+  {
+    "key": "DP_0786_0044",
+    "original": "クリスマスとう",
+    "translation": "圣诞岛",
+    "index": 44
+  },
+  {
+    "key": "DP_0786_0045",
+    "original": "コロンビア",
+    "translation": "哥伦比亚共和国",
+    "index": 45
+  },
+  {
+    "key": "DP_0786_0046",
+    "original": "コモロ",
+    "translation": "科摩罗",
+    "index": 46
+  },
+  {
+    "key": "DP_0786_0047",
+    "original": "コンゴみんしゅきょうわこく",
+    "translation": "刚果民主共和国",
+    "index": 47
+  },
+  {
+    "key": "DP_0786_0048",
+    "original": "コンゴきょうわこく",
+    "translation": "刚果共和国",
+    "index": 48
+  },
+  {
+    "key": "DP_0786_0049",
+    "original": "クックしょとう",
+    "translation": "库克群岛",
+    "index": 49
+  },
+  {
+    "key": "DP_0786_0050",
+    "original": "コスタリカ",
+    "translation": "哥斯达黎加",
+    "index": 50
+  },
+  {
+    "key": "DP_0786_0051",
+    "original": "コートジボワール",
+    "translation": "科特迪瓦",
+    "index": 51
+  },
+  {
+    "key": "DP_0786_0052",
+    "original": "クロアチア",
+    "translation": "克罗地亚",
+    "index": 52
+  },
+  {
+    "key": "DP_0786_0053",
+    "original": "キューバ",
+    "translation": "古巴",
+    "index": 53
+  },
+  {
+    "key": "DP_0786_0054",
+    "original": "キプロス",
+    "translation": "塞浦路斯",
+    "index": 54
+  },
+  {
+    "key": "DP_0786_0055",
+    "original": "チェコ",
+    "translation": "捷克",
+    "index": 55
+  },
+  {
+    "key": "DP_0786_0056",
+    "original": "デンマーク",
+    "translation": "丹麦",
+    "index": 56
+  },
+  {
+    "key": "DP_0786_0057",
+    "original": "ジブチ",
+    "translation": "吉布地",
+    "index": 57
+  },
+  {
+    "key": "DP_0786_0058",
+    "original": "ドミニカ",
+    "translation": "多米尼加",
+    "index": 58
+  },
+  {
+    "key": "DP_0786_0059",
+    "original": "ドミニカきょうわこく",
+    "translation": "多米尼克共和国",
+    "index": 59
+  },
+  {
+    "key": "DP_0786_0060",
+    "original": "エクアドル",
+    "translation": "厄瓜多尔",
+    "index": 60
+  },
+  {
+    "key": "DP_0786_0061",
+    "original": "エジプト",
+    "translation": "埃及",
+    "index": 61
+  },
+  {
+    "key": "DP_0786_0062",
+    "original": "エルサルバドル",
+    "translation": "萨尔瓦多",
+    "index": 62
+  },
+  {
+    "key": "DP_0786_0063",
+    "original": "せきどうギニア",
+    "translation": "赤道几内亚",
+    "index": 63
+  },
+  {
+    "key": "DP_0786_0064",
+    "original": "エリトリア",
+    "translation": "厄立特里亚",
+    "index": 64
+  },
+  {
+    "key": "DP_0786_0065",
+    "original": "エストニア",
+    "translation": "爱沙尼亚",
+    "index": 65
+  },
+  {
+    "key": "DP_0786_0066",
+    "original": "エチオピア",
+    "translation": "埃塞俄比亚",
+    "index": 66
+  },
+  {
+    "key": "DP_0786_0067",
+    "original": "フェローしょとう",
+    "translation": "法罗群岛",
+    "index": 67
+  },
+  {
+    "key": "DP_0786_0068",
+    "original": "フォークランド（マルビナス)しょとう",
+    "translation": "福克兰（马鲁比那斯群岛）",
+    "index": 68
+  },
+  {
+    "key": "DP_0786_0069",
+    "original": "フィジーしょとう",
+    "translation": "斐济群岛",
+    "index": 69
+  },
+  {
+    "key": "DP_0786_0070",
+    "original": "フィンランド",
+    "translation": "芬兰",
+    "index": 70
+  },
+  {
+    "key": "DP_0786_0071",
+    "original": "フランス",
+    "translation": "法国",
+    "index": 71
+  },
+  {
+    "key": "DP_0786_0072",
+    "original": "フランスりょうギアナ",
+    "translation": "法属圭亚那",
+    "index": 72
+  },
+  {
+    "key": "DP_0786_0073",
+    "original": "フランスりょうポリネシア",
+    "translation": "法属波利尼西亚",
+    "index": 73
+  },
+  {
+    "key": "DP_0786_0074",
+    "original": "ガボン",
+    "translation": "加蓬",
+    "index": 74
+  },
+  {
+    "key": "DP_0786_0075",
+    "original": "ガンビア",
+    "translation": "冈比亚",
+    "index": 75
+  },
+  {
+    "key": "DP_0786_0076",
+    "original": "グルジア",
+    "translation": "格鲁吉亚",
+    "index": 76
+  },
+  {
+    "key": "DP_0786_0077",
+    "original": "ドイツ",
+    "translation": "德国",
+    "index": 77
+  },
+  {
+    "key": "DP_0786_0078",
+    "original": "ガーナ",
+    "translation": "加纳",
+    "index": 78
+  },
+  {
+    "key": "DP_0786_0079",
+    "original": "ジブラルタル",
+    "translation": "直布罗陀",
+    "index": 79
+  },
+  {
+    "key": "DP_0786_0080",
+    "original": "ギリシャ",
+    "translation": "希腊",
+    "index": 80
+  },
+  {
+    "key": "DP_0786_0081",
+    "original": "グリーンランド",
+    "translation": "格陵兰",
+    "index": 81
+  },
+  {
+    "key": "DP_0786_0082",
+    "original": "グレナダ",
+    "translation": "格林纳达",
+    "index": 82
+  },
+  {
+    "key": "DP_0786_0083",
+    "original": "グアドループとう",
+    "translation": "瓜德罗普岛",
+    "index": 83
+  },
+  {
+    "key": "DP_0786_0084",
+    "original": "グアム",
+    "translation": "关岛",
+    "index": 84
+  },
+  {
+    "key": "DP_0786_0085",
+    "original": "グアテマラ",
+    "translation": "危地马拉",
+    "index": 85
+  },
+  {
+    "key": "DP_0786_0086",
+    "original": "ギニア",
+    "translation": "几内亚",
+    "index": 86
+  },
+  {
+    "key": "DP_0786_0087",
+    "original": "ギニアビサウ",
+    "translation": "几内亚比绍",
+    "index": 87
+  },
+  {
+    "key": "DP_0786_0088",
+    "original": "ガイアナ",
+    "translation": "圭亚那",
+    "index": 88
+  },
+  {
+    "key": "DP_0786_0089",
+    "original": "ハイチ",
+    "translation": "海地",
+    "index": 89
+  },
+  {
+    "key": "DP_0786_0090",
+    "original": "ホンジュラス",
+    "translation": "洪都拉斯",
+    "index": 90
+  },
+  {
+    "key": "DP_0786_0091",
+    "original": "ホンコン",
+    "translation": "香港",
+    "index": 91
+  },
+  {
+    "key": "DP_0786_0092",
+    "original": "ハンガリー",
+    "translation": "匈牙利",
+    "index": 92
+  },
+  {
+    "key": "DP_0786_0093",
+    "original": "アイスランド",
+    "translation": "冰岛",
+    "index": 93
+  },
+  {
+    "key": "DP_0786_0094",
+    "original": "インド",
+    "translation": "印度",
+    "index": 94
+  },
+  {
+    "key": "DP_0786_0095",
+    "original": "インドネシア",
+    "translation": "印度尼西亚",
+    "index": 95
+  },
+  {
+    "key": "DP_0786_0096",
+    "original": "イラン",
+    "translation": "伊朗",
+    "index": 96
+  },
+  {
+    "key": "DP_0786_0097",
+    "original": "イラク",
+    "translation": "伊拉克",
+    "index": 97
+  },
+  {
+    "key": "DP_0786_0098",
+    "original": "アイルランド",
+    "translation": "爱尔兰",
+    "index": 98
+  },
+  {
+    "key": "DP_0786_0099",
+    "original": "マンとう",
+    "translation": "马恩岛",
+    "index": 99
+  },
+  {
+    "key": "DP_0786_0100",
+    "original": "イスラエル",
+    "translation": "以色列",
+    "index": 100
+  },
+  {
+    "key": "DP_0786_0101",
+    "original": "イタリア",
+    "translation": "意大利",
+    "index": 101
+  },
+  {
+    "key": "DP_0786_0102",
+    "original": "ジャマイカ",
+    "translation": "牙买加",
+    "index": 102
+  },
+  {
+    "key": "DP_0786_0103",
+    "original": "にほん",
+    "translation": "日本",
+    "index": 103
+  },
+  {
+    "key": "DP_0786_0104",
+    "original": "ヨルダン",
+    "translation": "约旦",
+    "index": 104
+  },
+  {
+    "key": "DP_0786_0105",
+    "original": "カシミール",
+    "translation": "克什米尔",
+    "index": 105
+  },
+  {
+    "key": "DP_0786_0106",
+    "original": "カザフスタン",
+    "translation": "哈萨克斯坦",
+    "index": 106
+  },
+  {
+    "key": "DP_0786_0107",
+    "original": "ケニア",
+    "translation": "肯尼亚",
+    "index": 107
+  },
+  {
+    "key": "DP_0786_0108",
+    "original": "キリバス",
+    "translation": "基里巴斯",
+    "index": 108
+  },
+  {
+    "key": "DP_0786_0109",
+    "original": "きたちょうせん",
+    "translation": "朝鲜",
+    "index": 109
+  },
+  {
+    "key": "DP_0786_0110",
+    "original": "かんこく",
+    "translation": "韩国",
+    "index": 110
+  },
+  {
+    "key": "DP_0786_0111",
+    "original": "クウェート",
+    "translation": "科威特",
+    "index": 111
+  },
+  {
+    "key": "DP_0786_0112",
+    "original": "キルギス",
+    "translation": "吉尔吉斯斯坦",
+    "index": 112
+  },
+  {
+    "key": "DP_0786_0113",
+    "original": "ラオス",
+    "translation": "老挝",
+    "index": 113
+  },
+  {
+    "key": "DP_0786_0114",
+    "original": "ラトビア",
+    "translation": "拉脱维亚",
+    "index": 114
+  },
+  {
+    "key": "DP_0786_0115",
+    "original": "レバノン",
+    "translation": "黎巴嫩",
+    "index": 115
+  },
+  {
+    "key": "DP_0786_0116",
+    "original": "レソト",
+    "translation": "莱索托",
+    "index": 116
+  },
+  {
+    "key": "DP_0786_0117",
+    "original": "リベリア",
+    "translation": "利比里亚",
+    "index": 117
+  },
+  {
+    "key": "DP_0786_0118",
+    "original": "リビア",
+    "translation": "利比亚",
+    "index": 118
+  },
+  {
+    "key": "DP_0786_0119",
+    "original": "リヒテンシュタイン",
+    "translation": "列支敦斯登",
+    "index": 119
+  },
+  {
+    "key": "DP_0786_0120",
+    "original": "リトアニア",
+    "translation": "立陶宛",
+    "index": 120
+  },
+  {
+    "key": "DP_0786_0121",
+    "original": "ルクセンブルク",
+    "translation": "卢森堡",
+    "index": 121
+  },
+  {
+    "key": "DP_0786_0122",
+    "original": "マカオ",
+    "translation": "澳门",
+    "index": 122
+  },
+  {
+    "key": "DP_0786_0123",
+    "original": "マケドニアきゅうユーゴスラビア",
+    "translation": "前南斯拉夫马其顿",
+    "index": 123
+  },
+  {
+    "key": "DP_0786_0124",
+    "original": "マダガスカル",
+    "translation": "马达加斯加",
+    "index": 124
+  },
+  {
+    "key": "DP_0786_0125",
+    "original": "マラウイ",
+    "translation": "马拉维",
+    "index": 125
+  },
+  {
+    "key": "DP_0786_0126",
+    "original": "マレーシア",
+    "translation": "马来西亚",
+    "index": 126
+  },
+  {
+    "key": "DP_0786_0127",
+    "original": "モルディブ",
+    "translation": "马尔代夫",
+    "index": 127
+  },
+  {
+    "key": "DP_0786_0128",
+    "original": "マリ",
+    "translation": "马里",
+    "index": 128
+  },
+  {
+    "key": "DP_0786_0129",
+    "original": "マルタ",
+    "translation": "马耳他",
+    "index": 129
+  },
+  {
+    "key": "DP_0786_0130",
+    "original": "マーシャルしょとう",
+    "translation": "马绍尔群岛",
+    "index": 130
+  },
+  {
+    "key": "DP_0786_0131",
+    "original": "マルチニーク",
+    "translation": "马提尼克",
+    "index": 131
+  },
+  {
+    "key": "DP_0786_0132",
+    "original": "モーリタニア",
+    "translation": "毛里塔尼亚",
+    "index": 132
+  },
+  {
+    "key": "DP_0786_0133",
+    "original": "モーリシャス",
+    "translation": "模里西斯",
+    "index": 133
+  },
+  {
+    "key": "DP_0786_0134",
+    "original": "マヨット",
+    "translation": "马约特",
+    "index": 134
+  },
+  {
+    "key": "DP_0786_0135",
+    "original": "メキシコ",
+    "translation": "墨西哥",
+    "index": 135
+  },
+  {
+    "key": "DP_0786_0136",
+    "original": "ミクロネシア",
+    "translation": "密克罗尼西亚",
+    "index": 136
+  },
+  {
+    "key": "DP_0786_0137",
+    "original": "モルドバ",
+    "translation": "摩尔多瓦",
+    "index": 137
+  },
+  {
+    "key": "DP_0786_0138",
+    "original": "モナコ",
+    "translation": "摩纳哥",
+    "index": 138
+  },
+  {
+    "key": "DP_0786_0139",
+    "original": "モンゴル",
+    "translation": "蒙古",
+    "index": 139
+  },
+  {
+    "key": "DP_0786_0140",
+    "original": "モロッコ",
+    "translation": "摩洛哥",
+    "index": 140
+  },
+  {
+    "key": "DP_0786_0141",
+    "original": "モザンビーク",
+    "translation": "莫三比克",
+    "index": 141
+  },
+  {
+    "key": "DP_0786_0142",
+    "original": "ミャンマー",
+    "translation": "缅甸",
+    "index": 142
+  },
+  {
+    "key": "DP_0786_0143",
+    "original": "ナミビア",
+    "translation": "纳米比亚",
+    "index": 143
+  },
+  {
+    "key": "DP_0786_0144",
+    "original": "ナウル",
+    "translation": "瑙鲁",
+    "index": 144
+  },
+  {
+    "key": "DP_0786_0145",
+    "original": "ネパール",
+    "translation": "尼泊尔",
+    "index": 145
+  },
+  {
+    "key": "DP_0786_0146",
+    "original": "オランダ",
+    "translation": "荷兰",
+    "index": 146
+  },
+  {
+    "key": "DP_0786_0147",
+    "original": "オランダりょうアンティル",
+    "translation": "荷属安的列斯",
+    "index": 147
+  },
+  {
+    "key": "DP_0786_0148",
+    "original": "ニューカレドニア",
+    "translation": "新喀里多尼亚",
+    "index": 148
+  },
+  {
+    "key": "DP_0786_0149",
+    "original": "ニュージーランド",
+    "translation": "新西兰",
+    "index": 149
+  },
+  {
+    "key": "DP_0786_0150",
+    "original": "ニカラグア",
+    "translation": "尼加拉瓜",
+    "index": 150
+  },
+  {
+    "key": "DP_0786_0151",
+    "original": "ニジェール",
+    "translation": "尼日",
+    "index": 151
+  },
+  {
+    "key": "DP_0786_0152",
+    "original": "ナイジェリア",
+    "translation": "尼日利亚",
+    "index": 152
+  },
+  {
+    "key": "DP_0786_0153",
+    "original": "ニウエ",
+    "translation": "纽埃",
+    "index": 153
+  },
+  {
+    "key": "DP_0786_0154",
+    "original": "ノーフォークとう",
+    "translation": "诺福克岛",
+    "index": 154
+  },
+  {
+    "key": "DP_0786_0155",
+    "original": "きたマリアナしょとう",
+    "translation": "北马里亚纳群岛",
+    "index": 155
+  },
+  {
+    "key": "DP_0786_0156",
+    "original": "ノルウェー",
+    "translation": "挪威",
+    "index": 156
+  },
+  {
+    "key": "DP_0786_0157",
+    "original": "オマーン",
+    "translation": "阿曼",
+    "index": 157
+  },
+  {
+    "key": "DP_0786_0158",
+    "original": "パキスタン",
+    "translation": "巴基斯坦",
+    "index": 158
+  },
+  {
+    "key": "DP_0786_0159",
+    "original": "パラオ",
+    "translation": "帕劳",
+    "index": 159
+  },
+  {
+    "key": "DP_0786_0160",
+    "original": "パナマ",
+    "translation": "巴拿马",
+    "index": 160
+  },
+  {
+    "key": "DP_0786_0161",
+    "original": "パプアニューギニア",
+    "translation": "巴布亚新几内亚",
+    "index": 161
+  },
+  {
+    "key": "DP_0786_0162",
+    "original": "パラグアイ",
+    "translation": "巴拉圭",
+    "index": 162
+  },
+  {
+    "key": "DP_0786_0163",
+    "original": "ペルー",
+    "translation": "秘鲁",
+    "index": 163
+  },
+  {
+    "key": "DP_0786_0164",
+    "original": "フィリピン",
+    "translation": "菲律宾",
+    "index": 164
+  },
+  {
+    "key": "DP_0786_0165",
+    "original": "ピトケアン",
+    "translation": "皮特凯恩",
+    "index": 165
+  },
+  {
+    "key": "DP_0786_0166",
+    "original": "ポーランド",
+    "translation": "波兰",
+    "index": 166
+  },
+  {
+    "key": "DP_0786_0167",
+    "original": "ポルトガル",
+    "translation": "葡萄牙",
+    "index": 167
+  },
+  {
+    "key": "DP_0786_0168",
+    "original": "プエルトリコ",
+    "translation": "波多黎各",
+    "index": 168
+  },
+  {
+    "key": "DP_0786_0169",
+    "original": "カタール",
+    "translation": "卡塔尔",
+    "index": 169
+  },
+  {
+    "key": "DP_0786_0170",
+    "original": "レユニオン",
+    "translation": "留尼汪",
+    "index": 170
+  },
+  {
+    "key": "DP_0786_0171",
+    "original": "ルーマニア",
+    "translation": "罗马尼亚",
+    "index": 171
+  },
+  {
+    "key": "DP_0786_0172",
+    "original": "ロシア",
+    "translation": "俄罗斯",
+    "index": 172
+  },
+  {
+    "key": "DP_0786_0173",
+    "original": "ルワンダ",
+    "translation": "卢旺达",
+    "index": 173
+  },
+  {
+    "key": "DP_0786_0174",
+    "original": "セントヘレナとう",
+    "translation": "圣赫勒拿",
+    "index": 174
+  },
+  {
+    "key": "DP_0786_0175",
+    "original": "セントクリストファー・ネービス",
+    "translation": "圣基茨和尼维斯联邦",
+    "index": 175
+  },
+  {
+    "key": "DP_0786_0176",
+    "original": "セントルシア",
+    "translation": "圣卢西亚",
+    "index": 176
+  },
+  {
+    "key": "DP_0786_0177",
+    "original": "サンピエール・ミクロン",
+    "translation": "圣皮埃尔和密克隆",
+    "index": 177
+  },
+  {
+    "key": "DP_0786_0178",
+    "original": "セントビンセント・グレナディーン",
+    "translation": "圣文森特和格林纳丁斯",
+    "index": 178
+  },
+  {
+    "key": "DP_0786_0179",
+    "original": "サモア",
+    "translation": "萨摩亚",
+    "index": 179
+  },
+  {
+    "key": "DP_0786_0180",
+    "original": "サンマリノ",
+    "translation": "圣马力诺",
+    "index": 180
+  },
+  {
+    "key": "DP_0786_0181",
+    "original": "サントメ・プリンシペ",
+    "translation": "圣多美和普林西比",
+    "index": 181
+  },
+  {
+    "key": "DP_0786_0182",
+    "original": "サウジアラビア",
+    "translation": "沙特阿拉伯",
+    "index": 182
+  },
+  {
+    "key": "DP_0786_0183",
+    "original": "セネガル",
+    "translation": "塞内加尔",
+    "index": 183
+  },
+  {
+    "key": "DP_0786_0184",
+    "original": "セルビア・モンテネグロ",
+    "translation": "塞尔维亚和黑山共和国",
+    "index": 184
+  },
+  {
+    "key": "DP_0786_0185",
+    "original": "セーシェル",
+    "translation": "塞舌尔",
+    "index": 185
+  },
+  {
+    "key": "DP_0786_0186",
+    "original": "シエラレオネ",
+    "translation": "塞拉利昂",
+    "index": 186
+  },
+  {
+    "key": "DP_0786_0187",
+    "original": "シンガポール",
+    "translation": "新加坡",
+    "index": 187
+  },
+  {
+    "key": "DP_0786_0188",
+    "original": "スロバキア",
+    "translation": "斯洛伐克",
+    "index": 188
+  },
+  {
+    "key": "DP_0786_0189",
+    "original": "スロベニア",
+    "translation": "斯洛文尼亚",
+    "index": 189
+  },
+  {
+    "key": "DP_0786_0190",
+    "original": "ソロモンしょとう",
+    "translation": "所罗门群岛",
+    "index": 190
+  },
+  {
+    "key": "DP_0786_0191",
+    "original": "ソマリア",
+    "translation": "索马里",
+    "index": 191
+  },
+  {
+    "key": "DP_0786_0192",
+    "original": "みなみアフリカ",
+    "translation": "南非",
+    "index": 192
+  },
+  {
+    "key": "DP_0786_0193",
+    "original": "スペイン",
+    "translation": "西班牙",
+    "index": 193
+  },
+  {
+    "key": "DP_0786_0194",
+    "original": "スリランカ",
+    "translation": "斯里兰卡",
+    "index": 194
+  },
+  {
+    "key": "DP_0786_0195",
+    "original": "スーダン",
+    "translation": "苏丹",
+    "index": 195
+  },
+  {
+    "key": "DP_0786_0196",
+    "original": "スリナム",
+    "translation": "苏里南",
+    "index": 196
+  },
+  {
+    "key": "DP_0786_0197",
+    "original": "スバールバル・ヤンマンエンとう",
+    "translation": "斯瓦尔巴特群岛",
+    "index": 197
+  },
+  {
+    "key": "DP_0786_0198",
+    "original": "スワジランド",
+    "translation": "斯威士兰",
+    "index": 198
+  },
+  {
+    "key": "DP_0786_0199",
+    "original": "スウェーデン",
+    "translation": "瑞典",
+    "index": 199
+  },
+  {
+    "key": "DP_0786_0200",
+    "original": "スイス",
+    "translation": "瑞士",
+    "index": 200
+  },
+  {
+    "key": "DP_0786_0201",
+    "original": "シリア",
+    "translation": "叙利亚",
+    "index": 201
+  },
+  {
+    "key": "DP_0786_0202",
+    "original": "たいわん",
+    "translation": "台湾",
+    "index": 202
+  },
+  {
+    "key": "DP_0786_0203",
+    "original": "タジキスタン",
+    "translation": "塔吉克斯坦",
+    "index": 203
+  },
+  {
+    "key": "DP_0786_0204",
+    "original": "タンザニア",
+    "translation": "坦桑尼亚",
+    "index": 204
+  },
+  {
+    "key": "DP_0786_0205",
+    "original": "タイ",
+    "translation": "泰国",
+    "index": 205
+  },
+  {
+    "key": "DP_0786_0206",
+    "original": "ひがしティモール",
+    "translation": "东帝汶",
+    "index": 206
+  },
+  {
+    "key": "DP_0786_0207",
+    "original": "トーゴ",
+    "translation": "多哥",
+    "index": 207
+  },
+  {
+    "key": "DP_0786_0208",
+    "original": "トケラウ",
+    "translation": "托克劳",
+    "index": 208
+  },
+  {
+    "key": "DP_0786_0209",
+    "original": "トンガ",
+    "translation": "汤加",
+    "index": 209
+  },
+  {
+    "key": "DP_0786_0210",
+    "original": "トリニダード・トバゴ",
+    "translation": "特立尼达和多巴哥",
+    "index": 210
+  },
+  {
+    "key": "DP_0786_0211",
+    "original": "チュニジア",
+    "translation": "突尼斯",
+    "index": 211
+  },
+  {
+    "key": "DP_0786_0212",
+    "original": "トルコ",
+    "translation": "土耳其",
+    "index": 212
+  },
+  {
+    "key": "DP_0786_0213",
+    "original": "トルクメニスタン",
+    "translation": "土库曼斯坦",
+    "index": 213
+  },
+  {
+    "key": "DP_0786_0214",
+    "original": "タークス・カイコスしょとう",
+    "translation": "特克斯和凯科斯群岛",
+    "index": 214
+  },
+  {
+    "key": "DP_0786_0215",
+    "original": "ツバル",
+    "translation": "图瓦卢",
+    "index": 215
+  },
+  {
+    "key": "DP_0786_0216",
+    "original": "ウガンダ",
+    "translation": "乌干达",
+    "index": 216
+  },
+  {
+    "key": "DP_0786_0217",
+    "original": "ウクライナ",
+    "translation": "乌克兰",
+    "index": 217
+  },
+  {
+    "key": "DP_0786_0218",
+    "original": "アラブしゅちょうこく",
+    "translation": "阿拉伯合众国",
+    "index": 218
+  },
+  {
+    "key": "DP_0786_0219",
+    "original": "イギリス",
+    "translation": "英国",
+    "index": 219
+  },
+  {
+    "key": "DP_0786_0220",
+    "original": "アメリカ",
+    "translation": "美国",
+    "index": 220
+  },
+  {
+    "key": "DP_0786_0221",
+    "original": "アメリカりょうバージンしょとう",
+    "translation": "美属维尔京群岛",
+    "index": 221
+  },
+  {
+    "key": "DP_0786_0222",
+    "original": "ウルグアイ",
+    "translation": "乌拉圭",
+    "index": 222
+  },
+  {
+    "key": "DP_0786_0223",
+    "original": "ウズベキスタン",
+    "translation": "乌兹别克斯坦",
+    "index": 223
+  },
+  {
+    "key": "DP_0786_0224",
+    "original": "バヌアツ",
+    "translation": "瓦努阿图",
+    "index": 224
+  },
+  {
+    "key": "DP_0786_0225",
+    "original": "バチカン",
+    "translation": "梵蒂冈",
+    "index": 225
+  },
+  {
+    "key": "DP_0786_0226",
+    "original": "ベネズエラ",
+    "translation": "委内瑞拉",
+    "index": 226
+  },
+  {
+    "key": "DP_0786_0227",
+    "original": "ベトナム",
+    "translation": "越南",
+    "index": 227
+  },
+  {
+    "key": "DP_0786_0228",
+    "original": "ワリス・フテュナしょとう",
+    "translation": "瓦利斯群岛和富图纳群岛",
+    "index": 228
+  },
+  {
+    "key": "DP_0786_0229",
+    "original": "パレスチナじちく",
+    "translation": "巴勒斯坦",
+    "index": 229
+  },
+  {
+    "key": "DP_0786_0230",
+    "original": "にしサハラ",
+    "translation": "西撒哈拉",
+    "index": 230
+  },
+  {
+    "key": "DP_0786_0231",
+    "original": "イエメン",
+    "translation": "也门",
+    "index": 231
+  },
+  {
+    "key": "DP_0786_0232",
+    "original": "ザンビア",
+    "translation": "赞比亚",
+    "index": 232
+  },
+  {
+    "key": "DP_0786_0233",
+    "original": "ジンバブエ",
+    "translation": "津巴布韦",
+    "index": 233
+  }
+]

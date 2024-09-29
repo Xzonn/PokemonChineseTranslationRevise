@@ -1,0 +1,1088 @@
+[
+  {
+    "key": "DP_0485_0000",
+    "original": "[FF00,0001]ポケットモンスター ダイヤモンド[FF00,0000]",
+    "translation": "[FF00,0001]宝可梦　钻石[FF00,0000]",
+    "index": 0
+  },
+  {
+    "key": "DP_0485_0001",
+    "original": "[FF00,0001]ポケットモンスター パール[FF00,0000]",
+    "translation": "[FF00,0001]宝可梦　珍珠[FF00,0000]",
+    "index": 1
+  },
+  {
+    "key": "DP_0485_0002",
+    "original": "スタッフリスト",
+    "translation": "スタッフリスト",
+    "index": 2
+  },
+  {
+    "key": "DP_0485_0003",
+    "original": "[FF00,0002]ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]ディレクター[FF00,0000]",
+    "index": 3
+  },
+  {
+    "key": "DP_0485_0004",
+    "original": "  ますだ じゅんいち",
+    "translation": "　　ますだ　じゅんいち",
+    "index": 4
+  },
+  {
+    "key": "DP_0485_0005",
+    "original": "[FF00,0002]アート ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]アート　ディレクター[FF00,0000]",
+    "index": 5
+  },
+  {
+    "key": "DP_0485_0006",
+    "original": "  すぎもり けん",
+    "translation": "　　すぎもり　けん",
+    "index": 6
+  },
+  {
+    "key": "DP_0485_0007",
+    "original": "[FF00,0002]バトル ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]バトル　ディレクター[FF00,0000]",
+    "index": 7
+  },
+  {
+    "key": "DP_0485_0008",
+    "original": "  もりもと しげき",
+    "translation": "　　もりもと　しげき",
+    "index": 8
+  },
+  {
+    "key": "DP_0485_0009",
+    "original": "[FF00,0002]プログラム リーダー[FF00,0000]",
+    "translation": "[FF00,0002]プログラム　リーダー[FF00,0000]",
+    "index": 9
+  },
+  {
+    "key": "DP_0485_0010",
+    "original": "  わたなべ てつや",
+    "translation": "　　わたなべ　てつや",
+    "index": 10
+  },
+  {
+    "key": "DP_0485_0011",
+    "original": "[FF00,0002]バトル システム プログラム[FF00,0000]",
+    "translation": "[FF00,0002]バトル　システム　プログラム[FF00,0000]",
+    "index": 11
+  },
+  {
+    "key": "DP_0485_0012",
+    "original": "  そがべ ひさし",
+    "translation": "　　そがべ　ひさし",
+    "index": 12
+  },
+  {
+    "key": "DP_0485_0013",
+    "original": "[FF00,0002]フィールド システム プログラム[FF00,0000]",
+    "translation": "[FF00,0002]フィールド　システム　プログラム[FF00,0000]",
+    "index": 13
+  },
+  {
+    "key": "DP_0485_0014",
+    "original": "  たまだ そうすけ",
+    "translation": "　　たまだ　そうすけ",
+    "index": 14
+  },
+  {
+    "key": "DP_0485_0015",
+    "original": "[FF00,0002]つうしん システム プログラム[FF00,0000]",
+    "translation": "[FF00,0002]つうしん　システム　プログラム[FF00,0000]",
+    "index": 15
+  },
+  {
+    "key": "DP_0485_0016",
+    "original": "  もり あきと",
+    "translation": "　　もり　あきと",
+    "index": 16
+  },
+  {
+    "key": "DP_0485_0017",
+    "original": "[FF00,0002]プログラム[FF00,0000]",
+    "translation": "[FF00,0002]プログラム[FF00,0000]",
+    "index": 17
+  },
+  {
+    "key": "DP_0485_0018",
+    "original": "  まつだ よしのり",
+    "translation": "　　まつだ　よしのり",
+    "index": 18
+  },
+  {
+    "key": "DP_0485_0019",
+    "original": "  かがや けいた",
+    "translation": "　　かがや　けいた",
+    "index": 19
+  },
+  {
+    "key": "DP_0485_0020",
+    "original": "  なかむら ひろゆき",
+    "translation": "　　なかむら　ひろゆき",
+    "index": 20
+  },
+  {
+    "key": "DP_0485_0021",
+    "original": "  たや まさお",
+    "translation": "　　たや　まさお",
+    "index": 21
+  },
+  {
+    "key": "DP_0485_0022",
+    "original": "  のはら さとし",
+    "translation": "　　のはら　さとし",
+    "index": 22
+  },
+  {
+    "key": "DP_0485_0023",
+    "original": "  おおた ともみち",
+    "translation": "　　おおた　ともみち",
+    "index": 23
+  },
+  {
+    "key": "DP_0485_0024",
+    "original": "  いわさわ みゆき",
+    "translation": "　　いわさわ　みゆき",
+    "index": 24
+  },
+  {
+    "key": "DP_0485_0025",
+    "original": "  さいとう のぞむ",
+    "translation": "　　さいとう　のぞむ",
+    "index": 25
+  },
+  {
+    "key": "DP_0485_0026",
+    "original": "  ごとう だいすけ",
+    "translation": "　　ごとう　だいすけ",
+    "index": 26
+  },
+  {
+    "key": "DP_0485_0027",
+    "original": "  たかはし ともや",
+    "translation": "　　たかはし　ともや",
+    "index": 27
+  },
+  {
+    "key": "DP_0485_0028",
+    "original": "  おおの かつみ",
+    "translation": "　　おおの　かつみ",
+    "index": 28
+  },
+  {
+    "key": "DP_0485_0029",
+    "original": "  みつはら さとし",
+    "translation": "　　みつはら　さとし",
+    "index": 29
+  },
+  {
+    "key": "DP_0485_0030",
+    "original": "[FF00,0002]グラフィック リーダー[FF00,0000]",
+    "translation": "[FF00,0002]グラフィック　リーダー[FF00,0000]",
+    "index": 30
+  },
+  {
+    "key": "DP_0485_0031",
+    "original": "  うんの たかお",
+    "translation": "　　うんの　たかお",
+    "index": 31
+  },
+  {
+    "key": "DP_0485_0032",
+    "original": "[FF00,0002]ポケモン デザイン[FF00,0000]",
+    "translation": "[FF00,0002]ポケモン　デザイン[FF00,0000]",
+    "index": 32
+  },
+  {
+    "key": "DP_0485_0033",
+    "original": "[FF00,0002]        ＆[FF00,0000]",
+    "translation": "[FF00,0002]　　　　　　　　＆[FF00,0000]",
+    "index": 33
+  },
+  {
+    "key": "DP_0485_0034",
+    "original": "[FF00,0002]    グラフィック デザイン[FF00,0000]",
+    "translation": "[FF00,0002]　　　　グラフィック　デザイン[FF00,0000]",
+    "index": 34
+  },
+  {
+    "key": "DP_0485_0035",
+    "original": "  すぎもり けん",
+    "translation": "　　すぎもり　けん",
+    "index": 35
+  },
+  {
+    "key": "DP_0485_0036",
+    "original": "  うんの たかお",
+    "translation": "　　うんの　たかお",
+    "index": 36
+  },
+  {
+    "key": "DP_0485_0037",
+    "original": "  ふじわら もとふみ",
+    "translation": "　　ふじわら　もとふみ",
+    "index": 37
+  },
+  {
+    "key": "DP_0485_0038",
+    "original": "  おおた さとし",
+    "translation": "　　おおた　さとし",
+    "index": 38
+  },
+  {
+    "key": "DP_0485_0039",
+    "original": "  よしだ ひろのぶ",
+    "translation": "　　よしだ　ひろのぶ",
+    "index": 39
+  },
+  {
+    "key": "DP_0485_0040",
+    "original": "  えお かなこ",
+    "translation": "　　えお　かなこ",
+    "index": 40
+  },
+  {
+    "key": "DP_0485_0041",
+    "original": "  とやま けんきち",
+    "translation": "　　とやま　けんきち",
+    "index": 41
+  },
+  {
+    "key": "DP_0485_0042",
+    "original": "  ふちの ひろき",
+    "translation": "　　ふちの　ひろき",
+    "index": 42
+  },
+  {
+    "key": "DP_0485_0043",
+    "original": "  やぎ ひろゆき",
+    "translation": "　　やぎ　ひろゆき",
+    "index": 43
+  },
+  {
+    "key": "DP_0485_0044",
+    "original": "  よしだ えみ",
+    "translation": "　　よしだ　えみ",
+    "index": 44
+  },
+  {
+    "key": "DP_0485_0045",
+    "original": "  おおむら ゆうすけ",
+    "translation": "　　おおむら　ゆうすけ",
+    "index": 45
+  },
+  {
+    "key": "DP_0485_0046",
+    "original": "  ごとう ひろゆき",
+    "translation": "　　ごとう　ひろゆき",
+    "index": 46
+  },
+  {
+    "key": "DP_0485_0047",
+    "original": "[FF00,0002]ポケモン デザイン[FF00,0000]",
+    "translation": "[FF00,0002]ポケモン　デザイン[FF00,0000]",
+    "index": 47
+  },
+  {
+    "key": "DP_0485_0048",
+    "original": "  にしだ あつこ",
+    "translation": "　　にしだ　あつこ",
+    "index": 48
+  },
+  {
+    "key": "DP_0485_0049",
+    "original": "[FF00,0002]グラフィック デザイン[FF00,0000]",
+    "translation": "[FF00,0002]グラフィック　デザイン[FF00,0000]",
+    "index": 49
+  },
+  {
+    "key": "DP_0485_0050",
+    "original": "  ほしば けい",
+    "translation": "　　ほしば　けい",
+    "index": 50
+  },
+  {
+    "key": "DP_0485_0051",
+    "original": "[FF00,0002]おんがく リーダー[FF00,0000]",
+    "translation": "[FF00,0002]おんがく　リーダー[FF00,0000]",
+    "index": 51
+  },
+  {
+    "key": "DP_0485_0052",
+    "original": "  いちのせ ごう",
+    "translation": "　　いちのせ　ごう",
+    "index": 52
+  },
+  {
+    "key": "DP_0485_0053",
+    "original": "[FF00,0002]おんがく[FF00,0000]",
+    "translation": "[FF00,0002]おんがく[FF00,0000]",
+    "index": 53
+  },
+  {
+    "key": "DP_0485_0054",
+    "original": "  さとう ひとみ",
+    "translation": "　　さとう　ひとみ",
+    "index": 54
+  },
+  {
+    "key": "DP_0485_0055",
+    "original": "  ますだ じゅんいち",
+    "translation": "　　ますだ　じゅんいち",
+    "index": 55
+  },
+  {
+    "key": "DP_0485_0056",
+    "original": "[FF00,0002]サウンド エフェクト[FF00,0000]",
+    "translation": "[FF00,0002]サウンド　エフェクト[FF00,0000]",
+    "index": 56
+  },
+  {
+    "key": "DP_0485_0057",
+    "original": "  のはら さとし",
+    "translation": "　　のはら　さとし",
+    "index": 57
+  },
+  {
+    "key": "DP_0485_0058",
+    "original": "[FF00,0002]ポケモン ボイス[FF00,0000]",
+    "translation": "[FF00,0002]ポケモン　ボイス[FF00,0000]",
+    "index": 58
+  },
+  {
+    "key": "DP_0485_0059",
+    "original": "  いちのせ ごう",
+    "translation": "　　いちのせ　ごう",
+    "index": 59
+  },
+  {
+    "key": "DP_0485_0060",
+    "original": "[FF00,0002]ゲームデザイン リーダー[FF00,0000]",
+    "translation": "[FF00,0002]ゲームデザイン　リーダー[FF00,0000]",
+    "index": 60
+  },
+  {
+    "key": "DP_0485_0061",
+    "original": "  おおもり しげる",
+    "translation": "　　おおもり　しげる",
+    "index": 61
+  },
+  {
+    "key": "DP_0485_0062",
+    "original": "[FF00,0002]ゲームデザイン[FF00,0000]",
+    "translation": "[FF00,0002]ゲームデザイン[FF00,0000]",
+    "index": 62
+  },
+  {
+    "key": "DP_0485_0063",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 63
+  },
+  {
+    "key": "DP_0485_0064",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 64
+  },
+  {
+    "key": "DP_0485_0065",
+    "original": "  おおた てつじ",
+    "translation": "　　おおた　てつじ",
+    "index": 65
+  },
+  {
+    "key": "DP_0485_0066",
+    "original": "  さとう ひとみ",
+    "translation": "　　さとう　ひとみ",
+    "index": 66
+  },
+  {
+    "key": "DP_0485_0067",
+    "original": "  かわちまる たけし",
+    "translation": "　　かわちまる　たけし",
+    "index": 67
+  },
+  {
+    "key": "DP_0485_0068",
+    "original": "  しもやまだ てるゆき",
+    "translation": "　　しもやまだ　てるゆき",
+    "index": 68
+  },
+  {
+    "key": "DP_0485_0069",
+    "original": "  たかはし ただし",
+    "translation": "　　たかはし　ただし",
+    "index": 69
+  },
+  {
+    "key": "DP_0485_0070",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 70
+  },
+  {
+    "key": "DP_0485_0071",
+    "original": "  なかつい すぐる",
+    "translation": "　　なかつい　すぐる",
+    "index": 71
+  },
+  {
+    "key": "DP_0485_0072",
+    "original": "  ひろ なかむら",
+    "translation": "　　ひろ　なかむら",
+    "index": 72
+  },
+  {
+    "key": "DP_0485_0073",
+    "original": "[FF00,0002]シナリオプロット[FF00,0000]",
+    "translation": "[FF00,0002]シナリオプロット[FF00,0000]",
+    "index": 73
+  },
+  {
+    "key": "DP_0485_0074",
+    "original": "  ますだ じゅんいち",
+    "translation": "　　ますだ　じゅんいち",
+    "index": 74
+  },
+  {
+    "key": "DP_0485_0075",
+    "original": "  まつみや としのぶ",
+    "translation": "　　まつみや　としのぶ",
+    "index": 75
+  },
+  {
+    "key": "DP_0485_0076",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 76
+  },
+  {
+    "key": "DP_0485_0077",
+    "original": "  おおもり しげる",
+    "translation": "　　おおもり　しげる",
+    "index": 77
+  },
+  {
+    "key": "DP_0485_0078",
+    "original": "[FF00,0002]シナリオ[FF00,0000]",
+    "translation": "[FF00,0002]シナリオ[FF00,0000]",
+    "index": 78
+  },
+  {
+    "key": "DP_0485_0079",
+    "original": "  まつみや としのぶ",
+    "translation": "　　まつみや　としのぶ",
+    "index": 79
+  },
+  {
+    "key": "DP_0485_0080",
+    "original": "  さとう ひとみ",
+    "translation": "　　さとう　ひとみ",
+    "index": 80
+  },
+  {
+    "key": "DP_0485_0081",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 81
+  },
+  {
+    "key": "DP_0485_0082",
+    "original": "  なかつい すぐる",
+    "translation": "　　なかつい　すぐる",
+    "index": 82
+  },
+  {
+    "key": "DP_0485_0083",
+    "original": "[FF00,0002]マップ デザイン[FF00,0000]",
+    "translation": "[FF00,0002]マップ　デザイン[FF00,0000]",
+    "index": 83
+  },
+  {
+    "key": "DP_0485_0084",
+    "original": "  たかはし ただし",
+    "translation": "　　たかはし　ただし",
+    "index": 84
+  },
+  {
+    "key": "DP_0485_0085",
+    "original": "  なかつい すぐる",
+    "translation": "　　なかつい　すぐる",
+    "index": 85
+  },
+  {
+    "key": "DP_0485_0086",
+    "original": "  おおもり しげる",
+    "translation": "　　おおもり　しげる",
+    "index": 86
+  },
+  {
+    "key": "DP_0485_0087",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 87
+  },
+  {
+    "key": "DP_0485_0088",
+    "original": "  ひろ なかむら",
+    "translation": "　　ひろ　なかむら",
+    "index": 88
+  },
+  {
+    "key": "DP_0485_0089",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 89
+  },
+  {
+    "key": "DP_0485_0090",
+    "original": "  しもやまだ てるゆき",
+    "translation": "　　しもやまだ　てるゆき",
+    "index": 90
+  },
+  {
+    "key": "DP_0485_0091",
+    "original": "[FF00,0002]ずかん テキスト[FF00,0000]",
+    "translation": "[FF00,0002]ずかん　テキスト[FF00,0000]",
+    "index": 91
+  },
+  {
+    "key": "DP_0485_0092",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 92
+  },
+  {
+    "key": "DP_0485_0093",
+    "original": "[FF00,0002]パラメーター せってい[FF00,0000]",
+    "translation": "[FF00,0002]パラメーター　せってい[FF00,0000]",
+    "index": 93
+  },
+  {
+    "key": "DP_0485_0094",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 94
+  },
+  {
+    "key": "DP_0485_0095",
+    "original": "  おおた てつじ",
+    "translation": "　　おおた　てつじ",
+    "index": 95
+  },
+  {
+    "key": "DP_0485_0096",
+    "original": "  しもやまだ てるゆき",
+    "translation": "　　しもやまだ　てるゆき",
+    "index": 96
+  },
+  {
+    "key": "DP_0485_0097",
+    "original": "  もりもと しげき",
+    "translation": "　　もりもと　しげき",
+    "index": 97
+  },
+  {
+    "key": "DP_0485_0098",
+    "original": "[FF00,0002]バトルタワー データ[FF00,0000]",
+    "translation": "[FF00,0002]バトルタワー　データ[FF00,0000]",
+    "index": 98
+  },
+  {
+    "key": "DP_0485_0099",
+    "original": "  ふじた おさむ",
+    "translation": "　　ふじた　おさむ",
+    "index": 99
+  },
+  {
+    "key": "DP_0485_0100",
+    "original": "  さいごう たけし",
+    "translation": "　　さいごう　たけし",
+    "index": 100
+  },
+  {
+    "key": "DP_0485_0101",
+    "original": "  つじ よしひと",
+    "translation": "　　つじ　よしひと",
+    "index": 101
+  },
+  {
+    "key": "DP_0485_0102",
+    "original": "  こばやし こうじ",
+    "translation": "　　こばやし　こうじ",
+    "index": 102
+  },
+  {
+    "key": "DP_0485_0103",
+    "original": "  なかじま もとき",
+    "translation": "　　なかじま　もとき",
+    "index": 103
+  },
+  {
+    "key": "DP_0485_0104",
+    "original": "  ふくしま えつこ",
+    "translation": "　　ふくしま　えつこ",
+    "index": 104
+  },
+  {
+    "key": "DP_0485_0105",
+    "original": "  ふくしま けいすけ",
+    "translation": "　　ふくしま　けいすけ",
+    "index": 105
+  },
+  {
+    "key": "DP_0485_0106",
+    "original": "  おおた てつじ",
+    "translation": "　　おおた　てつじ",
+    "index": 106
+  },
+  {
+    "key": "DP_0485_0107",
+    "original": "[FF00,0002]スクリプト せってい[FF00,0000]",
+    "translation": "[FF00,0002]スクリプト　せってい[FF00,0000]",
+    "index": 107
+  },
+  {
+    "key": "DP_0485_0108",
+    "original": "  のはら さとし",
+    "translation": "　　のはら　さとし",
+    "index": 108
+  },
+  {
+    "key": "DP_0485_0109",
+    "original": "  おおた ともみち",
+    "translation": "　　おおた　ともみち",
+    "index": 109
+  },
+  {
+    "key": "DP_0485_0110",
+    "original": "  いわさわ みゆき",
+    "translation": "　　いわさわ　みゆき",
+    "index": 110
+  },
+  {
+    "key": "DP_0485_0111",
+    "original": "  たまだ そうすけ",
+    "translation": "　　たまだ　そうすけ",
+    "index": 111
+  },
+  {
+    "key": "DP_0485_0112",
+    "original": "[FF00,0002]かんきょう ＆ ツール プログラム[FF00,0000]",
+    "translation": "[FF00,0002]かんきょう　＆　ツール　プログラム[FF00,0000]",
+    "index": 112
+  },
+  {
+    "key": "DP_0485_0113",
+    "original": "  そがべ ひさし",
+    "translation": "　　そがべ　ひさし",
+    "index": 113
+  },
+  {
+    "key": "DP_0485_0114",
+    "original": "  たまだ そうすけ",
+    "translation": "　　たまだ　そうすけ",
+    "index": 114
+  },
+  {
+    "key": "DP_0485_0115",
+    "original": "  なかむら ひろゆき",
+    "translation": "　　なかむら　ひろゆき",
+    "index": 115
+  },
+  {
+    "key": "DP_0485_0116",
+    "original": "  たや まさお",
+    "translation": "　　たや　まさお",
+    "index": 116
+  },
+  {
+    "key": "DP_0485_0117",
+    "original": "  いわさわ みゆき",
+    "translation": "　　いわさわ　みゆき",
+    "index": 117
+  },
+  {
+    "key": "DP_0485_0118",
+    "original": "[FF00,0002]ニンテンドーＷｉーＦｉコネクション[FF00,0000]",
+    "translation": "[FF00,0002]ニンテンドーＷｉーＦｉコネクション[FF00,0000]",
+    "index": 118
+  },
+  {
+    "key": "DP_0485_0119",
+    "original": "[FF00,0002] サーバシステム ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]　サーバシステム　ディレクター[FF00,0000]",
+    "index": 119
+  },
+  {
+    "key": "DP_0485_0120",
+    "original": "  いしかわ みきひろ",
+    "translation": "　　いしかわ　みきひろ",
+    "index": 120
+  },
+  {
+    "key": "DP_0485_0121",
+    "original": "[FF00,0002] サーバシステム プログラム[FF00,0000]",
+    "translation": "[FF00,0002]　サーバシステム　プログラム[FF00,0000]",
+    "index": 121
+  },
+  {
+    "key": "DP_0485_0122",
+    "original": "  なかむら だいすけ",
+    "translation": "　　なかむら　だいすけ",
+    "index": 122
+  },
+  {
+    "key": "DP_0485_0123",
+    "original": "  きたやま しげとし",
+    "translation": "　　きたやま　しげとし",
+    "index": 123
+  },
+  {
+    "key": "DP_0485_0124",
+    "original": "  はやし ゆうき",
+    "translation": "　　はやし　ゆうき",
+    "index": 124
+  },
+  {
+    "key": "DP_0485_0125",
+    "original": "[FF00,0002] プログラム サポート[FF00,0000]",
+    "translation": "[FF00,0002]　プログラム　サポート[FF00,0000]",
+    "index": 125
+  },
+  {
+    "key": "DP_0485_0126",
+    "original": "  よしはら かずき",
+    "translation": "　　よしはら　かずき",
+    "index": 126
+  },
+  {
+    "key": "DP_0485_0127",
+    "original": "[FF00,0002]デバッグプレイ[FF00,0000]",
+    "translation": "[FF00,0002]デバッグプレイ[FF00,0000]",
+    "index": 127
+  },
+  {
+    "key": "DP_0485_0128",
+    "original": "  やの あきら",
+    "translation": "　　やの　あきら",
+    "index": 128
+  },
+  {
+    "key": "DP_0485_0129",
+    "original": "  スーパーマリオクラブ",
+    "translation": "　　スーパーマリオクラブ",
+    "index": 129
+  },
+  {
+    "key": "DP_0485_0130",
+    "original": "[FF00,0002]スペシャルサンクス[FF00,0000]",
+    "translation": "[FF00,0002]スペシャルサンクス[FF00,0000]",
+    "index": 130
+  },
+  {
+    "key": "DP_0485_0131",
+    "original": "  とみなが けんじ",
+    "translation": "　　とみなが　けんじ",
+    "index": 131
+  },
+  {
+    "key": "DP_0485_0132",
+    "original": "  たじり よしお",
+    "translation": "　　たじり　よしお",
+    "index": 132
+  },
+  {
+    "key": "DP_0485_0133",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 133
+  },
+  {
+    "key": "DP_0485_0134",
+    "original": "  つるた さや",
+    "translation": "　　つるた　さや",
+    "index": 134
+  },
+  {
+    "key": "DP_0485_0135",
+    "original": "  リ ヒョンジョン",
+    "translation": "　　リ　ヒョンジョン",
+    "index": 135
+  },
+  {
+    "key": "DP_0485_0136",
+    "original": "  おおた たけのり",
+    "translation": "　　おおた　たけのり",
+    "index": 136
+  },
+  {
+    "key": "DP_0485_0137",
+    "original": "  ささき ていこ",
+    "translation": "　　ささき　ていこ",
+    "index": 137
+  },
+  {
+    "key": "DP_0485_0138",
+    "original": "  もり ゆういちろう",
+    "translation": "　　もり　ゆういちろう",
+    "index": 138
+  },
+  {
+    "key": "DP_0485_0139",
+    "original": "  はまの さちこ",
+    "translation": "　　はまの　さちこ",
+    "index": 139
+  },
+  {
+    "key": "DP_0485_0140",
+    "original": "  えんどう えみ",
+    "translation": "　　えんどう　えみ",
+    "index": 140
+  },
+  {
+    "key": "DP_0485_0141",
+    "original": "  いとう けんじろう",
+    "translation": "　　いとう　けんじろう",
+    "index": 141
+  },
+  {
+    "key": "DP_0485_0142",
+    "original": "  こむら ともたか",
+    "translation": "　　こむら　ともたか",
+    "index": 142
+  },
+  {
+    "key": "DP_0485_0143",
+    "original": "  ふくなが すすむ",
+    "translation": "　　ふくなが　すすむ",
+    "index": 143
+  },
+  {
+    "key": "DP_0485_0144",
+    "original": "  たなか まさみ",
+    "translation": "　　たなか　まさみ",
+    "index": 144
+  },
+  {
+    "key": "DP_0485_0145",
+    "original": "  たきざわ みちこ",
+    "translation": "　　たきざわ　みちこ",
+    "index": 145
+  },
+  {
+    "key": "DP_0485_0146",
+    "original": "  あらい けんいち",
+    "translation": "　　あらい　けんいち",
+    "index": 146
+  },
+  {
+    "key": "DP_0485_0147",
+    "original": "  ほし ゆみ",
+    "translation": "　　ほし　ゆみ",
+    "index": 147
+  },
+  {
+    "key": "DP_0485_0148",
+    "original": "  こが じろう",
+    "translation": "　　こが　じろう",
+    "index": 148
+  },
+  {
+    "key": "DP_0485_0149",
+    "original": "  おかむら のりひで",
+    "translation": "　　おかむら　のりひで",
+    "index": 149
+  },
+  {
+    "key": "DP_0485_0150",
+    "original": "  こほり しゅんすけ",
+    "translation": "　　こほり　しゅんすけ",
+    "index": 150
+  },
+  {
+    "key": "DP_0485_0151",
+    "original": "  こんどう たかなお",
+    "translation": "　　こんどう　たかなお",
+    "index": 151
+  },
+  {
+    "key": "DP_0485_0152",
+    "original": "  うえすぎ ひろゆき",
+    "translation": "　　うえすぎ　ひろゆき",
+    "index": 152
+  },
+  {
+    "key": "DP_0485_0153",
+    "original": "  むらかわ てるき",
+    "translation": "　　むらかわ　てるき",
+    "index": 153
+  },
+  {
+    "key": "DP_0485_0154",
+    "original": "  なかみち きみこ",
+    "translation": "　　なかみち　きみこ",
+    "index": 154
+  },
+  {
+    "key": "DP_0485_0155",
+    "original": "  やまもと そういち",
+    "translation": "　　やまもと　そういち",
+    "index": 155
+  },
+  {
+    "key": "DP_0485_0156",
+    "original": "  きなし あきら",
+    "translation": "　　きなし　あきら",
+    "index": 156
+  },
+  {
+    "key": "DP_0485_0157",
+    "original": "  あくね ひろし",
+    "translation": "　　あくね　ひろし",
+    "index": 157
+  },
+  {
+    "key": "DP_0485_0158",
+    "original": "  なかの たかお",
+    "translation": "　　なかの　たかお",
+    "index": 158
+  },
+  {
+    "key": "DP_0485_0159",
+    "original": "[FF00,0002]じょうほうかんり[FF00,0000]",
+    "translation": "[FF00,0002]じょうほうかんり[FF00,0000]",
+    "index": 159
+  },
+  {
+    "key": "DP_0485_0160",
+    "original": "  さがわ ひろみ",
+    "translation": "　　さがわ　ひろみ",
+    "index": 160
+  },
+  {
+    "key": "DP_0485_0161",
+    "original": "  さくらい ゆうり",
+    "translation": "　　さくらい　ゆうり",
+    "index": 161
+  },
+  {
+    "key": "DP_0485_0162",
+    "original": "  やなせ なおこ",
+    "translation": "　　やなせ　なおこ",
+    "index": 162
+  },
+  {
+    "key": "DP_0485_0163",
+    "original": "[FF00,0002]アートワーク[FF00,0000]",
+    "translation": "[FF00,0002]アートワーク[FF00,0000]",
+    "index": 163
+  },
+  {
+    "key": "DP_0485_0164",
+    "original": "  なかみち さちこ",
+    "translation": "　　なかみち　さちこ",
+    "index": 164
+  },
+  {
+    "key": "DP_0485_0165",
+    "original": "  おえ きよみ",
+    "translation": "　　おえ　きよみ",
+    "index": 165
+  },
+  {
+    "key": "DP_0485_0166",
+    "original": "  たかはし やすこ",
+    "translation": "　　たかはし　やすこ",
+    "index": 166
+  },
+  {
+    "key": "DP_0485_0167",
+    "original": "[FF00,0002]コーディネーター[FF00,0000]",
+    "translation": "[FF00,0002]コーディネーター[FF00,0000]",
+    "index": 167
+  },
+  {
+    "key": "DP_0485_0168",
+    "original": "  えがみ しゅうさく",
+    "translation": "　　えがみ　しゅうさく",
+    "index": 168
+  },
+  {
+    "key": "DP_0485_0169",
+    "original": "  よしはら かずき",
+    "translation": "　　よしはら　かずき",
+    "index": 169
+  },
+  {
+    "key": "DP_0485_0170",
+    "original": "  あんどう かおり",
+    "translation": "　　あんどう　かおり",
+    "index": 170
+  },
+  {
+    "key": "DP_0485_0171",
+    "original": "[FF00,0002]プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]プロデューサー[FF00,0000]",
+    "index": 171
+  },
+  {
+    "key": "DP_0485_0172",
+    "original": "  じんない ひろゆき",
+    "translation": "　　じんない　ひろゆき",
+    "index": 172
+  },
+  {
+    "key": "DP_0485_0173",
+    "original": "  やまがみ ひとし",
+    "translation": "　　やまがみ　ひとし",
+    "index": 173
+  },
+  {
+    "key": "DP_0485_0174",
+    "original": "  のもと がくじ",
+    "translation": "　　のもと　がくじ",
+    "index": 174
+  },
+  {
+    "key": "DP_0485_0175",
+    "original": "  つる ひろあき",
+    "translation": "　　つる　ひろあき",
+    "index": 175
+  },
+  {
+    "key": "DP_0485_0176",
+    "original": "[FF00,0002]エグゼクティブ プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]エグゼクティブ　プロデューサー[FF00,0000]",
+    "index": 176
+  },
+  {
+    "key": "DP_0485_0177",
+    "original": "  たじり さとし",
+    "translation": "　　たじり　さとし",
+    "index": 177
+  },
+  {
+    "key": "DP_0485_0178",
+    "original": "  いわた さとる",
+    "translation": "　　いわた　さとる",
+    "index": 178
+  },
+  {
+    "key": "DP_0485_0179",
+    "original": "  いしはら つねかず",
+    "translation": "　　いしはら　つねかず",
+    "index": 179
+  },
+  {
+    "key": "DP_0485_0180",
+    "original": "おわり",
+    "translation": "结束",
+    "index": 180
+  }
+]

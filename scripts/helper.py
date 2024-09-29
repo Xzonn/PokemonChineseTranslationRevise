@@ -1,4 +1,24 @@
-GAMES: list[dict[str, str | list]] = [
+import json
+import os
+from typing import TypedDict
+
+DIR_FILES = "original_files"
+DIR_TEXTS = "texts"
+DIR_TEMP = "temp"
+
+PATH_CHAR_TABLE = "files/CharTable.txt"
+
+
+class GameInfo(TypedDict):
+  game: str
+  folder_name: str
+  file_list: str
+  file_name: str
+  json_folder: str
+  languages: list[str]
+
+
+GAMES: list[GameInfo] = [
   {
     "game": "DP",
     "folder_name": "messages",
@@ -23,69 +43,36 @@ GAMES: list[dict[str, str | list]] = [
     "json_folder": "HGSS",
     "languages": ["zh_Hans"],
   },
-  {
-    "game": "BW",
-    "folder_name": "messages_common",
-    "file_list": "messages_common_list.txt",
-    "file_name": "messages_common.txt",
-    "json_folder": "BW_common",
-    "languages": ["zh_Hans", "zh_Hant"],
-  },
-  {
-    "game": "BW",
-    "folder_name": "messages_script",
-    "file_list": "messages_script_list.txt",
-    "file_name": "messages_script.txt",
-    "json_folder": "BW_script",
-    "languages": ["zh_Hans", "zh_Hant"],
-  },
-  {
-    "game": "B2W2",
-    "folder_name": "messages_common",
-    "file_list": "messages_common_list.txt",
-    "file_name": "messages_common.txt",
-    "json_folder": "B2W2_common",
-    "languages": ["zh_Hans", "zh_Hant"],
-  },
-  {
-    "game": "B2W2",
-    "folder_name": "messages_script",
-    "file_list": "messages_script_list.txt",
-    "file_name": "messages_script.txt",
-    "json_folder": "B2W2_script",
-    "languages": ["zh_Hans", "zh_Hant"],
-  },
 ]
 
-def load_game_data(game_info: dict[str, str | dict]) -> dict[str, dict[int, dict[int, str]]]:
-  game: str = game_info["game"]
-  file_list_name: str = game_info["file_list"]
-  languages: list[str] = game_info["languages"]
-  game_data: dict[str, dict[int, dict[int, str]]] = {
-    language: {} for language in languages
-  }
-  with open(f"files/{game}/{file_list_name}", "r", -1, "utf8") as reader:
+
+def load_game_data(game_info: GameInfo, texts_root: str) -> dict[str, dict[int, dict[int, str]]]:
+  game = game_info["game"]
+  file_list_name = game_info["file_list"]
+  languages = game_info["languages"]
+  game_data: dict[str, dict[int, dict[int, str]]] = {language: {} for language in languages}
+  with open(f"{texts_root}/{game}/{file_list_name}", "r", -1, "utf8") as reader:
     file_list = reader.read().splitlines()
 
   language: str = languages[0]
   for line in file_list:
     if not line or line.startswith("#") or "\t" not in line:
       continue
-    file_id, *file_paths = line.split("\t")
-    file_id = int(file_id)
-    for language, file_path in zip(languages, file_paths):
+    _1, line_game, file_path = line.split("\t")
+    file_id = int(_1)
+    line_game: str
+    for language in languages:
+      full_path = f"{texts_root}/{line_game}/{language}/{file_path.removesuffix(".txt")}.json"
       if file_id not in game_data[language]:
         game_data[language][file_id] = {}
-      if not file_path:
+      if not os.path.exists(full_path):
         continue
 
-      with open(file_path, "r", -1, "utf8") as reader:
-        lines = reader.read().splitlines()
+      with open(full_path, "r", -1, "utf8") as reader:
+        lines = json.load(reader)
       for line in lines:
-        if not line or line.startswith("#") or "\t" not in line:
-          continue
-        line_id, line_content = line.split("\t")
-        line_id = int(line_id)
+        line_id = line["index"]
+        line_content = line["translation"]
         game_data[language][file_id][line_id] = line_content
 
   return game_data

@@ -1,0 +1,38 @@
+[
+  {
+    "key": "HGSS_0269_0000",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0269_0001",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0269_0002",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0269_0003",
+    "original": "Lv[0133,0000]",
+    "translation": "Lv[0133,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0269_0004",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0269_0005",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 5
+  }
+]

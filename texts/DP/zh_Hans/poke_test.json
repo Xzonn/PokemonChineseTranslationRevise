@@ -1,0 +1,134 @@
+[
+  {
+    "key": "DP_0393_0000",
+    "original": "[0134,0000] [0100,0001] [0100,0002] [0100,0003]",
+    "translation": "[0134,0000]　[0100,0001]　[0100,0002]　[0100,0003]",
+    "index": 0
+  },
+  {
+    "key": "DP_0393_0001",
+    "original": "オス",
+    "translation": "雄性",
+    "index": 1
+  },
+  {
+    "key": "DP_0393_0002",
+    "original": "メス",
+    "translation": "雌性",
+    "index": 2
+  },
+  {
+    "key": "DP_0393_0003",
+    "original": "なし",
+    "translation": "无",
+    "index": 3
+  },
+  {
+    "key": "DP_0393_0004",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 4
+  },
+  {
+    "key": "DP_0393_0005",
+    "original": "レア",
+    "translation": "稀有",
+    "index": 5
+  },
+  {
+    "key": "DP_0393_0006",
+    "original": "ー",
+    "translation": "ー",
+    "index": 6
+  },
+  {
+    "key": "DP_0393_0007",
+    "original": "ループ",
+    "translation": "圈",
+    "index": 7
+  },
+  {
+    "key": "DP_0393_0008",
+    "original": "→",
+    "translation": "→",
+    "index": 8
+  },
+  {
+    "key": "DP_0393_0009",
+    "original": "ロードします",
+    "translation": "读取记录",
+    "index": 9
+  },
+  {
+    "key": "DP_0393_0010",
+    "original": "セーブします",
+    "translation": "保存记录",
+    "index": 10
+  },
+  {
+    "key": "DP_0393_0011",
+    "original": "はい",
+    "translation": "是",
+    "index": 11
+  },
+  {
+    "key": "DP_0393_0012",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 12
+  },
+  {
+    "key": "DP_0393_0013",
+    "original": "Ｌ１",
+    "translation": "Ｌ１",
+    "index": 13
+  },
+  {
+    "key": "DP_0393_0014",
+    "original": "Ｌ２",
+    "translation": "Ｌ２",
+    "index": 14
+  },
+  {
+    "key": "DP_0393_0015",
+    "original": "Ｌ３",
+    "translation": "Ｌ３",
+    "index": 15
+  },
+  {
+    "key": "DP_0393_0016",
+    "original": "Ｌ４",
+    "translation": "Ｌ４",
+    "index": 16
+  },
+  {
+    "key": "DP_0393_0017",
+    "original": "Ｌ５",
+    "translation": "Ｌ５",
+    "index": 17
+  },
+  {
+    "key": "DP_0393_0018",
+    "original": "Ｌ６",
+    "translation": "Ｌ６",
+    "index": 18
+  },
+  {
+    "key": "DP_0393_0019",
+    "original": "Ｌ７",
+    "translation": "Ｌ７",
+    "index": 19
+  },
+  {
+    "key": "DP_0393_0020",
+    "original": "Ｌ８",
+    "translation": "Ｌ８",
+    "index": 20
+  },
+  {
+    "key": "DP_0393_0021",
+    "original": "Ｌ９",
+    "translation": "Ｌ９",
+    "index": 21
+  }
+]

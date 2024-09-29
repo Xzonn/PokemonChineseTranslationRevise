@@ -1,0 +1,68 @@
+[
+  {
+    "key": "PT_0301_0000",
+    "original": "つうしんサーチャー",
+    "translation": "つうしんサーチャー",
+    "index": 0
+  },
+  {
+    "key": "PT_0301_0001",
+    "original": "つうしん しているひとを\nさがしています\nそのまま おまちください",
+    "translation": "つうしん しているひとを\nさがしています\nそのまま おまちください",
+    "index": 1
+  },
+  {
+    "key": "PT_0301_0002",
+    "original": "エラー！",
+    "translation": "エラー！",
+    "index": 2
+  },
+  {
+    "key": "PT_0301_0003",
+    "original": "ここでは サーチできません！",
+    "translation": "ここでは サーチできません！",
+    "index": 3
+  },
+  {
+    "key": "PT_0301_0004",
+    "original": "サーチちゅうは\nうごかないで ください！",
+    "translation": "サーチちゅうは\nうごかないで ください！",
+    "index": 4
+  },
+  {
+    "key": "PT_0301_0005",
+    "original": "つうしん じょうきょう",
+    "translation": "つうしん じょうきょう",
+    "index": 5
+  },
+  {
+    "key": "PT_0301_0006",
+    "original": "ユニオンルーム",
+    "translation": "ユニオンルーム",
+    "index": 6
+  },
+  {
+    "key": "PT_0301_0007",
+    "original": "ちかつうろ",
+    "translation": "ちかつうろ",
+    "index": 7
+  },
+  {
+    "key": "PT_0301_0008",
+    "original": "コロシアム",
+    "translation": "コロシアム",
+    "index": 8
+  },
+  {
+    "key": "PT_0301_0009",
+    "original": "そのほかの つうしん",
+    "translation": "そのほかの つうしん",
+    "index": 9
+  },
+  {
+    "key": "PT_0301_0010",
+    "original": "タッチで つうしん スタート！",
+    "translation": "タッチで つうしん スタート！",
+    "index": 10
+  }
+]

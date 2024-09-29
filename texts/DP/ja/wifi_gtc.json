@@ -1,0 +1,896 @@
+[
+  {
+    "key": "DP_0577_0000",
+    "original": "ＧＴＳへ ようこそ！",
+    "translation": "ＧＴＳへ ようこそ！",
+    "index": 0
+  },
+  {
+    "key": "DP_0577_0001",
+    "original": "あずけていた ポケモンの\nこうかんが せいりつ しました！",
+    "translation": "あずけていた ポケモンの\nこうかんが せいりつ しました！",
+    "index": 1
+  },
+  {
+    "key": "DP_0577_0002",
+    "original": "[0101,0000]は\nこうかん されませんでした\\f\n",
+    "translation": "[0101,0000]は\nこうかん されませんでした\\f\n",
+    "index": 2
+  },
+  {
+    "key": "DP_0577_0003",
+    "original": "[0101,0000]は\nにげてしまった みたい⋯⋯\\f\n",
+    "translation": "[0101,0000]は\nにげてしまった みたい⋯⋯\\f\n",
+    "index": 3
+  },
+  {
+    "key": "DP_0577_0004",
+    "original": "おさがし ですか？ おあずけ ですか？",
+    "translation": "おさがし ですか？ おあずけ ですか？",
+    "index": 4
+  },
+  {
+    "key": "DP_0577_0005",
+    "original": "[0101,0000]を どうしますか？",
+    "translation": "[0101,0000]を どうしますか？",
+    "index": 5
+  },
+  {
+    "key": "DP_0577_0006",
+    "original": "[0101,0000]を ひきとりますか？",
+    "translation": "[0101,0000]を ひきとりますか？",
+    "index": 6
+  },
+  {
+    "key": "DP_0577_0007",
+    "original": "ＷｉーＦｉコネクション から\nせつだん しても よろしい ですか？",
+    "translation": "ＷｉーＦｉコネクション から\nせつだん しても よろしい ですか？",
+    "index": 7
+  },
+  {
+    "key": "DP_0577_0008",
+    "original": "どんな ポケモンを さがしますか？",
+    "translation": "どんな ポケモンを さがしますか？",
+    "index": 8
+  },
+  {
+    "key": "DP_0577_0009",
+    "original": "ほしい ポケモンを えらんでください",
+    "translation": "ほしい ポケモンを えらんでください",
+    "index": 9
+  },
+  {
+    "key": "DP_0577_0010",
+    "original": "せいべつを えらんでください",
+    "translation": "せいべつを えらんでください",
+    "index": 10
+  },
+  {
+    "key": "DP_0577_0011",
+    "original": "ポケモンのレベルを きめてください",
+    "translation": "ポケモンのレベルを きめてください",
+    "index": 11
+  },
+  {
+    "key": "DP_0577_0012",
+    "original": "さがすポケモンを えらんでください！",
+    "translation": "さがすポケモンを えらんでください！",
+    "index": 12
+  },
+  {
+    "key": "DP_0577_0013",
+    "original": "ポケモンを さがしています ⋯⋯",
+    "translation": "ポケモンを さがしています ⋯⋯",
+    "index": 13
+  },
+  {
+    "key": "DP_0577_0014",
+    "original": "みつかりませんでした！",
+    "translation": "みつかりませんでした！",
+    "index": 14
+  },
+  {
+    "key": "DP_0577_0015",
+    "original": "さがすのを やめますか？",
+    "translation": "さがすのを やめますか？",
+    "index": 15
+  },
+  {
+    "key": "DP_0577_0016",
+    "original": "このポケモンと こうかん しますか？",
+    "translation": "このポケモンと こうかん しますか？",
+    "index": 16
+  },
+  {
+    "key": "DP_0577_0017",
+    "original": "かわりのポケモンを えらんでください",
+    "translation": "かわりのポケモンを えらんでください",
+    "index": 17
+  },
+  {
+    "key": "DP_0577_0018",
+    "original": "[0101,0000]を どうしますか？",
+    "translation": "[0101,0000]を どうしますか？",
+    "index": 18
+  },
+  {
+    "key": "DP_0577_0019",
+    "original": "すでに こうかん されちゃった⋯⋯",
+    "translation": "すでに こうかん されちゃった⋯⋯",
+    "index": 19
+  },
+  {
+    "key": "DP_0577_0020",
+    "original": "していのポケモンと ちがいますよ！",
+    "translation": "していのポケモンと ちがいますよ！",
+    "index": 20
+  },
+  {
+    "key": "DP_0577_0021",
+    "original": "あずけるポケモンを えらんでください",
+    "translation": "あずけるポケモンを えらんでください",
+    "index": 21
+  },
+  {
+    "key": "DP_0577_0022",
+    "original": "[0101,0000]を あずけますか？",
+    "translation": "[0101,0000]を あずけますか？",
+    "index": 22
+  },
+  {
+    "key": "DP_0577_0023",
+    "original": "この じょうけんで よろしいですか？",
+    "translation": "この じょうけんで よろしいですか？",
+    "index": 23
+  },
+  {
+    "key": "DP_0577_0024",
+    "original": "ＧＴＳの じょうたいを\nかくにんちゅう です ⋯⋯",
+    "translation": "ＧＴＳの じょうたいを\nかくにんちゅう です ⋯⋯",
+    "index": 24
+  },
+  {
+    "key": "DP_0577_0025",
+    "original": "ボールカプセルが はずれますが\nよろしい ですか？",
+    "translation": "ボールカプセルが はずれますが\nよろしい ですか？",
+    "index": 25
+  },
+  {
+    "key": "DP_0577_0026",
+    "original": "このポケモンを\nこうかんに だすことは できません！\\f\n",
+    "translation": "このポケモンを\nこうかんに だすことは できません！\\f\n",
+    "index": 26
+  },
+  {
+    "key": "DP_0577_0027",
+    "original": "タマゴを こうかんに\nだすことは できません！\\f\n",
+    "translation": "タマゴを こうかんに\nだすことは できません！\\f\n",
+    "index": 27
+  },
+  {
+    "key": "DP_0577_0028",
+    "original": "てもちが いっぱいで ポケモンを\nうけとる ことが できません！\\f\n",
+    "translation": "てもちが いっぱいで ポケモンを\nうけとる ことが できません！\\f\n",
+    "index": 28
+  },
+  {
+    "key": "DP_0577_0029",
+    "original": "ボックスが いっぱいで ポケモンを\nうけとる ことが できません！\\f\n",
+    "translation": "ボックスが いっぱいで ポケモンを\nうけとる ことが できません！\\f\n",
+    "index": 29
+  },
+  {
+    "key": "DP_0577_0030",
+    "original": "こうかんあいてが みつかりました！",
+    "translation": "こうかんあいてが みつかりました！",
+    "index": 30
+  },
+  {
+    "key": "DP_0577_0031",
+    "original": "ＷｉーＦｉコネクションに せつぞく",
+    "translation": "ＷｉーＦｉコネクションに せつぞく",
+    "index": 31
+  },
+  {
+    "key": "DP_0577_0032",
+    "original": "あいてを タッチして えらんでください",
+    "translation": "あいてを タッチして えらんでください",
+    "index": 32
+  },
+  {
+    "key": "DP_0577_0033",
+    "original": "じょうけんを かえて ください",
+    "translation": "じょうけんを かえて ください",
+    "index": 33
+  },
+  {
+    "key": "DP_0577_0034",
+    "original": "しばらく じかんを おいてください",
+    "translation": "しばらく じかんを おいてください",
+    "index": 34
+  },
+  {
+    "key": "DP_0577_0035",
+    "original": "てもちが いっぱいで\nメールを もっている ポケモンを\\r\nうけとることが できません！\\f\n",
+    "translation": "てもちが いっぱいで\nメールを もっている ポケモンを\\r\nうけとることが できません！\\f\n",
+    "index": 35
+  },
+  {
+    "key": "DP_0577_0036",
+    "original": "てもちが いっぱいで うけとれません",
+    "translation": "てもちが いっぱいで うけとれません",
+    "index": 36
+  },
+  {
+    "key": "DP_0577_0037",
+    "original": "とくべつな リボンが ついているので\nこうかんに だすことは できません！\\f\n",
+    "translation": "とくべつな リボンが ついているので\nこうかんに だすことは できません！\\f\n",
+    "index": 37
+  },
+  {
+    "key": "DP_0577_0038",
+    "original": "ＧＴＳの かくにんに しっぱいしました",
+    "translation": "ＧＴＳの かくにんに しっぱいしました",
+    "index": 38
+  },
+  {
+    "key": "DP_0577_0039",
+    "original": "グローバル トレード システム",
+    "translation": "グローバル トレード システム",
+    "index": 39
+  },
+  {
+    "key": "DP_0577_0040",
+    "original": "ようすを みる",
+    "translation": "ようすを みる",
+    "index": 40
+  },
+  {
+    "key": "DP_0577_0041",
+    "original": "ポケモンを さがす",
+    "translation": "ポケモンを さがす",
+    "index": 41
+  },
+  {
+    "key": "DP_0577_0042",
+    "original": "しゅうりょう する",
+    "translation": "しゅうりょう する",
+    "index": 42
+  },
+  {
+    "key": "DP_0577_0043",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 43
+  },
+  {
+    "key": "DP_0577_0044",
+    "original": "[0100,0001]",
+    "translation": "[0100,0001]",
+    "index": 44
+  },
+  {
+    "key": "DP_0577_0045",
+    "original": "Ｌｖ．[0134,0002]",
+    "translation": "Ｌｖ．[0134,0002]",
+    "index": 45
+  },
+  {
+    "key": "DP_0577_0046",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 46
+  },
+  {
+    "key": "DP_0577_0047",
+    "original": "[0108,0003]",
+    "translation": "[0108,0003]",
+    "index": 47
+  },
+  {
+    "key": "DP_0577_0048",
+    "original": "もちぬし",
+    "translation": "もちぬし",
+    "index": 48
+  },
+  {
+    "key": "DP_0577_0049",
+    "original": "[0103,0004]",
+    "translation": "[0103,0004]",
+    "index": 49
+  },
+  {
+    "key": "DP_0577_0050",
+    "original": "ほしいポケモン",
+    "translation": "ほしいポケモン",
+    "index": 50
+  },
+  {
+    "key": "DP_0577_0051",
+    "original": "[0100,0005]",
+    "translation": "[0100,0005]",
+    "index": 51
+  },
+  {
+    "key": "DP_0577_0052",
+    "original": "Ｌｖ.[0134,0006]いじょう",
+    "translation": "Ｌｖ.[0134,0006]いじょう",
+    "index": 52
+  },
+  {
+    "key": "DP_0577_0053",
+    "original": "Ｌｖ.していなし",
+    "translation": "Ｌｖ.していなし",
+    "index": 53
+  },
+  {
+    "key": "DP_0577_0054",
+    "original": "ひきとる",
+    "translation": "ひきとる",
+    "index": 54
+  },
+  {
+    "key": "DP_0577_0055",
+    "original": "そのまま",
+    "translation": "そのまま",
+    "index": 55
+  },
+  {
+    "key": "DP_0577_0056",
+    "original": "はい",
+    "translation": "はい",
+    "index": 56
+  },
+  {
+    "key": "DP_0577_0057",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 57
+  },
+  {
+    "key": "DP_0577_0058",
+    "original": "ポケモンを さがす",
+    "translation": "ポケモンを さがす",
+    "index": 58
+  },
+  {
+    "key": "DP_0577_0059",
+    "original": "ポケモン",
+    "translation": "ポケモン",
+    "index": 59
+  },
+  {
+    "key": "DP_0577_0060",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 60
+  },
+  {
+    "key": "DP_0577_0061",
+    "original": "せいべつ",
+    "translation": "せいべつ",
+    "index": 61
+  },
+  {
+    "key": "DP_0577_0062",
+    "original": "[0128,0000,0001]",
+    "translation": "[0128,0000,0001]",
+    "index": 62
+  },
+  {
+    "key": "DP_0577_0063",
+    "original": "レベル",
+    "translation": "レベル",
+    "index": 63
+  },
+  {
+    "key": "DP_0577_0064",
+    "original": "[0129,0000]ぁ",
+    "translation": "[0129,0000]ぁ",
+    "index": 64
+  },
+  {
+    "key": "DP_0577_0065",
+    "original": "さがす",
+    "translation": "さがす",
+    "index": 65
+  },
+  {
+    "key": "DP_0577_0066",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 66
+  },
+  {
+    "key": "DP_0577_0067",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 67
+  },
+  {
+    "key": "DP_0577_0068",
+    "original": "[0100,0001]",
+    "translation": "[0100,0001]",
+    "index": 68
+  },
+  {
+    "key": "DP_0577_0069",
+    "original": "Ｌｖ．[0134,0002]",
+    "translation": "Ｌｖ．[0134,0002]",
+    "index": 69
+  },
+  {
+    "key": "DP_0577_0070",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 70
+  },
+  {
+    "key": "DP_0577_0071",
+    "original": "[0108,0003]",
+    "translation": "[0108,0003]",
+    "index": 71
+  },
+  {
+    "key": "DP_0577_0072",
+    "original": "あずけたひと",
+    "translation": "あずけたひと",
+    "index": 72
+  },
+  {
+    "key": "DP_0577_0073",
+    "original": "[0103,0004]",
+    "translation": "[0103,0004]",
+    "index": 73
+  },
+  {
+    "key": "DP_0577_0074",
+    "original": "ほしいポケモン",
+    "translation": "ほしいポケモン",
+    "index": 74
+  },
+  {
+    "key": "DP_0577_0075",
+    "original": "[0100,0005]",
+    "translation": "[0100,0005]",
+    "index": 75
+  },
+  {
+    "key": "DP_0577_0076",
+    "original": "[0128,0000,0006]",
+    "translation": "[0128,0000,0006]",
+    "index": 76
+  },
+  {
+    "key": "DP_0577_0077",
+    "original": "[0129,0000]う",
+    "translation": "[0129,0000]う",
+    "index": 77
+  },
+  {
+    "key": "DP_0577_0078",
+    "original": "すんでいるばしょ",
+    "translation": "すんでいるばしょ",
+    "index": 78
+  },
+  {
+    "key": "DP_0577_0079",
+    "original": "[0124,0008]",
+    "translation": "[0124,0008]",
+    "index": 79
+  },
+  {
+    "key": "DP_0577_0080",
+    "original": "[0125,0009]",
+    "translation": "[0125,0009]",
+    "index": 80
+  },
+  {
+    "key": "DP_0577_0081",
+    "original": "てもち\nポケモン",
+    "translation": "てもち\nポケモン",
+    "index": 81
+  },
+  {
+    "key": "DP_0577_0082",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 82
+  },
+  {
+    "key": "DP_0577_0083",
+    "original": "[010B,0000]",
+    "translation": "[010B,0000]",
+    "index": 83
+  },
+  {
+    "key": "DP_0577_0084",
+    "original": "ようすを みる",
+    "translation": "ようすを みる",
+    "index": 84
+  },
+  {
+    "key": "DP_0577_0085",
+    "original": "こうかんする",
+    "translation": "こうかんする",
+    "index": 85
+  },
+  {
+    "key": "DP_0577_0086",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 86
+  },
+  {
+    "key": "DP_0577_0087",
+    "original": "はい",
+    "translation": "はい",
+    "index": 87
+  },
+  {
+    "key": "DP_0577_0088",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 88
+  },
+  {
+    "key": "DP_0577_0089",
+    "original": "てもち",
+    "translation": "てもち",
+    "index": 89
+  },
+  {
+    "key": "DP_0577_0090",
+    "original": "ポケモンを あずける",
+    "translation": "ポケモンを あずける",
+    "index": 90
+  },
+  {
+    "key": "DP_0577_0091",
+    "original": "[010B,0000]",
+    "translation": "[010B,0000]",
+    "index": 91
+  },
+  {
+    "key": "DP_0577_0092",
+    "original": "てもち\nポケモン",
+    "translation": "てもち\nポケモン",
+    "index": 92
+  },
+  {
+    "key": "DP_0577_0093",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 93
+  },
+  {
+    "key": "DP_0577_0094",
+    "original": "ようすを みる",
+    "translation": "ようすを みる",
+    "index": 94
+  },
+  {
+    "key": "DP_0577_0095",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 95
+  },
+  {
+    "key": "DP_0577_0096",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 96
+  },
+  {
+    "key": "DP_0577_0097",
+    "original": "ほしいポケモン",
+    "translation": "ほしいポケモン",
+    "index": 97
+  },
+  {
+    "key": "DP_0577_0098",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 98
+  },
+  {
+    "key": "DP_0577_0099",
+    "original": "[0129,0000] ",
+    "translation": "[0129,0000] ",
+    "index": 99
+  },
+  {
+    "key": "DP_0577_0100",
+    "original": "あずけるポケモン",
+    "translation": "あずけるポケモン",
+    "index": 100
+  },
+  {
+    "key": "DP_0577_0101",
+    "original": "[0101,0002]",
+    "translation": "[0101,0002]",
+    "index": 101
+  },
+  {
+    "key": "DP_0577_0102",
+    "original": "Ｌｖ．[0134,0003]",
+    "translation": "Ｌｖ．[0134,0003]",
+    "index": 102
+  },
+  {
+    "key": "DP_0577_0103",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 103
+  },
+  {
+    "key": "DP_0577_0104",
+    "original": "ア",
+    "translation": "ア",
+    "index": 104
+  },
+  {
+    "key": "DP_0577_0105",
+    "original": "カ",
+    "translation": "カ",
+    "index": 105
+  },
+  {
+    "key": "DP_0577_0106",
+    "original": "サ",
+    "translation": "サ",
+    "index": 106
+  },
+  {
+    "key": "DP_0577_0107",
+    "original": "タ",
+    "translation": "タ",
+    "index": 107
+  },
+  {
+    "key": "DP_0577_0108",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 108
+  },
+  {
+    "key": "DP_0577_0109",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 109
+  },
+  {
+    "key": "DP_0577_0110",
+    "original": "マ",
+    "translation": "マ",
+    "index": 110
+  },
+  {
+    "key": "DP_0577_0111",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 111
+  },
+  {
+    "key": "DP_0577_0112",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 112
+  },
+  {
+    "key": "DP_0577_0113",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 113
+  },
+  {
+    "key": "DP_0577_0114",
+    "original": "きにしない",
+    "translation": "きにしない",
+    "index": 114
+  },
+  {
+    "key": "DP_0577_0115",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 115
+  },
+  {
+    "key": "DP_0577_0116",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 116
+  },
+  {
+    "key": "DP_0577_0117",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 117
+  },
+  {
+    "key": "DP_0577_0118",
+    "original": "きにしない",
+    "translation": "きにしない",
+    "index": 118
+  },
+  {
+    "key": "DP_0577_0119",
+    "original": "Ｌｖ．１０みまん",
+    "translation": "Ｌｖ．１０みまん",
+    "index": 119
+  },
+  {
+    "key": "DP_0577_0120",
+    "original": "Ｌｖ．１０いじょう",
+    "translation": "Ｌｖ．１０いじょう",
+    "index": 120
+  },
+  {
+    "key": "DP_0577_0121",
+    "original": "Ｌｖ．２０いじょう",
+    "translation": "Ｌｖ．２０いじょう",
+    "index": 121
+  },
+  {
+    "key": "DP_0577_0122",
+    "original": "Ｌｖ．３０いじょう",
+    "translation": "Ｌｖ．３０いじょう",
+    "index": 122
+  },
+  {
+    "key": "DP_0577_0123",
+    "original": "Ｌｖ．４０いじょう",
+    "translation": "Ｌｖ．４０いじょう",
+    "index": 123
+  },
+  {
+    "key": "DP_0577_0124",
+    "original": "Ｌｖ．５０いじょう",
+    "translation": "Ｌｖ．５０いじょう",
+    "index": 124
+  },
+  {
+    "key": "DP_0577_0125",
+    "original": "Ｌｖ．６０いじょう",
+    "translation": "Ｌｖ．６０いじょう",
+    "index": 125
+  },
+  {
+    "key": "DP_0577_0126",
+    "original": "Ｌｖ．７０いじょう",
+    "translation": "Ｌｖ．７０いじょう",
+    "index": 126
+  },
+  {
+    "key": "DP_0577_0127",
+    "original": "Ｌｖ．８０いじょう",
+    "translation": "Ｌｖ．８０いじょう",
+    "index": 127
+  },
+  {
+    "key": "DP_0577_0128",
+    "original": "Ｌｖ．９０いじょう",
+    "translation": "Ｌｖ．９０いじょう",
+    "index": 128
+  },
+  {
+    "key": "DP_0577_0129",
+    "original": "Ｌｖ．１００",
+    "translation": "Ｌｖ．１００",
+    "index": 129
+  },
+  {
+    "key": "DP_0577_0130",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 130
+  },
+  {
+    "key": "DP_0577_0131",
+    "original": "ポケモンを ＧＴＳに\nおくりだして います",
+    "translation": "ポケモンを ＧＴＳに\nおくりだして います",
+    "index": 131
+  },
+  {
+    "key": "DP_0577_0132",
+    "original": "ＧＴＳに ポケモンが\nとうろくされました！\\f\n",
+    "translation": "ＧＴＳに ポケモンが\nとうろくされました！\\f\n",
+    "index": 132
+  },
+  {
+    "key": "DP_0577_0133",
+    "original": "ポケモンを ＧＴＳから\nうけとって います",
+    "translation": "ポケモンを ＧＴＳから\nうけとって います",
+    "index": 133
+  },
+  {
+    "key": "DP_0577_0134",
+    "original": "ＧＴＳから ポケモンを\nひきとりました！\\f\n",
+    "translation": "ＧＴＳから ポケモンを\nひきとりました！\\f\n",
+    "index": 134
+  },
+  {
+    "key": "DP_0577_0135",
+    "original": "ＧＴＳと ポケモンを \nこうかんしています！",
+    "translation": "ＧＴＳと ポケモンを \nこうかんしています！",
+    "index": 135
+  },
+  {
+    "key": "DP_0577_0136",
+    "original": "ポケモンの こうかんが\nせいりつ しました！\\f\n",
+    "translation": "ポケモンの こうかんが\nせいりつ しました！\\f\n",
+    "index": 136
+  },
+  {
+    "key": "DP_0577_0137",
+    "original": "ざんねんですが ほかのひとと\nこうかん されていました\\f\n",
+    "translation": "ざんねんですが ほかのひとと\nこうかん されていました\\f\n",
+    "index": 137
+  },
+  {
+    "key": "DP_0577_0138",
+    "original": "ポケモンレポートに かきこんでいます\nでんげんを きらないでください",
+    "translation": "ポケモンレポートに かきこんでいます\nでんげんを きらないでください",
+    "index": 138
+  },
+  {
+    "key": "DP_0577_0139",
+    "original": "ただいま ＧＴＳと つうしんを\nおこなっています⋯⋯",
+    "translation": "ただいま ＧＴＳと つうしんを\nおこなっています⋯⋯",
+    "index": 139
+  },
+  {
+    "key": "DP_0577_0140",
+    "original": "ＧＴＳは\nげんざい メンテナンスちゅう です\\f\nしばらく おまちいただいたのち \nごりようください\\f\n",
+    "translation": "ＧＴＳは\nげんざい メンテナンスちゅう です\\f\nしばらく おまちいただいたのち \nごりようください\\f\n",
+    "index": 140
+  },
+  {
+    "key": "DP_0577_0141",
+    "original": "ＧＴＳは\nげんざい こみあって おります\\f\nしばらく おまちいただいたのち\nごりようください\\f\n",
+    "translation": "ＧＴＳは\nげんざい こみあって おります\\f\nしばらく おまちいただいたのち\nごりようください\\f\n",
+    "index": 141
+  },
+  {
+    "key": "DP_0577_0142",
+    "original": "けんさく できません でした⋯",
+    "translation": "けんさく できません でした⋯",
+    "index": 142
+  },
+  {
+    "key": "DP_0577_0143",
+    "original": "つうしんエラーが はっせいしました",
+    "translation": "つうしんエラーが はっせいしました",
+    "index": 143
+  },
+  {
+    "key": "DP_0577_0144",
+    "original": "つうしんエラーが はっせいしました\\f\n",
+    "translation": "つうしんエラーが はっせいしました\\f\n",
+    "index": 144
+  },
+  {
+    "key": "DP_0577_0145",
+    "original": "ＧＴＳに せつぞく\nできませんでした\\f\nうけつけにもどります\\f\n",
+    "translation": "ＧＴＳに せつぞく\nできませんでした\\f\nうけつけにもどります\\f\n",
+    "index": 145
+  },
+  {
+    "key": "DP_0577_0146",
+    "original": "ＧＴＳとの つうしんが\nせつだん されました\\f\nうけつけに もどります\\f\n",
+    "translation": "ＧＴＳとの つうしんが\nせつだん されました\\f\nうけつけに もどります\\f\n",
+    "index": 146
+  },
+  {
+    "key": "DP_0577_0147",
+    "original": "ＧＴＳとの つうしんが せつだん されました",
+    "translation": "ＧＴＳとの つうしんが せつだん されました",
+    "index": 147
+  },
+  {
+    "key": "DP_0577_0148",
+    "original": "うけつけに もどります",
+    "translation": "うけつけに もどります",
+    "index": 148
+  }
+]

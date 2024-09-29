@@ -1,0 +1,38 @@
+[
+  {
+    "key": "PT_0761_0000",
+    "original": "[0103,0000]に はなしかけた\\f\n",
+    "translation": "和[0103,0000]对话。\\f\n",
+    "index": 0
+  },
+  {
+    "key": "PT_0761_0001",
+    "original": "[0103,0000]に はなしかけられた",
+    "translation": "[0103,0000]和我说话。",
+    "index": 1
+  },
+  {
+    "key": "PT_0761_0002",
+    "original": "トレーナーカード みせてえ",
+    "translation": "请出示训练家卡片。",
+    "index": 2
+  },
+  {
+    "key": "PT_0761_0003",
+    "original": "トレーナーカード みせちゃうよ\\f\n",
+    "translation": "出示训练家卡片。\\f\n",
+    "index": 3
+  },
+  {
+    "key": "PT_0761_0004",
+    "original": "トレーナーカード おわり まち",
+    "translation": "等待训练家卡片审核结束。",
+    "index": 4
+  },
+  {
+    "key": "PT_0761_0005",
+    "original": "おわり",
+    "translation": "结束",
+    "index": 5
+  }
+]

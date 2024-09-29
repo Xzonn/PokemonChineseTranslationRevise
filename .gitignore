@@ -1,12 +1,9 @@
+maintenance/
 out/
+
 *.bak
 *.nds
 *.zip
-
-pyrightconfig.json
-
-tools
-weblate
 
 messages.txt
 messages_common.txt
@@ -14,3 +11,4 @@ messages_script.txt
 *.jpn.txt
 
 __pycache__/
+.vscode/

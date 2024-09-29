@@ -1,0 +1,104 @@
+[
+  {
+    "key": "DP_0008_0000",
+    "original": "へんしゅう",
+    "translation": "へんしゅう",
+    "index": 0
+  },
+  {
+    "key": "DP_0008_0001",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 1
+  },
+  {
+    "key": "DP_0008_0002",
+    "original": "セット",
+    "translation": "セット",
+    "index": 2
+  },
+  {
+    "key": "DP_0008_0003",
+    "original": "はずす",
+    "translation": "はずす",
+    "index": 3
+  },
+  {
+    "key": "DP_0008_0004",
+    "original": "いれかえる",
+    "translation": "いれかえる",
+    "index": 4
+  },
+  {
+    "key": "DP_0008_0005",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 5
+  },
+  {
+    "key": "DP_0008_0006",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 6
+  },
+  {
+    "key": "DP_0008_0007",
+    "original": "カプセルを えらんで ください",
+    "translation": "カプセルを えらんで ください",
+    "index": 7
+  },
+  {
+    "key": "DP_0008_0008",
+    "original": "カプセルを どうする？",
+    "translation": "カプセルを どうする？",
+    "index": 8
+  },
+  {
+    "key": "DP_0008_0009",
+    "original": "カプセルを はずした！",
+    "translation": "カプセルを はずした！",
+    "index": 9
+  },
+  {
+    "key": "DP_0008_0010",
+    "original": "どの カプセルと いれかえる？",
+    "translation": "どの カプセルと いれかえる？",
+    "index": 10
+  },
+  {
+    "key": "DP_0008_0011",
+    "original": "カプセルを いれかえました",
+    "translation": "カプセルを いれかえました",
+    "index": 11
+  },
+  {
+    "key": "DP_0008_0012",
+    "original": "へんしゅうを おわった！",
+    "translation": "へんしゅうを おわった！",
+    "index": 12
+  },
+  {
+    "key": "DP_0008_0013",
+    "original": "かくにんちゅう・・・",
+    "translation": "かくにんちゅう・・・",
+    "index": 13
+  },
+  {
+    "key": "DP_0008_0014",
+    "original": "カプセルの デザインを\nかえないで やめますか？",
+    "translation": "カプセルの デザインを\nかえないで やめますか？",
+    "index": 14
+  },
+  {
+    "key": "DP_0008_0015",
+    "original": "これいじょう おけないよ！",
+    "translation": "これいじょう おけないよ！",
+    "index": 15
+  },
+  {
+    "key": "DP_0008_0016",
+    "original": "もうシールがないよ！",
+    "translation": "もうシールがないよ！",
+    "index": 16
+  }
+]
