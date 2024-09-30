@@ -1,0 +1,776 @@
+[
+  {
+    "key": "HGSS_0720_0000",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0720_0001",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0720_0002",
+    "original": "たんパンこぞう",
+    "translation": "短裤小子",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0720_0003",
+    "original": "ミニスカート",
+    "translation": "迷你裙",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0720_0004",
+    "original": "キャンプボーイ",
+    "translation": "露营少年",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0720_0005",
+    "original": "ピクニックガール",
+    "translation": "野餐女孩",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0720_0006",
+    "original": "むしとりしょうねん",
+    "translation": "捕虫少年",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0720_0007",
+    "original": "アロマなおねえさん",
+    "translation": "香氛姐姐",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0720_0008",
+    "original": "ふたごちゃん",
+    "translation": "双胞胎",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0720_0009",
+    "original": "やまおとこ",
+    "translation": "登山男",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0720_0010",
+    "original": "バトルガール",
+    "translation": "对战少女",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0720_0011",
+    "original": "つりびと",
+    "translation": "垂钓者",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0720_0012",
+    "original": "サイクリング",
+    "translation": "自行车手",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0720_0013",
+    "original": "サイクリング",
+    "translation": "自行车手",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0720_0014",
+    "original": "からておう",
+    "translation": "空手道王",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0720_0015",
+    "original": "げいじゅつか",
+    "translation": "艺术家",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0720_0016",
+    "original": "ポケモンブリーダー",
+    "translation": "宝可梦培育家",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0720_0017",
+    "original": "ポケモンブリーダー",
+    "translation": "宝可梦培育家",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0720_0018",
+    "original": "カウガール",
+    "translation": "牛仔女孩",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0720_0019",
+    "original": "ジョギング",
+    "translation": "慢跑者",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0720_0020",
+    "original": "だいすきクラブ",
+    "translation": "发烧友俱乐部",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0720_0021",
+    "original": "だいすきクラブ",
+    "translation": "发烧友俱乐部",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0720_0022",
+    "original": "ポケモンごっこ",
+    "translation": "宝可梦小朋友",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0720_0023",
+    "original": "ライバル",
+    "translation": "劲敌",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0720_0024",
+    "original": "エリートトレーナー",
+    "translation": "精英训练家",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0720_0025",
+    "original": "エリートトレーナー",
+    "translation": "精英训练家",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0720_0026",
+    "original": "ウエートレス",
+    "translation": "女服务生",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0720_0027",
+    "original": "ベテラントレーナー",
+    "translation": "资深训练家",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0720_0028",
+    "original": "にんじゃごっこ",
+    "translation": "忍者小子",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0720_0029",
+    "original": "ドラゴンつかい",
+    "translation": "驯龙师",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0720_0030",
+    "original": "とりつかい",
+    "translation": "养鸟人",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0720_0031",
+    "original": "ジャグラー",
+    "translation": "杂耍艺人",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0720_0032",
+    "original": "おぼっちゃま",
+    "translation": "富家少爷",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0720_0033",
+    "original": "おじょうさま",
+    "translation": "千金小姐",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0720_0034",
+    "original": "ジェントルマン",
+    "translation": "绅士",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0720_0035",
+    "original": "マダム",
+    "translation": "女士",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0720_0036",
+    "original": "おとなのおねえさん",
+    "translation": "大姐姐",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0720_0037",
+    "original": "ポケモンコレクター",
+    "translation": "宝可梦收藏家",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0720_0038",
+    "original": "おまわりさん",
+    "translation": "警察先生",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0720_0039",
+    "original": "ポケモンレンジャー",
+    "translation": "宝可梦巡护员",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0720_0040",
+    "original": "ポケモンレンジャー",
+    "translation": "宝可梦巡护员",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0720_0041",
+    "original": "けんきゅういん",
+    "translation": "研究员",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0720_0042",
+    "original": "かいパンやろう",
+    "translation": "泳裤小伙子",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0720_0043",
+    "original": "ビキニのおねえさん",
+    "translation": "比基尼姐姐",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0720_0044",
+    "original": "うきわボーイ",
+    "translation": "泳圈男孩",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0720_0045",
+    "original": "うきわガール",
+    "translation": "泳圈女孩",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0720_0046",
+    "original": "ふなのり",
+    "translation": "水手",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0720_0047",
+    "original": "まいこはん",
+    "translation": "和服女孩",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0720_0048",
+    "original": "いせきマニア",
+    "translation": "遗迹迷",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0720_0049",
+    "original": "サイキッカー",
+    "translation": "超能力者",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0720_0050",
+    "original": "サイキッカー",
+    "translation": "超能力者",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0720_0051",
+    "original": "ギャンブラー",
+    "translation": "赌徒",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0720_0052",
+    "original": "ギタリスト",
+    "translation": "吉他手",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0720_0053",
+    "original": "エリートトレーナー",
+    "translation": "精英训练家",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0720_0054",
+    "original": "エリートトレーナー",
+    "translation": "精英训练家",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0720_0055",
+    "original": "ロケットだん",
+    "translation": "火箭队",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0720_0056",
+    "original": "スキーヤー",
+    "translation": "滑雪者",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0720_0057",
+    "original": "スキンヘッズ",
+    "translation": "光头男",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0720_0058",
+    "original": "ピエロ",
+    "translation": "小丑",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0720_0059",
+    "original": "さぎょういん",
+    "translation": "工人",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0720_0060",
+    "original": "じゅくがえり",
+    "translation": "补习班学生",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0720_0061",
+    "original": "じゅくがえり",
+    "translation": "补习班学生",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0720_0062",
+    "original": "ロケットだん",
+    "translation": "火箭队",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0720_0063",
+    "original": "かじばドロボウ",
+    "translation": "趁火打劫者",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0720_0064",
+    "original": "ひふきやろう",
+    "translation": "吹火人",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0720_0065",
+    "original": "ぼうそうぞく",
+    "translation": "飙车族",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0720_0066",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0720_0067",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0720_0068",
+    "original": "かいじゅうマニア",
+    "translation": "怪兽狂",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0720_0069",
+    "original": "とりつかい",
+    "translation": "养鸟人",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0720_0070",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0720_0071",
+    "original": "ぼくじょうおじさん",
+    "translation": "牧场大叔",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0720_0072",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0720_0073",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0720_0074",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0720_0075",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0720_0076",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0720_0077",
+    "original": "せんせい",
+    "translation": "老师",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0720_0078",
+    "original": "りかけいのおとこ",
+    "translation": "理科男",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0720_0079",
+    "original": "ぼうず",
+    "translation": "僧侣",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0720_0080",
+    "original": "パラソルおねえさん",
+    "translation": "阳伞姐姐",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0720_0081",
+    "original": "ウエーター",
+    "translation": "服务生",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0720_0082",
+    "original": "イタコ",
+    "translation": "神婆",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0720_0083",
+    "original": "カメラマン",
+    "translation": "摄影师",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0720_0084",
+    "original": "レポーター",
+    "translation": "记者",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0720_0085",
+    "original": "アイドル",
+    "translation": "偶像明星",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0720_0086",
+    "original": "チャンピオン",
+    "translation": "冠军",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0720_0087",
+    "original": "してんのう",
+    "translation": "四天王",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0720_0088",
+    "original": "してんのう",
+    "translation": "四天王",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0720_0089",
+    "original": "してんのう",
+    "translation": "四天王",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0720_0090",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0720_0091",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0720_0092",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0720_0093",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0720_0094",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0720_0095",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0720_0096",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0720_0097",
+    "original": "タワータイクーン",
+    "translation": "对战塔大君",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0720_0098",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0720_0099",
+    "original": "ステージマドンナ",
+    "translation": "舞台女主角",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0720_0100",
+    "original": "ファクトリーヘッド",
+    "translation": "工厂头目",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0720_0101",
+    "original": "ルーレットゴッデス",
+    "translation": "轮盘女神",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0720_0102",
+    "original": "キャッスルバトラー",
+    "translation": "城堡对战者",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0720_0103",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0720_0104",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0720_0105",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0720_0106",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0720_0107",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0720_0108",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0720_0109",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0720_0110",
+    "original": "ジムリーダー",
+    "translation": "道馆馆主",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0720_0111",
+    "original": "ちょうろう",
+    "translation": "长老",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0720_0112",
+    "original": "してんのう",
+    "translation": "四天王",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0720_0113",
+    "original": "はぐれけんきゅういん",
+    "translation": "流浪研究员",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0720_0114",
+    "original": "ロケットだんかんぶ",
+    "translation": "火箭队干部",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0720_0115",
+    "original": "ボーダー",
+    "translation": "滑板客",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0720_0116",
+    "original": "ロケットだんかんぶ",
+    "translation": "火箭队干部",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0720_0117",
+    "original": "ロケットだんかんぶ",
+    "translation": "火箭队干部",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0720_0118",
+    "original": "ロケットだんかんぶ",
+    "translation": "火箭队干部",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0720_0119",
+    "original": "とおりすがり",
+    "translation": "路人",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0720_0120",
+    "original": "なぞのせいねん",
+    "translation": "谜之少年",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0720_0121",
+    "original": "ダブルチーム",
+    "translation": "双打组合",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0720_0122",
+    "original": "ラブラブカップル",
+    "translation": "热恋情侣",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0720_0123",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0720_0124",
+    "original": "ロケットだんボス",
+    "translation": "火箭队老大",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0720_0125",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0720_0126",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0720_0127",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0720_0128",
+    "original": "ポケモントレーナー",
+    "translation": "宝可梦训练家",
+    "index": 128
+  }
+]

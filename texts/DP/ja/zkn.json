@@ -1,0 +1,686 @@
+[
+  {
+    "key": "DP_0600_0000",
+    "original": "みつけたかず",
+    "translation": "みつけたかず",
+    "index": 0
+  },
+  {
+    "key": "DP_0600_0001",
+    "original": "つかまえたかず",
+    "translation": "つかまえたかず",
+    "index": 1
+  },
+  {
+    "key": "DP_0600_0002",
+    "original": "リストを\nもどす",
+    "translation": "リストを\nもどす",
+    "index": 2
+  },
+  {
+    "key": "DP_0600_0003",
+    "original": "リストの\nはじめへ",
+    "translation": "リストの\nはじめへ",
+    "index": 3
+  },
+  {
+    "key": "DP_0600_0004",
+    "original": "リストの\nさいごへ",
+    "translation": "リストの\nさいごへ",
+    "index": 4
+  },
+  {
+    "key": "DP_0600_0005",
+    "original": "ずかんを\nきりかえる",
+    "translation": "ずかんを\nきりかえる",
+    "index": 5
+  },
+  {
+    "key": "DP_0600_0006",
+    "original": "ポケモンを\nならべる",
+    "translation": "ポケモンを\nならべる",
+    "index": 6
+  },
+  {
+    "key": "DP_0600_0007",
+    "original": "ポケモンを\nさがす",
+    "translation": "ポケモンを\nさがす",
+    "index": 7
+  },
+  {
+    "key": "DP_0600_0008",
+    "original": "ポケモン",
+    "translation": "ポケモン",
+    "index": 8
+  },
+  {
+    "key": "DP_0600_0009",
+    "original": "たかさ",
+    "translation": "たかさ",
+    "index": 9
+  },
+  {
+    "key": "DP_0600_0010",
+    "original": "おもさ",
+    "translation": "おもさ",
+    "index": 10
+  },
+  {
+    "key": "DP_0600_0011",
+    "original": "ｍ",
+    "translation": "ｍ",
+    "index": 11
+  },
+  {
+    "key": "DP_0600_0012",
+    "original": "ｋｇ",
+    "translation": "ｋｇ",
+    "index": 12
+  },
+  {
+    "key": "DP_0600_0013",
+    "original": "オスのすがた",
+    "translation": "オスのすがた",
+    "index": 13
+  },
+  {
+    "key": "DP_0600_0014",
+    "original": "メスのすがた",
+    "translation": "メスのすがた",
+    "index": 14
+  },
+  {
+    "key": "DP_0600_0015",
+    "original": "にしのうみ",
+    "translation": "にしのうみ",
+    "index": 15
+  },
+  {
+    "key": "DP_0600_0016",
+    "original": "ひがしのうみ",
+    "translation": "ひがしのうみ",
+    "index": 16
+  },
+  {
+    "key": "DP_0600_0017",
+    "original": "くさきのミノ",
+    "translation": "くさきのミノ",
+    "index": 17
+  },
+  {
+    "key": "DP_0600_0018",
+    "original": "すなちのミノ",
+    "translation": "すなちのミノ",
+    "index": 18
+  },
+  {
+    "key": "DP_0600_0019",
+    "original": "ゴミのミノ",
+    "translation": "ゴミのミノ",
+    "index": 19
+  },
+  {
+    "key": "DP_0600_0020",
+    "original": "あるすがた",
+    "translation": "あるすがた",
+    "index": 20
+  },
+  {
+    "key": "DP_0600_0021",
+    "original": " ",
+    "translation": " ",
+    "index": 21
+  },
+  {
+    "key": "DP_0600_0022",
+    "original": "えいごのずかん",
+    "translation": "えいごのずかん",
+    "index": 22
+  },
+  {
+    "key": "DP_0600_0023",
+    "original": "フランスごのずかん",
+    "translation": "フランスごのずかん",
+    "index": 23
+  },
+  {
+    "key": "DP_0600_0024",
+    "original": "ドイツごのずかん",
+    "translation": "ドイツごのずかん",
+    "index": 24
+  },
+  {
+    "key": "DP_0600_0025",
+    "original": "イタリアごのずかん",
+    "translation": "イタリアごのずかん",
+    "index": 25
+  },
+  {
+    "key": "DP_0600_0026",
+    "original": "スペインごのずかん",
+    "translation": "スペインごのずかん",
+    "index": 26
+  },
+  {
+    "key": "DP_0600_0027",
+    "original": "Pokémon",
+    "translation": "Pokémon",
+    "index": 27
+  },
+  {
+    "key": "DP_0600_0028",
+    "original": "ページ",
+    "translation": "ページ",
+    "index": 28
+  },
+  {
+    "key": "DP_0600_0029",
+    "original": "ずかんをみる",
+    "translation": "ずかんをみる",
+    "index": 29
+  },
+  {
+    "key": "DP_0600_0030",
+    "original": "ぶんぷ",
+    "translation": "ぶんぷ",
+    "index": 30
+  },
+  {
+    "key": "DP_0600_0031",
+    "original": "なきごえ",
+    "translation": "なきごえ",
+    "index": 31
+  },
+  {
+    "key": "DP_0600_0032",
+    "original": "おおきさ",
+    "translation": "おおきさ",
+    "index": 32
+  },
+  {
+    "key": "DP_0600_0033",
+    "original": "ＮＥＸＴ",
+    "translation": "ＮＥＸＴ",
+    "index": 33
+  },
+  {
+    "key": "DP_0600_0034",
+    "original": "ＢＡＣＫ",
+    "translation": "ＢＡＣＫ",
+    "index": 34
+  },
+  {
+    "key": "DP_0600_0035",
+    "original": "せいそくち ふめい",
+    "translation": "せいそくち ふめい",
+    "index": 35
+  },
+  {
+    "key": "DP_0600_0036",
+    "original": "あさ",
+    "translation": "あさ",
+    "index": 36
+  },
+  {
+    "key": "DP_0600_0037",
+    "original": "ひる",
+    "translation": "ひる",
+    "index": 37
+  },
+  {
+    "key": "DP_0600_0038",
+    "original": "よる",
+    "translation": "よる",
+    "index": 38
+  },
+  {
+    "key": "DP_0600_0039",
+    "original": "よる",
+    "translation": "よる",
+    "index": 39
+  },
+  {
+    "key": "DP_0600_0040",
+    "original": "しんや",
+    "translation": "しんや",
+    "index": 40
+  },
+  {
+    "key": "DP_0600_0041",
+    "original": "コーラス",
+    "translation": "コーラス",
+    "index": 41
+  },
+  {
+    "key": "DP_0600_0042",
+    "original": "パン",
+    "translation": "パン",
+    "index": 42
+  },
+  {
+    "key": "DP_0600_0043",
+    "original": "たかさくらべ",
+    "translation": "たかさくらべ",
+    "index": 43
+  },
+  {
+    "key": "DP_0600_0044",
+    "original": "おもさくらべ",
+    "translation": "おもさくらべ",
+    "index": 44
+  },
+  {
+    "key": "DP_0600_0045",
+    "original": "たかさくらべ",
+    "translation": "たかさくらべ",
+    "index": 45
+  },
+  {
+    "key": "DP_0600_0046",
+    "original": "おもさくらべ",
+    "translation": "おもさくらべ",
+    "index": 46
+  },
+  {
+    "key": "DP_0600_0047",
+    "original": "なまえ",
+    "translation": "なまえ",
+    "index": 47
+  },
+  {
+    "key": "DP_0600_0048",
+    "original": "タイプ",
+    "translation": "タイプ",
+    "index": 48
+  },
+  {
+    "key": "DP_0600_0049",
+    "original": "かたち",
+    "translation": "かたち",
+    "index": 49
+  },
+  {
+    "key": "DP_0600_0050",
+    "original": "ならび",
+    "translation": "ならび",
+    "index": 50
+  },
+  {
+    "key": "DP_0600_0051",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 51
+  },
+  {
+    "key": "DP_0600_0052",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 52
+  },
+  {
+    "key": "DP_0600_0053",
+    "original": "ー",
+    "translation": "ー",
+    "index": 53
+  },
+  {
+    "key": "DP_0600_0054",
+    "original": "あいうえお",
+    "translation": "あいうえお",
+    "index": 54
+  },
+  {
+    "key": "DP_0600_0055",
+    "original": "かきくけこ",
+    "translation": "かきくけこ",
+    "index": 55
+  },
+  {
+    "key": "DP_0600_0056",
+    "original": "さしすせそ",
+    "translation": "さしすせそ",
+    "index": 56
+  },
+  {
+    "key": "DP_0600_0057",
+    "original": "たちつてと",
+    "translation": "たちつてと",
+    "index": 57
+  },
+  {
+    "key": "DP_0600_0058",
+    "original": "なにぬねの",
+    "translation": "なにぬねの",
+    "index": 58
+  },
+  {
+    "key": "DP_0600_0059",
+    "original": "はひふへほ",
+    "translation": "はひふへほ",
+    "index": 59
+  },
+  {
+    "key": "DP_0600_0060",
+    "original": "まみむめも",
+    "translation": "まみむめも",
+    "index": 60
+  },
+  {
+    "key": "DP_0600_0061",
+    "original": "やゆよ わ",
+    "translation": "やゆよ わ",
+    "index": 61
+  },
+  {
+    "key": "DP_0600_0062",
+    "original": "らりるれろ",
+    "translation": "らりるれろ",
+    "index": 62
+  },
+  {
+    "key": "DP_0600_0063",
+    "original": "わ",
+    "translation": "わ",
+    "index": 63
+  },
+  {
+    "key": "DP_0600_0064",
+    "original": "ノーマル",
+    "translation": "ノーマル",
+    "index": 64
+  },
+  {
+    "key": "DP_0600_0065",
+    "original": "ほのお",
+    "translation": "ほのお",
+    "index": 65
+  },
+  {
+    "key": "DP_0600_0066",
+    "original": "みず",
+    "translation": "みず",
+    "index": 66
+  },
+  {
+    "key": "DP_0600_0067",
+    "original": "でんき",
+    "translation": "でんき",
+    "index": 67
+  },
+  {
+    "key": "DP_0600_0068",
+    "original": "くさ",
+    "translation": "くさ",
+    "index": 68
+  },
+  {
+    "key": "DP_0600_0069",
+    "original": "こおり",
+    "translation": "こおり",
+    "index": 69
+  },
+  {
+    "key": "DP_0600_0070",
+    "original": "かくとう",
+    "translation": "かくとう",
+    "index": 70
+  },
+  {
+    "key": "DP_0600_0071",
+    "original": "どく",
+    "translation": "どく",
+    "index": 71
+  },
+  {
+    "key": "DP_0600_0072",
+    "original": "じめん",
+    "translation": "じめん",
+    "index": 72
+  },
+  {
+    "key": "DP_0600_0073",
+    "original": "ひこう",
+    "translation": "ひこう",
+    "index": 73
+  },
+  {
+    "key": "DP_0600_0074",
+    "original": "エスパー",
+    "translation": "エスパー",
+    "index": 74
+  },
+  {
+    "key": "DP_0600_0075",
+    "original": "むし",
+    "translation": "むし",
+    "index": 75
+  },
+  {
+    "key": "DP_0600_0076",
+    "original": "いわ",
+    "translation": "いわ",
+    "index": 76
+  },
+  {
+    "key": "DP_0600_0077",
+    "original": "ゴースト",
+    "translation": "ゴースト",
+    "index": 77
+  },
+  {
+    "key": "DP_0600_0078",
+    "original": "ドラゴン",
+    "translation": "ドラゴン",
+    "index": 78
+  },
+  {
+    "key": "DP_0600_0079",
+    "original": "あく",
+    "translation": "あく",
+    "index": 79
+  },
+  {
+    "key": "DP_0600_0080",
+    "original": "はがね",
+    "translation": "はがね",
+    "index": 80
+  },
+  {
+    "key": "DP_0600_0081",
+    "original": "ばんごう",
+    "translation": "ばんごう",
+    "index": 81
+  },
+  {
+    "key": "DP_0600_0082",
+    "original": "ごじゅうおん",
+    "translation": "ごじゅうおん",
+    "index": 82
+  },
+  {
+    "key": "DP_0600_0083",
+    "original": "おもい",
+    "translation": "おもい",
+    "index": 83
+  },
+  {
+    "key": "DP_0600_0084",
+    "original": "かるい",
+    "translation": "かるい",
+    "index": 84
+  },
+  {
+    "key": "DP_0600_0085",
+    "original": "たかい",
+    "translation": "たかい",
+    "index": 85
+  },
+  {
+    "key": "DP_0600_0086",
+    "original": "ひくい",
+    "translation": "ひくい",
+    "index": 86
+  },
+  {
+    "key": "DP_0600_0087",
+    "original": "なまえの さいしょの もじを\nしてい します。",
+    "translation": "なまえの さいしょの もじを\nしてい します。",
+    "index": 87
+  },
+  {
+    "key": "DP_0600_0088",
+    "original": "タイプを してい します。",
+    "translation": "タイプを してい します。",
+    "index": 88
+  },
+  {
+    "key": "DP_0600_0089",
+    "original": "からだの かたちを してい します。",
+    "translation": "からだの かたちを してい します。",
+    "index": 89
+  },
+  {
+    "key": "DP_0600_0090",
+    "original": "ずかんの ならびを してい します。",
+    "translation": "ずかんの ならびを してい します。",
+    "index": 90
+  },
+  {
+    "key": "DP_0600_0091",
+    "original": "じょうけんに あう ポケモンを\nさがします。",
+    "translation": "じょうけんに あう ポケモンを\nさがします。",
+    "index": 91
+  },
+  {
+    "key": "DP_0600_0092",
+    "original": "けんさくを ちゅうし します。",
+    "translation": "けんさくを ちゅうし します。",
+    "index": 92
+  },
+  {
+    "key": "DP_0600_0093",
+    "original": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
+    "translation": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
+    "index": 93
+  },
+  {
+    "key": "DP_0600_0094",
+    "original": "けんさくちゅう",
+    "translation": "けんさくちゅう",
+    "index": 94
+  },
+  {
+    "key": "DP_0600_0095",
+    "original": "１．４５",
+    "translation": "１．４５",
+    "index": 95
+  },
+  {
+    "key": "DP_0600_0096",
+    "original": "１．４０",
+    "translation": "１．４０",
+    "index": 96
+  },
+  {
+    "key": "DP_0600_0097",
+    "original": "３８．０",
+    "translation": "３８．０",
+    "index": 97
+  },
+  {
+    "key": "DP_0600_0098",
+    "original": "３４．０",
+    "translation": "３４．０",
+    "index": 98
+  },
+  {
+    "key": "DP_0600_0099",
+    "original": "ーーーーー",
+    "translation": "ーーーーー",
+    "index": 99
+  },
+  {
+    "key": "DP_0600_0100",
+    "original": "べつのすがたをみる",
+    "translation": "べつのすがたをみる",
+    "index": 100
+  },
+  {
+    "key": "DP_0600_0101",
+    "original": "せつめい",
+    "translation": "せつめい",
+    "index": 101
+  },
+  {
+    "key": "DP_0600_0102",
+    "original": "ぶんぷ",
+    "translation": "ぶんぷ",
+    "index": 102
+  },
+  {
+    "key": "DP_0600_0103",
+    "original": "なきごえ",
+    "translation": "なきごえ",
+    "index": 103
+  },
+  {
+    "key": "DP_0600_0104",
+    "original": "おおきさ",
+    "translation": "おおきさ",
+    "index": 104
+  },
+  {
+    "key": "DP_0600_0105",
+    "original": "すがた",
+    "translation": "すがた",
+    "index": 105
+  },
+  {
+    "key": "DP_0600_0106",
+    "original": "おわる",
+    "translation": "おわる",
+    "index": 106
+  },
+  {
+    "key": "DP_0600_0107",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 107
+  },
+  {
+    "key": "DP_0600_0108",
+    "original": "みつかったかず",
+    "translation": "みつかったかず",
+    "index": 108
+  },
+  {
+    "key": "DP_0600_0109",
+    "original": "ポケモンずかんの とうろく かんりょう！",
+    "translation": "ポケモンずかんの とうろく かんりょう！",
+    "index": 109
+  },
+  {
+    "key": "DP_0600_0110",
+    "original": "ノーマル",
+    "translation": "ノーマル",
+    "index": 110
+  },
+  {
+    "key": "DP_0600_0111",
+    "original": "アタック",
+    "translation": "アタック",
+    "index": 111
+  },
+  {
+    "key": "DP_0600_0112",
+    "original": "ディフェンス",
+    "translation": "ディフェンス",
+    "index": 112
+  },
+  {
+    "key": "DP_0600_0113",
+    "original": "スピード",
+    "translation": "スピード",
+    "index": 113
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DP_0042_0000",
+    "original": "ねむり",
+    "translation": "睡眠",
+    "index": 0
+  },
+  {
+    "key": "DP_0042_0001",
+    "original": "どく",
+    "translation": "中毒",
+    "index": 1
+  },
+  {
+    "key": "DP_0042_0002",
+    "original": "やけど",
+    "translation": "灼伤",
+    "index": 2
+  },
+  {
+    "key": "DP_0042_0003",
+    "original": "まひ",
+    "translation": "麻痹",
+    "index": 3
+  },
+  {
+    "key": "DP_0042_0004",
+    "original": "こおり",
+    "translation": "冰冻",
+    "index": 4
+  },
+  {
+    "key": "DP_0042_0005",
+    "original": "こんらん",
+    "translation": "混乱",
+    "index": 5
+  },
+  {
+    "key": "DP_0042_0006",
+    "original": "メロメロ",
+    "translation": "着迷",
+    "index": 6
+  }
+]

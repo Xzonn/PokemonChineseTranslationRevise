@@ -1,0 +1,62 @@
+[
+  {
+    "key": "DP_0402_0000",
+    "original": "つうしんサーチャー",
+    "translation": "つうしんサーチャー",
+    "index": 0
+  },
+  {
+    "key": "DP_0402_0001",
+    "original": "つうしん しているひとを\nさがしています\nそのまま おまちください",
+    "translation": "つうしん しているひとを\nさがしています\nそのまま おまちください",
+    "index": 1
+  },
+  {
+    "key": "DP_0402_0002",
+    "original": "エラー！",
+    "translation": "エラー！",
+    "index": 2
+  },
+  {
+    "key": "DP_0402_0003",
+    "original": "ここでは サーチできません！",
+    "translation": "ここでは サーチできません！",
+    "index": 3
+  },
+  {
+    "key": "DP_0402_0004",
+    "original": "サーチちゅうは\nうごかないで ください！",
+    "translation": "サーチちゅうは\nうごかないで ください！",
+    "index": 4
+  },
+  {
+    "key": "DP_0402_0005",
+    "original": "つうしん じょうきょう",
+    "translation": "つうしん じょうきょう",
+    "index": 5
+  },
+  {
+    "key": "DP_0402_0006",
+    "original": "ユニオンルーム",
+    "translation": "ユニオンルーム",
+    "index": 6
+  },
+  {
+    "key": "DP_0402_0007",
+    "original": "ちかつうろ",
+    "translation": "ちかつうろ",
+    "index": 7
+  },
+  {
+    "key": "DP_0402_0008",
+    "original": "コロシアム",
+    "translation": "コロシアム",
+    "index": 8
+  },
+  {
+    "key": "DP_0402_0009",
+    "original": "そのほかの つうしん",
+    "translation": "そのほかの つうしん",
+    "index": 9
+  }
+]

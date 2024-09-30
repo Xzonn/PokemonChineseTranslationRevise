@@ -1,0 +1,758 @@
+[
+  {
+    "key": "PT_0427_0000",
+    "original": "ーーーー",
+    "translation": "ーーーー",
+    "index": 0
+  },
+  {
+    "key": "PT_0427_0001",
+    "original": "フタバタウン",
+    "translation": "双叶镇",
+    "index": 1
+  },
+  {
+    "key": "PT_0427_0002",
+    "original": "マサゴタウン",
+    "translation": "真砂镇",
+    "index": 2
+  },
+  {
+    "key": "PT_0427_0003",
+    "original": "ソノオタウン",
+    "translation": "花苑镇",
+    "index": 3
+  },
+  {
+    "key": "PT_0427_0004",
+    "original": "ズイタウン",
+    "translation": "随意镇",
+    "index": 4
+  },
+  {
+    "key": "PT_0427_0005",
+    "original": "カンナギタウン",
+    "translation": "神和镇",
+    "index": 5
+  },
+  {
+    "key": "PT_0427_0006",
+    "original": "コトブキシティ",
+    "translation": "祝庆市",
+    "index": 6
+  },
+  {
+    "key": "PT_0427_0007",
+    "original": "ミオシティ",
+    "translation": "水脉市",
+    "index": 7
+  },
+  {
+    "key": "PT_0427_0008",
+    "original": "クロガネシティ",
+    "translation": "黑金市",
+    "index": 8
+  },
+  {
+    "key": "PT_0427_0009",
+    "original": "ハクタイシティ",
+    "translation": "百代市",
+    "index": 9
+  },
+  {
+    "key": "PT_0427_0010",
+    "original": "ヨスガシティ",
+    "translation": "家缘市",
+    "index": 10
+  },
+  {
+    "key": "PT_0427_0011",
+    "original": "ノモセシティ",
+    "translation": "野原市",
+    "index": 11
+  },
+  {
+    "key": "PT_0427_0012",
+    "original": "トバリシティ",
+    "translation": "帷幕市",
+    "index": 12
+  },
+  {
+    "key": "PT_0427_0013",
+    "original": "ナギサシティ",
+    "translation": "滨海市",
+    "index": 13
+  },
+  {
+    "key": "PT_0427_0014",
+    "original": "キッサキシティ",
+    "translation": "雪峰市",
+    "index": 14
+  },
+  {
+    "key": "PT_0427_0015",
+    "original": "ポケモンリーグ",
+    "translation": "宝可梦联盟",
+    "index": 15
+  },
+  {
+    "key": "PT_0427_0016",
+    "original": "２０１ばんどうろ",
+    "translation": "２０１号道路",
+    "index": 16
+  },
+  {
+    "key": "PT_0427_0017",
+    "original": "２０２ばんどうろ",
+    "translation": "２０２号道路",
+    "index": 17
+  },
+  {
+    "key": "PT_0427_0018",
+    "original": "２０３ばんどうろ",
+    "translation": "２０３号道路",
+    "index": 18
+  },
+  {
+    "key": "PT_0427_0019",
+    "original": "２０４ばんどうろ",
+    "translation": "２０４号道路",
+    "index": 19
+  },
+  {
+    "key": "PT_0427_0020",
+    "original": "２０５ばんどうろ",
+    "translation": "２０５号道路",
+    "index": 20
+  },
+  {
+    "key": "PT_0427_0021",
+    "original": "２０６ばんどうろ",
+    "translation": "２０６号道路",
+    "index": 21
+  },
+  {
+    "key": "PT_0427_0022",
+    "original": "２０７ばんどうろ",
+    "translation": "２０７号道路",
+    "index": 22
+  },
+  {
+    "key": "PT_0427_0023",
+    "original": "２０８ばんどうろ",
+    "translation": "２０８号道路",
+    "index": 23
+  },
+  {
+    "key": "PT_0427_0024",
+    "original": "２０９ばんどうろ",
+    "translation": "２０９号道路",
+    "index": 24
+  },
+  {
+    "key": "PT_0427_0025",
+    "original": "２１０ばんどうろ",
+    "translation": "２１０号道路",
+    "index": 25
+  },
+  {
+    "key": "PT_0427_0026",
+    "original": "２１１ばんどうろ",
+    "translation": "２１１号道路",
+    "index": 26
+  },
+  {
+    "key": "PT_0427_0027",
+    "original": "２１２ばんどうろ",
+    "translation": "２１２号道路",
+    "index": 27
+  },
+  {
+    "key": "PT_0427_0028",
+    "original": "２１３ばんどうろ",
+    "translation": "２１３号道路",
+    "index": 28
+  },
+  {
+    "key": "PT_0427_0029",
+    "original": "２１４ばんどうろ",
+    "translation": "２１４号道路",
+    "index": 29
+  },
+  {
+    "key": "PT_0427_0030",
+    "original": "２１５ばんどうろ",
+    "translation": "２１５号道路",
+    "index": 30
+  },
+  {
+    "key": "PT_0427_0031",
+    "original": "２１６ばんどうろ",
+    "translation": "２１６号道路",
+    "index": 31
+  },
+  {
+    "key": "PT_0427_0032",
+    "original": "２１７ばんどうろ",
+    "translation": "２１７号道路",
+    "index": 32
+  },
+  {
+    "key": "PT_0427_0033",
+    "original": "２１８ばんどうろ",
+    "translation": "２１８号道路",
+    "index": 33
+  },
+  {
+    "key": "PT_0427_0034",
+    "original": "２１９ばんどうろ",
+    "translation": "２１９号道路",
+    "index": 34
+  },
+  {
+    "key": "PT_0427_0035",
+    "original": "２２０ばんすいどう",
+    "translation": "２２０号水路",
+    "index": 35
+  },
+  {
+    "key": "PT_0427_0036",
+    "original": "２２１ばんどうろ",
+    "translation": "２２１号道路",
+    "index": 36
+  },
+  {
+    "key": "PT_0427_0037",
+    "original": "２２２ばんどうろ",
+    "translation": "２２２号道路",
+    "index": 37
+  },
+  {
+    "key": "PT_0427_0038",
+    "original": "２２３ばんすいどう",
+    "translation": "２２３号水路",
+    "index": 38
+  },
+  {
+    "key": "PT_0427_0039",
+    "original": "２２４ばんどうろ",
+    "translation": "２２４号道路",
+    "index": 39
+  },
+  {
+    "key": "PT_0427_0040",
+    "original": "２２５ばんどうろ",
+    "translation": "２２５号道路",
+    "index": 40
+  },
+  {
+    "key": "PT_0427_0041",
+    "original": "２２６ばんすいどう",
+    "translation": "２２６号水路",
+    "index": 41
+  },
+  {
+    "key": "PT_0427_0042",
+    "original": "２２７ばんどうろ",
+    "translation": "２２７号道路",
+    "index": 42
+  },
+  {
+    "key": "PT_0427_0043",
+    "original": "２２８ばんどうろ",
+    "translation": "２２８号道路",
+    "index": 43
+  },
+  {
+    "key": "PT_0427_0044",
+    "original": "２２９ばんどうろ",
+    "translation": "２２９号道路",
+    "index": 44
+  },
+  {
+    "key": "PT_0427_0045",
+    "original": "２３０ばんすいどう",
+    "translation": "２３０号水路",
+    "index": 45
+  },
+  {
+    "key": "PT_0427_0046",
+    "original": "クロガネたんこう",
+    "translation": "黑金炭坑",
+    "index": 46
+  },
+  {
+    "key": "PT_0427_0047",
+    "original": "たにまのはつでんしょ",
+    "translation": "山谷发电厂",
+    "index": 47
+  },
+  {
+    "key": "PT_0427_0048",
+    "original": "ハクタイのもり",
+    "translation": "百代森林",
+    "index": 48
+  },
+  {
+    "key": "PT_0427_0049",
+    "original": "タタラせいてつじょ",
+    "translation": "多多罗钢铁厂",
+    "index": 49
+  },
+  {
+    "key": "PT_0427_0050",
+    "original": "テンガンざん",
+    "translation": "天冠山",
+    "index": 50
+  },
+  {
+    "key": "PT_0427_0051",
+    "original": "やりのはしら",
+    "translation": "枪之柱",
+    "index": 51
+  },
+  {
+    "key": "PT_0427_0052",
+    "original": "だいしつげん",
+    "translation": "大湿地",
+    "index": 52
+  },
+  {
+    "key": "PT_0427_0053",
+    "original": "ズイのいせき",
+    "translation": "随意遗迹",
+    "index": 53
+  },
+  {
+    "key": "PT_0427_0054",
+    "original": "チャンピオンロード",
+    "translation": "冠军之路",
+    "index": 54
+  },
+  {
+    "key": "PT_0427_0055",
+    "original": "パルパーク",
+    "translation": "伙伴公园",
+    "index": 55
+  },
+  {
+    "key": "PT_0427_0056",
+    "original": "ふれあいひろば",
+    "translation": "互动广场",
+    "index": 56
+  },
+  {
+    "key": "PT_0427_0057",
+    "original": "あれたぬけみち",
+    "translation": "荒芜小道",
+    "index": 57
+  },
+  {
+    "key": "PT_0427_0058",
+    "original": "ソノオのはなばたけ",
+    "translation": "花苑花田",
+    "index": 58
+  },
+  {
+    "key": "PT_0427_0059",
+    "original": "クロガネゲート",
+    "translation": "黑金闸口",
+    "index": 59
+  },
+  {
+    "key": "PT_0427_0060",
+    "original": "まんげつじま",
+    "translation": "满月岛",
+    "index": 60
+  },
+  {
+    "key": "PT_0427_0061",
+    "original": "おくりのいずみ",
+    "translation": "送行之泉",
+    "index": 61
+  },
+  {
+    "key": "PT_0427_0062",
+    "original": "もどりのどうくつ",
+    "translation": "归途洞窟",
+    "index": 62
+  },
+  {
+    "key": "PT_0427_0063",
+    "original": "はなのらくえん",
+    "translation": "花之乐园",
+    "index": 63
+  },
+  {
+    "key": "PT_0427_0064",
+    "original": "キッサキしんでん",
+    "translation": "雪峰神殿",
+    "index": 64
+  },
+  {
+    "key": "PT_0427_0065",
+    "original": "まよいのどうくつ",
+    "translation": "迷幻洞窟",
+    "index": 65
+  },
+  {
+    "key": "PT_0427_0066",
+    "original": "いせきマニアのあな",
+    "translation": "遗迹迷洞穴",
+    "index": 66
+  },
+  {
+    "key": "PT_0427_0067",
+    "original": "マニアトンネル",
+    "translation": "遗迹迷隧道",
+    "index": 67
+  },
+  {
+    "key": "PT_0427_0068",
+    "original": "じまんのうらにわ",
+    "translation": "自豪的后院",
+    "index": 68
+  },
+  {
+    "key": "PT_0427_0069",
+    "original": "こうてつじま",
+    "translation": "钢铁岛",
+    "index": 69
+  },
+  {
+    "key": "PT_0427_0070",
+    "original": "もりのようかん",
+    "translation": "森之洋馆",
+    "index": 70
+  },
+  {
+    "key": "PT_0427_0071",
+    "original": "ギンガだんアジト",
+    "translation": "银河队基地",
+    "index": 71
+  },
+  {
+    "key": "PT_0427_0072",
+    "original": "シンジこのほとり",
+    "translation": "心齐湖畔",
+    "index": 72
+  },
+  {
+    "key": "PT_0427_0073",
+    "original": "リッシこのほとり",
+    "translation": "立志湖畔",
+    "index": 73
+  },
+  {
+    "key": "PT_0427_0074",
+    "original": "エイチこのほとり",
+    "translation": "睿智湖畔",
+    "index": 74
+  },
+  {
+    "key": "PT_0427_0075",
+    "original": "かくれいずみへのみち",
+    "translation": "隐泉之路",
+    "index": 75
+  },
+  {
+    "key": "PT_0427_0076",
+    "original": "シンジこ",
+    "translation": "心齐湖",
+    "index": 76
+  },
+  {
+    "key": "PT_0427_0077",
+    "original": "リッシこ",
+    "translation": "立志湖",
+    "index": 77
+  },
+  {
+    "key": "PT_0427_0078",
+    "original": "エイチこ",
+    "translation": "睿智湖",
+    "index": 78
+  },
+  {
+    "key": "PT_0427_0079",
+    "original": "しんげつじま",
+    "translation": "新月岛",
+    "index": 79
+  },
+  {
+    "key": "PT_0427_0080",
+    "original": "バトルタワー",
+    "translation": "对战塔",
+    "index": 80
+  },
+  {
+    "key": "PT_0427_0081",
+    "original": "ファイトエリア",
+    "translation": "战斗区",
+    "index": 81
+  },
+  {
+    "key": "PT_0427_0082",
+    "original": "サバイバルエリア",
+    "translation": "生存区",
+    "index": 82
+  },
+  {
+    "key": "PT_0427_0083",
+    "original": "リゾートエリア",
+    "translation": "名胜区",
+    "index": 83
+  },
+  {
+    "key": "PT_0427_0084",
+    "original": "ハードマウンテン",
+    "translation": "严酷山",
+    "index": 84
+  },
+  {
+    "key": "PT_0427_0085",
+    "original": "うみわれのみち",
+    "translation": "破海之路",
+    "index": 85
+  },
+  {
+    "key": "PT_0427_0086",
+    "original": "はじまりのま",
+    "translation": "起始之殿",
+    "index": 86
+  },
+  {
+    "key": "PT_0427_0087",
+    "original": "シンジこのくうどう",
+    "translation": "心齐湖洞窟",
+    "index": 87
+  },
+  {
+    "key": "PT_0427_0088",
+    "original": "リッシこのくうどう",
+    "translation": "立志湖洞窟",
+    "index": 88
+  },
+  {
+    "key": "PT_0427_0089",
+    "original": "エイチこのくうどう",
+    "translation": "睿智湖洞窟",
+    "index": 89
+  },
+  {
+    "key": "PT_0427_0090",
+    "original": "テレビ コトブキ",
+    "translation": "祝庆电视台",
+    "index": 90
+  },
+  {
+    "key": "PT_0427_0091",
+    "original": "ポケッチカンパニー",
+    "translation": "宝可表公司",
+    "index": 91
+  },
+  {
+    "key": "PT_0427_0092",
+    "original": "ＧＴＳ",
+    "translation": "ＧＴＳ",
+    "index": 92
+  },
+  {
+    "key": "PT_0427_0093",
+    "original": "トレーナーズスクール",
+    "translation": "训练家学校",
+    "index": 93
+  },
+  {
+    "key": "PT_0427_0094",
+    "original": "たんこうはくぶつかん",
+    "translation": "炭坑博物馆",
+    "index": 94
+  },
+  {
+    "key": "PT_0427_0095",
+    "original": "フラワー ショップ",
+    "translation": "花店",
+    "index": 95
+  },
+  {
+    "key": "PT_0427_0096",
+    "original": "サイクル ショップ",
+    "translation": "自行车店",
+    "index": 96
+  },
+  {
+    "key": "PT_0427_0097",
+    "original": "コンテストかいじょう",
+    "translation": "华丽大赛会场",
+    "index": 97
+  },
+  {
+    "key": "PT_0427_0098",
+    "original": "ポフィンハウス",
+    "translation": "宝芬料理厨房",
+    "index": 98
+  },
+  {
+    "key": "PT_0427_0099",
+    "original": "いぶんかのたてもの",
+    "translation": "异文化建筑",
+    "index": 99
+  },
+  {
+    "key": "PT_0427_0100",
+    "original": "ポケモンそだてや",
+    "translation": "培育屋",
+    "index": 100
+  },
+  {
+    "key": "PT_0427_0101",
+    "original": "トバリデパート",
+    "translation": "帷幕百货",
+    "index": 101
+  },
+  {
+    "key": "PT_0427_0102",
+    "original": "ゲームコーナー",
+    "translation": "游戏城",
+    "index": 102
+  },
+  {
+    "key": "PT_0427_0103",
+    "original": "ミオ としょかん",
+    "translation": "水脉图书馆",
+    "index": 103
+  },
+  {
+    "key": "PT_0427_0104",
+    "original": "シルベの とうだい",
+    "translation": "导航灯塔",
+    "index": 104
+  },
+  {
+    "key": "PT_0427_0105",
+    "original": "ナギサ いちば",
+    "translation": "滨海市场",
+    "index": 105
+  },
+  {
+    "key": "PT_0427_0106",
+    "original": "ポケモンやしき",
+    "translation": "宝可梦屋",
+    "index": 106
+  },
+  {
+    "key": "PT_0427_0107",
+    "original": "あしあとはかせのいえ",
+    "translation": "足迹博士的家",
+    "index": 107
+  },
+  {
+    "key": "PT_0427_0108",
+    "original": "きっさてん",
+    "translation": "咖啡厅",
+    "index": 108
+  },
+  {
+    "key": "PT_0427_0109",
+    "original": "グランドレイク",
+    "translation": "湖畔",
+    "index": 109
+  },
+  {
+    "key": "PT_0427_0110",
+    "original": "レストラン",
+    "translation": "餐厅",
+    "index": 110
+  },
+  {
+    "key": "PT_0427_0111",
+    "original": "バトルパーク",
+    "translation": "对战公园",
+    "index": 111
+  },
+  {
+    "key": "PT_0427_0112",
+    "original": "バトルフロンティア",
+    "translation": "对战开拓区",
+    "index": 112
+  },
+  {
+    "key": "PT_0427_0113",
+    "original": "バトルファクトリー",
+    "translation": "对战工厂",
+    "index": 113
+  },
+  {
+    "key": "PT_0427_0114",
+    "original": "バトルキャッスル",
+    "translation": "对战城堡",
+    "index": 114
+  },
+  {
+    "key": "PT_0427_0115",
+    "original": "バトルルーレット",
+    "translation": "对战轮盘",
+    "index": 115
+  },
+  {
+    "key": "PT_0427_0116",
+    "original": "バトルステージ",
+    "translation": "对战舞台",
+    "index": 116
+  },
+  {
+    "key": "PT_0427_0117",
+    "original": "やぶれたせかい",
+    "translation": "毁坏的世界",
+    "index": 117
+  },
+  {
+    "key": "PT_0427_0118",
+    "original": "グローバルターミナル",
+    "translation": "全球终端",
+    "index": 118
+  },
+  {
+    "key": "PT_0427_0119",
+    "original": "べっそう",
+    "translation": "别墅",
+    "index": 119
+  },
+  {
+    "key": "PT_0427_0120",
+    "original": "しょうぶどころ",
+    "translation": "对决场",
+    "index": 120
+  },
+  {
+    "key": "PT_0427_0121",
+    "original": "ロトムの へや",
+    "translation": "洛托姆房间",
+    "index": 121
+  },
+  {
+    "key": "PT_0427_0122",
+    "original": "ギンガハクタイビル",
+    "translation": "银河百代大楼",
+    "index": 122
+  },
+  {
+    "key": "PT_0427_0123",
+    "original": "くろがねのいせき",
+    "translation": "黑金遗迹",
+    "index": 123
+  },
+  {
+    "key": "PT_0427_0124",
+    "original": "ひょうざんのいせき",
+    "translation": "冰山遗迹",
+    "index": 124
+  },
+  {
+    "key": "PT_0427_0125",
+    "original": "いわやまのいせき",
+    "translation": "岩山遗迹",
+    "index": 125
+  }
+]

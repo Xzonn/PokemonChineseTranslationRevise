@@ -1,0 +1,566 @@
+[
+  {
+    "key": "HGSS_0023_0000",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0023_0001",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0023_0002",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0023_0003",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0023_0004",
+    "original": "とくせい",
+    "translation": "特性",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0023_0005",
+    "original": "[010B,0000]",
+    "translation": "[010B,0000]",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0023_0006",
+    "original": "ボックス１",
+    "translation": "盒子１",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0023_0007",
+    "original": "ボックス２",
+    "translation": "盒子２",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0023_0008",
+    "original": "ボックス３",
+    "translation": "盒子３",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0023_0009",
+    "original": "ボックス４",
+    "translation": "盒子４",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0023_0010",
+    "original": "ボックス５",
+    "translation": "盒子５",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0023_0011",
+    "original": "ボックス６",
+    "translation": "盒子６",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0023_0012",
+    "original": "ボックス７",
+    "translation": "盒子７",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0023_0013",
+    "original": "ボックス８",
+    "translation": "盒子８",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0023_0014",
+    "original": "ボックス９",
+    "translation": "盒子９",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0023_0015",
+    "original": "ボックス１０",
+    "translation": "盒子１０",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0023_0016",
+    "original": "ボックス１１",
+    "translation": "盒子１１",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0023_0017",
+    "original": "ボックス１２",
+    "translation": "盒子１２",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0023_0018",
+    "original": "ボックス１３",
+    "translation": "盒子１３",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0023_0019",
+    "original": "ボックス１４",
+    "translation": "盒子１４",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0023_0020",
+    "original": "ボックス１５",
+    "translation": "盒子１５",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0023_0021",
+    "original": "ボックス１６",
+    "translation": "盒子１６",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0023_0022",
+    "original": "ボックス１７",
+    "translation": "盒子１７",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0023_0023",
+    "original": "ボックス１８",
+    "translation": "盒子１８",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0023_0024",
+    "original": "[0133,0000]／[0133,0001]",
+    "translation": "[0133,0000]／[0133,0001]",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0023_0025",
+    "original": "ジャンプ",
+    "translation": "跳跃",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0023_0026",
+    "original": "かべがみ",
+    "translation": "壁纸",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0023_0027",
+    "original": "なまえ",
+    "translation": "名字",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0023_0028",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0023_0029",
+    "original": "ふうけい１",
+    "translation": "风景１",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0023_0030",
+    "original": "ふうけい２",
+    "translation": "风景２",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0023_0031",
+    "original": "ふうけい３",
+    "translation": "风景３",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0023_0032",
+    "original": "エトセトラ",
+    "translation": "其他",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0023_0033",
+    "original": "だいすき１",
+    "translation": "发烧友１",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0023_0034",
+    "original": "だいすき２",
+    "translation": "发烧友２",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0023_0035",
+    "original": "もり",
+    "translation": "森林",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0023_0036",
+    "original": "シティ",
+    "translation": "城市",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0023_0037",
+    "original": "さばく",
+    "translation": "沙漠",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0023_0038",
+    "original": "サバンナ",
+    "translation": "热带草原",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0023_0039",
+    "original": "いわやま",
+    "translation": "岩山",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0023_0040",
+    "original": "かざん",
+    "translation": "火山",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0023_0041",
+    "original": "ゆきやま",
+    "translation": "雪山",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0023_0042",
+    "original": "どうくつ",
+    "translation": "洞窟",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0023_0043",
+    "original": "うみべ",
+    "translation": "海边",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0023_0044",
+    "original": "かいてい",
+    "translation": "海底",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0023_0045",
+    "original": "かわ",
+    "translation": "河川",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0023_0046",
+    "original": "そら",
+    "translation": "天空",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0023_0047",
+    "original": "ポケセン",
+    "translation": "宝可梦中心",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0023_0048",
+    "original": "きんぞく",
+    "translation": "金属",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0023_0049",
+    "original": "チェック",
+    "translation": "格子",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0023_0050",
+    "original": "シンプル",
+    "translation": "简洁",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0023_0051",
+    "original": "こころ",
+    "translation": "心",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0023_0052",
+    "original": "たましい",
+    "translation": "灵魂",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0023_0053",
+    "original": "おにいさん",
+    "translation": "哥哥",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0023_0054",
+    "original": "ポケスロン",
+    "translation": "宝可全能竞技赛",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0023_0055",
+    "original": "さんびき",
+    "translation": "最初的三只",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0023_0056",
+    "original": "ギザぴか",
+    "translation": "刺刺耳皮丘",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0023_0057",
+    "original": "まいこはん",
+    "translation": "和服女孩",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0023_0058",
+    "original": "ふっかつ",
+    "translation": "复活",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0023_0059",
+    "original": "ー",
+    "translation": "ー",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0023_0060",
+    "original": "てもちポケモン",
+    "translation": "携带的宝可梦",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0023_0061",
+    "original": "ポケモンいどう",
+    "translation": "宝可梦移动",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0023_0062",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0023_0063",
+    "original": "ボックスをきりかえる",
+    "translation": "切换盒子",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0023_0064",
+    "original": "もちものせいり",
+    "translation": "持有物整理",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0023_0065",
+    "original": "ようすをみる",
+    "translation": "查看信息",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0023_0066",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0023_0067",
+    "original": "マーキング",
+    "translation": "标记",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0023_0068",
+    "original": "にがす",
+    "translation": "放生",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0023_0069",
+    "original": "つれていく",
+    "translation": "带走",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0023_0070",
+    "original": "あずける",
+    "translation": "寄放",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0023_0071",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0023_0072",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0023_0073",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0023_0074",
+    "original": "いれかえ",
+    "translation": "替换",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0023_0075",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0023_0076",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0023_0077",
+    "original": "ボックスを\nきりかえる",
+    "translation": "切换盒子",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0023_0078",
+    "original": "かべがみを\nはりかえる",
+    "translation": "更换壁纸",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0023_0079",
+    "original": "ポケモンを\nあずける",
+    "translation": "存放宝可梦",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0023_0080",
+    "original": "バッグへ",
+    "translation": "放回包包",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0023_0081",
+    "original": "もたせる",
+    "translation": "携带",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0023_0082",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0023_0083",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0023_0084",
+    "original": "[0105,0000]",
+    "translation": "[0105,0000]",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0023_0085",
+    "original": "[0107,0000]",
+    "translation": "[0107,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0023_0086",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0023_0087",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0023_0088",
+    "original": "とくせい",
+    "translation": "特性",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0023_0089",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0023_0090",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0023_0091",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0023_0092",
+    "original": "なし",
+    "translation": "无",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0023_0093",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 93
+  }
+]

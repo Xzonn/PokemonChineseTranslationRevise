@@ -1,0 +1,302 @@
+[
+  {
+    "key": "HGSS_0428_0000",
+    "original": "ようこそ！\nおかいもの ですね？[0200,0000]",
+    "translation": "欢迎光临！\n请问您有什么需要？[0200,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0428_0001",
+    "original": "また どうぞ！",
+    "translation": "欢迎再次光临！",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0428_0002",
+    "original": "そうかいな\nほな また こんどな",
+    "translation": "是吗，\n那么下次再见。",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0428_0003",
+    "original": "また かいに きてね",
+    "translation": "下次再来吧。",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0428_0004",
+    "original": "そうかのう\nまた よって くれや\\r\nひゅ ひゅー",
+    "translation": "是吗？\n那下次再来吧，\\r\n嘻嘻嘻。",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0428_0005",
+    "original": "また たちよっとくれ\nよるは みせじまい しとるがのう",
+    "translation": "下次再来吧，\n不过我晚上会关店。",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0428_0006",
+    "original": "その ほかに わたしどもで\nなにか おちからに なれることは？[0200,0000]",
+    "translation": "其他还有什么\n可以帮到您的吗？[0200,0000]",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0428_0007",
+    "original": "ほかに なにが ひつようなんや？[0200,0000]",
+    "translation": "还有什么想要的吗？[0200,0000]",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0428_0008",
+    "original": "ほかに ひつようなものは\nあるのかね？[0200,0000]",
+    "translation": "还有其他\n想要的东西吗？[0200,0000]",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0428_0009",
+    "original": "ほかに なにか ひつようかね？\nひゅ ひゅー[0200,0000]",
+    "translation": "还有别的想要的吗？\n嘻嘻嘻。[0200,0000]",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0428_0010",
+    "original": "ほかに ほしいものは あるかい？[0200,0000]",
+    "translation": "还有别的想要的吗？[0200,0000]",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0428_0011",
+    "original": "おかねが たりないですよ！",
+    "translation": "您的钱不够呢！",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0428_0012",
+    "original": "[0108,0000]を\nいくつ かいますか？",
+    "translation": "要买多少个\n[0108,0000]？",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0428_0013",
+    "original": "[0108,0000] ですね\n[0133,0001]コで [0137,0002]¥に なりますが？",
+    "translation": "[0108,0000]是吗，\n[0133,0001]个需要$[0137,0002]可以吗？",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0428_0014",
+    "original": "[0133,0000]コで ごうけい\n[0137,0001]¥です",
+    "translation": "[0133,0000]个合计\n$[0137,0001]。",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0428_0015",
+    "original": "はい どうぞ\nまいど ありがとう ございます[0202,0001]\\f\n[0108,0000]を\n[011B,0001]ポケットに しまった",
+    "translation": "好的，给你，\n谢谢惠顾。[0202,0001]\\f\n将[0108,0000]\n放进[011B,0001]口袋了。",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0428_0016",
+    "original": "それ いじょう\nもちきれない ですよ！",
+    "translation": "您已经拿不下了呢！",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0428_0017",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0428_0018",
+    "original": "[0135,0000]¥",
+    "translation": "$[0135,0000]",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0428_0019",
+    "original": "[0135,0000]Ｐ",
+    "translation": "[0135,0000]Ｐ",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0428_0020",
+    "original": "プレミアボール １コ\nおまけ しておきますね！",
+    "translation": "还要多送１个纪念球给您哦！",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0428_0021",
+    "original": "[010A,0000]を\nパソコンに てんそうして おきますね[0202,0001]",
+    "translation": "[010A,0000]已经\n往电脑上传了。[0202,0001]",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0428_0022",
+    "original": "パソコンが いっぱいで\nグッズを いれられません",
+    "translation": "电脑已满，\n无法放入物品。",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0428_0023",
+    "original": "[010A,0000] を\nシールいれに いれました！[0202,0001]",
+    "translation": "将[010A,0000]放进了贴纸盒！[0202,0001]",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0428_0024",
+    "original": "シールいれ が いっぱいで\nシールを いれられません",
+    "translation": "贴纸盒已经满了，\n不能放入贴纸。",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0428_0025",
+    "original": "きょうは もう かえませんよ！",
+    "translation": "今天不能还了！",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0428_0026",
+    "original": "すでに もってますよ！\n",
+    "translation": "您已经有了！\n",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0428_0027",
+    "original": "かいに きた",
+    "translation": "购买",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0428_0028",
+    "original": "うりに きた",
+    "translation": "出售",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0428_0029",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0428_0030",
+    "original": "おこづかい",
+    "translation": "零花钱",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0428_0031",
+    "original": "[0137,0000]¥",
+    "translation": "$[0137,0000]",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0428_0032",
+    "original": "[0137,0000]Ｐ",
+    "translation": "[0137,0000]Ｐ",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0428_0033",
+    "original": "スロンポイント",
+    "translation": "竞技点数",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0428_0034",
+    "original": "もってるかず [0134,0000]コ",
+    "translation": "持有数量　[0134,0000]个",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0428_0035",
+    "original": "もってるかず",
+    "translation": "持有数",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0428_0036",
+    "original": "[0134,0000]コ",
+    "translation": "[0134,0000]个",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0428_0037",
+    "original": "ｘ[0133,0000]",
+    "translation": "ｘ[0133,0000]",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0428_0038",
+    "original": "[0137,0000]¥",
+    "translation": "$[0137,0000]",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0428_0039",
+    "original": "はい",
+    "translation": "是",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0428_0040",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0428_0041",
+    "original": "ごようけんは？",
+    "translation": "要什么事？",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0428_0042",
+    "original": "かう",
+    "translation": "购买",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0428_0043",
+    "original": "[0133,0000]/[0133,0001]",
+    "translation": "[0133,0000]/[0133,0001]",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0428_0044",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0428_0045",
+    "original": "[0132,0001]",
+    "translation": "[0132,0001]",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0428_0046",
+    "original": "[0108,0000]で \nよろしい ですか？",
+    "translation": "要兑换[0108,0000]吗？",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0428_0047",
+    "original": "はい どうぞ\nまいど ありがとう ございます\\f\n[0108,0000]を\nポケットに しまった",
+    "translation": "请拿好。\n谢谢惠顾。\\f\n[0108,0000]\n已经装入口袋了。",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0428_0048",
+    "original": "ポイントが たりないですよ！",
+    "translation": "您的点数不足！",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0428_0049",
+    "original": "はい どうぞ\nまいど ありがとう ございます[0202,0001]",
+    "translation": "好了，\n非常感谢您的惠顾。[0202,0001]",
+    "index": 49
+  }
+]

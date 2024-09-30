@@ -1,0 +1,122 @@
+[
+  {
+    "key": "HGSS_0011_0000",
+    "original": "へんしゅう",
+    "translation": "へんしゅう",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0011_0001",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0011_0002",
+    "original": "セット",
+    "translation": "セット",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0011_0003",
+    "original": "はずす",
+    "translation": "はずす",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0011_0004",
+    "original": "いれかえる",
+    "translation": "いれかえる",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0011_0005",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0011_0006",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0011_0007",
+    "original": "カプセルを えらんで ください",
+    "translation": "カプセルを えらんで ください",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0011_0008",
+    "original": "カプセルを どうする？",
+    "translation": "カプセルを どうする？",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0011_0009",
+    "original": "カプセルを はずした！",
+    "translation": "カプセルを はずした！",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0011_0010",
+    "original": "どの カプセルと いれかえる？",
+    "translation": "どの カプセルと いれかえる？",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0011_0011",
+    "original": "カプセルを いれかえました",
+    "translation": "カプセルを いれかえました",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0011_0012",
+    "original": "へんしゅうを おわった！",
+    "translation": "へんしゅうを おわった！",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0011_0013",
+    "original": "かくにんちゅう・・・",
+    "translation": "かくにんちゅう・・・",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0011_0014",
+    "original": "カプセルの デザインを\nかえないで やめますか？",
+    "translation": "カプセルの デザインを\nかえないで やめますか？",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0011_0015",
+    "original": "これいじょう おけないよ！",
+    "translation": "これいじょう おけないよ！",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0011_0016",
+    "original": "もうシールがないよ！",
+    "translation": "もうシールがないよ！",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0011_0017",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0011_0018",
+    "original": "えらぶ",
+    "translation": "えらぶ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0011_0019",
+    "original": "いれかえる",
+    "translation": "いれかえる",
+    "index": 19
+  }
+]

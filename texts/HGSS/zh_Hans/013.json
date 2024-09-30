@@ -1,0 +1,2000 @@
+[
+  {
+    "key": "HGSS_0013_0000",
+    "original": "バトルビデオ",
+    "translation": "对战视频",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0013_0001",
+    "original": "フロンティアのきろく",
+    "translation": "对战开拓区的记录",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0013_0002",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0013_0003",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0013_0004",
+    "original": "じぶんのきろく",
+    "translation": "自己的记录",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0013_0005",
+    "original": "だれかのきろく",
+    "translation": "他人的记录",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0013_0006",
+    "original": "きろくをけす",
+    "translation": "消除记录",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0013_0007",
+    "original": "[0103,0000] のきろく",
+    "translation": "[0103,0000]的记录",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0013_0008",
+    "original": "あき",
+    "translation": "空缺",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0013_0009",
+    "original": "[0135,0000]",
+    "translation": "[0135,0000]",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0013_0010",
+    "original": "せんめ",
+    "translation": "战目",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0013_0011",
+    "original": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]",
+    "translation": "录像编号：[0133,0000]ー[0136,0001]ー[0136,0002]",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0013_0012",
+    "original": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002] ☆",
+    "translation": "录像编号：[0133,0000]ー[0136,0001]ー[0136,0002] ☆",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0013_0013",
+    "original": "[0103,0000] の プロフィール",
+    "translation": "[0103,0000]的个人简介",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0013_0014",
+    "original": "ねんれい",
+    "translation": "年龄",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0013_0015",
+    "original": "[0133,0000]がつうまれ",
+    "translation": "[0133,0000]月出生",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0013_0016",
+    "original": "すんでいるばしょ",
+    "translation": "居住区域",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0013_0017",
+    "original": "じこしょうかい",
+    "translation": "自我介绍",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0013_0018",
+    "original": "データ",
+    "translation": "数据",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0013_0019",
+    "original": "プロフィール",
+    "translation": "个人简介",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0013_0020",
+    "original": " ",
+    "translation": " ",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0013_0021",
+    "original": "みとうろく",
+    "translation": "未添加",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0013_0022",
+    "original": "[0124,0000]",
+    "translation": "[0124,0000]",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0013_0023",
+    "original": "[0125,0000]",
+    "translation": "[0125,0000]",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0013_0024",
+    "original": "[011C,0000] [011C,0001]",
+    "translation": "[011C,0000][011C,0001]",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0013_0025",
+    "original": "バトルファクトリー\nオープンマルチ",
+    "translation": "对战工厂\n开放等级多人对战",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0013_0026",
+    "original": "ボックス\nをみる",
+    "translation": "查看盒子",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0013_0027",
+    "original": "さいしん２０",
+    "translation": "最新２０位",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0013_0028",
+    "original": "[0103,0000] の だいすきボックス",
+    "translation": "[0103,0000]的最爱盒子。",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0013_0029",
+    "original": "[0103,0000] の かっこいいボックス",
+    "translation": "[0103,0000]的帅气盒子。",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0013_0030",
+    "original": "[0103,0000] の かわいいボックス",
+    "translation": "[0103,0000]的可爱盒子。",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0013_0031",
+    "original": "[0103,0000] の おすすめボックス",
+    "translation": "[0103,0000]的推荐盒子。",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0013_0032",
+    "original": "[0103,0000] の おもしろいボックス",
+    "translation": "[0103,0000]的有趣盒子。",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0013_0033",
+    "original": "[0103,0000] の こだわりボックス",
+    "translation": "[0103,0000]的精选盒子。",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0013_0034",
+    "original": "つぎの\nポケモン",
+    "translation": "下一只宝可梦",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0013_0035",
+    "original": "バトルステージ\nマルチ",
+    "translation": "对战舞台\n多人",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0013_0036",
+    "original": "バトルキャッスル\nマルチ",
+    "translation": "对战城堡\n多人",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0013_0037",
+    "original": "バトルルーレット\nマルチ",
+    "translation": "对战轮盘\n多人",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0013_0038",
+    "original": "つうしんたいせん\nマルチ",
+    "translation": "连接对战\n多人",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0013_0039",
+    "original": "じぶんのきろくをけす",
+    "translation": "删除自己的记录",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0013_0040",
+    "original": "だれかのきろくをけす",
+    "translation": "删除他人的记录",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0013_0041",
+    "original": "あき",
+    "translation": "空缺",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0013_0042",
+    "original": "[0103,0000] のきろくをけす",
+    "translation": "删除[0103,0000]的记录",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0013_0043",
+    "original": "データをみる",
+    "translation": "查看资料",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0013_0044",
+    "original": "データをおくる",
+    "translation": "上传资料",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0013_0045",
+    "original": "さいしん３０こ",
+    "translation": "最新３０个",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0013_0046",
+    "original": "くわしくさがす",
+    "translation": "详细查询",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0013_0047",
+    "original": "ビデオナンバーでさがす",
+    "translation": "按录像编号查询",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0013_0048",
+    "original": "しせつでさがす",
+    "translation": "按设施查询",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0013_0049",
+    "original": "ポケモンでさがす",
+    "translation": "按宝可梦查询",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0013_0050",
+    "original": "おなじちいきでさがす",
+    "translation": "在同一地域里查询",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0013_0051",
+    "original": "しゃしんをおくる",
+    "translation": "上传照片",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0013_0052",
+    "original": "しゃしんをみる",
+    "translation": "查看照片",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0013_0053",
+    "original": "おくる",
+    "translation": "上传",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0013_0054",
+    "original": "みたいポケモンを えらんでください",
+    "translation": "请选择想查看的宝可梦。",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0013_0055",
+    "original": "[0103,0000] の しゃしん\n[011C,0001]",
+    "translation": "[0103,0000]的照片\n[011C,0001]",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0013_0056",
+    "original": "[0103,0000]\n[011C,0001]",
+    "translation": "[0103,0000]\n[011C,0001]",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0013_0057",
+    "original": "しゃしん",
+    "translation": "照片",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0013_0058",
+    "original": "ボックスをおくる",
+    "translation": "上传盒子",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0013_0059",
+    "original": "ボックスをみる",
+    "translation": "查看盒子",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0013_0060",
+    "original": "だいすき",
+    "translation": "最喜欢",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0013_0061",
+    "original": "かっこいい",
+    "translation": "帅气",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0013_0062",
+    "original": "かわいい",
+    "translation": "可爱",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0013_0063",
+    "original": "おすすめ",
+    "translation": "推荐",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0013_0064",
+    "original": "おもしろい",
+    "translation": "有趣",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0013_0065",
+    "original": "こだわり",
+    "translation": "精选",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0013_0066",
+    "original": "ボックス",
+    "translation": "盒子",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0013_0067",
+    "original": "くわしくみる",
+    "translation": "查看详情",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0013_0068",
+    "original": "ア",
+    "translation": "ア",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0013_0069",
+    "original": "カ",
+    "translation": "カ",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0013_0070",
+    "original": "サ",
+    "translation": "サ",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0013_0071",
+    "original": "タ",
+    "translation": "タ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0013_0072",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0013_0073",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0013_0074",
+    "original": "マ",
+    "translation": "マ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0013_0075",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0013_0076",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0013_0077",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0013_0078",
+    "original": "こんしゅうのランキング",
+    "translation": "本周排名",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0013_0079",
+    "original": "せんしゅうのランキング",
+    "translation": "上周排名",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0013_0080",
+    "original": "ランキングきりかえ",
+    "translation": "切换排行榜",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0013_0081",
+    "original": "チームきりかえ",
+    "translation": "切换队伍",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0013_0082",
+    "original": "チーム：トレーナータイプ",
+    "translation": "队伍：训练家类型",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0013_0083",
+    "original": "チーム：うまれたつき",
+    "translation": "队伍：出生月份",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0013_0084",
+    "original": "チーム：すきなポケモン",
+    "translation": "队伍：喜欢的宝可梦",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0013_0085",
+    "original": "[0103,0001]：[010E,0000]",
+    "translation": "[0103,0001]：[010E,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0013_0086",
+    "original": "[0103,0001]：[0133,0000]がつうまれ",
+    "translation": "[0103,0001]：[0133,0000]月出生",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0013_0087",
+    "original": "[0103,0001]：[0100,0000]",
+    "translation": "[0103,0001]：[0100,0000]",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0013_0088",
+    "original": "[0133,0000]：[010E,0001]",
+    "translation": "[0133,0000]：[010E,0001]",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0013_0089",
+    "original": "[0133,0000]：[0133,0001]がつ",
+    "translation": "[0133,0000]：[0133,0001]月",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0013_0090",
+    "original": "[0133,0000]：[0100,0001]",
+    "translation": "[0133,0000]：[0100,0001]",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0013_0091",
+    "original": "せんしゅうの けっか！",
+    "translation": "上周结果！",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0013_0092",
+    "original": "コロシアム",
+    "translation": "圆形剧场",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0013_0093",
+    "original": "バトルフロンティア",
+    "translation": "对战开拓区",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0013_0094",
+    "original": "ほぞん",
+    "translation": "保存",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0013_0095",
+    "original": "バトルビデオを\nみる",
+    "translation": "观看战斗录像。",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0013_0096",
+    "original": "バトルビデオ",
+    "translation": "对战视频",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0013_0097",
+    "original": "バトルビデオ にんきランキング\nコロシアム",
+    "translation": "战斗录像人气排行\n圆形剧场",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0013_0098",
+    "original": "バトルビデオ にんきランキング\nバトルフロンティア",
+    "translation": "战斗录像人气排行\n对战开拓区",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0013_0099",
+    "original": "：",
+    "translation": "：",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0013_0100",
+    "original": "[0103,0000]の きろくを\nどこに ほぞんしますか？",
+    "translation": "[0103,0000]的 记录\n保存在哪里？",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0013_0101",
+    "original": "うわがきほぞん",
+    "translation": "覆盖保存。",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0013_0102",
+    "original": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "translation": "确定要删除[0103,0000]的战斗录像吗？",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0013_0103",
+    "original": "バトルビデオをみる",
+    "translation": "观看战斗录像。",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0013_0104",
+    "original": "バトルビデオをおくる",
+    "translation": "上传战斗录像。",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0013_0105",
+    "original": "さいしん３０けん",
+    "translation": "最新３０件。",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0013_0106",
+    "original": "くわしくさがす",
+    "translation": "详细查询",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0013_0107",
+    "original": "ビデオナンバーでさがす",
+    "translation": "按录像编号查询",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0013_0108",
+    "original": "しせつでさがす",
+    "translation": "按设施查询",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0013_0109",
+    "original": "ポケモンでさがす",
+    "translation": "按宝可梦查询",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0013_0110",
+    "original": "おなじちいきでさがす",
+    "translation": "在同一地域里查询",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0013_0111",
+    "original": "ＯＫ！",
+    "translation": "ＯＫ！",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0013_0112",
+    "original": "ビデオナンバーを にゅうりょくしてください",
+    "translation": "请输入录像编号。",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0013_0113",
+    "original": "しせつを きめてください",
+    "translation": "请决定设施。",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0013_0114",
+    "original": "ポケモンを きめてください",
+    "translation": "请决定宝可梦。",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0013_0115",
+    "original": "じょうけんを いれてください",
+    "translation": "请输入条件。",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0013_0116",
+    "original": "じょうけんが はいっていません！",
+    "translation": "没有输入条件！",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0013_0117",
+    "original": "バトルビデオを さがしています⋯⋯",
+    "translation": "寻找战斗录像中……",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0013_0118",
+    "original": "あてはまる バトルビデオが ありません⋯⋯",
+    "translation": "没有符合条件的战斗录像……",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0013_0119",
+    "original": "バトルビデオを おくっています⋯⋯",
+    "translation": "上传战斗录像中……",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0013_0120",
+    "original": "バトルビデオを おくりました！",
+    "translation": "上传了战斗录像！",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0013_0121",
+    "original": "プロフィールをみる",
+    "translation": "查看介绍资料。",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0013_0122",
+    "original": "プロフィールをしまう",
+    "translation": "关闭介绍资料。",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0013_0123",
+    "original": "バトルビデオ さいしん３０けん",
+    "translation": "最新的３０份战斗录像。",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0013_0124",
+    "original": "じょうけんを いれてください",
+    "translation": "请输入条件。",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0013_0125",
+    "original": "なし",
+    "translation": "无",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0013_0126",
+    "original": "けんさくした バトルビデオ\nいちらん",
+    "translation": "查找到的战斗录像一览。",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0013_0127",
+    "original": "おなじ バトルビデオは\n２かい おくれません",
+    "translation": "同样的战斗录像\n无法上传两次。",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0013_0128",
+    "original": "ちいきを とうろくしていません",
+    "translation": "还没登录地区。",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0013_0129",
+    "original": "おくる バトルビデオが ありません",
+    "translation": "没有能上传的战斗录像。",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0013_0130",
+    "original": "はい",
+    "translation": "是",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0013_0131",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0013_0132",
+    "original": "コロシアム\nシングル せいげんなし",
+    "translation": "圆形剧场\n单人无限制",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0013_0133",
+    "original": "コロシアム\nシングル スタンダードカップ",
+    "translation": "圆形剧场\n单人标准杯",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0013_0134",
+    "original": "コロシアム\nシングル ファンシーカップ",
+    "translation": "圆形剧场\n单人喜爱杯",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0013_0135",
+    "original": "コロシアム\nシングル リトルカップ",
+    "translation": "圆形剧场\n单人小量级杯",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0013_0136",
+    "original": "コロシアム\nシングル ライトカップ",
+    "translation": "圆形剧场\n单人轻量级杯",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0013_0137",
+    "original": "コロシアム\nシングル ダブルカップ",
+    "translation": "圆形剧场\n单人双重杯",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0013_0138",
+    "original": "コロシアム\nシングル そのたのカップ",
+    "translation": "圆形剧场\n单人其他杯",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0013_0139",
+    "original": "コロシアム\nダブル せいげんなし",
+    "translation": "圆形剧场\n双人无限制",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0013_0140",
+    "original": "コロシアム\nダブル スタンダードカップ",
+    "translation": "圆形剧场\n双人标准杯",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0013_0141",
+    "original": "コロシアム\nダブル ファンシーカップ",
+    "translation": "圆形剧场\n双人喜爱杯",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0013_0142",
+    "original": "コロシアム\nダブル リトルカップ",
+    "translation": "圆形剧场\n双人小量级杯",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0013_0143",
+    "original": "コロシアム\nダブル ライトカップ",
+    "translation": "圆形剧场\n双人轻量级杯",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0013_0144",
+    "original": "コロシアム\nダブル ダブルカップ",
+    "translation": "圆形剧场\n双人双重杯",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0013_0145",
+    "original": "コロシアム\nダブル そのたのカップ",
+    "translation": "圆形剧场\n双人其他杯",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0013_0146",
+    "original": "コロシアム\nマルチ",
+    "translation": "圆形剧场\n多人",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0013_0147",
+    "original": "バトルタワー\nシングル",
+    "translation": "对战塔\n单打",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0013_0148",
+    "original": "バトルタワー\nダブル",
+    "translation": "对战塔\n双打",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0013_0149",
+    "original": "バトルタワー\nマルチ",
+    "translation": "对战塔\n多人",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0013_0150",
+    "original": "バトルファクトリー\nレベル５０ シングル",
+    "translation": "对战工厂\n５０级单人",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0013_0151",
+    "original": "バトルファクトリー\nレベル５０ ダブル",
+    "translation": "对战工厂\n５０级双人",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0013_0152",
+    "original": "バトルファクトリー\nレベル５０ マルチ",
+    "translation": "对战工厂\n５０级多人",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0013_0153",
+    "original": "バトルファクトリー\nオープンレベル シングル",
+    "translation": "对战工厂\n无限制单人",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0013_0154",
+    "original": "バトルファクトリー\nオープンレベル ダブル",
+    "translation": "对战工厂\n无限制双人",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0013_0155",
+    "original": "バトルファクトリー\nオープンレベル マルチ",
+    "translation": "对战工厂\n无限制多人",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0013_0156",
+    "original": "バトルステージ\nシングル",
+    "translation": "对战舞台\n单打",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0013_0157",
+    "original": "バトルステージ\nダブル",
+    "translation": "对战舞台\n双打",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0013_0158",
+    "original": "バトルステージ\nマルチ",
+    "translation": "对战舞台\n多人",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0013_0159",
+    "original": "バトルキャッスル\nシングル",
+    "translation": "对战城堡\n单打",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0013_0160",
+    "original": "バトルキャッスル\nダブル",
+    "translation": "对战城堡\n双打",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0013_0161",
+    "original": "バトルキャッスル\nマルチ",
+    "translation": "对战城堡\n多人",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0013_0162",
+    "original": "バトルルーレット\nシングル",
+    "translation": "对战轮盘\n单打",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0013_0163",
+    "original": "バトルルーレット\nダブル",
+    "translation": "对战轮盘\n双打",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0013_0164",
+    "original": "バトルルーレット\nマルチ",
+    "translation": "对战轮盘\n多人",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0013_0165",
+    "original": "コロシアム\nシングル せいげんなし",
+    "translation": "圆形剧场\n单人无限制",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0013_0166",
+    "original": "コロシアム\nシングル カップせん",
+    "translation": "圆形剧场\n单人奖杯战",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0013_0167",
+    "original": "コロシアム\nダブル せいげんなし",
+    "translation": "圆形剧场\n双人无限制",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0013_0168",
+    "original": "コロシアム\nダブル カップせん",
+    "translation": "圆形剧场\n双人奖杯战",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0013_0169",
+    "original": " １：コロシアム\n   シングル せいげんなし",
+    "translation": "　１：圆形剧场\n　　　单人无限制",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0013_0170",
+    "original": " ２：コロシアム\n   シングル カップせん",
+    "translation": "　２：圆形剧场\n　　　单人奖杯战",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0013_0171",
+    "original": " ３：コロシアム\n   ダブル せいげんなし",
+    "translation": "　３：圆形剧场\n　　　双人无限制",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0013_0172",
+    "original": " ４：コロシアム\n   ダブル カップせん",
+    "translation": "　４：圆形剧场\n　　　双人奖杯战",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0013_0173",
+    "original": " ５：コロシアム\n   マルチ",
+    "translation": "　５：圆形剧场\n　　　多人",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0013_0174",
+    "original": " ６：バトルタワー\n   シングル",
+    "translation": "　６：对战塔\n　　　单人",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0013_0175",
+    "original": " ７：バトルタワー\n   ダブル",
+    "translation": "　７：对战塔\n　　　双人",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0013_0176",
+    "original": " ８：バトルタワー\n   マルチ",
+    "translation": "　８：对战塔\n　　　多人",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0013_0177",
+    "original": " ９：バトルファクトリー\n   レベル５０ シングル",
+    "translation": "　９：对战工厂\n　　　５０级单人",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0013_0178",
+    "original": "１０：バトルファクトリー\n   レベル５０ ダブル",
+    "translation": "１０：对战工厂\n　　　５０级双人",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0013_0179",
+    "original": "１１：バトルファクトリー\n   レベル５０ マルチ",
+    "translation": "１１：对战工厂\n　　　５０级多人",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0013_0180",
+    "original": "１２：バトルファクトリー\n   オープンレベル シングル",
+    "translation": "１２：对战工厂\n　　　无限制单人",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0013_0181",
+    "original": "１３：バトルファクトリー\n   オープンレベル ダブル",
+    "translation": "１３：对战工厂\n　　　无限制双人",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0013_0182",
+    "original": "１４：バトルファクトリー\n   オープンレベル マルチ",
+    "translation": "１４：对战工厂\n　　　无限制多人",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0013_0183",
+    "original": "１５：バトルステージ\n   シングル",
+    "translation": "１５：对战舞台\n　　　单人",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0013_0184",
+    "original": "１６：バトルステージ\n   ダブル",
+    "translation": "１６：对战舞台\n　　　双人",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0013_0185",
+    "original": "１７：バトルステージ\n   マルチ",
+    "translation": "１７：对战舞台\n　　　多人",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0013_0186",
+    "original": "１８：バトルキャッスル\n   シングル",
+    "translation": "１８：对战城堡\n　　　单人",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0013_0187",
+    "original": "１９：バトルキャッスル\n   ダブル",
+    "translation": "１９：对战城堡\n　　　双人",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0013_0188",
+    "original": "２０：バトルキャッスル\n   マルチ",
+    "translation": "２０：对战城堡\n　　　多人",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0013_0189",
+    "original": "２１：バトルルーレット\n   シングル",
+    "translation": "２１：对战轮盘\n　　　单人",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0013_0190",
+    "original": "２２：バトルルーレット\n   ダブル",
+    "translation": "２２：对战轮盘\n　　　双人",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0013_0191",
+    "original": "２３：バトルルーレット\n   マルチ",
+    "translation": "２３：对战轮盘\n　　　多人",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0013_0192",
+    "original": "ＴＯＵＣＨ ＨＥＲＥ！",
+    "translation": "ＴＯＵＣＨ ＨＥＲＥ！",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0013_0193",
+    "original": "ＷｉーＦｉコネクション から\nせつだんしても よろしいですか？",
+    "translation": "将会中断ＷｉーＦｉ连接，\n可以吗？",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0013_0194",
+    "original": " ",
+    "translation": "　",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0013_0195",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0013_0196",
+    "original": "すでに とうろくされています",
+    "translation": "已在连接状态。",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0013_0197",
+    "original": "ドレスアップショットの ないように\nもんだいが あるようです",
+    "translation": "似乎是艺术照的\n内容出了问题。",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0013_0198",
+    "original": "プロフィールの ないように\nもんだいが あるようです",
+    "translation": "似乎是介绍资料的\n内容出了问题。",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0013_0199",
+    "original": "エラーがはっせいしました",
+    "translation": "发生了错误。",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0013_0200",
+    "original": " ",
+    "translation": "　",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0013_0201",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0013_0202",
+    "original": "えらんだ ポケモンに\nもんだいが あるようです",
+    "translation": "选择的宝可梦\n似乎有问题。",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0013_0203",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0013_0204",
+    "original": " ",
+    "translation": "　",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0013_0205",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0013_0206",
+    "original": "すでに とうろくされています",
+    "translation": "已在连接状态。",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0013_0207",
+    "original": "ボックスショットの ないように\nもんだいが あるようです",
+    "translation": "似乎是发送邮件的\n内容出了问题。",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0013_0208",
+    "original": "プロフィールの ないように\nもんだいが あるようです",
+    "translation": "似乎是介绍资料的\n内容出了问题。",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0013_0209",
+    "original": "あなたの チームに\nもんだいが あるようです",
+    "translation": "似乎是你的队伍\n出了问题。",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0013_0210",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0013_0211",
+    "original": " ",
+    "translation": "　",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0013_0212",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0013_0213",
+    "original": "あなたの チームに\nもんだいが あるようです",
+    "translation": "似乎是你的队伍\n出了问题。",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0013_0214",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0013_0215",
+    "original": " ",
+    "translation": "　",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0013_0216",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0013_0217",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0013_0218",
+    "original": " ",
+    "translation": "　",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0013_0219",
+    "original": "ユーザーにんしょうエラーが はっせいしました\nさいどじかんを おいて せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0013_0220",
+    "original": "ランキングの うけとりに\nしっぱいしました",
+    "translation": "排行榜的接收失败了。",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0013_0221",
+    "original": "あなたの ランキングの せいせきに\nもんだいが あるようです",
+    "translation": "似乎是你的排行成绩\n出了问题。",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0013_0222",
+    "original": "プロフィールに\nもんだいが あるようです",
+    "translation": "似乎是介绍资料的\n内容出了问题。",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0013_0223",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0013_0224",
+    "original": " ",
+    "translation": "　",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0013_0225",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0013_0226",
+    "original": "すでに とうろくされています",
+    "translation": "已在连接状态。",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0013_0227",
+    "original": "バトルビデオの ないように\nもんだいが あるようです",
+    "translation": "似乎是战斗录像的\n内容出了问题。",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0013_0228",
+    "original": "プロフィールに\nもんだいが あるようです",
+    "translation": "似乎是介绍资料的\n内容出了问题。",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0013_0229",
+    "original": "エラーがはっせいしました",
+    "translation": "发生了错误。",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0013_0230",
+    "original": "あなたの ポケモンに\nもんだいがあり おくれませんでした",
+    "translation": "因为你的宝可梦出现了问题，\n所以无法上传。",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0013_0231",
+    "original": "つうしんあいての ポケモンに\nもんだいがあり おくれませんでした",
+    "translation": "连接对象的宝可梦出现了问题，\n所以无法上传。",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0013_0232",
+    "original": " ",
+    "translation": "　",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0013_0233",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0013_0234",
+    "original": "けんさく ないように\nもんだいが あるようです",
+    "translation": "似乎是查找的\n内容出了问题。",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0013_0235",
+    "original": "エラーがはっせいしました",
+    "translation": "发生了错误。",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0013_0236",
+    "original": " ",
+    "translation": "　",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0013_0237",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "用户鉴定发生错误，\n请稍后再次连接。",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0013_0238",
+    "original": "あてはまる バトルビデオが ありません⋯⋯",
+    "translation": "没有符合条件的战斗录像……",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0013_0239",
+    "original": "エラーが はっせいしました",
+    "translation": "发生了错误。",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0013_0240",
+    "original": " ",
+    "translation": "　",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0013_0241",
+    "original": " ",
+    "translation": "　",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0013_0242",
+    "original": " ",
+    "translation": "　",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0013_0243",
+    "original": " ",
+    "translation": "　",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0013_0244",
+    "original": " ",
+    "translation": "　",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0013_0245",
+    "original": "エラーが はっせいしました\nエラー１０６０１",
+    "translation": "发生了错误\n错误１０６０１",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0013_0246",
+    "original": "エラーが はっせいしました\nエラー１０６０２",
+    "translation": "发生了错误\n错误１０６０２",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0013_0247",
+    "original": "エラーが はっせいしました\nエラー１０６０３",
+    "translation": "发生了错误\n错误１０６０３",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0013_0248",
+    "original": "エラーが はっせいしました\nエラー１０６０４",
+    "translation": "发生了错误\n错误１０６０４",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0013_0249",
+    "original": "せつぞくに しっぱいしました\nエラー１０６０５",
+    "translation": "连接失败\n错误１０６０５",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0013_0250",
+    "original": "エラーが はっせいしました\nエラー１０６０６",
+    "translation": "发生了错误\n错误１０６０６",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0013_0251",
+    "original": "せつぞくに しっぱいしました\nエラー１０６０７",
+    "translation": "连接失败\n错误１０６０７",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0013_0252",
+    "original": "エラーが はっせいしました\nエラー１０６０８",
+    "translation": "发生了错误\n错误１０６０８",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0013_0253",
+    "original": "エラーが はっせいしました\nエラー１０６０９",
+    "translation": "发生了错误\n错误１０６０９",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0013_0254",
+    "original": "おうとうが ありません\nエラー１０６１０",
+    "translation": "没有应答\n错误１０６１０",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0013_0255",
+    "original": "おうとうが ありません\nエラー１０６１１",
+    "translation": "没有应答\n错误１０６１１",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0013_0256",
+    "original": "おうとうが ありません\nエラー１０６１２",
+    "translation": "没有应答\n错误１０６１２",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0013_0257",
+    "original": "つうしんが ちゅうだんされました\nエラー１０６１３",
+    "translation": "连接被中止了\n错误１０６１３",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0013_0258",
+    "original": "せつぞくに しっぱいしました\nエラー１０６１４",
+    "translation": "连接失败\n错误１０６１４",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0013_0259",
+    "original": " ",
+    "translation": "　",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0013_0260",
+    "original": " ",
+    "translation": "　",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0013_0261",
+    "original": " ",
+    "translation": "　",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0013_0262",
+    "original": " ",
+    "translation": "　",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0013_0263",
+    "original": " ",
+    "translation": "　",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0013_0264",
+    "original": " ",
+    "translation": "　",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0013_0265",
+    "original": " ",
+    "translation": "　",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0013_0266",
+    "original": "サーバーとの せつぞくが ちゅうだん しました",
+    "translation": "与服务器的连接中断了。",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0013_0267",
+    "original": " ",
+    "translation": "　",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0013_0268",
+    "original": " ",
+    "translation": "　",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0013_0269",
+    "original": "きろくがありません",
+    "translation": "没有记录！",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0013_0270",
+    "original": "ボックスを えらんでください",
+    "translation": "请选择盒子！",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0013_0271",
+    "original": "からの ボックスは おくれません！",
+    "translation": "盒子无法上传！",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0013_0272",
+    "original": "どの コーナーに おくりますか？",
+    "translation": "上传到哪个部分？",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0013_0273",
+    "original": "ボックスは いちどに\nひとつ しか おくれません",
+    "translation": "盒子一次只能上传一个！",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0013_0274",
+    "original": "おなじ ボックスは おくれません",
+    "translation": "同一个盒子无法上传两次！",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0013_0275",
+    "original": "どの コーナーを みますか？",
+    "translation": "查看哪个部分？",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0013_0276",
+    "original": "きろくをけせませんでした⋯",
+    "translation": "记录没有消除…",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0013_0277",
+    "original": "おなじバトルビデオは ほぞんできません",
+    "translation": "相同的战斗录像无法保存两次！",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0013_0278",
+    "original": "ほぞんしています⋯⋯",
+    "translation": "保存中……",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0013_0279",
+    "original": "ランキングを うけとっています⋯⋯",
+    "translation": "接受排行榜中……",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0013_0280",
+    "original": "ほぞんじょうほうを おくっています⋯⋯",
+    "translation": "保存情报上传中……",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0013_0281",
+    "original": "ほぞんが おわりました！",
+    "translation": "保存完毕！",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0013_0282",
+    "original": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "translation": "确定要删除[0103,0000]的战斗录像吗？",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0013_0283",
+    "original": "ほんとうに けしても いいですか？",
+    "translation": "确定删除吗？",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0013_0284",
+    "original": "きろくを けしています⋯⋯\nレポートを かいています⋯⋯",
+    "translation": "记录删除中……\n记录中……",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0013_0285",
+    "original": "きろくを けしました！",
+    "translation": "记录被删除了！",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0013_0286",
+    "original": "ドレスアップショットを おくっています⋯⋯",
+    "translation": "上传艺术照中……",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0013_0287",
+    "original": "ドレスアップショットを うけとっています⋯⋯",
+    "translation": "接收艺术照中……",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0013_0288",
+    "original": "ボックスショットを おくっています⋯⋯",
+    "translation": "上传发送邮件中……",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0013_0289",
+    "original": "ボックスショットを うけとっています⋯⋯",
+    "translation": "接收发送邮件中……",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0013_0290",
+    "original": "おくる しゃしんが ありません\nコガネの ちかつうろで つくろう",
+    "translation": "没有传送的照片，\n去满金市的地下通道拍吧。",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0013_0291",
+    "original": "おなじ しゃしんは\n２かい おくれません",
+    "translation": "同样的照片不能上传两次！",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0013_0292",
+    "original": "バトルビデオを うけとっています⋯⋯",
+    "translation": "正在接受战斗录像……",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0013_0293",
+    "original": "あてはまる しゃしんが ありません⋯⋯",
+    "translation": "没有符合条件的照片……",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0013_0294",
+    "original": "あてはまる ボックスショットが\nありません⋯⋯",
+    "translation": "没有符合条件的发送邮件……",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0013_0295",
+    "original": "バトルビデオを おくりました\nビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]\n",
+    "translation": "录像送出\n录像编号：[0133,0000]ー[0136,0001]ー[0136,0002]\n",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0013_0296",
+    "original": "バトルビデオを みる まえに\nレポートを かきます",
+    "translation": "看战斗录像前\n先记录。",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0013_0297",
+    "original": "きろくを けしています⋯⋯\nレポートを たくさん かいています⋯⋯",
+    "translation": "删除了记录……\n正在写记录……",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0013_0298",
+    "original": "レポートを たくさん かいています⋯⋯",
+    "translation": "正在记录……",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0013_0299",
+    "original": "レポートを かいています⋯⋯",
+    "translation": "正在写记录……",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0013_0300",
+    "original": "ランキングが ありません⋯⋯",
+    "translation": "没有排行榜……",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0013_0301",
+    "original": "バトルビデオを おくりますか？",
+    "translation": "上传战斗录像吗？",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0013_0302",
+    "original": " ",
+    "translation": "　",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0013_0303",
+    "original": " ",
+    "translation": "　",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0013_0304",
+    "original": " ",
+    "translation": "　",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0013_0305",
+    "original": " ",
+    "translation": "　",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0013_0306",
+    "original": "",
+    "translation": "\\x0000",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0013_0307",
+    "original": " ",
+    "translation": "　",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0013_0308",
+    "original": " ",
+    "translation": "　",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0013_0309",
+    "original": " ",
+    "translation": "　",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0013_0310",
+    "original": "だいすきボックス さいしん２０けん",
+    "translation": "最爱盒子，最新２０件。",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0013_0311",
+    "original": "かっこいいボックス さいしん２０けん",
+    "translation": "帅气盒子，最新２０件。",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0013_0312",
+    "original": "かわいいボックス さいしん２０けん",
+    "translation": "可爱盒子，最新２０件。",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0013_0313",
+    "original": "おすすめボックス さいしん２０けん",
+    "translation": "推荐盒子，最新２０件。",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0013_0314",
+    "original": "おもしろいボックス さいしん２０けん",
+    "translation": "有趣盒子，最新２０件。",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0013_0315",
+    "original": "こだわりボックス さいしん２０けん",
+    "translation": "精选盒子，最新２０件。",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0013_0316",
+    "original": "じゅくがえり おとこ",
+    "translation": "小学生",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0013_0317",
+    "original": "むしとりしょうねん",
+    "translation": "捕虫少年",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0013_0318",
+    "original": "エリートトレーナー おとこ",
+    "translation": "精英训练家",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0013_0319",
+    "original": "スキンヘッズ",
+    "translation": "光头男",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0013_0320",
+    "original": "いせきマニア",
+    "translation": "遗迹迷",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0013_0321",
+    "original": "からておう",
+    "translation": "空手道王",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0013_0322",
+    "original": "おぼっちゃま",
+    "translation": "富家少爷",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0013_0323",
+    "original": "サイキッカー おとこ",
+    "translation": "男超能力者",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0013_0324",
+    "original": "ミニスカート",
+    "translation": "迷你裙",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0013_0325",
+    "original": "バトルガール",
+    "translation": "对战少女",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0013_0326",
+    "original": "おとなのおねえさん",
+    "translation": "大姐姐",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0013_0327",
+    "original": "エリートトレーナー おんな",
+    "translation": "精英训练家",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0013_0328",
+    "original": "アイドル",
+    "translation": "偶像明星",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0013_0329",
+    "original": "マダム",
+    "translation": "女士",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0013_0330",
+    "original": "カウガール",
+    "translation": "牛仔女孩",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0013_0331",
+    "original": "おじょうさま",
+    "translation": "千金小姐",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0013_0332",
+    "original": "きんぎん",
+    "translation": "金银",
+    "index": 332
+  }
+]

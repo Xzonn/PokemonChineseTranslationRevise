@@ -1,0 +1,674 @@
+[
+  {
+    "key": "DP_0007_0000",
+    "original": "つかう",
+    "translation": "つかう",
+    "index": 0
+  },
+  {
+    "key": "DP_0007_0001",
+    "original": "すてる",
+    "translation": "すてる",
+    "index": 1
+  },
+  {
+    "key": "DP_0007_0002",
+    "original": "とうろく",
+    "translation": "とうろく",
+    "index": 2
+  },
+  {
+    "key": "DP_0007_0003",
+    "original": "もたせる",
+    "translation": "もたせる",
+    "index": 3
+  },
+  {
+    "key": "DP_0007_0004",
+    "original": "タグをみる",
+    "translation": "タグをみる",
+    "index": 4
+  },
+  {
+    "key": "DP_0007_0005",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 5
+  },
+  {
+    "key": "DP_0007_0006",
+    "original": "おりる",
+    "translation": "おりる",
+    "index": 6
+  },
+  {
+    "key": "DP_0007_0007",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 7
+  },
+  {
+    "key": "DP_0007_0008",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 8
+  },
+  {
+    "key": "DP_0007_0009",
+    "original": "みせる",
+    "translation": "みせる",
+    "index": 9
+  },
+  {
+    "key": "DP_0007_0010",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 10
+  },
+  {
+    "key": "DP_0007_0011",
+    "original": "キャンセル",
+    "translation": "キャンセル",
+    "index": 11
+  },
+  {
+    "key": "DP_0007_0012",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 12
+  },
+  {
+    "key": "DP_0007_0013",
+    "original": "メール",
+    "translation": "メール",
+    "index": 13
+  },
+  {
+    "key": "DP_0007_0014",
+    "original": "あずかる",
+    "translation": "あずかる",
+    "index": 14
+  },
+  {
+    "key": "DP_0007_0015",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 15
+  },
+  {
+    "key": "DP_0007_0016",
+    "original": "みる",
+    "translation": "みる",
+    "index": 16
+  },
+  {
+    "key": "DP_0007_0017",
+    "original": "なし",
+    "translation": "なし",
+    "index": 17
+  },
+  {
+    "key": "DP_0007_0018",
+    "original": "かいじょ",
+    "translation": "かいじょ",
+    "index": 18
+  },
+  {
+    "key": "DP_0007_0019",
+    "original": "???",
+    "translation": "???",
+    "index": 19
+  },
+  {
+    "key": "DP_0007_0020",
+    "original": "?????",
+    "translation": "?????",
+    "index": 20
+  },
+  {
+    "key": "DP_0007_0021",
+    "original": "/",
+    "translation": "/",
+    "index": 21
+  },
+  {
+    "key": "DP_0007_0022",
+    "original": "-",
+    "translation": "-",
+    "index": 22
+  },
+  {
+    "key": "DP_0007_0023",
+    "original": "--",
+    "translation": "--",
+    "index": 23
+  },
+  {
+    "key": "DP_0007_0024",
+    "original": "---",
+    "translation": "---",
+    "index": 24
+  },
+  {
+    "key": "DP_0007_0025",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 25
+  },
+  {
+    "key": "DP_0007_0026",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 26
+  },
+  {
+    "key": "DP_0007_0027",
+    "original": "Lv",
+    "translation": "Lv",
+    "index": 27
+  },
+  {
+    "key": "DP_0007_0028",
+    "original": "No",
+    "translation": "No",
+    "index": 28
+  },
+  {
+    "key": "DP_0007_0029",
+    "original": "+",
+    "translation": "+",
+    "index": 29
+  },
+  {
+    "key": "DP_0007_0030",
+    "original": "→",
+    "translation": "→",
+    "index": 30
+  },
+  {
+    "key": "DP_0007_0031",
+    "original": "IDNo",
+    "translation": "IDNo",
+    "index": 31
+  },
+  {
+    "key": "DP_0007_0032",
+    "original": " ",
+    "translation": " ",
+    "index": 32
+  },
+  {
+    "key": "DP_0007_0033",
+    "original": "カーソル",
+    "translation": "カーソル",
+    "index": 33
+  },
+  {
+    "key": "DP_0007_0034",
+    "original": "まえに もどります！",
+    "translation": "まえに もどります！",
+    "index": 34
+  },
+  {
+    "key": "DP_0007_0035",
+    "original": "なにを しますか？",
+    "translation": "なにを しますか？",
+    "index": 35
+  },
+  {
+    "key": "DP_0007_0036",
+    "original": "あげる",
+    "translation": "あげる",
+    "index": 36
+  },
+  {
+    "key": "DP_0007_0037",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 37
+  },
+  {
+    "key": "DP_0007_0038",
+    "original": "x",
+    "translation": "x",
+    "index": 38
+  },
+  {
+    "key": "DP_0007_0039",
+    "original": "のみ",
+    "translation": "のみ",
+    "index": 39
+  },
+  {
+    "key": "DP_0007_0040",
+    "original": "[0135,0000]まい",
+    "translation": "[0135,0000]まい",
+    "index": 40
+  },
+  {
+    "key": "DP_0007_0041",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 41
+  },
+  {
+    "key": "DP_0007_0042",
+    "original": "[0108,0000]を\nどうしますか？",
+    "translation": "[0108,0000]を\nどうしますか？",
+    "index": 42
+  },
+  {
+    "key": "DP_0007_0043",
+    "original": "ここで メールを\nかくことは できません！",
+    "translation": "ここで メールを\nかくことは できません！",
+    "index": 43
+  },
+  {
+    "key": "DP_0007_0044",
+    "original": "ポケモンが いませんよ！",
+    "translation": "ポケモンが いませんよ！",
+    "index": 44
+  },
+  {
+    "key": "DP_0007_0045",
+    "original": "[0108,0000]を\nどこに いれますか？",
+    "translation": "[0108,0000]を\nどこに いれますか？",
+    "index": 45
+  },
+  {
+    "key": "DP_0007_0046",
+    "original": "[0108,0000]を\nもたせることは できません！",
+    "translation": "[0108,0000]を\nもたせることは できません！",
+    "index": 46
+  },
+  {
+    "key": "DP_0007_0047",
+    "original": "ここでは [0108,0000]を\nもたせることは できません！",
+    "translation": "ここでは [0108,0000]を\nもたせることは できません！",
+    "index": 47
+  },
+  {
+    "key": "DP_0007_0048",
+    "original": "[0108,0000]を\nいくつ あずけますか？",
+    "translation": "[0108,0000]を\nいくつ あずけますか？",
+    "index": 48
+  },
+  {
+    "key": "DP_0007_0049",
+    "original": "[0108,0000]を\n[0133,0001]コ あずけました",
+    "translation": "[0108,0000]を\n[0133,0001]コ あずけました",
+    "index": 49
+  },
+  {
+    "key": "DP_0007_0050",
+    "original": "これいじょう あずけられません！",
+    "translation": "これいじょう あずけられません！",
+    "index": 50
+  },
+  {
+    "key": "DP_0007_0051",
+    "original": "これは とても たいせつな\nもの なので すてられません！",
+    "translation": "これは とても たいせつな\nもの なので すてられません！",
+    "index": 51
+  },
+  {
+    "key": "DP_0007_0052",
+    "original": "[0108,0000]を\nいくつ すてますか？",
+    "translation": "[0108,0000]を\nいくつ すてますか？",
+    "index": 52
+  },
+  {
+    "key": "DP_0007_0053",
+    "original": "[0108,0000]を\n[0133,0001]コ すてました",
+    "translation": "[0108,0000]を\n[0133,0001]コ すてました",
+    "index": 53
+  },
+  {
+    "key": "DP_0007_0054",
+    "original": "[0108,0000]を\n[0134,0001]コ すてても よろしいですか？",
+    "translation": "[0108,0000]を\n[0134,0001]コ すてても よろしいですか？",
+    "index": 54
+  },
+  {
+    "key": "DP_0007_0055",
+    "original": "おとうさんの ことば⋯⋯\n[0103,0000]！ こういうものには\\r\nつかいどきが あるんだ！",
+    "translation": "おとうさんの ことば⋯⋯\n[0103,0000]！ こういうものには\\r\nつかいどきが あるんだ！",
+    "index": 55
+  },
+  {
+    "key": "DP_0007_0056",
+    "original": "ここでは おりられない！",
+    "translation": "ここでは おりられない！",
+    "index": 56
+  },
+  {
+    "key": "DP_0007_0057",
+    "original": "あなたの コイン [0136,0000]まい",
+    "translation": "あなたの コイン [0136,0000]まい",
+    "index": 57
+  },
+  {
+    "key": "DP_0007_0058",
+    "original": "わざマシンを きどうした！[0202,0003][0202,0004]",
+    "translation": "わざマシンを きどうした！[0202,0003][0202,0004]",
+    "index": 58
+  },
+  {
+    "key": "DP_0007_0059",
+    "original": "ひでんマシンを きどうした！[0202,0003][0202,0004]",
+    "translation": "ひでんマシンを きどうした！[0202,0003][0202,0004]",
+    "index": 59
+  },
+  {
+    "key": "DP_0007_0060",
+    "original": "なかには [0106,0000]が\nきろく されていた！\\f\n[0106,0000]を\nポケモンに おぼえさせますか？",
+    "translation": "なかには [0106,0000]が\nきろく されていた！\\f\n[0106,0000]を\nポケモンに おぼえさせますか？",
+    "index": 60
+  },
+  {
+    "key": "DP_0007_0061",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！",
+    "translation": "[0103,0000]は\n[0108,0001]を つかった！",
+    "index": 61
+  },
+  {
+    "key": "DP_0007_0062",
+    "original": "まだ まえに つかった\nスプレーの こうかが のこってます！",
+    "translation": "まだ まえに つかった\nスプレーの こうかが のこってます！",
+    "index": 62
+  },
+  {
+    "key": "DP_0007_0063",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しやすくなった！",
+    "translation": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しやすくなった！",
+    "index": 63
+  },
+  {
+    "key": "DP_0007_0064",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しにくくなった！",
+    "translation": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しにくくなった！",
+    "index": 64
+  },
+  {
+    "key": "DP_0007_0065",
+    "original": "ボックスが いっぱい です！",
+    "translation": "ボックスが いっぱい です！",
+    "index": 65
+  },
+  {
+    "key": "DP_0007_0066",
+    "original": "こなの りょう [0135,0000]",
+    "translation": "こなの りょう [0135,0000]",
+    "index": 66
+  },
+  {
+    "key": "DP_0007_0067",
+    "original": "No[0133,0000][0106,0001]",
+    "translation": "No[0133,0000][0106,0001]",
+    "index": 67
+  },
+  {
+    "key": "DP_0007_0068",
+    "original": "No[0133,0000][0106,0001]",
+    "translation": "No[0133,0000][0106,0001]",
+    "index": 68
+  },
+  {
+    "key": "DP_0007_0069",
+    "original": "[0133,0000][0106,0001]",
+    "translation": "[0133,0000][0106,0001]",
+    "index": 69
+  },
+  {
+    "key": "DP_0007_0070",
+    "original": "きのみのこな",
+    "translation": "きのみのこな",
+    "index": 70
+  },
+  {
+    "key": "DP_0007_0071",
+    "original": "ポケモンのふえを ふいた！\nうーん！ すばらしい ねいろだ！",
+    "translation": "ポケモンのふえを ふいた！\nうーん！ すばらしい ねいろだ！",
+    "index": 71
+  },
+  {
+    "key": "DP_0007_0072",
+    "original": "ポケモンのふえを ふいた！",
+    "translation": "ポケモンのふえを ふいた！",
+    "index": 72
+  },
+  {
+    "key": "DP_0007_0073",
+    "original": "ふえのねを きいた\nポケモンは めを さました",
+    "translation": "ふえのねを きいた\nポケモンは めを さました",
+    "index": 73
+  },
+  {
+    "key": "DP_0007_0074",
+    "original": "[0108,0000]を\nかいとるわけには いきません！",
+    "translation": "[0108,0000]を\nかいとるわけには いきません！",
+    "index": 74
+  },
+  {
+    "key": "DP_0007_0075",
+    "original": "[0108,0000]を\nいくつ うりますか？",
+    "translation": "[0108,0000]を\nいくつ うりますか？",
+    "index": 75
+  },
+  {
+    "key": "DP_0007_0076",
+    "original": "それでしたら [0137,0000]¥で\nおひきとり いたしましょう",
+    "translation": "それでしたら [0137,0000]¥で\nおひきとり いたしましょう",
+    "index": 76
+  },
+  {
+    "key": "DP_0007_0077",
+    "original": "[0108,0000]を わたして\n[0137,0001]¥を うけとった",
+    "translation": "[0108,0000]を わたして\n[0137,0001]¥を うけとった",
+    "index": 77
+  },
+  {
+    "key": "DP_0007_0078",
+    "original": "おこづかい",
+    "translation": "おこづかい",
+    "index": 78
+  },
+  {
+    "key": "DP_0007_0079",
+    "original": "[0137,0000]¥",
+    "translation": "[0137,0000]¥",
+    "index": 79
+  },
+  {
+    "key": "DP_0007_0080",
+    "original": "x[0133,0000]",
+    "translation": "x[0133,0000]",
+    "index": 80
+  },
+  {
+    "key": "DP_0007_0081",
+    "original": "[0137,0000]¥",
+    "translation": "[0137,0000]¥",
+    "index": 81
+  },
+  {
+    "key": "DP_0007_0082",
+    "original": "はい",
+    "translation": "はい",
+    "index": 82
+  },
+  {
+    "key": "DP_0007_0083",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 83
+  },
+  {
+    "key": "DP_0007_0084",
+    "original": "x[0134,0000]",
+    "translation": "x[0134,0000]",
+    "index": 84
+  },
+  {
+    "key": "DP_0007_0085",
+    "original": "とりだす",
+    "translation": "とりだす",
+    "index": 85
+  },
+  {
+    "key": "DP_0007_0086",
+    "original": "PP",
+    "translation": "PP",
+    "index": 86
+  },
+  {
+    "key": "DP_0007_0087",
+    "original": "いりょく",
+    "translation": "いりょく",
+    "index": 87
+  },
+  {
+    "key": "DP_0007_0088",
+    "original": "めいちゅう",
+    "translation": "めいちゅう",
+    "index": 88
+  },
+  {
+    "key": "DP_0007_0089",
+    "original": "ぶんるい",
+    "translation": "ぶんるい",
+    "index": 89
+  },
+  {
+    "key": "DP_0007_0090",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 90
+  },
+  {
+    "key": "DP_0007_0091",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 91
+  },
+  {
+    "key": "DP_0007_0092",
+    "original": "シール [0135,0000]まい",
+    "translation": "シール [0135,0000]まい",
+    "index": 92
+  },
+  {
+    "key": "DP_0007_0093",
+    "original": "アクセサリー [0134,0000]こ\nかべがみ    [0133,0001]まい",
+    "translation": "アクセサリー [0134,0000]こ\nかべがみ    [0133,0001]まい",
+    "index": 93
+  },
+  {
+    "key": "DP_0007_0094",
+    "original": "バッグを とじます",
+    "translation": "バッグを とじます",
+    "index": 94
+  },
+  {
+    "key": "DP_0007_0095",
+    "original": "うめる",
+    "translation": "うめる",
+    "index": 95
+  },
+  {
+    "key": "DP_0007_0096",
+    "original": "ひらく",
+    "translation": "ひらく",
+    "index": 96
+  },
+  {
+    "key": "DP_0007_0097",
+    "original": "たまった バトルポイント\n[0135,0000]ＢＰ",
+    "translation": "たまった バトルポイント\n[0135,0000]ＢＰ",
+    "index": 97
+  },
+  {
+    "key": "DP_0007_0098",
+    "original": "タイプ",
+    "translation": "タイプ",
+    "index": 98
+  },
+  {
+    "key": "DP_0007_0099",
+    "original": "バッグに いれてある どうぐを\nべんりボタンに とうろく できます",
+    "translation": "バッグに いれてある どうぐを\nべんりボタンに とうろく できます",
+    "index": 99
+  },
+  {
+    "key": "DP_0007_0100",
+    "original": "たからぶくろ の なかを\nのぞいた！",
+    "translation": "たからぶくろ の なかを\nのぞいた！",
+    "index": 100
+  },
+  {
+    "key": "DP_0007_0101",
+    "original": "[0108,0000] を\nとりだした！",
+    "translation": "[0108,0000] を\nとりだした！",
+    "index": 101
+  },
+  {
+    "key": "DP_0007_0102",
+    "original": "[0108,0000] を\n[011B,0001] に しまった",
+    "translation": "[0108,0000] を\n[011B,0001] に しまった",
+    "index": 102
+  },
+  {
+    "key": "DP_0007_0103",
+    "original": "ぜんぶ とりだした！",
+    "translation": "ぜんぶ とりだした！",
+    "index": 103
+  },
+  {
+    "key": "DP_0007_0104",
+    "original": "なかには なにも\nなかった⋯⋯",
+    "translation": "なかには なにも\nなかった⋯⋯",
+    "index": 104
+  },
+  {
+    "key": "DP_0007_0105",
+    "original": "しかし [011B,0000] が\nいっぱいで とりだせ なかった⋯⋯",
+    "translation": "しかし [011B,0000] が\nいっぱいで とりだせ なかった⋯⋯",
+    "index": 105
+  },
+  {
+    "key": "DP_0007_0106",
+    "original": "バッテリー が たりない！\nじゅうでん かんりょうまで\\r\nあと [0133,0000]ほ ",
+    "translation": "バッテリー が たりない！\nじゅうでん かんりょうまで\\r\nあと [0133,0000]ほ ",
+    "index": 106
+  },
+  {
+    "key": "DP_0007_0107",
+    "original": "くさむらは\nしずか だった⋯⋯",
+    "translation": "くさむらは\nしずか だった⋯⋯",
+    "index": 107
+  },
+  {
+    "key": "DP_0007_0108",
+    "original": "ポフィンのかず",
+    "translation": "ポフィンのかず",
+    "index": 108
+  },
+  {
+    "key": "DP_0007_0109",
+    "original": "[0134,0000]／１００",
+    "translation": "[0134,0000]／１００",
+    "index": 109
+  },
+  {
+    "key": "DP_0007_0110",
+    "original": "りょうりに つかう きのみを\nバッグから えらんで ください！",
+    "translation": "りょうりに つかう きのみを\nバッグから えらんで ください！",
+    "index": 110
+  },
+  {
+    "key": "DP_0007_0111",
+    "original": "つれあるいている ときは\nつかえません！",
+    "translation": "つれあるいている ときは\nつかえません！",
+    "index": 111
+  }
+]

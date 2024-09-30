@@ -1,0 +1,1412 @@
+[
+  {
+    "key": "HGSS_0272_0000",
+    "original": "ーーーー",
+    "translation": "ーーーー",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0272_0001",
+    "original": "フタバタウン",
+    "translation": "フタバタウン",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0272_0002",
+    "original": "マサゴタウン",
+    "translation": "マサゴタウン",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0272_0003",
+    "original": "ソノオタウン",
+    "translation": "ソノオタウン",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0272_0004",
+    "original": "ズイタウン",
+    "translation": "ズイタウン",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0272_0005",
+    "original": "カンナギタウン",
+    "translation": "カンナギタウン",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0272_0006",
+    "original": "コトブキシティ",
+    "translation": "コトブキシティ",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0272_0007",
+    "original": "ミオシティ",
+    "translation": "ミオシティ",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0272_0008",
+    "original": "クロガネシティ",
+    "translation": "クロガネシティ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0272_0009",
+    "original": "ハクタイシティ",
+    "translation": "ハクタイシティ",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0272_0010",
+    "original": "ヨスガシティ",
+    "translation": "ヨスガシティ",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0272_0011",
+    "original": "ノモセシティ",
+    "translation": "ノモセシティ",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0272_0012",
+    "original": "トバリシティ",
+    "translation": "トバリシティ",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0272_0013",
+    "original": "ナギサシティ",
+    "translation": "ナギサシティ",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0272_0014",
+    "original": "キッサキシティ",
+    "translation": "キッサキシティ",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0272_0015",
+    "original": "ポケモンリーグ",
+    "translation": "ポケモンリーグ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0272_0016",
+    "original": "２０１ばんどうろ",
+    "translation": "２０１ばんどうろ",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0272_0017",
+    "original": "２０２ばんどうろ",
+    "translation": "２０２ばんどうろ",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0272_0018",
+    "original": "２０３ばんどうろ",
+    "translation": "２０３ばんどうろ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0272_0019",
+    "original": "２０４ばんどうろ",
+    "translation": "２０４ばんどうろ",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0272_0020",
+    "original": "２０５ばんどうろ",
+    "translation": "２０５ばんどうろ",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0272_0021",
+    "original": "２０６ばんどうろ",
+    "translation": "２０６ばんどうろ",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0272_0022",
+    "original": "２０７ばんどうろ",
+    "translation": "２０７ばんどうろ",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0272_0023",
+    "original": "２０８ばんどうろ",
+    "translation": "２０８ばんどうろ",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0272_0024",
+    "original": "２０９ばんどうろ",
+    "translation": "２０９ばんどうろ",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0272_0025",
+    "original": "２１０ばんどうろ",
+    "translation": "２１０ばんどうろ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0272_0026",
+    "original": "２１１ばんどうろ",
+    "translation": "２１１ばんどうろ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0272_0027",
+    "original": "２１２ばんどうろ",
+    "translation": "２１２ばんどうろ",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0272_0028",
+    "original": "２１３ばんどうろ",
+    "translation": "２１３ばんどうろ",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0272_0029",
+    "original": "２１４ばんどうろ",
+    "translation": "２１４ばんどうろ",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0272_0030",
+    "original": "２１５ばんどうろ",
+    "translation": "２１５ばんどうろ",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0272_0031",
+    "original": "２１６ばんどうろ",
+    "translation": "２１６ばんどうろ",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0272_0032",
+    "original": "２１７ばんどうろ",
+    "translation": "２１７ばんどうろ",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0272_0033",
+    "original": "２１８ばんどうろ",
+    "translation": "２１８ばんどうろ",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0272_0034",
+    "original": "２１９ばんどうろ",
+    "translation": "２１９ばんどうろ",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0272_0035",
+    "original": "２２０ばんすいどう",
+    "translation": "２２０ばんすいどう",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0272_0036",
+    "original": "２２１ばんどうろ",
+    "translation": "２２１ばんどうろ",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0272_0037",
+    "original": "２２２ばんどうろ",
+    "translation": "２２２ばんどうろ",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0272_0038",
+    "original": "２２３ばんすいどう",
+    "translation": "２２３ばんすいどう",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0272_0039",
+    "original": "２２４ばんどうろ",
+    "translation": "２２４ばんどうろ",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0272_0040",
+    "original": "２２５ばんどうろ",
+    "translation": "２２５ばんどうろ",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0272_0041",
+    "original": "２２６ばんすいどう",
+    "translation": "２２６ばんすいどう",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0272_0042",
+    "original": "２２７ばんどうろ",
+    "translation": "２２７ばんどうろ",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0272_0043",
+    "original": "２２８ばんどうろ",
+    "translation": "２２８ばんどうろ",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0272_0044",
+    "original": "２２９ばんどうろ",
+    "translation": "２２９ばんどうろ",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0272_0045",
+    "original": "２３０ばんすいどう",
+    "translation": "２３０ばんすいどう",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0272_0046",
+    "original": "クロガネたんこう",
+    "translation": "クロガネたんこう",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0272_0047",
+    "original": "たにまのはつでんしょ",
+    "translation": "たにまのはつでんしょ",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0272_0048",
+    "original": "ハクタイのもり",
+    "translation": "ハクタイのもり",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0272_0049",
+    "original": "タタラせいてつじょ",
+    "translation": "タタラせいてつじょ",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0272_0050",
+    "original": "テンガンざん",
+    "translation": "テンガンざん",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0272_0051",
+    "original": "やりのはしら",
+    "translation": "やりのはしら",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0272_0052",
+    "original": "だいしつげん",
+    "translation": "だいしつげん",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0272_0053",
+    "original": "ズイのいせき",
+    "translation": "ズイのいせき",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0272_0054",
+    "original": "チャンピオンロード",
+    "translation": "チャンピオンロード",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0272_0055",
+    "original": "パルパーク",
+    "translation": "パルパーク",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0272_0056",
+    "original": "ふれあいひろば",
+    "translation": "ふれあいひろば",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0272_0057",
+    "original": "あれたぬけみち",
+    "translation": "あれたぬけみち",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0272_0058",
+    "original": "ソノオのはなばたけ",
+    "translation": "ソノオのはなばたけ",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0272_0059",
+    "original": "クロガネゲート",
+    "translation": "クロガネゲート",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0272_0060",
+    "original": "まんげつじま",
+    "translation": "まんげつじま",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0272_0061",
+    "original": "おくりのいずみ",
+    "translation": "おくりのいずみ",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0272_0062",
+    "original": "もどりのどうくつ",
+    "translation": "もどりのどうくつ",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0272_0063",
+    "original": "はなのらくえん",
+    "translation": "はなのらくえん",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0272_0064",
+    "original": "キッサキしんでん",
+    "translation": "キッサキしんでん",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0272_0065",
+    "original": "まよいのどうくつ",
+    "translation": "まよいのどうくつ",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0272_0066",
+    "original": "いせきマニアのあな",
+    "translation": "いせきマニアのあな",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0272_0067",
+    "original": "マニアトンネル",
+    "translation": "マニアトンネル",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0272_0068",
+    "original": "じまんのうらにわ",
+    "translation": "じまんのうらにわ",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0272_0069",
+    "original": "こうてつじま",
+    "translation": "こうてつじま",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0272_0070",
+    "original": "もりのようかん",
+    "translation": "もりのようかん",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0272_0071",
+    "original": "ギンガだんアジト",
+    "translation": "ギンガだんアジト",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0272_0072",
+    "original": "シンジこのほとり",
+    "translation": "シンジこのほとり",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0272_0073",
+    "original": "リッシこのほとり",
+    "translation": "リッシこのほとり",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0272_0074",
+    "original": "エイチこのほとり",
+    "translation": "エイチこのほとり",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0272_0075",
+    "original": "かくれいずみへのみち",
+    "translation": "かくれいずみへのみち",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0272_0076",
+    "original": "シンジこ",
+    "translation": "シンジこ",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0272_0077",
+    "original": "リッシこ",
+    "translation": "リッシこ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0272_0078",
+    "original": "エイチこ",
+    "translation": "エイチこ",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0272_0079",
+    "original": "しんげつじま",
+    "translation": "しんげつじま",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0272_0080",
+    "original": "バトルタワー",
+    "translation": "バトルタワー",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0272_0081",
+    "original": "ファイトエリア",
+    "translation": "ファイトエリア",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0272_0082",
+    "original": "サバイバルエリア",
+    "translation": "サバイバルエリア",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0272_0083",
+    "original": "リゾートエリア",
+    "translation": "リゾートエリア",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0272_0084",
+    "original": "ハードマウンテン",
+    "translation": "ハードマウンテン",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0272_0085",
+    "original": "うみわれのみち",
+    "translation": "うみわれのみち",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0272_0086",
+    "original": "はじまりのま",
+    "translation": "はじまりのま",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0272_0087",
+    "original": "シンジこのくうどう",
+    "translation": "シンジこのくうどう",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0272_0088",
+    "original": "リッシこのくうどう",
+    "translation": "リッシこのくうどう",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0272_0089",
+    "original": "エイチこのくうどう",
+    "translation": "エイチこのくうどう",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0272_0090",
+    "original": "テレビ コトブキ",
+    "translation": "テレビ コトブキ",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0272_0091",
+    "original": "ポケッチカンパニー",
+    "translation": "ポケッチカンパニー",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0272_0092",
+    "original": "ＧＴＳ",
+    "translation": "ＧＴＳ",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0272_0093",
+    "original": "トレーナーズスクール",
+    "translation": "トレーナーズスクール",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0272_0094",
+    "original": "たんこうはくぶつかん",
+    "translation": "たんこうはくぶつかん",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0272_0095",
+    "original": "フラワー ショップ",
+    "translation": "フラワー ショップ",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0272_0096",
+    "original": "サイクル ショップ",
+    "translation": "サイクル ショップ",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0272_0097",
+    "original": "コンテストかいじょう",
+    "translation": "コンテストかいじょう",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0272_0098",
+    "original": "ポフィンハウス",
+    "translation": "ポフィンハウス",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0272_0099",
+    "original": "いぶんかのたてもの",
+    "translation": "いぶんかのたてもの",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0272_0100",
+    "original": "ポケモンそだてや",
+    "translation": "ポケモンそだてや",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0272_0101",
+    "original": "トバリデパート",
+    "translation": "トバリデパート",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0272_0102",
+    "original": "ゲームコーナー",
+    "translation": "ゲームコーナー",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0272_0103",
+    "original": "ミオ としょかん",
+    "translation": "ミオ としょかん",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0272_0104",
+    "original": "シルベの とうだい",
+    "translation": "シルベの とうだい",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0272_0105",
+    "original": "ナギサ いちば",
+    "translation": "ナギサ いちば",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0272_0106",
+    "original": "ポケモンやしき",
+    "translation": "ポケモンやしき",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0272_0107",
+    "original": "あしあとはかせのいえ",
+    "translation": "あしあとはかせのいえ",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0272_0108",
+    "original": "きっさてん",
+    "translation": "きっさてん",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0272_0109",
+    "original": "グランドレイク",
+    "translation": "グランドレイク",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0272_0110",
+    "original": "レストラン",
+    "translation": "レストラン",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0272_0111",
+    "original": "バトルパーク",
+    "translation": "バトルパーク",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0272_0112",
+    "original": "バトルフロンティア",
+    "translation": "バトルフロンティア",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0272_0113",
+    "original": "バトルファクトリー",
+    "translation": "バトルファクトリー",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0272_0114",
+    "original": "バトルキャッスル",
+    "translation": "バトルキャッスル",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0272_0115",
+    "original": "バトルルーレット",
+    "translation": "バトルルーレット",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0272_0116",
+    "original": "バトルステージ",
+    "translation": "バトルステージ",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0272_0117",
+    "original": "やぶれたせかい",
+    "translation": "やぶれたせかい",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0272_0118",
+    "original": "グローバルターミナル",
+    "translation": "グローバルターミナル",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0272_0119",
+    "original": "べっそう",
+    "translation": "べっそう",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0272_0120",
+    "original": "しょうぶどころ",
+    "translation": "しょうぶどころ",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0272_0121",
+    "original": "ロトムの へや",
+    "translation": "ロトムの へや",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0272_0122",
+    "original": "ギンガハクタイビル",
+    "translation": "ギンガハクタイビル",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0272_0123",
+    "original": "くろがねのいせき",
+    "translation": "くろがねのいせき",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0272_0124",
+    "original": "ひょうざんのいせき",
+    "translation": "ひょうざんのいせき",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0272_0125",
+    "original": "いわやまのいせき",
+    "translation": "いわやまのいせき",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0272_0126",
+    "original": "ワカバタウン",
+    "translation": "ワカバタウン",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0272_0127",
+    "original": "ヨシノシティ",
+    "translation": "ヨシノシティ",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0272_0128",
+    "original": "キキョウシティ",
+    "translation": "キキョウシティ",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0272_0129",
+    "original": "ヒワダタウン",
+    "translation": "ヒワダタウン",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0272_0130",
+    "original": "タンバシティ",
+    "translation": "タンバシティ",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0272_0131",
+    "original": "コガネシティ",
+    "translation": "コガネシティ",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0272_0132",
+    "original": "アサギシティ",
+    "translation": "アサギシティ",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0272_0133",
+    "original": "エンジュシティ",
+    "translation": "エンジュシティ",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0272_0134",
+    "original": "チョウジタウン",
+    "translation": "チョウジタウン",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0272_0135",
+    "original": "いかりのみずうみ",
+    "translation": "いかりのみずうみ",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0272_0136",
+    "original": "フスベシティ",
+    "translation": "フスベシティ",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0272_0137",
+    "original": "シロガネやま",
+    "translation": "シロガネやま",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0272_0138",
+    "original": "マサラタウン",
+    "translation": "マサラタウン",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0272_0139",
+    "original": "トキワシティ",
+    "translation": "トキワシティ",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0272_0140",
+    "original": "ニビシティ",
+    "translation": "ニビシティ",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0272_0141",
+    "original": "ハナダシティ",
+    "translation": "ハナダシティ",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0272_0142",
+    "original": "シオンタウン",
+    "translation": "シオンタウン",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0272_0143",
+    "original": "クチバシティ",
+    "translation": "クチバシティ",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0272_0144",
+    "original": "タマムシシティ",
+    "translation": "タマムシシティ",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0272_0145",
+    "original": "セキチクシティ",
+    "translation": "セキチクシティ",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0272_0146",
+    "original": "グレンタウン",
+    "translation": "グレンタウン",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0272_0147",
+    "original": "セキエイこうげん",
+    "translation": "セキエイこうげん",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0272_0148",
+    "original": "ヤマブキシティ",
+    "translation": "ヤマブキシティ",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0272_0149",
+    "original": "１ばんどうろ",
+    "translation": "１ばんどうろ",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0272_0150",
+    "original": "２ばんどうろ",
+    "translation": "２ばんどうろ",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0272_0151",
+    "original": "３ばんどうろ",
+    "translation": "３ばんどうろ",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0272_0152",
+    "original": "４ばんどうろ",
+    "translation": "４ばんどうろ",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0272_0153",
+    "original": "５ばんどうろ",
+    "translation": "５ばんどうろ",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0272_0154",
+    "original": "６ばんどうろ",
+    "translation": "６ばんどうろ",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0272_0155",
+    "original": "７ばんどうろ",
+    "translation": "７ばんどうろ",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0272_0156",
+    "original": "８ばんどうろ",
+    "translation": "８ばんどうろ",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0272_0157",
+    "original": "９ばんどうろ",
+    "translation": "９ばんどうろ",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0272_0158",
+    "original": "１０ばんどうろ",
+    "translation": "１０ばんどうろ",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0272_0159",
+    "original": "１１ばんどうろ",
+    "translation": "１１ばんどうろ",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0272_0160",
+    "original": "１２ばんどうろ",
+    "translation": "１２ばんどうろ",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0272_0161",
+    "original": "１３ばんどうろ",
+    "translation": "１３ばんどうろ",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0272_0162",
+    "original": "１４ばんどうろ",
+    "translation": "１４ばんどうろ",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0272_0163",
+    "original": "１５ばんどうろ",
+    "translation": "１５ばんどうろ",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0272_0164",
+    "original": "１６ばんどうろ",
+    "translation": "１６ばんどうろ",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0272_0165",
+    "original": "１７ばんどうろ",
+    "translation": "１７ばんどうろ",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0272_0166",
+    "original": "１８ばんどうろ",
+    "translation": "１８ばんどうろ",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0272_0167",
+    "original": "１９ばんすいどう",
+    "translation": "１９ばんすいどう",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0272_0168",
+    "original": "２０ばんすいどう",
+    "translation": "２０ばんすいどう",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0272_0169",
+    "original": "２１ばんすいどう",
+    "translation": "２１ばんすいどう",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0272_0170",
+    "original": "２２ばんどうろ",
+    "translation": "２２ばんどうろ",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0272_0171",
+    "original": "２３ばんどうろ",
+    "translation": "２３ばんどうろ",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0272_0172",
+    "original": "２４ばんどうろ",
+    "translation": "２４ばんどうろ",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0272_0173",
+    "original": "２５ばんどうろ",
+    "translation": "２５ばんどうろ",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0272_0174",
+    "original": "２６ばんどうろ",
+    "translation": "２６ばんどうろ",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0272_0175",
+    "original": "２７ばんどうろ",
+    "translation": "２７ばんどうろ",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0272_0176",
+    "original": "２８ばんどうろ",
+    "translation": "２８ばんどうろ",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0272_0177",
+    "original": "２９ばんどうろ",
+    "translation": "２９ばんどうろ",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0272_0178",
+    "original": "３０ばんどうろ",
+    "translation": "３０ばんどうろ",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0272_0179",
+    "original": "３１ばんどうろ",
+    "translation": "３１ばんどうろ",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0272_0180",
+    "original": "３２ばんどうろ",
+    "translation": "３２ばんどうろ",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0272_0181",
+    "original": "３３ばんどうろ",
+    "translation": "３３ばんどうろ",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0272_0182",
+    "original": "３４ばんどうろ",
+    "translation": "３４ばんどうろ",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0272_0183",
+    "original": "３５ばんどうろ",
+    "translation": "３５ばんどうろ",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0272_0184",
+    "original": "３６ばんどうろ",
+    "translation": "３６ばんどうろ",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0272_0185",
+    "original": "３７ばんどうろ",
+    "translation": "３７ばんどうろ",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0272_0186",
+    "original": "３８ばんどうろ",
+    "translation": "３８ばんどうろ",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0272_0187",
+    "original": "３９ばんどうろ",
+    "translation": "３９ばんどうろ",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0272_0188",
+    "original": "４０ばんすいどう",
+    "translation": "４０ばんすいどう",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0272_0189",
+    "original": "４１ばんすいどう",
+    "translation": "４１ばんすいどう",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0272_0190",
+    "original": "４２ばんどうろ",
+    "translation": "４２ばんどうろ",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0272_0191",
+    "original": "４３ばんどうろ",
+    "translation": "４３ばんどうろ",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0272_0192",
+    "original": "４４ばんどうろ",
+    "translation": "４４ばんどうろ",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0272_0193",
+    "original": "４５ばんどうろ",
+    "translation": "４５ばんどうろ",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0272_0194",
+    "original": "４６ばんどうろ",
+    "translation": "４６ばんどうろ",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0272_0195",
+    "original": "４７ばんどうろ",
+    "translation": "４７ばんどうろ",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0272_0196",
+    "original": "４８ばんどうろ",
+    "translation": "４８ばんどうろ",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0272_0197",
+    "original": "ディグダのあな",
+    "translation": "ディグダのあな",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0272_0198",
+    "original": "おつきみやま",
+    "translation": "おつきみやま",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0272_0199",
+    "original": "ハナダのどうくつ",
+    "translation": "ハナダのどうくつ",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0272_0200",
+    "original": "イワヤマトンネル",
+    "translation": "イワヤマトンネル",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0272_0201",
+    "original": "はつでんしょ",
+    "translation": "はつでんしょ",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0272_0202",
+    "original": "サファリゾーン",
+    "translation": "サファリゾーン",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0272_0203",
+    "original": "ふたごじま",
+    "translation": "ふたごじま",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0272_0204",
+    "original": "マダツボミのとう",
+    "translation": "マダツボミのとう",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0272_0205",
+    "original": "スズのとう",
+    "translation": "スズのとう",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0272_0206",
+    "original": "やけたとう",
+    "translation": "やけたとう",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0272_0207",
+    "original": "しぜんこうえん",
+    "translation": "しぜんこうえん",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0272_0208",
+    "original": "ラジオとう",
+    "translation": "ラジオとう",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0272_0209",
+    "original": "アルフのいせき",
+    "translation": "アルフのいせき",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0272_0210",
+    "original": "つながりのどうくつ",
+    "translation": "つながりのどうくつ",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0272_0211",
+    "original": "ヤドンのいど",
+    "translation": "ヤドンのいど",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0272_0212",
+    "original": "アサギのとうだい",
+    "translation": "アサギのとうだい",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0272_0213",
+    "original": "ロケットだんアジト",
+    "translation": "ロケットだんアジト",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0272_0214",
+    "original": "ウバメのもり",
+    "translation": "ウバメのもり",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0272_0215",
+    "original": "コガネちかつうろ",
+    "translation": "コガネちかつうろ",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0272_0216",
+    "original": "スリバチやま",
+    "translation": "スリバチやま",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0272_0217",
+    "original": "こおりのぬけみち",
+    "translation": "こおりのぬけみち",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0272_0218",
+    "original": "うずまきじま",
+    "translation": "うずまきじま",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0272_0219",
+    "original": "シロガネやまどうくつ",
+    "translation": "シロガネやまどうくつ",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0272_0220",
+    "original": "くらやみのほらあな",
+    "translation": "くらやみのほらあな",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0272_0221",
+    "original": "チャンピオンロード",
+    "translation": "チャンピオンロード",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0272_0222",
+    "original": "りゅうのあな",
+    "translation": "りゅうのあな",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0272_0223",
+    "original": "トージョウのたき",
+    "translation": "トージョウのたき",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0272_0224",
+    "original": "トキワのもり",
+    "translation": "トキワのもり",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0272_0225",
+    "original": "ポケスロンドーム",
+    "translation": "ポケスロンドーム",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0272_0226",
+    "original": "アクアごう",
+    "translation": "アクアごう",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0272_0227",
+    "original": "サファリゾーンゲート",
+    "translation": "サファリゾーンゲート",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0272_0228",
+    "original": "だんがいのどうくつ",
+    "translation": "だんがいのどうくつ",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0272_0229",
+    "original": "フロンティアフロント",
+    "translation": "フロンティアフロント",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0272_0230",
+    "original": "スズねのこみち",
+    "translation": "スズねのこみち",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0272_0231",
+    "original": "シントいせき",
+    "translation": "シントいせき",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0272_0232",
+    "original": "うずもれのとう",
+    "translation": "うずもれのとう",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0272_0233",
+    "original": "ポケウォーカー",
+    "translation": "ポケウォーカー",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0272_0234",
+    "original": "がけっぷちゲート",
+    "translation": "がけっぷちゲート",
+    "index": 234
+  }
+]

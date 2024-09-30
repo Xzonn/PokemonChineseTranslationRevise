@@ -1,0 +1,272 @@
+[
+  {
+    "key": "DP_0014_0000",
+    "original": "[0101,0000]を どうしますか？",
+    "translation": "要对[0101,0000]\n做什么？",
+    "index": 0
+  },
+  {
+    "key": "DP_0014_0001",
+    "original": "マーキング してください",
+    "translation": "请做标记。",
+    "index": 1
+  },
+  {
+    "key": "DP_0014_0002",
+    "original": "ほんとうに にがしますか？",
+    "translation": "真的要放生吗？",
+    "index": 2
+  },
+  {
+    "key": "DP_0014_0003",
+    "original": "[0101,0000]を そとに にがしてあげた",
+    "translation": "将[0101,0000]放生了",
+    "index": 3
+  },
+  {
+    "key": "DP_0014_0004",
+    "original": "ばいばい [0101,0000]！",
+    "translation": "再见，[0101,0000]！",
+    "index": 4
+  },
+  {
+    "key": "DP_0014_0005",
+    "original": "てもちが いっぱいです！",
+    "translation": "所持宝可梦满了！",
+    "index": 5
+  },
+  {
+    "key": "DP_0014_0006",
+    "original": "たたかうポケモンが いなくなります！",
+    "translation": "这样就没有可以战斗的宝可梦了！",
+    "index": 6
+  },
+  {
+    "key": "DP_0014_0007",
+    "original": "このボックスを どうしますか？",
+    "translation": "要拿这个盒子做什么？",
+    "index": 7
+  },
+  {
+    "key": "DP_0014_0008",
+    "original": "どのボックスに ジャンプしますか？",
+    "translation": "要移动到哪个盒子去？",
+    "index": 8
+  },
+  {
+    "key": "DP_0014_0009",
+    "original": "どのテーマに しますか？",
+    "translation": "要选哪个主题？",
+    "index": 9
+  },
+  {
+    "key": "DP_0014_0010",
+    "original": "どのかべがみに しますか？",
+    "translation": "要选哪个壁纸？",
+    "index": 10
+  },
+  {
+    "key": "DP_0014_0011",
+    "original": "ボックスを しゅうりょうしますか？",
+    "translation": "要结束查看盒子吗？",
+    "index": 11
+  },
+  {
+    "key": "DP_0014_0012",
+    "original": "ボックスそうさを つづけますか？",
+    "translation": "要继续操作盒子吗？",
+    "index": 12
+  },
+  {
+    "key": "DP_0014_0013",
+    "original": "このボックスは いっぱいだ！",
+    "translation": "这个盒子满了！",
+    "index": 13
+  },
+  {
+    "key": "DP_0014_0014",
+    "original": "バッグが いっぱいです！",
+    "translation": "包包已满！",
+    "index": 14
+  },
+  {
+    "key": "DP_0014_0015",
+    "original": "[0108,0000]を あずかった！",
+    "translation": "存放了[0108,0000]！",
+    "index": 15
+  },
+  {
+    "key": "DP_0014_0016",
+    "original": "[0108,0000]を もたせた！",
+    "translation": "让宝可梦携带了[0108,0000]！",
+    "index": 16
+  },
+  {
+    "key": "DP_0014_0017",
+    "original": "ポケモンを つかんだままですよ！",
+    "translation": "手上还拿着宝可梦哦！",
+    "index": 17
+  },
+  {
+    "key": "DP_0014_0018",
+    "original": "つれていく ポケモンを えらんで！",
+    "translation": "请选择要带走的宝可梦！",
+    "index": 18
+  },
+  {
+    "key": "DP_0014_0019",
+    "original": "どのボックスに あずけますか？",
+    "translation": "要放在哪个盒子里？",
+    "index": 19
+  },
+  {
+    "key": "DP_0014_0020",
+    "original": "もちものなし",
+    "translation": "没有持有道具",
+    "index": 20
+  },
+  {
+    "key": "DP_0014_0021",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 21
+  },
+  {
+    "key": "DP_0014_0022",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 22
+  },
+  {
+    "key": "DP_0014_0023",
+    "original": "[0108,0000]を あずかりますか？",
+    "translation": "要收回[0108,0000]吗？",
+    "index": 23
+  },
+  {
+    "key": "DP_0014_0024",
+    "original": "メールをあずかることは できません！",
+    "translation": "无法存放邮件！",
+    "index": 24
+  },
+  {
+    "key": "DP_0014_0025",
+    "original": "[0108,0000]を どうしますか？",
+    "translation": "要对[0108,0000]做什么？",
+    "index": 25
+  },
+  {
+    "key": "DP_0014_0026",
+    "original": "[0108,0000]を しまいますか？",
+    "translation": "要收起[0108,0000]吗？",
+    "index": 26
+  },
+  {
+    "key": "DP_0014_0027",
+    "original": "[0108,0000]を バッグに いれた！",
+    "translation": "将[0108,0000]放进包包里了！",
+    "index": 27
+  },
+  {
+    "key": "DP_0014_0028",
+    "original": "どうぐを もたせますか？",
+    "translation": "要持有道具吗？",
+    "index": 28
+  },
+  {
+    "key": "DP_0014_0029",
+    "original": "ボールカプセルを はずしてください！",
+    "translation": "请取下球壳！",
+    "index": 29
+  },
+  {
+    "key": "DP_0014_0030",
+    "original": "メールを はずしてください！",
+    "translation": "请取下邮件！",
+    "index": 30
+  },
+  {
+    "key": "DP_0014_0031",
+    "original": "タマゴを にがすことは できません！",
+    "translation": "无法将蛋放生！",
+    "index": 31
+  },
+  {
+    "key": "DP_0014_0032",
+    "original": "[0101,0000]が もどってきちゃった！",
+    "translation": "[0101,0000]自己回来了！",
+    "index": 32
+  },
+  {
+    "key": "DP_0014_0033",
+    "original": "しんぱい だったのかな⋯⋯",
+    "translation": "是不是因为不放心呢……",
+    "index": 33
+  },
+  {
+    "key": "DP_0014_0034",
+    "original": "タマゴは どうぐを もてません！",
+    "translation": "蛋无法携带道具！",
+    "index": 34
+  },
+  {
+    "key": "DP_0014_0035",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 35
+  },
+  {
+    "key": "DP_0014_0036",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 36
+  },
+  {
+    "key": "DP_0014_0037",
+    "original": "Ｈ Ｐ",
+    "translation": "ＨＰ",
+    "index": 37
+  },
+  {
+    "key": "DP_0014_0038",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 38
+  },
+  {
+    "key": "DP_0014_0039",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 39
+  },
+  {
+    "key": "DP_0014_0040",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 40
+  },
+  {
+    "key": "DP_0014_0041",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 41
+  },
+  {
+    "key": "DP_0014_0042",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 42
+  },
+  {
+    "key": "DP_0014_0043",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 43
+  },
+  {
+    "key": "DP_0014_0044",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 44
+  }
+]

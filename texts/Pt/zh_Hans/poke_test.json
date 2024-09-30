@@ -1,0 +1,158 @@
+[
+  {
+    "key": "PT_0292_0000",
+    "original": "[0134,0000] [0100,0001] [0100,0002] [0100,0003]",
+    "translation": "[0134,0000]　[0100,0001]　[0100,0002]　[0100,0003]",
+    "index": 0
+  },
+  {
+    "key": "PT_0292_0001",
+    "original": "オス",
+    "translation": "雄性",
+    "index": 1
+  },
+  {
+    "key": "PT_0292_0002",
+    "original": "メス",
+    "translation": "雌性",
+    "index": 2
+  },
+  {
+    "key": "PT_0292_0003",
+    "original": "なし",
+    "translation": "无",
+    "index": 3
+  },
+  {
+    "key": "PT_0292_0004",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 4
+  },
+  {
+    "key": "PT_0292_0005",
+    "original": "レア",
+    "translation": "稀有",
+    "index": 5
+  },
+  {
+    "key": "PT_0292_0006",
+    "original": "ー",
+    "translation": "ー",
+    "index": 6
+  },
+  {
+    "key": "PT_0292_0007",
+    "original": "ループ",
+    "translation": "圈",
+    "index": 7
+  },
+  {
+    "key": "PT_0292_0008",
+    "original": "→",
+    "translation": "→",
+    "index": 8
+  },
+  {
+    "key": "PT_0292_0009",
+    "original": "ロードします",
+    "translation": "读取记录",
+    "index": 9
+  },
+  {
+    "key": "PT_0292_0010",
+    "original": "セーブします",
+    "translation": "保存记录",
+    "index": 10
+  },
+  {
+    "key": "PT_0292_0011",
+    "original": "はい",
+    "translation": "是",
+    "index": 11
+  },
+  {
+    "key": "PT_0292_0012",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 12
+  },
+  {
+    "key": "PT_0292_0013",
+    "original": "Ｌ１",
+    "translation": "Ｌ１",
+    "index": 13
+  },
+  {
+    "key": "PT_0292_0014",
+    "original": "Ｌ２",
+    "translation": "Ｌ２",
+    "index": 14
+  },
+  {
+    "key": "PT_0292_0015",
+    "original": "Ｌ３",
+    "translation": "Ｌ３",
+    "index": 15
+  },
+  {
+    "key": "PT_0292_0016",
+    "original": "Ｌ４",
+    "translation": "Ｌ４",
+    "index": 16
+  },
+  {
+    "key": "PT_0292_0017",
+    "original": "Ｌ５",
+    "translation": "Ｌ５",
+    "index": 17
+  },
+  {
+    "key": "PT_0292_0018",
+    "original": "Ｌ６",
+    "translation": "Ｌ６",
+    "index": 18
+  },
+  {
+    "key": "PT_0292_0019",
+    "original": "Ｌ７",
+    "translation": "Ｌ７",
+    "index": 19
+  },
+  {
+    "key": "PT_0292_0020",
+    "original": "Ｌ８",
+    "translation": "Ｌ８",
+    "index": 20
+  },
+  {
+    "key": "PT_0292_0021",
+    "original": "Ｌ９",
+    "translation": "Ｌ９",
+    "index": 21
+  },
+  {
+    "key": "PT_0292_0022",
+    "original": "Ｐｏｓ（[0134,0004]、[0134,0005]）",
+    "translation": "Ｐｏｓ（[0134,0004]、[0134,0005]）",
+    "index": 22
+  },
+  {
+    "key": "PT_0292_0023",
+    "original": "なきごえかいし",
+    "translation": "开始鸣叫",
+    "index": 23
+  },
+  {
+    "key": "PT_0292_0024",
+    "original": "エディット しょうめん",
+    "translation": "编辑正面",
+    "index": 24
+  },
+  {
+    "key": "PT_0292_0025",
+    "original": "エディット はいめん",
+    "translation": "编辑背面",
+    "index": 25
+  }
+]

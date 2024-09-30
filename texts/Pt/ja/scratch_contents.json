@@ -1,0 +1,80 @@
+[
+  {
+    "key": "PT_0425_0000",
+    "original": "[0132,0000]まいめ",
+    "translation": "[0132,0000]まいめ",
+    "index": 0
+  },
+  {
+    "key": "PT_0425_0001",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 1
+  },
+  {
+    "key": "PT_0425_0002",
+    "original": "３コ",
+    "translation": "３コ",
+    "index": 2
+  },
+  {
+    "key": "PT_0425_0003",
+    "original": "Ｘ ３",
+    "translation": "Ｘ ３",
+    "index": 3
+  },
+  {
+    "key": "PT_0425_0004",
+    "original": "つぎのカードへ",
+    "translation": "つぎのカードへ",
+    "index": 4
+  },
+  {
+    "key": "PT_0425_0005",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 5
+  },
+  {
+    "key": "PT_0425_0006",
+    "original": "このカードの スクラッチを\nやめますか？",
+    "translation": "このカードの スクラッチを\nやめますか？",
+    "index": 6
+  },
+  {
+    "key": "PT_0425_0007",
+    "original": "はい",
+    "translation": "はい",
+    "index": 7
+  },
+  {
+    "key": "PT_0425_0008",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 8
+  },
+  {
+    "key": "PT_0425_0009",
+    "original": "[0132,0000]まいめスタート！",
+    "translation": "[0132,0000]まいめスタート！",
+    "index": 9
+  },
+  {
+    "key": "PT_0425_0010",
+    "original": "３つそろった！",
+    "translation": "３つそろった！",
+    "index": 10
+  },
+  {
+    "key": "PT_0425_0011",
+    "original": "ざんねん！",
+    "translation": "ざんねん！",
+    "index": 11
+  },
+  {
+    "key": "PT_0425_0012",
+    "original": "[0132,0000]まいめの カードを\nえらんでください[0200,0000]",
+    "translation": "[0132,0000]まいめの カードを\nえらんでください[0200,0000]",
+    "index": 12
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "DP_0771_0000",
+    "original": "なし",
+    "translation": "无",
+    "index": 0
+  },
+  {
+    "key": "DP_0771_0001",
+    "original": "アルバータ",
+    "translation": "阿尔伯塔",
+    "index": 1
+  },
+  {
+    "key": "DP_0771_0002",
+    "original": "ブリティッシュ・コロンビア",
+    "translation": "不列颠・哥伦比亚",
+    "index": 2
+  },
+  {
+    "key": "DP_0771_0003",
+    "original": "マニトバ",
+    "translation": "马尼托巴",
+    "index": 3
+  },
+  {
+    "key": "DP_0771_0004",
+    "original": "ニューブランズウィック",
+    "translation": "新不伦瑞克",
+    "index": 4
+  },
+  {
+    "key": "DP_0771_0005",
+    "original": "ニューファンドランド・ラブラドール",
+    "translation": "纽芬兰・拉布拉多",
+    "index": 5
+  },
+  {
+    "key": "DP_0771_0006",
+    "original": "ノースウエスト",
+    "translation": "西北地区",
+    "index": 6
+  },
+  {
+    "key": "DP_0771_0007",
+    "original": "ノバスコシア",
+    "translation": "新斯科舍",
+    "index": 7
+  },
+  {
+    "key": "DP_0771_0008",
+    "original": "ヌナブト",
+    "translation": "努纳武特",
+    "index": 8
+  },
+  {
+    "key": "DP_0771_0009",
+    "original": "オンタリオ",
+    "translation": "安大略",
+    "index": 9
+  },
+  {
+    "key": "DP_0771_0010",
+    "original": "プリンス・エドワード・アイランド",
+    "translation": "爱德华王子省",
+    "index": 10
+  },
+  {
+    "key": "DP_0771_0011",
+    "original": "ケベック",
+    "translation": "魁北克",
+    "index": 11
+  },
+  {
+    "key": "DP_0771_0012",
+    "original": "サスカチュワン",
+    "translation": "萨斯喀彻温",
+    "index": 12
+  },
+  {
+    "key": "DP_0771_0013",
+    "original": "ユーコン",
+    "translation": "育空地区",
+    "index": 13
+  }
+]

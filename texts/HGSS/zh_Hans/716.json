@@ -1,0 +1,20 @@
+[
+  {
+    "key": "HGSS_0716_0000",
+    "original": "たいせんしますか？[0200,0000]",
+    "translation": "要对战吗？[0200,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0716_0001",
+    "original": "また こんどね！",
+    "translation": "下次再见吧！",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0716_0002",
+    "original": "バトルポイントを\n１ポイント ゲット！",
+    "translation": "得到了１点对战点数！",
+    "index": 2
+  }
+]

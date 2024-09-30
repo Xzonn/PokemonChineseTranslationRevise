@@ -1,5 +1,7 @@
 #!/usr/bin/env dotnet-script
 #r "nuget: NitroHelper, 0.12.0"
+
+using System.Diagnostics;
 using System.Globalization;
 
 void EditBinary(ref byte[] bytes, int offset, string newHexString)
@@ -9,16 +11,16 @@ void EditBinary(ref byte[] bytes, int offset, string newHexString)
   Console.WriteLine($"Edited binary at 0x{offset:X06} (length: 0x{newBytes.Length:X}): {newHexString}");
 }
 
-void EditBanner(string gameCode, string newTitle)
+void EditBanner(string parentGame, string game, string newTitle)
 {
-  var banner = new NitroHelper.Banner($"files/{gameCode}/banner.bin");
+  var banner = new NitroHelper.Banner($"original_files/{parentGame}/{game}/banner.bin");
   banner.japaneseTitle = newTitle;
   banner.englishTitle = newTitle;
   banner.frenchTitle = newTitle;
   banner.germanTitle = newTitle;
   banner.italianTitle = newTitle;
   banner.spanishTitle = newTitle;
-  banner.WriteTo($"out/{gameCode}/banner.bin");
+  banner.WriteTo($"out/{game}/banner.bin");
   Console.WriteLine($"Banner title edited: {newTitle.Split('\n')[0]}");
 }
 
@@ -138,31 +140,59 @@ string[] SortEasyChatWords(ref byte[] arm9, uint offset, string[] words)
   return aikotobaList.ToArray();
 }
 
-Dictionary<int, Dictionary<int, string>> LoadMessages(string game)
+Dictionary<int, Dictionary<int, string>> LoadMessages(string path)
 {
   var messages = new Dictionary<int, Dictionary<int, string>>();
-  var fileList = File.ReadAllLines($"files/{game}/messages_list.txt");
-  foreach (var file in fileList)
+  var allLines = File.ReadAllLines(path);
+  Dictionary<int, string> current = new();
+  foreach (var line in allLines)
   {
-    if (file.StartsWith('#') || !file.Contains('\t')) { continue; }
-    var fileSplit = file.Split('\t');
-    var fileID = int.Parse(fileSplit[0]);
-    var filePath = fileSplit[1];
-    var lines = File.ReadAllLines(filePath);
-    if (!messages.TryGetValue(fileID, out Dictionary<int, string> value))
+    if (string.IsNullOrEmpty(line) || line.StartsWith('#')) { continue; }
+    if (!line.Contains('\t'))
     {
-      value = [];
-      messages.Add(fileID, value);
+      var currentIndex = int.Parse(line);
+      current = new();
+      messages.Add(currentIndex, current);
+      continue;
     }
-    foreach (var line in lines)
-    {
-      if (line.StartsWith('#') || !line.Contains('\t')) { continue; }
-      var lineSplit = line.Split('\t');
-      var lineID = int.Parse(lineSplit[0]);
-      var lineText = lineSplit[1];
-      value.Add(lineID, lineText);
-    }
+    var lineSplit = line.Split('\t', 2);
+    var lineIndex = int.Parse(lineSplit[0]);
+    var content = lineSplit[1];
+    current.Add(lineIndex, content);
   }
 
   return messages;
+}
+
+bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
+{
+  ProcessStartInfo psi = new()
+  {
+    FileName = "make",
+    Arguments = $"TARGET=repl_{address:X7} SOURCES=replSource/{address:X7} GAME={game} CODEADDR=0x{address:X7}",
+    WorkingDirectory = $"asm/{parentGame}",
+    UseShellExecute = false,
+    RedirectStandardError = true,
+    RedirectStandardOutput = true,
+  };
+  Process p = new() { StartInfo = psi };
+  static void func(object sender, DataReceivedEventArgs e)
+  {
+    if (!string.IsNullOrEmpty(e.Data)) {
+      Console.WriteLine(e.Data);
+    }
+  }
+  p.OutputDataReceived += func;
+  p.ErrorDataReceived += func;
+  p.Start();
+  p.BeginOutputReadLine();
+  p.BeginErrorReadLine();
+  p.WaitForExit();
+  if (p.ExitCode == 0)
+  {
+    var newBytes = File.ReadAllBytes($"asm/{parentGame}/repl_{address:X7}.bin");
+    Array.Copy(newBytes, 0, arm9, address - 0x2000000, newBytes.Length);
+    return true;
+  }
+  return false;
 }

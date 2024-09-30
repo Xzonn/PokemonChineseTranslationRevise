@@ -1,0 +1,296 @@
+[
+  {
+    "key": "DP_0005_0000",
+    "original": "ＨＰ／ＰＰ",
+    "translation": "ＨＰ／ＰＰ",
+    "index": 0
+  },
+  {
+    "key": "DP_0005_0001",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 1
+  },
+  {
+    "key": "DP_0005_0002",
+    "original": "じょうたい",
+    "translation": "状态",
+    "index": 2
+  },
+  {
+    "key": "DP_0005_0003",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 3
+  },
+  {
+    "key": "DP_0005_0004",
+    "original": "ＨＰ／ＰＰ",
+    "translation": "ＨＰ／ＰＰ",
+    "index": 4
+  },
+  {
+    "key": "DP_0005_0005",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 5
+  },
+  {
+    "key": "DP_0005_0006",
+    "original": "せんとうよう",
+    "translation": "战斗道具",
+    "index": 6
+  },
+  {
+    "key": "DP_0005_0007",
+    "original": "ボール",
+    "translation": "精灵球",
+    "index": 7
+  },
+  {
+    "key": "DP_0005_0008",
+    "original": "さいごにつかったどうぐ",
+    "translation": "最后使用的道具",
+    "index": 8
+  },
+  {
+    "key": "DP_0005_0009",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 9
+  },
+  {
+    "key": "DP_0005_0010",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 10
+  },
+  {
+    "key": "DP_0005_0011",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 11
+  },
+  {
+    "key": "DP_0005_0012",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 12
+  },
+  {
+    "key": "DP_0005_0013",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 13
+  },
+  {
+    "key": "DP_0005_0014",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 14
+  },
+  {
+    "key": "DP_0005_0015",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 15
+  },
+  {
+    "key": "DP_0005_0016",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 16
+  },
+  {
+    "key": "DP_0005_0017",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 17
+  },
+  {
+    "key": "DP_0005_0018",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 18
+  },
+  {
+    "key": "DP_0005_0019",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 19
+  },
+  {
+    "key": "DP_0005_0020",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 20
+  },
+  {
+    "key": "DP_0005_0021",
+    "original": "つぎへ",
+    "translation": "下一步",
+    "index": 21
+  },
+  {
+    "key": "DP_0005_0022",
+    "original": "ＨＰ／ＰＰ",
+    "translation": "ＨＰ／ＰＰ",
+    "index": 22
+  },
+  {
+    "key": "DP_0005_0023",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 23
+  },
+  {
+    "key": "DP_0005_0024",
+    "original": "じょうたい",
+    "translation": "状态",
+    "index": 24
+  },
+  {
+    "key": "DP_0005_0025",
+    "original": "かいふく",
+    "translation": "回复",
+    "index": 25
+  },
+  {
+    "key": "DP_0005_0026",
+    "original": "ボール",
+    "translation": "精灵球",
+    "index": 26
+  },
+  {
+    "key": "DP_0005_0027",
+    "original": "せんとうよう",
+    "translation": "战斗道具",
+    "index": 27
+  },
+  {
+    "key": "DP_0005_0028",
+    "original": "／",
+    "translation": "／",
+    "index": 28
+  },
+  {
+    "key": "DP_0005_0029",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 29
+  },
+  {
+    "key": "DP_0005_0030",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 30
+  },
+  {
+    "key": "DP_0005_0031",
+    "original": "つかう",
+    "translation": "使用",
+    "index": 31
+  },
+  {
+    "key": "DP_0005_0032",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 32
+  },
+  {
+    "key": "DP_0005_0033",
+    "original": "⊗[0134,0000]",
+    "translation": "⊗[0134,0000]",
+    "index": 33
+  },
+  {
+    "key": "DP_0005_0034",
+    "original": "つかっても こうかが ないよ",
+    "translation": "即便使用也无效果哦。",
+    "index": 34
+  },
+  {
+    "key": "DP_0005_0035",
+    "original": "しろいきりに つつまれた！\n",
+    "translation": "被白雾包围了！\n",
+    "index": 35
+  },
+  {
+    "key": "DP_0005_0036",
+    "original": "[0101,0000]は\nはりきっている",
+    "translation": "[0101,0000]\n现在干劲十足！",
+    "index": 36
+  },
+  {
+    "key": "DP_0005_0037",
+    "original": "[0101,0000]の\nこうげきが あがった！",
+    "translation": "[0101,0000]的\n攻击提高了！",
+    "index": 37
+  },
+  {
+    "key": "DP_0005_0038",
+    "original": "[0101,0000]の\nとくこうが あがった！",
+    "translation": "[0101,0000]的\n特攻提高了！",
+    "index": 38
+  },
+  {
+    "key": "DP_0005_0039",
+    "original": "[0101,0000]の\nすばやさが あがった！",
+    "translation": "[0101,0000]的\n速度提高了！",
+    "index": 39
+  },
+  {
+    "key": "DP_0005_0040",
+    "original": "[0101,0000]の\nとくぼうが あがった！",
+    "translation": "[0101,0000]的\n特防提高了！",
+    "index": 40
+  },
+  {
+    "key": "DP_0005_0041",
+    "original": "[0101,0000]の\nぼうぎょが あがった！",
+    "translation": "[0101,0000]的\n防御提高了！",
+    "index": 41
+  },
+  {
+    "key": "DP_0005_0042",
+    "original": "[0101,0000]の\nめいちゅうりつが あがった！",
+    "translation": "[0101,0000]的\n命中率提高了！",
+    "index": 42
+  },
+  {
+    "key": "DP_0005_0043",
+    "original": "[0108,0000]を\nつかった！",
+    "translation": "使用了[0108,0000]！",
+    "index": 43
+  },
+  {
+    "key": "DP_0005_0044",
+    "original": "だめだ！ ２ひきいて\nねらいが さだまらない⋯⋯！",
+    "translation": "不行！因为有２只，\n无法瞄准……！",
+    "index": 44
+  },
+  {
+    "key": "DP_0005_0045",
+    "original": "ボックスが いっぱいです！",
+    "translation": "盒子满了！",
+    "index": 45
+  },
+  {
+    "key": "DP_0005_0046",
+    "original": "[0106,0001]の こうかで\n[0101,0000]には つかえません！",
+    "translation": "因[0106,0001]的效果，\n无法对[0101,0000]使用！",
+    "index": 46
+  },
+  {
+    "key": "DP_0005_0047",
+    "original": "だめだ！ ポケモンが みえなくて\nねらいが さだまらない⋯⋯！",
+    "translation": "不行！看不见宝可梦，\n无法瞄准……！",
+    "index": 47
+  },
+  {
+    "key": "DP_0005_0048",
+    "original": "だめだ！ ポケモンが みえなくて\nねらいが さだまらない⋯⋯！",
+    "translation": "不行！看不见宝可梦，\n无法瞄准……！",
+    "index": 48
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "key": "HGSS_0024_0000",
+    "original": "[0101,0000]を どうする？",
+    "translation": "要[0101,0000]\n怎么样？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0024_0001",
+    "original": "マーキング してください",
+    "translation": "请做标记。",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0024_0002",
+    "original": "ほんとうに にがしますか？",
+    "translation": "真的要放生吗？",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0024_0003",
+    "original": "[0101,0000]を そとに にがしてあげた",
+    "translation": "将[0101,0000]放生了",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0024_0004",
+    "original": "ばいばい [0101,0000]！",
+    "translation": "再见，[0101,0000]！",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0024_0005",
+    "original": "てもちが いっぱいです！",
+    "translation": "所持宝可梦满了！",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0024_0006",
+    "original": "たたかうポケモンが いなくなります！",
+    "translation": "这样就没有可以战斗的宝可梦了！",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0024_0007",
+    "original": "ボックスを どうする？",
+    "translation": "盒子怎么处理？",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0024_0008",
+    "original": "どのボックスに ジャンプしますか？",
+    "translation": "要移动到哪个盒子去？",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0024_0009",
+    "original": "どのテーマに しますか？",
+    "translation": "要选哪个主题？",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0024_0010",
+    "original": "どの かべがみに する？",
+    "translation": "设置成什么壁纸？",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0024_0011",
+    "original": "ボックスを しゅうりょうしますか？",
+    "translation": "要结束查看盒子吗？",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0024_0012",
+    "original": "ボックスそうさを つづけますか？",
+    "translation": "要继续操作盒子吗？",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0024_0013",
+    "original": "このボックスは いっぱいです！",
+    "translation": "该盒子已满！",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0024_0014",
+    "original": "バッグが いっぱいです！",
+    "translation": "包包已满！",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0024_0015",
+    "original": "[0108,0000]を あずかった！",
+    "translation": "存放了[0108,0000]！",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0024_0016",
+    "original": "[0108,0000]を もたせた！",
+    "translation": "让宝可梦携带了[0108,0000]！",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0024_0017",
+    "original": "ポケモンを つかんだままですよ！",
+    "translation": "手上还拿着宝可梦哦！",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0024_0018",
+    "original": "ポケモンを タッチ！",
+    "translation": "触摸宝可梦！",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0024_0019",
+    "original": "どこへ あずける？",
+    "translation": "存放到哪儿？",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0024_0020",
+    "original": "もちものなし",
+    "translation": "没有持有道具",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0024_0021",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0024_0022",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0024_0023",
+    "original": "[0108,0000]を あずかりますか？",
+    "translation": "要收回[0108,0000]吗？",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0024_0024",
+    "original": "メールをしまうことは できません！",
+    "translation": "无法收纳邮件！",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0024_0025",
+    "original": "[0108,0000]を どうしますか？",
+    "translation": "要对[0108,0000]做什么？",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0024_0026",
+    "original": "[0108,0000]を しまいますか？",
+    "translation": "要收起[0108,0000]吗？",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0024_0027",
+    "original": "[0108,0000]を バッグに いれた！",
+    "translation": "将[0108,0000]放进包包里了！",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0024_0028",
+    "original": "どうぐを もたせます",
+    "translation": "让宝可梦拿道具。",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0024_0029",
+    "original": "ボールカプセルを はずしてください！",
+    "translation": "请取下球壳！",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0024_0030",
+    "original": "メールを はずしてください！",
+    "translation": "请取下邮件！",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0024_0031",
+    "original": "タマゴを にがすことは できません！",
+    "translation": "无法将蛋放生！",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0024_0032",
+    "original": "[0101,0000]が もどってきちゃった！",
+    "translation": "[0101,0000]自己回来了！",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0024_0033",
+    "original": "しんぱい だったのかな⋯⋯",
+    "translation": "是不是因为不放心呢……",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0024_0034",
+    "original": "タマゴは どうぐを もてません！",
+    "translation": "蛋无法携带道具！",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0024_0035",
+    "original": "マークを タッチしよう！",
+    "translation": "触摸标志吧！",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0024_0036",
+    "original": "ボックスに おけます！",
+    "translation": "能够放进盒子里！",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0024_0037",
+    "original": "てもちに くわえることが できます！",
+    "translation": "能加入携带队伍！",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0024_0038",
+    "original": "このボックスは いっぱいです！",
+    "translation": "该盒子已满！",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0024_0039",
+    "original": "てもちが いっぱいです！",
+    "translation": "所持宝可梦满了！",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0024_0040",
+    "original": "せいかく",
+    "translation": "性格",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0024_0041",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0024_0042",
+    "original": "Ｈ Ｐ",
+    "translation": "ＨＰ",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0024_0043",
+    "original": "こうげき",
+    "translation": "攻击",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0024_0044",
+    "original": "ぼうぎょ",
+    "translation": "防御",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0024_0045",
+    "original": "とくこう",
+    "translation": "特攻",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0024_0046",
+    "original": "とくぼう",
+    "translation": "特防",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0024_0047",
+    "original": "すばやさ",
+    "translation": "速度",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0024_0048",
+    "original": "わざ",
+    "translation": "招式",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0024_0049",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0024_0050",
+    "original": "ポケモンを あずける",
+    "translation": "寄放宝可梦",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0024_0051",
+    "original": "ポケモンを つれていく",
+    "translation": "取出宝可梦",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0024_0052",
+    "original": "ボックスを せいりする",
+    "translation": "整理盒子",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0024_0053",
+    "original": "もちものを せいりする",
+    "translation": "整理携带物品",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0024_0054",
+    "original": "メールは いどうできません！",
+    "translation": "邮件无法移动！",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0024_0055",
+    "original": "[0108,0000]を もてない！",
+    "translation": "并没持有[0108,0000]！",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0024_0056",
+    "original": "メールを もっています！",
+    "translation": "有邮件！",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0024_0057",
+    "original": "ボールカプセルを もっています！",
+    "translation": "有球壳！",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0024_0058",
+    "original": "たたかうポケモンが いなくなります！",
+    "translation": "这样就没有可以战斗的宝可梦了！",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0024_0059",
+    "original": "メールは いどうできません！",
+    "translation": "邮件无法移动！",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0024_0060",
+    "original": "ポケモンに もたせることが できます",
+    "translation": "能够让宝可梦拿着。",
+    "index": 60
+  }
+]

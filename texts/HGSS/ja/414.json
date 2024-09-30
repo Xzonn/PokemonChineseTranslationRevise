@@ -1,0 +1,440 @@
+[
+  {
+    "key": "HGSS_0414_0000",
+    "original": "シングルバトル",
+    "translation": "シングルバトル",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0414_0001",
+    "original": "ダブルバトル",
+    "translation": "ダブルバトル",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0414_0002",
+    "original": "マルチバトル",
+    "translation": "マルチバトル",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0414_0003",
+    "original": "つうしんマルチバトル",
+    "translation": "つうしんマルチバトル",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0414_0004",
+    "original": "ＷｉーＦｉバトル",
+    "translation": "ＷｉーＦｉバトル",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0414_0005",
+    "original": "へいきんかちぬきすう",
+    "translation": "へいきんかちぬきすう",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0414_0006",
+    "original": "たおしたポケモン",
+    "translation": "たおしたポケモン",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0414_0007",
+    "original": "つかまえたポケモン",
+    "translation": "つかまえたポケモン",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0414_0008",
+    "original": "ポケモンのタマゴ",
+    "translation": "ポケモンのタマゴ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0414_0009",
+    "original": "つりあげたポケモン",
+    "translation": "つりあげたポケモン",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0414_0010",
+    "original": "コンテストのゆうしょうかいすう",
+    "translation": "コンテストのゆうしょうかいすう",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0414_0011",
+    "original": "コンテストのしょうりつ",
+    "translation": "コンテストのしょうりつ",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0414_0012",
+    "original": "リボンのかくとくすう",
+    "translation": "リボンのかくとくすう",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0414_0013",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0414_0014",
+    "original": "[0132,0000]．[0103,0001]",
+    "translation": "[0132,0000]．[0103,0001]",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0414_0015",
+    "original": "[0135,0000]しょう",
+    "translation": "[0135,0000]しょう",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0414_0016",
+    "original": "[0132,0000]にん",
+    "translation": "[0132,0000]にん",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0414_0017",
+    "original": "[0136,0000]こ",
+    "translation": "[0136,0000]こ",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0414_0018",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]ひき",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0414_0019",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]ひき",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0414_0020",
+    "original": "[0134,0000]％",
+    "translation": "[0134,0000]％",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0414_0021",
+    "original": "[0135,0000]かい",
+    "translation": "[0135,0000]かい",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0414_0022",
+    "original": "どの きろくを みますか？",
+    "translation": "どの きろくを みますか？",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0414_0023",
+    "original": "バトルタワーの きろく\nシングルバトル れんしょうすう",
+    "translation": "バトルタワーの きろく\nシングルバトル れんしょうすう",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0414_0024",
+    "original": "バトルタワーの きろく\nダブルバトル れんしょうすう",
+    "translation": "バトルタワーの きろく\nダブルバトル れんしょうすう",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0414_0025",
+    "original": "バトルタワーの きろく\nマルチバトル れんしょうすう",
+    "translation": "バトルタワーの きろく\nマルチバトル れんしょうすう",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0414_0026",
+    "original": "バトルタワーの きろく\nつうしんマルチバトル れんしょうすう",
+    "translation": "バトルタワーの きろく\nつうしんマルチバトル れんしょうすう",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0414_0027",
+    "original": "バトルタワーの きろく\nＷｉーＦｉバトル れんしょうすう",
+    "translation": "バトルタワーの きろく\nＷｉーＦｉバトル れんしょうすう",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0414_0028",
+    "original": "バトルタワーの きろく\nへいきん かちぬきすう",
+    "translation": "バトルタワーの きろく\nへいきん かちぬきすう",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0414_0029",
+    "original": "たおした ポケモンの かず",
+    "translation": "たおした ポケモンの かず",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0414_0030",
+    "original": "ボールで つかまえた\nポケモンの かず",
+    "translation": "ボールで つかまえた\nポケモンの かず",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0414_0031",
+    "original": "タマゴから うまれた\nポケモンの かず",
+    "translation": "タマゴから うまれた\nポケモンの かず",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0414_0032",
+    "original": "つりあげた ポケモンの かず",
+    "translation": "つりあげた ポケモンの かず",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0414_0033",
+    "original": "コンテストで ゆうしょう\nした かいすう",
+    "translation": "コンテストで ゆうしょう\nした かいすう",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0414_0034",
+    "original": "コンテストの しょうりつ",
+    "translation": "コンテストの しょうりつ",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0414_0035",
+    "original": "コンテストで もらった\nリボンの かず",
+    "translation": "コンテストで もらった\nリボンの かず",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0414_0036",
+    "original": "きろくをけす",
+    "translation": "きろくをけす",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0414_0037",
+    "original": "けしたい きろくを えらんで\nＸか Ａボタンを おしてください",
+    "translation": "けしたい きろくを えらんで\nＸか Ａボタンを おしてください",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0414_0038",
+    "original": "ほんとうに けしても いいですか？",
+    "translation": "ほんとうに けしても いいですか？",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0414_0039",
+    "original": "あなたの きろくは けせません！",
+    "translation": "あなたの きろくは けせません！",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0414_0040",
+    "original": "[0205]きろくをけす",
+    "translation": "[0205]きろくをけす",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0414_0041",
+    "original": "[0205]もどる",
+    "translation": "[0205]もどる",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0414_0042",
+    "original": "[0132,0000]．",
+    "translation": "[0132,0000]．",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0414_0043",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0414_0044",
+    "original": "[0135,0000]しょう",
+    "translation": "[0135,0000]しょう",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0414_0045",
+    "original": "[0132,0000]にん",
+    "translation": "[0132,0000]にん",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0414_0046",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]ひき",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0414_0047",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]ひき",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0414_0048",
+    "original": "けしたい きろくを えらんで\nＡまたは Ｘボタンを おしてください",
+    "translation": "けしたい きろくを えらんで\nＡまたは Ｘボタンを おしてください",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0414_0049",
+    "original": "[0103,0000]の きろくを\nほんとうに けしても いいですか？",
+    "translation": "[0103,0000]の きろくを\nほんとうに けしても いいですか？",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0414_0050",
+    "original": "はい",
+    "translation": "はい",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0414_0051",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0414_0052",
+    "original": "あなたの きろくは けせません！\n",
+    "translation": "あなたの きろくは けせません！\n",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0414_0053",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0414_0054",
+    "original": "[0205]シングルバトル れんしょうすう",
+    "translation": "[0205]シングルバトル れんしょうすう",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0414_0055",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0414_0056",
+    "original": "[0205]ダブルバトル れんしょうすう",
+    "translation": "[0205]ダブルバトル れんしょうすう",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0414_0057",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0414_0058",
+    "original": "[0205]マルチバトル れんしょうすう",
+    "translation": "[0205]マルチバトル れんしょうすう",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0414_0059",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0414_0060",
+    "original": "[0205]つうしんマルチバトル れんしょうすう",
+    "translation": "[0205]つうしんマルチバトル れんしょうすう",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0414_0061",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0414_0062",
+    "original": "[0205]ＷｉーＦｉバトル れんしょうすう",
+    "translation": "[0205]ＷｉーＦｉバトル れんしょうすう",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0414_0063",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]バトルタワーの きろく",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0414_0064",
+    "original": "[0205]へいきん かちぬきすう",
+    "translation": "[0205]へいきん かちぬきすう",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0414_0065",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]ポケモンの きろく",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0414_0066",
+    "original": "[0205]たおした ポケモンの かず",
+    "translation": "[0205]たおした ポケモンの かず",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0414_0067",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]ポケモンの きろく",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0414_0068",
+    "original": "[0205]ボールで つかまえた ポケモンの かず",
+    "translation": "[0205]ボールで つかまえた ポケモンの かず",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0414_0069",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]ポケモンの きろく",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0414_0070",
+    "original": "[0205]タマゴから うまれた ポケモンの かず",
+    "translation": "[0205]タマゴから うまれた ポケモンの かず",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0414_0071",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]ポケモンの きろく",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0414_0072",
+    "original": "[0205]つりあげた ポケモンの かず",
+    "translation": "[0205]つりあげた ポケモンの かず",
+    "index": 72
+  }
+]

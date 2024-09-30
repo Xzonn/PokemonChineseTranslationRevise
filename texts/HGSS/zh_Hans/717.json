@@ -1,0 +1,116 @@
+[
+  {
+    "key": "HGSS_0717_0000",
+    "original": "ＩＤＮｏ．",
+    "translation": "ID No.",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0717_0001",
+    "original": "なまえ",
+    "translation": "名字",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0717_0002",
+    "original": "おこづかい",
+    "translation": "零花钱",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0717_0003",
+    "original": "ポケモンずかん",
+    "translation": "宝可梦图鉴",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0717_0004",
+    "original": "ＳＣＯＲＥ",
+    "translation": "ＳＣＯＲＥ",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0717_0005",
+    "original": "プレイじかん",
+    "translation": "游戏时间",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0717_0006",
+    "original": "ぼうけんを はじめたとき",
+    "translation": "开始冒险的日期",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0717_0007",
+    "original": "はじめての でんどういり",
+    "translation": "初次登入名人堂",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0717_0008",
+    "original": "つうしんした かいすう",
+    "translation": "连接次数",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0717_0009",
+    "original": "つうしん たいせん",
+    "translation": "连接对战",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0717_0010",
+    "original": "つうしん こうかん",
+    "translation": "连接交换",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0717_0011",
+    "original": ":",
+    "translation": ":",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0717_0012",
+    "original": "ーー",
+    "translation": "ーー",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0717_0013",
+    "original": "ーー:ーー",
+    "translation": "ーー:ーー",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0717_0014",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0717_0015",
+    "original": "カードを タッチして めくる",
+    "translation": "触摸卡片翻面",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0717_0016",
+    "original": "サインを かく",
+    "translation": "签名",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0717_0017",
+    "original": "トレーナーカードに サインを\nかきますか？",
+    "translation": "要在训练家卡片上签名吗？",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0717_0018",
+    "original": "いま かかれている サインは\nきえますが よろしいですか？",
+    "translation": "原先的签名将被替换，\n可以吗？",
+    "index": 18
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "HGSS_0150_0000",
+    "original": "つながりのどうくつ",
+    "translation": "互连洞",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0150_0001",
+    "original": "うばめのもり ーあさー",
+    "translation": "栎树林　ー早晨ー",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0150_0002",
+    "original": "うばめのもり ーひるー",
+    "translation": "栎树林　ー白天ー",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0150_0003",
+    "original": "うばめのもり ーよるー",
+    "translation": "栎树林　ー晚上ー",
+    "index": 3
+  }
+]

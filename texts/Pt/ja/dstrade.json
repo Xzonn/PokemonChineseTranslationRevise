@@ -1,0 +1,302 @@
+[
+  {
+    "key": "PT_0181_0000",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 0
+  },
+  {
+    "key": "PT_0181_0001",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 1
+  },
+  {
+    "key": "PT_0181_0002",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 2
+  },
+  {
+    "key": "PT_0181_0003",
+    "original": "[0101,0002]",
+    "translation": "[0101,0002]",
+    "index": 3
+  },
+  {
+    "key": "PT_0181_0004",
+    "original": "[0101,0003]",
+    "translation": "[0101,0003]",
+    "index": 4
+  },
+  {
+    "key": "PT_0181_0005",
+    "original": "[0101,0004]",
+    "translation": "[0101,0004]",
+    "index": 5
+  },
+  {
+    "key": "PT_0181_0006",
+    "original": "[0101,0005]",
+    "translation": "[0101,0005]",
+    "index": 6
+  },
+  {
+    "key": "PT_0181_0007",
+    "original": "[0101,0006]",
+    "translation": "[0101,0006]",
+    "index": 7
+  },
+  {
+    "key": "PT_0181_0008",
+    "original": "[0101,0007]",
+    "translation": "[0101,0007]",
+    "index": 8
+  },
+  {
+    "key": "PT_0181_0009",
+    "original": "[0101,0008]",
+    "translation": "[0101,0008]",
+    "index": 9
+  },
+  {
+    "key": "PT_0181_0010",
+    "original": "[0101,0009]",
+    "translation": "[0101,0009]",
+    "index": 10
+  },
+  {
+    "key": "PT_0181_0011",
+    "original": "[0101,000A]",
+    "translation": "[0101,000A]",
+    "index": 11
+  },
+  {
+    "key": "PT_0181_0012",
+    "original": "[0101,000B]",
+    "translation": "[0101,000B]",
+    "index": 12
+  },
+  {
+    "key": "PT_0181_0013",
+    "original": "[0101,000C]",
+    "translation": "[0101,000C]",
+    "index": 13
+  },
+  {
+    "key": "PT_0181_0014",
+    "original": "[0101,000D]",
+    "translation": "[0101,000D]",
+    "index": 14
+  },
+  {
+    "key": "PT_0181_0015",
+    "original": "ポケモンを えらんでください",
+    "translation": "ポケモンを えらんでください",
+    "index": 15
+  },
+  {
+    "key": "PT_0181_0016",
+    "original": "[0101,0000]を どうしますか？",
+    "translation": "[0101,0000]を どうしますか？",
+    "index": 16
+  },
+  {
+    "key": "PT_0181_0017",
+    "original": "つよさをみる",
+    "translation": "つよさをみる",
+    "index": 17
+  },
+  {
+    "key": "PT_0181_0018",
+    "original": "こうかんにだす",
+    "translation": "こうかんにだす",
+    "index": 18
+  },
+  {
+    "key": "PT_0181_0019",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 19
+  },
+  {
+    "key": "PT_0181_0020",
+    "original": "つうしん たいきちゅう！\nしばらく おまちください",
+    "translation": "つうしん たいきちゅう！\nしばらく おまちください",
+    "index": 20
+  },
+  {
+    "key": "PT_0181_0021",
+    "original": "[0101,0000]と [0101,0001]を\nこうかん しますか？",
+    "translation": "[0101,0000]と [0101,0001]を\nこうかん しますか？",
+    "index": 21
+  },
+  {
+    "key": "PT_0181_0022",
+    "original": "はい",
+    "translation": "はい",
+    "index": 22
+  },
+  {
+    "key": "PT_0181_0023",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 23
+  },
+  {
+    "key": "PT_0181_0024",
+    "original": "こうかんは\nキャンセル されました",
+    "translation": "こうかんは\nキャンセル されました",
+    "index": 24
+  },
+  {
+    "key": "PT_0181_0025",
+    "original": "こうかんを やめますか？",
+    "translation": "こうかんを やめますか？",
+    "index": 25
+  },
+  {
+    "key": "PT_0181_0026",
+    "original": "はい",
+    "translation": "はい",
+    "index": 26
+  },
+  {
+    "key": "PT_0181_0027",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 27
+  },
+  {
+    "key": "PT_0181_0028",
+    "original": "ともだちの しゅうりょうを\nまっています⋯⋯",
+    "translation": "ともだちの しゅうりょうを\nまっています⋯⋯",
+    "index": 28
+  },
+  {
+    "key": "PT_0181_0029",
+    "original": "ともだちは ポケモンの\nこうかんを したいようです！",
+    "translation": "ともだちは ポケモンの\nこうかんを したいようです！",
+    "index": 29
+  },
+  {
+    "key": "PT_0181_0030",
+    "original": "[0101,0000]を\n[0103,0001]へ おくります！",
+    "translation": "[0101,0000]を\n[0103,0001]へ おくります！",
+    "index": 30
+  },
+  {
+    "key": "PT_0181_0031",
+    "original": "バイバイ！ [0101,0000]！",
+    "translation": "バイバイ！ [0101,0000]！",
+    "index": 31
+  },
+  {
+    "key": "PT_0181_0032",
+    "original": "[0103,0001]から\n[0101,0000]が おくられてきた！",
+    "translation": "[0103,0001]から\n[0101,0000]が おくられてきた！",
+    "index": 32
+  },
+  {
+    "key": "PT_0181_0033",
+    "original": "[0101,0000]を\nかわいがって あげてね！",
+    "translation": "[0101,0000]を\nかわいがって あげてね！",
+    "index": 33
+  },
+  {
+    "key": "PT_0181_0034",
+    "original": "そのポケモンを こうかんすると\nぼうけん できなくなっちゃうよ！",
+    "translation": "そのポケモンを こうかんすると\nぼうけん できなくなっちゃうよ！",
+    "index": 34
+  },
+  {
+    "key": "PT_0181_0035",
+    "original": "セーブしています\nでんげんを きらないで ください",
+    "translation": "セーブしています\nでんげんを きらないで ください",
+    "index": 35
+  },
+  {
+    "key": "PT_0181_0036",
+    "original": "ボールカプセルが はずれますが\nよろしいですか？",
+    "translation": "ボールカプセルが はずれますが\nよろしいですか？",
+    "index": 36
+  },
+  {
+    "key": "PT_0181_0037",
+    "original": "てもちに こうかん できない\nポケモンが います",
+    "translation": "てもちに こうかん できない\nポケモンが います",
+    "index": 37
+  },
+  {
+    "key": "PT_0181_0038",
+    "original": "あいてが こうかん できない\nポケモンを もっています",
+    "translation": "あいてが こうかん できない\nポケモンを もっています",
+    "index": 38
+  },
+  {
+    "key": "PT_0181_0039",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 39
+  },
+  {
+    "key": "PT_0181_0040",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 40
+  },
+  {
+    "key": "PT_0181_0041",
+    "original": "Ｌｖ．",
+    "translation": "Ｌｖ．",
+    "index": 41
+  },
+  {
+    "key": "PT_0181_0042",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 42
+  },
+  {
+    "key": "PT_0181_0043",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 43
+  },
+  {
+    "key": "PT_0181_0044",
+    "original": "[0134,0001]",
+    "translation": "[0134,0001]",
+    "index": 44
+  },
+  {
+    "key": "PT_0181_0045",
+    "original": "[0108,0002]",
+    "translation": "[0108,0002]",
+    "index": 45
+  },
+  {
+    "key": "PT_0181_0046",
+    "original": "[0101,0003]",
+    "translation": "[0101,0003]",
+    "index": 46
+  },
+  {
+    "key": "PT_0181_0047",
+    "original": "[0134,0004]",
+    "translation": "[0134,0004]",
+    "index": 47
+  },
+  {
+    "key": "PT_0181_0048",
+    "original": "[0108,0005]",
+    "translation": "[0108,0005]",
+    "index": 48
+  },
+  {
+    "key": "PT_0181_0049",
+    "original": "なし",
+    "translation": "なし",
+    "index": 49
+  }
+]

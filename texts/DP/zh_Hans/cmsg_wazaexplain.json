@@ -1,0 +1,416 @@
+[
+  {
+    "key": "DP_0209_0000",
+    "original": "つぎのターンで",
+    "translation": "在下一回合",
+    "index": 0
+  },
+  {
+    "key": "DP_0209_0001",
+    "original": "さいしょにえんぎ",
+    "translation": "最初展示演技",
+    "index": 1
+  },
+  {
+    "key": "DP_0209_0002",
+    "original": "つぎのターンで",
+    "translation": "在下一回合",
+    "index": 2
+  },
+  {
+    "key": "DP_0209_0003",
+    "original": "さいごにえんぎ",
+    "translation": "最后展示演技",
+    "index": 3
+  },
+  {
+    "key": "DP_0209_0004",
+    "original": "しんさいんが",
+    "translation": "审查员",
+    "index": 4
+  },
+  {
+    "key": "DP_0209_0005",
+    "original": "かさなるごとに＋２",
+    "translation": "若和别人重合\n的话＋２",
+    "index": 5
+  },
+  {
+    "key": "DP_0209_0006",
+    "original": "ボルテージが",
+    "translation": "热度",
+    "index": 6
+  },
+  {
+    "key": "DP_0209_0007",
+    "original": "あがると＋２",
+    "translation": "上升的话＋２",
+    "index": 7
+  },
+  {
+    "key": "DP_0209_0008",
+    "original": "きほんのえんぎ",
+    "translation": "基本的演技",
+    "index": 8
+  },
+  {
+    "key": "DP_0209_0009",
+    "original": " ",
+    "translation": "　",
+    "index": 9
+  },
+  {
+    "key": "DP_0209_0010",
+    "original": "しんさいん",
+    "translation": "审查员",
+    "index": 10
+  },
+  {
+    "key": "DP_0209_0011",
+    "original": "かさならないと＋３",
+    "translation": "没有和别人重合\n的话＋３",
+    "index": 11
+  },
+  {
+    "key": "DP_0209_0012",
+    "original": "２ターンれんぞく",
+    "translation": "２回合连续",
+    "index": 12
+  },
+  {
+    "key": "DP_0209_0013",
+    "original": "えんぎできる",
+    "translation": "使用演技可能",
+    "index": 13
+  },
+  {
+    "key": "DP_0209_0014",
+    "original": "ボルテージぶんが",
+    "translation": "热度",
+    "index": 14
+  },
+  {
+    "key": "DP_0209_0015",
+    "original": "うわのせされる",
+    "translation": "加乘",
+    "index": 15
+  },
+  {
+    "key": "DP_0209_0016",
+    "original": "ぜんいんがじぶんと",
+    "translation": "全员和自己选择\n的审查员",
+    "index": 16
+  },
+  {
+    "key": "DP_0209_0017",
+    "original": "かさなると＋１５",
+    "translation": "重合的话＋１５",
+    "index": 17
+  },
+  {
+    "key": "DP_0209_0018",
+    "original": "ぜんしんさいんの",
+    "translation": "审查员的",
+    "index": 18
+  },
+  {
+    "key": "DP_0209_0019",
+    "original": "ボルテージ１つへる",
+    "translation": "热度１个减少",
+    "index": 19
+  },
+  {
+    "key": "DP_0209_0020",
+    "original": "つぎのターンで",
+    "translation": "在下一回合",
+    "index": 20
+  },
+  {
+    "key": "DP_0209_0021",
+    "original": "ひょうか２ばい",
+    "translation": "效果２倍",
+    "index": 21
+  },
+  {
+    "key": "DP_0209_0022",
+    "original": "じぶんのまえの",
+    "translation": "将自己前面的人的",
+    "index": 22
+  },
+  {
+    "key": "DP_0209_0023",
+    "original": "ボルテージもらえる",
+    "translation": "热度掠夺过来",
+    "index": 23
+  },
+  {
+    "key": "DP_0209_0024",
+    "original": "そのターンでは",
+    "translation": "在当回合",
+    "index": 24
+  },
+  {
+    "key": "DP_0209_0025",
+    "original": "ボルテージふえない",
+    "translation": "热度无法上升",
+    "index": 25
+  },
+  {
+    "key": "DP_0209_0026",
+    "original": "つぎのターンで",
+    "translation": "在下一回合",
+    "index": 26
+  },
+  {
+    "key": "DP_0209_0027",
+    "original": "じゅんばんランダム",
+    "translation": "顺序随机",
+    "index": 27
+  },
+  {
+    "key": "DP_0209_0028",
+    "original": "さいごのえんぎで",
+    "translation": "在最后的演技时",
+    "index": 28
+  },
+  {
+    "key": "DP_0209_0029",
+    "original": "ひょうか２ばい",
+    "translation": "效果２倍",
+    "index": 29
+  },
+  {
+    "key": "DP_0209_0030",
+    "original": "ボルテージひくいと",
+    "translation": "热度低的话",
+    "index": 30
+  },
+  {
+    "key": "DP_0209_0031",
+    "original": "たかいひょうか",
+    "translation": "评价变高",
+    "index": 31
+  },
+  {
+    "key": "DP_0209_0032",
+    "original": "いちばんさいしょの",
+    "translation": "在最初",
+    "index": 32
+  },
+  {
+    "key": "DP_0209_0033",
+    "original": "えんぎで＋２",
+    "translation": "展示演技的话＋２",
+    "index": 33
+  },
+  {
+    "key": "DP_0209_0034",
+    "original": "いちばんさいごの",
+    "translation": "在最后",
+    "index": 34
+  },
+  {
+    "key": "DP_0209_0035",
+    "original": "えんぎで＋２",
+    "translation": "展示演技的话＋２",
+    "index": 35
+  },
+  {
+    "key": "DP_0209_0036",
+    "original": "そのターンでは",
+    "translation": "在当回合",
+    "index": 36
+  },
+  {
+    "key": "DP_0209_0037",
+    "original": "ボルテージへらない",
+    "translation": "热度不会减少",
+    "index": 37
+  },
+  {
+    "key": "DP_0209_0038",
+    "original": "つづけてボルテージ",
+    "translation": "热度再",
+    "index": 38
+  },
+  {
+    "key": "DP_0209_0039",
+    "original": "あがると＋３",
+    "translation": "升高的话＋３",
+    "index": 39
+  },
+  {
+    "key": "DP_0209_0040",
+    "original": "じゅんばんおそいと",
+    "translation": "顺序愈往后",
+    "index": 40
+  },
+  {
+    "key": "DP_0209_0041",
+    "original": "たかいひょうか",
+    "translation": "评价变高",
+    "index": 41
+  },
+  {
+    "key": "DP_0209_0042",
+    "original": "ボルテージの",
+    "translation": "热度",
+    "index": 42
+  },
+  {
+    "key": "DP_0209_0043",
+    "original": "マックスあとで＋３",
+    "translation": "最大后＋３",
+    "index": 43
+  },
+  {
+    "key": "DP_0209_0044",
+    "original": "ひょうかがいちばん",
+    "translation": "评价是最后一位的话",
+    "index": 44
+  },
+  {
+    "key": "DP_0209_0045",
+    "original": "ひくいと＋３",
+    "translation": "＋３",
+    "index": 45
+  },
+  {
+    "key": "DP_0209_0046",
+    "original": "つぎの ターンで\nさいしょに えんぎを\nすることが できる。",
+    "translation": "在下一回合\n可以第一个展示演技。",
+    "index": 46
+  },
+  {
+    "key": "DP_0209_0047",
+    "original": "つぎの ターンで\nさいごに えんぎを\nすることが できる。",
+    "translation": "在下一回合\n可以最后展示演技。",
+    "index": 47
+  },
+  {
+    "key": "DP_0209_0048",
+    "original": "しんさいんが\nかぶるごとに＋２",
+    "translation": "选择同一审查员\n＋２",
+    "index": 48
+  },
+  {
+    "key": "DP_0209_0049",
+    "original": "しんさいんの\nボルテージが\nあがったら ＋２。",
+    "translation": "审查员的热度\n上升了的话＋２。",
+    "index": 49
+  },
+  {
+    "key": "DP_0209_0050",
+    "original": "ポケモンの もつ\nわざを つかって\nきほんの えんぎ。",
+    "translation": "宝可梦所持有的招式\n最基本的演技。",
+    "index": 50
+  },
+  {
+    "key": "DP_0209_0051",
+    "original": "ほかの ポケモンと\nしんさいんが\nかさならないと ＋３。",
+    "translation": "大家选择的审查\n员不同的话＋３。",
+    "index": 51
+  },
+  {
+    "key": "DP_0209_0052",
+    "original": "２かい れんぞく\nおなじ わざで\nえんぎが できる。",
+    "translation": "能连续２回使用\n同一个招式。",
+    "index": 52
+  },
+  {
+    "key": "DP_0209_0053",
+    "original": "ボルテージぶんの\nもりあがりが\nうわのせ される。",
+    "translation": "热度\n加乘效果。",
+    "index": 53
+  },
+  {
+    "key": "DP_0209_0054",
+    "original": "すべての ポケモンが\nおなじ しんさいんを\nえらぶと ＋１５される。",
+    "translation": "大家选择的审查\n员一样的话＋１５。",
+    "index": 54
+  },
+  {
+    "key": "DP_0209_0055",
+    "original": "しんさいん ぜんいんの\nボルテージが\n１つずつ へる。",
+    "translation": "审查员全员的\n热度减少１个。",
+    "index": 55
+  },
+  {
+    "key": "DP_0209_0056",
+    "original": "つぎの ターンで\nひょうかが\n２ばいに なる。",
+    "translation": "下一回合的效果\n变成２倍。",
+    "index": 56
+  },
+  {
+    "key": "DP_0209_0057",
+    "original": "じぶんの まえの\nポケモンの\nボルテージが もらえる。",
+    "translation": "将自己前面的人\n的热度掠夺过来。",
+    "index": 57
+  },
+  {
+    "key": "DP_0209_0058",
+    "original": "その ターンでは\nボルテージが\nふえなく なる。",
+    "translation": "在当回合\n热度无法上升。",
+    "index": 58
+  },
+  {
+    "key": "DP_0209_0059",
+    "original": "つぎの ターンで\nじゅんばんが\nランダムに なる。",
+    "translation": "在下一回合\n顺序随机。",
+    "index": 59
+  },
+  {
+    "key": "DP_0209_0060",
+    "original": "さいごの アピールで\nひょうかが\n２ばいに なる。",
+    "translation": "在最后的演技时\n效果２倍。",
+    "index": 60
+  },
+  {
+    "key": "DP_0209_0061",
+    "original": "ボルテージが\nひくければ ひくいほど\nたかい ひょうかになる。",
+    "translation": "热度低的时候\n评价变高。",
+    "index": 61
+  },
+  {
+    "key": "DP_0209_0062",
+    "original": "その ターンで\nいちばん さいしょに\nえんぎをすると ＋２。",
+    "translation": "在最初展示\n演技的话＋２。",
+    "index": 62
+  },
+  {
+    "key": "DP_0209_0063",
+    "original": "その ターンで\nいちばん さいごに\nえんぎをすると ＋２。",
+    "translation": "在最后展示\n演技的话＋２。",
+    "index": 63
+  },
+  {
+    "key": "DP_0209_0064",
+    "original": "その ターンでは\nボルテージが\nへらなく なる。",
+    "translation": "在那一回合\n热度不会减少。",
+    "index": 64
+  },
+  {
+    "key": "DP_0209_0065",
+    "original": "２ひき れんぞくして\nボルテージが\nあがったら ＋３。",
+    "translation": "２只连续提升了\n热度的话＋３。",
+    "index": 65
+  },
+  {
+    "key": "DP_0209_0066",
+    "original": "えんぎの じゅんばんが\nおそければ おそいほど\nたかい ひょうかになる。",
+    "translation": "顺序愈往后\n评价愈高。",
+    "index": 66
+  },
+  {
+    "key": "DP_0209_0067",
+    "original": "まえの ポケモンの\nボルテージマックスの\nあとだと +３。",
+    "translation": "前一位的宝可梦\n热度最大后\n+３。",
+    "index": 67
+  },
+  {
+    "key": "DP_0209_0068",
+    "original": "じぶんの ポケモンの\nひょうかが いちばん\nひくいと ＋３される。",
+    "translation": "自己的宝可梦的评价\n是最后一位的话＋３。",
+    "index": 68
+  }
+]

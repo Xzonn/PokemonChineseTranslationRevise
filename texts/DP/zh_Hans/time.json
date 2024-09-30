@@ -1,0 +1,32 @@
+[
+  {
+    "key": "DP_0709_0000",
+    "original": "あさ",
+    "translation": "早上",
+    "index": 0
+  },
+  {
+    "key": "DP_0709_0001",
+    "original": "ひる",
+    "translation": "白天",
+    "index": 1
+  },
+  {
+    "key": "DP_0709_0002",
+    "original": "ゆうがた",
+    "translation": "傍晚",
+    "index": 2
+  },
+  {
+    "key": "DP_0709_0003",
+    "original": "よる",
+    "translation": "晚上",
+    "index": 3
+  },
+  {
+    "key": "DP_0709_0004",
+    "original": "しんや",
+    "translation": "深夜",
+    "index": 4
+  }
+]

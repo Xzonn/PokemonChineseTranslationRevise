@@ -1,0 +1,488 @@
+[
+  {
+    "key": "DP_0012_0000",
+    "original": " ",
+    "translation": " ",
+    "index": 0
+  },
+  {
+    "key": "DP_0012_0001",
+    "original": "ハートシールＡ",
+    "translation": "ハートシールＡ",
+    "index": 1
+  },
+  {
+    "key": "DP_0012_0002",
+    "original": "ハートシールＢ",
+    "translation": "ハートシールＢ",
+    "index": 2
+  },
+  {
+    "key": "DP_0012_0003",
+    "original": "ハートシールＣ",
+    "translation": "ハートシールＣ",
+    "index": 3
+  },
+  {
+    "key": "DP_0012_0004",
+    "original": "ハートシールＤ",
+    "translation": "ハートシールＤ",
+    "index": 4
+  },
+  {
+    "key": "DP_0012_0005",
+    "original": "ハートシールＥ",
+    "translation": "ハートシールＥ",
+    "index": 5
+  },
+  {
+    "key": "DP_0012_0006",
+    "original": "ハートシールＦ",
+    "translation": "ハートシールＦ",
+    "index": 6
+  },
+  {
+    "key": "DP_0012_0007",
+    "original": "スターシールＡ",
+    "translation": "スターシールＡ",
+    "index": 7
+  },
+  {
+    "key": "DP_0012_0008",
+    "original": "スターシールＢ",
+    "translation": "スターシールＢ",
+    "index": 8
+  },
+  {
+    "key": "DP_0012_0009",
+    "original": "スターシールＣ",
+    "translation": "スターシールＣ",
+    "index": 9
+  },
+  {
+    "key": "DP_0012_0010",
+    "original": "スターシールＤ",
+    "translation": "スターシールＤ",
+    "index": 10
+  },
+  {
+    "key": "DP_0012_0011",
+    "original": "スターシールＥ",
+    "translation": "スターシールＥ",
+    "index": 11
+  },
+  {
+    "key": "DP_0012_0012",
+    "original": "スターシールＦ",
+    "translation": "スターシールＦ",
+    "index": 12
+  },
+  {
+    "key": "DP_0012_0013",
+    "original": "ラインシールＡ",
+    "translation": "ラインシールＡ",
+    "index": 13
+  },
+  {
+    "key": "DP_0012_0014",
+    "original": "ラインシールＢ",
+    "translation": "ラインシールＢ",
+    "index": 14
+  },
+  {
+    "key": "DP_0012_0015",
+    "original": "ラインシールＣ",
+    "translation": "ラインシールＣ",
+    "index": 15
+  },
+  {
+    "key": "DP_0012_0016",
+    "original": "スモークシールＡ",
+    "translation": "スモークシールＡ",
+    "index": 16
+  },
+  {
+    "key": "DP_0012_0017",
+    "original": "スモークシールＢ",
+    "translation": "スモークシールＢ",
+    "index": 17
+  },
+  {
+    "key": "DP_0012_0018",
+    "original": "スモークシールＣ",
+    "translation": "スモークシールＣ",
+    "index": 18
+  },
+  {
+    "key": "DP_0012_0019",
+    "original": "スモークシールＤ",
+    "translation": "スモークシールＤ",
+    "index": 19
+  },
+  {
+    "key": "DP_0012_0020",
+    "original": "エレキシールＡ",
+    "translation": "エレキシールＡ",
+    "index": 20
+  },
+  {
+    "key": "DP_0012_0021",
+    "original": "エレキシールＢ",
+    "translation": "エレキシールＢ",
+    "index": 21
+  },
+  {
+    "key": "DP_0012_0022",
+    "original": "エレキシールＣ",
+    "translation": "エレキシールＣ",
+    "index": 22
+  },
+  {
+    "key": "DP_0012_0023",
+    "original": "エレキシールＤ",
+    "translation": "エレキシールＤ",
+    "index": 23
+  },
+  {
+    "key": "DP_0012_0024",
+    "original": "バブルシールＡ",
+    "translation": "バブルシールＡ",
+    "index": 24
+  },
+  {
+    "key": "DP_0012_0025",
+    "original": "バブルシールＢ",
+    "translation": "バブルシールＢ",
+    "index": 25
+  },
+  {
+    "key": "DP_0012_0026",
+    "original": "バブルシールＣ",
+    "translation": "バブルシールＣ",
+    "index": 26
+  },
+  {
+    "key": "DP_0012_0027",
+    "original": "バブルシールＤ",
+    "translation": "バブルシールＤ",
+    "index": 27
+  },
+  {
+    "key": "DP_0012_0028",
+    "original": "ファイアシールＡ",
+    "translation": "ファイアシールＡ",
+    "index": 28
+  },
+  {
+    "key": "DP_0012_0029",
+    "original": "ファイアシールＢ",
+    "translation": "ファイアシールＢ",
+    "index": 29
+  },
+  {
+    "key": "DP_0012_0030",
+    "original": "ファイアシールＣ",
+    "translation": "ファイアシールＣ",
+    "index": 30
+  },
+  {
+    "key": "DP_0012_0031",
+    "original": "ファイアシールＤ",
+    "translation": "ファイアシールＤ",
+    "index": 31
+  },
+  {
+    "key": "DP_0012_0032",
+    "original": "パーティシールＡ",
+    "translation": "パーティシールＡ",
+    "index": 32
+  },
+  {
+    "key": "DP_0012_0033",
+    "original": "パーティシールＢ",
+    "translation": "パーティシールＢ",
+    "index": 33
+  },
+  {
+    "key": "DP_0012_0034",
+    "original": "パーティシールＣ",
+    "translation": "パーティシールＣ",
+    "index": 34
+  },
+  {
+    "key": "DP_0012_0035",
+    "original": "パーティシールＤ",
+    "translation": "パーティシールＤ",
+    "index": 35
+  },
+  {
+    "key": "DP_0012_0036",
+    "original": "フラワーシールＡ",
+    "translation": "フラワーシールＡ",
+    "index": 36
+  },
+  {
+    "key": "DP_0012_0037",
+    "original": "フラワーシールＢ",
+    "translation": "フラワーシールＢ",
+    "index": 37
+  },
+  {
+    "key": "DP_0012_0038",
+    "original": "フラワーシールＣ",
+    "translation": "フラワーシールＣ",
+    "index": 38
+  },
+  {
+    "key": "DP_0012_0039",
+    "original": "フラワーシールＤ",
+    "translation": "フラワーシールＤ",
+    "index": 39
+  },
+  {
+    "key": "DP_0012_0040",
+    "original": "フラワーシールＥ",
+    "translation": "フラワーシールＥ",
+    "index": 40
+  },
+  {
+    "key": "DP_0012_0041",
+    "original": "フラワーシールＦ",
+    "translation": "フラワーシールＦ",
+    "index": 41
+  },
+  {
+    "key": "DP_0012_0042",
+    "original": "ソングシールＡ",
+    "translation": "ソングシールＡ",
+    "index": 42
+  },
+  {
+    "key": "DP_0012_0043",
+    "original": "ソングシールＢ",
+    "translation": "ソングシールＢ",
+    "index": 43
+  },
+  {
+    "key": "DP_0012_0044",
+    "original": "ソングシールＣ",
+    "translation": "ソングシールＣ",
+    "index": 44
+  },
+  {
+    "key": "DP_0012_0045",
+    "original": "ソングシールＤ",
+    "translation": "ソングシールＤ",
+    "index": 45
+  },
+  {
+    "key": "DP_0012_0046",
+    "original": "ソングシールＥ",
+    "translation": "ソングシールＥ",
+    "index": 46
+  },
+  {
+    "key": "DP_0012_0047",
+    "original": "ソングシールＦ",
+    "translation": "ソングシールＦ",
+    "index": 47
+  },
+  {
+    "key": "DP_0012_0048",
+    "original": "ソングシールＧ",
+    "translation": "ソングシールＧ",
+    "index": 48
+  },
+  {
+    "key": "DP_0012_0049",
+    "original": "Ａシール",
+    "translation": "Ａシール",
+    "index": 49
+  },
+  {
+    "key": "DP_0012_0050",
+    "original": "Ｂシール",
+    "translation": "Ｂシール",
+    "index": 50
+  },
+  {
+    "key": "DP_0012_0051",
+    "original": "Ｃシール",
+    "translation": "Ｃシール",
+    "index": 51
+  },
+  {
+    "key": "DP_0012_0052",
+    "original": "Ｄシール",
+    "translation": "Ｄシール",
+    "index": 52
+  },
+  {
+    "key": "DP_0012_0053",
+    "original": "Ｅシール",
+    "translation": "Ｅシール",
+    "index": 53
+  },
+  {
+    "key": "DP_0012_0054",
+    "original": "Ｆシール",
+    "translation": "Ｆシール",
+    "index": 54
+  },
+  {
+    "key": "DP_0012_0055",
+    "original": "Ｇシール",
+    "translation": "Ｇシール",
+    "index": 55
+  },
+  {
+    "key": "DP_0012_0056",
+    "original": "Ｈシール",
+    "translation": "Ｈシール",
+    "index": 56
+  },
+  {
+    "key": "DP_0012_0057",
+    "original": "Ｉシール",
+    "translation": "Ｉシール",
+    "index": 57
+  },
+  {
+    "key": "DP_0012_0058",
+    "original": "Ｊシール",
+    "translation": "Ｊシール",
+    "index": 58
+  },
+  {
+    "key": "DP_0012_0059",
+    "original": "Ｋシール",
+    "translation": "Ｋシール",
+    "index": 59
+  },
+  {
+    "key": "DP_0012_0060",
+    "original": "Ｌシール",
+    "translation": "Ｌシール",
+    "index": 60
+  },
+  {
+    "key": "DP_0012_0061",
+    "original": "Ｍシール",
+    "translation": "Ｍシール",
+    "index": 61
+  },
+  {
+    "key": "DP_0012_0062",
+    "original": "Ｎシール",
+    "translation": "Ｎシール",
+    "index": 62
+  },
+  {
+    "key": "DP_0012_0063",
+    "original": "Ｏシール",
+    "translation": "Ｏシール",
+    "index": 63
+  },
+  {
+    "key": "DP_0012_0064",
+    "original": "Ｐシール",
+    "translation": "Ｐシール",
+    "index": 64
+  },
+  {
+    "key": "DP_0012_0065",
+    "original": "Ｑシール",
+    "translation": "Ｑシール",
+    "index": 65
+  },
+  {
+    "key": "DP_0012_0066",
+    "original": "Ｒシール",
+    "translation": "Ｒシール",
+    "index": 66
+  },
+  {
+    "key": "DP_0012_0067",
+    "original": "Ｓシール",
+    "translation": "Ｓシール",
+    "index": 67
+  },
+  {
+    "key": "DP_0012_0068",
+    "original": "Ｔシール",
+    "translation": "Ｔシール",
+    "index": 68
+  },
+  {
+    "key": "DP_0012_0069",
+    "original": "Ｕシール",
+    "translation": "Ｕシール",
+    "index": 69
+  },
+  {
+    "key": "DP_0012_0070",
+    "original": "Ｖシール",
+    "translation": "Ｖシール",
+    "index": 70
+  },
+  {
+    "key": "DP_0012_0071",
+    "original": "Ｗシール",
+    "translation": "Ｗシール",
+    "index": 71
+  },
+  {
+    "key": "DP_0012_0072",
+    "original": "Ｘシール",
+    "translation": "Ｘシール",
+    "index": 72
+  },
+  {
+    "key": "DP_0012_0073",
+    "original": "Ｙシール",
+    "translation": "Ｙシール",
+    "index": 73
+  },
+  {
+    "key": "DP_0012_0074",
+    "original": "Ｚシール",
+    "translation": "Ｚシール",
+    "index": 74
+  },
+  {
+    "key": "DP_0012_0075",
+    "original": "びっくりシール",
+    "translation": "びっくりシール",
+    "index": 75
+  },
+  {
+    "key": "DP_0012_0076",
+    "original": "はてなシール",
+    "translation": "はてなシール",
+    "index": 76
+  },
+  {
+    "key": "DP_0012_0077",
+    "original": "ラインシールＤ",
+    "translation": "ラインシールＤ",
+    "index": 77
+  },
+  {
+    "key": "DP_0012_0078",
+    "original": "リキッドシール",
+    "translation": "リキッドシール",
+    "index": 78
+  },
+  {
+    "key": "DP_0012_0079",
+    "original": "ばくはつシール",
+    "translation": "ばくはつシール",
+    "index": 79
+  },
+  {
+    "key": "DP_0012_0080",
+    "original": "キラキラシール",
+    "translation": "キラキラシール",
+    "index": 80
+  }
+]

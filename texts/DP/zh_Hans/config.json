@@ -1,0 +1,254 @@
+[
+  {
+    "key": "DP_0205_0000",
+    "original": "せっていを かえる",
+    "translation": "设置",
+    "index": 0
+  },
+  {
+    "key": "DP_0205_0001",
+    "original": "ポケットモンスター ダイヤモンド",
+    "translation": "宝可梦　钻石",
+    "index": 1
+  },
+  {
+    "key": "DP_0205_0002",
+    "original": "ポケットモンスター パール",
+    "translation": "宝可梦　珍珠",
+    "index": 2
+  },
+  {
+    "key": "DP_0205_0003",
+    "original": "はなしの はやさ",
+    "translation": "语速",
+    "index": 3
+  },
+  {
+    "key": "DP_0205_0004",
+    "original": "せんとうアニメ",
+    "translation": "对战动画",
+    "index": 4
+  },
+  {
+    "key": "DP_0205_0005",
+    "original": "しあいの ルール",
+    "translation": "比赛规则",
+    "index": 5
+  },
+  {
+    "key": "DP_0205_0006",
+    "original": "サウンド",
+    "translation": "音效",
+    "index": 6
+  },
+  {
+    "key": "DP_0205_0007",
+    "original": "ボタンモード",
+    "translation": "按键模式",
+    "index": 7
+  },
+  {
+    "key": "DP_0205_0008",
+    "original": "ウインドウ",
+    "translation": "界面",
+    "index": 8
+  },
+  {
+    "key": "DP_0205_0009",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 9
+  },
+  {
+    "key": "DP_0205_0010",
+    "original": "おそい",
+    "translation": "慢",
+    "index": 10
+  },
+  {
+    "key": "DP_0205_0011",
+    "original": "ふつう",
+    "translation": "普通",
+    "index": 11
+  },
+  {
+    "key": "DP_0205_0012",
+    "original": "はやい",
+    "translation": "快",
+    "index": 12
+  },
+  {
+    "key": "DP_0205_0013",
+    "original": "みる",
+    "translation": "看",
+    "index": 13
+  },
+  {
+    "key": "DP_0205_0014",
+    "original": "みない",
+    "translation": "不看",
+    "index": 14
+  },
+  {
+    "key": "DP_0205_0015",
+    "original": "いれかえ",
+    "translation": "替换",
+    "index": 15
+  },
+  {
+    "key": "DP_0205_0016",
+    "original": "かちぬき",
+    "translation": "连战",
+    "index": 16
+  },
+  {
+    "key": "DP_0205_0017",
+    "original": "ステレオ",
+    "translation": "立体声",
+    "index": 17
+  },
+  {
+    "key": "DP_0205_0018",
+    "original": "モノラル",
+    "translation": "单声道",
+    "index": 18
+  },
+  {
+    "key": "DP_0205_0019",
+    "original": "ノーマル",
+    "translation": "一般",
+    "index": 19
+  },
+  {
+    "key": "DP_0205_0020",
+    "original": "ＳＴＡＲＴ＝Ｘ",
+    "translation": "ＳＴＡＲＴ＝Ｘ",
+    "index": 20
+  },
+  {
+    "key": "DP_0205_0021",
+    "original": "Ｌ＝Ａ",
+    "translation": "Ｌ＝Ａ",
+    "index": 21
+  },
+  {
+    "key": "DP_0205_0022",
+    "original": "タイプ1",
+    "translation": "类型１",
+    "index": 22
+  },
+  {
+    "key": "DP_0205_0023",
+    "original": "タイプ２",
+    "translation": "类型２",
+    "index": 23
+  },
+  {
+    "key": "DP_0205_0024",
+    "original": "タイプ３",
+    "translation": "类型３",
+    "index": 24
+  },
+  {
+    "key": "DP_0205_0025",
+    "original": "タイプ４",
+    "translation": "类型４",
+    "index": 25
+  },
+  {
+    "key": "DP_0205_0026",
+    "original": "タイプ５",
+    "translation": "类型５",
+    "index": 26
+  },
+  {
+    "key": "DP_0205_0027",
+    "original": "タイプ６",
+    "translation": "类型６",
+    "index": 27
+  },
+  {
+    "key": "DP_0205_0028",
+    "original": "タイプ７",
+    "translation": "类型７",
+    "index": 28
+  },
+  {
+    "key": "DP_0205_0029",
+    "original": "タイプ８",
+    "translation": "类型８",
+    "index": 29
+  },
+  {
+    "key": "DP_0205_0030",
+    "original": "タイプ９",
+    "translation": "类型９",
+    "index": 30
+  },
+  {
+    "key": "DP_0205_0031",
+    "original": "タイプ１０",
+    "translation": "类型１０",
+    "index": 31
+  },
+  {
+    "key": "DP_0205_0032",
+    "original": "タイプ１１",
+    "translation": "类型１１",
+    "index": 32
+  },
+  {
+    "key": "DP_0205_0033",
+    "original": "タイプ１２",
+    "translation": "类型１２",
+    "index": 33
+  },
+  {
+    "key": "DP_0205_0034",
+    "original": "タイプ１３",
+    "translation": "类型１３",
+    "index": 34
+  },
+  {
+    "key": "DP_0205_0035",
+    "original": "タイプ１４",
+    "translation": "类型１４",
+    "index": 35
+  },
+  {
+    "key": "DP_0205_0036",
+    "original": "タイプ１５",
+    "translation": "类型１５",
+    "index": 36
+  },
+  {
+    "key": "DP_0205_0037",
+    "original": "タイプ１６",
+    "translation": "类型１６",
+    "index": 37
+  },
+  {
+    "key": "DP_0205_0038",
+    "original": "タイプ１７",
+    "translation": "类型１７",
+    "index": 38
+  },
+  {
+    "key": "DP_0205_0039",
+    "original": "タイプ１８",
+    "translation": "类型１８",
+    "index": 39
+  },
+  {
+    "key": "DP_0205_0040",
+    "original": "タイプ１９",
+    "translation": "类型１９",
+    "index": 40
+  },
+  {
+    "key": "DP_0205_0041",
+    "original": "タイプ２０",
+    "translation": "类型２０",
+    "index": 41
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "key": "HGSS_0247_0000",
+    "original": "ハート",
+    "translation": "心灵",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0247_0001",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0247_0002",
+    "original": "ケン",
+    "translation": "宪",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0247_0003",
+    "original": "カケル",
+    "translation": "翔",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0247_0004",
+    "original": "ジャック",
+    "translation": "杰克",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0247_0005",
+    "original": "ジャン",
+    "translation": "强恩",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0247_0006",
+    "original": "ジョン",
+    "translation": "琼恩",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0247_0007",
+    "original": "カモン",
+    "translation": "卡蒙",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0247_0008",
+    "original": "タカシ",
+    "translation": "孝志",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0247_0009",
+    "original": "テツオ",
+    "translation": "哲夫",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0247_0010",
+    "original": "トオル",
+    "translation": "阿透",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0247_0011",
+    "original": "ヒロキ",
+    "translation": "宏彬",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0247_0012",
+    "original": "マサオ",
+    "translation": "正雄",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0247_0013",
+    "original": "タカオ",
+    "translation": "孝雄",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0247_0014",
+    "original": "タケヒロ",
+    "translation": "武鸿",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0247_0015",
+    "original": "トウゴ",
+    "translation": "东悟",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0247_0016",
+    "original": "ヒトシ",
+    "translation": "阿均",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0247_0017",
+    "original": "ヨシナオ",
+    "translation": "义直",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0247_0018",
+    "original": "ハート",
+    "translation": "心灵",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0247_0019",
+    "original": "キヨミ",
+    "translation": "清己",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0247_0020",
+    "original": "サトコ",
+    "translation": "聪子",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0247_0021",
+    "original": "チホ",
+    "translation": "千穗",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0247_0022",
+    "original": "イオリ",
+    "translation": "伊织",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0247_0023",
+    "original": "マキコ",
+    "translation": "真纪子",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0247_0024",
+    "original": "ミキコ",
+    "translation": "美奇",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0247_0025",
+    "original": "ウララ",
+    "translation": "小丽",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0247_0026",
+    "original": "ジュンコ",
+    "translation": "顺子",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0247_0027",
+    "original": "フウカ",
+    "translation": "风歌",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0247_0028",
+    "original": "リエ",
+    "translation": "理惠",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0247_0029",
+    "original": "セツコ",
+    "translation": "雪绢",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0247_0030",
+    "original": "ニッキ",
+    "translation": "妮可",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0247_0031",
+    "original": "マミナ",
+    "translation": "真美奈",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0247_0032",
+    "original": "ノリコ",
+    "translation": "典子",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0247_0033",
+    "original": "ユミカ",
+    "translation": "弓香",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0247_0034",
+    "original": "モモコ",
+    "translation": "桃子",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0247_0035",
+    "original": "ミスズ",
+    "translation": "美铃",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0247_0036",
+    "original": "じぶんできめる",
+    "translation": "自行决定",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0247_0037",
+    "original": "ジュン",
+    "translation": "阿驯",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0247_0038",
+    "original": "シゲル",
+    "translation": "小茂",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0247_0039",
+    "original": "コウジ",
+    "translation": "浩二",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0247_0040",
+    "original": "トシノブ",
+    "translation": "俊信",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0247_0041",
+    "original": "シルバー",
+    "translation": "小银",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0247_0042",
+    "original": "ソウル",
+    "translation": "灵魂",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0247_0043",
+    "original": "サトシ",
+    "translation": "小智",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0247_0044",
+    "original": "ケン",
+    "translation": "宪",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0247_0045",
+    "original": "カケル",
+    "translation": "翔",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0247_0046",
+    "original": "ジャック",
+    "translation": "杰克",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0247_0047",
+    "original": "ジャン",
+    "translation": "强恩",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0247_0048",
+    "original": "ジョン",
+    "translation": "琼恩",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0247_0049",
+    "original": "カモン",
+    "translation": "卡蒙",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0247_0050",
+    "original": "タカシ",
+    "translation": "孝志",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0247_0051",
+    "original": "テツオ",
+    "translation": "哲夫",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0247_0052",
+    "original": "トオル",
+    "translation": "阿透",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0247_0053",
+    "original": "ヒロキ",
+    "translation": "宏彬",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0247_0054",
+    "original": "マサオ",
+    "translation": "正雄",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0247_0055",
+    "original": "タカオ",
+    "translation": "孝雄",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0247_0056",
+    "original": "タケヒロ",
+    "translation": "武鸿",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0247_0057",
+    "original": "トウゴ",
+    "translation": "东悟",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0247_0058",
+    "original": "ヒトシ",
+    "translation": "阿均",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0247_0059",
+    "original": "ヨシナオ",
+    "translation": "义直",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0247_0060",
+    "original": "ソウル",
+    "translation": "灵魂",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0247_0061",
+    "original": "キヨミ",
+    "translation": "清己",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0247_0062",
+    "original": "サトコ",
+    "translation": "聪子",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0247_0063",
+    "original": "チホ",
+    "translation": "千穗",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0247_0064",
+    "original": "イオリ",
+    "translation": "伊织",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0247_0065",
+    "original": "マキコ",
+    "translation": "真纪子",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0247_0066",
+    "original": "ミキコ",
+    "translation": "美奇",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0247_0067",
+    "original": "ウララ",
+    "translation": "小丽",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0247_0068",
+    "original": "ジュンコ",
+    "translation": "顺子",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0247_0069",
+    "original": "フウカ",
+    "translation": "风歌",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0247_0070",
+    "original": "リエ",
+    "translation": "理惠",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0247_0071",
+    "original": "セツコ",
+    "translation": "雪绢",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0247_0072",
+    "original": "ニッキ",
+    "translation": "妮可",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0247_0073",
+    "original": "マミナ",
+    "translation": "真美奈",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0247_0074",
+    "original": "ノリコ",
+    "translation": "典子",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0247_0075",
+    "original": "ユミカ",
+    "translation": "弓香",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0247_0076",
+    "original": "モモコ",
+    "translation": "桃子",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0247_0077",
+    "original": "ミスズ",
+    "translation": "美铃",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0247_0078",
+    "original": "じぶんできめる",
+    "translation": "自行决定",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0247_0079",
+    "original": "アキト",
+    "translation": "秋仁",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0247_0080",
+    "original": "ヒサシ",
+    "translation": "永祥",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0247_0081",
+    "original": "ソウスケ",
+    "translation": "沧泓",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0247_0082",
+    "original": "ノゾム",
+    "translation": "阿望",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0247_0083",
+    "original": "ゴールド",
+    "translation": "煌金",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0247_0084",
+    "original": "ソウル",
+    "translation": "灵魂",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0247_0085",
+    "original": "ハート",
+    "translation": "心灵",
+    "index": 85
+  }
+]

@@ -1,0 +1,2810 @@
+[
+  {
+    "key": "DP_0739_0000",
+    "original": "ー",
+    "translation": "ー",
+    "index": 0
+  },
+  {
+    "key": "DP_0739_0001",
+    "original": "はたく",
+    "translation": "拍击",
+    "index": 1
+  },
+  {
+    "key": "DP_0739_0002",
+    "original": "からてチョップ",
+    "translation": "空手劈",
+    "index": 2
+  },
+  {
+    "key": "DP_0739_0003",
+    "original": "おうふくビンタ",
+    "translation": "连环巴掌",
+    "index": 3
+  },
+  {
+    "key": "DP_0739_0004",
+    "original": "れんぞくパンチ",
+    "translation": "连续拳",
+    "index": 4
+  },
+  {
+    "key": "DP_0739_0005",
+    "original": "メガトンパンチ",
+    "translation": "百万吨重拳",
+    "index": 5
+  },
+  {
+    "key": "DP_0739_0006",
+    "original": "ネコにこばん",
+    "translation": "聚宝功",
+    "index": 6
+  },
+  {
+    "key": "DP_0739_0007",
+    "original": "ほのおのパンチ",
+    "translation": "火焰拳",
+    "index": 7
+  },
+  {
+    "key": "DP_0739_0008",
+    "original": "れいとうパンチ",
+    "translation": "冰冻拳",
+    "index": 8
+  },
+  {
+    "key": "DP_0739_0009",
+    "original": "かみなりパンチ",
+    "translation": "雷电拳",
+    "index": 9
+  },
+  {
+    "key": "DP_0739_0010",
+    "original": "ひっかく",
+    "translation": "抓",
+    "index": 10
+  },
+  {
+    "key": "DP_0739_0011",
+    "original": "はさむ",
+    "translation": "夹住",
+    "index": 11
+  },
+  {
+    "key": "DP_0739_0012",
+    "original": "ハサミギロチン",
+    "translation": "极落钳",
+    "index": 12
+  },
+  {
+    "key": "DP_0739_0013",
+    "original": "かまいたち",
+    "translation": "旋风刀",
+    "index": 13
+  },
+  {
+    "key": "DP_0739_0014",
+    "original": "つるぎのまい",
+    "translation": "剑舞",
+    "index": 14
+  },
+  {
+    "key": "DP_0739_0015",
+    "original": "いあいぎり",
+    "translation": "居合劈",
+    "index": 15
+  },
+  {
+    "key": "DP_0739_0016",
+    "original": "かぜおこし",
+    "translation": "起风",
+    "index": 16
+  },
+  {
+    "key": "DP_0739_0017",
+    "original": "つばさでうつ",
+    "translation": "翅膀攻击",
+    "index": 17
+  },
+  {
+    "key": "DP_0739_0018",
+    "original": "ふきとばし",
+    "translation": "吹飞",
+    "index": 18
+  },
+  {
+    "key": "DP_0739_0019",
+    "original": "そらをとぶ",
+    "translation": "飞翔",
+    "index": 19
+  },
+  {
+    "key": "DP_0739_0020",
+    "original": "しめつける",
+    "translation": "绑紧",
+    "index": 20
+  },
+  {
+    "key": "DP_0739_0021",
+    "original": "たたきつける",
+    "translation": "摔打",
+    "index": 21
+  },
+  {
+    "key": "DP_0739_0022",
+    "original": "つるのムチ",
+    "translation": "藤鞭",
+    "index": 22
+  },
+  {
+    "key": "DP_0739_0023",
+    "original": "ふみつけ",
+    "translation": "踩踏",
+    "index": 23
+  },
+  {
+    "key": "DP_0739_0024",
+    "original": "にどげり",
+    "translation": "二连踢",
+    "index": 24
+  },
+  {
+    "key": "DP_0739_0025",
+    "original": "メガトンキック",
+    "translation": "百万吨重踢",
+    "index": 25
+  },
+  {
+    "key": "DP_0739_0026",
+    "original": "とびげり",
+    "translation": "飞踢",
+    "index": 26
+  },
+  {
+    "key": "DP_0739_0027",
+    "original": "まわしげり",
+    "translation": "回旋踢",
+    "index": 27
+  },
+  {
+    "key": "DP_0739_0028",
+    "original": "すなかけ",
+    "translation": "泼沙",
+    "index": 28
+  },
+  {
+    "key": "DP_0739_0029",
+    "original": "ずつき",
+    "translation": "头锤",
+    "index": 29
+  },
+  {
+    "key": "DP_0739_0030",
+    "original": "つのでつく",
+    "translation": "角撞",
+    "index": 30
+  },
+  {
+    "key": "DP_0739_0031",
+    "original": "みだれづき",
+    "translation": "乱击",
+    "index": 31
+  },
+  {
+    "key": "DP_0739_0032",
+    "original": "つのドリル",
+    "translation": "角钻",
+    "index": 32
+  },
+  {
+    "key": "DP_0739_0033",
+    "original": "たいあたり",
+    "translation": "撞击",
+    "index": 33
+  },
+  {
+    "key": "DP_0739_0034",
+    "original": "のしかかり",
+    "translation": "泰山压顶",
+    "index": 34
+  },
+  {
+    "key": "DP_0739_0035",
+    "original": "まきつく",
+    "translation": "紧束",
+    "index": 35
+  },
+  {
+    "key": "DP_0739_0036",
+    "original": "とっしん",
+    "translation": "猛撞",
+    "index": 36
+  },
+  {
+    "key": "DP_0739_0037",
+    "original": "あばれる",
+    "translation": "大闹一番",
+    "index": 37
+  },
+  {
+    "key": "DP_0739_0038",
+    "original": "すてみタックル",
+    "translation": "舍身冲撞",
+    "index": 38
+  },
+  {
+    "key": "DP_0739_0039",
+    "original": "しっぽをふる",
+    "translation": "摇尾巴",
+    "index": 39
+  },
+  {
+    "key": "DP_0739_0040",
+    "original": "どくばり",
+    "translation": "毒针",
+    "index": 40
+  },
+  {
+    "key": "DP_0739_0041",
+    "original": "ダブルニードル",
+    "translation": "双针",
+    "index": 41
+  },
+  {
+    "key": "DP_0739_0042",
+    "original": "ミサイルばり",
+    "translation": "飞弹针",
+    "index": 42
+  },
+  {
+    "key": "DP_0739_0043",
+    "original": "にらみつける",
+    "translation": "瞪眼",
+    "index": 43
+  },
+  {
+    "key": "DP_0739_0044",
+    "original": "かみつく",
+    "translation": "咬住",
+    "index": 44
+  },
+  {
+    "key": "DP_0739_0045",
+    "original": "なきごえ",
+    "translation": "叫声",
+    "index": 45
+  },
+  {
+    "key": "DP_0739_0046",
+    "original": "ほえる",
+    "translation": "吼叫",
+    "index": 46
+  },
+  {
+    "key": "DP_0739_0047",
+    "original": "うたう",
+    "translation": "唱歌",
+    "index": 47
+  },
+  {
+    "key": "DP_0739_0048",
+    "original": "ちょうおんぱ",
+    "translation": "超音波",
+    "index": 48
+  },
+  {
+    "key": "DP_0739_0049",
+    "original": "ソニックブーム",
+    "translation": "音爆",
+    "index": 49
+  },
+  {
+    "key": "DP_0739_0050",
+    "original": "かなしばり",
+    "translation": "定身法",
+    "index": 50
+  },
+  {
+    "key": "DP_0739_0051",
+    "original": "ようかいえき",
+    "translation": "溶解液",
+    "index": 51
+  },
+  {
+    "key": "DP_0739_0052",
+    "original": "ひのこ",
+    "translation": "火花",
+    "index": 52
+  },
+  {
+    "key": "DP_0739_0053",
+    "original": "かえんほうしゃ",
+    "translation": "喷射火焰",
+    "index": 53
+  },
+  {
+    "key": "DP_0739_0054",
+    "original": "しろいきり",
+    "translation": "白雾",
+    "index": 54
+  },
+  {
+    "key": "DP_0739_0055",
+    "original": "みずでっぽう",
+    "translation": "水枪",
+    "index": 55
+  },
+  {
+    "key": "DP_0739_0056",
+    "original": "ハイドロポンプ",
+    "translation": "水炮",
+    "index": 56
+  },
+  {
+    "key": "DP_0739_0057",
+    "original": "なみのり",
+    "translation": "冲浪",
+    "index": 57
+  },
+  {
+    "key": "DP_0739_0058",
+    "original": "れいとうビーム",
+    "translation": "冰冻光束",
+    "index": 58
+  },
+  {
+    "key": "DP_0739_0059",
+    "original": "ふぶき",
+    "translation": "暴风雪",
+    "index": 59
+  },
+  {
+    "key": "DP_0739_0060",
+    "original": "サイケこうせん",
+    "translation": "幻象光线",
+    "index": 60
+  },
+  {
+    "key": "DP_0739_0061",
+    "original": "バブルこうせん",
+    "translation": "泡沫光线",
+    "index": 61
+  },
+  {
+    "key": "DP_0739_0062",
+    "original": "オーロラビーム",
+    "translation": "极光束",
+    "index": 62
+  },
+  {
+    "key": "DP_0739_0063",
+    "original": "はかいこうせん",
+    "translation": "破坏光线",
+    "index": 63
+  },
+  {
+    "key": "DP_0739_0064",
+    "original": "つつく",
+    "translation": "啄",
+    "index": 64
+  },
+  {
+    "key": "DP_0739_0065",
+    "original": "ドリルくちばし",
+    "translation": "啄钻",
+    "index": 65
+  },
+  {
+    "key": "DP_0739_0066",
+    "original": "じごくぐるま",
+    "translation": "深渊翻滚",
+    "index": 66
+  },
+  {
+    "key": "DP_0739_0067",
+    "original": "けたぐり",
+    "translation": "踢倒",
+    "index": 67
+  },
+  {
+    "key": "DP_0739_0068",
+    "original": "カウンター",
+    "translation": "双倍奉还",
+    "index": 68
+  },
+  {
+    "key": "DP_0739_0069",
+    "original": "ちきゅうなげ",
+    "translation": "地球上投",
+    "index": 69
+  },
+  {
+    "key": "DP_0739_0070",
+    "original": "かいりき",
+    "translation": "怪力",
+    "index": 70
+  },
+  {
+    "key": "DP_0739_0071",
+    "original": "すいとる",
+    "translation": "吸取",
+    "index": 71
+  },
+  {
+    "key": "DP_0739_0072",
+    "original": "メガドレイン",
+    "translation": "超级吸取",
+    "index": 72
+  },
+  {
+    "key": "DP_0739_0073",
+    "original": "やどりぎのタネ",
+    "translation": "寄生种子",
+    "index": 73
+  },
+  {
+    "key": "DP_0739_0074",
+    "original": "せいちょう",
+    "translation": "生长",
+    "index": 74
+  },
+  {
+    "key": "DP_0739_0075",
+    "original": "はっぱカッター",
+    "translation": "飞叶快刀",
+    "index": 75
+  },
+  {
+    "key": "DP_0739_0076",
+    "original": "ソーラービーム",
+    "translation": "日光束",
+    "index": 76
+  },
+  {
+    "key": "DP_0739_0077",
+    "original": "どくのこな",
+    "translation": "毒粉",
+    "index": 77
+  },
+  {
+    "key": "DP_0739_0078",
+    "original": "しびれごな",
+    "translation": "麻痹粉",
+    "index": 78
+  },
+  {
+    "key": "DP_0739_0079",
+    "original": "ねむりごな",
+    "translation": "催眠粉",
+    "index": 79
+  },
+  {
+    "key": "DP_0739_0080",
+    "original": "はなびらのまい",
+    "translation": "花瓣舞",
+    "index": 80
+  },
+  {
+    "key": "DP_0739_0081",
+    "original": "いとをはく",
+    "translation": "吐丝",
+    "index": 81
+  },
+  {
+    "key": "DP_0739_0082",
+    "original": "りゅうのいかり",
+    "translation": "龙之怒",
+    "index": 82
+  },
+  {
+    "key": "DP_0739_0083",
+    "original": "ほのおのうず",
+    "translation": "火焰旋涡",
+    "index": 83
+  },
+  {
+    "key": "DP_0739_0084",
+    "original": "でんきショック",
+    "translation": "电击",
+    "index": 84
+  },
+  {
+    "key": "DP_0739_0085",
+    "original": "１０まんボルト",
+    "translation": "十万伏特",
+    "index": 85
+  },
+  {
+    "key": "DP_0739_0086",
+    "original": "でんじは",
+    "translation": "电磁波",
+    "index": 86
+  },
+  {
+    "key": "DP_0739_0087",
+    "original": "かみなり",
+    "translation": "打雷",
+    "index": 87
+  },
+  {
+    "key": "DP_0739_0088",
+    "original": "いわおとし",
+    "translation": "落石",
+    "index": 88
+  },
+  {
+    "key": "DP_0739_0089",
+    "original": "じしん",
+    "translation": "地震",
+    "index": 89
+  },
+  {
+    "key": "DP_0739_0090",
+    "original": "じわれ",
+    "translation": "地裂",
+    "index": 90
+  },
+  {
+    "key": "DP_0739_0091",
+    "original": "あなをほる",
+    "translation": "挖洞",
+    "index": 91
+  },
+  {
+    "key": "DP_0739_0092",
+    "original": "どくどく",
+    "translation": "剧毒",
+    "index": 92
+  },
+  {
+    "key": "DP_0739_0093",
+    "original": "ねんりき",
+    "translation": "念力",
+    "index": 93
+  },
+  {
+    "key": "DP_0739_0094",
+    "original": "サイコキネシス",
+    "translation": "精神强念",
+    "index": 94
+  },
+  {
+    "key": "DP_0739_0095",
+    "original": "さいみんじゅつ",
+    "translation": "催眠术",
+    "index": 95
+  },
+  {
+    "key": "DP_0739_0096",
+    "original": "ヨガのポーズ",
+    "translation": "瑜伽姿势",
+    "index": 96
+  },
+  {
+    "key": "DP_0739_0097",
+    "original": "こうそくいどう",
+    "translation": "高速移动",
+    "index": 97
+  },
+  {
+    "key": "DP_0739_0098",
+    "original": "でんこうせっか",
+    "translation": "电光一闪",
+    "index": 98
+  },
+  {
+    "key": "DP_0739_0099",
+    "original": "いかり",
+    "translation": "愤怒",
+    "index": 99
+  },
+  {
+    "key": "DP_0739_0100",
+    "original": "テレポート",
+    "translation": "瞬间移动",
+    "index": 100
+  },
+  {
+    "key": "DP_0739_0101",
+    "original": "ナイトヘッド",
+    "translation": "黑夜魔影",
+    "index": 101
+  },
+  {
+    "key": "DP_0739_0102",
+    "original": "ものまね",
+    "translation": "模仿",
+    "index": 102
+  },
+  {
+    "key": "DP_0739_0103",
+    "original": "いやなおと",
+    "translation": "刺耳声",
+    "index": 103
+  },
+  {
+    "key": "DP_0739_0104",
+    "original": "かげぶんしん",
+    "translation": "影子分身",
+    "index": 104
+  },
+  {
+    "key": "DP_0739_0105",
+    "original": "じこさいせい",
+    "translation": "自我再生",
+    "index": 105
+  },
+  {
+    "key": "DP_0739_0106",
+    "original": "かたくなる",
+    "translation": "变硬",
+    "index": 106
+  },
+  {
+    "key": "DP_0739_0107",
+    "original": "ちいさくなる",
+    "translation": "变小",
+    "index": 107
+  },
+  {
+    "key": "DP_0739_0108",
+    "original": "えんまく",
+    "translation": "烟幕",
+    "index": 108
+  },
+  {
+    "key": "DP_0739_0109",
+    "original": "あやしいひかり",
+    "translation": "奇异之光",
+    "index": 109
+  },
+  {
+    "key": "DP_0739_0110",
+    "original": "からにこもる",
+    "translation": "缩入壳中",
+    "index": 110
+  },
+  {
+    "key": "DP_0739_0111",
+    "original": "まるくなる",
+    "translation": "变圆",
+    "index": 111
+  },
+  {
+    "key": "DP_0739_0112",
+    "original": "バリアー",
+    "translation": "屏障",
+    "index": 112
+  },
+  {
+    "key": "DP_0739_0113",
+    "original": "ひかりのかべ",
+    "translation": "光墙",
+    "index": 113
+  },
+  {
+    "key": "DP_0739_0114",
+    "original": "くろいきり",
+    "translation": "黑雾",
+    "index": 114
+  },
+  {
+    "key": "DP_0739_0115",
+    "original": "リフレクター",
+    "translation": "反射壁",
+    "index": 115
+  },
+  {
+    "key": "DP_0739_0116",
+    "original": "きあいだめ",
+    "translation": "聚气",
+    "index": 116
+  },
+  {
+    "key": "DP_0739_0117",
+    "original": "がまん",
+    "translation": "忍耐",
+    "index": 117
+  },
+  {
+    "key": "DP_0739_0118",
+    "original": "ゆびをふる",
+    "translation": "挥指",
+    "index": 118
+  },
+  {
+    "key": "DP_0739_0119",
+    "original": "オウムがえし",
+    "translation": "鹦鹉学舌",
+    "index": 119
+  },
+  {
+    "key": "DP_0739_0120",
+    "original": "じばく",
+    "translation": "玉石俱碎",
+    "index": 120
+  },
+  {
+    "key": "DP_0739_0121",
+    "original": "タマゴばくだん",
+    "translation": "炸蛋",
+    "index": 121
+  },
+  {
+    "key": "DP_0739_0122",
+    "original": "したでなめる",
+    "translation": "舌舔",
+    "index": 122
+  },
+  {
+    "key": "DP_0739_0123",
+    "original": "スモッグ",
+    "translation": "浊雾",
+    "index": 123
+  },
+  {
+    "key": "DP_0739_0124",
+    "original": "ヘドロこうげき",
+    "translation": "污泥攻击",
+    "index": 124
+  },
+  {
+    "key": "DP_0739_0125",
+    "original": "ホネこんぼう",
+    "translation": "骨棒",
+    "index": 125
+  },
+  {
+    "key": "DP_0739_0126",
+    "original": "だいもんじ",
+    "translation": "大字爆炎",
+    "index": 126
+  },
+  {
+    "key": "DP_0739_0127",
+    "original": "たきのぼり",
+    "translation": "攀瀑",
+    "index": 127
+  },
+  {
+    "key": "DP_0739_0128",
+    "original": "からではさむ",
+    "translation": "贝壳夹击",
+    "index": 128
+  },
+  {
+    "key": "DP_0739_0129",
+    "original": "スピードスター",
+    "translation": "高速星星",
+    "index": 129
+  },
+  {
+    "key": "DP_0739_0130",
+    "original": "ロケットずつき",
+    "translation": "火箭头锤",
+    "index": 130
+  },
+  {
+    "key": "DP_0739_0131",
+    "original": "とげキャノン",
+    "translation": "尖刺加农炮",
+    "index": 131
+  },
+  {
+    "key": "DP_0739_0132",
+    "original": "からみつく",
+    "translation": "缠绕",
+    "index": 132
+  },
+  {
+    "key": "DP_0739_0133",
+    "original": "ドわすれ",
+    "translation": "瞬间失忆",
+    "index": 133
+  },
+  {
+    "key": "DP_0739_0134",
+    "original": "スプーンまげ",
+    "translation": "折弯汤匙",
+    "index": 134
+  },
+  {
+    "key": "DP_0739_0135",
+    "original": "タマゴうみ",
+    "translation": "生蛋",
+    "index": 135
+  },
+  {
+    "key": "DP_0739_0136",
+    "original": "とびひざげり",
+    "translation": "飞膝踢",
+    "index": 136
+  },
+  {
+    "key": "DP_0739_0137",
+    "original": "へびにらみ",
+    "translation": "大蛇瞪眼",
+    "index": 137
+  },
+  {
+    "key": "DP_0739_0138",
+    "original": "ゆめくい",
+    "translation": "食梦",
+    "index": 138
+  },
+  {
+    "key": "DP_0739_0139",
+    "original": "どくガス",
+    "translation": "毒瓦斯",
+    "index": 139
+  },
+  {
+    "key": "DP_0739_0140",
+    "original": "たまなげ",
+    "translation": "投球",
+    "index": 140
+  },
+  {
+    "key": "DP_0739_0141",
+    "original": "きゅうけつ",
+    "translation": "汲取",
+    "index": 141
+  },
+  {
+    "key": "DP_0739_0142",
+    "original": "あくまのキッス",
+    "translation": "恶魔之吻",
+    "index": 142
+  },
+  {
+    "key": "DP_0739_0143",
+    "original": "ゴッドバード",
+    "translation": "神鸟猛击",
+    "index": 143
+  },
+  {
+    "key": "DP_0739_0144",
+    "original": "へんしん",
+    "translation": "变身",
+    "index": 144
+  },
+  {
+    "key": "DP_0739_0145",
+    "original": "あわ",
+    "translation": "泡沫",
+    "index": 145
+  },
+  {
+    "key": "DP_0739_0146",
+    "original": "ピヨピヨパンチ",
+    "translation": "迷昏拳",
+    "index": 146
+  },
+  {
+    "key": "DP_0739_0147",
+    "original": "キノコのほうし",
+    "translation": "蘑菇孢子",
+    "index": 147
+  },
+  {
+    "key": "DP_0739_0148",
+    "original": "フラッシュ",
+    "translation": "闪光",
+    "index": 148
+  },
+  {
+    "key": "DP_0739_0149",
+    "original": "サイコウェーブ",
+    "translation": "精神波",
+    "index": 149
+  },
+  {
+    "key": "DP_0739_0150",
+    "original": "はねる",
+    "translation": "跃起",
+    "index": 150
+  },
+  {
+    "key": "DP_0739_0151",
+    "original": "とける",
+    "translation": "溶化",
+    "index": 151
+  },
+  {
+    "key": "DP_0739_0152",
+    "original": "クラブハンマー",
+    "translation": "蟹钳锤",
+    "index": 152
+  },
+  {
+    "key": "DP_0739_0153",
+    "original": "だいばくはつ",
+    "translation": "大爆炸",
+    "index": 153
+  },
+  {
+    "key": "DP_0739_0154",
+    "original": "みだれひっかき",
+    "translation": "乱抓",
+    "index": 154
+  },
+  {
+    "key": "DP_0739_0155",
+    "original": "ホネブーメラン",
+    "translation": "骨头回力镖",
+    "index": 155
+  },
+  {
+    "key": "DP_0739_0156",
+    "original": "ねむる",
+    "translation": "睡觉",
+    "index": 156
+  },
+  {
+    "key": "DP_0739_0157",
+    "original": "いわなだれ",
+    "translation": "岩崩",
+    "index": 157
+  },
+  {
+    "key": "DP_0739_0158",
+    "original": "ひっさつまえば",
+    "translation": "终结门牙",
+    "index": 158
+  },
+  {
+    "key": "DP_0739_0159",
+    "original": "かくばる",
+    "translation": "棱角化",
+    "index": 159
+  },
+  {
+    "key": "DP_0739_0160",
+    "original": "テクスチャー",
+    "translation": "纹理",
+    "index": 160
+  },
+  {
+    "key": "DP_0739_0161",
+    "original": "トライアタック",
+    "translation": "三重攻击",
+    "index": 161
+  },
+  {
+    "key": "DP_0739_0162",
+    "original": "いかりのまえば",
+    "translation": "愤怒门牙",
+    "index": 162
+  },
+  {
+    "key": "DP_0739_0163",
+    "original": "きりさく",
+    "translation": "劈开",
+    "index": 163
+  },
+  {
+    "key": "DP_0739_0164",
+    "original": "みがわり",
+    "translation": "替身",
+    "index": 164
+  },
+  {
+    "key": "DP_0739_0165",
+    "original": "わるあがき",
+    "translation": "挣扎",
+    "index": 165
+  },
+  {
+    "key": "DP_0739_0166",
+    "original": "スケッチ",
+    "translation": "写生",
+    "index": 166
+  },
+  {
+    "key": "DP_0739_0167",
+    "original": "トリプルキック",
+    "translation": "三连踢",
+    "index": 167
+  },
+  {
+    "key": "DP_0739_0168",
+    "original": "どろぼう",
+    "translation": "小偷",
+    "index": 168
+  },
+  {
+    "key": "DP_0739_0169",
+    "original": "クモのす",
+    "translation": "蛛网",
+    "index": 169
+  },
+  {
+    "key": "DP_0739_0170",
+    "original": "こころのめ",
+    "translation": "心之眼",
+    "index": 170
+  },
+  {
+    "key": "DP_0739_0171",
+    "original": "あくむ",
+    "translation": "恶梦",
+    "index": 171
+  },
+  {
+    "key": "DP_0739_0172",
+    "original": "かえんぐるま",
+    "translation": "火焰轮",
+    "index": 172
+  },
+  {
+    "key": "DP_0739_0173",
+    "original": "いびき",
+    "translation": "打鼾",
+    "index": 173
+  },
+  {
+    "key": "DP_0739_0174",
+    "original": "のろい",
+    "translation": "咒术",
+    "index": 174
+  },
+  {
+    "key": "DP_0739_0175",
+    "original": "じたばた",
+    "translation": "抓狂",
+    "index": 175
+  },
+  {
+    "key": "DP_0739_0176",
+    "original": "テクスチャー２",
+    "translation": "纹理２",
+    "index": 176
+  },
+  {
+    "key": "DP_0739_0177",
+    "original": "エアロブラスト",
+    "translation": "气旋攻击",
+    "index": 177
+  },
+  {
+    "key": "DP_0739_0178",
+    "original": "わたほうし",
+    "translation": "棉孢子",
+    "index": 178
+  },
+  {
+    "key": "DP_0739_0179",
+    "original": "きしかいせい",
+    "translation": "绝处逢生",
+    "index": 179
+  },
+  {
+    "key": "DP_0739_0180",
+    "original": "うらみ",
+    "translation": "怨恨",
+    "index": 180
+  },
+  {
+    "key": "DP_0739_0181",
+    "original": "こなゆき",
+    "translation": "细雪",
+    "index": 181
+  },
+  {
+    "key": "DP_0739_0182",
+    "original": "まもる",
+    "translation": "守住",
+    "index": 182
+  },
+  {
+    "key": "DP_0739_0183",
+    "original": "マッハパンチ",
+    "translation": "音速拳",
+    "index": 183
+  },
+  {
+    "key": "DP_0739_0184",
+    "original": "こわいかお",
+    "translation": "可怕面孔",
+    "index": 184
+  },
+  {
+    "key": "DP_0739_0185",
+    "original": "だましうち",
+    "translation": "出奇一击",
+    "index": 185
+  },
+  {
+    "key": "DP_0739_0186",
+    "original": "てんしのキッス",
+    "translation": "天使之吻",
+    "index": 186
+  },
+  {
+    "key": "DP_0739_0187",
+    "original": "はらだいこ",
+    "translation": "腹鼓",
+    "index": 187
+  },
+  {
+    "key": "DP_0739_0188",
+    "original": "ヘドロばくだん",
+    "translation": "污泥炸弹",
+    "index": 188
+  },
+  {
+    "key": "DP_0739_0189",
+    "original": "どろかけ",
+    "translation": "掷泥",
+    "index": 189
+  },
+  {
+    "key": "DP_0739_0190",
+    "original": "オクタンほう",
+    "translation": "章鱼桶炮",
+    "index": 190
+  },
+  {
+    "key": "DP_0739_0191",
+    "original": "まきびし",
+    "translation": "撒菱",
+    "index": 191
+  },
+  {
+    "key": "DP_0739_0192",
+    "original": "でんじほう",
+    "translation": "电磁炮",
+    "index": 192
+  },
+  {
+    "key": "DP_0739_0193",
+    "original": "みやぶる",
+    "translation": "识破",
+    "index": 193
+  },
+  {
+    "key": "DP_0739_0194",
+    "original": "みちづれ",
+    "translation": "同命",
+    "index": 194
+  },
+  {
+    "key": "DP_0739_0195",
+    "original": "ほろびのうた",
+    "translation": "终焉之歌",
+    "index": 195
+  },
+  {
+    "key": "DP_0739_0196",
+    "original": "こごえるかぜ",
+    "translation": "冰冻之风",
+    "index": 196
+  },
+  {
+    "key": "DP_0739_0197",
+    "original": "みきり",
+    "translation": "看穿",
+    "index": 197
+  },
+  {
+    "key": "DP_0739_0198",
+    "original": "ボーンラッシュ",
+    "translation": "骨棒乱打",
+    "index": 198
+  },
+  {
+    "key": "DP_0739_0199",
+    "original": "ロックオン",
+    "translation": "锁定",
+    "index": 199
+  },
+  {
+    "key": "DP_0739_0200",
+    "original": "げきりん",
+    "translation": "逆鳞",
+    "index": 200
+  },
+  {
+    "key": "DP_0739_0201",
+    "original": "すなあらし",
+    "translation": "沙暴",
+    "index": 201
+  },
+  {
+    "key": "DP_0739_0202",
+    "original": "ギガドレイン",
+    "translation": "终极吸取",
+    "index": 202
+  },
+  {
+    "key": "DP_0739_0203",
+    "original": "こらえる",
+    "translation": "挺住",
+    "index": 203
+  },
+  {
+    "key": "DP_0739_0204",
+    "original": "あまえる",
+    "translation": "撒娇",
+    "index": 204
+  },
+  {
+    "key": "DP_0739_0205",
+    "original": "ころがる",
+    "translation": "滚动",
+    "index": 205
+  },
+  {
+    "key": "DP_0739_0206",
+    "original": "みねうち",
+    "translation": "点到为止",
+    "index": 206
+  },
+  {
+    "key": "DP_0739_0207",
+    "original": "いばる",
+    "translation": "虚张声势",
+    "index": 207
+  },
+  {
+    "key": "DP_0739_0208",
+    "original": "ミルクのみ",
+    "translation": "喝牛奶",
+    "index": 208
+  },
+  {
+    "key": "DP_0739_0209",
+    "original": "スパーク",
+    "translation": "电光",
+    "index": 209
+  },
+  {
+    "key": "DP_0739_0210",
+    "original": "れんぞくぎり",
+    "translation": "连斩",
+    "index": 210
+  },
+  {
+    "key": "DP_0739_0211",
+    "original": "はがねのつばさ",
+    "translation": "钢翼",
+    "index": 211
+  },
+  {
+    "key": "DP_0739_0212",
+    "original": "くろいまなざし",
+    "translation": "黑色目光",
+    "index": 212
+  },
+  {
+    "key": "DP_0739_0213",
+    "original": "メロメロ",
+    "translation": "迷人",
+    "index": 213
+  },
+  {
+    "key": "DP_0739_0214",
+    "original": "ねごと",
+    "translation": "梦话",
+    "index": 214
+  },
+  {
+    "key": "DP_0739_0215",
+    "original": "いやしのすず",
+    "translation": "治愈铃声",
+    "index": 215
+  },
+  {
+    "key": "DP_0739_0216",
+    "original": "おんがえし",
+    "translation": "报恩",
+    "index": 216
+  },
+  {
+    "key": "DP_0739_0217",
+    "original": "プレゼント",
+    "translation": "礼物",
+    "index": 217
+  },
+  {
+    "key": "DP_0739_0218",
+    "original": "やつあたり",
+    "translation": "迁怒",
+    "index": 218
+  },
+  {
+    "key": "DP_0739_0219",
+    "original": "しんぴのまもり",
+    "translation": "神秘守护",
+    "index": 219
+  },
+  {
+    "key": "DP_0739_0220",
+    "original": "いたみわけ",
+    "translation": "分担痛楚",
+    "index": 220
+  },
+  {
+    "key": "DP_0739_0221",
+    "original": "せいなるほのお",
+    "translation": "神圣之火",
+    "index": 221
+  },
+  {
+    "key": "DP_0739_0222",
+    "original": "マグニチュード",
+    "translation": "震级",
+    "index": 222
+  },
+  {
+    "key": "DP_0739_0223",
+    "original": "ばくれつパンチ",
+    "translation": "爆裂拳",
+    "index": 223
+  },
+  {
+    "key": "DP_0739_0224",
+    "original": "メガホーン",
+    "translation": "超级角击",
+    "index": 224
+  },
+  {
+    "key": "DP_0739_0225",
+    "original": "りゅうのいぶき",
+    "translation": "龙息",
+    "index": 225
+  },
+  {
+    "key": "DP_0739_0226",
+    "original": "バトンタッチ",
+    "translation": "接棒",
+    "index": 226
+  },
+  {
+    "key": "DP_0739_0227",
+    "original": "アンコール",
+    "translation": "再来一次",
+    "index": 227
+  },
+  {
+    "key": "DP_0739_0228",
+    "original": "おいうち",
+    "translation": "追打",
+    "index": 228
+  },
+  {
+    "key": "DP_0739_0229",
+    "original": "こうそくスピン",
+    "translation": "高速旋转",
+    "index": 229
+  },
+  {
+    "key": "DP_0739_0230",
+    "original": "あまいかおり",
+    "translation": "甜甜香气",
+    "index": 230
+  },
+  {
+    "key": "DP_0739_0231",
+    "original": "アイアンテール",
+    "translation": "铁尾",
+    "index": 231
+  },
+  {
+    "key": "DP_0739_0232",
+    "original": "メタルクロー",
+    "translation": "金属爪",
+    "index": 232
+  },
+  {
+    "key": "DP_0739_0233",
+    "original": "あてみなげ",
+    "translation": "借力摔",
+    "index": 233
+  },
+  {
+    "key": "DP_0739_0234",
+    "original": "あさのひざし",
+    "translation": "晨光",
+    "index": 234
+  },
+  {
+    "key": "DP_0739_0235",
+    "original": "こうごうせい",
+    "translation": "光合作用",
+    "index": 235
+  },
+  {
+    "key": "DP_0739_0236",
+    "original": "つきのひかり",
+    "translation": "月光",
+    "index": 236
+  },
+  {
+    "key": "DP_0739_0237",
+    "original": "めざめるパワー",
+    "translation": "觉醒力量",
+    "index": 237
+  },
+  {
+    "key": "DP_0739_0238",
+    "original": "クロスチョップ",
+    "translation": "十字劈",
+    "index": 238
+  },
+  {
+    "key": "DP_0739_0239",
+    "original": "たつまき",
+    "translation": "龙卷风",
+    "index": 239
+  },
+  {
+    "key": "DP_0739_0240",
+    "original": "あまごい",
+    "translation": "求雨",
+    "index": 240
+  },
+  {
+    "key": "DP_0739_0241",
+    "original": "にほんばれ",
+    "translation": "大晴天",
+    "index": 241
+  },
+  {
+    "key": "DP_0739_0242",
+    "original": "かみくだく",
+    "translation": "咬碎",
+    "index": 242
+  },
+  {
+    "key": "DP_0739_0243",
+    "original": "ミラーコート",
+    "translation": "镜面反射",
+    "index": 243
+  },
+  {
+    "key": "DP_0739_0244",
+    "original": "じこあんじ",
+    "translation": "自我暗示",
+    "index": 244
+  },
+  {
+    "key": "DP_0739_0245",
+    "original": "しんそく",
+    "translation": "神速",
+    "index": 245
+  },
+  {
+    "key": "DP_0739_0246",
+    "original": "げんしのちから",
+    "translation": "原始之力",
+    "index": 246
+  },
+  {
+    "key": "DP_0739_0247",
+    "original": "シャドーボール",
+    "translation": "暗影球",
+    "index": 247
+  },
+  {
+    "key": "DP_0739_0248",
+    "original": "みらいよち",
+    "translation": "预知未来",
+    "index": 248
+  },
+  {
+    "key": "DP_0739_0249",
+    "original": "いわくだき",
+    "translation": "碎岩",
+    "index": 249
+  },
+  {
+    "key": "DP_0739_0250",
+    "original": "うずしお",
+    "translation": "潮旋",
+    "index": 250
+  },
+  {
+    "key": "DP_0739_0251",
+    "original": "ふくろだたき",
+    "translation": "围攻",
+    "index": 251
+  },
+  {
+    "key": "DP_0739_0252",
+    "original": "ねこだまし",
+    "translation": "击掌奇袭",
+    "index": 252
+  },
+  {
+    "key": "DP_0739_0253",
+    "original": "さわぐ",
+    "translation": "吵闹",
+    "index": 253
+  },
+  {
+    "key": "DP_0739_0254",
+    "original": "たくわえる",
+    "translation": "蓄力",
+    "index": 254
+  },
+  {
+    "key": "DP_0739_0255",
+    "original": "はきだす",
+    "translation": "喷出",
+    "index": 255
+  },
+  {
+    "key": "DP_0739_0256",
+    "original": "のみこむ",
+    "translation": "吞下",
+    "index": 256
+  },
+  {
+    "key": "DP_0739_0257",
+    "original": "ねっぷう",
+    "translation": "热风",
+    "index": 257
+  },
+  {
+    "key": "DP_0739_0258",
+    "original": "あられ",
+    "translation": "冰雹",
+    "index": 258
+  },
+  {
+    "key": "DP_0739_0259",
+    "original": "いちゃもん",
+    "translation": "无理取闹",
+    "index": 259
+  },
+  {
+    "key": "DP_0739_0260",
+    "original": "おだてる",
+    "translation": "吹捧",
+    "index": 260
+  },
+  {
+    "key": "DP_0739_0261",
+    "original": "おにび",
+    "translation": "磷火",
+    "index": 261
+  },
+  {
+    "key": "DP_0739_0262",
+    "original": "おきみやげ",
+    "translation": "临别礼物",
+    "index": 262
+  },
+  {
+    "key": "DP_0739_0263",
+    "original": "からげんき",
+    "translation": "硬撑",
+    "index": 263
+  },
+  {
+    "key": "DP_0739_0264",
+    "original": "きあいパンチ",
+    "translation": "真气拳",
+    "index": 264
+  },
+  {
+    "key": "DP_0739_0265",
+    "original": "きつけ",
+    "translation": "清醒",
+    "index": 265
+  },
+  {
+    "key": "DP_0739_0266",
+    "original": "このゆびとまれ",
+    "translation": "看我嘛",
+    "index": 266
+  },
+  {
+    "key": "DP_0739_0267",
+    "original": "しぜんのちから",
+    "translation": "自然之力",
+    "index": 267
+  },
+  {
+    "key": "DP_0739_0268",
+    "original": "じゅうでん",
+    "translation": "充电",
+    "index": 268
+  },
+  {
+    "key": "DP_0739_0269",
+    "original": "ちょうはつ",
+    "translation": "挑衅",
+    "index": 269
+  },
+  {
+    "key": "DP_0739_0270",
+    "original": "てだすけ",
+    "translation": "帮助",
+    "index": 270
+  },
+  {
+    "key": "DP_0739_0271",
+    "original": "トリック",
+    "translation": "戏法",
+    "index": 271
+  },
+  {
+    "key": "DP_0739_0272",
+    "original": "なりきり",
+    "translation": "扮演",
+    "index": 272
+  },
+  {
+    "key": "DP_0739_0273",
+    "original": "ねがいごと",
+    "translation": "祈愿",
+    "index": 273
+  },
+  {
+    "key": "DP_0739_0274",
+    "original": "ねこのて",
+    "translation": "借助",
+    "index": 274
+  },
+  {
+    "key": "DP_0739_0275",
+    "original": "ねをはる",
+    "translation": "扎根",
+    "index": 275
+  },
+  {
+    "key": "DP_0739_0276",
+    "original": "ばかぢから",
+    "translation": "蛮力",
+    "index": 276
+  },
+  {
+    "key": "DP_0739_0277",
+    "original": "マジックコート",
+    "translation": "魔法反射",
+    "index": 277
+  },
+  {
+    "key": "DP_0739_0278",
+    "original": "リサイクル",
+    "translation": "回收利用",
+    "index": 278
+  },
+  {
+    "key": "DP_0739_0279",
+    "original": "リベンジ",
+    "translation": "报复",
+    "index": 279
+  },
+  {
+    "key": "DP_0739_0280",
+    "original": "かわらわり",
+    "translation": "劈瓦",
+    "index": 280
+  },
+  {
+    "key": "DP_0739_0281",
+    "original": "あくび",
+    "translation": "哈欠",
+    "index": 281
+  },
+  {
+    "key": "DP_0739_0282",
+    "original": "はたきおとす",
+    "translation": "拍落",
+    "index": 282
+  },
+  {
+    "key": "DP_0739_0283",
+    "original": "がむしゃら",
+    "translation": "蛮干",
+    "index": 283
+  },
+  {
+    "key": "DP_0739_0284",
+    "original": "ふんか",
+    "translation": "喷火",
+    "index": 284
+  },
+  {
+    "key": "DP_0739_0285",
+    "original": "スキルスワップ",
+    "translation": "特性互换",
+    "index": 285
+  },
+  {
+    "key": "DP_0739_0286",
+    "original": "ふういん",
+    "translation": "封印",
+    "index": 286
+  },
+  {
+    "key": "DP_0739_0287",
+    "original": "リフレッシュ",
+    "translation": "焕然一新",
+    "index": 287
+  },
+  {
+    "key": "DP_0739_0288",
+    "original": "おんねん",
+    "translation": "怨念",
+    "index": 288
+  },
+  {
+    "key": "DP_0739_0289",
+    "original": "よこどり",
+    "translation": "化为己用",
+    "index": 289
+  },
+  {
+    "key": "DP_0739_0290",
+    "original": "ひみつのちから",
+    "translation": "秘密之力",
+    "index": 290
+  },
+  {
+    "key": "DP_0739_0291",
+    "original": "ダイビング",
+    "translation": "潜水",
+    "index": 291
+  },
+  {
+    "key": "DP_0739_0292",
+    "original": "つっぱり",
+    "translation": "猛推",
+    "index": 292
+  },
+  {
+    "key": "DP_0739_0293",
+    "original": "ほごしょく",
+    "translation": "保护色",
+    "index": 293
+  },
+  {
+    "key": "DP_0739_0294",
+    "original": "ほたるび",
+    "translation": "萤火",
+    "index": 294
+  },
+  {
+    "key": "DP_0739_0295",
+    "original": "ラスターパージ",
+    "translation": "洁净光芒",
+    "index": 295
+  },
+  {
+    "key": "DP_0739_0296",
+    "original": "ミストボール",
+    "translation": "薄雾球",
+    "index": 296
+  },
+  {
+    "key": "DP_0739_0297",
+    "original": "フェザーダンス",
+    "translation": "羽毛舞",
+    "index": 297
+  },
+  {
+    "key": "DP_0739_0298",
+    "original": "フラフラダンス",
+    "translation": "摇晃舞",
+    "index": 298
+  },
+  {
+    "key": "DP_0739_0299",
+    "original": "ブレイズキック",
+    "translation": "火焰踢",
+    "index": 299
+  },
+  {
+    "key": "DP_0739_0300",
+    "original": "どろあそび",
+    "translation": "玩泥巴",
+    "index": 300
+  },
+  {
+    "key": "DP_0739_0301",
+    "original": "アイスボール",
+    "translation": "冰球",
+    "index": 301
+  },
+  {
+    "key": "DP_0739_0302",
+    "original": "ニードルアーム",
+    "translation": "尖刺臂",
+    "index": 302
+  },
+  {
+    "key": "DP_0739_0303",
+    "original": "なまける",
+    "translation": "偷懒",
+    "index": 303
+  },
+  {
+    "key": "DP_0739_0304",
+    "original": "ハイパーボイス",
+    "translation": "巨声",
+    "index": 304
+  },
+  {
+    "key": "DP_0739_0305",
+    "original": "どくどくのキバ",
+    "translation": "剧毒牙",
+    "index": 305
+  },
+  {
+    "key": "DP_0739_0306",
+    "original": "ブレイククロー",
+    "translation": "撕裂爪",
+    "index": 306
+  },
+  {
+    "key": "DP_0739_0307",
+    "original": "ブラストバーン",
+    "translation": "爆炸烈焰",
+    "index": 307
+  },
+  {
+    "key": "DP_0739_0308",
+    "original": "ハイドロカノン",
+    "translation": "加农水炮",
+    "index": 308
+  },
+  {
+    "key": "DP_0739_0309",
+    "original": "コメットパンチ",
+    "translation": "彗星拳",
+    "index": 309
+  },
+  {
+    "key": "DP_0739_0310",
+    "original": "おどろかす",
+    "translation": "惊吓",
+    "index": 310
+  },
+  {
+    "key": "DP_0739_0311",
+    "original": "ウェザーボール",
+    "translation": "气象球",
+    "index": 311
+  },
+  {
+    "key": "DP_0739_0312",
+    "original": "アロマセラピー",
+    "translation": "芳香治疗",
+    "index": 312
+  },
+  {
+    "key": "DP_0739_0313",
+    "original": "うそなき",
+    "translation": "假哭",
+    "index": 313
+  },
+  {
+    "key": "DP_0739_0314",
+    "original": "エアカッター",
+    "translation": "空气利刃",
+    "index": 314
+  },
+  {
+    "key": "DP_0739_0315",
+    "original": "オーバーヒート",
+    "translation": "过热",
+    "index": 315
+  },
+  {
+    "key": "DP_0739_0316",
+    "original": "かぎわける",
+    "translation": "气味侦测",
+    "index": 316
+  },
+  {
+    "key": "DP_0739_0317",
+    "original": "がんせきふうじ",
+    "translation": "岩石封锁",
+    "index": 317
+  },
+  {
+    "key": "DP_0739_0318",
+    "original": "ぎんいろのかぜ",
+    "translation": "银色旋风",
+    "index": 318
+  },
+  {
+    "key": "DP_0739_0319",
+    "original": "きんぞくおん",
+    "translation": "金属音",
+    "index": 319
+  },
+  {
+    "key": "DP_0739_0320",
+    "original": "くさぶえ",
+    "translation": "草笛",
+    "index": 320
+  },
+  {
+    "key": "DP_0739_0321",
+    "original": "くすぐる",
+    "translation": "挠痒",
+    "index": 321
+  },
+  {
+    "key": "DP_0739_0322",
+    "original": "コスモパワー",
+    "translation": "宇宙力量",
+    "index": 322
+  },
+  {
+    "key": "DP_0739_0323",
+    "original": "しおふき",
+    "translation": "喷水",
+    "index": 323
+  },
+  {
+    "key": "DP_0739_0324",
+    "original": "シグナルビーム",
+    "translation": "信号光束",
+    "index": 324
+  },
+  {
+    "key": "DP_0739_0325",
+    "original": "シャドーパンチ",
+    "translation": "暗影拳",
+    "index": 325
+  },
+  {
+    "key": "DP_0739_0326",
+    "original": "じんつうりき",
+    "translation": "神通力",
+    "index": 326
+  },
+  {
+    "key": "DP_0739_0327",
+    "original": "スカイアッパー",
+    "translation": "冲天拳",
+    "index": 327
+  },
+  {
+    "key": "DP_0739_0328",
+    "original": "すなじごく",
+    "translation": "流沙深渊",
+    "index": 328
+  },
+  {
+    "key": "DP_0739_0329",
+    "original": "ぜったいれいど",
+    "translation": "绝对零度",
+    "index": 329
+  },
+  {
+    "key": "DP_0739_0330",
+    "original": "だくりゅう",
+    "translation": "浊流",
+    "index": 330
+  },
+  {
+    "key": "DP_0739_0331",
+    "original": "タネマシンガン",
+    "translation": "种子机关枪",
+    "index": 331
+  },
+  {
+    "key": "DP_0739_0332",
+    "original": "つばめがえし",
+    "translation": "燕返",
+    "index": 332
+  },
+  {
+    "key": "DP_0739_0333",
+    "original": "つららばり",
+    "translation": "冰锥",
+    "index": 333
+  },
+  {
+    "key": "DP_0739_0334",
+    "original": "てっぺき",
+    "translation": "铁壁",
+    "index": 334
+  },
+  {
+    "key": "DP_0739_0335",
+    "original": "とおせんぼう",
+    "translation": "挡路",
+    "index": 335
+  },
+  {
+    "key": "DP_0739_0336",
+    "original": "とおぼえ",
+    "translation": "长嚎",
+    "index": 336
+  },
+  {
+    "key": "DP_0739_0337",
+    "original": "ドラゴンクロー",
+    "translation": "龙爪",
+    "index": 337
+  },
+  {
+    "key": "DP_0739_0338",
+    "original": "ハードプラント",
+    "translation": "疯狂植物",
+    "index": 338
+  },
+  {
+    "key": "DP_0739_0339",
+    "original": "ビルドアップ",
+    "translation": "健美",
+    "index": 339
+  },
+  {
+    "key": "DP_0739_0340",
+    "original": "とびはねる",
+    "translation": "弹跳",
+    "index": 340
+  },
+  {
+    "key": "DP_0739_0341",
+    "original": "マッドショット",
+    "translation": "泥巴射击",
+    "index": 341
+  },
+  {
+    "key": "DP_0739_0342",
+    "original": "ポイズンテール",
+    "translation": "毒尾",
+    "index": 342
+  },
+  {
+    "key": "DP_0739_0343",
+    "original": "ほしがる",
+    "translation": "渴望",
+    "index": 343
+  },
+  {
+    "key": "DP_0739_0344",
+    "original": "ボルテッカー",
+    "translation": "伏特攻击",
+    "index": 344
+  },
+  {
+    "key": "DP_0739_0345",
+    "original": "マジカルリーフ",
+    "translation": "魔法叶",
+    "index": 345
+  },
+  {
+    "key": "DP_0739_0346",
+    "original": "みずあそび",
+    "translation": "玩水",
+    "index": 346
+  },
+  {
+    "key": "DP_0739_0347",
+    "original": "めいそう",
+    "translation": "冥想",
+    "index": 347
+  },
+  {
+    "key": "DP_0739_0348",
+    "original": "リーフブレード",
+    "translation": "叶刃",
+    "index": 348
+  },
+  {
+    "key": "DP_0739_0349",
+    "original": "りゅうのまい",
+    "translation": "龙之舞",
+    "index": 349
+  },
+  {
+    "key": "DP_0739_0350",
+    "original": "ロックブラスト",
+    "translation": "岩石爆击",
+    "index": 350
+  },
+  {
+    "key": "DP_0739_0351",
+    "original": "でんげきは",
+    "translation": "电击波",
+    "index": 351
+  },
+  {
+    "key": "DP_0739_0352",
+    "original": "みずのはどう",
+    "translation": "水之波动",
+    "index": 352
+  },
+  {
+    "key": "DP_0739_0353",
+    "original": "はめつのねがい",
+    "translation": "破灭之愿",
+    "index": 353
+  },
+  {
+    "key": "DP_0739_0354",
+    "original": "サイコブースト",
+    "translation": "精神突进",
+    "index": 354
+  },
+  {
+    "key": "DP_0739_0355",
+    "original": "はねやすめ",
+    "translation": "羽栖",
+    "index": 355
+  },
+  {
+    "key": "DP_0739_0356",
+    "original": "じゅうりょく",
+    "translation": "重力",
+    "index": 356
+  },
+  {
+    "key": "DP_0739_0357",
+    "original": "ミラクルアイ",
+    "translation": "奇迹之眼",
+    "index": 357
+  },
+  {
+    "key": "DP_0739_0358",
+    "original": "めざましビンタ",
+    "translation": "唤醒巴掌",
+    "index": 358
+  },
+  {
+    "key": "DP_0739_0359",
+    "original": "アームハンマー",
+    "translation": "臂锤",
+    "index": 359
+  },
+  {
+    "key": "DP_0739_0360",
+    "original": "ジャイロボール",
+    "translation": "陀螺球",
+    "index": 360
+  },
+  {
+    "key": "DP_0739_0361",
+    "original": "いやしのねがい",
+    "translation": "治愈之愿",
+    "index": 361
+  },
+  {
+    "key": "DP_0739_0362",
+    "original": "しおみず",
+    "translation": "盐水",
+    "index": 362
+  },
+  {
+    "key": "DP_0739_0363",
+    "original": "しぜんのめぐみ",
+    "translation": "自然之恩",
+    "index": 363
+  },
+  {
+    "key": "DP_0739_0364",
+    "original": "フェイント",
+    "translation": "佯攻",
+    "index": 364
+  },
+  {
+    "key": "DP_0739_0365",
+    "original": "ついばむ",
+    "translation": "啄食",
+    "index": 365
+  },
+  {
+    "key": "DP_0739_0366",
+    "original": "おいかぜ",
+    "translation": "顺风",
+    "index": 366
+  },
+  {
+    "key": "DP_0739_0367",
+    "original": "つぼをつく",
+    "translation": "点穴",
+    "index": 367
+  },
+  {
+    "key": "DP_0739_0368",
+    "original": "メタルバースト",
+    "translation": "金属爆炸",
+    "index": 368
+  },
+  {
+    "key": "DP_0739_0369",
+    "original": "とんぼがえり",
+    "translation": "急速折返",
+    "index": 369
+  },
+  {
+    "key": "DP_0739_0370",
+    "original": "インファイト",
+    "translation": "近身战",
+    "index": 370
+  },
+  {
+    "key": "DP_0739_0371",
+    "original": "しっぺがえし",
+    "translation": "以牙还牙",
+    "index": 371
+  },
+  {
+    "key": "DP_0739_0372",
+    "original": "ダメおし",
+    "translation": "恶意追击",
+    "index": 372
+  },
+  {
+    "key": "DP_0739_0373",
+    "original": "さしおさえ",
+    "translation": "查封",
+    "index": 373
+  },
+  {
+    "key": "DP_0739_0374",
+    "original": "なげつける",
+    "translation": "投掷",
+    "index": 374
+  },
+  {
+    "key": "DP_0739_0375",
+    "original": "サイコシフト",
+    "translation": "精神转移",
+    "index": 375
+  },
+  {
+    "key": "DP_0739_0376",
+    "original": "きりふだ",
+    "translation": "王牌",
+    "index": 376
+  },
+  {
+    "key": "DP_0739_0377",
+    "original": "かいふくふうじ",
+    "translation": "回复封锁",
+    "index": 377
+  },
+  {
+    "key": "DP_0739_0378",
+    "original": "しぼりとる",
+    "translation": "绞紧",
+    "index": 378
+  },
+  {
+    "key": "DP_0739_0379",
+    "original": "パワートリック",
+    "translation": "力量戏法",
+    "index": 379
+  },
+  {
+    "key": "DP_0739_0380",
+    "original": "いえき",
+    "translation": "胃液",
+    "index": 380
+  },
+  {
+    "key": "DP_0739_0381",
+    "original": "おまじない",
+    "translation": "幸运咒语",
+    "index": 381
+  },
+  {
+    "key": "DP_0739_0382",
+    "original": "さきどり",
+    "translation": "抢先一步",
+    "index": 382
+  },
+  {
+    "key": "DP_0739_0383",
+    "original": "まねっこ",
+    "translation": "仿效",
+    "index": 383
+  },
+  {
+    "key": "DP_0739_0384",
+    "original": "パワースワップ",
+    "translation": "力量互换",
+    "index": 384
+  },
+  {
+    "key": "DP_0739_0385",
+    "original": "ガードスワップ",
+    "translation": "防守互换",
+    "index": 385
+  },
+  {
+    "key": "DP_0739_0386",
+    "original": "おしおき",
+    "translation": "惩罚",
+    "index": 386
+  },
+  {
+    "key": "DP_0739_0387",
+    "original": "とっておき",
+    "translation": "珍藏",
+    "index": 387
+  },
+  {
+    "key": "DP_0739_0388",
+    "original": "なやみのタネ",
+    "translation": "烦恼种子",
+    "index": 388
+  },
+  {
+    "key": "DP_0739_0389",
+    "original": "ふいうち",
+    "translation": "突袭",
+    "index": 389
+  },
+  {
+    "key": "DP_0739_0390",
+    "original": "どくびし",
+    "translation": "毒菱",
+    "index": 390
+  },
+  {
+    "key": "DP_0739_0391",
+    "original": "ハートスワップ",
+    "translation": "心灵互换",
+    "index": 391
+  },
+  {
+    "key": "DP_0739_0392",
+    "original": "アクアリング",
+    "translation": "水流环",
+    "index": 392
+  },
+  {
+    "key": "DP_0739_0393",
+    "original": "でんじふゆう",
+    "translation": "电磁飘浮",
+    "index": 393
+  },
+  {
+    "key": "DP_0739_0394",
+    "original": "フレアドライブ",
+    "translation": "闪焰冲锋",
+    "index": 394
+  },
+  {
+    "key": "DP_0739_0395",
+    "original": "はっけい",
+    "translation": "发劲",
+    "index": 395
+  },
+  {
+    "key": "DP_0739_0396",
+    "original": "はどうだん",
+    "translation": "波导弹",
+    "index": 396
+  },
+  {
+    "key": "DP_0739_0397",
+    "original": "ロックカット",
+    "translation": "岩石打磨",
+    "index": 397
+  },
+  {
+    "key": "DP_0739_0398",
+    "original": "どくづき",
+    "translation": "毒击",
+    "index": 398
+  },
+  {
+    "key": "DP_0739_0399",
+    "original": "あくのはどう",
+    "translation": "恶之波动",
+    "index": 399
+  },
+  {
+    "key": "DP_0739_0400",
+    "original": "つじぎり",
+    "translation": "暗袭要害",
+    "index": 400
+  },
+  {
+    "key": "DP_0739_0401",
+    "original": "アクアテール",
+    "translation": "水流尾",
+    "index": 401
+  },
+  {
+    "key": "DP_0739_0402",
+    "original": "タネばくだん",
+    "translation": "种子炸弹",
+    "index": 402
+  },
+  {
+    "key": "DP_0739_0403",
+    "original": "エアスラッシュ",
+    "translation": "空气之刃",
+    "index": 403
+  },
+  {
+    "key": "DP_0739_0404",
+    "original": "シザークロス",
+    "translation": "十字剪",
+    "index": 404
+  },
+  {
+    "key": "DP_0739_0405",
+    "original": "むしのさざめき",
+    "translation": "虫鸣",
+    "index": 405
+  },
+  {
+    "key": "DP_0739_0406",
+    "original": "りゅうのはどう",
+    "translation": "龙之波动",
+    "index": 406
+  },
+  {
+    "key": "DP_0739_0407",
+    "original": "ドラゴンダイブ",
+    "translation": "龙之俯冲",
+    "index": 407
+  },
+  {
+    "key": "DP_0739_0408",
+    "original": "パワージェム",
+    "translation": "力量宝石",
+    "index": 408
+  },
+  {
+    "key": "DP_0739_0409",
+    "original": "ドレインパンチ",
+    "translation": "吸取拳",
+    "index": 409
+  },
+  {
+    "key": "DP_0739_0410",
+    "original": "しんくうは",
+    "translation": "真空波",
+    "index": 410
+  },
+  {
+    "key": "DP_0739_0411",
+    "original": "きあいだま",
+    "translation": "真气弹",
+    "index": 411
+  },
+  {
+    "key": "DP_0739_0412",
+    "original": "エナジーボール",
+    "translation": "能量球",
+    "index": 412
+  },
+  {
+    "key": "DP_0739_0413",
+    "original": "ブレイブバード",
+    "translation": "勇鸟猛攻",
+    "index": 413
+  },
+  {
+    "key": "DP_0739_0414",
+    "original": "だいちのちから",
+    "translation": "大地之力",
+    "index": 414
+  },
+  {
+    "key": "DP_0739_0415",
+    "original": "すりかえ",
+    "translation": "掉包",
+    "index": 415
+  },
+  {
+    "key": "DP_0739_0416",
+    "original": "ギガインパクト",
+    "translation": "终极冲击",
+    "index": 416
+  },
+  {
+    "key": "DP_0739_0417",
+    "original": "わるだくみ",
+    "translation": "诡计",
+    "index": 417
+  },
+  {
+    "key": "DP_0739_0418",
+    "original": "バレットパンチ",
+    "translation": "子弹拳",
+    "index": 418
+  },
+  {
+    "key": "DP_0739_0419",
+    "original": "ゆきなだれ",
+    "translation": "雪崩",
+    "index": 419
+  },
+  {
+    "key": "DP_0739_0420",
+    "original": "こおりのつぶて",
+    "translation": "冰砾",
+    "index": 420
+  },
+  {
+    "key": "DP_0739_0421",
+    "original": "シャドークロー",
+    "translation": "暗影爪",
+    "index": 421
+  },
+  {
+    "key": "DP_0739_0422",
+    "original": "かみなりのキバ",
+    "translation": "雷电牙",
+    "index": 422
+  },
+  {
+    "key": "DP_0739_0423",
+    "original": "こおりのキバ",
+    "translation": "冰冻牙",
+    "index": 423
+  },
+  {
+    "key": "DP_0739_0424",
+    "original": "ほのおのキバ",
+    "translation": "火焰牙",
+    "index": 424
+  },
+  {
+    "key": "DP_0739_0425",
+    "original": "かげうち",
+    "translation": "影子偷袭",
+    "index": 425
+  },
+  {
+    "key": "DP_0739_0426",
+    "original": "どろばくだん",
+    "translation": "泥巴炸弹",
+    "index": 426
+  },
+  {
+    "key": "DP_0739_0427",
+    "original": "サイコカッター",
+    "translation": "精神利刃",
+    "index": 427
+  },
+  {
+    "key": "DP_0739_0428",
+    "original": "しねんのずつき",
+    "translation": "意念头锤",
+    "index": 428
+  },
+  {
+    "key": "DP_0739_0429",
+    "original": "ミラーショット",
+    "translation": "镜光射击",
+    "index": 429
+  },
+  {
+    "key": "DP_0739_0430",
+    "original": "ラスターカノン",
+    "translation": "加农光炮",
+    "index": 430
+  },
+  {
+    "key": "DP_0739_0431",
+    "original": "ロッククライム",
+    "translation": "攀岩",
+    "index": 431
+  },
+  {
+    "key": "DP_0739_0432",
+    "original": "きりばらい",
+    "translation": "清除浓雾",
+    "index": 432
+  },
+  {
+    "key": "DP_0739_0433",
+    "original": "トリックルーム",
+    "translation": "戏法空间",
+    "index": 433
+  },
+  {
+    "key": "DP_0739_0434",
+    "original": "りゅうせいぐん",
+    "translation": "流星群",
+    "index": 434
+  },
+  {
+    "key": "DP_0739_0435",
+    "original": "ほうでん",
+    "translation": "放电",
+    "index": 435
+  },
+  {
+    "key": "DP_0739_0436",
+    "original": "ふんえん",
+    "translation": "喷烟",
+    "index": 436
+  },
+  {
+    "key": "DP_0739_0437",
+    "original": "リーフストーム",
+    "translation": "飞叶风暴",
+    "index": 437
+  },
+  {
+    "key": "DP_0739_0438",
+    "original": "パワーウィップ",
+    "translation": "强力鞭打",
+    "index": 438
+  },
+  {
+    "key": "DP_0739_0439",
+    "original": "がんせきほう",
+    "translation": "岩石炮",
+    "index": 439
+  },
+  {
+    "key": "DP_0739_0440",
+    "original": "クロスポイズン",
+    "translation": "十字毒刃",
+    "index": 440
+  },
+  {
+    "key": "DP_0739_0441",
+    "original": "ダストシュート",
+    "translation": "垃圾射击",
+    "index": 441
+  },
+  {
+    "key": "DP_0739_0442",
+    "original": "アイアンヘッド",
+    "translation": "铁头",
+    "index": 442
+  },
+  {
+    "key": "DP_0739_0443",
+    "original": "マグネットボム",
+    "translation": "磁铁炸弹",
+    "index": 443
+  },
+  {
+    "key": "DP_0739_0444",
+    "original": "ストーンエッジ",
+    "translation": "尖石攻击",
+    "index": 444
+  },
+  {
+    "key": "DP_0739_0445",
+    "original": "ゆうわく",
+    "translation": "诱惑",
+    "index": 445
+  },
+  {
+    "key": "DP_0739_0446",
+    "original": "ステルスロック",
+    "translation": "隐形岩",
+    "index": 446
+  },
+  {
+    "key": "DP_0739_0447",
+    "original": "くさむすび",
+    "translation": "打草结",
+    "index": 447
+  },
+  {
+    "key": "DP_0739_0448",
+    "original": "おしゃべり",
+    "translation": "喋喋不休",
+    "index": 448
+  },
+  {
+    "key": "DP_0739_0449",
+    "original": "さばきのつぶて",
+    "translation": "制裁光砾",
+    "index": 449
+  },
+  {
+    "key": "DP_0739_0450",
+    "original": "むしくい",
+    "translation": "虫咬",
+    "index": 450
+  },
+  {
+    "key": "DP_0739_0451",
+    "original": "チャージビーム",
+    "translation": "充电光束",
+    "index": 451
+  },
+  {
+    "key": "DP_0739_0452",
+    "original": "ウッドハンマー",
+    "translation": "木槌",
+    "index": 452
+  },
+  {
+    "key": "DP_0739_0453",
+    "original": "アクアジェット",
+    "translation": "水流喷射",
+    "index": 453
+  },
+  {
+    "key": "DP_0739_0454",
+    "original": "こうげきしれい",
+    "translation": "攻击指令",
+    "index": 454
+  },
+  {
+    "key": "DP_0739_0455",
+    "original": "ぼうぎょしれい",
+    "translation": "防御指令",
+    "index": 455
+  },
+  {
+    "key": "DP_0739_0456",
+    "original": "かいふくしれい",
+    "translation": "回复指令",
+    "index": 456
+  },
+  {
+    "key": "DP_0739_0457",
+    "original": "もろはのずつき",
+    "translation": "双刃头锤",
+    "index": 457
+  },
+  {
+    "key": "DP_0739_0458",
+    "original": "ダブルアタック",
+    "translation": "二连击",
+    "index": 458
+  },
+  {
+    "key": "DP_0739_0459",
+    "original": "ときのほうこう",
+    "translation": "时光咆哮",
+    "index": 459
+  },
+  {
+    "key": "DP_0739_0460",
+    "original": "あくうせつだん",
+    "translation": "亚空裂斩",
+    "index": 460
+  },
+  {
+    "key": "DP_0739_0461",
+    "original": "みかづきのまい",
+    "translation": "新月舞",
+    "index": 461
+  },
+  {
+    "key": "DP_0739_0462",
+    "original": "にぎりつぶす",
+    "translation": "捏碎",
+    "index": 462
+  },
+  {
+    "key": "DP_0739_0463",
+    "original": "マグマストーム",
+    "translation": "熔岩风暴",
+    "index": 463
+  },
+  {
+    "key": "DP_0739_0464",
+    "original": "ダークホール",
+    "translation": "暗黑洞",
+    "index": 464
+  },
+  {
+    "key": "DP_0739_0465",
+    "original": "シードフレア",
+    "translation": "种子闪光",
+    "index": 465
+  },
+  {
+    "key": "DP_0739_0466",
+    "original": "あやしいかぜ",
+    "translation": "奇异之风",
+    "index": 466
+  },
+  {
+    "key": "DP_0739_0467",
+    "original": "シャドーダイブ",
+    "translation": "暗影潜袭",
+    "index": 467
+  }
+]

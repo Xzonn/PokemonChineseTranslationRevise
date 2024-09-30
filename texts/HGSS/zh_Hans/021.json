@@ -1,0 +1,194 @@
+[
+  {
+    "key": "HGSS_0021_0000",
+    "original": "パフォーマンス",
+    "translation": "运动能力",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0021_0001",
+    "original": "[0203,000B]つかう",
+    "translation": "[0203,000B]购买",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0021_0002",
+    "original": "[0203,000B]もどる",
+    "translation": "[0203,000B]返回",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0021_0003",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0021_0004",
+    "original": "Lv.[0134,0000]",
+    "translation": "Lv.[0134,0000]",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0021_0005",
+    "original": "パワー",
+    "translation": "力量",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0021_0006",
+    "original": "スタミナ",
+    "translation": "耐力",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0021_0007",
+    "original": "テクニック",
+    "translation": "技巧",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0021_0008",
+    "original": "ジャンプ",
+    "translation": "跳跃",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0021_0009",
+    "original": "スピード",
+    "translation": "速度",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0021_0010",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0021_0011",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0021_0012",
+    "original": "あじなしドリンクを つかった！",
+    "translation": "使用了无味饮料！",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0021_0013",
+    "original": "パワードリンクを つかった！",
+    "translation": "使用了力量饮料！",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0021_0014",
+    "original": "スタミナドリンクを つかった！",
+    "translation": "使用了耐力饮料！",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0021_0015",
+    "original": "テクニックドリンクを つかった！",
+    "translation": "使用了技巧饮料！",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0021_0016",
+    "original": "ジャンプドリンクを つかった！",
+    "translation": "使用了跳跃饮料！",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0021_0017",
+    "original": "スピードドリンクを つかった！",
+    "translation": "使用了速度饮料！",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0021_0018",
+    "original": "なにも かわらなかった\\f\n",
+    "translation": "什么都没变\\f\n",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0021_0019",
+    "original": "パワーパフォーマンスが あがった！\\f\n",
+    "translation": "力量运动能力提升！\\f\n",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0021_0020",
+    "original": "スタミナパフォーマンスが あがった！\\f\n",
+    "translation": "耐力运动能力提升！\\f\n",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0021_0021",
+    "original": "テクニックパフォーマンスが あがった！\\f\n",
+    "translation": "技巧运动能力提升！\\f\n",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0021_0022",
+    "original": "ジャンプパフォーマンスが あがった！\\f\n",
+    "translation": "跳跃运动能力提升！\\f\n",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0021_0023",
+    "original": "スピードパフォーマンスが あがった！\\f\n",
+    "translation": "速度运动能力提升！\\f\n",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0021_0024",
+    "original": "パワーパフォーマンスが さがった！\\f\n",
+    "translation": "力量运动能力提升！\\f\n",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0021_0025",
+    "original": "スタミナパフォーマンスが さがった！\\f\n",
+    "translation": "耐力运动能力提升！\\f\n",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0021_0026",
+    "original": "テクニックパフォーマンスが さがった！\\f\n",
+    "translation": "技巧运动能力提升！\\f\n",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0021_0027",
+    "original": "ジャンプパフォーマンスが さがった！\\f\n",
+    "translation": "跳跃运动能力提升！\\f\n",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0021_0028",
+    "original": "スピードパフォーマンスが さがった！\\f\n",
+    "translation": "速度运动能力提升！\\f\n",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0021_0029",
+    "original": "ジュースをあげるまえ",
+    "translation": "给予果汁前",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0021_0030",
+    "original": "ジュースをあげたあと",
+    "translation": "给予果汁后",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0021_0031",
+    "original": "♢cond[0133,0000] rev[0133,0001] add[0133,0002] base[0133,0003]\n min[0133,0004] max[0133,0005] result[0133,0006]",
+    "translation": "♢cond[0133,0000] rev[0133,0001] add[0133,0002] base[0133,0003]\n min[0133,0004] max[0133,0005] result[0133,0006]",
+    "index": 31
+  }
+]

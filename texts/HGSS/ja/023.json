@@ -1,0 +1,566 @@
+[
+  {
+    "key": "HGSS_0023_0000",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0023_0001",
+    "original": "[0101,0000]",
+    "translation": "[0101,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0023_0002",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0023_0003",
+    "original": "せいかく",
+    "translation": "せいかく",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0023_0004",
+    "original": "とくせい",
+    "translation": "とくせい",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0023_0005",
+    "original": "[010B,0000]",
+    "translation": "[010B,0000]",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0023_0006",
+    "original": "ボックス１",
+    "translation": "ボックス１",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0023_0007",
+    "original": "ボックス２",
+    "translation": "ボックス２",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0023_0008",
+    "original": "ボックス３",
+    "translation": "ボックス３",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0023_0009",
+    "original": "ボックス４",
+    "translation": "ボックス４",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0023_0010",
+    "original": "ボックス５",
+    "translation": "ボックス５",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0023_0011",
+    "original": "ボックス６",
+    "translation": "ボックス６",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0023_0012",
+    "original": "ボックス７",
+    "translation": "ボックス７",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0023_0013",
+    "original": "ボックス８",
+    "translation": "ボックス８",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0023_0014",
+    "original": "ボックス９",
+    "translation": "ボックス９",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0023_0015",
+    "original": "ボックス１０",
+    "translation": "ボックス１０",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0023_0016",
+    "original": "ボックス１１",
+    "translation": "ボックス１１",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0023_0017",
+    "original": "ボックス１２",
+    "translation": "ボックス１２",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0023_0018",
+    "original": "ボックス１３",
+    "translation": "ボックス１３",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0023_0019",
+    "original": "ボックス１４",
+    "translation": "ボックス１４",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0023_0020",
+    "original": "ボックス１５",
+    "translation": "ボックス１５",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0023_0021",
+    "original": "ボックス１６",
+    "translation": "ボックス１６",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0023_0022",
+    "original": "ボックス１７",
+    "translation": "ボックス１７",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0023_0023",
+    "original": "ボックス１８",
+    "translation": "ボックス１８",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0023_0024",
+    "original": "[0133,0000]／[0133,0001]",
+    "translation": "[0133,0000]／[0133,0001]",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0023_0025",
+    "original": "ジャンプ",
+    "translation": "ジャンプ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0023_0026",
+    "original": "かべがみ",
+    "translation": "かべがみ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0023_0027",
+    "original": "なまえ",
+    "translation": "なまえ",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0023_0028",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0023_0029",
+    "original": "ふうけい１",
+    "translation": "ふうけい１",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0023_0030",
+    "original": "ふうけい２",
+    "translation": "ふうけい２",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0023_0031",
+    "original": "ふうけい３",
+    "translation": "ふうけい３",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0023_0032",
+    "original": "エトセトラ",
+    "translation": "エトセトラ",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0023_0033",
+    "original": "だいすき１",
+    "translation": "だいすき１",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0023_0034",
+    "original": "だいすき２",
+    "translation": "だいすき２",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0023_0035",
+    "original": "もり",
+    "translation": "もり",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0023_0036",
+    "original": "シティ",
+    "translation": "シティ",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0023_0037",
+    "original": "さばく",
+    "translation": "さばく",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0023_0038",
+    "original": "サバンナ",
+    "translation": "サバンナ",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0023_0039",
+    "original": "いわやま",
+    "translation": "いわやま",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0023_0040",
+    "original": "かざん",
+    "translation": "かざん",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0023_0041",
+    "original": "ゆきやま",
+    "translation": "ゆきやま",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0023_0042",
+    "original": "どうくつ",
+    "translation": "どうくつ",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0023_0043",
+    "original": "うみべ",
+    "translation": "うみべ",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0023_0044",
+    "original": "かいてい",
+    "translation": "かいてい",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0023_0045",
+    "original": "かわ",
+    "translation": "かわ",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0023_0046",
+    "original": "そら",
+    "translation": "そら",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0023_0047",
+    "original": "ポケセン",
+    "translation": "ポケセン",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0023_0048",
+    "original": "きんぞく",
+    "translation": "きんぞく",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0023_0049",
+    "original": "チェック",
+    "translation": "チェック",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0023_0050",
+    "original": "シンプル",
+    "translation": "シンプル",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0023_0051",
+    "original": "こころ",
+    "translation": "こころ",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0023_0052",
+    "original": "たましい",
+    "translation": "たましい",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0023_0053",
+    "original": "おにいさん",
+    "translation": "おにいさん",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0023_0054",
+    "original": "ポケスロン",
+    "translation": "ポケスロン",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0023_0055",
+    "original": "さんびき",
+    "translation": "さんびき",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0023_0056",
+    "original": "ギザぴか",
+    "translation": "ギザぴか",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0023_0057",
+    "original": "まいこはん",
+    "translation": "まいこはん",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0023_0058",
+    "original": "ふっかつ",
+    "translation": "ふっかつ",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0023_0059",
+    "original": "ー",
+    "translation": "ー",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0023_0060",
+    "original": "てもちポケモン",
+    "translation": "てもちポケモン",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0023_0061",
+    "original": "ポケモンいどう",
+    "translation": "ポケモンいどう",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0023_0062",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0023_0063",
+    "original": "ボックスをきりかえる",
+    "translation": "ボックスをきりかえる",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0023_0064",
+    "original": "もちものせいり",
+    "translation": "もちものせいり",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0023_0065",
+    "original": "ようすをみる",
+    "translation": "ようすをみる",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0023_0066",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0023_0067",
+    "original": "マーキング",
+    "translation": "マーキング",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0023_0068",
+    "original": "にがす",
+    "translation": "にがす",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0023_0069",
+    "original": "つれていく",
+    "translation": "つれていく",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0023_0070",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0023_0071",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0023_0072",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0023_0073",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0023_0074",
+    "original": "いれかえ",
+    "translation": "いれかえ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0023_0075",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0023_0076",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0023_0077",
+    "original": "ボックスを\nきりかえる",
+    "translation": "ボックスを\nきりかえる",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0023_0078",
+    "original": "かべがみを\nはりかえる",
+    "translation": "かべがみを\nはりかえる",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0023_0079",
+    "original": "ポケモンを\nあずける",
+    "translation": "ポケモンを\nあずける",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0023_0080",
+    "original": "バッグへ",
+    "translation": "バッグへ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0023_0081",
+    "original": "もたせる",
+    "translation": "もたせる",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0023_0082",
+    "original": "㊚",
+    "translation": "㊚",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0023_0083",
+    "original": "㊛",
+    "translation": "㊛",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0023_0084",
+    "original": "[0105,0000]",
+    "translation": "[0105,0000]",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0023_0085",
+    "original": "[0107,0000]",
+    "translation": "[0107,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0023_0086",
+    "original": "[0108,0000]",
+    "translation": "[0108,0000]",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0023_0087",
+    "original": "せいかく",
+    "translation": "せいかく",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0023_0088",
+    "original": "とくせい",
+    "translation": "とくせい",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0023_0089",
+    "original": "もちもの",
+    "translation": "もちもの",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0023_0090",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0023_0091",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0023_0092",
+    "original": "なし",
+    "translation": "なし",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0023_0093",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 93
+  }
+]

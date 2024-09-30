@@ -1,0 +1,3224 @@
+[
+  {
+    "key": "HGSS_0219_0000",
+    "original": "なし",
+    "translation": "无",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0219_0001",
+    "original": "マスターボール",
+    "translation": "大师球",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0219_0002",
+    "original": "ハイパーボール",
+    "translation": "高级球",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0219_0003",
+    "original": "スーパーボール",
+    "translation": "超级球",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0219_0004",
+    "original": "モンスターボール",
+    "translation": "精灵球",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0219_0005",
+    "original": "サファリボール",
+    "translation": "狩猎球",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0219_0006",
+    "original": "ネットボール",
+    "translation": "捕网球",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0219_0007",
+    "original": "ダイブボール",
+    "translation": "潜水球",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0219_0008",
+    "original": "ネストボール",
+    "translation": "巢穴球",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0219_0009",
+    "original": "リピートボール",
+    "translation": "重复球",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0219_0010",
+    "original": "タイマーボール",
+    "translation": "计时球",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0219_0011",
+    "original": "ゴージャスボール",
+    "translation": "豪华球",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0219_0012",
+    "original": "プレミアボール",
+    "translation": "纪念球",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0219_0013",
+    "original": "ダークボール",
+    "translation": "黑暗球",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0219_0014",
+    "original": "ヒールボール",
+    "translation": "治愈球",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0219_0015",
+    "original": "クイックボール",
+    "translation": "先机球",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0219_0016",
+    "original": "プレシャスボール",
+    "translation": "贵重球",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0219_0017",
+    "original": "キズぐすり",
+    "translation": "伤药",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0219_0018",
+    "original": "どくけし",
+    "translation": "解毒药",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0219_0019",
+    "original": "やけどなおし",
+    "translation": "灼伤药",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0219_0020",
+    "original": "こおりなおし",
+    "translation": "解冻药",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0219_0021",
+    "original": "ねむけざまし",
+    "translation": "解眠药",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0219_0022",
+    "original": "まひなおし",
+    "translation": "解麻药",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0219_0023",
+    "original": "かいふくのくすり",
+    "translation": "全复药",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0219_0024",
+    "original": "まんたんのくすり",
+    "translation": "全满药",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0219_0025",
+    "original": "すごいキズぐすり",
+    "translation": "厉害伤药",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0219_0026",
+    "original": "いいキズぐすり",
+    "translation": "好伤药",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0219_0027",
+    "original": "なんでもなおし",
+    "translation": "万灵药",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0219_0028",
+    "original": "げんきのかけら",
+    "translation": "活力碎片",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0219_0029",
+    "original": "げんきのかたまり",
+    "translation": "活力块",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0219_0030",
+    "original": "おいしいみず",
+    "translation": "美味之水",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0219_0031",
+    "original": "サイコソーダ",
+    "translation": "劲爽汽水",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0219_0032",
+    "original": "ミックスオレ",
+    "translation": "果汁牛奶",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0219_0033",
+    "original": "モーモーミルク",
+    "translation": "哞哞鲜奶",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0219_0034",
+    "original": "ちからのこな",
+    "translation": "元气粉",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0219_0035",
+    "original": "ちからのねっこ",
+    "translation": "元气根",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0219_0036",
+    "original": "ばんのうごな",
+    "translation": "万能粉",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0219_0037",
+    "original": "ふっかつそう",
+    "translation": "复活草",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0219_0038",
+    "original": "ピーピーエイド",
+    "translation": "ＰＰ单项小补剂",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0219_0039",
+    "original": "ピーピーリカバー",
+    "translation": "ＰＰ单项全补剂",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0219_0040",
+    "original": "ピーピーエイダー",
+    "translation": "ＰＰ多项小补剂",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0219_0041",
+    "original": "ピーピーマックス",
+    "translation": "ＰＰ多项全补剂",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0219_0042",
+    "original": "フエンせんべい",
+    "translation": "釜炎仙贝",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0219_0043",
+    "original": "きのみジュース",
+    "translation": "树果汁",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0219_0044",
+    "original": "せいなるはい",
+    "translation": "圣灰",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0219_0045",
+    "original": "マックスアップ",
+    "translation": "ＨＰ增强剂",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0219_0046",
+    "original": "タウリン",
+    "translation": "攻击增强剂",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0219_0047",
+    "original": "ブロムヘキシン",
+    "translation": "防御增强剂",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0219_0048",
+    "original": "インドメタシン",
+    "translation": "速度增强剂",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0219_0049",
+    "original": "リゾチウム",
+    "translation": "特攻增强剂",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0219_0050",
+    "original": "ふしぎなアメ",
+    "translation": "神奇糖果",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0219_0051",
+    "original": "ポイントアップ",
+    "translation": "ＰＰ提升剂",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0219_0052",
+    "original": "キトサン",
+    "translation": "特防增强剂",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0219_0053",
+    "original": "ポイントマックス",
+    "translation": "ＰＰ极限提升剂",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0219_0054",
+    "original": "もりのヨウカン",
+    "translation": "森之羊羹",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0219_0055",
+    "original": "エフェクトガード",
+    "translation": "能力防守",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0219_0056",
+    "original": "クリティカッター",
+    "translation": "要害攻击",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0219_0057",
+    "original": "プラスパワー",
+    "translation": "力量强化",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0219_0058",
+    "original": "ディフェンダー",
+    "translation": "防御强化",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0219_0059",
+    "original": "スピーダー",
+    "translation": "速度强化",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0219_0060",
+    "original": "ヨクアタール",
+    "translation": "命中强化",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0219_0061",
+    "original": "スペシャルアップ",
+    "translation": "特攻强化",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0219_0062",
+    "original": "スペシャルガード",
+    "translation": "特防强化",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0219_0063",
+    "original": "ピッピにんぎょう",
+    "translation": "皮皮玩偶",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0219_0064",
+    "original": "エネコのシッポ",
+    "translation": "向尾喵的尾巴",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0219_0065",
+    "original": "あおいビードロ",
+    "translation": "蓝色玻璃哨",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0219_0066",
+    "original": "きいろビードロ",
+    "translation": "黄色玻璃哨",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0219_0067",
+    "original": "あかいビードロ",
+    "translation": "红色玻璃哨",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0219_0068",
+    "original": "くろいビードロ",
+    "translation": "黑色玻璃哨",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0219_0069",
+    "original": "しろいビードロ",
+    "translation": "白色玻璃哨",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0219_0070",
+    "original": "あさせのしお",
+    "translation": "浅滩海盐",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0219_0071",
+    "original": "あさせのかいがら",
+    "translation": "浅滩贝壳",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0219_0072",
+    "original": "あかいかけら",
+    "translation": "红色碎片",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0219_0073",
+    "original": "あおいかけら",
+    "translation": "蓝色碎片",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0219_0074",
+    "original": "きいろいかけら",
+    "translation": "黄色碎片",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0219_0075",
+    "original": "みどりのかけら",
+    "translation": "绿色碎片",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0219_0076",
+    "original": "シルバースプレー",
+    "translation": "白银喷雾",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0219_0077",
+    "original": "ゴールドスプレー",
+    "translation": "黄金喷雾",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0219_0078",
+    "original": "あなぬけのヒモ",
+    "translation": "离洞绳",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0219_0079",
+    "original": "むしよけスプレー",
+    "translation": "除虫喷雾",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0219_0080",
+    "original": "たいようのいし",
+    "translation": "日之石",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0219_0081",
+    "original": "つきのいし",
+    "translation": "月之石",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0219_0082",
+    "original": "ほのおのいし",
+    "translation": "火之石",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0219_0083",
+    "original": "かみなりのいし",
+    "translation": "雷之石",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0219_0084",
+    "original": "みずのいし",
+    "translation": "水之石",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0219_0085",
+    "original": "リーフのいし",
+    "translation": "叶之石",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0219_0086",
+    "original": "ちいさなキノコ",
+    "translation": "小蘑菇",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0219_0087",
+    "original": "おおきなキノコ",
+    "translation": "大蘑菇",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0219_0088",
+    "original": "しんじゅ",
+    "translation": "珍珠",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0219_0089",
+    "original": "おおきなしんじゅ",
+    "translation": "大珍珠",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0219_0090",
+    "original": "ほしのすな",
+    "translation": "星星沙子",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0219_0091",
+    "original": "ほしのかけら",
+    "translation": "星星碎片",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0219_0092",
+    "original": "きんのたま",
+    "translation": "金珠",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0219_0093",
+    "original": "ハートのウロコ",
+    "translation": "心之鳞片",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0219_0094",
+    "original": "あまいミツ",
+    "translation": "甜甜蜜",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0219_0095",
+    "original": "すくすくこやし",
+    "translation": "速速肥",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0219_0096",
+    "original": "じめじめこやし",
+    "translation": "湿湿肥",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0219_0097",
+    "original": "ながながこやし",
+    "translation": "久久肥",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0219_0098",
+    "original": "ねばねばこやし",
+    "translation": "粘粘肥",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0219_0099",
+    "original": "ねっこのカセキ",
+    "translation": "根状化石",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0219_0100",
+    "original": "ツメのカセキ",
+    "translation": "爪子化石",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0219_0101",
+    "original": "かいのカセキ",
+    "translation": "贝壳化石",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0219_0102",
+    "original": "こうらのカセキ",
+    "translation": "甲壳化石",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0219_0103",
+    "original": "ひみつのコハク",
+    "translation": "秘密琥珀",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0219_0104",
+    "original": "たてのカセキ",
+    "translation": "盾甲化石",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0219_0105",
+    "original": "ずがいのカセキ",
+    "translation": "头盖化石",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0219_0106",
+    "original": "きちょうなホネ",
+    "translation": "贵重骨头",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0219_0107",
+    "original": "ひかりのいし",
+    "translation": "光之石",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0219_0108",
+    "original": "やみのいし",
+    "translation": "暗之石",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0219_0109",
+    "original": "めざめいし",
+    "translation": "觉醒之石",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0219_0110",
+    "original": "まんまるいし",
+    "translation": "浑圆之石",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0219_0111",
+    "original": "かなめいし",
+    "translation": "楔石",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0219_0112",
+    "original": "はっきんだま",
+    "translation": "白金宝珠",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0219_0113",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0219_0114",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0219_0115",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0219_0116",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0219_0117",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0219_0118",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0219_0119",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0219_0120",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0219_0121",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0219_0122",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0219_0123",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0219_0124",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0219_0125",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0219_0126",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0219_0127",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0219_0128",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0219_0129",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0219_0130",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0219_0131",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0219_0132",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0219_0133",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0219_0134",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0219_0135",
+    "original": "こんごうだま",
+    "translation": "金刚宝珠",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0219_0136",
+    "original": "しらたま",
+    "translation": "白玉宝珠",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0219_0137",
+    "original": "グラスメール",
+    "translation": "青草邮件",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0219_0138",
+    "original": "フレイムメール",
+    "translation": "火焰邮件",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0219_0139",
+    "original": "ブルーメール",
+    "translation": "水蓝邮件",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0219_0140",
+    "original": "ブルームメール",
+    "translation": "绽放邮件",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0219_0141",
+    "original": "トンネルメール",
+    "translation": "隧道邮件",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0219_0142",
+    "original": "スチールメール",
+    "translation": "钢铁邮件",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0219_0143",
+    "original": "ラブラブメール",
+    "translation": "甜蜜邮件",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0219_0144",
+    "original": "ブリザードメール",
+    "translation": "暴雪邮件",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0219_0145",
+    "original": "スペースメール",
+    "translation": "空间邮件",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0219_0146",
+    "original": "エアメール",
+    "translation": "天空邮件",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0219_0147",
+    "original": "モザイクメール",
+    "translation": "彩嵌邮件",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0219_0148",
+    "original": "ブリックメール",
+    "translation": "砖块邮件",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0219_0149",
+    "original": "クラボのみ",
+    "translation": "樱子果",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0219_0150",
+    "original": "カゴのみ",
+    "translation": "零余果",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0219_0151",
+    "original": "モモンのみ",
+    "translation": "桃桃果",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0219_0152",
+    "original": "チーゴのみ",
+    "translation": "莓莓果",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0219_0153",
+    "original": "ナナシのみ",
+    "translation": "利木果",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0219_0154",
+    "original": "ヒメリのみ",
+    "translation": "苹野果",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0219_0155",
+    "original": "オレンのみ",
+    "translation": "橙橙果",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0219_0156",
+    "original": "キーのみ",
+    "translation": "柿仔果",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0219_0157",
+    "original": "ラムのみ",
+    "translation": "木子果",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0219_0158",
+    "original": "オボンのみ",
+    "translation": "文柚果",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0219_0159",
+    "original": "フィラのみ",
+    "translation": "勿花果",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0219_0160",
+    "original": "ウイのみ",
+    "translation": "异奇果",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0219_0161",
+    "original": "マゴのみ",
+    "translation": "芒芒果",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0219_0162",
+    "original": "バンジのみ",
+    "translation": "乐芭果",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0219_0163",
+    "original": "イアのみ",
+    "translation": "芭亚果",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0219_0164",
+    "original": "ズリのみ",
+    "translation": "蔓莓果",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0219_0165",
+    "original": "ブリーのみ",
+    "translation": "墨莓果",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0219_0166",
+    "original": "ナナのみ",
+    "translation": "蕉香果",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0219_0167",
+    "original": "セシナのみ",
+    "translation": "西梨果",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0219_0168",
+    "original": "パイルのみ",
+    "translation": "凰梨果",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0219_0169",
+    "original": "ザロクのみ",
+    "translation": "榴石果",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0219_0170",
+    "original": "ネコブのみ",
+    "translation": "藻根果",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0219_0171",
+    "original": "タポルのみ",
+    "translation": "比巴果",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0219_0172",
+    "original": "ロメのみ",
+    "translation": "哈密果",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0219_0173",
+    "original": "ウブのみ",
+    "translation": "萄葡果",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0219_0174",
+    "original": "マトマのみ",
+    "translation": "茄番果",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0219_0175",
+    "original": "モコシのみ",
+    "translation": "玉黍果",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0219_0176",
+    "original": "ゴスのみ",
+    "translation": "岳竹果",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0219_0177",
+    "original": "ラブタのみ",
+    "translation": "茸丹果",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0219_0178",
+    "original": "ノメルのみ",
+    "translation": "檬柠果",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0219_0179",
+    "original": "ノワキのみ",
+    "translation": "刺角果",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0219_0180",
+    "original": "シーヤのみ",
+    "translation": "椰木果",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0219_0181",
+    "original": "カイスのみ",
+    "translation": "瓜西果",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0219_0182",
+    "original": "ドリのみ",
+    "translation": "金枕果",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0219_0183",
+    "original": "ベリブのみ",
+    "translation": "靛莓果",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0219_0184",
+    "original": "オッカのみ",
+    "translation": "巧可果",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0219_0185",
+    "original": "イトケのみ",
+    "translation": "千香果",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0219_0186",
+    "original": "ソクノのみ",
+    "translation": "烛木果",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0219_0187",
+    "original": "リンドのみ",
+    "translation": "罗子果",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0219_0188",
+    "original": "ヤチェのみ",
+    "translation": "番荔果",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0219_0189",
+    "original": "ヨプのみ",
+    "translation": "莲蒲果",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0219_0190",
+    "original": "ビアーのみ",
+    "translation": "通通果",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0219_0191",
+    "original": "シュカのみ",
+    "translation": "腰木果",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0219_0192",
+    "original": "バコウのみ",
+    "translation": "棱瓜果",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0219_0193",
+    "original": "ウタンのみ",
+    "translation": "福禄果",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0219_0194",
+    "original": "タンガのみ",
+    "translation": "扁樱果",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0219_0195",
+    "original": "ヨロギのみ",
+    "translation": "草蚕果",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0219_0196",
+    "original": "カシブのみ",
+    "translation": "佛柑果",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0219_0197",
+    "original": "ハバンのみ",
+    "translation": "莓榴果",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0219_0198",
+    "original": "ナモのみ",
+    "translation": "刺耳果",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0219_0199",
+    "original": "リリバのみ",
+    "translation": "霹霹果",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0219_0200",
+    "original": "ホズのみ",
+    "translation": "灯浆果",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0219_0201",
+    "original": "チイラのみ",
+    "translation": "枝荔果",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0219_0202",
+    "original": "リュガのみ",
+    "translation": "龙睛果",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0219_0203",
+    "original": "カムラのみ",
+    "translation": "沙鳞果",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0219_0204",
+    "original": "ヤタピのみ",
+    "translation": "龙火果",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0219_0205",
+    "original": "ズアのみ",
+    "translation": "杏仔果",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0219_0206",
+    "original": "サンのみ",
+    "translation": "兰萨果",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0219_0207",
+    "original": "スターのみ",
+    "translation": "星桃果",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0219_0208",
+    "original": "ナゾのみ",
+    "translation": "谜芝果",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0219_0209",
+    "original": "ミクルのみ",
+    "translation": "奇秘果",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0219_0210",
+    "original": "イバンのみ",
+    "translation": "释陀果",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0219_0211",
+    "original": "ジャポのみ",
+    "translation": "嘉珍果",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0219_0212",
+    "original": "レンブのみ",
+    "translation": "雾莲果",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0219_0213",
+    "original": "ひかりのこな",
+    "translation": "光粉",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0219_0214",
+    "original": "しろいハーブ",
+    "translation": "白色香草",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0219_0215",
+    "original": "きょうせいギプス",
+    "translation": "强制锻炼器",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0219_0216",
+    "original": "がくしゅうそうち",
+    "translation": "学习装置",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0219_0217",
+    "original": "せんせいのツメ",
+    "translation": "先制之爪",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0219_0218",
+    "original": "やすらぎのすず",
+    "translation": "安抚之铃",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0219_0219",
+    "original": "メンタルハーブ",
+    "translation": "心灵香草",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0219_0220",
+    "original": "こだわりハチマキ",
+    "translation": "讲究头带",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0219_0221",
+    "original": "おうじゃのしるし",
+    "translation": "王者之证",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0219_0222",
+    "original": "ぎんのこな",
+    "translation": "银粉",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0219_0223",
+    "original": "おまもりこばん",
+    "translation": "护符金币",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0219_0224",
+    "original": "きよめのおふだ",
+    "translation": "洁净之符",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0219_0225",
+    "original": "こころのしずく",
+    "translation": "心之水滴",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0219_0226",
+    "original": "しんかいのキバ",
+    "translation": "深海之牙",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0219_0227",
+    "original": "しんかいのウロコ",
+    "translation": "深海鳞片",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0219_0228",
+    "original": "けむりだま",
+    "translation": "烟雾球",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0219_0229",
+    "original": "かわらずのいし",
+    "translation": "不变之石",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0219_0230",
+    "original": "きあいのハチマキ",
+    "translation": "气势头带",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0219_0231",
+    "original": "しあわせタマゴ",
+    "translation": "幸运蛋",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0219_0232",
+    "original": "ピントレンズ",
+    "translation": "焦点镜",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0219_0233",
+    "original": "メタルコート",
+    "translation": "金属膜",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0219_0234",
+    "original": "たべのこし",
+    "translation": "吃剩的东西",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0219_0235",
+    "original": "りゅうのウロコ",
+    "translation": "龙之鳞片",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0219_0236",
+    "original": "でんきだま",
+    "translation": "电气球",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0219_0237",
+    "original": "やわらかいすな",
+    "translation": "柔软沙子",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0219_0238",
+    "original": "かたいいし",
+    "translation": "硬石头",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0219_0239",
+    "original": "きせきのタネ",
+    "translation": "奇迹种子",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0219_0240",
+    "original": "くろいメガネ",
+    "translation": "黑色眼镜",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0219_0241",
+    "original": "くろおび",
+    "translation": "黑带",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0219_0242",
+    "original": "じしゃく",
+    "translation": "磁铁",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0219_0243",
+    "original": "しんぴのしずく",
+    "translation": "神秘水滴",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0219_0244",
+    "original": "するどいくちばし",
+    "translation": "锐利鸟嘴",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0219_0245",
+    "original": "どくバリ",
+    "translation": "毒针",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0219_0246",
+    "original": "とけないこおり",
+    "translation": "不融冰",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0219_0247",
+    "original": "のろいのおふだ",
+    "translation": "咒术之符",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0219_0248",
+    "original": "まがったスプーン",
+    "translation": "弯曲的汤匙",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0219_0249",
+    "original": "もくたん",
+    "translation": "木炭",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0219_0250",
+    "original": "りゅうのキバ",
+    "translation": "龙之牙",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0219_0251",
+    "original": "シルクのスカーフ",
+    "translation": "丝绸围巾",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0219_0252",
+    "original": "アップグレード",
+    "translation": "升级数据",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0219_0253",
+    "original": "かいがらのすず",
+    "translation": "贝壳之铃",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0219_0254",
+    "original": "うしおのおこう",
+    "translation": "海潮薰香",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0219_0255",
+    "original": "のんきのおこう",
+    "translation": "悠闲薰香",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0219_0256",
+    "original": "ラッキーパンチ",
+    "translation": "吉利拳",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0219_0257",
+    "original": "メタルパウダー",
+    "translation": "金属粉",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0219_0258",
+    "original": "ふといホネ",
+    "translation": "粗骨头",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0219_0259",
+    "original": "ながねぎ",
+    "translation": "大葱",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0219_0260",
+    "original": "あかいバンダナ",
+    "translation": "红色头巾",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0219_0261",
+    "original": "あおいバンダナ",
+    "translation": "蓝色头巾",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0219_0262",
+    "original": "ピンクのバンダナ",
+    "translation": "粉红头巾",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0219_0263",
+    "original": "みどりのバンダナ",
+    "translation": "绿色头巾",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0219_0264",
+    "original": "きいろのバンダナ",
+    "translation": "黄色头巾",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0219_0265",
+    "original": "こうかくレンズ",
+    "translation": "广角镜",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0219_0266",
+    "original": "ちからのハチマキ",
+    "translation": "力量头带",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0219_0267",
+    "original": "ものしりメガネ",
+    "translation": "博识眼镜",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0219_0268",
+    "original": "たつじんのおび",
+    "translation": "达人带",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0219_0269",
+    "original": "ひかりのねんど",
+    "translation": "光之黏土",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0219_0270",
+    "original": "いのちのたま",
+    "translation": "生命宝珠",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0219_0271",
+    "original": "パワフルハーブ",
+    "translation": "强力香草",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0219_0272",
+    "original": "どくどくだま",
+    "translation": "剧毒宝珠",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0219_0273",
+    "original": "かえんだま",
+    "translation": "火焰宝珠",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0219_0274",
+    "original": "スピードパウダー",
+    "translation": "速度粉",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0219_0275",
+    "original": "きあいのタスキ",
+    "translation": "气势披带",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0219_0276",
+    "original": "フォーカスレンズ",
+    "translation": "对焦镜",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0219_0277",
+    "original": "メトロノーム",
+    "translation": "节拍器",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0219_0278",
+    "original": "くろいてっきゅう",
+    "translation": "黑色铁球",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0219_0279",
+    "original": "こうこうのしっぽ",
+    "translation": "后攻之尾",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0219_0280",
+    "original": "あかいいと",
+    "translation": "红线",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0219_0281",
+    "original": "くろいヘドロ",
+    "translation": "黑色污泥",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0219_0282",
+    "original": "つめたいいわ",
+    "translation": "冰冷岩石",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0219_0283",
+    "original": "さらさらいわ",
+    "translation": "沙沙岩石",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0219_0284",
+    "original": "あついいわ",
+    "translation": "炽热岩石",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0219_0285",
+    "original": "しめったいわ",
+    "translation": "潮湿岩石",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0219_0286",
+    "original": "ねばりのかぎづめ",
+    "translation": "紧缠钩爪",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0219_0287",
+    "original": "こだわりスカーフ",
+    "translation": "讲究围巾",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0219_0288",
+    "original": "くっつきバリ",
+    "translation": "附着针",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0219_0289",
+    "original": "パワーリスト",
+    "translation": "力量护腕",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0219_0290",
+    "original": "パワーベルト",
+    "translation": "力量腰带",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0219_0291",
+    "original": "パワーレンズ",
+    "translation": "力量镜",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0219_0292",
+    "original": "パワーバンド",
+    "translation": "力量束带",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0219_0293",
+    "original": "パワーアンクル",
+    "translation": "力量护踝",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0219_0294",
+    "original": "パワーウエイト",
+    "translation": "力量负重",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0219_0295",
+    "original": "きれいなぬけがら",
+    "translation": "美丽空壳",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0219_0296",
+    "original": "おおきなねっこ",
+    "translation": "大根茎",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0219_0297",
+    "original": "こだわりメガネ",
+    "translation": "讲究眼镜",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0219_0298",
+    "original": "ひのたまプレート",
+    "translation": "火球石板",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0219_0299",
+    "original": "しずくプレート",
+    "translation": "水滴石板",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0219_0300",
+    "original": "いかずちプレート",
+    "translation": "雷电石板",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0219_0301",
+    "original": "みどりのプレート",
+    "translation": "碧绿石板",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0219_0302",
+    "original": "つららのプレート",
+    "translation": "冰柱石板",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0219_0303",
+    "original": "こぶしのプレート",
+    "translation": "拳头石板",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0219_0304",
+    "original": "もうどくプレート",
+    "translation": "剧毒石板",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0219_0305",
+    "original": "だいちのプレート",
+    "translation": "大地石板",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0219_0306",
+    "original": "あおぞらプレート",
+    "translation": "蓝天石板",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0219_0307",
+    "original": "ふしぎのプレート",
+    "translation": "神奇石板",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0219_0308",
+    "original": "たまむしプレート",
+    "translation": "玉虫石板",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0219_0309",
+    "original": "がんせきプレート",
+    "translation": "岩石石板",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0219_0310",
+    "original": "もののけプレート",
+    "translation": "妖怪石板",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0219_0311",
+    "original": "りゅうのプレート",
+    "translation": "龙之石板",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0219_0312",
+    "original": "こわもてプレート",
+    "translation": "恶颜石板",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0219_0313",
+    "original": "こうてつプレート",
+    "translation": "钢铁石板",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0219_0314",
+    "original": "あやしいおこう",
+    "translation": "奇异薰香",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0219_0315",
+    "original": "がんせきおこう",
+    "translation": "岩石薰香",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0219_0316",
+    "original": "まんぷくおこう",
+    "translation": "饱腹薰香",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0219_0317",
+    "original": "さざなみのおこう",
+    "translation": "涟漪薰香",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0219_0318",
+    "original": "おはなのおこう",
+    "translation": "花朵薰香",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0219_0319",
+    "original": "こううんのおこう",
+    "translation": "幸运薰香",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0219_0320",
+    "original": "きよめのおこう",
+    "translation": "洁净薰香",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0219_0321",
+    "original": "プロテクター",
+    "translation": "护具",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0219_0322",
+    "original": "エレキブースター",
+    "translation": "电力增幅器",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0219_0323",
+    "original": "マグマブースター",
+    "translation": "熔岩增幅器",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0219_0324",
+    "original": "あやしいパッチ",
+    "translation": "可疑补丁",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0219_0325",
+    "original": "れいかいのぬの",
+    "translation": "灵界之布",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0219_0326",
+    "original": "するどいツメ",
+    "translation": "锐利之爪",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0219_0327",
+    "original": "するどいキバ",
+    "translation": "锐利之牙",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0219_0328",
+    "original": "わざマシン０１",
+    "translation": "招式学习器０１",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0219_0329",
+    "original": "わざマシン０２",
+    "translation": "招式学习器０２",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0219_0330",
+    "original": "わざマシン０３",
+    "translation": "招式学习器０３",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0219_0331",
+    "original": "わざマシン０４",
+    "translation": "招式学习器０４",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0219_0332",
+    "original": "わざマシン０５",
+    "translation": "招式学习器０５",
+    "index": 332
+  },
+  {
+    "key": "HGSS_0219_0333",
+    "original": "わざマシン０６",
+    "translation": "招式学习器０６",
+    "index": 333
+  },
+  {
+    "key": "HGSS_0219_0334",
+    "original": "わざマシン０７",
+    "translation": "招式学习器０７",
+    "index": 334
+  },
+  {
+    "key": "HGSS_0219_0335",
+    "original": "わざマシン０８",
+    "translation": "招式学习器０８",
+    "index": 335
+  },
+  {
+    "key": "HGSS_0219_0336",
+    "original": "わざマシン０９",
+    "translation": "招式学习器０９",
+    "index": 336
+  },
+  {
+    "key": "HGSS_0219_0337",
+    "original": "わざマシン１０",
+    "translation": "招式学习器１０",
+    "index": 337
+  },
+  {
+    "key": "HGSS_0219_0338",
+    "original": "わざマシン１１",
+    "translation": "招式学习器１１",
+    "index": 338
+  },
+  {
+    "key": "HGSS_0219_0339",
+    "original": "わざマシン１２",
+    "translation": "招式学习器１２",
+    "index": 339
+  },
+  {
+    "key": "HGSS_0219_0340",
+    "original": "わざマシン１３",
+    "translation": "招式学习器１３",
+    "index": 340
+  },
+  {
+    "key": "HGSS_0219_0341",
+    "original": "わざマシン１４",
+    "translation": "招式学习器１４",
+    "index": 341
+  },
+  {
+    "key": "HGSS_0219_0342",
+    "original": "わざマシン１５",
+    "translation": "招式学习器１５",
+    "index": 342
+  },
+  {
+    "key": "HGSS_0219_0343",
+    "original": "わざマシン１６",
+    "translation": "招式学习器１６",
+    "index": 343
+  },
+  {
+    "key": "HGSS_0219_0344",
+    "original": "わざマシン１７",
+    "translation": "招式学习器１７",
+    "index": 344
+  },
+  {
+    "key": "HGSS_0219_0345",
+    "original": "わざマシン１８",
+    "translation": "招式学习器１８",
+    "index": 345
+  },
+  {
+    "key": "HGSS_0219_0346",
+    "original": "わざマシン１９",
+    "translation": "招式学习器１９",
+    "index": 346
+  },
+  {
+    "key": "HGSS_0219_0347",
+    "original": "わざマシン２０",
+    "translation": "招式学习器２０",
+    "index": 347
+  },
+  {
+    "key": "HGSS_0219_0348",
+    "original": "わざマシン２１",
+    "translation": "招式学习器２１",
+    "index": 348
+  },
+  {
+    "key": "HGSS_0219_0349",
+    "original": "わざマシン２２",
+    "translation": "招式学习器２２",
+    "index": 349
+  },
+  {
+    "key": "HGSS_0219_0350",
+    "original": "わざマシン２３",
+    "translation": "招式学习器２３",
+    "index": 350
+  },
+  {
+    "key": "HGSS_0219_0351",
+    "original": "わざマシン２４",
+    "translation": "招式学习器２４",
+    "index": 351
+  },
+  {
+    "key": "HGSS_0219_0352",
+    "original": "わざマシン２５",
+    "translation": "招式学习器２５",
+    "index": 352
+  },
+  {
+    "key": "HGSS_0219_0353",
+    "original": "わざマシン２６",
+    "translation": "招式学习器２６",
+    "index": 353
+  },
+  {
+    "key": "HGSS_0219_0354",
+    "original": "わざマシン２７",
+    "translation": "招式学习器２７",
+    "index": 354
+  },
+  {
+    "key": "HGSS_0219_0355",
+    "original": "わざマシン２８",
+    "translation": "招式学习器２８",
+    "index": 355
+  },
+  {
+    "key": "HGSS_0219_0356",
+    "original": "わざマシン２９",
+    "translation": "招式学习器２９",
+    "index": 356
+  },
+  {
+    "key": "HGSS_0219_0357",
+    "original": "わざマシン３０",
+    "translation": "招式学习器３０",
+    "index": 357
+  },
+  {
+    "key": "HGSS_0219_0358",
+    "original": "わざマシン３１",
+    "translation": "招式学习器３１",
+    "index": 358
+  },
+  {
+    "key": "HGSS_0219_0359",
+    "original": "わざマシン３２",
+    "translation": "招式学习器３２",
+    "index": 359
+  },
+  {
+    "key": "HGSS_0219_0360",
+    "original": "わざマシン３３",
+    "translation": "招式学习器３３",
+    "index": 360
+  },
+  {
+    "key": "HGSS_0219_0361",
+    "original": "わざマシン３４",
+    "translation": "招式学习器３４",
+    "index": 361
+  },
+  {
+    "key": "HGSS_0219_0362",
+    "original": "わざマシン３５",
+    "translation": "招式学习器３５",
+    "index": 362
+  },
+  {
+    "key": "HGSS_0219_0363",
+    "original": "わざマシン３６",
+    "translation": "招式学习器３６",
+    "index": 363
+  },
+  {
+    "key": "HGSS_0219_0364",
+    "original": "わざマシン３７",
+    "translation": "招式学习器３７",
+    "index": 364
+  },
+  {
+    "key": "HGSS_0219_0365",
+    "original": "わざマシン３８",
+    "translation": "招式学习器３８",
+    "index": 365
+  },
+  {
+    "key": "HGSS_0219_0366",
+    "original": "わざマシン３９",
+    "translation": "招式学习器３９",
+    "index": 366
+  },
+  {
+    "key": "HGSS_0219_0367",
+    "original": "わざマシン４０",
+    "translation": "招式学习器４０",
+    "index": 367
+  },
+  {
+    "key": "HGSS_0219_0368",
+    "original": "わざマシン４１",
+    "translation": "招式学习器４１",
+    "index": 368
+  },
+  {
+    "key": "HGSS_0219_0369",
+    "original": "わざマシン４２",
+    "translation": "招式学习器４２",
+    "index": 369
+  },
+  {
+    "key": "HGSS_0219_0370",
+    "original": "わざマシン４３",
+    "translation": "招式学习器４３",
+    "index": 370
+  },
+  {
+    "key": "HGSS_0219_0371",
+    "original": "わざマシン４４",
+    "translation": "招式学习器４４",
+    "index": 371
+  },
+  {
+    "key": "HGSS_0219_0372",
+    "original": "わざマシン４５",
+    "translation": "招式学习器４５",
+    "index": 372
+  },
+  {
+    "key": "HGSS_0219_0373",
+    "original": "わざマシン４６",
+    "translation": "招式学习器４６",
+    "index": 373
+  },
+  {
+    "key": "HGSS_0219_0374",
+    "original": "わざマシン４７",
+    "translation": "招式学习器４７",
+    "index": 374
+  },
+  {
+    "key": "HGSS_0219_0375",
+    "original": "わざマシン４８",
+    "translation": "招式学习器４８",
+    "index": 375
+  },
+  {
+    "key": "HGSS_0219_0376",
+    "original": "わざマシン４９",
+    "translation": "招式学习器４９",
+    "index": 376
+  },
+  {
+    "key": "HGSS_0219_0377",
+    "original": "わざマシン５０",
+    "translation": "招式学习器５０",
+    "index": 377
+  },
+  {
+    "key": "HGSS_0219_0378",
+    "original": "わざマシン５１",
+    "translation": "招式学习器５１",
+    "index": 378
+  },
+  {
+    "key": "HGSS_0219_0379",
+    "original": "わざマシン５２",
+    "translation": "招式学习器５２",
+    "index": 379
+  },
+  {
+    "key": "HGSS_0219_0380",
+    "original": "わざマシン５３",
+    "translation": "招式学习器５３",
+    "index": 380
+  },
+  {
+    "key": "HGSS_0219_0381",
+    "original": "わざマシン５４",
+    "translation": "招式学习器５４",
+    "index": 381
+  },
+  {
+    "key": "HGSS_0219_0382",
+    "original": "わざマシン５５",
+    "translation": "招式学习器５５",
+    "index": 382
+  },
+  {
+    "key": "HGSS_0219_0383",
+    "original": "わざマシン５６",
+    "translation": "招式学习器５６",
+    "index": 383
+  },
+  {
+    "key": "HGSS_0219_0384",
+    "original": "わざマシン５７",
+    "translation": "招式学习器５７",
+    "index": 384
+  },
+  {
+    "key": "HGSS_0219_0385",
+    "original": "わざマシン５８",
+    "translation": "招式学习器５８",
+    "index": 385
+  },
+  {
+    "key": "HGSS_0219_0386",
+    "original": "わざマシン５９",
+    "translation": "招式学习器５９",
+    "index": 386
+  },
+  {
+    "key": "HGSS_0219_0387",
+    "original": "わざマシン６０",
+    "translation": "招式学习器６０",
+    "index": 387
+  },
+  {
+    "key": "HGSS_0219_0388",
+    "original": "わざマシン６１",
+    "translation": "招式学习器６１",
+    "index": 388
+  },
+  {
+    "key": "HGSS_0219_0389",
+    "original": "わざマシン６２",
+    "translation": "招式学习器６２",
+    "index": 389
+  },
+  {
+    "key": "HGSS_0219_0390",
+    "original": "わざマシン６３",
+    "translation": "招式学习器６３",
+    "index": 390
+  },
+  {
+    "key": "HGSS_0219_0391",
+    "original": "わざマシン６４",
+    "translation": "招式学习器６４",
+    "index": 391
+  },
+  {
+    "key": "HGSS_0219_0392",
+    "original": "わざマシン６５",
+    "translation": "招式学习器６５",
+    "index": 392
+  },
+  {
+    "key": "HGSS_0219_0393",
+    "original": "わざマシン６６",
+    "translation": "招式学习器６６",
+    "index": 393
+  },
+  {
+    "key": "HGSS_0219_0394",
+    "original": "わざマシン６７",
+    "translation": "招式学习器６７",
+    "index": 394
+  },
+  {
+    "key": "HGSS_0219_0395",
+    "original": "わざマシン６８",
+    "translation": "招式学习器６８",
+    "index": 395
+  },
+  {
+    "key": "HGSS_0219_0396",
+    "original": "わざマシン６９",
+    "translation": "招式学习器６９",
+    "index": 396
+  },
+  {
+    "key": "HGSS_0219_0397",
+    "original": "わざマシン７０",
+    "translation": "招式学习器７０",
+    "index": 397
+  },
+  {
+    "key": "HGSS_0219_0398",
+    "original": "わざマシン７１",
+    "translation": "招式学习器７１",
+    "index": 398
+  },
+  {
+    "key": "HGSS_0219_0399",
+    "original": "わざマシン７２",
+    "translation": "招式学习器７２",
+    "index": 399
+  },
+  {
+    "key": "HGSS_0219_0400",
+    "original": "わざマシン７３",
+    "translation": "招式学习器７３",
+    "index": 400
+  },
+  {
+    "key": "HGSS_0219_0401",
+    "original": "わざマシン７４",
+    "translation": "招式学习器７４",
+    "index": 401
+  },
+  {
+    "key": "HGSS_0219_0402",
+    "original": "わざマシン７５",
+    "translation": "招式学习器７５",
+    "index": 402
+  },
+  {
+    "key": "HGSS_0219_0403",
+    "original": "わざマシン７６",
+    "translation": "招式学习器７６",
+    "index": 403
+  },
+  {
+    "key": "HGSS_0219_0404",
+    "original": "わざマシン７７",
+    "translation": "招式学习器７７",
+    "index": 404
+  },
+  {
+    "key": "HGSS_0219_0405",
+    "original": "わざマシン７８",
+    "translation": "招式学习器７８",
+    "index": 405
+  },
+  {
+    "key": "HGSS_0219_0406",
+    "original": "わざマシン７９",
+    "translation": "招式学习器７９",
+    "index": 406
+  },
+  {
+    "key": "HGSS_0219_0407",
+    "original": "わざマシン８０",
+    "translation": "招式学习器８０",
+    "index": 407
+  },
+  {
+    "key": "HGSS_0219_0408",
+    "original": "わざマシン８１",
+    "translation": "招式学习器８１",
+    "index": 408
+  },
+  {
+    "key": "HGSS_0219_0409",
+    "original": "わざマシン８２",
+    "translation": "招式学习器８２",
+    "index": 409
+  },
+  {
+    "key": "HGSS_0219_0410",
+    "original": "わざマシン８３",
+    "translation": "招式学习器８３",
+    "index": 410
+  },
+  {
+    "key": "HGSS_0219_0411",
+    "original": "わざマシン８４",
+    "translation": "招式学习器８４",
+    "index": 411
+  },
+  {
+    "key": "HGSS_0219_0412",
+    "original": "わざマシン８５",
+    "translation": "招式学习器８５",
+    "index": 412
+  },
+  {
+    "key": "HGSS_0219_0413",
+    "original": "わざマシン８６",
+    "translation": "招式学习器８６",
+    "index": 413
+  },
+  {
+    "key": "HGSS_0219_0414",
+    "original": "わざマシン８７",
+    "translation": "招式学习器８７",
+    "index": 414
+  },
+  {
+    "key": "HGSS_0219_0415",
+    "original": "わざマシン８８",
+    "translation": "招式学习器８８",
+    "index": 415
+  },
+  {
+    "key": "HGSS_0219_0416",
+    "original": "わざマシン８９",
+    "translation": "招式学习器８９",
+    "index": 416
+  },
+  {
+    "key": "HGSS_0219_0417",
+    "original": "わざマシン９０",
+    "translation": "招式学习器９０",
+    "index": 417
+  },
+  {
+    "key": "HGSS_0219_0418",
+    "original": "わざマシン９１",
+    "translation": "招式学习器９１",
+    "index": 418
+  },
+  {
+    "key": "HGSS_0219_0419",
+    "original": "わざマシン９２",
+    "translation": "招式学习器９２",
+    "index": 419
+  },
+  {
+    "key": "HGSS_0219_0420",
+    "original": "ひでんマシン０１",
+    "translation": "秘传学习器０１",
+    "index": 420
+  },
+  {
+    "key": "HGSS_0219_0421",
+    "original": "ひでんマシン０２",
+    "translation": "秘传学习器０２",
+    "index": 421
+  },
+  {
+    "key": "HGSS_0219_0422",
+    "original": "ひでんマシン０３",
+    "translation": "秘传学习器０３",
+    "index": 422
+  },
+  {
+    "key": "HGSS_0219_0423",
+    "original": "ひでんマシン０４",
+    "translation": "秘传学习器０４",
+    "index": 423
+  },
+  {
+    "key": "HGSS_0219_0424",
+    "original": "ひでんマシン０５",
+    "translation": "秘传学习器０５",
+    "index": 424
+  },
+  {
+    "key": "HGSS_0219_0425",
+    "original": "ひでんマシン０６",
+    "translation": "秘传学习器０６",
+    "index": 425
+  },
+  {
+    "key": "HGSS_0219_0426",
+    "original": "ひでんマシン０７",
+    "translation": "秘传学习器０７",
+    "index": 426
+  },
+  {
+    "key": "HGSS_0219_0427",
+    "original": "ひでんマシン０８",
+    "translation": "秘传学习器０８",
+    "index": 427
+  },
+  {
+    "key": "HGSS_0219_0428",
+    "original": "？？？",
+    "translation": "？？？",
+    "index": 428
+  },
+  {
+    "key": "HGSS_0219_0429",
+    "original": "たからぶくろ",
+    "translation": "宝物袋",
+    "index": 429
+  },
+  {
+    "key": "HGSS_0219_0430",
+    "original": "ルールブック",
+    "translation": "规则书",
+    "index": 430
+  },
+  {
+    "key": "HGSS_0219_0431",
+    "original": "ポケトレ",
+    "translation": "宝可追踪",
+    "index": 431
+  },
+  {
+    "key": "HGSS_0219_0432",
+    "original": "ポイントカード",
+    "translation": "点数卡",
+    "index": 432
+  },
+  {
+    "key": "HGSS_0219_0433",
+    "original": "ぼうけんノート",
+    "translation": "冒险笔记",
+    "index": 433
+  },
+  {
+    "key": "HGSS_0219_0434",
+    "original": "シールいれ",
+    "translation": "贴纸盒",
+    "index": 434
+  },
+  {
+    "key": "HGSS_0219_0435",
+    "original": "アクセサリーいれ",
+    "translation": "饰品盒",
+    "index": 435
+  },
+  {
+    "key": "HGSS_0219_0436",
+    "original": "シールぶくろ",
+    "translation": "贴纸袋",
+    "index": 436
+  },
+  {
+    "key": "HGSS_0219_0437",
+    "original": "ともだちてちょう",
+    "translation": "朋友手册",
+    "index": 437
+  },
+  {
+    "key": "HGSS_0219_0438",
+    "original": "はつでんしょキー",
+    "translation": "发电厂钥匙",
+    "index": 438
+  },
+  {
+    "key": "HGSS_0219_0439",
+    "original": "こだいのおまもり",
+    "translation": "古代护符",
+    "index": 439
+  },
+  {
+    "key": "HGSS_0219_0440",
+    "original": "ギンガだんのカギ",
+    "translation": "银河队钥匙",
+    "index": 440
+  },
+  {
+    "key": "HGSS_0219_0441",
+    "original": "あかいくさり",
+    "translation": "红色锁链",
+    "index": 441
+  },
+  {
+    "key": "HGSS_0219_0442",
+    "original": "タウンマップ",
+    "translation": "城镇地图",
+    "index": 442
+  },
+  {
+    "key": "HGSS_0219_0443",
+    "original": "バトルサーチャー",
+    "translation": "对战搜寻器",
+    "index": 443
+  },
+  {
+    "key": "HGSS_0219_0444",
+    "original": "コインケース",
+    "translation": "代币盒",
+    "index": 444
+  },
+  {
+    "key": "HGSS_0219_0445",
+    "original": "ボロのつりざお",
+    "translation": "破旧钓竿",
+    "index": 445
+  },
+  {
+    "key": "HGSS_0219_0446",
+    "original": "いいつりざお",
+    "translation": "好钓竿",
+    "index": 446
+  },
+  {
+    "key": "HGSS_0219_0447",
+    "original": "すごいつりざお",
+    "translation": "厉害钓竿",
+    "index": 447
+  },
+  {
+    "key": "HGSS_0219_0448",
+    "original": "コダックじょうろ",
+    "translation": "可达鸭喷壶",
+    "index": 448
+  },
+  {
+    "key": "HGSS_0219_0449",
+    "original": "ポフィンケース",
+    "translation": "宝芬盒",
+    "index": 449
+  },
+  {
+    "key": "HGSS_0219_0450",
+    "original": "じてんしゃ",
+    "translation": "自行车",
+    "index": 450
+  },
+  {
+    "key": "HGSS_0219_0451",
+    "original": "ルームキー",
+    "translation": "房间钥匙",
+    "index": 451
+  },
+  {
+    "key": "HGSS_0219_0452",
+    "original": "オーキドのてがみ",
+    "translation": "大木的信",
+    "index": 452
+  },
+  {
+    "key": "HGSS_0219_0453",
+    "original": "みかづきのはね",
+    "translation": "新月之羽",
+    "index": 453
+  },
+  {
+    "key": "HGSS_0219_0454",
+    "original": "メンバーズカード",
+    "translation": "会员卡",
+    "index": 454
+  },
+  {
+    "key": "HGSS_0219_0455",
+    "original": "てんかいのふえ",
+    "translation": "天界之笛",
+    "index": 455
+  },
+  {
+    "key": "HGSS_0219_0456",
+    "original": "ふねのチケット",
+    "translation": "船票",
+    "index": 456
+  },
+  {
+    "key": "HGSS_0219_0457",
+    "original": "コンテストパス",
+    "translation": "华丽大赛参加证",
+    "index": 457
+  },
+  {
+    "key": "HGSS_0219_0458",
+    "original": "かざんのおきいし",
+    "translation": "火山镇石",
+    "index": 458
+  },
+  {
+    "key": "HGSS_0219_0459",
+    "original": "おとどけもの",
+    "translation": "包裹",
+    "index": 459
+  },
+  {
+    "key": "HGSS_0219_0460",
+    "original": "ひきかえけん１",
+    "translation": "兑换券１",
+    "index": 460
+  },
+  {
+    "key": "HGSS_0219_0461",
+    "original": "ひきかえけん２",
+    "translation": "兑换券２",
+    "index": 461
+  },
+  {
+    "key": "HGSS_0219_0462",
+    "original": "ひきかえけん３",
+    "translation": "兑换券３",
+    "index": 462
+  },
+  {
+    "key": "HGSS_0219_0463",
+    "original": "そうこのカギ",
+    "translation": "仓库钥匙",
+    "index": 463
+  },
+  {
+    "key": "HGSS_0219_0464",
+    "original": "ひでんのくすり",
+    "translation": "秘传之药",
+    "index": 464
+  },
+  {
+    "key": "HGSS_0219_0465",
+    "original": "バトルレコーダー",
+    "translation": "对战记录器",
+    "index": 465
+  },
+  {
+    "key": "HGSS_0219_0466",
+    "original": "グラシデアのはな",
+    "translation": "葛拉西蒂亚花",
+    "index": 466
+  },
+  {
+    "key": "HGSS_0219_0467",
+    "original": "ひみつのカギ",
+    "translation": "秘密钥匙",
+    "index": 467
+  },
+  {
+    "key": "HGSS_0219_0468",
+    "original": "ぼんぐりケース",
+    "translation": "球果盒",
+    "index": 468
+  },
+  {
+    "key": "HGSS_0219_0469",
+    "original": "アンノーンノート",
+    "translation": "未知图腾笔记",
+    "index": 469
+  },
+  {
+    "key": "HGSS_0219_0470",
+    "original": "きのみプランター",
+    "translation": "树果种植盆",
+    "index": 470
+  },
+  {
+    "key": "HGSS_0219_0471",
+    "original": "ダウジングマシン",
+    "translation": "探宝器",
+    "index": 471
+  },
+  {
+    "key": "HGSS_0219_0472",
+    "original": "ブルーカード",
+    "translation": "蓝卡",
+    "index": 472
+  },
+  {
+    "key": "HGSS_0219_0473",
+    "original": "おいしいシッポ",
+    "translation": "美味尾巴",
+    "index": 473
+  },
+  {
+    "key": "HGSS_0219_0474",
+    "original": "とうめいなスズ",
+    "translation": "透明铃铛",
+    "index": 474
+  },
+  {
+    "key": "HGSS_0219_0475",
+    "original": "カードキー",
+    "translation": "钥匙卡",
+    "index": 475
+  },
+  {
+    "key": "HGSS_0219_0476",
+    "original": "ちかのかぎ",
+    "translation": "地下钥匙",
+    "index": 476
+  },
+  {
+    "key": "HGSS_0219_0477",
+    "original": "ゼニガメじょうろ",
+    "translation": "杰尼龟喷壶",
+    "index": 477
+  },
+  {
+    "key": "HGSS_0219_0478",
+    "original": "あかいウロコ",
+    "translation": "红色鳞片",
+    "index": 478
+  },
+  {
+    "key": "HGSS_0219_0479",
+    "original": "おとしもの",
+    "translation": "遗失物",
+    "index": 479
+  },
+  {
+    "key": "HGSS_0219_0480",
+    "original": "リニアパス",
+    "translation": "磁浮列车自由票",
+    "index": 480
+  },
+  {
+    "key": "HGSS_0219_0481",
+    "original": "きかいのぶひん",
+    "translation": "机械零件",
+    "index": 481
+  },
+  {
+    "key": "HGSS_0219_0482",
+    "original": "ぎんいろのはね",
+    "translation": "银色之羽",
+    "index": 482
+  },
+  {
+    "key": "HGSS_0219_0483",
+    "original": "にじいろのはね",
+    "translation": "虹色之羽",
+    "index": 483
+  },
+  {
+    "key": "HGSS_0219_0484",
+    "original": "ふしぎなタマゴ",
+    "translation": "神奇蛋",
+    "index": 484
+  },
+  {
+    "key": "HGSS_0219_0485",
+    "original": "あかぼんぐり",
+    "translation": "红球果",
+    "index": 485
+  },
+  {
+    "key": "HGSS_0219_0486",
+    "original": "きぼんぐり",
+    "translation": "黄球果",
+    "index": 486
+  },
+  {
+    "key": "HGSS_0219_0487",
+    "original": "あおぼんぐり",
+    "translation": "蓝球果",
+    "index": 487
+  },
+  {
+    "key": "HGSS_0219_0488",
+    "original": "みどぼんぐり",
+    "translation": "绿球果",
+    "index": 488
+  },
+  {
+    "key": "HGSS_0219_0489",
+    "original": "ももぼんぐり",
+    "translation": "粉球果",
+    "index": 489
+  },
+  {
+    "key": "HGSS_0219_0490",
+    "original": "しろぼんぐり",
+    "translation": "白球果",
+    "index": 490
+  },
+  {
+    "key": "HGSS_0219_0491",
+    "original": "くろぼんぐり",
+    "translation": "黑球果",
+    "index": 491
+  },
+  {
+    "key": "HGSS_0219_0492",
+    "original": "スピードボール",
+    "translation": "速度球",
+    "index": 492
+  },
+  {
+    "key": "HGSS_0219_0493",
+    "original": "レベルボール",
+    "translation": "等级球",
+    "index": 493
+  },
+  {
+    "key": "HGSS_0219_0494",
+    "original": "ルアーボール",
+    "translation": "诱饵球",
+    "index": 494
+  },
+  {
+    "key": "HGSS_0219_0495",
+    "original": "ヘビーボール",
+    "translation": "沉重球",
+    "index": 495
+  },
+  {
+    "key": "HGSS_0219_0496",
+    "original": "ラブラブボール",
+    "translation": "甜蜜球",
+    "index": 496
+  },
+  {
+    "key": "HGSS_0219_0497",
+    "original": "フレンドボール",
+    "translation": "友友球",
+    "index": 497
+  },
+  {
+    "key": "HGSS_0219_0498",
+    "original": "ムーンボール",
+    "translation": "月亮球",
+    "index": 498
+  },
+  {
+    "key": "HGSS_0219_0499",
+    "original": "コンペボール",
+    "translation": "竞赛球",
+    "index": 499
+  },
+  {
+    "key": "HGSS_0219_0500",
+    "original": "パークボール",
+    "translation": "公园球",
+    "index": 500
+  },
+  {
+    "key": "HGSS_0219_0501",
+    "original": "フォトアルバム",
+    "translation": "相册",
+    "index": 501
+  },
+  {
+    "key": "HGSS_0219_0502",
+    "original": "ＧＢプレイヤー",
+    "translation": "ＧＢ播放器",
+    "index": 502
+  },
+  {
+    "key": "HGSS_0219_0503",
+    "original": "うみなりのスズ",
+    "translation": "海声铃铛",
+    "index": 503
+  },
+  {
+    "key": "HGSS_0219_0504",
+    "original": "いかりまんじゅう",
+    "translation": "愤怒馒头",
+    "index": 504
+  },
+  {
+    "key": "HGSS_0219_0505",
+    "original": "データカード０１",
+    "translation": "数据卡０１",
+    "index": 505
+  },
+  {
+    "key": "HGSS_0219_0506",
+    "original": "データカード０２",
+    "translation": "数据卡０２",
+    "index": 506
+  },
+  {
+    "key": "HGSS_0219_0507",
+    "original": "データカード０３",
+    "translation": "数据卡０３",
+    "index": 507
+  },
+  {
+    "key": "HGSS_0219_0508",
+    "original": "データカード０４",
+    "translation": "数据卡０４",
+    "index": 508
+  },
+  {
+    "key": "HGSS_0219_0509",
+    "original": "データカード０５",
+    "translation": "数据卡０５",
+    "index": 509
+  },
+  {
+    "key": "HGSS_0219_0510",
+    "original": "データカード０６",
+    "translation": "数据卡０６",
+    "index": 510
+  },
+  {
+    "key": "HGSS_0219_0511",
+    "original": "データカード０７",
+    "translation": "数据卡０７",
+    "index": 511
+  },
+  {
+    "key": "HGSS_0219_0512",
+    "original": "データカード０８",
+    "translation": "数据卡０８",
+    "index": 512
+  },
+  {
+    "key": "HGSS_0219_0513",
+    "original": "データカード０９",
+    "translation": "数据卡０９",
+    "index": 513
+  },
+  {
+    "key": "HGSS_0219_0514",
+    "original": "データカード１０",
+    "translation": "数据卡１０",
+    "index": 514
+  },
+  {
+    "key": "HGSS_0219_0515",
+    "original": "データカード１１",
+    "translation": "数据卡１１",
+    "index": 515
+  },
+  {
+    "key": "HGSS_0219_0516",
+    "original": "データカード１２",
+    "translation": "数据卡１２",
+    "index": 516
+  },
+  {
+    "key": "HGSS_0219_0517",
+    "original": "データカード１３",
+    "translation": "数据卡１３",
+    "index": 517
+  },
+  {
+    "key": "HGSS_0219_0518",
+    "original": "データカード１４",
+    "translation": "数据卡１４",
+    "index": 518
+  },
+  {
+    "key": "HGSS_0219_0519",
+    "original": "データカード１５",
+    "translation": "数据卡１５",
+    "index": 519
+  },
+  {
+    "key": "HGSS_0219_0520",
+    "original": "データカード１６",
+    "translation": "数据卡１６",
+    "index": 520
+  },
+  {
+    "key": "HGSS_0219_0521",
+    "original": "データカード１７",
+    "translation": "数据卡１７",
+    "index": 521
+  },
+  {
+    "key": "HGSS_0219_0522",
+    "original": "データカード１８",
+    "translation": "数据卡１８",
+    "index": 522
+  },
+  {
+    "key": "HGSS_0219_0523",
+    "original": "データカード１９",
+    "translation": "数据卡１９",
+    "index": 523
+  },
+  {
+    "key": "HGSS_0219_0524",
+    "original": "データカード２０",
+    "translation": "数据卡２０",
+    "index": 524
+  },
+  {
+    "key": "HGSS_0219_0525",
+    "original": "データカード２１",
+    "translation": "数据卡２１",
+    "index": 525
+  },
+  {
+    "key": "HGSS_0219_0526",
+    "original": "データカード２２",
+    "translation": "数据卡２２",
+    "index": 526
+  },
+  {
+    "key": "HGSS_0219_0527",
+    "original": "データカード２３",
+    "translation": "数据卡２３",
+    "index": 527
+  },
+  {
+    "key": "HGSS_0219_0528",
+    "original": "データカード２４",
+    "translation": "数据卡２４",
+    "index": 528
+  },
+  {
+    "key": "HGSS_0219_0529",
+    "original": "データカード２５",
+    "translation": "数据卡２５",
+    "index": 529
+  },
+  {
+    "key": "HGSS_0219_0530",
+    "original": "データカード２６",
+    "translation": "数据卡２６",
+    "index": 530
+  },
+  {
+    "key": "HGSS_0219_0531",
+    "original": "データカード２７",
+    "translation": "数据卡２７",
+    "index": 531
+  },
+  {
+    "key": "HGSS_0219_0532",
+    "original": "もえぎいろのたま",
+    "translation": "草绿色宝珠",
+    "index": 532
+  },
+  {
+    "key": "HGSS_0219_0533",
+    "original": "ロックカプセル",
+    "translation": "上锁的容器",
+    "index": 533
+  },
+  {
+    "key": "HGSS_0219_0534",
+    "original": "べにいろのたま",
+    "translation": "朱红色宝珠",
+    "index": 534
+  },
+  {
+    "key": "HGSS_0219_0535",
+    "original": "あいいろのたま",
+    "translation": "靛蓝色宝珠",
+    "index": 535
+  },
+  {
+    "key": "HGSS_0219_0536",
+    "original": "なぞのすいしょう",
+    "translation": "谜之水晶",
+    "index": 536
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "DP_0609_0000",
+    "original": "ＩＤＮｏ．",
+    "translation": "ID No.",
+    "index": 0
+  },
+  {
+    "key": "DP_0609_0001",
+    "original": "なまえ",
+    "translation": "名字",
+    "index": 1
+  },
+  {
+    "key": "DP_0609_0002",
+    "original": "おこづかい",
+    "translation": "零花钱",
+    "index": 2
+  },
+  {
+    "key": "DP_0609_0003",
+    "original": "ポケモンずかん",
+    "translation": "宝可梦图鉴",
+    "index": 3
+  },
+  {
+    "key": "DP_0609_0004",
+    "original": "ＳＣＯＲＥ",
+    "translation": "ＳＣＯＲＥ",
+    "index": 4
+  },
+  {
+    "key": "DP_0609_0005",
+    "original": "プレイじかん",
+    "translation": "游戏时间",
+    "index": 5
+  },
+  {
+    "key": "DP_0609_0006",
+    "original": "ぼうけんを はじめたとき",
+    "translation": "开始冒险的日期",
+    "index": 6
+  },
+  {
+    "key": "DP_0609_0007",
+    "original": "はじめての でんどういり",
+    "translation": "初次登入名人堂",
+    "index": 7
+  },
+  {
+    "key": "DP_0609_0008",
+    "original": "つうしんした かいすう",
+    "translation": "连接次数",
+    "index": 8
+  },
+  {
+    "key": "DP_0609_0009",
+    "original": "つうしん たいせん",
+    "translation": "连接对战",
+    "index": 9
+  },
+  {
+    "key": "DP_0609_0010",
+    "original": "つうしん こうかん",
+    "translation": "连接交换",
+    "index": 10
+  },
+  {
+    "key": "DP_0609_0011",
+    "original": ":",
+    "translation": ":",
+    "index": 11
+  },
+  {
+    "key": "DP_0609_0012",
+    "original": "ーー",
+    "translation": "ーー",
+    "index": 12
+  },
+  {
+    "key": "DP_0609_0013",
+    "original": "ーー:ーー",
+    "translation": "ーー:ーー",
+    "index": 13
+  }
+]

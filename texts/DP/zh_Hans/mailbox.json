@@ -1,0 +1,74 @@
+[
+  {
+    "key": "DP_0226_0000",
+    "original": "メールボックス",
+    "translation": "邮箱",
+    "index": 0
+  },
+  {
+    "key": "DP_0226_0001",
+    "original": "メールを よむ",
+    "translation": "阅读邮件",
+    "index": 1
+  },
+  {
+    "key": "DP_0226_0002",
+    "original": "メールを けす",
+    "translation": "清除邮件",
+    "index": 2
+  },
+  {
+    "key": "DP_0226_0003",
+    "original": "ポケモンに もたせる",
+    "translation": "让宝可梦携带",
+    "index": 3
+  },
+  {
+    "key": "DP_0226_0004",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 4
+  },
+  {
+    "key": "DP_0226_0005",
+    "original": "no id",
+    "translation": "no id",
+    "index": 5
+  },
+  {
+    "key": "DP_0226_0006",
+    "original": "[0103,0000] の\nメールを どうしますか？",
+    "translation": "要怎么处理\n[0103,0000]的邮件？",
+    "index": 6
+  },
+  {
+    "key": "DP_0226_0007",
+    "original": "ないようは きえて しまいますが\nよろしい ですか？",
+    "translation": "要清除内容\n确定吗？",
+    "index": 7
+  },
+  {
+    "key": "DP_0226_0008",
+    "original": "ないようを けしました\\f\nポケモンに もたせますか？",
+    "translation": "内容已清除，\\f\n要给宝可梦携带吗？",
+    "index": 8
+  },
+  {
+    "key": "DP_0226_0009",
+    "original": "ないようを けした メールを\nバッグに しまいました",
+    "translation": "清除内容的邮件\n已放入包包内。",
+    "index": 9
+  },
+  {
+    "key": "DP_0226_0010",
+    "original": "バッグが いっぱいです⋯\nメールを すてました",
+    "translation": "包包内已经满了…\n因此扔掉了邮件。",
+    "index": 10
+  },
+  {
+    "key": "DP_0226_0011",
+    "original": "メールを もたせるのを\nやめました",
+    "translation": "不再让宝可梦携带邮件。",
+    "index": 11
+  }
+]

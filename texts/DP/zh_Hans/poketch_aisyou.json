@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DP_0296_0000",
+    "original": "こうかは ないようだ⋯",
+    "translation": "似乎没有效果…",
+    "index": 0
+  },
+  {
+    "key": "DP_0296_0001",
+    "original": "こうかは いまひとつだ",
+    "translation": "效果似乎不佳。",
+    "index": 1
+  },
+  {
+    "key": "DP_0296_0002",
+    "original": "こうかは いまひとつだ",
+    "translation": "效果似乎不佳。",
+    "index": 2
+  },
+  {
+    "key": "DP_0296_0003",
+    "original": "こうかは ふつうのようだ",
+    "translation": "普通的效果。",
+    "index": 3
+  },
+  {
+    "key": "DP_0296_0004",
+    "original": "こうかは ばつぐんだ！",
+    "translation": "效果绝佳！",
+    "index": 4
+  },
+  {
+    "key": "DP_0296_0005",
+    "original": "こうかは ばつぐんだ！",
+    "translation": "效果绝佳！",
+    "index": 5
+  },
+  {
+    "key": "DP_0296_0006",
+    "original": "なし",
+    "translation": "无",
+    "index": 6
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "PT_0742_0000",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 0
+  },
+  {
+    "key": "PT_0742_0001",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 1
+  },
+  {
+    "key": "PT_0742_0002",
+    "original": "あしあとボードを やめますか？",
+    "translation": "停止足迹板吗？",
+    "index": 2
+  },
+  {
+    "key": "PT_0742_0003",
+    "original": "あしあとボードの\nしゅうりょうじかんに なりました",
+    "translation": "到足迹板的\n停止时间了。",
+    "index": 3
+  }
+]

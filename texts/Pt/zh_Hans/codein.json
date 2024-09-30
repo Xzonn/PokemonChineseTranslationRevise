@@ -1,0 +1,26 @@
+[
+  {
+    "key": "PT_0037_0000",
+    "original": "ともだちコードを いれてください",
+    "translation": "请输入朋友编号",
+    "index": 0
+  },
+  {
+    "key": "PT_0037_0001",
+    "original": "データナンバーを いれてください",
+    "translation": "请输入档案号码",
+    "index": 1
+  },
+  {
+    "key": "PT_0037_0002",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 2
+  },
+  {
+    "key": "PT_0037_0003",
+    "original": "おわり",
+    "translation": "结束",
+    "index": 3
+  }
+]

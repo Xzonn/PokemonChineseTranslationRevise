@@ -1,0 +1,302 @@
+[
+  {
+    "key": "PT_0747_0000",
+    "original": "ポケモンしょうぶ",
+    "translation": "ポケモンしょうぶ",
+    "index": 0
+  },
+  {
+    "key": "PT_0747_0001",
+    "original": "サイキッカー",
+    "translation": "サイキッカー",
+    "index": 1
+  },
+  {
+    "key": "PT_0747_0002",
+    "original": "くさポケモン",
+    "translation": "くさポケモン",
+    "index": 2
+  },
+  {
+    "key": "PT_0747_0003",
+    "original": "こうかん",
+    "translation": "こうかん",
+    "index": 3
+  },
+  {
+    "key": "PT_0747_0004",
+    "original": "ない",
+    "translation": "ない",
+    "index": 4
+  },
+  {
+    "key": "PT_0747_0005",
+    "original": "デパート",
+    "translation": "デパート",
+    "index": 5
+  },
+  {
+    "key": "PT_0747_0006",
+    "original": "ＨＰ",
+    "translation": "ＨＰ",
+    "index": 6
+  },
+  {
+    "key": "PT_0747_0007",
+    "original": "いえのなか",
+    "translation": "いえのなか",
+    "index": 7
+  },
+  {
+    "key": "PT_0747_0008",
+    "original": "ねてしまった",
+    "translation": "ねてしまった",
+    "index": 8
+  },
+  {
+    "key": "PT_0747_0009",
+    "original": "どく",
+    "translation": "どく",
+    "index": 9
+  },
+  {
+    "key": "PT_0747_0010",
+    "original": "まひさせる",
+    "translation": "まひさせる",
+    "index": 10
+  },
+  {
+    "key": "PT_0747_0011",
+    "original": "どくけし",
+    "translation": "どくけし",
+    "index": 11
+  },
+  {
+    "key": "PT_0747_0012",
+    "original": "くさむら",
+    "translation": "くさむら",
+    "index": 12
+  },
+  {
+    "key": "PT_0747_0013",
+    "original": "ひる",
+    "translation": "ひる",
+    "index": 13
+  },
+  {
+    "key": "PT_0747_0014",
+    "original": "おなじがっこう",
+    "translation": "おなじがっこう",
+    "index": 14
+  },
+  {
+    "key": "PT_0747_0015",
+    "original": "タウリン",
+    "translation": "タウリン",
+    "index": 15
+  },
+  {
+    "key": "PT_0747_0016",
+    "original": "マネネ",
+    "translation": "マネネ",
+    "index": 16
+  },
+  {
+    "key": "PT_0747_0017",
+    "original": "めいちゅう",
+    "translation": "めいちゅう",
+    "index": 17
+  },
+  {
+    "key": "PT_0747_0018",
+    "original": "させない",
+    "translation": "させない",
+    "index": 18
+  },
+  {
+    "key": "PT_0747_0019",
+    "original": "おいしいみず",
+    "translation": "おいしいみず",
+    "index": 19
+  },
+  {
+    "key": "PT_0747_0020",
+    "original": "こだわりメガネ",
+    "translation": "こだわりメガネ",
+    "index": 20
+  },
+  {
+    "key": "PT_0747_0021",
+    "original": "きんのたま",
+    "translation": "きんのたま",
+    "index": 21
+  },
+  {
+    "key": "PT_0747_0022",
+    "original": "タマゴからかえる",
+    "translation": "タマゴからかえる",
+    "index": 22
+  },
+  {
+    "key": "PT_0747_0023",
+    "original": "かわいくてすてき",
+    "translation": "かわいくてすてき",
+    "index": 23
+  },
+  {
+    "key": "PT_0747_0024",
+    "original": "かぞく",
+    "translation": "かぞく",
+    "index": 24
+  },
+  {
+    "key": "PT_0747_0025",
+    "original": "つかまえてもらう",
+    "translation": "つかまえてもらう",
+    "index": 25
+  },
+  {
+    "key": "PT_0747_0026",
+    "original": "ともだちにまけた",
+    "translation": "ともだちにまけた",
+    "index": 26
+  },
+  {
+    "key": "PT_0747_0027",
+    "original": "まちのきょく",
+    "translation": "まちのきょく",
+    "index": 27
+  },
+  {
+    "key": "PT_0747_0028",
+    "original": "ときどきつかう",
+    "translation": "ときどきつかう",
+    "index": 28
+  },
+  {
+    "key": "PT_0747_0029",
+    "original": "ぎゅうぎゅうづめ",
+    "translation": "ぎゅうぎゅうづめ",
+    "index": 29
+  },
+  {
+    "key": "PT_0747_0030",
+    "original": "みんなバラバラ",
+    "translation": "みんなバラバラ",
+    "index": 30
+  },
+  {
+    "key": "PT_0747_0031",
+    "original": "きのみがおおい",
+    "translation": "きのみがおおい",
+    "index": 31
+  },
+  {
+    "key": "PT_0747_0032",
+    "original": "すこししられてる",
+    "translation": "すこししられてる",
+    "index": 32
+  },
+  {
+    "key": "PT_0747_0033",
+    "original": "はしる",
+    "translation": "はしる",
+    "index": 33
+  },
+  {
+    "key": "PT_0747_0034",
+    "original": "とくしゅこうげき",
+    "translation": "とくしゅこうげき",
+    "index": 34
+  },
+  {
+    "key": "PT_0747_0035",
+    "original": "あしがた",
+    "translation": "あしがた",
+    "index": 35
+  },
+  {
+    "key": "PT_0747_0036",
+    "original": "むしポケモン",
+    "translation": "むしポケモン",
+    "index": 36
+  },
+  {
+    "key": "PT_0747_0037",
+    "original": "しっかりちょきん",
+    "translation": "しっかりちょきん",
+    "index": 37
+  },
+  {
+    "key": "PT_0747_0038",
+    "original": "しゅじんこう",
+    "translation": "しゅじんこう",
+    "index": 38
+  },
+  {
+    "key": "PT_0747_0039",
+    "original": "ぼうぎょとくぼう",
+    "translation": "ぼうぎょとくぼう",
+    "index": 39
+  },
+  {
+    "key": "PT_0747_0040",
+    "original": "いなかった",
+    "translation": "いなかった",
+    "index": 40
+  },
+  {
+    "key": "PT_0747_0041",
+    "original": "モノっぽいなまえ",
+    "translation": "モノっぽいなまえ",
+    "index": 41
+  },
+  {
+    "key": "PT_0747_0042",
+    "original": "そらをとぶ",
+    "translation": "そらをとぶ",
+    "index": 42
+  },
+  {
+    "key": "PT_0747_0043",
+    "original": "ポケモンセンター",
+    "translation": "ポケモンセンター",
+    "index": 43
+  },
+  {
+    "key": "PT_0747_0044",
+    "original": "いない",
+    "translation": "いない",
+    "index": 44
+  },
+  {
+    "key": "PT_0747_0045",
+    "original": "なみのり",
+    "translation": "なみのり",
+    "index": 45
+  },
+  {
+    "key": "PT_0747_0046",
+    "original": "ない",
+    "translation": "ない",
+    "index": 46
+  },
+  {
+    "key": "PT_0747_0047",
+    "original": "タイプ",
+    "translation": "タイプ",
+    "index": 47
+  },
+  {
+    "key": "PT_0747_0048",
+    "original": "かっこいいわざ！",
+    "translation": "かっこいいわざ！",
+    "index": 48
+  },
+  {
+    "key": "PT_0747_0049",
+    "original": "たかいレベル",
+    "translation": "たかいレベル",
+    "index": 49
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "HGSS_0277_0000",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0277_0001",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0277_0002",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 2
+  }
+]

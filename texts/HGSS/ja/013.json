@@ -1,0 +1,2000 @@
+[
+  {
+    "key": "HGSS_0013_0000",
+    "original": "バトルビデオ",
+    "translation": "バトルビデオ",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0013_0001",
+    "original": "フロンティアのきろく",
+    "translation": "フロンティアのきろく",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0013_0002",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0013_0003",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0013_0004",
+    "original": "じぶんのきろく",
+    "translation": "じぶんのきろく",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0013_0005",
+    "original": "だれかのきろく",
+    "translation": "だれかのきろく",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0013_0006",
+    "original": "きろくをけす",
+    "translation": "きろくをけす",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0013_0007",
+    "original": "[0103,0000] のきろく",
+    "translation": "[0103,0000] のきろく",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0013_0008",
+    "original": "あき",
+    "translation": "あき",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0013_0009",
+    "original": "[0135,0000]",
+    "translation": "[0135,0000]",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0013_0010",
+    "original": "せんめ",
+    "translation": "せんめ",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0013_0011",
+    "original": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]",
+    "translation": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0013_0012",
+    "original": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002] ☆",
+    "translation": "ビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002] ☆",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0013_0013",
+    "original": "[0103,0000] の プロフィール",
+    "translation": "[0103,0000] の プロフィール",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0013_0014",
+    "original": "ねんれい",
+    "translation": "ねんれい",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0013_0015",
+    "original": "[0133,0000]がつうまれ",
+    "translation": "[0133,0000]がつうまれ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0013_0016",
+    "original": "すんでいるばしょ",
+    "translation": "すんでいるばしょ",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0013_0017",
+    "original": "じこしょうかい",
+    "translation": "じこしょうかい",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0013_0018",
+    "original": "データ",
+    "translation": "データ",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0013_0019",
+    "original": "プロフィール",
+    "translation": "プロフィール",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0013_0020",
+    "original": " ",
+    "translation": " ",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0013_0021",
+    "original": "みとうろく",
+    "translation": "みとうろく",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0013_0022",
+    "original": "[0124,0000]",
+    "translation": "[0124,0000]",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0013_0023",
+    "original": "[0125,0000]",
+    "translation": "[0125,0000]",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0013_0024",
+    "original": "[011C,0000] [011C,0001]",
+    "translation": "[011C,0000] [011C,0001]",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0013_0025",
+    "original": "バトルファクトリー\nオープンマルチ",
+    "translation": "バトルファクトリー\nオープンマルチ",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0013_0026",
+    "original": "ボックス\nをみる",
+    "translation": "ボックス\nをみる",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0013_0027",
+    "original": "さいしん２０",
+    "translation": "さいしん２０",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0013_0028",
+    "original": "[0103,0000] の だいすきボックス",
+    "translation": "[0103,0000] の だいすきボックス",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0013_0029",
+    "original": "[0103,0000] の かっこいいボックス",
+    "translation": "[0103,0000] の かっこいいボックス",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0013_0030",
+    "original": "[0103,0000] の かわいいボックス",
+    "translation": "[0103,0000] の かわいいボックス",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0013_0031",
+    "original": "[0103,0000] の おすすめボックス",
+    "translation": "[0103,0000] の おすすめボックス",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0013_0032",
+    "original": "[0103,0000] の おもしろいボックス",
+    "translation": "[0103,0000] の おもしろいボックス",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0013_0033",
+    "original": "[0103,0000] の こだわりボックス",
+    "translation": "[0103,0000] の こだわりボックス",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0013_0034",
+    "original": "つぎの\nポケモン",
+    "translation": "つぎの\nポケモン",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0013_0035",
+    "original": "バトルステージ\nマルチ",
+    "translation": "バトルステージ\nマルチ",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0013_0036",
+    "original": "バトルキャッスル\nマルチ",
+    "translation": "バトルキャッスル\nマルチ",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0013_0037",
+    "original": "バトルルーレット\nマルチ",
+    "translation": "バトルルーレット\nマルチ",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0013_0038",
+    "original": "つうしんたいせん\nマルチ",
+    "translation": "つうしんたいせん\nマルチ",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0013_0039",
+    "original": "じぶんのきろくをけす",
+    "translation": "じぶんのきろくをけす",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0013_0040",
+    "original": "だれかのきろくをけす",
+    "translation": "だれかのきろくをけす",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0013_0041",
+    "original": "あき",
+    "translation": "あき",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0013_0042",
+    "original": "[0103,0000] のきろくをけす",
+    "translation": "[0103,0000] のきろくをけす",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0013_0043",
+    "original": "データをみる",
+    "translation": "データをみる",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0013_0044",
+    "original": "データをおくる",
+    "translation": "データをおくる",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0013_0045",
+    "original": "さいしん３０こ",
+    "translation": "さいしん３０こ",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0013_0046",
+    "original": "くわしくさがす",
+    "translation": "くわしくさがす",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0013_0047",
+    "original": "ビデオナンバーでさがす",
+    "translation": "ビデオナンバーでさがす",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0013_0048",
+    "original": "しせつでさがす",
+    "translation": "しせつでさがす",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0013_0049",
+    "original": "ポケモンでさがす",
+    "translation": "ポケモンでさがす",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0013_0050",
+    "original": "おなじちいきでさがす",
+    "translation": "おなじちいきでさがす",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0013_0051",
+    "original": "しゃしんをおくる",
+    "translation": "しゃしんをおくる",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0013_0052",
+    "original": "しゃしんをみる",
+    "translation": "しゃしんをみる",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0013_0053",
+    "original": "おくる",
+    "translation": "おくる",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0013_0054",
+    "original": "みたいポケモンを えらんでください",
+    "translation": "みたいポケモンを えらんでください",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0013_0055",
+    "original": "[0103,0000] の しゃしん\n[011C,0001]",
+    "translation": "[0103,0000] の しゃしん\n[011C,0001]",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0013_0056",
+    "original": "[0103,0000]\n[011C,0001]",
+    "translation": "[0103,0000]\n[011C,0001]",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0013_0057",
+    "original": "しゃしん",
+    "translation": "しゃしん",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0013_0058",
+    "original": "ボックスをおくる",
+    "translation": "ボックスをおくる",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0013_0059",
+    "original": "ボックスをみる",
+    "translation": "ボックスをみる",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0013_0060",
+    "original": "だいすき",
+    "translation": "だいすき",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0013_0061",
+    "original": "かっこいい",
+    "translation": "かっこいい",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0013_0062",
+    "original": "かわいい",
+    "translation": "かわいい",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0013_0063",
+    "original": "おすすめ",
+    "translation": "おすすめ",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0013_0064",
+    "original": "おもしろい",
+    "translation": "おもしろい",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0013_0065",
+    "original": "こだわり",
+    "translation": "こだわり",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0013_0066",
+    "original": "ボックス",
+    "translation": "ボックス",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0013_0067",
+    "original": "くわしくみる",
+    "translation": "くわしくみる",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0013_0068",
+    "original": "ア",
+    "translation": "ア",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0013_0069",
+    "original": "カ",
+    "translation": "カ",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0013_0070",
+    "original": "サ",
+    "translation": "サ",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0013_0071",
+    "original": "タ",
+    "translation": "タ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0013_0072",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0013_0073",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0013_0074",
+    "original": "マ",
+    "translation": "マ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0013_0075",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0013_0076",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0013_0077",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0013_0078",
+    "original": "こんしゅうのランキング",
+    "translation": "こんしゅうのランキング",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0013_0079",
+    "original": "せんしゅうのランキング",
+    "translation": "せんしゅうのランキング",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0013_0080",
+    "original": "ランキングきりかえ",
+    "translation": "ランキングきりかえ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0013_0081",
+    "original": "チームきりかえ",
+    "translation": "チームきりかえ",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0013_0082",
+    "original": "チーム：トレーナータイプ",
+    "translation": "チーム：トレーナータイプ",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0013_0083",
+    "original": "チーム：うまれたつき",
+    "translation": "チーム：うまれたつき",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0013_0084",
+    "original": "チーム：すきなポケモン",
+    "translation": "チーム：すきなポケモン",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0013_0085",
+    "original": "[0103,0001]：[010E,0000]",
+    "translation": "[0103,0001]：[010E,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0013_0086",
+    "original": "[0103,0001]：[0133,0000]がつうまれ",
+    "translation": "[0103,0001]：[0133,0000]がつうまれ",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0013_0087",
+    "original": "[0103,0001]：[0100,0000]",
+    "translation": "[0103,0001]：[0100,0000]",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0013_0088",
+    "original": "[0133,0000]：[010E,0001]",
+    "translation": "[0133,0000]：[010E,0001]",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0013_0089",
+    "original": "[0133,0000]：[0133,0001]がつ",
+    "translation": "[0133,0000]：[0133,0001]がつ",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0013_0090",
+    "original": "[0133,0000]：[0100,0001]",
+    "translation": "[0133,0000]：[0100,0001]",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0013_0091",
+    "original": "せんしゅうの けっか！",
+    "translation": "せんしゅうの けっか！",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0013_0092",
+    "original": "コロシアム",
+    "translation": "コロシアム",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0013_0093",
+    "original": "バトルフロンティア",
+    "translation": "バトルフロンティア",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0013_0094",
+    "original": "ほぞん",
+    "translation": "ほぞん",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0013_0095",
+    "original": "バトルビデオを\nみる",
+    "translation": "バトルビデオを\nみる",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0013_0096",
+    "original": "バトルビデオ",
+    "translation": "バトルビデオ",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0013_0097",
+    "original": "バトルビデオ にんきランキング\nコロシアム",
+    "translation": "バトルビデオ にんきランキング\nコロシアム",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0013_0098",
+    "original": "バトルビデオ にんきランキング\nバトルフロンティア",
+    "translation": "バトルビデオ にんきランキング\nバトルフロンティア",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0013_0099",
+    "original": "：",
+    "translation": "：",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0013_0100",
+    "original": "[0103,0000]の きろくを\nどこに ほぞんしますか？",
+    "translation": "[0103,0000]の きろくを\nどこに ほぞんしますか？",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0013_0101",
+    "original": "うわがきほぞん",
+    "translation": "うわがきほぞん",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0013_0102",
+    "original": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "translation": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0013_0103",
+    "original": "バトルビデオをみる",
+    "translation": "バトルビデオをみる",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0013_0104",
+    "original": "バトルビデオをおくる",
+    "translation": "バトルビデオをおくる",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0013_0105",
+    "original": "さいしん３０けん",
+    "translation": "さいしん３０けん",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0013_0106",
+    "original": "くわしくさがす",
+    "translation": "くわしくさがす",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0013_0107",
+    "original": "ビデオナンバーでさがす",
+    "translation": "ビデオナンバーでさがす",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0013_0108",
+    "original": "しせつでさがす",
+    "translation": "しせつでさがす",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0013_0109",
+    "original": "ポケモンでさがす",
+    "translation": "ポケモンでさがす",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0013_0110",
+    "original": "おなじちいきでさがす",
+    "translation": "おなじちいきでさがす",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0013_0111",
+    "original": "ＯＫ！",
+    "translation": "ＯＫ！",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0013_0112",
+    "original": "ビデオナンバーを にゅうりょくしてください",
+    "translation": "ビデオナンバーを にゅうりょくしてください",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0013_0113",
+    "original": "しせつを きめてください",
+    "translation": "しせつを きめてください",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0013_0114",
+    "original": "ポケモンを きめてください",
+    "translation": "ポケモンを きめてください",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0013_0115",
+    "original": "じょうけんを いれてください",
+    "translation": "じょうけんを いれてください",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0013_0116",
+    "original": "じょうけんが はいっていません！",
+    "translation": "じょうけんが はいっていません！",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0013_0117",
+    "original": "バトルビデオを さがしています⋯⋯",
+    "translation": "バトルビデオを さがしています⋯⋯",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0013_0118",
+    "original": "あてはまる バトルビデオが ありません⋯⋯",
+    "translation": "あてはまる バトルビデオが ありません⋯⋯",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0013_0119",
+    "original": "バトルビデオを おくっています⋯⋯",
+    "translation": "バトルビデオを おくっています⋯⋯",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0013_0120",
+    "original": "バトルビデオを おくりました！",
+    "translation": "バトルビデオを おくりました！",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0013_0121",
+    "original": "プロフィールをみる",
+    "translation": "プロフィールをみる",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0013_0122",
+    "original": "プロフィールをしまう",
+    "translation": "プロフィールをしまう",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0013_0123",
+    "original": "バトルビデオ さいしん３０けん",
+    "translation": "バトルビデオ さいしん３０けん",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0013_0124",
+    "original": "じょうけんを いれてください",
+    "translation": "じょうけんを いれてください",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0013_0125",
+    "original": "なし",
+    "translation": "なし",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0013_0126",
+    "original": "けんさくした バトルビデオ\nいちらん",
+    "translation": "けんさくした バトルビデオ\nいちらん",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0013_0127",
+    "original": "おなじ バトルビデオは\n２かい おくれません",
+    "translation": "おなじ バトルビデオは\n２かい おくれません",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0013_0128",
+    "original": "ちいきを とうろくしていません",
+    "translation": "ちいきを とうろくしていません",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0013_0129",
+    "original": "おくる バトルビデオが ありません",
+    "translation": "おくる バトルビデオが ありません",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0013_0130",
+    "original": "はい",
+    "translation": "はい",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0013_0131",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0013_0132",
+    "original": "コロシアム\nシングル せいげんなし",
+    "translation": "コロシアム\nシングル せいげんなし",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0013_0133",
+    "original": "コロシアム\nシングル スタンダードカップ",
+    "translation": "コロシアム\nシングル スタンダードカップ",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0013_0134",
+    "original": "コロシアム\nシングル ファンシーカップ",
+    "translation": "コロシアム\nシングル ファンシーカップ",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0013_0135",
+    "original": "コロシアム\nシングル リトルカップ",
+    "translation": "コロシアム\nシングル リトルカップ",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0013_0136",
+    "original": "コロシアム\nシングル ライトカップ",
+    "translation": "コロシアム\nシングル ライトカップ",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0013_0137",
+    "original": "コロシアム\nシングル ダブルカップ",
+    "translation": "コロシアム\nシングル ダブルカップ",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0013_0138",
+    "original": "コロシアム\nシングル そのたのカップ",
+    "translation": "コロシアム\nシングル そのたのカップ",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0013_0139",
+    "original": "コロシアム\nダブル せいげんなし",
+    "translation": "コロシアム\nダブル せいげんなし",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0013_0140",
+    "original": "コロシアム\nダブル スタンダードカップ",
+    "translation": "コロシアム\nダブル スタンダードカップ",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0013_0141",
+    "original": "コロシアム\nダブル ファンシーカップ",
+    "translation": "コロシアム\nダブル ファンシーカップ",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0013_0142",
+    "original": "コロシアム\nダブル リトルカップ",
+    "translation": "コロシアム\nダブル リトルカップ",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0013_0143",
+    "original": "コロシアム\nダブル ライトカップ",
+    "translation": "コロシアム\nダブル ライトカップ",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0013_0144",
+    "original": "コロシアム\nダブル ダブルカップ",
+    "translation": "コロシアム\nダブル ダブルカップ",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0013_0145",
+    "original": "コロシアム\nダブル そのたのカップ",
+    "translation": "コロシアム\nダブル そのたのカップ",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0013_0146",
+    "original": "コロシアム\nマルチ",
+    "translation": "コロシアム\nマルチ",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0013_0147",
+    "original": "バトルタワー\nシングル",
+    "translation": "バトルタワー\nシングル",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0013_0148",
+    "original": "バトルタワー\nダブル",
+    "translation": "バトルタワー\nダブル",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0013_0149",
+    "original": "バトルタワー\nマルチ",
+    "translation": "バトルタワー\nマルチ",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0013_0150",
+    "original": "バトルファクトリー\nレベル５０ シングル",
+    "translation": "バトルファクトリー\nレベル５０ シングル",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0013_0151",
+    "original": "バトルファクトリー\nレベル５０ ダブル",
+    "translation": "バトルファクトリー\nレベル５０ ダブル",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0013_0152",
+    "original": "バトルファクトリー\nレベル５０ マルチ",
+    "translation": "バトルファクトリー\nレベル５０ マルチ",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0013_0153",
+    "original": "バトルファクトリー\nオープンレベル シングル",
+    "translation": "バトルファクトリー\nオープンレベル シングル",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0013_0154",
+    "original": "バトルファクトリー\nオープンレベル ダブル",
+    "translation": "バトルファクトリー\nオープンレベル ダブル",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0013_0155",
+    "original": "バトルファクトリー\nオープンレベル マルチ",
+    "translation": "バトルファクトリー\nオープンレベル マルチ",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0013_0156",
+    "original": "バトルステージ\nシングル",
+    "translation": "バトルステージ\nシングル",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0013_0157",
+    "original": "バトルステージ\nダブル",
+    "translation": "バトルステージ\nダブル",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0013_0158",
+    "original": "バトルステージ\nマルチ",
+    "translation": "バトルステージ\nマルチ",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0013_0159",
+    "original": "バトルキャッスル\nシングル",
+    "translation": "バトルキャッスル\nシングル",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0013_0160",
+    "original": "バトルキャッスル\nダブル",
+    "translation": "バトルキャッスル\nダブル",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0013_0161",
+    "original": "バトルキャッスル\nマルチ",
+    "translation": "バトルキャッスル\nマルチ",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0013_0162",
+    "original": "バトルルーレット\nシングル",
+    "translation": "バトルルーレット\nシングル",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0013_0163",
+    "original": "バトルルーレット\nダブル",
+    "translation": "バトルルーレット\nダブル",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0013_0164",
+    "original": "バトルルーレット\nマルチ",
+    "translation": "バトルルーレット\nマルチ",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0013_0165",
+    "original": "コロシアム\nシングル せいげんなし",
+    "translation": "コロシアム\nシングル せいげんなし",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0013_0166",
+    "original": "コロシアム\nシングル カップせん",
+    "translation": "コロシアム\nシングル カップせん",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0013_0167",
+    "original": "コロシアム\nダブル せいげんなし",
+    "translation": "コロシアム\nダブル せいげんなし",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0013_0168",
+    "original": "コロシアム\nダブル カップせん",
+    "translation": "コロシアム\nダブル カップせん",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0013_0169",
+    "original": " １：コロシアム\n   シングル せいげんなし",
+    "translation": " １：コロシアム\n   シングル せいげんなし",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0013_0170",
+    "original": " ２：コロシアム\n   シングル カップせん",
+    "translation": " ２：コロシアム\n   シングル カップせん",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0013_0171",
+    "original": " ３：コロシアム\n   ダブル せいげんなし",
+    "translation": " ３：コロシアム\n   ダブル せいげんなし",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0013_0172",
+    "original": " ４：コロシアム\n   ダブル カップせん",
+    "translation": " ４：コロシアム\n   ダブル カップせん",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0013_0173",
+    "original": " ５：コロシアム\n   マルチ",
+    "translation": " ５：コロシアム\n   マルチ",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0013_0174",
+    "original": " ６：バトルタワー\n   シングル",
+    "translation": " ６：バトルタワー\n   シングル",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0013_0175",
+    "original": " ７：バトルタワー\n   ダブル",
+    "translation": " ７：バトルタワー\n   ダブル",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0013_0176",
+    "original": " ８：バトルタワー\n   マルチ",
+    "translation": " ８：バトルタワー\n   マルチ",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0013_0177",
+    "original": " ９：バトルファクトリー\n   レベル５０ シングル",
+    "translation": " ９：バトルファクトリー\n   レベル５０ シングル",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0013_0178",
+    "original": "１０：バトルファクトリー\n   レベル５０ ダブル",
+    "translation": "１０：バトルファクトリー\n   レベル５０ ダブル",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0013_0179",
+    "original": "１１：バトルファクトリー\n   レベル５０ マルチ",
+    "translation": "１１：バトルファクトリー\n   レベル５０ マルチ",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0013_0180",
+    "original": "１２：バトルファクトリー\n   オープンレベル シングル",
+    "translation": "１２：バトルファクトリー\n   オープンレベル シングル",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0013_0181",
+    "original": "１３：バトルファクトリー\n   オープンレベル ダブル",
+    "translation": "１３：バトルファクトリー\n   オープンレベル ダブル",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0013_0182",
+    "original": "１４：バトルファクトリー\n   オープンレベル マルチ",
+    "translation": "１４：バトルファクトリー\n   オープンレベル マルチ",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0013_0183",
+    "original": "１５：バトルステージ\n   シングル",
+    "translation": "１５：バトルステージ\n   シングル",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0013_0184",
+    "original": "１６：バトルステージ\n   ダブル",
+    "translation": "１６：バトルステージ\n   ダブル",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0013_0185",
+    "original": "１７：バトルステージ\n   マルチ",
+    "translation": "１７：バトルステージ\n   マルチ",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0013_0186",
+    "original": "１８：バトルキャッスル\n   シングル",
+    "translation": "１８：バトルキャッスル\n   シングル",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0013_0187",
+    "original": "１９：バトルキャッスル\n   ダブル",
+    "translation": "１９：バトルキャッスル\n   ダブル",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0013_0188",
+    "original": "２０：バトルキャッスル\n   マルチ",
+    "translation": "２０：バトルキャッスル\n   マルチ",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0013_0189",
+    "original": "２１：バトルルーレット\n   シングル",
+    "translation": "２１：バトルルーレット\n   シングル",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0013_0190",
+    "original": "２２：バトルルーレット\n   ダブル",
+    "translation": "２２：バトルルーレット\n   ダブル",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0013_0191",
+    "original": "２３：バトルルーレット\n   マルチ",
+    "translation": "２３：バトルルーレット\n   マルチ",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0013_0192",
+    "original": "ＴＯＵＣＨ ＨＥＲＥ！",
+    "translation": "ＴＯＵＣＨ ＨＥＲＥ！",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0013_0193",
+    "original": "ＷｉーＦｉコネクション から\nせつだんしても よろしいですか？",
+    "translation": "ＷｉーＦｉコネクション から\nせつだんしても よろしいですか？",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0013_0194",
+    "original": " ",
+    "translation": " ",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0013_0195",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0013_0196",
+    "original": "すでに とうろくされています",
+    "translation": "すでに とうろくされています",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0013_0197",
+    "original": "ドレスアップショットの ないように\nもんだいが あるようです",
+    "translation": "ドレスアップショットの ないように\nもんだいが あるようです",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0013_0198",
+    "original": "プロフィールの ないように\nもんだいが あるようです",
+    "translation": "プロフィールの ないように\nもんだいが あるようです",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0013_0199",
+    "original": "エラーがはっせいしました",
+    "translation": "エラーがはっせいしました",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0013_0200",
+    "original": " ",
+    "translation": " ",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0013_0201",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0013_0202",
+    "original": "えらんだ ポケモンに\nもんだいが あるようです",
+    "translation": "えらんだ ポケモンに\nもんだいが あるようです",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0013_0203",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0013_0204",
+    "original": " ",
+    "translation": " ",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0013_0205",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0013_0206",
+    "original": "すでに とうろくされています",
+    "translation": "すでに とうろくされています",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0013_0207",
+    "original": "ボックスショットの ないように\nもんだいが あるようです",
+    "translation": "ボックスショットの ないように\nもんだいが あるようです",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0013_0208",
+    "original": "プロフィールの ないように\nもんだいが あるようです",
+    "translation": "プロフィールの ないように\nもんだいが あるようです",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0013_0209",
+    "original": "あなたの チームに\nもんだいが あるようです",
+    "translation": "あなたの チームに\nもんだいが あるようです",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0013_0210",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0013_0211",
+    "original": " ",
+    "translation": " ",
+    "index": 211
+  },
+  {
+    "key": "HGSS_0013_0212",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 212
+  },
+  {
+    "key": "HGSS_0013_0213",
+    "original": "あなたの チームに\nもんだいが あるようです",
+    "translation": "あなたの チームに\nもんだいが あるようです",
+    "index": 213
+  },
+  {
+    "key": "HGSS_0013_0214",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 214
+  },
+  {
+    "key": "HGSS_0013_0215",
+    "original": " ",
+    "translation": " ",
+    "index": 215
+  },
+  {
+    "key": "HGSS_0013_0216",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 216
+  },
+  {
+    "key": "HGSS_0013_0217",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 217
+  },
+  {
+    "key": "HGSS_0013_0218",
+    "original": " ",
+    "translation": " ",
+    "index": 218
+  },
+  {
+    "key": "HGSS_0013_0219",
+    "original": "ユーザーにんしょうエラーが はっせいしました\nさいどじかんを おいて せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーが はっせいしました\nさいどじかんを おいて せつぞくしてください",
+    "index": 219
+  },
+  {
+    "key": "HGSS_0013_0220",
+    "original": "ランキングの うけとりに\nしっぱいしました",
+    "translation": "ランキングの うけとりに\nしっぱいしました",
+    "index": 220
+  },
+  {
+    "key": "HGSS_0013_0221",
+    "original": "あなたの ランキングの せいせきに\nもんだいが あるようです",
+    "translation": "あなたの ランキングの せいせきに\nもんだいが あるようです",
+    "index": 221
+  },
+  {
+    "key": "HGSS_0013_0222",
+    "original": "プロフィールに\nもんだいが あるようです",
+    "translation": "プロフィールに\nもんだいが あるようです",
+    "index": 222
+  },
+  {
+    "key": "HGSS_0013_0223",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 223
+  },
+  {
+    "key": "HGSS_0013_0224",
+    "original": " ",
+    "translation": " ",
+    "index": 224
+  },
+  {
+    "key": "HGSS_0013_0225",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 225
+  },
+  {
+    "key": "HGSS_0013_0226",
+    "original": "すでに とうろくされています",
+    "translation": "すでに とうろくされています",
+    "index": 226
+  },
+  {
+    "key": "HGSS_0013_0227",
+    "original": "バトルビデオの ないように\nもんだいが あるようです",
+    "translation": "バトルビデオの ないように\nもんだいが あるようです",
+    "index": 227
+  },
+  {
+    "key": "HGSS_0013_0228",
+    "original": "プロフィールに\nもんだいが あるようです",
+    "translation": "プロフィールに\nもんだいが あるようです",
+    "index": 228
+  },
+  {
+    "key": "HGSS_0013_0229",
+    "original": "エラーがはっせいしました",
+    "translation": "エラーがはっせいしました",
+    "index": 229
+  },
+  {
+    "key": "HGSS_0013_0230",
+    "original": "あなたの ポケモンに\nもんだいがあり おくれませんでした",
+    "translation": "あなたの ポケモンに\nもんだいがあり おくれませんでした",
+    "index": 230
+  },
+  {
+    "key": "HGSS_0013_0231",
+    "original": "つうしんあいての ポケモンに\nもんだいがあり おくれませんでした",
+    "translation": "つうしんあいての ポケモンに\nもんだいがあり おくれませんでした",
+    "index": 231
+  },
+  {
+    "key": "HGSS_0013_0232",
+    "original": " ",
+    "translation": " ",
+    "index": 232
+  },
+  {
+    "key": "HGSS_0013_0233",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 233
+  },
+  {
+    "key": "HGSS_0013_0234",
+    "original": "けんさく ないように\nもんだいが あるようです",
+    "translation": "けんさく ないように\nもんだいが あるようです",
+    "index": 234
+  },
+  {
+    "key": "HGSS_0013_0235",
+    "original": "エラーがはっせいしました",
+    "translation": "エラーがはっせいしました",
+    "index": 235
+  },
+  {
+    "key": "HGSS_0013_0236",
+    "original": " ",
+    "translation": " ",
+    "index": 236
+  },
+  {
+    "key": "HGSS_0013_0237",
+    "original": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "translation": "ユーザーにんしょうエラーです\nすこし まってから せつぞくしてください",
+    "index": 237
+  },
+  {
+    "key": "HGSS_0013_0238",
+    "original": "あてはまる バトルビデオが ありません⋯⋯",
+    "translation": "あてはまる バトルビデオが ありません⋯⋯",
+    "index": 238
+  },
+  {
+    "key": "HGSS_0013_0239",
+    "original": "エラーが はっせいしました",
+    "translation": "エラーが はっせいしました",
+    "index": 239
+  },
+  {
+    "key": "HGSS_0013_0240",
+    "original": " ",
+    "translation": " ",
+    "index": 240
+  },
+  {
+    "key": "HGSS_0013_0241",
+    "original": " ",
+    "translation": " ",
+    "index": 241
+  },
+  {
+    "key": "HGSS_0013_0242",
+    "original": " ",
+    "translation": " ",
+    "index": 242
+  },
+  {
+    "key": "HGSS_0013_0243",
+    "original": " ",
+    "translation": " ",
+    "index": 243
+  },
+  {
+    "key": "HGSS_0013_0244",
+    "original": " ",
+    "translation": " ",
+    "index": 244
+  },
+  {
+    "key": "HGSS_0013_0245",
+    "original": "エラーが はっせいしました\nエラー１０６０１",
+    "translation": "エラーが はっせいしました\nエラー１０６０１",
+    "index": 245
+  },
+  {
+    "key": "HGSS_0013_0246",
+    "original": "エラーが はっせいしました\nエラー１０６０２",
+    "translation": "エラーが はっせいしました\nエラー１０６０２",
+    "index": 246
+  },
+  {
+    "key": "HGSS_0013_0247",
+    "original": "エラーが はっせいしました\nエラー１０６０３",
+    "translation": "エラーが はっせいしました\nエラー１０６０３",
+    "index": 247
+  },
+  {
+    "key": "HGSS_0013_0248",
+    "original": "エラーが はっせいしました\nエラー１０６０４",
+    "translation": "エラーが はっせいしました\nエラー１０６０４",
+    "index": 248
+  },
+  {
+    "key": "HGSS_0013_0249",
+    "original": "せつぞくに しっぱいしました\nエラー１０６０５",
+    "translation": "せつぞくに しっぱいしました\nエラー１０６０５",
+    "index": 249
+  },
+  {
+    "key": "HGSS_0013_0250",
+    "original": "エラーが はっせいしました\nエラー１０６０６",
+    "translation": "エラーが はっせいしました\nエラー１０６０６",
+    "index": 250
+  },
+  {
+    "key": "HGSS_0013_0251",
+    "original": "せつぞくに しっぱいしました\nエラー１０６０７",
+    "translation": "せつぞくに しっぱいしました\nエラー１０６０７",
+    "index": 251
+  },
+  {
+    "key": "HGSS_0013_0252",
+    "original": "エラーが はっせいしました\nエラー１０６０８",
+    "translation": "エラーが はっせいしました\nエラー１０６０８",
+    "index": 252
+  },
+  {
+    "key": "HGSS_0013_0253",
+    "original": "エラーが はっせいしました\nエラー１０６０９",
+    "translation": "エラーが はっせいしました\nエラー１０６０９",
+    "index": 253
+  },
+  {
+    "key": "HGSS_0013_0254",
+    "original": "おうとうが ありません\nエラー１０６１０",
+    "translation": "おうとうが ありません\nエラー１０６１０",
+    "index": 254
+  },
+  {
+    "key": "HGSS_0013_0255",
+    "original": "おうとうが ありません\nエラー１０６１１",
+    "translation": "おうとうが ありません\nエラー１０６１１",
+    "index": 255
+  },
+  {
+    "key": "HGSS_0013_0256",
+    "original": "おうとうが ありません\nエラー１０６１２",
+    "translation": "おうとうが ありません\nエラー１０６１２",
+    "index": 256
+  },
+  {
+    "key": "HGSS_0013_0257",
+    "original": "つうしんが ちゅうだんされました\nエラー１０６１３",
+    "translation": "つうしんが ちゅうだんされました\nエラー１０６１３",
+    "index": 257
+  },
+  {
+    "key": "HGSS_0013_0258",
+    "original": "せつぞくに しっぱいしました\nエラー１０６１４",
+    "translation": "せつぞくに しっぱいしました\nエラー１０６１４",
+    "index": 258
+  },
+  {
+    "key": "HGSS_0013_0259",
+    "original": " ",
+    "translation": " ",
+    "index": 259
+  },
+  {
+    "key": "HGSS_0013_0260",
+    "original": " ",
+    "translation": " ",
+    "index": 260
+  },
+  {
+    "key": "HGSS_0013_0261",
+    "original": " ",
+    "translation": " ",
+    "index": 261
+  },
+  {
+    "key": "HGSS_0013_0262",
+    "original": " ",
+    "translation": " ",
+    "index": 262
+  },
+  {
+    "key": "HGSS_0013_0263",
+    "original": " ",
+    "translation": " ",
+    "index": 263
+  },
+  {
+    "key": "HGSS_0013_0264",
+    "original": " ",
+    "translation": " ",
+    "index": 264
+  },
+  {
+    "key": "HGSS_0013_0265",
+    "original": " ",
+    "translation": " ",
+    "index": 265
+  },
+  {
+    "key": "HGSS_0013_0266",
+    "original": "サーバーとの せつぞくが ちゅうだん しました",
+    "translation": "サーバーとの せつぞくが ちゅうだん しました",
+    "index": 266
+  },
+  {
+    "key": "HGSS_0013_0267",
+    "original": " ",
+    "translation": " ",
+    "index": 267
+  },
+  {
+    "key": "HGSS_0013_0268",
+    "original": " ",
+    "translation": " ",
+    "index": 268
+  },
+  {
+    "key": "HGSS_0013_0269",
+    "original": "きろくがありません",
+    "translation": "きろくがありません",
+    "index": 269
+  },
+  {
+    "key": "HGSS_0013_0270",
+    "original": "ボックスを えらんでください",
+    "translation": "ボックスを えらんでください",
+    "index": 270
+  },
+  {
+    "key": "HGSS_0013_0271",
+    "original": "からの ボックスは おくれません！",
+    "translation": "からの ボックスは おくれません！",
+    "index": 271
+  },
+  {
+    "key": "HGSS_0013_0272",
+    "original": "どの コーナーに おくりますか？",
+    "translation": "どの コーナーに おくりますか？",
+    "index": 272
+  },
+  {
+    "key": "HGSS_0013_0273",
+    "original": "ボックスは いちどに\nひとつ しか おくれません",
+    "translation": "ボックスは いちどに\nひとつ しか おくれません",
+    "index": 273
+  },
+  {
+    "key": "HGSS_0013_0274",
+    "original": "おなじ ボックスは おくれません",
+    "translation": "おなじ ボックスは おくれません",
+    "index": 274
+  },
+  {
+    "key": "HGSS_0013_0275",
+    "original": "どの コーナーを みますか？",
+    "translation": "どの コーナーを みますか？",
+    "index": 275
+  },
+  {
+    "key": "HGSS_0013_0276",
+    "original": "きろくをけせませんでした⋯",
+    "translation": "きろくをけせませんでした⋯",
+    "index": 276
+  },
+  {
+    "key": "HGSS_0013_0277",
+    "original": "おなじバトルビデオは ほぞんできません",
+    "translation": "おなじバトルビデオは ほぞんできません",
+    "index": 277
+  },
+  {
+    "key": "HGSS_0013_0278",
+    "original": "ほぞんしています⋯⋯",
+    "translation": "ほぞんしています⋯⋯",
+    "index": 278
+  },
+  {
+    "key": "HGSS_0013_0279",
+    "original": "ランキングを うけとっています⋯⋯",
+    "translation": "ランキングを うけとっています⋯⋯",
+    "index": 279
+  },
+  {
+    "key": "HGSS_0013_0280",
+    "original": "ほぞんじょうほうを おくっています⋯⋯",
+    "translation": "ほぞんじょうほうを おくっています⋯⋯",
+    "index": 280
+  },
+  {
+    "key": "HGSS_0013_0281",
+    "original": "ほぞんが おわりました！",
+    "translation": "ほぞんが おわりました！",
+    "index": 281
+  },
+  {
+    "key": "HGSS_0013_0282",
+    "original": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "translation": "[0103,0000]の バトルビデオを\nけしても よろしいですか？",
+    "index": 282
+  },
+  {
+    "key": "HGSS_0013_0283",
+    "original": "ほんとうに けしても いいですか？",
+    "translation": "ほんとうに けしても いいですか？",
+    "index": 283
+  },
+  {
+    "key": "HGSS_0013_0284",
+    "original": "きろくを けしています⋯⋯\nレポートを かいています⋯⋯",
+    "translation": "きろくを けしています⋯⋯\nレポートを かいています⋯⋯",
+    "index": 284
+  },
+  {
+    "key": "HGSS_0013_0285",
+    "original": "きろくを けしました！",
+    "translation": "きろくを けしました！",
+    "index": 285
+  },
+  {
+    "key": "HGSS_0013_0286",
+    "original": "ドレスアップショットを おくっています⋯⋯",
+    "translation": "ドレスアップショットを おくっています⋯⋯",
+    "index": 286
+  },
+  {
+    "key": "HGSS_0013_0287",
+    "original": "ドレスアップショットを うけとっています⋯⋯",
+    "translation": "ドレスアップショットを うけとっています⋯⋯",
+    "index": 287
+  },
+  {
+    "key": "HGSS_0013_0288",
+    "original": "ボックスショットを おくっています⋯⋯",
+    "translation": "ボックスショットを おくっています⋯⋯",
+    "index": 288
+  },
+  {
+    "key": "HGSS_0013_0289",
+    "original": "ボックスショットを うけとっています⋯⋯",
+    "translation": "ボックスショットを うけとっています⋯⋯",
+    "index": 289
+  },
+  {
+    "key": "HGSS_0013_0290",
+    "original": "おくる しゃしんが ありません\nコガネの ちかつうろで つくろう",
+    "translation": "おくる しゃしんが ありません\nコガネの ちかつうろで つくろう",
+    "index": 290
+  },
+  {
+    "key": "HGSS_0013_0291",
+    "original": "おなじ しゃしんは\n２かい おくれません",
+    "translation": "おなじ しゃしんは\n２かい おくれません",
+    "index": 291
+  },
+  {
+    "key": "HGSS_0013_0292",
+    "original": "バトルビデオを うけとっています⋯⋯",
+    "translation": "バトルビデオを うけとっています⋯⋯",
+    "index": 292
+  },
+  {
+    "key": "HGSS_0013_0293",
+    "original": "あてはまる しゃしんが ありません⋯⋯",
+    "translation": "あてはまる しゃしんが ありません⋯⋯",
+    "index": 293
+  },
+  {
+    "key": "HGSS_0013_0294",
+    "original": "あてはまる ボックスショットが\nありません⋯⋯",
+    "translation": "あてはまる ボックスショットが\nありません⋯⋯",
+    "index": 294
+  },
+  {
+    "key": "HGSS_0013_0295",
+    "original": "バトルビデオを おくりました\nビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]\n",
+    "translation": "バトルビデオを おくりました\nビデオナンバー：[0133,0000]ー[0136,0001]ー[0136,0002]\n",
+    "index": 295
+  },
+  {
+    "key": "HGSS_0013_0296",
+    "original": "バトルビデオを みる まえに\nレポートを かきます",
+    "translation": "バトルビデオを みる まえに\nレポートを かきます",
+    "index": 296
+  },
+  {
+    "key": "HGSS_0013_0297",
+    "original": "きろくを けしています⋯⋯\nレポートを たくさん かいています⋯⋯",
+    "translation": "きろくを けしています⋯⋯\nレポートを たくさん かいています⋯⋯",
+    "index": 297
+  },
+  {
+    "key": "HGSS_0013_0298",
+    "original": "レポートを たくさん かいています⋯⋯",
+    "translation": "レポートを たくさん かいています⋯⋯",
+    "index": 298
+  },
+  {
+    "key": "HGSS_0013_0299",
+    "original": "レポートを かいています⋯⋯",
+    "translation": "レポートを かいています⋯⋯",
+    "index": 299
+  },
+  {
+    "key": "HGSS_0013_0300",
+    "original": "ランキングが ありません⋯⋯",
+    "translation": "ランキングが ありません⋯⋯",
+    "index": 300
+  },
+  {
+    "key": "HGSS_0013_0301",
+    "original": "バトルビデオを おくりますか？",
+    "translation": "バトルビデオを おくりますか？",
+    "index": 301
+  },
+  {
+    "key": "HGSS_0013_0302",
+    "original": " ",
+    "translation": " ",
+    "index": 302
+  },
+  {
+    "key": "HGSS_0013_0303",
+    "original": " ",
+    "translation": " ",
+    "index": 303
+  },
+  {
+    "key": "HGSS_0013_0304",
+    "original": " ",
+    "translation": " ",
+    "index": 304
+  },
+  {
+    "key": "HGSS_0013_0305",
+    "original": " ",
+    "translation": " ",
+    "index": 305
+  },
+  {
+    "key": "HGSS_0013_0306",
+    "original": "",
+    "translation": "",
+    "index": 306
+  },
+  {
+    "key": "HGSS_0013_0307",
+    "original": " ",
+    "translation": " ",
+    "index": 307
+  },
+  {
+    "key": "HGSS_0013_0308",
+    "original": " ",
+    "translation": " ",
+    "index": 308
+  },
+  {
+    "key": "HGSS_0013_0309",
+    "original": " ",
+    "translation": " ",
+    "index": 309
+  },
+  {
+    "key": "HGSS_0013_0310",
+    "original": "だいすきボックス さいしん２０けん",
+    "translation": "だいすきボックス さいしん２０けん",
+    "index": 310
+  },
+  {
+    "key": "HGSS_0013_0311",
+    "original": "かっこいいボックス さいしん２０けん",
+    "translation": "かっこいいボックス さいしん２０けん",
+    "index": 311
+  },
+  {
+    "key": "HGSS_0013_0312",
+    "original": "かわいいボックス さいしん２０けん",
+    "translation": "かわいいボックス さいしん２０けん",
+    "index": 312
+  },
+  {
+    "key": "HGSS_0013_0313",
+    "original": "おすすめボックス さいしん２０けん",
+    "translation": "おすすめボックス さいしん２０けん",
+    "index": 313
+  },
+  {
+    "key": "HGSS_0013_0314",
+    "original": "おもしろいボックス さいしん２０けん",
+    "translation": "おもしろいボックス さいしん２０けん",
+    "index": 314
+  },
+  {
+    "key": "HGSS_0013_0315",
+    "original": "こだわりボックス さいしん２０けん",
+    "translation": "こだわりボックス さいしん２０けん",
+    "index": 315
+  },
+  {
+    "key": "HGSS_0013_0316",
+    "original": "じゅくがえり おとこ",
+    "translation": "じゅくがえり おとこ",
+    "index": 316
+  },
+  {
+    "key": "HGSS_0013_0317",
+    "original": "むしとりしょうねん",
+    "translation": "むしとりしょうねん",
+    "index": 317
+  },
+  {
+    "key": "HGSS_0013_0318",
+    "original": "エリートトレーナー おとこ",
+    "translation": "エリートトレーナー おとこ",
+    "index": 318
+  },
+  {
+    "key": "HGSS_0013_0319",
+    "original": "スキンヘッズ",
+    "translation": "スキンヘッズ",
+    "index": 319
+  },
+  {
+    "key": "HGSS_0013_0320",
+    "original": "いせきマニア",
+    "translation": "いせきマニア",
+    "index": 320
+  },
+  {
+    "key": "HGSS_0013_0321",
+    "original": "からておう",
+    "translation": "からておう",
+    "index": 321
+  },
+  {
+    "key": "HGSS_0013_0322",
+    "original": "おぼっちゃま",
+    "translation": "おぼっちゃま",
+    "index": 322
+  },
+  {
+    "key": "HGSS_0013_0323",
+    "original": "サイキッカー おとこ",
+    "translation": "サイキッカー おとこ",
+    "index": 323
+  },
+  {
+    "key": "HGSS_0013_0324",
+    "original": "ミニスカート",
+    "translation": "ミニスカート",
+    "index": 324
+  },
+  {
+    "key": "HGSS_0013_0325",
+    "original": "バトルガール",
+    "translation": "バトルガール",
+    "index": 325
+  },
+  {
+    "key": "HGSS_0013_0326",
+    "original": "おとなのおねえさん",
+    "translation": "おとなのおねえさん",
+    "index": 326
+  },
+  {
+    "key": "HGSS_0013_0327",
+    "original": "エリートトレーナー おんな",
+    "translation": "エリートトレーナー おんな",
+    "index": 327
+  },
+  {
+    "key": "HGSS_0013_0328",
+    "original": "アイドル",
+    "translation": "アイドル",
+    "index": 328
+  },
+  {
+    "key": "HGSS_0013_0329",
+    "original": "マダム",
+    "translation": "マダム",
+    "index": 329
+  },
+  {
+    "key": "HGSS_0013_0330",
+    "original": "カウガール",
+    "translation": "カウガール",
+    "index": 330
+  },
+  {
+    "key": "HGSS_0013_0331",
+    "original": "おじょうさま",
+    "translation": "おじょうさま",
+    "index": 331
+  },
+  {
+    "key": "HGSS_0013_0332",
+    "original": "きんぎん",
+    "translation": "きんぎん",
+    "index": 332
+  }
+]

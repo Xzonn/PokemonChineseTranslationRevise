@@ -1,0 +1,44 @@
+[
+  {
+    "key": "HGSS_0179_0000",
+    "original": "だい[0135,0000]かい でんどういり [0135,0001]／[0133,0002]／[0133,0003]",
+    "translation": "だい[0135,0000]かい でんどういり [0135,0001]／[0133,0002]／[0133,0003]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0179_0001",
+    "original": "Ｌｖ[0134,0000]",
+    "translation": "Ｌｖ[0134,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0179_0002",
+    "original": "おや：",
+    "translation": "おや：",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0179_0003",
+    "original": "[FF00,0003]㊚[FF00,0000]",
+    "translation": "[FF00,0003]㊚[FF00,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0179_0004",
+    "original": "[FF00,0001]㊛[FF00,0000]",
+    "translation": "[FF00,0001]㊛[FF00,0000]",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0179_0005",
+    "original": "／",
+    "translation": "／",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0179_0006",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 6
+  }
+]

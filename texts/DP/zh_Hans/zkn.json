@@ -1,0 +1,686 @@
+[
+  {
+    "key": "DP_0600_0000",
+    "original": "みつけたかず",
+    "translation": "发现数量",
+    "index": 0
+  },
+  {
+    "key": "DP_0600_0001",
+    "original": "つかまえたかず",
+    "translation": "捕获数量",
+    "index": 1
+  },
+  {
+    "key": "DP_0600_0002",
+    "original": "リストを\nもどす",
+    "translation": "原始状态",
+    "index": 2
+  },
+  {
+    "key": "DP_0600_0003",
+    "original": "リストの\nはじめへ",
+    "translation": "图鉴的开头",
+    "index": 3
+  },
+  {
+    "key": "DP_0600_0004",
+    "original": "リストの\nさいごへ",
+    "translation": "图鉴的最后",
+    "index": 4
+  },
+  {
+    "key": "DP_0600_0005",
+    "original": "ずかんを\nきりかえる",
+    "translation": "图鉴切换",
+    "index": 5
+  },
+  {
+    "key": "DP_0600_0006",
+    "original": "ポケモンを\nならべる",
+    "translation": "排列宝可梦",
+    "index": 6
+  },
+  {
+    "key": "DP_0600_0007",
+    "original": "ポケモンを\nさがす",
+    "translation": "查找宝可梦",
+    "index": 7
+  },
+  {
+    "key": "DP_0600_0008",
+    "original": "ポケモン",
+    "translation": "宝可梦",
+    "index": 8
+  },
+  {
+    "key": "DP_0600_0009",
+    "original": "たかさ",
+    "translation": "身高",
+    "index": 9
+  },
+  {
+    "key": "DP_0600_0010",
+    "original": "おもさ",
+    "translation": "体重",
+    "index": 10
+  },
+  {
+    "key": "DP_0600_0011",
+    "original": "ｍ",
+    "translation": "ｍ",
+    "index": 11
+  },
+  {
+    "key": "DP_0600_0012",
+    "original": "ｋｇ",
+    "translation": "ｋｇ",
+    "index": 12
+  },
+  {
+    "key": "DP_0600_0013",
+    "original": "オスのすがた",
+    "translation": "雄性的样子",
+    "index": 13
+  },
+  {
+    "key": "DP_0600_0014",
+    "original": "メスのすがた",
+    "translation": "雌性的样子",
+    "index": 14
+  },
+  {
+    "key": "DP_0600_0015",
+    "original": "にしのうみ",
+    "translation": "西海",
+    "index": 15
+  },
+  {
+    "key": "DP_0600_0016",
+    "original": "ひがしのうみ",
+    "translation": "东海",
+    "index": 16
+  },
+  {
+    "key": "DP_0600_0017",
+    "original": "くさきのミノ",
+    "translation": "草木蓑衣",
+    "index": 17
+  },
+  {
+    "key": "DP_0600_0018",
+    "original": "すなちのミノ",
+    "translation": "砂土蓑衣",
+    "index": 18
+  },
+  {
+    "key": "DP_0600_0019",
+    "original": "ゴミのミノ",
+    "translation": "垃圾蓑衣",
+    "index": 19
+  },
+  {
+    "key": "DP_0600_0020",
+    "original": "あるすがた",
+    "translation": "某种样子",
+    "index": 20
+  },
+  {
+    "key": "DP_0600_0021",
+    "original": " ",
+    "translation": "　",
+    "index": 21
+  },
+  {
+    "key": "DP_0600_0022",
+    "original": "えいごのずかん",
+    "translation": "英语图鉴",
+    "index": 22
+  },
+  {
+    "key": "DP_0600_0023",
+    "original": "フランスごのずかん",
+    "translation": "法语图鉴",
+    "index": 23
+  },
+  {
+    "key": "DP_0600_0024",
+    "original": "ドイツごのずかん",
+    "translation": "德语图鉴",
+    "index": 24
+  },
+  {
+    "key": "DP_0600_0025",
+    "original": "イタリアごのずかん",
+    "translation": "意大利语图鉴",
+    "index": 25
+  },
+  {
+    "key": "DP_0600_0026",
+    "original": "スペインごのずかん",
+    "translation": "西班牙语图鉴",
+    "index": 26
+  },
+  {
+    "key": "DP_0600_0027",
+    "original": "Pokémon",
+    "translation": "Pokémon",
+    "index": 27
+  },
+  {
+    "key": "DP_0600_0028",
+    "original": "ページ",
+    "translation": "页",
+    "index": 28
+  },
+  {
+    "key": "DP_0600_0029",
+    "original": "ずかんをみる",
+    "translation": "查看图鉴",
+    "index": 29
+  },
+  {
+    "key": "DP_0600_0030",
+    "original": "ぶんぷ",
+    "translation": "分布",
+    "index": 30
+  },
+  {
+    "key": "DP_0600_0031",
+    "original": "なきごえ",
+    "translation": "叫声",
+    "index": 31
+  },
+  {
+    "key": "DP_0600_0032",
+    "original": "おおきさ",
+    "translation": "大小",
+    "index": 32
+  },
+  {
+    "key": "DP_0600_0033",
+    "original": "ＮＥＸＴ",
+    "translation": "ＮＥＸＴ",
+    "index": 33
+  },
+  {
+    "key": "DP_0600_0034",
+    "original": "ＢＡＣＫ",
+    "translation": "ＢＡＣＫ",
+    "index": 34
+  },
+  {
+    "key": "DP_0600_0035",
+    "original": "せいそくち ふめい",
+    "translation": "栖息地不明",
+    "index": 35
+  },
+  {
+    "key": "DP_0600_0036",
+    "original": "あさ",
+    "translation": "早上",
+    "index": 36
+  },
+  {
+    "key": "DP_0600_0037",
+    "original": "ひる",
+    "translation": "白天",
+    "index": 37
+  },
+  {
+    "key": "DP_0600_0038",
+    "original": "よる",
+    "translation": "晚上",
+    "index": 38
+  },
+  {
+    "key": "DP_0600_0039",
+    "original": "よる",
+    "translation": "晚上",
+    "index": 39
+  },
+  {
+    "key": "DP_0600_0040",
+    "original": "しんや",
+    "translation": "深夜",
+    "index": 40
+  },
+  {
+    "key": "DP_0600_0041",
+    "original": "コーラス",
+    "translation": "　合声",
+    "index": 41
+  },
+  {
+    "key": "DP_0600_0042",
+    "original": "パン",
+    "translation": "泛声",
+    "index": 42
+  },
+  {
+    "key": "DP_0600_0043",
+    "original": "たかさくらべ",
+    "translation": "　　比身高　　",
+    "index": 43
+  },
+  {
+    "key": "DP_0600_0044",
+    "original": "おもさくらべ",
+    "translation": "　　比体重　　",
+    "index": 44
+  },
+  {
+    "key": "DP_0600_0045",
+    "original": "たかさくらべ",
+    "translation": "　　比身高　　",
+    "index": 45
+  },
+  {
+    "key": "DP_0600_0046",
+    "original": "おもさくらべ",
+    "translation": "　　比体重　　",
+    "index": 46
+  },
+  {
+    "key": "DP_0600_0047",
+    "original": "なまえ",
+    "translation": " 名字",
+    "index": 47
+  },
+  {
+    "key": "DP_0600_0048",
+    "original": "タイプ",
+    "translation": " 属性",
+    "index": 48
+  },
+  {
+    "key": "DP_0600_0049",
+    "original": "かたち",
+    "translation": " 外形",
+    "index": 49
+  },
+  {
+    "key": "DP_0600_0050",
+    "original": "ならび",
+    "translation": " 排序",
+    "index": 50
+  },
+  {
+    "key": "DP_0600_0051",
+    "original": "けってい",
+    "translation": " 确定",
+    "index": 51
+  },
+  {
+    "key": "DP_0600_0052",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 52
+  },
+  {
+    "key": "DP_0600_0053",
+    "original": "ー",
+    "translation": "ー",
+    "index": 53
+  },
+  {
+    "key": "DP_0600_0054",
+    "original": "あいうえお",
+    "translation": "　ＡＢＣ",
+    "index": 54
+  },
+  {
+    "key": "DP_0600_0055",
+    "original": "かきくけこ",
+    "translation": "　ＤＥＦ",
+    "index": 55
+  },
+  {
+    "key": "DP_0600_0056",
+    "original": "さしすせそ",
+    "translation": "　ＧＨＩ",
+    "index": 56
+  },
+  {
+    "key": "DP_0600_0057",
+    "original": "たちつてと",
+    "translation": "　ＪＫＬ",
+    "index": 57
+  },
+  {
+    "key": "DP_0600_0058",
+    "original": "なにぬねの",
+    "translation": "　ＭＮＯ",
+    "index": 58
+  },
+  {
+    "key": "DP_0600_0059",
+    "original": "はひふへほ",
+    "translation": "　ＰＱＲ",
+    "index": 59
+  },
+  {
+    "key": "DP_0600_0060",
+    "original": "まみむめも",
+    "translation": "　ＳＴＵ",
+    "index": 60
+  },
+  {
+    "key": "DP_0600_0061",
+    "original": "やゆよ わ",
+    "translation": "　 ＹＺ",
+    "index": 61
+  },
+  {
+    "key": "DP_0600_0062",
+    "original": "らりるれろ",
+    "translation": "　ＶＷＸ",
+    "index": 62
+  },
+  {
+    "key": "DP_0600_0063",
+    "original": "わ",
+    "translation": "わ",
+    "index": 63
+  },
+  {
+    "key": "DP_0600_0064",
+    "original": "ノーマル",
+    "translation": "　一般",
+    "index": 64
+  },
+  {
+    "key": "DP_0600_0065",
+    "original": "ほのお",
+    "translation": "　火",
+    "index": 65
+  },
+  {
+    "key": "DP_0600_0066",
+    "original": "みず",
+    "translation": " 水",
+    "index": 66
+  },
+  {
+    "key": "DP_0600_0067",
+    "original": "でんき",
+    "translation": "　电",
+    "index": 67
+  },
+  {
+    "key": "DP_0600_0068",
+    "original": "くさ",
+    "translation": " 草",
+    "index": 68
+  },
+  {
+    "key": "DP_0600_0069",
+    "original": "こおり",
+    "translation": "　冰",
+    "index": 69
+  },
+  {
+    "key": "DP_0600_0070",
+    "original": "かくとう",
+    "translation": "　格斗",
+    "index": 70
+  },
+  {
+    "key": "DP_0600_0071",
+    "original": "どく",
+    "translation": " 毒",
+    "index": 71
+  },
+  {
+    "key": "DP_0600_0072",
+    "original": "じめん",
+    "translation": " 地面",
+    "index": 72
+  },
+  {
+    "key": "DP_0600_0073",
+    "original": "ひこう",
+    "translation": " 飞行",
+    "index": 73
+  },
+  {
+    "key": "DP_0600_0074",
+    "original": "エスパー",
+    "translation": " 超能力",
+    "index": 74
+  },
+  {
+    "key": "DP_0600_0075",
+    "original": "むし",
+    "translation": " 虫",
+    "index": 75
+  },
+  {
+    "key": "DP_0600_0076",
+    "original": "いわ",
+    "translation": "岩石",
+    "index": 76
+  },
+  {
+    "key": "DP_0600_0077",
+    "original": "ゴースト",
+    "translation": "　幽灵",
+    "index": 77
+  },
+  {
+    "key": "DP_0600_0078",
+    "original": "ドラゴン",
+    "translation": "　 龙",
+    "index": 78
+  },
+  {
+    "key": "DP_0600_0079",
+    "original": "あく",
+    "translation": " 恶",
+    "index": 79
+  },
+  {
+    "key": "DP_0600_0080",
+    "original": "はがね",
+    "translation": "　钢",
+    "index": 80
+  },
+  {
+    "key": "DP_0600_0081",
+    "original": "ばんごう",
+    "translation": "　编号",
+    "index": 81
+  },
+  {
+    "key": "DP_0600_0082",
+    "original": "ごじゅうおん",
+    "translation": "　　拼音",
+    "index": 82
+  },
+  {
+    "key": "DP_0600_0083",
+    "original": "おもい",
+    "translation": "　重",
+    "index": 83
+  },
+  {
+    "key": "DP_0600_0084",
+    "original": "かるい",
+    "translation": "　轻",
+    "index": 84
+  },
+  {
+    "key": "DP_0600_0085",
+    "original": "たかい",
+    "translation": "　高",
+    "index": 85
+  },
+  {
+    "key": "DP_0600_0086",
+    "original": "ひくい",
+    "translation": "　矮",
+    "index": 86
+  },
+  {
+    "key": "DP_0600_0087",
+    "original": "なまえの さいしょの もじを\nしてい します。",
+    "translation": "按照名字的拼音排序。",
+    "index": 87
+  },
+  {
+    "key": "DP_0600_0088",
+    "original": "タイプを してい します。",
+    "translation": "按照属性排序。",
+    "index": 88
+  },
+  {
+    "key": "DP_0600_0089",
+    "original": "からだの かたちを してい します。",
+    "translation": "按照体形排序。",
+    "index": 89
+  },
+  {
+    "key": "DP_0600_0090",
+    "original": "ずかんの ならびを してい します。",
+    "translation": "按照图鉴类别排序。",
+    "index": 90
+  },
+  {
+    "key": "DP_0600_0091",
+    "original": "じょうけんに あう ポケモンを\nさがします。",
+    "translation": "查找符合条件的宝可梦。",
+    "index": 91
+  },
+  {
+    "key": "DP_0600_0092",
+    "original": "けんさくを ちゅうし します。",
+    "translation": "查找中止。",
+    "index": 92
+  },
+  {
+    "key": "DP_0600_0093",
+    "original": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
+    "translation": "找不到符合条件的宝可梦…",
+    "index": 93
+  },
+  {
+    "key": "DP_0600_0094",
+    "original": "けんさくちゅう",
+    "translation": "查找中",
+    "index": 94
+  },
+  {
+    "key": "DP_0600_0095",
+    "original": "１．４５",
+    "translation": "１．４５",
+    "index": 95
+  },
+  {
+    "key": "DP_0600_0096",
+    "original": "１．４０",
+    "translation": "１．４０",
+    "index": 96
+  },
+  {
+    "key": "DP_0600_0097",
+    "original": "３８．０",
+    "translation": "３８．０",
+    "index": 97
+  },
+  {
+    "key": "DP_0600_0098",
+    "original": "３４．０",
+    "translation": "３４．０",
+    "index": 98
+  },
+  {
+    "key": "DP_0600_0099",
+    "original": "ーーーーー",
+    "translation": "ーーーーー",
+    "index": 99
+  },
+  {
+    "key": "DP_0600_0100",
+    "original": "べつのすがたをみる",
+    "translation": "　　 查看其他样子",
+    "index": 100
+  },
+  {
+    "key": "DP_0600_0101",
+    "original": "せつめい",
+    "translation": "说明",
+    "index": 101
+  },
+  {
+    "key": "DP_0600_0102",
+    "original": "ぶんぷ",
+    "translation": "分布",
+    "index": 102
+  },
+  {
+    "key": "DP_0600_0103",
+    "original": "なきごえ",
+    "translation": "叫声",
+    "index": 103
+  },
+  {
+    "key": "DP_0600_0104",
+    "original": "おおきさ",
+    "translation": "大小",
+    "index": 104
+  },
+  {
+    "key": "DP_0600_0105",
+    "original": "すがた",
+    "translation": "样子",
+    "index": 105
+  },
+  {
+    "key": "DP_0600_0106",
+    "original": "おわる",
+    "translation": "结束",
+    "index": 106
+  },
+  {
+    "key": "DP_0600_0107",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 107
+  },
+  {
+    "key": "DP_0600_0108",
+    "original": "みつかったかず",
+    "translation": "发现数量",
+    "index": 108
+  },
+  {
+    "key": "DP_0600_0109",
+    "original": "ポケモンずかんの とうろく かんりょう！",
+    "translation": "宝可梦图鉴登陆完成！",
+    "index": 109
+  },
+  {
+    "key": "DP_0600_0110",
+    "original": "ノーマル",
+    "translation": "普通",
+    "index": 110
+  },
+  {
+    "key": "DP_0600_0111",
+    "original": "アタック",
+    "translation": "攻击",
+    "index": 111
+  },
+  {
+    "key": "DP_0600_0112",
+    "original": "ディフェンス",
+    "translation": "防御",
+    "index": 112
+  },
+  {
+    "key": "DP_0600_0113",
+    "original": "スピード",
+    "translation": "速度",
+    "index": 113
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "key": "PT_0612_0000",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 0
+  },
+  {
+    "key": "PT_0612_0001",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 1
+  },
+  {
+    "key": "PT_0612_0002",
+    "original": "たんパンこぞう",
+    "translation": "たんパンこぞう",
+    "index": 2
+  },
+  {
+    "key": "PT_0612_0003",
+    "original": "ミニスカート",
+    "translation": "ミニスカート",
+    "index": 3
+  },
+  {
+    "key": "PT_0612_0004",
+    "original": "キャンプボーイ",
+    "translation": "キャンプボーイ",
+    "index": 4
+  },
+  {
+    "key": "PT_0612_0005",
+    "original": "ピクニックガール",
+    "translation": "ピクニックガール",
+    "index": 5
+  },
+  {
+    "key": "PT_0612_0006",
+    "original": "むしとりしょうねん",
+    "translation": "むしとりしょうねん",
+    "index": 6
+  },
+  {
+    "key": "PT_0612_0007",
+    "original": "アロマなおねえさん",
+    "translation": "アロマなおねえさん",
+    "index": 7
+  },
+  {
+    "key": "PT_0612_0008",
+    "original": "ふたごちゃん",
+    "translation": "ふたごちゃん",
+    "index": 8
+  },
+  {
+    "key": "PT_0612_0009",
+    "original": "やまおとこ",
+    "translation": "やまおとこ",
+    "index": 9
+  },
+  {
+    "key": "PT_0612_0010",
+    "original": "バトルガール",
+    "translation": "バトルガール",
+    "index": 10
+  },
+  {
+    "key": "PT_0612_0011",
+    "original": "つりびと",
+    "translation": "つりびと",
+    "index": 11
+  },
+  {
+    "key": "PT_0612_0012",
+    "original": "サイクリング",
+    "translation": "サイクリング",
+    "index": 12
+  },
+  {
+    "key": "PT_0612_0013",
+    "original": "サイクリング",
+    "translation": "サイクリング",
+    "index": 13
+  },
+  {
+    "key": "PT_0612_0014",
+    "original": "からておう",
+    "translation": "からておう",
+    "index": 14
+  },
+  {
+    "key": "PT_0612_0015",
+    "original": "げいじゅつか",
+    "translation": "げいじゅつか",
+    "index": 15
+  },
+  {
+    "key": "PT_0612_0016",
+    "original": "ポケモンブリーダー",
+    "translation": "ポケモンブリーダー",
+    "index": 16
+  },
+  {
+    "key": "PT_0612_0017",
+    "original": "ポケモンブリーダー",
+    "translation": "ポケモンブリーダー",
+    "index": 17
+  },
+  {
+    "key": "PT_0612_0018",
+    "original": "カウガール",
+    "translation": "カウガール",
+    "index": 18
+  },
+  {
+    "key": "PT_0612_0019",
+    "original": "ジョギング",
+    "translation": "ジョギング",
+    "index": 19
+  },
+  {
+    "key": "PT_0612_0020",
+    "original": "だいすきクラブ",
+    "translation": "だいすきクラブ",
+    "index": 20
+  },
+  {
+    "key": "PT_0612_0021",
+    "original": "だいすきクラブ",
+    "translation": "だいすきクラブ",
+    "index": 21
+  },
+  {
+    "key": "PT_0612_0022",
+    "original": "ポケモンごっこ",
+    "translation": "ポケモンごっこ",
+    "index": 22
+  },
+  {
+    "key": "PT_0612_0023",
+    "original": "ラブラブカップル",
+    "translation": "ラブラブカップル",
+    "index": 23
+  },
+  {
+    "key": "PT_0612_0024",
+    "original": "エリートトレーナー",
+    "translation": "エリートトレーナー",
+    "index": 24
+  },
+  {
+    "key": "PT_0612_0025",
+    "original": "エリートトレーナー",
+    "translation": "エリートトレーナー",
+    "index": 25
+  },
+  {
+    "key": "PT_0612_0026",
+    "original": "ウエートレス",
+    "translation": "ウエートレス",
+    "index": 26
+  },
+  {
+    "key": "PT_0612_0027",
+    "original": "ベテラントレーナー",
+    "translation": "ベテラントレーナー",
+    "index": 27
+  },
+  {
+    "key": "PT_0612_0028",
+    "original": "にんじゃごっこ",
+    "translation": "にんじゃごっこ",
+    "index": 28
+  },
+  {
+    "key": "PT_0612_0029",
+    "original": "ドラゴンつかい",
+    "translation": "ドラゴンつかい",
+    "index": 29
+  },
+  {
+    "key": "PT_0612_0030",
+    "original": "とりつかい",
+    "translation": "とりつかい",
+    "index": 30
+  },
+  {
+    "key": "PT_0612_0031",
+    "original": "ダブルチーム",
+    "translation": "ダブルチーム",
+    "index": 31
+  },
+  {
+    "key": "PT_0612_0032",
+    "original": "おぼっちゃま",
+    "translation": "おぼっちゃま",
+    "index": 32
+  },
+  {
+    "key": "PT_0612_0033",
+    "original": "おじょうさま",
+    "translation": "おじょうさま",
+    "index": 33
+  },
+  {
+    "key": "PT_0612_0034",
+    "original": "ジェントルマン",
+    "translation": "ジェントルマン",
+    "index": 34
+  },
+  {
+    "key": "PT_0612_0035",
+    "original": "マダム",
+    "translation": "マダム",
+    "index": 35
+  },
+  {
+    "key": "PT_0612_0036",
+    "original": "おとなのおねえさん",
+    "translation": "おとなのおねえさん",
+    "index": 36
+  },
+  {
+    "key": "PT_0612_0037",
+    "original": "ポケモンコレクター",
+    "translation": "ポケモンコレクター",
+    "index": 37
+  },
+  {
+    "key": "PT_0612_0038",
+    "original": "おまわりさん",
+    "translation": "おまわりさん",
+    "index": 38
+  },
+  {
+    "key": "PT_0612_0039",
+    "original": "ポケモンレンジャー",
+    "translation": "ポケモンレンジャー",
+    "index": 39
+  },
+  {
+    "key": "PT_0612_0040",
+    "original": "ポケモンレンジャー",
+    "translation": "ポケモンレンジャー",
+    "index": 40
+  },
+  {
+    "key": "PT_0612_0041",
+    "original": "けんきゅういん",
+    "translation": "けんきゅういん",
+    "index": 41
+  },
+  {
+    "key": "PT_0612_0042",
+    "original": "かいパンやろう",
+    "translation": "かいパンやろう",
+    "index": 42
+  },
+  {
+    "key": "PT_0612_0043",
+    "original": "ビキニのおねえさん",
+    "translation": "ビキニのおねえさん",
+    "index": 43
+  },
+  {
+    "key": "PT_0612_0044",
+    "original": "うきわボーイ",
+    "translation": "うきわボーイ",
+    "index": 44
+  },
+  {
+    "key": "PT_0612_0045",
+    "original": "うきわガール",
+    "translation": "うきわガール",
+    "index": 45
+  },
+  {
+    "key": "PT_0612_0046",
+    "original": "ふなのり",
+    "translation": "ふなのり",
+    "index": 46
+  },
+  {
+    "key": "PT_0612_0047",
+    "original": "うみきょうだい",
+    "translation": "うみきょうだい",
+    "index": 47
+  },
+  {
+    "key": "PT_0612_0048",
+    "original": "いせきマニア",
+    "translation": "いせきマニア",
+    "index": 48
+  },
+  {
+    "key": "PT_0612_0049",
+    "original": "サイキッカー",
+    "translation": "サイキッカー",
+    "index": 49
+  },
+  {
+    "key": "PT_0612_0050",
+    "original": "サイキッカー",
+    "translation": "サイキッカー",
+    "index": 50
+  },
+  {
+    "key": "PT_0612_0051",
+    "original": "ギャンブラー",
+    "translation": "ギャンブラー",
+    "index": 51
+  },
+  {
+    "key": "PT_0612_0052",
+    "original": "ギタリスト",
+    "translation": "ギタリスト",
+    "index": 52
+  },
+  {
+    "key": "PT_0612_0053",
+    "original": "エリートトレーナー",
+    "translation": "エリートトレーナー",
+    "index": 53
+  },
+  {
+    "key": "PT_0612_0054",
+    "original": "エリートトレーナー",
+    "translation": "エリートトレーナー",
+    "index": 54
+  },
+  {
+    "key": "PT_0612_0055",
+    "original": "スキーヤー",
+    "translation": "スキーヤー",
+    "index": 55
+  },
+  {
+    "key": "PT_0612_0056",
+    "original": "スキーヤー",
+    "translation": "スキーヤー",
+    "index": 56
+  },
+  {
+    "key": "PT_0612_0057",
+    "original": "スキンヘッズ",
+    "translation": "スキンヘッズ",
+    "index": 57
+  },
+  {
+    "key": "PT_0612_0058",
+    "original": "ピエロ",
+    "translation": "ピエロ",
+    "index": 58
+  },
+  {
+    "key": "PT_0612_0059",
+    "original": "さぎょういん",
+    "translation": "さぎょういん",
+    "index": 59
+  },
+  {
+    "key": "PT_0612_0060",
+    "original": "じゅくがえり",
+    "translation": "じゅくがえり",
+    "index": 60
+  },
+  {
+    "key": "PT_0612_0061",
+    "original": "じゅくがえり",
+    "translation": "じゅくがえり",
+    "index": 61
+  },
+  {
+    "key": "PT_0612_0062",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 62
+  },
+  {
+    "key": "PT_0612_0063",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 63
+  },
+  {
+    "key": "PT_0612_0064",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 64
+  },
+  {
+    "key": "PT_0612_0065",
+    "original": "してんのう",
+    "translation": "してんのう",
+    "index": 65
+  },
+  {
+    "key": "PT_0612_0066",
+    "original": "してんのう",
+    "translation": "してんのう",
+    "index": 66
+  },
+  {
+    "key": "PT_0612_0067",
+    "original": "してんのう",
+    "translation": "してんのう",
+    "index": 67
+  },
+  {
+    "key": "PT_0612_0068",
+    "original": "してんのう",
+    "translation": "してんのう",
+    "index": 68
+  },
+  {
+    "key": "PT_0612_0069",
+    "original": "チャンピオン",
+    "translation": "チャンピオン",
+    "index": 69
+  },
+  {
+    "key": "PT_0612_0070",
+    "original": "ぼくじょうおやこ",
+    "translation": "ぼくじょうおやこ",
+    "index": 70
+  },
+  {
+    "key": "PT_0612_0071",
+    "original": "ぼくじょうおじさん",
+    "translation": "ぼくじょうおじさん",
+    "index": 71
+  },
+  {
+    "key": "PT_0612_0072",
+    "original": "ギンガだんかんぶ",
+    "translation": "ギンガだんかんぶ",
+    "index": 72
+  },
+  {
+    "key": "PT_0612_0073",
+    "original": "ギンガだん",
+    "translation": "ギンガだん",
+    "index": 73
+  },
+  {
+    "key": "PT_0612_0074",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 74
+  },
+  {
+    "key": "PT_0612_0075",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 75
+  },
+  {
+    "key": "PT_0612_0076",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 76
+  },
+  {
+    "key": "PT_0612_0077",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 77
+  },
+  {
+    "key": "PT_0612_0078",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 78
+  },
+  {
+    "key": "PT_0612_0079",
+    "original": "ジムリーダー",
+    "translation": "ジムリーダー",
+    "index": 79
+  },
+  {
+    "key": "PT_0612_0080",
+    "original": "パラソルおねえさん",
+    "translation": "パラソルおねえさん",
+    "index": 80
+  },
+  {
+    "key": "PT_0612_0081",
+    "original": "ウエーター",
+    "translation": "ウエーター",
+    "index": 81
+  },
+  {
+    "key": "PT_0612_0082",
+    "original": "インタビュアー",
+    "translation": "インタビュアー",
+    "index": 82
+  },
+  {
+    "key": "PT_0612_0083",
+    "original": "カメラマン",
+    "translation": "カメラマン",
+    "index": 83
+  },
+  {
+    "key": "PT_0612_0084",
+    "original": "レポーター",
+    "translation": "レポーター",
+    "index": 84
+  },
+  {
+    "key": "PT_0612_0085",
+    "original": "アイドル",
+    "translation": "アイドル",
+    "index": 85
+  },
+  {
+    "key": "PT_0612_0086",
+    "original": "ギンガだんボス",
+    "translation": "ギンガだんボス",
+    "index": 86
+  },
+  {
+    "key": "PT_0612_0087",
+    "original": "ギンガだんかんぶ",
+    "translation": "ギンガだんかんぶ",
+    "index": 87
+  },
+  {
+    "key": "PT_0612_0088",
+    "original": "ギンガだんかんぶ",
+    "translation": "ギンガだんかんぶ",
+    "index": 88
+  },
+  {
+    "key": "PT_0612_0089",
+    "original": "ギンガだん",
+    "translation": "ギンガだん",
+    "index": 89
+  },
+  {
+    "key": "PT_0612_0090",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 90
+  },
+  {
+    "key": "PT_0612_0091",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 91
+  },
+  {
+    "key": "PT_0612_0092",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 92
+  },
+  {
+    "key": "PT_0612_0093",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 93
+  },
+  {
+    "key": "PT_0612_0094",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 94
+  },
+  {
+    "key": "PT_0612_0095",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 95
+  },
+  {
+    "key": "PT_0612_0096",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 96
+  },
+  {
+    "key": "PT_0612_0097",
+    "original": "タワータイクーン",
+    "translation": "タワータイクーン",
+    "index": 97
+  },
+  {
+    "key": "PT_0612_0098",
+    "original": "メイド",
+    "translation": "メイド",
+    "index": 98
+  },
+  {
+    "key": "PT_0612_0099",
+    "original": "ステージマドンナ",
+    "translation": "ステージマドンナ",
+    "index": 99
+  },
+  {
+    "key": "PT_0612_0100",
+    "original": "ファクトリーヘッド",
+    "translation": "ファクトリーヘッド",
+    "index": 100
+  },
+  {
+    "key": "PT_0612_0101",
+    "original": "ルーレットゴッデス",
+    "translation": "ルーレットゴッデス",
+    "index": 101
+  },
+  {
+    "key": "PT_0612_0102",
+    "original": "キャッスルバトラー",
+    "translation": "キャッスルバトラー",
+    "index": 102
+  },
+  {
+    "key": "PT_0612_0103",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 103
+  },
+  {
+    "key": "PT_0612_0104",
+    "original": "ポケモントレーナー",
+    "translation": "ポケモントレーナー",
+    "index": 104
+  }
+]

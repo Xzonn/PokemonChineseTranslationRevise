@@ -1,0 +1,80 @@
+[
+  {
+    "key": "DP_0431_0000",
+    "original": "ことばを えらんでね。",
+    "translation": "请选择语言。",
+    "index": 0
+  },
+  {
+    "key": "DP_0431_0001",
+    "original": "たいせんまえの ことばを かんがえよう",
+    "translation": "请考虑开战前的话。",
+    "index": 1
+  },
+  {
+    "key": "DP_0431_0002",
+    "original": "かったときの きめゼリフを かんがえよう",
+    "translation": "请选择胜利时说的话。",
+    "index": 2
+  },
+  {
+    "key": "DP_0431_0003",
+    "original": "まけたときの いいわけを かんがえよう",
+    "translation": "请选择失败时的理由。",
+    "index": 3
+  },
+  {
+    "key": "DP_0431_0004",
+    "original": "はやっている ものは？",
+    "translation": "最近在流行的是什么？",
+    "index": 4
+  },
+  {
+    "key": "DP_0431_0005",
+    "original": "ユニオンあいさつを かんがえよう",
+    "translation": "请考虑在联机时打招呼时说的话。",
+    "index": 5
+  },
+  {
+    "key": "DP_0431_0006",
+    "original": "これで いいですか？",
+    "translation": "这样可以吗？",
+    "index": 6
+  },
+  {
+    "key": "DP_0431_0007",
+    "original": "なにか ことばを いれてください！",
+    "translation": "请输入要说的话！",
+    "index": 7
+  },
+  {
+    "key": "DP_0431_0008",
+    "original": "なにも しないで やめますか？",
+    "translation": "确定什么都不做就结束吗？",
+    "index": 8
+  },
+  {
+    "key": "DP_0431_0009",
+    "original": "はい",
+    "translation": "是",
+    "index": 9
+  },
+  {
+    "key": "DP_0431_0010",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 10
+  },
+  {
+    "key": "DP_0431_0011",
+    "original": "グループ\nモード",
+    "translation": "分类模式",
+    "index": 11
+  },
+  {
+    "key": "DP_0431_0012",
+    "original": "あいうえお\nモード",
+    "translation": "假名模式",
+    "index": 12
+  }
+]

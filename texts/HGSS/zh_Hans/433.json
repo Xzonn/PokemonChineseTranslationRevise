@@ -1,0 +1,1274 @@
+[
+  {
+    "key": "HGSS_0433_0000",
+    "original": "[FF00,0001]ポケットモンスター ハートゴールド\n[FF00,0000]\n       スタッフリスト",
+    "translation": "[FF00,0001]宝可梦　心金\n[FF00,0000]\n　　　　　　　スタッフリスト",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0433_0001",
+    "original": "[FF00,0001]ポケットモンスター ソウルシルバー\n[FF00,0000]\n       スタッフリスト",
+    "translation": "[FF00,0001]宝可梦　魂银\n[FF00,0000]\n　　　　　　　スタッフリスト",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0433_0002",
+    "original": "スタッフリスト",
+    "translation": "スタッフリスト",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0433_0003",
+    "original": "[FF00,0002]ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]ディレクター[FF00,0000]",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0433_0004",
+    "original": "  もりもと しげき",
+    "translation": "　　もりもと　しげき",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0433_0005",
+    "original": "[FF00,0002]アート ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]アート　ディレクター[FF00,0000]",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0433_0006",
+    "original": "  うんの たかお",
+    "translation": "　　うんの　たかお",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0433_0007",
+    "original": "[FF00,0002]ゲームデザイン リーダー[FF00,0000]",
+    "translation": "[FF00,0002]ゲームデザイン　リーダー[FF00,0000]",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0433_0008",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0433_0009",
+    "original": "[FF00,0002]プログラム リーダー[FF00,0000]",
+    "translation": "[FF00,0002]プログラム　リーダー[FF00,0000]",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0433_0010",
+    "original": "  もり あきと",
+    "translation": "　　もり　あきと",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0433_0011",
+    "original": "[FF00,0002]おんがく リーダー[FF00,0000]",
+    "translation": "[FF00,0002]おんがく　リーダー[FF00,0000]",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0433_0012",
+    "original": "  いちのせ ごう",
+    "translation": "　　いちのせ　ごう",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0433_0013",
+    "original": "[FF00,0002]プログラム[FF00,0000]",
+    "translation": "[FF00,0002]プログラム[FF00,0000]",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0433_0014",
+    "original": "  いわさわ みゆき",
+    "translation": "　　いわさわ　みゆき",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0433_0015",
+    "original": "  さいとう のぞむ",
+    "translation": "　　さいとう　のぞむ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0433_0016",
+    "original": "  なかむら ひろゆき",
+    "translation": "　　なかむら　ひろゆき",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0433_0017",
+    "original": "  ほさか げんや",
+    "translation": "　　ほさか　げんや",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0433_0018",
+    "original": "  なぎはし とおる",
+    "translation": "　　なぎはし　とおる",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0433_0019",
+    "original": "  おおた ともみち",
+    "translation": "　　おおた　ともみち",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0433_0020",
+    "original": "[FF00,0002]プログラム サポート[FF00,0000]",
+    "translation": "[FF00,0002]プログラム　サポート[FF00,0000]",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0433_0021",
+    "original": "  [FF00,0002]  ＆[FF00,0000]",
+    "translation": "　　[FF00,0002]　　＆[FF00,0000]",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0433_0022",
+    "original": " [FF00,0002]システム プログラム[FF00,0000]",
+    "translation": "　[FF00,0002]システム　プログラム[FF00,0000]",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0433_0023",
+    "original": "  そがべ ひさし",
+    "translation": "　　そがべ　ひさし",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0433_0024",
+    "original": "  おおの かつみ",
+    "translation": "　　おおの　かつみ",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0433_0025",
+    "original": "  わたなべ てつや",
+    "translation": "　　わたなべ　てつや",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0433_0026",
+    "original": "  たまだ そうすけ",
+    "translation": "　　たまだ　そうすけ",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0433_0027",
+    "original": "  まつだ よしのり",
+    "translation": "　　まつだ　よしのり",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0433_0028",
+    "original": "  かがや けいた",
+    "translation": "　　かがや　けいた",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0433_0029",
+    "original": "  たや まさお",
+    "translation": "　　たや　まさお",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0433_0030",
+    "original": "  たかはし ともや",
+    "translation": "　　たかはし　ともや",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0433_0031",
+    "original": "  ふかせ ながあき",
+    "translation": "　　ふかせ　ながあき",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0433_0032",
+    "original": "  のはら さとし",
+    "translation": "　　のはら　さとし",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0433_0033",
+    "original": "  ごとう だいすけ",
+    "translation": "　　ごとう　だいすけ",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0433_0034",
+    "original": "  ありいずみ のぶひこ",
+    "translation": "　　ありいずみ　のぶひこ",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0433_0035",
+    "original": "  すま ようすけ",
+    "translation": "　　すま　ようすけ",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0433_0036",
+    "original": "[FF00,0002]グラフィック デザイン[FF00,0000]",
+    "translation": "[FF00,0002]グラフィック　デザイン[FF00,0000]",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0433_0037",
+    "original": "  つるた さや",
+    "translation": "　　つるた　さや",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0433_0038",
+    "original": "  とやま けんきち",
+    "translation": "　　とやま　けんきち",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0433_0039",
+    "original": "  おおむら ゆうすけ",
+    "translation": "　　おおむら　ゆうすけ",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0433_0040",
+    "original": "  ふじわら まいこ",
+    "translation": "　　ふじわら　まいこ",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0433_0041",
+    "original": "  おおた さとし",
+    "translation": "　　おおた　さとし",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0433_0042",
+    "original": "  えお かなこ",
+    "translation": "　　えお　かなこ",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0433_0043",
+    "original": "  よしだ えみ",
+    "translation": "　　よしだ　えみ",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0433_0044",
+    "original": "  くまくら やすお",
+    "translation": "　　くまくら　やすお",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0433_0045",
+    "original": "[FF00,0002]おんがく[FF00,0000]",
+    "translation": "[FF00,0002]おんがく[FF00,0000]",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0433_0046",
+    "original": "  かげやま しょうた",
+    "translation": "　　かげやま　しょうた",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0433_0047",
+    "original": "  さとう ひとみ",
+    "translation": "　　さとう　ひとみ",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0433_0048",
+    "original": "  ますだ じゅんいち",
+    "translation": "　　ますだ　じゅんいち",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0433_0049",
+    "original": "  きつた たくと",
+    "translation": "　　きつた　たくと",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0433_0050",
+    "original": "[FF00,0002]サウンド エフェクト[FF00,0000]",
+    "translation": "[FF00,0002]サウンド　エフェクト[FF00,0000]",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0433_0051",
+    "original": "  のはら さとし",
+    "translation": "　　のはら　さとし",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0433_0052",
+    "original": "  きっかわ けんいち",
+    "translation": "　　きっかわ　けんいち",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0433_0053",
+    "original": "[FF00,0002]ポケモン ボイス[FF00,0000]",
+    "translation": "[FF00,0002]ポケモン　ボイス[FF00,0000]",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0433_0054",
+    "original": "  いちのせ ごう",
+    "translation": "　　いちのせ　ごう",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0433_0055",
+    "original": "[FF00,0002]ゲームデザイン[FF00,0000]",
+    "translation": "[FF00,0002]ゲームデザイン[FF00,0000]",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0433_0056",
+    "original": "  たかはし ただし",
+    "translation": "　　たかはし　ただし",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0433_0057",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0433_0058",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0433_0059",
+    "original": "  しもやまだ てるゆき",
+    "translation": "　　しもやまだ　てるゆき",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0433_0060",
+    "original": "  おおもり しげる",
+    "translation": "　　おおもり　しげる",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0433_0061",
+    "original": "  かわちまる たけし",
+    "translation": "　　かわちまる　たけし",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0433_0062",
+    "original": "  おおた てつじ",
+    "translation": "　　おおた　てつじ",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0433_0063",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0433_0064",
+    "original": "  さとう ひとみ",
+    "translation": "　　さとう　ひとみ",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0433_0065",
+    "original": "  なかつい すぐる",
+    "translation": "　　なかつい　すぐる",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0433_0066",
+    "original": "  ひろ なかむら",
+    "translation": "　　ひろ　なかむら",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0433_0067",
+    "original": "  まつみや としのぶ",
+    "translation": "　　まつみや　としのぶ",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0433_0068",
+    "original": "[FF00,0002]シナリオ[FF00,0000]",
+    "translation": "[FF00,0002]シナリオ[FF00,0000]",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0433_0069",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0433_0070",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0433_0071",
+    "original": "  まつみや としのぶ",
+    "translation": "　　まつみや　としのぶ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0433_0072",
+    "original": "[FF00,0002]マップ デザイン[FF00,0000]",
+    "translation": "[FF00,0002]マップ　デザイン[FF00,0000]",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0433_0073",
+    "original": "  たかはし ただし",
+    "translation": "　　たかはし　ただし",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0433_0074",
+    "original": "  とみさわ あきひと",
+    "translation": "　　とみさわ　あきひと",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0433_0075",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0433_0076",
+    "original": "[FF00,0002]ずかん テキスト[FF00,0000]",
+    "translation": "[FF00,0002]ずかん　テキスト[FF00,0000]",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0433_0077",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0433_0078",
+    "original": "  まつみや としのぶ",
+    "translation": "　　まつみや　としのぶ",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0433_0079",
+    "original": "[FF00,0002]パラメーター せってい[FF00,0000]",
+    "translation": "[FF00,0002]パラメーター　せってい[FF00,0000]",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0433_0080",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0433_0081",
+    "original": "  しもやまだ てるゆき",
+    "translation": "　　しもやまだ　てるゆき",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0433_0082",
+    "original": "  もりもと しげき",
+    "translation": "　　もりもと　しげき",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0433_0083",
+    "original": "  にしの こうじ",
+    "translation": "　　にしの　こうじ",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0433_0084",
+    "original": "  おおた てつじ",
+    "translation": "　　おおた　てつじ",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0433_0085",
+    "original": "[FF00,0002]スクリプト せってい[FF00,0000]",
+    "translation": "[FF00,0002]スクリプト　せってい[FF00,0000]",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0433_0086",
+    "original": "  まつしま けんじ",
+    "translation": "　　まつしま　けんじ",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0433_0087",
+    "original": "  たかはし ただし",
+    "translation": "　　たかはし　ただし",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0433_0088",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0433_0089",
+    "original": "  いわさわ みゆき",
+    "translation": "　　いわさわ　みゆき",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0433_0090",
+    "original": "[FF00,0002]ポケモン デザイン[FF00,0000]",
+    "translation": "[FF00,0002]ポケモン　デザイン[FF00,0000]",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0433_0091",
+    "original": "  すぎもり けん",
+    "translation": "　　すぎもり　けん",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0433_0092",
+    "original": "  ふじわら もとふみ",
+    "translation": "　　ふじわら　もとふみ",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0433_0093",
+    "original": "  もりもと しげき",
+    "translation": "　　もりもと　しげき",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0433_0094",
+    "original": "  よしだ ひろのぶ",
+    "translation": "　　よしだ　ひろのぶ",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0433_0095",
+    "original": "  うんの たかお",
+    "translation": "　　うんの　たかお",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0433_0096",
+    "original": "  とやま けんきち",
+    "translation": "　　とやま　けんきち",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0433_0097",
+    "original": "  ふちの ひろき",
+    "translation": "　　ふちの　ひろき",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0433_0098",
+    "original": "  おおむら ゆうすけ",
+    "translation": "　　おおむら　ゆうすけ",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0433_0099",
+    "original": "  リ ヒョンジョン",
+    "translation": "　　リ　ヒョンジョン",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0433_0100",
+    "original": "  にしだ あつこ",
+    "translation": "　　にしだ　あつこ",
+    "index": 100
+  },
+  {
+    "key": "HGSS_0433_0101",
+    "original": "  おおた さとし",
+    "translation": "　　おおた　さとし",
+    "index": 101
+  },
+  {
+    "key": "HGSS_0433_0102",
+    "original": "  よしかわ れな",
+    "translation": "　　よしかわ　れな",
+    "index": 102
+  },
+  {
+    "key": "HGSS_0433_0103",
+    "original": "  おくたに じゅん",
+    "translation": "　　おくたに　じゅん",
+    "index": 103
+  },
+  {
+    "key": "HGSS_0433_0104",
+    "original": "  いわした あすか",
+    "translation": "　　いわした　あすか",
+    "index": 104
+  },
+  {
+    "key": "HGSS_0433_0105",
+    "original": "  とみた あいみ",
+    "translation": "　　とみた　あいみ",
+    "index": 105
+  },
+  {
+    "key": "HGSS_0433_0106",
+    "original": "  えお かなこ",
+    "translation": "　　えお　かなこ",
+    "index": 106
+  },
+  {
+    "key": "HGSS_0433_0107",
+    "original": "  よしだ えみ",
+    "translation": "　　よしだ　えみ",
+    "index": 107
+  },
+  {
+    "key": "HGSS_0433_0108",
+    "original": "  やぎ ひろゆき",
+    "translation": "　　やぎ　ひろゆき",
+    "index": 108
+  },
+  {
+    "key": "HGSS_0433_0109",
+    "original": "  さいとう むねお",
+    "translation": "　　さいとう　むねお",
+    "index": 109
+  },
+  {
+    "key": "HGSS_0433_0110",
+    "original": "  ごとう ひろゆき",
+    "translation": "　　ごとう　ひろゆき",
+    "index": 110
+  },
+  {
+    "key": "HGSS_0433_0111",
+    "original": "[FF00,0002]グラフィック かんしゅう[FF00,0000]",
+    "translation": "[FF00,0002]グラフィック　かんしゅう[FF00,0000]",
+    "index": 111
+  },
+  {
+    "key": "HGSS_0433_0112",
+    "original": "  すぎもり けん",
+    "translation": "　　すぎもり　けん",
+    "index": 112
+  },
+  {
+    "key": "HGSS_0433_0113",
+    "original": "[FF00,0002]ポケウォーカー[FF00,0000]",
+    "translation": "[FF00,0002]ポケウォーカー[FF00,0000]",
+    "index": 113
+  },
+  {
+    "key": "HGSS_0433_0114",
+    "original": "[FF00,0002] ゲームデザイン[FF00,0000]",
+    "translation": "[FF00,0002]　ゲームデザイン[FF00,0000]",
+    "index": 114
+  },
+  {
+    "key": "HGSS_0433_0115",
+    "original": "  おおもり しげる",
+    "translation": "　　おおもり　しげる",
+    "index": 115
+  },
+  {
+    "key": "HGSS_0433_0116",
+    "original": "  さいとう まさふみ",
+    "translation": "　　さいとう　まさふみ",
+    "index": 116
+  },
+  {
+    "key": "HGSS_0433_0117",
+    "original": "[FF00,0002]メカニカル ディレクター[FF00,0000]",
+    "translation": "[FF00,0002]メカニカル ディレクター[FF00,0000]",
+    "index": 117
+  },
+  {
+    "key": "HGSS_0433_0118",
+    "original": "  おおた まさひこ",
+    "translation": "　　おおた　まさひこ",
+    "index": 118
+  },
+  {
+    "key": "HGSS_0433_0119",
+    "original": "[FF00,0002]メカニカル デザイン[FF00,0000]",
+    "translation": "[FF00,0002]メカニカル デザイン[FF00,0000]",
+    "index": 119
+  },
+  {
+    "key": "HGSS_0433_0120",
+    "original": "  ふじはら かずひろ",
+    "translation": "　　ふじはら　かずひろ",
+    "index": 120
+  },
+  {
+    "key": "HGSS_0433_0121",
+    "original": "  まるやま かずひろ",
+    "translation": "　　まるやま　かずひろ",
+    "index": 121
+  },
+  {
+    "key": "HGSS_0433_0122",
+    "original": "  うちだ のりあき",
+    "translation": "　　うちだ　のりあき",
+    "index": 122
+  },
+  {
+    "key": "HGSS_0433_0123",
+    "original": "  あきた のりこ",
+    "translation": "　　あきた　のりこ",
+    "index": 123
+  },
+  {
+    "key": "HGSS_0433_0124",
+    "original": "  たけもと はやと",
+    "translation": "　　たけもと　はやと",
+    "index": 124
+  },
+  {
+    "key": "HGSS_0433_0125",
+    "original": "  かみむら こうぞう",
+    "translation": "　　かみむら　こうぞう",
+    "index": 125
+  },
+  {
+    "key": "HGSS_0433_0126",
+    "original": "  かみのその たくや",
+    "translation": "　　かみのその　たくや",
+    "index": 126
+  },
+  {
+    "key": "HGSS_0433_0127",
+    "original": "  なかひら たくみ",
+    "translation": "　　なかひら　たくみ",
+    "index": 127
+  },
+  {
+    "key": "HGSS_0433_0128",
+    "original": "[FF00,0002]プログラム コーディネーション[FF00,0000]",
+    "translation": "[FF00,0002]プログラム　コーディネーション[FF00,0000]",
+    "index": 128
+  },
+  {
+    "key": "HGSS_0433_0129",
+    "original": "  いしかわ みきひろ",
+    "translation": "　　いしかわ　みきひろ",
+    "index": 129
+  },
+  {
+    "key": "HGSS_0433_0130",
+    "original": "[FF00,0002]プログラミング[FF00,0000]",
+    "translation": "[FF00,0002]プログラミング[FF00,0000]",
+    "index": 130
+  },
+  {
+    "key": "HGSS_0433_0131",
+    "original": "  そといけ ひろき",
+    "translation": "　　そといけ　ひろき",
+    "index": 131
+  },
+  {
+    "key": "HGSS_0433_0132",
+    "original": "[FF00,0002]プロジェクト マネージャー[FF00,0000]",
+    "translation": "[FF00,0002]プロジェクト マネージャー[FF00,0000]",
+    "index": 132
+  },
+  {
+    "key": "HGSS_0433_0133",
+    "original": "  しもむら まさる",
+    "translation": "　　しもむら　まさる",
+    "index": 133
+  },
+  {
+    "key": "HGSS_0433_0134",
+    "original": "[FF00,0002]テクニカルサポート[FF00,0000]",
+    "translation": "[FF00,0002]テクニカルサポート[FF00,0000]",
+    "index": 134
+  },
+  {
+    "key": "HGSS_0433_0135",
+    "original": "  いなげ とおる",
+    "translation": "　　いなげ　とおる",
+    "index": 135
+  },
+  {
+    "key": "HGSS_0433_0136",
+    "original": "[FF00,0002]デバッグマネージメント[FF00,0000]",
+    "translation": "[FF00,0002]デバッグマネージメント[FF00,0000]",
+    "index": 136
+  },
+  {
+    "key": "HGSS_0433_0137",
+    "original": "  たにかわ ゆうき",
+    "translation": "　　たにかわ　ゆうき",
+    "index": 137
+  },
+  {
+    "key": "HGSS_0433_0138",
+    "original": "  たなか よしかず",
+    "translation": "　　たなか　よしかず",
+    "index": 138
+  },
+  {
+    "key": "HGSS_0433_0139",
+    "original": "  たむら たけし",
+    "translation": "　　たむら　たけし",
+    "index": 139
+  },
+  {
+    "key": "HGSS_0433_0140",
+    "original": "  いのうえ たくや",
+    "translation": "　　いのうえ　たくや",
+    "index": 140
+  },
+  {
+    "key": "HGSS_0433_0141",
+    "original": "  はまぐち りゅうじ",
+    "translation": "　　はまぐち りゅうじ",
+    "index": 141
+  },
+  {
+    "key": "HGSS_0433_0142",
+    "original": "  なかじま もとき",
+    "translation": "　　なかじま　もとき",
+    "index": 142
+  },
+  {
+    "key": "HGSS_0433_0143",
+    "original": "  もりやま だいき",
+    "translation": "　　もりやま　だいき",
+    "index": 143
+  },
+  {
+    "key": "HGSS_0433_0144",
+    "original": "[FF00,0002]デバッグプレイ[FF00,0000]",
+    "translation": "[FF00,0002]デバッグプレイ[FF00,0000]",
+    "index": 144
+  },
+  {
+    "key": "HGSS_0433_0145",
+    "original": "  スーパーマリオクラブ",
+    "translation": "　　スーパーマリオクラブ",
+    "index": 145
+  },
+  {
+    "key": "HGSS_0433_0146",
+    "original": "[FF00,0002]スペシャルサンクス[FF00,0000]",
+    "translation": "[FF00,0002]スペシャルサンクス[FF00,0000]",
+    "index": 146
+  },
+  {
+    "key": "HGSS_0433_0147",
+    "original": "  とみなが けんじ",
+    "translation": "　　とみなが　けんじ",
+    "index": 147
+  },
+  {
+    "key": "HGSS_0433_0148",
+    "original": "  たじり よしお",
+    "translation": "　　たじり　よしお",
+    "index": 148
+  },
+  {
+    "key": "HGSS_0433_0149",
+    "original": "  ささき ていこ",
+    "translation": "　　ささき　ていこ",
+    "index": 149
+  },
+  {
+    "key": "HGSS_0433_0150",
+    "original": "  きたかぜ ともひろ",
+    "translation": "　　きたかぜ　ともひろ",
+    "index": 150
+  },
+  {
+    "key": "HGSS_0433_0151",
+    "original": "  おばた としひろ",
+    "translation": "　　おばた　としひろ",
+    "index": 151
+  },
+  {
+    "key": "HGSS_0433_0152",
+    "original": "  ほずみ ゆきこ",
+    "translation": "　　ほずみ　ゆきこ",
+    "index": 152
+  },
+  {
+    "key": "HGSS_0433_0153",
+    "original": "  みずたに めぐみ",
+    "translation": "　　みずたに　めぐみ",
+    "index": 153
+  },
+  {
+    "key": "HGSS_0433_0154",
+    "original": "  むらかみ なおと",
+    "translation": "　　むらかみ　なおと",
+    "index": 154
+  },
+  {
+    "key": "HGSS_0433_0155",
+    "original": "  もり ゆういちろう",
+    "translation": "　　もり　ゆういちろう",
+    "index": 155
+  },
+  {
+    "key": "HGSS_0433_0156",
+    "original": "  えんどう えみ",
+    "translation": "　　えんどう　えみ",
+    "index": 156
+  },
+  {
+    "key": "HGSS_0433_0157",
+    "original": "  はまの さちこ",
+    "translation": "　　はまの　さちこ",
+    "index": 157
+  },
+  {
+    "key": "HGSS_0433_0158",
+    "original": "  さとう あさみ",
+    "translation": "　　さとう　あさみ",
+    "index": 158
+  },
+  {
+    "key": "HGSS_0433_0159",
+    "original": "  いけだ さき",
+    "translation": "　　いけだ　さき",
+    "index": 159
+  },
+  {
+    "key": "HGSS_0433_0160",
+    "original": "  いのうえ よしみつ",
+    "translation": "　　いのうえ　よしみつ",
+    "index": 160
+  },
+  {
+    "key": "HGSS_0433_0161",
+    "original": "  いとう けんじろう",
+    "translation": "　　いとう　けんじろう",
+    "index": 161
+  },
+  {
+    "key": "HGSS_0433_0162",
+    "original": "  こむら ともたか",
+    "translation": "　　こむら　ともたか",
+    "index": 162
+  },
+  {
+    "key": "HGSS_0433_0163",
+    "original": "  おおはし みきこ",
+    "translation": "　　おおはし　みきこ",
+    "index": 163
+  },
+  {
+    "key": "HGSS_0433_0164",
+    "original": "  ふくなが すすむ",
+    "translation": "　　ふくなが　すすむ",
+    "index": 164
+  },
+  {
+    "key": "HGSS_0433_0165",
+    "original": "  みやはら としお",
+    "translation": "　　みやはら　としお",
+    "index": 165
+  },
+  {
+    "key": "HGSS_0433_0166",
+    "original": "  すさい がく",
+    "translation": "　　すさい　がく",
+    "index": 166
+  },
+  {
+    "key": "HGSS_0433_0167",
+    "original": "  あらい けんいち",
+    "translation": "　　あらい　けんいち",
+    "index": 167
+  },
+  {
+    "key": "HGSS_0433_0168",
+    "original": "  こが じろう",
+    "translation": "　　こが　じろう",
+    "index": 168
+  },
+  {
+    "key": "HGSS_0433_0169",
+    "original": "  たきざわ みちこ",
+    "translation": "　　たきざわ　みちこ",
+    "index": 169
+  },
+  {
+    "key": "HGSS_0433_0170",
+    "original": "  まつなが みつよ",
+    "translation": "　　まつなが　みつよ",
+    "index": 170
+  },
+  {
+    "key": "HGSS_0433_0171",
+    "original": "  つみた ゆういちろう",
+    "translation": "　　つみた　ゆういちろう",
+    "index": 171
+  },
+  {
+    "key": "HGSS_0433_0172",
+    "original": "  ふじた おさむ",
+    "translation": "　　ふじた　おさむ",
+    "index": 172
+  },
+  {
+    "key": "HGSS_0433_0173",
+    "original": "  むらかわ てるき",
+    "translation": "　　むらかわ　てるき",
+    "index": 173
+  },
+  {
+    "key": "HGSS_0433_0174",
+    "original": "  なかみち きみこ",
+    "translation": "　　なかみち　きみこ",
+    "index": 174
+  },
+  {
+    "key": "HGSS_0433_0175",
+    "original": "  やまもと そういち",
+    "translation": "　　やまもと　そういち",
+    "index": 175
+  },
+  {
+    "key": "HGSS_0433_0176",
+    "original": "  きなし あきら",
+    "translation": "　　きなし　あきら",
+    "index": 176
+  },
+  {
+    "key": "HGSS_0433_0177",
+    "original": "  なかお のりこ",
+    "translation": "　　なかお　のりこ",
+    "index": 177
+  },
+  {
+    "key": "HGSS_0433_0178",
+    "original": "  いまたけ はるひこ",
+    "translation": "　　いまたけ　はるひこ",
+    "index": 178
+  },
+  {
+    "key": "HGSS_0433_0179",
+    "original": "  いちばやし ひろのり",
+    "translation": "　　いちばやし　ひろのり",
+    "index": 179
+  },
+  {
+    "key": "HGSS_0433_0180",
+    "original": "  むかい としお",
+    "translation": "　　むかい　としお",
+    "index": 180
+  },
+  {
+    "key": "HGSS_0433_0181",
+    "original": "  あくね ひろし",
+    "translation": "　　あくね　ひろし",
+    "index": 181
+  },
+  {
+    "key": "HGSS_0433_0182",
+    "original": "  なかむら だいすけ",
+    "translation": "　　なかむら　だいすけ",
+    "index": 182
+  },
+  {
+    "key": "HGSS_0433_0183",
+    "original": "  やまぐち たかひろ",
+    "translation": "　　やまぐち　たかひろ",
+    "index": 183
+  },
+  {
+    "key": "HGSS_0433_0184",
+    "original": "  やまぐち りょう",
+    "translation": "　　やまぐち　りょう",
+    "index": 184
+  },
+  {
+    "key": "HGSS_0433_0185",
+    "original": "  たのうえ じゅん",
+    "translation": "　　たのうえ　じゅん",
+    "index": 185
+  },
+  {
+    "key": "HGSS_0433_0186",
+    "original": "[FF00,0002]じょうほうかんり[FF00,0000]",
+    "translation": "[FF00,0002]じょうほうかんり[FF00,0000]",
+    "index": 186
+  },
+  {
+    "key": "HGSS_0433_0187",
+    "original": "  さくらい ゆうり",
+    "translation": "　　さくらい　ゆうり",
+    "index": 187
+  },
+  {
+    "key": "HGSS_0433_0188",
+    "original": "  さいとう ゆふこ",
+    "translation": "　　さいとう　ゆふこ",
+    "index": 188
+  },
+  {
+    "key": "HGSS_0433_0189",
+    "original": "  よねだ とうや",
+    "translation": "　　よねだ　とうや",
+    "index": 189
+  },
+  {
+    "key": "HGSS_0433_0190",
+    "original": "  やなせ なおこ",
+    "translation": "　　やなせ　なおこ",
+    "index": 190
+  },
+  {
+    "key": "HGSS_0433_0191",
+    "original": "[FF00,0002]アートワーク[FF00,0000]",
+    "translation": "[FF00,0002]アートワーク[FF00,0000]",
+    "index": 191
+  },
+  {
+    "key": "HGSS_0433_0192",
+    "original": "  いたに きよみ",
+    "translation": "　　いたに　きよみ",
+    "index": 192
+  },
+  {
+    "key": "HGSS_0433_0193",
+    "original": "  ふじた もとき",
+    "translation": "　　ふじた　もとき",
+    "index": 193
+  },
+  {
+    "key": "HGSS_0433_0194",
+    "original": "  すぎやま やすこ",
+    "translation": "　　すぎやま　やすこ",
+    "index": 194
+  },
+  {
+    "key": "HGSS_0433_0195",
+    "original": "  なかみち さちこ",
+    "translation": "　　なかみち　さちこ",
+    "index": 195
+  },
+  {
+    "key": "HGSS_0433_0196",
+    "original": "[FF00,0002]コーディネーター[FF00,0000]",
+    "translation": "[FF00,0002]コーディネーター[FF00,0000]",
+    "index": 196
+  },
+  {
+    "key": "HGSS_0433_0197",
+    "original": "  こほり しゅんすけ",
+    "translation": "　　こほり　しゅんすけ",
+    "index": 197
+  },
+  {
+    "key": "HGSS_0433_0198",
+    "original": "  よしはら かずき",
+    "translation": "　　よしはら　かずき",
+    "index": 198
+  },
+  {
+    "key": "HGSS_0433_0199",
+    "original": "  あらき ひであき",
+    "translation": "　　あらき　ひであき",
+    "index": 199
+  },
+  {
+    "key": "HGSS_0433_0200",
+    "original": "  なかにし けんた",
+    "translation": "　　なかにし　けんた",
+    "index": 200
+  },
+  {
+    "key": "HGSS_0433_0201",
+    "original": "[FF00,0002]プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]プロデューサー[FF00,0000]",
+    "index": 201
+  },
+  {
+    "key": "HGSS_0433_0202",
+    "original": "  ますだ じゅんいち",
+    "translation": "　　ますだ　じゅんいち",
+    "index": 202
+  },
+  {
+    "key": "HGSS_0433_0203",
+    "original": "  えがみ しゅうさく",
+    "translation": "　　えがみ　しゅうさく",
+    "index": 203
+  },
+  {
+    "key": "HGSS_0433_0204",
+    "original": "  やまがみ ひとし",
+    "translation": "　　やまがみ　ひとし",
+    "index": 204
+  },
+  {
+    "key": "HGSS_0433_0205",
+    "original": "  つる ひろあき",
+    "translation": "　　つる　ひろあき",
+    "index": 205
+  },
+  {
+    "key": "HGSS_0433_0206",
+    "original": "[FF00,0002]エグゼクティブ プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]エグゼクティブ　プロデューサー[FF00,0000]",
+    "index": 206
+  },
+  {
+    "key": "HGSS_0433_0207",
+    "original": "  たじり さとし",
+    "translation": "　　たじり　さとし",
+    "index": 207
+  },
+  {
+    "key": "HGSS_0433_0208",
+    "original": "[FF00,0002]エグゼクティブ プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]エグゼクティブ　プロデューサー[FF00,0000]",
+    "index": 208
+  },
+  {
+    "key": "HGSS_0433_0209",
+    "original": "  いわた さとる",
+    "translation": "　　いわた　さとる",
+    "index": 209
+  },
+  {
+    "key": "HGSS_0433_0210",
+    "original": "[FF00,0002]エグゼクティブ プロデューサー[FF00,0000]",
+    "translation": "[FF00,0002]エグゼクティブ　プロデューサー[FF00,0000]",
+    "index": 210
+  },
+  {
+    "key": "HGSS_0433_0211",
+    "original": "  いしはら つねかず",
+    "translation": "　　いしはら　つねかず",
+    "index": 211
+  }
+]

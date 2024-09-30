@@ -1,0 +1,1628 @@
+[
+  {
+    "key": "DP_0319_0000",
+    "original": "どく",
+    "translation": "どく",
+    "index": 0
+  },
+  {
+    "key": "DP_0319_0001",
+    "original": "まひ",
+    "translation": "まひ",
+    "index": 1
+  },
+  {
+    "key": "DP_0319_0002",
+    "original": "ねむり",
+    "translation": "ねむり",
+    "index": 2
+  },
+  {
+    "key": "DP_0319_0003",
+    "original": "やけど",
+    "translation": "やけど",
+    "index": 3
+  },
+  {
+    "key": "DP_0319_0004",
+    "original": "こおり",
+    "translation": "こおり",
+    "index": 4
+  },
+  {
+    "key": "DP_0319_0005",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 5
+  },
+  {
+    "key": "DP_0319_0006",
+    "original": "シングルバトル",
+    "translation": "シングルバトル",
+    "index": 6
+  },
+  {
+    "key": "DP_0319_0007",
+    "original": "ダブルバトル",
+    "translation": "ダブルバトル",
+    "index": 7
+  },
+  {
+    "key": "DP_0319_0008",
+    "original": "ミックスバトル",
+    "translation": "ミックスバトル",
+    "index": 8
+  },
+  {
+    "key": "DP_0319_0009",
+    "original": "マルチバトル",
+    "translation": "マルチバトル",
+    "index": 9
+  },
+  {
+    "key": "DP_0319_0010",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 10
+  },
+  {
+    "key": "DP_0319_0011",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 11
+  },
+  {
+    "key": "DP_0319_0012",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 12
+  },
+  {
+    "key": "DP_0319_0013",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 13
+  },
+  {
+    "key": "DP_0319_0014",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 14
+  },
+  {
+    "key": "DP_0319_0015",
+    "original": "げんざいの フロア",
+    "translation": "げんざいの フロア",
+    "index": 15
+  },
+  {
+    "key": "DP_0319_0016",
+    "original": "[0132,0000]かい",
+    "translation": "[0132,0000]かい",
+    "index": 16
+  },
+  {
+    "key": "DP_0319_0017",
+    "original": "かっこよさ",
+    "translation": "かっこよさ",
+    "index": 17
+  },
+  {
+    "key": "DP_0319_0018",
+    "original": "うつくしさ",
+    "translation": "うつくしさ",
+    "index": 18
+  },
+  {
+    "key": "DP_0319_0019",
+    "original": "かわいさ",
+    "translation": "かわいさ",
+    "index": 19
+  },
+  {
+    "key": "DP_0319_0020",
+    "original": "たくましさ",
+    "translation": "たくましさ",
+    "index": 20
+  },
+  {
+    "key": "DP_0319_0021",
+    "original": "かしこさ",
+    "translation": "かしこさ",
+    "index": 21
+  },
+  {
+    "key": "DP_0319_0022",
+    "original": "こうかん",
+    "translation": "こうかん",
+    "index": 22
+  },
+  {
+    "key": "DP_0319_0023",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 23
+  },
+  {
+    "key": "DP_0319_0024",
+    "original": "ファンシーカップ",
+    "translation": "ファンシーカップ",
+    "index": 24
+  },
+  {
+    "key": "DP_0319_0025",
+    "original": "イエローカップ",
+    "translation": "イエローカップ",
+    "index": 25
+  },
+  {
+    "key": "DP_0319_0026",
+    "original": "リトルカップ",
+    "translation": "リトルカップ",
+    "index": 26
+  },
+  {
+    "key": "DP_0319_0027",
+    "original": "ミドルカップ",
+    "translation": "ミドルカップ",
+    "index": 27
+  },
+  {
+    "key": "DP_0319_0028",
+    "original": "ヘビーカップ",
+    "translation": "ヘビーカップ",
+    "index": 28
+  },
+  {
+    "key": "DP_0319_0029",
+    "original": "[011A,0000]カップ",
+    "translation": "[011A,0000]カップ",
+    "index": 29
+  },
+  {
+    "key": "DP_0319_0030",
+    "original": "[011A,0001]カップ",
+    "translation": "[011A,0001]カップ",
+    "index": 30
+  },
+  {
+    "key": "DP_0319_0031",
+    "original": "[011A,0002]カップ",
+    "translation": "[011A,0002]カップ",
+    "index": 31
+  },
+  {
+    "key": "DP_0319_0032",
+    "original": "[011A,0003]カップ",
+    "translation": "[011A,0003]カップ",
+    "index": 32
+  },
+  {
+    "key": "DP_0319_0033",
+    "original": "[011A,0004]カップ",
+    "translation": "[011A,0004]カップ",
+    "index": 33
+  },
+  {
+    "key": "DP_0319_0034",
+    "original": "あずかりシステム",
+    "translation": "あずかりシステム",
+    "index": 34
+  },
+  {
+    "key": "DP_0319_0035",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 35
+  },
+  {
+    "key": "DP_0319_0036",
+    "original": "スイッチをきる",
+    "translation": "スイッチをきる",
+    "index": 36
+  },
+  {
+    "key": "DP_0319_0037",
+    "original": "ふつうに たいせん",
+    "translation": "ふつうに たいせん",
+    "index": 37
+  },
+  {
+    "key": "DP_0319_0038",
+    "original": "ルールブックをつかう",
+    "translation": "ルールブックをつかう",
+    "index": 38
+  },
+  {
+    "key": "DP_0319_0039",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 39
+  },
+  {
+    "key": "DP_0319_0040",
+    "original": "ルールをみる",
+    "translation": "ルールをみる",
+    "index": 40
+  },
+  {
+    "key": "DP_0319_0041",
+    "original": "はい",
+    "translation": "はい",
+    "index": 41
+  },
+  {
+    "key": "DP_0319_0042",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 42
+  },
+  {
+    "key": "DP_0319_0043",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 43
+  },
+  {
+    "key": "DP_0319_0044",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 44
+  },
+  {
+    "key": "DP_0319_0045",
+    "original": "ほのお",
+    "translation": "ほのお",
+    "index": 45
+  },
+  {
+    "key": "DP_0319_0046",
+    "original": "みず",
+    "translation": "みず",
+    "index": 46
+  },
+  {
+    "key": "DP_0319_0047",
+    "original": "くさ",
+    "translation": "くさ",
+    "index": 47
+  },
+  {
+    "key": "DP_0319_0048",
+    "original": "カード",
+    "translation": "カード",
+    "index": 48
+  },
+  {
+    "key": "DP_0319_0049",
+    "original": "たいせん",
+    "translation": "たいせん",
+    "index": 49
+  },
+  {
+    "key": "DP_0319_0050",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 50
+  },
+  {
+    "key": "DP_0319_0051",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 51
+  },
+  {
+    "key": "DP_0319_0052",
+    "original": "[0103,0002]",
+    "translation": "[0103,0002]",
+    "index": 52
+  },
+  {
+    "key": "DP_0319_0053",
+    "original": "[0103,0003]",
+    "translation": "[0103,0003]",
+    "index": 53
+  },
+  {
+    "key": "DP_0319_0054",
+    "original": "ひりょうをまく",
+    "translation": "ひりょうをまく",
+    "index": 54
+  },
+  {
+    "key": "DP_0319_0055",
+    "original": "きのみをうめる",
+    "translation": "きのみをうめる",
+    "index": 55
+  },
+  {
+    "key": "DP_0319_0056",
+    "original": "おえかき",
+    "translation": "おえかき",
+    "index": 56
+  },
+  {
+    "key": "DP_0319_0057",
+    "original": " ",
+    "translation": " ",
+    "index": 57
+  },
+  {
+    "key": "DP_0319_0058",
+    "original": "だれかのパソコン",
+    "translation": "だれかのパソコン",
+    "index": 58
+  },
+  {
+    "key": "DP_0319_0059",
+    "original": "ミズキのパソコン",
+    "translation": "ミズキのパソコン",
+    "index": 59
+  },
+  {
+    "key": "DP_0319_0060",
+    "original": "[0103,0000]のパソコン",
+    "translation": "[0103,0000]のパソコン",
+    "index": 60
+  },
+  {
+    "key": "DP_0319_0061",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 61
+  },
+  {
+    "key": "DP_0319_0062",
+    "original": "オーキドのパソコン",
+    "translation": "オーキドのパソコン",
+    "index": 62
+  },
+  {
+    "key": "DP_0319_0063",
+    "original": "ナナカマドのパソコン",
+    "translation": "ナナカマドのパソコン",
+    "index": 63
+  },
+  {
+    "key": "DP_0319_0064",
+    "original": "スイッチを きる",
+    "translation": "スイッチを きる",
+    "index": 64
+  },
+  {
+    "key": "DP_0319_0065",
+    "original": "ポケモンを あずける",
+    "translation": "ポケモンを あずける",
+    "index": 65
+  },
+  {
+    "key": "DP_0319_0066",
+    "original": "ポケモンを つれていく",
+    "translation": "ポケモンを つれていく",
+    "index": 66
+  },
+  {
+    "key": "DP_0319_0067",
+    "original": "ボックスを せいりする",
+    "translation": "ボックスを せいりする",
+    "index": 67
+  },
+  {
+    "key": "DP_0319_0068",
+    "original": "もちものを せいりする",
+    "translation": "もちものを せいりする",
+    "index": 68
+  },
+  {
+    "key": "DP_0319_0069",
+    "original": "つよさ くらべ",
+    "translation": "つよさ くらべ",
+    "index": 69
+  },
+  {
+    "key": "DP_0319_0070",
+    "original": "さようなら",
+    "translation": "さようなら",
+    "index": 70
+  },
+  {
+    "key": "DP_0319_0071",
+    "original": "メールボックス",
+    "translation": "メールボックス",
+    "index": 71
+  },
+  {
+    "key": "DP_0319_0072",
+    "original": "ボールカプセル",
+    "translation": "ボールカプセル",
+    "index": 72
+  },
+  {
+    "key": "DP_0319_0073",
+    "original": "せつぞくを きる",
+    "translation": "せつぞくを きる",
+    "index": 73
+  },
+  {
+    "key": "DP_0319_0074",
+    "original": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "translation": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "index": 74
+  },
+  {
+    "key": "DP_0319_0075",
+    "original": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "translation": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "index": 75
+  },
+  {
+    "key": "DP_0319_0076",
+    "original": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "translation": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "index": 76
+  },
+  {
+    "key": "DP_0319_0077",
+    "original": "ポケモンが もっている どうぐを\nせいり できます",
+    "translation": "ポケモンが もっている どうぐを\nせいり できます",
+    "index": 77
+  },
+  {
+    "key": "DP_0319_0078",
+    "original": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "translation": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "index": 78
+  },
+  {
+    "key": "DP_0319_0079",
+    "original": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "translation": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "index": 79
+  },
+  {
+    "key": "DP_0319_0080",
+    "original": "メールを ２０つう まで\nほぞん することが できます",
+    "translation": "メールを ２０つう まで\nほぞん することが できます",
+    "index": 80
+  },
+  {
+    "key": "DP_0319_0081",
+    "original": "ボールカプセルの\nセットや へんしゅうが できます",
+    "translation": "ボールカプセルの\nセットや へんしゅうが できます",
+    "index": 81
+  },
+  {
+    "key": "DP_0319_0082",
+    "original": "じぶんのパソコン への つうしんを\nせつだん します",
+    "translation": "じぶんのパソコン への つうしんを\nせつだん します",
+    "index": 82
+  },
+  {
+    "key": "DP_0319_0083",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 83
+  },
+  {
+    "key": "DP_0319_0084",
+    "original": "ないようを よむ",
+    "translation": "ないようを よむ",
+    "index": 84
+  },
+  {
+    "key": "DP_0319_0085",
+    "original": "バッグに もどす",
+    "translation": "バッグに もどす",
+    "index": 85
+  },
+  {
+    "key": "DP_0319_0086",
+    "original": "ポケモンに もたせる",
+    "translation": "ポケモンに もたせる",
+    "index": 86
+  },
+  {
+    "key": "DP_0319_0087",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 87
+  },
+  {
+    "key": "DP_0319_0088",
+    "original": "とりだす",
+    "translation": "とりだす",
+    "index": 88
+  },
+  {
+    "key": "DP_0319_0089",
+    "original": "エリア１",
+    "translation": "エリア１",
+    "index": 89
+  },
+  {
+    "key": "DP_0319_0090",
+    "original": "エリア２",
+    "translation": "エリア２",
+    "index": 90
+  },
+  {
+    "key": "DP_0319_0091",
+    "original": "エリア３",
+    "translation": "エリア３",
+    "index": 91
+  },
+  {
+    "key": "DP_0319_0092",
+    "original": "さんかする",
+    "translation": "さんかする",
+    "index": 92
+  },
+  {
+    "key": "DP_0319_0093",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 93
+  },
+  {
+    "key": "DP_0319_0094",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 94
+  },
+  {
+    "key": "DP_0319_0095",
+    "original": "またのさんかを\nおまちしております",
+    "translation": "またのさんかを\nおまちしております",
+    "index": 95
+  },
+  {
+    "key": "DP_0319_0096",
+    "original": "コンテストのきほん",
+    "translation": "コンテストのきほん",
+    "index": 96
+  },
+  {
+    "key": "DP_0319_0097",
+    "original": "コンテストのしゅるい",
+    "translation": "コンテストのしゅるい",
+    "index": 97
+  },
+  {
+    "key": "DP_0319_0098",
+    "original": "ランクについて",
+    "translation": "ランクについて",
+    "index": 98
+  },
+  {
+    "key": "DP_0319_0099",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 99
+  },
+  {
+    "key": "DP_0319_0100",
+    "original": "コンテストとは？",
+    "translation": "コンテストとは？",
+    "index": 100
+  },
+  {
+    "key": "DP_0319_0101",
+    "original": "ビジュアルぶもん",
+    "translation": "ビジュアルぶもん",
+    "index": 101
+  },
+  {
+    "key": "DP_0319_0102",
+    "original": "ダンスぶもん",
+    "translation": "ダンスぶもん",
+    "index": 102
+  },
+  {
+    "key": "DP_0319_0103",
+    "original": "えんぎぶもん",
+    "translation": "えんぎぶもん",
+    "index": 103
+  },
+  {
+    "key": "DP_0319_0104",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 104
+  },
+  {
+    "key": "DP_0319_0105",
+    "original": "ノーマルランク",
+    "translation": "ノーマルランク",
+    "index": 105
+  },
+  {
+    "key": "DP_0319_0106",
+    "original": "グレートランク",
+    "translation": "グレートランク",
+    "index": 106
+  },
+  {
+    "key": "DP_0319_0107",
+    "original": "ウルトラランク",
+    "translation": "ウルトラランク",
+    "index": 107
+  },
+  {
+    "key": "DP_0319_0108",
+    "original": "マスターランク",
+    "translation": "マスターランク",
+    "index": 108
+  },
+  {
+    "key": "DP_0319_0109",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 109
+  },
+  {
+    "key": "DP_0319_0110",
+    "original": "かっこよさコンテスト",
+    "translation": "かっこよさコンテスト",
+    "index": 110
+  },
+  {
+    "key": "DP_0319_0111",
+    "original": "うつくしさコンテスト",
+    "translation": "うつくしさコンテスト",
+    "index": 111
+  },
+  {
+    "key": "DP_0319_0112",
+    "original": "かわいさコンテスト",
+    "translation": "かわいさコンテスト",
+    "index": 112
+  },
+  {
+    "key": "DP_0319_0113",
+    "original": "かしこさコンテスト",
+    "translation": "かしこさコンテスト",
+    "index": 113
+  },
+  {
+    "key": "DP_0319_0114",
+    "original": "たくましさコンテスト",
+    "translation": "たくましさコンテスト",
+    "index": 114
+  },
+  {
+    "key": "DP_0319_0115",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 115
+  },
+  {
+    "key": "DP_0319_0116",
+    "original": "１かい",
+    "translation": "１かい",
+    "index": 116
+  },
+  {
+    "key": "DP_0319_0117",
+    "original": "２かい",
+    "translation": "２かい",
+    "index": 117
+  },
+  {
+    "key": "DP_0319_0118",
+    "original": "３かい",
+    "translation": "３かい",
+    "index": 118
+  },
+  {
+    "key": "DP_0319_0119",
+    "original": "４かい",
+    "translation": "４かい",
+    "index": 119
+  },
+  {
+    "key": "DP_0319_0120",
+    "original": "５かい",
+    "translation": "５かい",
+    "index": 120
+  },
+  {
+    "key": "DP_0319_0121",
+    "original": "ちか１かい",
+    "translation": "ちか１かい",
+    "index": 121
+  },
+  {
+    "key": "DP_0319_0122",
+    "original": "ちか２かい",
+    "translation": "ちか２かい",
+    "index": 122
+  },
+  {
+    "key": "DP_0319_0123",
+    "original": "てんぼうしつ",
+    "translation": "てんぼうしつ",
+    "index": 123
+  },
+  {
+    "key": "DP_0319_0124",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 124
+  },
+  {
+    "key": "DP_0319_0125",
+    "original": "５０まい[0203,003C]１０００¥   ",
+    "translation": "５０まい[0203,003C]１０００¥   ",
+    "index": 125
+  },
+  {
+    "key": "DP_0319_0126",
+    "original": "５００まい[0203,003C]１００００¥  ",
+    "translation": "５００まい[0203,003C]１００００¥  ",
+    "index": 126
+  },
+  {
+    "key": "DP_0319_0127",
+    "original": "いらない ",
+    "translation": "いらない ",
+    "index": 127
+  },
+  {
+    "key": "DP_0319_0128",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 128
+  },
+  {
+    "key": "DP_0319_0129",
+    "original": "こうかんを する",
+    "translation": "こうかんを する",
+    "index": 129
+  },
+  {
+    "key": "DP_0319_0130",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 130
+  },
+  {
+    "key": "DP_0319_0131",
+    "original": "ポケモンをあずけるって？",
+    "translation": "ポケモンをあずけるって？",
+    "index": 131
+  },
+  {
+    "key": "DP_0319_0132",
+    "original": "ポケモンをさがすって？",
+    "translation": "ポケモンをさがすって？",
+    "index": 132
+  },
+  {
+    "key": "DP_0319_0133",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 133
+  },
+  {
+    "key": "DP_0319_0134",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 134
+  },
+  {
+    "key": "DP_0319_0135",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 135
+  },
+  {
+    "key": "DP_0319_0136",
+    "original": "やめる             ",
+    "translation": "やめる             ",
+    "index": 136
+  },
+  {
+    "key": "DP_0319_0137",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 137
+  },
+  {
+    "key": "DP_0319_0138",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 138
+  },
+  {
+    "key": "DP_0319_0139",
+    "original": "ぐるぐる",
+    "translation": "ぐるぐる",
+    "index": 139
+  },
+  {
+    "key": "DP_0319_0140",
+    "original": "レコード",
+    "translation": "レコード",
+    "index": 140
+  },
+  {
+    "key": "DP_0319_0141",
+    "original": "ちょうせんする",
+    "translation": "ちょうせんする",
+    "index": 141
+  },
+  {
+    "key": "DP_0319_0142",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 142
+  },
+  {
+    "key": "DP_0319_0143",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 143
+  },
+  {
+    "key": "DP_0319_0144",
+    "original": "シングル",
+    "translation": "シングル",
+    "index": 144
+  },
+  {
+    "key": "DP_0319_0145",
+    "original": "ダブル",
+    "translation": "ダブル",
+    "index": 145
+  },
+  {
+    "key": "DP_0319_0146",
+    "original": "つづける",
+    "translation": "つづける",
+    "index": 146
+  },
+  {
+    "key": "DP_0319_0147",
+    "original": "やすむ",
+    "translation": "やすむ",
+    "index": 147
+  },
+  {
+    "key": "DP_0319_0148",
+    "original": "リタイア",
+    "translation": "リタイア",
+    "index": 148
+  },
+  {
+    "key": "DP_0319_0149",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 149
+  },
+  {
+    "key": "DP_0319_0150",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 150
+  },
+  {
+    "key": "DP_0319_0151",
+    "original": "れきだいリーダーをみる",
+    "translation": "れきだいリーダーをみる",
+    "index": 151
+  },
+  {
+    "key": "DP_0319_0152",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "まえのへやに ちょうせんする",
+    "index": 152
+  },
+  {
+    "key": "DP_0319_0153",
+    "original": "ともだちを とうろくするには？",
+    "translation": "ともだちを とうろくするには？",
+    "index": 153
+  },
+  {
+    "key": "DP_0319_0154",
+    "original": "もう わかった！",
+    "translation": "もう わかった！",
+    "index": 154
+  },
+  {
+    "key": "DP_0319_0155",
+    "original": "もういっかい おしえて！",
+    "translation": "もういっかい おしえて！",
+    "index": 155
+  },
+  {
+    "key": "DP_0319_0156",
+    "original": "ひみつのコハク",
+    "translation": "ひみつのコハク",
+    "index": 156
+  },
+  {
+    "key": "DP_0319_0157",
+    "original": "かいのカセキ",
+    "translation": "かいのカセキ",
+    "index": 157
+  },
+  {
+    "key": "DP_0319_0158",
+    "original": "こうらのカセキ",
+    "translation": "こうらのカセキ",
+    "index": 158
+  },
+  {
+    "key": "DP_0319_0159",
+    "original": "ねっこのカセキ",
+    "translation": "ねっこのカセキ",
+    "index": 159
+  },
+  {
+    "key": "DP_0319_0160",
+    "original": "ツメのカセキ",
+    "translation": "ツメのカセキ",
+    "index": 160
+  },
+  {
+    "key": "DP_0319_0161",
+    "original": "たてのカセキ",
+    "translation": "たてのカセキ",
+    "index": 161
+  },
+  {
+    "key": "DP_0319_0162",
+    "original": "ずがいのカセキ",
+    "translation": "ずがいのカセキ",
+    "index": 162
+  },
+  {
+    "key": "DP_0319_0163",
+    "original": "ふたりで たいせん",
+    "translation": "ふたりで たいせん",
+    "index": 163
+  },
+  {
+    "key": "DP_0319_0164",
+    "original": "４にんで たいせん",
+    "translation": "４にんで たいせん",
+    "index": 164
+  },
+  {
+    "key": "DP_0319_0165",
+    "original": "あいさつ",
+    "translation": "あいさつ",
+    "index": 165
+  },
+  {
+    "key": "DP_0319_0166",
+    "original": "おはなしする",
+    "translation": "おはなしする",
+    "index": 166
+  },
+  {
+    "key": "DP_0319_0167",
+    "original": "チャット",
+    "translation": "チャット",
+    "index": 167
+  },
+  {
+    "key": "DP_0319_0168",
+    "original": "[0108,0000][0203,0060][0136,0001]",
+    "translation": "[0108,0000][0203,0060][0136,0001]",
+    "index": 168
+  },
+  {
+    "key": "DP_0319_0169",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 169
+  },
+  {
+    "key": "DP_0319_0170",
+    "original": "わざマシン２４   ４０００まい ",
+    "translation": "わざマシン２４   ４０００まい ",
+    "index": 170
+  },
+  {
+    "key": "DP_0319_0171",
+    "original": "わざマシン３０   ４５００まい ",
+    "translation": "わざマシン３０   ４５００まい ",
+    "index": 171
+  },
+  {
+    "key": "DP_0319_0172",
+    "original": "わざマシン３５   ４０００まい ",
+    "translation": "わざマシン３５   ４０００まい ",
+    "index": 172
+  },
+  {
+    "key": "DP_0319_0173",
+    "original": "いらない",
+    "translation": "いらない",
+    "index": 173
+  },
+  {
+    "key": "DP_0319_0174",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 174
+  },
+  {
+    "key": "DP_0319_0175",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 175
+  },
+  {
+    "key": "DP_0319_0176",
+    "original": "ビジュアル",
+    "translation": "ビジュアル",
+    "index": 176
+  },
+  {
+    "key": "DP_0319_0177",
+    "original": "ダンス",
+    "translation": "ダンス",
+    "index": 177
+  },
+  {
+    "key": "DP_0319_0178",
+    "original": "えんぎ",
+    "translation": "えんぎ",
+    "index": 178
+  },
+  {
+    "key": "DP_0319_0179",
+    "original": "れんしゅうって？",
+    "translation": "れんしゅうって？",
+    "index": 179
+  },
+  {
+    "key": "DP_0319_0180",
+    "original": "ハタ",
+    "translation": "ハタ",
+    "index": 180
+  },
+  {
+    "key": "DP_0319_0181",
+    "original": "タマ",
+    "translation": "タマ",
+    "index": 181
+  },
+  {
+    "key": "DP_0319_0182",
+    "original": "トラップ",
+    "translation": "トラップ",
+    "index": 182
+  },
+  {
+    "key": "DP_0319_0183",
+    "original": "グッズ",
+    "translation": "グッズ",
+    "index": 183
+  },
+  {
+    "key": "DP_0319_0184",
+    "original": "たから",
+    "translation": "たから",
+    "index": 184
+  },
+  {
+    "key": "DP_0319_0185",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "まえのへやに ちょうせんする",
+    "index": 185
+  },
+  {
+    "key": "DP_0319_0186",
+    "original": "エリア１",
+    "translation": "エリア１",
+    "index": 186
+  },
+  {
+    "key": "DP_0319_0187",
+    "original": "エリア２",
+    "translation": "エリア２",
+    "index": 187
+  },
+  {
+    "key": "DP_0319_0188",
+    "original": "エリア３",
+    "translation": "エリア３",
+    "index": 188
+  },
+  {
+    "key": "DP_0319_0189",
+    "original": "エリア４",
+    "translation": "エリア４",
+    "index": 189
+  },
+  {
+    "key": "DP_0319_0190",
+    "original": "エリア５",
+    "translation": "エリア５",
+    "index": 190
+  },
+  {
+    "key": "DP_0319_0191",
+    "original": "エリア６",
+    "translation": "エリア６",
+    "index": 191
+  },
+  {
+    "key": "DP_0319_0192",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 192
+  },
+  {
+    "key": "DP_0319_0193",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 193
+  },
+  {
+    "key": "DP_0319_0194",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 194
+  },
+  {
+    "key": "DP_0319_0195",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 195
+  },
+  {
+    "key": "DP_0319_0196",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 196
+  },
+  {
+    "key": "DP_0319_0197",
+    "original": "[0136,0000]まい",
+    "translation": "[0136,0000]まい",
+    "index": 197
+  },
+  {
+    "key": "DP_0319_0198",
+    "original": "きほんルール",
+    "translation": "きほんルール",
+    "index": 198
+  },
+  {
+    "key": "DP_0319_0199",
+    "original": "ほかくショー",
+    "translation": "ほかくショー",
+    "index": 199
+  },
+  {
+    "key": "DP_0319_0200",
+    "original": "あずけかた",
+    "translation": "あずけかた",
+    "index": 200
+  },
+  {
+    "key": "DP_0319_0201",
+    "original": "あずけかた２",
+    "translation": "あずけかた２",
+    "index": 201
+  },
+  {
+    "key": "DP_0319_0202",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 202
+  },
+  {
+    "key": "DP_0319_0203",
+    "original": "さんか する",
+    "translation": "さんか する",
+    "index": 203
+  },
+  {
+    "key": "DP_0319_0204",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 204
+  },
+  {
+    "key": "DP_0319_0205",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 205
+  },
+  {
+    "key": "DP_0319_0206",
+    "original": "ポケモンをえらぶ",
+    "translation": "ポケモンをえらぶ",
+    "index": 206
+  },
+  {
+    "key": "DP_0319_0207",
+    "original": "せつめい",
+    "translation": "せつめい",
+    "index": 207
+  },
+  {
+    "key": "DP_0319_0208",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 208
+  },
+  {
+    "key": "DP_0319_0209",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 209
+  },
+  {
+    "key": "DP_0319_0210",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 210
+  },
+  {
+    "key": "DP_0319_0211",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 211
+  },
+  {
+    "key": "DP_0319_0212",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 212
+  },
+  {
+    "key": "DP_0319_0213",
+    "original": "こうてつじま",
+    "translation": "こうてつじま",
+    "index": 213
+  },
+  {
+    "key": "DP_0319_0214",
+    "original": "まんげつじま",
+    "translation": "まんげつじま",
+    "index": 214
+  },
+  {
+    "key": "DP_0319_0215",
+    "original": "しんげつじま",
+    "translation": "しんげつじま",
+    "index": 215
+  },
+  {
+    "key": "DP_0319_0216",
+    "original": "ファイトエリア",
+    "translation": "ファイトエリア",
+    "index": 216
+  },
+  {
+    "key": "DP_0319_0217",
+    "original": "キッサキシティ",
+    "translation": "キッサキシティ",
+    "index": 217
+  },
+  {
+    "key": "DP_0319_0218",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 218
+  },
+  {
+    "key": "DP_0319_0219",
+    "original": "おいしいみず[0203,0050]２００¥",
+    "translation": "おいしいみず[0203,0050]２００¥",
+    "index": 219
+  },
+  {
+    "key": "DP_0319_0220",
+    "original": "サイコソーダ[0203,0050]３００¥",
+    "translation": "サイコソーダ[0203,0050]３００¥",
+    "index": 220
+  },
+  {
+    "key": "DP_0319_0221",
+    "original": "ミックスオレ[0203,0050]３５０¥",
+    "translation": "ミックスオレ[0203,0050]３５０¥",
+    "index": 221
+  },
+  {
+    "key": "DP_0319_0222",
+    "original": "いらない         ",
+    "translation": "いらない         ",
+    "index": 222
+  },
+  {
+    "key": "DP_0319_0223",
+    "original": "すくすくこやし[0203,005A]２００¥",
+    "translation": "すくすくこやし[0203,005A]２００¥",
+    "index": 223
+  },
+  {
+    "key": "DP_0319_0224",
+    "original": "じめじめこやし[0203,005A]２００¥",
+    "translation": "じめじめこやし[0203,005A]２００¥",
+    "index": 224
+  },
+  {
+    "key": "DP_0319_0225",
+    "original": "ながながこやし[0203,005A]２００¥",
+    "translation": "ながながこやし[0203,005A]２００¥",
+    "index": 225
+  },
+  {
+    "key": "DP_0319_0226",
+    "original": "ねばねばこやし[0203,005A]２００¥",
+    "translation": "ねばねばこやし[0203,005A]２００¥",
+    "index": 226
+  },
+  {
+    "key": "DP_0319_0227",
+    "original": "やめる            ",
+    "translation": "やめる            ",
+    "index": 227
+  },
+  {
+    "key": "DP_0319_0228",
+    "original": "なんでもない",
+    "translation": "なんでもない",
+    "index": 228
+  },
+  {
+    "key": "DP_0319_0229",
+    "original": "おすすめは？",
+    "translation": "おすすめは？",
+    "index": 229
+  },
+  {
+    "key": "DP_0319_0230",
+    "original": "[0135,0000]ＢＰ",
+    "translation": "[0135,0000]ＢＰ",
+    "index": 230
+  },
+  {
+    "key": "DP_0319_0231",
+    "original": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "translation": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "index": 231
+  },
+  {
+    "key": "DP_0319_0232",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 232
+  },
+  {
+    "key": "DP_0319_0233",
+    "original": "デジタルどけい",
+    "translation": "デジタルどけい",
+    "index": 233
+  },
+  {
+    "key": "DP_0319_0234",
+    "original": "ストップウォッチ",
+    "translation": "ストップウォッチ",
+    "index": 234
+  },
+  {
+    "key": "DP_0319_0235",
+    "original": "けいさんき",
+    "translation": "けいさんき",
+    "index": 235
+  },
+  {
+    "key": "DP_0319_0236",
+    "original": "メモようし",
+    "translation": "メモようし",
+    "index": 236
+  },
+  {
+    "key": "DP_0319_0237",
+    "original": "アナログどけい",
+    "translation": "アナログどけい",
+    "index": 237
+  },
+  {
+    "key": "DP_0319_0238",
+    "original": "ドットアート",
+    "translation": "ドットアート",
+    "index": 238
+  },
+  {
+    "key": "DP_0319_0239",
+    "original": "ポケモンリスト",
+    "translation": "ポケモンリスト",
+    "index": 239
+  },
+  {
+    "key": "DP_0319_0240",
+    "original": "なつきチェッカー",
+    "translation": "なつきチェッカー",
+    "index": 240
+  },
+  {
+    "key": "DP_0319_0241",
+    "original": "ダウジングマシン",
+    "translation": "ダウジングマシン",
+    "index": 241
+  },
+  {
+    "key": "DP_0319_0242",
+    "original": "カウンター",
+    "translation": "カウンター",
+    "index": 242
+  },
+  {
+    "key": "DP_0319_0243",
+    "original": "ほすうカウンター",
+    "translation": "ほすうカウンター",
+    "index": 243
+  },
+  {
+    "key": "DP_0319_0244",
+    "original": "そだてやチェッカー",
+    "translation": "そだてやチェッカー",
+    "index": 244
+  },
+  {
+    "key": "DP_0319_0245",
+    "original": "ルーレット",
+    "translation": "ルーレット",
+    "index": 245
+  },
+  {
+    "key": "DP_0319_0246",
+    "original": "コイントス",
+    "translation": "コイントス",
+    "index": 246
+  },
+  {
+    "key": "DP_0319_0247",
+    "original": "わざこうかチェッカー",
+    "translation": "わざこうかチェッカー",
+    "index": 247
+  },
+  {
+    "key": "DP_0319_0248",
+    "original": "あいしょうチェッカー",
+    "translation": "あいしょうチェッカー",
+    "index": 248
+  },
+  {
+    "key": "DP_0319_0249",
+    "original": "アラームどけい",
+    "translation": "アラームどけい",
+    "index": 249
+  },
+  {
+    "key": "DP_0319_0250",
+    "original": "キッチンタイマー",
+    "translation": "キッチンタイマー",
+    "index": 250
+  },
+  {
+    "key": "DP_0319_0251",
+    "original": "マーキングマップ",
+    "translation": "マーキングマップ",
+    "index": 251
+  },
+  {
+    "key": "DP_0319_0252",
+    "original": "きのみサーチャー",
+    "translation": "きのみサーチャー",
+    "index": 252
+  },
+  {
+    "key": "DP_0319_0253",
+    "original": "カラーチェンジャー",
+    "translation": "カラーチェンジャー",
+    "index": 253
+  },
+  {
+    "key": "DP_0319_0254",
+    "original": "カレンダー",
+    "translation": "カレンダー",
+    "index": 254
+  },
+  {
+    "key": "DP_0319_0255",
+    "original": "つうしんサーチャー",
+    "translation": "つうしんサーチャー",
+    "index": 255
+  },
+  {
+    "key": "DP_0319_0256",
+    "original": "ポケトレカウンター",
+    "translation": "ポケトレカウンター",
+    "index": 256
+  },
+  {
+    "key": "DP_0319_0257",
+    "original": "ポケモンヒストリー",
+    "translation": "ポケモンヒストリー",
+    "index": 257
+  },
+  {
+    "key": "DP_0319_0258",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 258
+  },
+  {
+    "key": "DP_0319_0259",
+    "original": "その１",
+    "translation": "その１",
+    "index": 259
+  },
+  {
+    "key": "DP_0319_0260",
+    "original": "その２",
+    "translation": "その２",
+    "index": 260
+  },
+  {
+    "key": "DP_0319_0261",
+    "original": "その３",
+    "translation": "その３",
+    "index": 261
+  },
+  {
+    "key": "DP_0319_0262",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 262
+  },
+  {
+    "key": "DP_0319_0263",
+    "original": "ダークボール",
+    "translation": "ダークボール",
+    "index": 263
+  },
+  {
+    "key": "DP_0319_0264",
+    "original": "ヒールボール",
+    "translation": "ヒールボール",
+    "index": 264
+  },
+  {
+    "key": "DP_0319_0265",
+    "original": "クイックボール",
+    "translation": "クイックボール",
+    "index": 265
+  },
+  {
+    "key": "DP_0319_0266",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 266
+  },
+  {
+    "key": "DP_0319_0267",
+    "original": "うちゅうのはじまり",
+    "translation": "うちゅうのはじまり",
+    "index": 267
+  },
+  {
+    "key": "DP_0319_0268",
+    "original": "しんわのポケモン",
+    "translation": "しんわのポケモン",
+    "index": 268
+  },
+  {
+    "key": "DP_0319_0269",
+    "original": "あかいくさり",
+    "translation": "あかいくさり",
+    "index": 269
+  },
+  {
+    "key": "DP_0319_0270",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 270
+  }
+]

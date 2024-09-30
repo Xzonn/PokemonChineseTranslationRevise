@@ -1,0 +1,290 @@
+[
+  {
+    "key": "HGSS_0001_0000",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0001_0001",
+    "original": "[0205]アンノーン ノート",
+    "translation": "[0205]未知图腾笔记",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0001_0002",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0001_0003",
+    "original": "[0205]アンノーンの かず",
+    "translation": "[0205]未知图腾的数量",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0001_0004",
+    "original": "[0205]げんざい [0133,0000]しゅるい",
+    "translation": "[0205]现在有[0133,0000]种",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0001_0005",
+    "original": "[0205][0132,0000]／[0132,0001]",
+    "translation": "[0205][0132,0000]／[0132,0001]",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0001_0006",
+    "original": "いせきの なかで ふしぎな\nせきばんのパズルを はっけんした\nこれを といてみたところ\nとつぜん じめんに あながあいて\nしたの へやに おちてしまった！\nさすがは こだいのいせき\nびっくりの しかけが あるものだ",
+    "translation": "遗迹中发现了奇怪的\n拼版。在拼完后突然\n地上出现一个洞，\n我掉了进去！\n真不愧是古代遗迹啊，\n居然还有这种机关。",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0001_0007",
+    "original": "おちたところは せきぞうのある\nおおひろま だった\nそして とつぜん アンノーンが\nあらわれるように なった\nつまり あの せきばんパズルは\nアンノーンを ねむりから さます\nカギに なっていた というわけだ\nこのいせき なかなか てごわい",
+    "translation": "掉下去的地方是个\n摆放着石像的大厅，而且\n突然未知图腾就出现了。\n也就是说那个石板拼图是\n唤醒未知图腾的钥匙。\n这遗迹还蛮难解的。",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0001_0008",
+    "original": "いせきで ラジオを つけると\nなぞの でんぱを じゅしん\nすることが わかった\nこれは アンノーンどうしが\nでんぱを つうじて\nかいわ している ということの\nしょうこ でもある",
+    "translation": "在遗迹中打开收音机\n会收到一种未知的\n电波。这是未知图腾之间\n以电波进行联络对话的\n强有力证明。",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0001_0009",
+    "original": "アンノーンは もじの しゅるいと\nおなじ かずだけ\nいることが わかった\nげんざいは ２６しゅるいの\nもじが かくにん されている\nということは アンノーンも\n２６しゅるいは いる はずだ\nぜんぶ みつけられるだろうか？",
+    "translation": "已知未知图腾有与英文字母\n一样多的种类。已确认的\n字母有２６个，而已确认的\n未知图腾种类也是２６种，\n也就是说未知图腾总共只有\n２６种，能全部抓齐吗？",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0001_0010",
+    "original": "ひとつひとつ デタラメに\nそんざい していると おもわれた\nアンノーンに じゅんばんが\nあることが わかった\nしぜんかいに あるものは\nいっけん バラバラな ようでいて\nじつは それぞれに きちんと\nほうそくが あるのだという",
+    "translation": "现在知道未知图腾也是\n有顺序的了。\n自然界存在的一切事物看似\n四分五裂其实都是有自己的\n规律的。",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0001_0011",
+    "original": "このノートに バラバラに\nきろく されていた アンノーンを\nけんきゅうじょの スタッフが\nただしい じゅんばんに\nならべかえて おいてくれた\nこれで ずいぶんと\nアンノーンの ことが\nわかりやすく なった",
+    "translation": "将零碎地记录在这笔记上的\n未知图腾，交送给研究所的\n工作人员进行重新排序了。\n这么一来未知图腾的事\n就能了解清楚了。",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0001_0012",
+    "original": "いせきの ゆかに\nアンノーンもじが かかれている\nへやを みつけてしまった\nどうやら だいはっけん らしい！\nけんきゅうじょの ひとが\nこうふんして しらべに いくと\nいっていた",
+    "translation": "在遗迹里发现了地板上\n刻有未知图腾图案的房间。\n这似乎是个大发现啊！\n研究所的人都很兴奋地\n说要来调查。",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0001_0013",
+    "original": "アンノーンもじは ２６しゅるい\nだけでは なかった\nほかに あと ２つの もじが\nはっけん されたのだという\nということは アンノーンも\nさらに ２しゅるいが\nどこかにいる ということになる",
+    "translation": "未知图腾字母不光２６种，\n还发现了其他的两种。\n就是说未知图腾也还有\n另外的两种。",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0001_0014",
+    "original": "[0204,0018]ちいさなへやの せきばんに\nかかれていた もじを\nこのノートに かきうつしておく",
+    "translation": "[0204,0018]把刻在小房间石板上的\n字母也记录到笔记上了。",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0001_0015",
+    "original": "[0204,0048]NAKAMATACHI\nWARERA MIAGE\nSYUKUFUKU SURU",
+    "translation": "[0204,0048]NAKAMATACHI\nWARERA MIAGE\nSYUKUFUKU SURU",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0001_0016",
+    "original": "[0204,0078]これが どんないみ なのかは\nまだ わからない",
+    "translation": "[0204,0078]现在还不知道\n这到底是什么意思。",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0001_0017",
+    "original": "けんきゅうじょの ひとは\nもういちど いせきを\nしらべる ひつようが ありそうだ\nと いっていた けれど⋯⋯？",
+    "translation": "研究所的人说\n还有必要去遗迹调查\n一下……",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0001_0018",
+    "original": "むかし このいせきには\nアンノーンと にんげんの\nいちぞくが すんでいた らしい\nいせきの ちかにある\nふるい ポケモンのぞうは\nそのいちぞくが つくったのだ\nということが わかってきた",
+    "translation": "看来很久以前就有\n未知图腾和人类\n在此居住了。\n遗迹地下的石像就是\n那些人类制造的。",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0001_0019",
+    "original": "アンノーンたちは\nとても おくびょう なので\nいせきの そとには でてこない\nまた いせきの そばに いろんな\nにんげんが くるようになり\nアンノーンと にんげんの\nきょうぞんを ねがう いちぞくは\nここを はなれていった という",
+    "translation": "未知图腾非常胆小，\n基本不离开遗迹。而遗迹旁的\n人类则渐渐地都来了这里，\n希望未知图腾与人类\n能够共存的一族人最后\n离开了这里。",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0001_0020",
+    "original": "ANGRY",
+    "translation": "ANGRY",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0001_0021",
+    "original": "BEAR",
+    "translation": "BEAR",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0001_0022",
+    "original": "CHASE",
+    "translation": "CHASE",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0001_0023",
+    "original": "DIRECT",
+    "translation": "DIRECT",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0001_0024",
+    "original": "ENGAGE",
+    "translation": "ENGAGE",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0001_0025",
+    "original": "FIND",
+    "translation": "FIND",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0001_0026",
+    "original": "GIVE",
+    "translation": "GIVE",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0001_0027",
+    "original": "HELP",
+    "translation": "HELP",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0001_0028",
+    "original": "INCREASE",
+    "translation": "INCREASE",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0001_0029",
+    "original": "JOIN",
+    "translation": "JOIN",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0001_0030",
+    "original": "KEEP",
+    "translation": "KEEP",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0001_0031",
+    "original": "LAUGH",
+    "translation": "LAUGH",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0001_0032",
+    "original": "MAKE",
+    "translation": "MAKE",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0001_0033",
+    "original": "NUZZLE",
+    "translation": "NUZZLE",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0001_0034",
+    "original": "OBSERVE",
+    "translation": "OBSERVE",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0001_0035",
+    "original": "PERFORM",
+    "translation": "PERFORM",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0001_0036",
+    "original": "QUICKEN",
+    "translation": "QUICKEN",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0001_0037",
+    "original": "REASSURE",
+    "translation": "REASSURE",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0001_0038",
+    "original": "SEARCH",
+    "translation": "SEARCH",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0001_0039",
+    "original": "TELL",
+    "translation": "TELL",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0001_0040",
+    "original": "UNDO",
+    "translation": "UNDO",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0001_0041",
+    "original": "VANISH",
+    "translation": "VANISH",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0001_0042",
+    "original": "WANT",
+    "translation": "WANT",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0001_0043",
+    "original": "XXXXX",
+    "translation": "XXXXX",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0001_0044",
+    "original": "YIELD",
+    "translation": "YIELD",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0001_0045",
+    "original": "ZOOM",
+    "translation": "ZOOM",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0001_0046",
+    "original": "!!!!!",
+    "translation": "!!!!!",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0001_0047",
+    "original": "?????",
+    "translation": "?????",
+    "index": 47
+  }
+]

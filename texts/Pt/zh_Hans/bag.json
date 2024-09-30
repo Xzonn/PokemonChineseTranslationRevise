@@ -1,0 +1,680 @@
+[
+  {
+    "key": "PT_0007_0000",
+    "original": "つかう",
+    "translation": "使用",
+    "index": 0
+  },
+  {
+    "key": "PT_0007_0001",
+    "original": "すてる",
+    "translation": "删除",
+    "index": 1
+  },
+  {
+    "key": "PT_0007_0002",
+    "original": "とうろく",
+    "translation": "登录",
+    "index": 2
+  },
+  {
+    "key": "PT_0007_0003",
+    "original": "もたせる",
+    "translation": "携带",
+    "index": 3
+  },
+  {
+    "key": "PT_0007_0004",
+    "original": "タグをみる",
+    "translation": "查看标签",
+    "index": 4
+  },
+  {
+    "key": "PT_0007_0005",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 5
+  },
+  {
+    "key": "PT_0007_0006",
+    "original": "おりる",
+    "translation": "下来",
+    "index": 6
+  },
+  {
+    "key": "PT_0007_0007",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 7
+  },
+  {
+    "key": "PT_0007_0008",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 8
+  },
+  {
+    "key": "PT_0007_0009",
+    "original": "みせる",
+    "translation": "出示",
+    "index": 9
+  },
+  {
+    "key": "PT_0007_0010",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 10
+  },
+  {
+    "key": "PT_0007_0011",
+    "original": "キャンセル",
+    "translation": "取消",
+    "index": 11
+  },
+  {
+    "key": "PT_0007_0012",
+    "original": "もちもの",
+    "translation": "持有物",
+    "index": 12
+  },
+  {
+    "key": "PT_0007_0013",
+    "original": "メール",
+    "translation": "邮件",
+    "index": 13
+  },
+  {
+    "key": "PT_0007_0014",
+    "original": "あずかる",
+    "translation": "收回",
+    "index": 14
+  },
+  {
+    "key": "PT_0007_0015",
+    "original": "あずける",
+    "translation": "寄放",
+    "index": 15
+  },
+  {
+    "key": "PT_0007_0016",
+    "original": "みる",
+    "translation": "看",
+    "index": 16
+  },
+  {
+    "key": "PT_0007_0017",
+    "original": "なし",
+    "translation": "无",
+    "index": 17
+  },
+  {
+    "key": "PT_0007_0018",
+    "original": "かいじょ",
+    "translation": "解除",
+    "index": 18
+  },
+  {
+    "key": "PT_0007_0019",
+    "original": "???",
+    "translation": "???",
+    "index": 19
+  },
+  {
+    "key": "PT_0007_0020",
+    "original": "?????",
+    "translation": "?????",
+    "index": 20
+  },
+  {
+    "key": "PT_0007_0021",
+    "original": "/",
+    "translation": "/",
+    "index": 21
+  },
+  {
+    "key": "PT_0007_0022",
+    "original": "-",
+    "translation": "-",
+    "index": 22
+  },
+  {
+    "key": "PT_0007_0023",
+    "original": "--",
+    "translation": "--",
+    "index": 23
+  },
+  {
+    "key": "PT_0007_0024",
+    "original": "---",
+    "translation": "---",
+    "index": 24
+  },
+  {
+    "key": "PT_0007_0025",
+    "original": "㊚",
+    "translation": "♂",
+    "index": 25
+  },
+  {
+    "key": "PT_0007_0026",
+    "original": "㊛",
+    "translation": "♀",
+    "index": 26
+  },
+  {
+    "key": "PT_0007_0027",
+    "original": "Lv",
+    "translation": "Lv",
+    "index": 27
+  },
+  {
+    "key": "PT_0007_0028",
+    "original": "No",
+    "translation": "No",
+    "index": 28
+  },
+  {
+    "key": "PT_0007_0029",
+    "original": "+",
+    "translation": "+",
+    "index": 29
+  },
+  {
+    "key": "PT_0007_0030",
+    "original": "→",
+    "translation": "→",
+    "index": 30
+  },
+  {
+    "key": "PT_0007_0031",
+    "original": "IDNo",
+    "translation": "IDNo",
+    "index": 31
+  },
+  {
+    "key": "PT_0007_0032",
+    "original": " ",
+    "translation": "　",
+    "index": 32
+  },
+  {
+    "key": "PT_0007_0033",
+    "original": "カーソル",
+    "translation": "光标",
+    "index": 33
+  },
+  {
+    "key": "PT_0007_0034",
+    "original": "まえに もどります！",
+    "translation": "返回上一页！",
+    "index": 34
+  },
+  {
+    "key": "PT_0007_0035",
+    "original": "なにを しますか？",
+    "translation": "您要做什么？",
+    "index": 35
+  },
+  {
+    "key": "PT_0007_0036",
+    "original": "あげる",
+    "translation": "送出",
+    "index": 36
+  },
+  {
+    "key": "PT_0007_0037",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 37
+  },
+  {
+    "key": "PT_0007_0038",
+    "original": "x",
+    "translation": "x",
+    "index": 38
+  },
+  {
+    "key": "PT_0007_0039",
+    "original": "のみ",
+    "translation": "只有",
+    "index": 39
+  },
+  {
+    "key": "PT_0007_0040",
+    "original": "[0135,0000]まい",
+    "translation": "[0135,0000]枚",
+    "index": 40
+  },
+  {
+    "key": "PT_0007_0041",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 41
+  },
+  {
+    "key": "PT_0007_0042",
+    "original": "[0108,0000]を\nどうしますか？",
+    "translation": "要拿\n[0108,0000]怎么办？",
+    "index": 42
+  },
+  {
+    "key": "PT_0007_0043",
+    "original": "ここで メールを\nかくことは できません！",
+    "translation": "无法在这里\n写邮件！",
+    "index": 43
+  },
+  {
+    "key": "PT_0007_0044",
+    "original": "ポケモンが いませんよ！",
+    "translation": "没有宝可梦哦！",
+    "index": 44
+  },
+  {
+    "key": "PT_0007_0045",
+    "original": "[0108,0000]を\nどこに いれますか？",
+    "translation": "将[0108,0000]放在哪里？",
+    "index": 45
+  },
+  {
+    "key": "PT_0007_0046",
+    "original": "[0108,0000]を\nもたせることは できません！",
+    "translation": "[0108,0000]无法持有！",
+    "index": 46
+  },
+  {
+    "key": "PT_0007_0047",
+    "original": "ここでは [0108,0000]を\nもたせることは できません！",
+    "translation": "在这里无法持有[0108,0000]！",
+    "index": 47
+  },
+  {
+    "key": "PT_0007_0048",
+    "original": "[0108,0000]を\nいくつ あずけますか？",
+    "translation": "要寄存多少[0108,0000]？",
+    "index": 48
+  },
+  {
+    "key": "PT_0007_0049",
+    "original": "[0108,0000]を\n[0133,0001]コ あずけました",
+    "translation": "寄存了[0133,0001]个的\n[0108,0000]。",
+    "index": 49
+  },
+  {
+    "key": "PT_0007_0050",
+    "original": "これいじょう あずけられません！",
+    "translation": "无法再寄存更多！",
+    "index": 50
+  },
+  {
+    "key": "PT_0007_0051",
+    "original": "これは とても たいせつな\nもの なので すてられません！",
+    "translation": "这是非常重要的道具\n不能丢弃！",
+    "index": 51
+  },
+  {
+    "key": "PT_0007_0052",
+    "original": "[0108,0000]を\nいくつ すてますか？",
+    "translation": "要丢弃多少[0108,0000]？",
+    "index": 52
+  },
+  {
+    "key": "PT_0007_0053",
+    "original": "[0108,0000]を\n[0133,0001]コ すてました",
+    "translation": "丢弃了[0133,0001]个\n[0108,0000]。",
+    "index": 53
+  },
+  {
+    "key": "PT_0007_0054",
+    "original": "[0108,0000]を\n[0134,0001]コ すてても よろしいですか？",
+    "translation": "确定要丢弃[0134,0001]个[0108,0000]吗？",
+    "index": 54
+  },
+  {
+    "key": "PT_0007_0055",
+    "original": "おとうさんの ことば⋯⋯\n[0103,0000]！ こういうものには\\r\nつかいどきが あるんだ！",
+    "translation": "爸爸说过……\n[0103,0000]！每样东西\\r\n都有各自的用处！",
+    "index": 55
+  },
+  {
+    "key": "PT_0007_0056",
+    "original": "ここでは おりられない！",
+    "translation": "这里无法下车！",
+    "index": 56
+  },
+  {
+    "key": "PT_0007_0057",
+    "original": "あなたの コイン [0136,0000]まい",
+    "translation": "你的硬币有[0136,0000]枚。",
+    "index": 57
+  },
+  {
+    "key": "PT_0007_0058",
+    "original": "わざマシンを きどうした！[0202,0003][0202,0004]",
+    "translation": "启动了招式学习器！[0202,0003][0202,0004]",
+    "index": 58
+  },
+  {
+    "key": "PT_0007_0059",
+    "original": "ひでんマシンを きどうした！[0202,0003][0202,0004]",
+    "translation": "启动了秘传学习器！[0202,0003][0202,0004]",
+    "index": 59
+  },
+  {
+    "key": "PT_0007_0060",
+    "original": "なかには [0106,0000]が\nきろく されていた！\\f\n[0106,0000]を\nポケモンに おぼえさせますか？",
+    "translation": "里面记录了[0106,0000]！\\f\n要让宝可梦学习[0106,0000]吗？",
+    "index": 60
+  },
+  {
+    "key": "PT_0007_0061",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！",
+    "translation": "[0103,0000]\n使用了[0108,0001]！",
+    "index": 61
+  },
+  {
+    "key": "PT_0007_0062",
+    "original": "まだ まえに つかった\nスプレーの こうかが のこってます！",
+    "translation": "之前使用的喷雾效果还留着！",
+    "index": 62
+  },
+  {
+    "key": "PT_0007_0063",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しやすくなった！",
+    "translation": "[0103,0000]使用了[0108,0001]！\\f\n遭遇野生宝可梦的几率提高了！",
+    "index": 63
+  },
+  {
+    "key": "PT_0007_0064",
+    "original": "[0103,0000]は\n[0108,0001]を つかった！\\f\nポケモンと\nそうぐう しにくくなった！",
+    "translation": "[0103,0000]使用了[0108,0001]！\\f\n遭遇野生宝可梦的几率降低了！",
+    "index": 64
+  },
+  {
+    "key": "PT_0007_0065",
+    "original": "ボックスが いっぱい です！",
+    "translation": "盒子满了！",
+    "index": 65
+  },
+  {
+    "key": "PT_0007_0066",
+    "original": "こなの りょう [0135,0000]",
+    "translation": "粉末量[0135,0000]",
+    "index": 66
+  },
+  {
+    "key": "PT_0007_0067",
+    "original": "No[0133,0000][0106,0001]",
+    "translation": "No[0133,0000][0106,0001]",
+    "index": 67
+  },
+  {
+    "key": "PT_0007_0068",
+    "original": "No[0133,0000][0106,0001]",
+    "translation": "No[0133,0000][0106,0001]",
+    "index": 68
+  },
+  {
+    "key": "PT_0007_0069",
+    "original": "[0133,0000][0106,0001]",
+    "translation": "[0133,0000][0106,0001]",
+    "index": 69
+  },
+  {
+    "key": "PT_0007_0070",
+    "original": "きのみのこな",
+    "translation": "果实粉末",
+    "index": 70
+  },
+  {
+    "key": "PT_0007_0071",
+    "original": "ポケモンのふえを ふいた！\nうーん！ すばらしい ねいろだ！",
+    "translation": "吹起了宝可梦之笛！\n嗯！很美的音色！",
+    "index": 71
+  },
+  {
+    "key": "PT_0007_0072",
+    "original": "ポケモンのふえを ふいた！",
+    "translation": "吹起了宝可梦之笛！",
+    "index": 72
+  },
+  {
+    "key": "PT_0007_0073",
+    "original": "ふえのねを きいた\nポケモンは めを さました",
+    "translation": "听到笛音的宝可梦\n醒过来了。",
+    "index": 73
+  },
+  {
+    "key": "PT_0007_0074",
+    "original": "[0108,0000]を\nかいとるわけには いきません！",
+    "translation": "不能卖掉[0108,0000]！",
+    "index": 74
+  },
+  {
+    "key": "PT_0007_0075",
+    "original": "[0108,0000]を\nいくつ うりますか？",
+    "translation": "要卖出多少个[0108,0000]？",
+    "index": 75
+  },
+  {
+    "key": "PT_0007_0076",
+    "original": "それでしたら [0137,0000]¥で\nおひきとり いたしましょう",
+    "translation": "这样的话以$[0137,0000]的\n价格成交吧。",
+    "index": 76
+  },
+  {
+    "key": "PT_0007_0077",
+    "original": "[0108,0000]を わたして\n[0137,0001]¥を うけとった",
+    "translation": "用[0108,0000]交换得到了\n$[0137,0001]。",
+    "index": 77
+  },
+  {
+    "key": "PT_0007_0078",
+    "original": "おこづかい",
+    "translation": "零花钱",
+    "index": 78
+  },
+  {
+    "key": "PT_0007_0079",
+    "original": "[0137,0000]¥",
+    "translation": "$[0137,0000]",
+    "index": 79
+  },
+  {
+    "key": "PT_0007_0080",
+    "original": "x[0133,0000]",
+    "translation": "x[0133,0000]",
+    "index": 80
+  },
+  {
+    "key": "PT_0007_0081",
+    "original": "[0137,0000]¥",
+    "translation": "$[0137,0000]",
+    "index": 81
+  },
+  {
+    "key": "PT_0007_0082",
+    "original": "はい",
+    "translation": "是",
+    "index": 82
+  },
+  {
+    "key": "PT_0007_0083",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 83
+  },
+  {
+    "key": "PT_0007_0084",
+    "original": "x[0134,0000]",
+    "translation": "x[0134,0000]",
+    "index": 84
+  },
+  {
+    "key": "PT_0007_0085",
+    "original": "とりだす",
+    "translation": "取出",
+    "index": 85
+  },
+  {
+    "key": "PT_0007_0086",
+    "original": "PP",
+    "translation": "PP",
+    "index": 86
+  },
+  {
+    "key": "PT_0007_0087",
+    "original": "いりょく",
+    "translation": "威力",
+    "index": 87
+  },
+  {
+    "key": "PT_0007_0088",
+    "original": "めいちゅう",
+    "translation": "命中",
+    "index": 88
+  },
+  {
+    "key": "PT_0007_0089",
+    "original": "ぶんるい",
+    "translation": "分类",
+    "index": 89
+  },
+  {
+    "key": "PT_0007_0090",
+    "original": "[0133,0000]",
+    "translation": "[0133,0000]",
+    "index": 90
+  },
+  {
+    "key": "PT_0007_0091",
+    "original": "[0134,0000]",
+    "translation": "[0134,0000]",
+    "index": 91
+  },
+  {
+    "key": "PT_0007_0092",
+    "original": "シール [0135,0000]まい",
+    "translation": "贴纸[0135,0000]枚",
+    "index": 92
+  },
+  {
+    "key": "PT_0007_0093",
+    "original": "アクセサリー [0134,0000]こ\nかべがみ    [0133,0001]まい",
+    "translation": "装饰品[0134,0000]个\n壁纸[0133,0001]枚",
+    "index": 93
+  },
+  {
+    "key": "PT_0007_0094",
+    "original": "バッグを とじます",
+    "translation": "合上包包",
+    "index": 94
+  },
+  {
+    "key": "PT_0007_0095",
+    "original": "うめる",
+    "translation": "种植",
+    "index": 95
+  },
+  {
+    "key": "PT_0007_0096",
+    "original": "ひらく",
+    "translation": "打开",
+    "index": 96
+  },
+  {
+    "key": "PT_0007_0097",
+    "original": "たまった バトルポイント\n[0135,0000]ＢＰ",
+    "translation": "积累的对战点数\n[0135,0000]ＢＰ",
+    "index": 97
+  },
+  {
+    "key": "PT_0007_0098",
+    "original": "タイプ",
+    "translation": "属性",
+    "index": 98
+  },
+  {
+    "key": "PT_0007_0099",
+    "original": "バッグに いれてある どうぐを\nべんりボタンに とうろく できます",
+    "translation": "放在包包里的道具能够\n登录成快捷键方便使用。",
+    "index": 99
+  },
+  {
+    "key": "PT_0007_0100",
+    "original": "たからぶくろ の なかを\nのぞいた！",
+    "translation": "查看了宝物袋！",
+    "index": 100
+  },
+  {
+    "key": "PT_0007_0101",
+    "original": "[0108,0000] を\nとりだした！",
+    "translation": "取出了[0108,0000]！",
+    "index": 101
+  },
+  {
+    "key": "PT_0007_0102",
+    "original": "[0108,0000] を\n[011B,0001] に しまった",
+    "translation": "将[0108,0000]\n放入了[011B,0001]中。",
+    "index": 102
+  },
+  {
+    "key": "PT_0007_0103",
+    "original": "ぜんぶ とりだした！",
+    "translation": "全部取出来了！",
+    "index": 103
+  },
+  {
+    "key": "PT_0007_0104",
+    "original": "なかには なにも\nなかった⋯⋯",
+    "translation": "里面什么也没有……",
+    "index": 104
+  },
+  {
+    "key": "PT_0007_0105",
+    "original": "しかし [011B,0000] が\nいっぱいで とりだせ なかった⋯⋯",
+    "translation": "但是[011B,0000]满了\n无法再取了……",
+    "index": 105
+  },
+  {
+    "key": "PT_0007_0106",
+    "original": "バッテリー が たりない！\nじゅうでん かんりょうまで\\r\nあと [0133,0000]ほ ",
+    "translation": "电量不足！\n离充满电为止\\r\n还差[0133,0000]步。　",
+    "index": 106
+  },
+  {
+    "key": "PT_0007_0107",
+    "original": "くさむらは\nしずか だった⋯⋯",
+    "translation": "草丛里很安静……",
+    "index": 107
+  },
+  {
+    "key": "PT_0007_0108",
+    "original": "ポフィンのかず",
+    "translation": "宝芬的数量",
+    "index": 108
+  },
+  {
+    "key": "PT_0007_0109",
+    "original": "[0134,0000]／１００",
+    "translation": "[0134,0000]／１００",
+    "index": 109
+  },
+  {
+    "key": "PT_0007_0110",
+    "original": "りょうりに つかう きのみを\nバッグから えらんで ください！",
+    "translation": "请从包包里选择\n烹饪时要使用的树果！",
+    "index": 110
+  },
+  {
+    "key": "PT_0007_0111",
+    "original": "ふたりで いるときは\nつかえません！",
+    "translation": "有两个人的时候\n无法使用！",
+    "index": 111
+  },
+  {
+    "key": "PT_0007_0112",
+    "original": "つりざおを つかおうと したが\nここには なにも いないようだ⋯⋯",
+    "translation": "虽然想钓鱼\n但这里似乎什么也没有……",
+    "index": 112
+  }
+]

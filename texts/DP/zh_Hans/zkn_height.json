@@ -1,0 +1,2966 @@
+[
+  {
+    "key": "DP_0802_0000",
+    "original": "？？？.？ｍ",
+    "translation": "???.?ｍ",
+    "index": 0
+  },
+  {
+    "key": "DP_0802_0001",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 1
+  },
+  {
+    "key": "DP_0802_0002",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 2
+  },
+  {
+    "key": "DP_0802_0003",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 3
+  },
+  {
+    "key": "DP_0802_0004",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 4
+  },
+  {
+    "key": "DP_0802_0005",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 5
+  },
+  {
+    "key": "DP_0802_0006",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 6
+  },
+  {
+    "key": "DP_0802_0007",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 7
+  },
+  {
+    "key": "DP_0802_0008",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 8
+  },
+  {
+    "key": "DP_0802_0009",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 9
+  },
+  {
+    "key": "DP_0802_0010",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 10
+  },
+  {
+    "key": "DP_0802_0011",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 11
+  },
+  {
+    "key": "DP_0802_0012",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 12
+  },
+  {
+    "key": "DP_0802_0013",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 13
+  },
+  {
+    "key": "DP_0802_0014",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 14
+  },
+  {
+    "key": "DP_0802_0015",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 15
+  },
+  {
+    "key": "DP_0802_0016",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 16
+  },
+  {
+    "key": "DP_0802_0017",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 17
+  },
+  {
+    "key": "DP_0802_0018",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 18
+  },
+  {
+    "key": "DP_0802_0019",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 19
+  },
+  {
+    "key": "DP_0802_0020",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 20
+  },
+  {
+    "key": "DP_0802_0021",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 21
+  },
+  {
+    "key": "DP_0802_0022",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 22
+  },
+  {
+    "key": "DP_0802_0023",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 23
+  },
+  {
+    "key": "DP_0802_0024",
+    "original": "  ３．５ｍ",
+    "translation": "  ３．５ｍ",
+    "index": 24
+  },
+  {
+    "key": "DP_0802_0025",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 25
+  },
+  {
+    "key": "DP_0802_0026",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 26
+  },
+  {
+    "key": "DP_0802_0027",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 27
+  },
+  {
+    "key": "DP_0802_0028",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 28
+  },
+  {
+    "key": "DP_0802_0029",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 29
+  },
+  {
+    "key": "DP_0802_0030",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 30
+  },
+  {
+    "key": "DP_0802_0031",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 31
+  },
+  {
+    "key": "DP_0802_0032",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 32
+  },
+  {
+    "key": "DP_0802_0033",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 33
+  },
+  {
+    "key": "DP_0802_0034",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 34
+  },
+  {
+    "key": "DP_0802_0035",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 35
+  },
+  {
+    "key": "DP_0802_0036",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 36
+  },
+  {
+    "key": "DP_0802_0037",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 37
+  },
+  {
+    "key": "DP_0802_0038",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 38
+  },
+  {
+    "key": "DP_0802_0039",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 39
+  },
+  {
+    "key": "DP_0802_0040",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 40
+  },
+  {
+    "key": "DP_0802_0041",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 41
+  },
+  {
+    "key": "DP_0802_0042",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 42
+  },
+  {
+    "key": "DP_0802_0043",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 43
+  },
+  {
+    "key": "DP_0802_0044",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 44
+  },
+  {
+    "key": "DP_0802_0045",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 45
+  },
+  {
+    "key": "DP_0802_0046",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 46
+  },
+  {
+    "key": "DP_0802_0047",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 47
+  },
+  {
+    "key": "DP_0802_0048",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 48
+  },
+  {
+    "key": "DP_0802_0049",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 49
+  },
+  {
+    "key": "DP_0802_0050",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 50
+  },
+  {
+    "key": "DP_0802_0051",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 51
+  },
+  {
+    "key": "DP_0802_0052",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 52
+  },
+  {
+    "key": "DP_0802_0053",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 53
+  },
+  {
+    "key": "DP_0802_0054",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 54
+  },
+  {
+    "key": "DP_0802_0055",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 55
+  },
+  {
+    "key": "DP_0802_0056",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 56
+  },
+  {
+    "key": "DP_0802_0057",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 57
+  },
+  {
+    "key": "DP_0802_0058",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 58
+  },
+  {
+    "key": "DP_0802_0059",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 59
+  },
+  {
+    "key": "DP_0802_0060",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 60
+  },
+  {
+    "key": "DP_0802_0061",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 61
+  },
+  {
+    "key": "DP_0802_0062",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 62
+  },
+  {
+    "key": "DP_0802_0063",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 63
+  },
+  {
+    "key": "DP_0802_0064",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 64
+  },
+  {
+    "key": "DP_0802_0065",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 65
+  },
+  {
+    "key": "DP_0802_0066",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 66
+  },
+  {
+    "key": "DP_0802_0067",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 67
+  },
+  {
+    "key": "DP_0802_0068",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 68
+  },
+  {
+    "key": "DP_0802_0069",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 69
+  },
+  {
+    "key": "DP_0802_0070",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 70
+  },
+  {
+    "key": "DP_0802_0071",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 71
+  },
+  {
+    "key": "DP_0802_0072",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 72
+  },
+  {
+    "key": "DP_0802_0073",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 73
+  },
+  {
+    "key": "DP_0802_0074",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 74
+  },
+  {
+    "key": "DP_0802_0075",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 75
+  },
+  {
+    "key": "DP_0802_0076",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 76
+  },
+  {
+    "key": "DP_0802_0077",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 77
+  },
+  {
+    "key": "DP_0802_0078",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 78
+  },
+  {
+    "key": "DP_0802_0079",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 79
+  },
+  {
+    "key": "DP_0802_0080",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 80
+  },
+  {
+    "key": "DP_0802_0081",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 81
+  },
+  {
+    "key": "DP_0802_0082",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 82
+  },
+  {
+    "key": "DP_0802_0083",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 83
+  },
+  {
+    "key": "DP_0802_0084",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 84
+  },
+  {
+    "key": "DP_0802_0085",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 85
+  },
+  {
+    "key": "DP_0802_0086",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 86
+  },
+  {
+    "key": "DP_0802_0087",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 87
+  },
+  {
+    "key": "DP_0802_0088",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 88
+  },
+  {
+    "key": "DP_0802_0089",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 89
+  },
+  {
+    "key": "DP_0802_0090",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 90
+  },
+  {
+    "key": "DP_0802_0091",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 91
+  },
+  {
+    "key": "DP_0802_0092",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 92
+  },
+  {
+    "key": "DP_0802_0093",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 93
+  },
+  {
+    "key": "DP_0802_0094",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 94
+  },
+  {
+    "key": "DP_0802_0095",
+    "original": "  ８．８ｍ",
+    "translation": "  ８．８ｍ",
+    "index": 95
+  },
+  {
+    "key": "DP_0802_0096",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 96
+  },
+  {
+    "key": "DP_0802_0097",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 97
+  },
+  {
+    "key": "DP_0802_0098",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 98
+  },
+  {
+    "key": "DP_0802_0099",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 99
+  },
+  {
+    "key": "DP_0802_0100",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 100
+  },
+  {
+    "key": "DP_0802_0101",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 101
+  },
+  {
+    "key": "DP_0802_0102",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 102
+  },
+  {
+    "key": "DP_0802_0103",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 103
+  },
+  {
+    "key": "DP_0802_0104",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 104
+  },
+  {
+    "key": "DP_0802_0105",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 105
+  },
+  {
+    "key": "DP_0802_0106",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 106
+  },
+  {
+    "key": "DP_0802_0107",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 107
+  },
+  {
+    "key": "DP_0802_0108",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 108
+  },
+  {
+    "key": "DP_0802_0109",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 109
+  },
+  {
+    "key": "DP_0802_0110",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 110
+  },
+  {
+    "key": "DP_0802_0111",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 111
+  },
+  {
+    "key": "DP_0802_0112",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 112
+  },
+  {
+    "key": "DP_0802_0113",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 113
+  },
+  {
+    "key": "DP_0802_0114",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 114
+  },
+  {
+    "key": "DP_0802_0115",
+    "original": "  ２．２ｍ",
+    "translation": "  ２．２ｍ",
+    "index": 115
+  },
+  {
+    "key": "DP_0802_0116",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 116
+  },
+  {
+    "key": "DP_0802_0117",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 117
+  },
+  {
+    "key": "DP_0802_0118",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 118
+  },
+  {
+    "key": "DP_0802_0119",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 119
+  },
+  {
+    "key": "DP_0802_0120",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 120
+  },
+  {
+    "key": "DP_0802_0121",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 121
+  },
+  {
+    "key": "DP_0802_0122",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 122
+  },
+  {
+    "key": "DP_0802_0123",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 123
+  },
+  {
+    "key": "DP_0802_0124",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 124
+  },
+  {
+    "key": "DP_0802_0125",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 125
+  },
+  {
+    "key": "DP_0802_0126",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 126
+  },
+  {
+    "key": "DP_0802_0127",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 127
+  },
+  {
+    "key": "DP_0802_0128",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 128
+  },
+  {
+    "key": "DP_0802_0129",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 129
+  },
+  {
+    "key": "DP_0802_0130",
+    "original": "  ６．５ｍ",
+    "translation": "  ６．５ｍ",
+    "index": 130
+  },
+  {
+    "key": "DP_0802_0131",
+    "original": "  ２．５ｍ",
+    "translation": "  ２．５ｍ",
+    "index": 131
+  },
+  {
+    "key": "DP_0802_0132",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 132
+  },
+  {
+    "key": "DP_0802_0133",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 133
+  },
+  {
+    "key": "DP_0802_0134",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 134
+  },
+  {
+    "key": "DP_0802_0135",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 135
+  },
+  {
+    "key": "DP_0802_0136",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 136
+  },
+  {
+    "key": "DP_0802_0137",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 137
+  },
+  {
+    "key": "DP_0802_0138",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 138
+  },
+  {
+    "key": "DP_0802_0139",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 139
+  },
+  {
+    "key": "DP_0802_0140",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 140
+  },
+  {
+    "key": "DP_0802_0141",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 141
+  },
+  {
+    "key": "DP_0802_0142",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 142
+  },
+  {
+    "key": "DP_0802_0143",
+    "original": "  ２．１ｍ",
+    "translation": "  ２．１ｍ",
+    "index": 143
+  },
+  {
+    "key": "DP_0802_0144",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 144
+  },
+  {
+    "key": "DP_0802_0145",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 145
+  },
+  {
+    "key": "DP_0802_0146",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 146
+  },
+  {
+    "key": "DP_0802_0147",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 147
+  },
+  {
+    "key": "DP_0802_0148",
+    "original": "  ４．０ｍ",
+    "translation": "  ４．０ｍ",
+    "index": 148
+  },
+  {
+    "key": "DP_0802_0149",
+    "original": "  ２．２ｍ",
+    "translation": "  ２．２ｍ",
+    "index": 149
+  },
+  {
+    "key": "DP_0802_0150",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 150
+  },
+  {
+    "key": "DP_0802_0151",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 151
+  },
+  {
+    "key": "DP_0802_0152",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 152
+  },
+  {
+    "key": "DP_0802_0153",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 153
+  },
+  {
+    "key": "DP_0802_0154",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 154
+  },
+  {
+    "key": "DP_0802_0155",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 155
+  },
+  {
+    "key": "DP_0802_0156",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 156
+  },
+  {
+    "key": "DP_0802_0157",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 157
+  },
+  {
+    "key": "DP_0802_0158",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 158
+  },
+  {
+    "key": "DP_0802_0159",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 159
+  },
+  {
+    "key": "DP_0802_0160",
+    "original": "  ２．３ｍ",
+    "translation": "  ２．３ｍ",
+    "index": 160
+  },
+  {
+    "key": "DP_0802_0161",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 161
+  },
+  {
+    "key": "DP_0802_0162",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 162
+  },
+  {
+    "key": "DP_0802_0163",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 163
+  },
+  {
+    "key": "DP_0802_0164",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 164
+  },
+  {
+    "key": "DP_0802_0165",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 165
+  },
+  {
+    "key": "DP_0802_0166",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 166
+  },
+  {
+    "key": "DP_0802_0167",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 167
+  },
+  {
+    "key": "DP_0802_0168",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 168
+  },
+  {
+    "key": "DP_0802_0169",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 169
+  },
+  {
+    "key": "DP_0802_0170",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 170
+  },
+  {
+    "key": "DP_0802_0171",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 171
+  },
+  {
+    "key": "DP_0802_0172",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 172
+  },
+  {
+    "key": "DP_0802_0173",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 173
+  },
+  {
+    "key": "DP_0802_0174",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 174
+  },
+  {
+    "key": "DP_0802_0175",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 175
+  },
+  {
+    "key": "DP_0802_0176",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 176
+  },
+  {
+    "key": "DP_0802_0177",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 177
+  },
+  {
+    "key": "DP_0802_0178",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 178
+  },
+  {
+    "key": "DP_0802_0179",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 179
+  },
+  {
+    "key": "DP_0802_0180",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 180
+  },
+  {
+    "key": "DP_0802_0181",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 181
+  },
+  {
+    "key": "DP_0802_0182",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 182
+  },
+  {
+    "key": "DP_0802_0183",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 183
+  },
+  {
+    "key": "DP_0802_0184",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 184
+  },
+  {
+    "key": "DP_0802_0185",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 185
+  },
+  {
+    "key": "DP_0802_0186",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 186
+  },
+  {
+    "key": "DP_0802_0187",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 187
+  },
+  {
+    "key": "DP_0802_0188",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 188
+  },
+  {
+    "key": "DP_0802_0189",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 189
+  },
+  {
+    "key": "DP_0802_0190",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 190
+  },
+  {
+    "key": "DP_0802_0191",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 191
+  },
+  {
+    "key": "DP_0802_0192",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 192
+  },
+  {
+    "key": "DP_0802_0193",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 193
+  },
+  {
+    "key": "DP_0802_0194",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 194
+  },
+  {
+    "key": "DP_0802_0195",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 195
+  },
+  {
+    "key": "DP_0802_0196",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 196
+  },
+  {
+    "key": "DP_0802_0197",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 197
+  },
+  {
+    "key": "DP_0802_0198",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 198
+  },
+  {
+    "key": "DP_0802_0199",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 199
+  },
+  {
+    "key": "DP_0802_0200",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 200
+  },
+  {
+    "key": "DP_0802_0201",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 201
+  },
+  {
+    "key": "DP_0802_0202",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 202
+  },
+  {
+    "key": "DP_0802_0203",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 203
+  },
+  {
+    "key": "DP_0802_0204",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 204
+  },
+  {
+    "key": "DP_0802_0205",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 205
+  },
+  {
+    "key": "DP_0802_0206",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 206
+  },
+  {
+    "key": "DP_0802_0207",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 207
+  },
+  {
+    "key": "DP_0802_0208",
+    "original": "  ９．２ｍ",
+    "translation": "  ９．２ｍ",
+    "index": 208
+  },
+  {
+    "key": "DP_0802_0209",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 209
+  },
+  {
+    "key": "DP_0802_0210",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 210
+  },
+  {
+    "key": "DP_0802_0211",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 211
+  },
+  {
+    "key": "DP_0802_0212",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 212
+  },
+  {
+    "key": "DP_0802_0213",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 213
+  },
+  {
+    "key": "DP_0802_0214",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 214
+  },
+  {
+    "key": "DP_0802_0215",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 215
+  },
+  {
+    "key": "DP_0802_0216",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 216
+  },
+  {
+    "key": "DP_0802_0217",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 217
+  },
+  {
+    "key": "DP_0802_0218",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 218
+  },
+  {
+    "key": "DP_0802_0219",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 219
+  },
+  {
+    "key": "DP_0802_0220",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 220
+  },
+  {
+    "key": "DP_0802_0221",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 221
+  },
+  {
+    "key": "DP_0802_0222",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 222
+  },
+  {
+    "key": "DP_0802_0223",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 223
+  },
+  {
+    "key": "DP_0802_0224",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 224
+  },
+  {
+    "key": "DP_0802_0225",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 225
+  },
+  {
+    "key": "DP_0802_0226",
+    "original": "  ２．１ｍ",
+    "translation": "  ２．１ｍ",
+    "index": 226
+  },
+  {
+    "key": "DP_0802_0227",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 227
+  },
+  {
+    "key": "DP_0802_0228",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 228
+  },
+  {
+    "key": "DP_0802_0229",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 229
+  },
+  {
+    "key": "DP_0802_0230",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 230
+  },
+  {
+    "key": "DP_0802_0231",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 231
+  },
+  {
+    "key": "DP_0802_0232",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 232
+  },
+  {
+    "key": "DP_0802_0233",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 233
+  },
+  {
+    "key": "DP_0802_0234",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 234
+  },
+  {
+    "key": "DP_0802_0235",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 235
+  },
+  {
+    "key": "DP_0802_0236",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 236
+  },
+  {
+    "key": "DP_0802_0237",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 237
+  },
+  {
+    "key": "DP_0802_0238",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 238
+  },
+  {
+    "key": "DP_0802_0239",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 239
+  },
+  {
+    "key": "DP_0802_0240",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 240
+  },
+  {
+    "key": "DP_0802_0241",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 241
+  },
+  {
+    "key": "DP_0802_0242",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 242
+  },
+  {
+    "key": "DP_0802_0243",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 243
+  },
+  {
+    "key": "DP_0802_0244",
+    "original": "  ２．１ｍ",
+    "translation": "  ２．１ｍ",
+    "index": 244
+  },
+  {
+    "key": "DP_0802_0245",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 245
+  },
+  {
+    "key": "DP_0802_0246",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 246
+  },
+  {
+    "key": "DP_0802_0247",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 247
+  },
+  {
+    "key": "DP_0802_0248",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 248
+  },
+  {
+    "key": "DP_0802_0249",
+    "original": "  ５．２ｍ",
+    "translation": "  ５．２ｍ",
+    "index": 249
+  },
+  {
+    "key": "DP_0802_0250",
+    "original": "  ３．８ｍ",
+    "translation": "  ３．８ｍ",
+    "index": 250
+  },
+  {
+    "key": "DP_0802_0251",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 251
+  },
+  {
+    "key": "DP_0802_0252",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 252
+  },
+  {
+    "key": "DP_0802_0253",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 253
+  },
+  {
+    "key": "DP_0802_0254",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 254
+  },
+  {
+    "key": "DP_0802_0255",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 255
+  },
+  {
+    "key": "DP_0802_0256",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 256
+  },
+  {
+    "key": "DP_0802_0257",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 257
+  },
+  {
+    "key": "DP_0802_0258",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 258
+  },
+  {
+    "key": "DP_0802_0259",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 259
+  },
+  {
+    "key": "DP_0802_0260",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 260
+  },
+  {
+    "key": "DP_0802_0261",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 261
+  },
+  {
+    "key": "DP_0802_0262",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 262
+  },
+  {
+    "key": "DP_0802_0263",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 263
+  },
+  {
+    "key": "DP_0802_0264",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 264
+  },
+  {
+    "key": "DP_0802_0265",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 265
+  },
+  {
+    "key": "DP_0802_0266",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 266
+  },
+  {
+    "key": "DP_0802_0267",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 267
+  },
+  {
+    "key": "DP_0802_0268",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 268
+  },
+  {
+    "key": "DP_0802_0269",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 269
+  },
+  {
+    "key": "DP_0802_0270",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 270
+  },
+  {
+    "key": "DP_0802_0271",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 271
+  },
+  {
+    "key": "DP_0802_0272",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 272
+  },
+  {
+    "key": "DP_0802_0273",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 273
+  },
+  {
+    "key": "DP_0802_0274",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 274
+  },
+  {
+    "key": "DP_0802_0275",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 275
+  },
+  {
+    "key": "DP_0802_0276",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 276
+  },
+  {
+    "key": "DP_0802_0277",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 277
+  },
+  {
+    "key": "DP_0802_0278",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 278
+  },
+  {
+    "key": "DP_0802_0279",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 279
+  },
+  {
+    "key": "DP_0802_0280",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 280
+  },
+  {
+    "key": "DP_0802_0281",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 281
+  },
+  {
+    "key": "DP_0802_0282",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 282
+  },
+  {
+    "key": "DP_0802_0283",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 283
+  },
+  {
+    "key": "DP_0802_0284",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 284
+  },
+  {
+    "key": "DP_0802_0285",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 285
+  },
+  {
+    "key": "DP_0802_0286",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 286
+  },
+  {
+    "key": "DP_0802_0287",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 287
+  },
+  {
+    "key": "DP_0802_0288",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 288
+  },
+  {
+    "key": "DP_0802_0289",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 289
+  },
+  {
+    "key": "DP_0802_0290",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 290
+  },
+  {
+    "key": "DP_0802_0291",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 291
+  },
+  {
+    "key": "DP_0802_0292",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 292
+  },
+  {
+    "key": "DP_0802_0293",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 293
+  },
+  {
+    "key": "DP_0802_0294",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 294
+  },
+  {
+    "key": "DP_0802_0295",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 295
+  },
+  {
+    "key": "DP_0802_0296",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 296
+  },
+  {
+    "key": "DP_0802_0297",
+    "original": "  ２．３ｍ",
+    "translation": "  ２．３ｍ",
+    "index": 297
+  },
+  {
+    "key": "DP_0802_0298",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 298
+  },
+  {
+    "key": "DP_0802_0299",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 299
+  },
+  {
+    "key": "DP_0802_0300",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 300
+  },
+  {
+    "key": "DP_0802_0301",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 301
+  },
+  {
+    "key": "DP_0802_0302",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 302
+  },
+  {
+    "key": "DP_0802_0303",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 303
+  },
+  {
+    "key": "DP_0802_0304",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 304
+  },
+  {
+    "key": "DP_0802_0305",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 305
+  },
+  {
+    "key": "DP_0802_0306",
+    "original": "  ２．１ｍ",
+    "translation": "  ２．１ｍ",
+    "index": 306
+  },
+  {
+    "key": "DP_0802_0307",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 307
+  },
+  {
+    "key": "DP_0802_0308",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 308
+  },
+  {
+    "key": "DP_0802_0309",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 309
+  },
+  {
+    "key": "DP_0802_0310",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 310
+  },
+  {
+    "key": "DP_0802_0311",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 311
+  },
+  {
+    "key": "DP_0802_0312",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 312
+  },
+  {
+    "key": "DP_0802_0313",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 313
+  },
+  {
+    "key": "DP_0802_0314",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 314
+  },
+  {
+    "key": "DP_0802_0315",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 315
+  },
+  {
+    "key": "DP_0802_0316",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 316
+  },
+  {
+    "key": "DP_0802_0317",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 317
+  },
+  {
+    "key": "DP_0802_0318",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 318
+  },
+  {
+    "key": "DP_0802_0319",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 319
+  },
+  {
+    "key": "DP_0802_0320",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 320
+  },
+  {
+    "key": "DP_0802_0321",
+    "original": " １４．５ｍ",
+    "translation": " １４．５ｍ",
+    "index": 321
+  },
+  {
+    "key": "DP_0802_0322",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 322
+  },
+  {
+    "key": "DP_0802_0323",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 323
+  },
+  {
+    "key": "DP_0802_0324",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 324
+  },
+  {
+    "key": "DP_0802_0325",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 325
+  },
+  {
+    "key": "DP_0802_0326",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 326
+  },
+  {
+    "key": "DP_0802_0327",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 327
+  },
+  {
+    "key": "DP_0802_0328",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 328
+  },
+  {
+    "key": "DP_0802_0329",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 329
+  },
+  {
+    "key": "DP_0802_0330",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 330
+  },
+  {
+    "key": "DP_0802_0331",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 331
+  },
+  {
+    "key": "DP_0802_0332",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 332
+  },
+  {
+    "key": "DP_0802_0333",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 333
+  },
+  {
+    "key": "DP_0802_0334",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 334
+  },
+  {
+    "key": "DP_0802_0335",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 335
+  },
+  {
+    "key": "DP_0802_0336",
+    "original": "  ２．７ｍ",
+    "translation": "  ２．７ｍ",
+    "index": 336
+  },
+  {
+    "key": "DP_0802_0337",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 337
+  },
+  {
+    "key": "DP_0802_0338",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 338
+  },
+  {
+    "key": "DP_0802_0339",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 339
+  },
+  {
+    "key": "DP_0802_0340",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 340
+  },
+  {
+    "key": "DP_0802_0341",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 341
+  },
+  {
+    "key": "DP_0802_0342",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 342
+  },
+  {
+    "key": "DP_0802_0343",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 343
+  },
+  {
+    "key": "DP_0802_0344",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 344
+  },
+  {
+    "key": "DP_0802_0345",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 345
+  },
+  {
+    "key": "DP_0802_0346",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 346
+  },
+  {
+    "key": "DP_0802_0347",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 347
+  },
+  {
+    "key": "DP_0802_0348",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 348
+  },
+  {
+    "key": "DP_0802_0349",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 349
+  },
+  {
+    "key": "DP_0802_0350",
+    "original": "  ６．２ｍ",
+    "translation": "  ６．２ｍ",
+    "index": 350
+  },
+  {
+    "key": "DP_0802_0351",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 351
+  },
+  {
+    "key": "DP_0802_0352",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 352
+  },
+  {
+    "key": "DP_0802_0353",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 353
+  },
+  {
+    "key": "DP_0802_0354",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 354
+  },
+  {
+    "key": "DP_0802_0355",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 355
+  },
+  {
+    "key": "DP_0802_0356",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 356
+  },
+  {
+    "key": "DP_0802_0357",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 357
+  },
+  {
+    "key": "DP_0802_0358",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 358
+  },
+  {
+    "key": "DP_0802_0359",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 359
+  },
+  {
+    "key": "DP_0802_0360",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 360
+  },
+  {
+    "key": "DP_0802_0361",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 361
+  },
+  {
+    "key": "DP_0802_0362",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 362
+  },
+  {
+    "key": "DP_0802_0363",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 363
+  },
+  {
+    "key": "DP_0802_0364",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 364
+  },
+  {
+    "key": "DP_0802_0365",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 365
+  },
+  {
+    "key": "DP_0802_0366",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 366
+  },
+  {
+    "key": "DP_0802_0367",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 367
+  },
+  {
+    "key": "DP_0802_0368",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 368
+  },
+  {
+    "key": "DP_0802_0369",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 369
+  },
+  {
+    "key": "DP_0802_0370",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 370
+  },
+  {
+    "key": "DP_0802_0371",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 371
+  },
+  {
+    "key": "DP_0802_0372",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 372
+  },
+  {
+    "key": "DP_0802_0373",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 373
+  },
+  {
+    "key": "DP_0802_0374",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 374
+  },
+  {
+    "key": "DP_0802_0375",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 375
+  },
+  {
+    "key": "DP_0802_0376",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 376
+  },
+  {
+    "key": "DP_0802_0377",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 377
+  },
+  {
+    "key": "DP_0802_0378",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 378
+  },
+  {
+    "key": "DP_0802_0379",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 379
+  },
+  {
+    "key": "DP_0802_0380",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 380
+  },
+  {
+    "key": "DP_0802_0381",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 381
+  },
+  {
+    "key": "DP_0802_0382",
+    "original": "  ４．５ｍ",
+    "translation": "  ４．５ｍ",
+    "index": 382
+  },
+  {
+    "key": "DP_0802_0383",
+    "original": "  ３．５ｍ",
+    "translation": "  ３．５ｍ",
+    "index": 383
+  },
+  {
+    "key": "DP_0802_0384",
+    "original": "  ７．０ｍ",
+    "translation": "  ７．０ｍ",
+    "index": 384
+  },
+  {
+    "key": "DP_0802_0385",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 385
+  },
+  {
+    "key": "DP_0802_0386",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 386
+  },
+  {
+    "key": "DP_0802_0387",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 387
+  },
+  {
+    "key": "DP_0802_0388",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 388
+  },
+  {
+    "key": "DP_0802_0389",
+    "original": "  ２．２ｍ",
+    "translation": "  ２．２ｍ",
+    "index": 389
+  },
+  {
+    "key": "DP_0802_0390",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 390
+  },
+  {
+    "key": "DP_0802_0391",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 391
+  },
+  {
+    "key": "DP_0802_0392",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 392
+  },
+  {
+    "key": "DP_0802_0393",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 393
+  },
+  {
+    "key": "DP_0802_0394",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 394
+  },
+  {
+    "key": "DP_0802_0395",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 395
+  },
+  {
+    "key": "DP_0802_0396",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 396
+  },
+  {
+    "key": "DP_0802_0397",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 397
+  },
+  {
+    "key": "DP_0802_0398",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 398
+  },
+  {
+    "key": "DP_0802_0399",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 399
+  },
+  {
+    "key": "DP_0802_0400",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 400
+  },
+  {
+    "key": "DP_0802_0401",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 401
+  },
+  {
+    "key": "DP_0802_0402",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 402
+  },
+  {
+    "key": "DP_0802_0403",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 403
+  },
+  {
+    "key": "DP_0802_0404",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 404
+  },
+  {
+    "key": "DP_0802_0405",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 405
+  },
+  {
+    "key": "DP_0802_0406",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 406
+  },
+  {
+    "key": "DP_0802_0407",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 407
+  },
+  {
+    "key": "DP_0802_0408",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 408
+  },
+  {
+    "key": "DP_0802_0409",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 409
+  },
+  {
+    "key": "DP_0802_0410",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 410
+  },
+  {
+    "key": "DP_0802_0411",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 411
+  },
+  {
+    "key": "DP_0802_0412",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 412
+  },
+  {
+    "key": "DP_0802_0413",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 413
+  },
+  {
+    "key": "DP_0802_0414",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 414
+  },
+  {
+    "key": "DP_0802_0415",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 415
+  },
+  {
+    "key": "DP_0802_0416",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 416
+  },
+  {
+    "key": "DP_0802_0417",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 417
+  },
+  {
+    "key": "DP_0802_0418",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 418
+  },
+  {
+    "key": "DP_0802_0419",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 419
+  },
+  {
+    "key": "DP_0802_0420",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 420
+  },
+  {
+    "key": "DP_0802_0421",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 421
+  },
+  {
+    "key": "DP_0802_0422",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 422
+  },
+  {
+    "key": "DP_0802_0423",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 423
+  },
+  {
+    "key": "DP_0802_0424",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 424
+  },
+  {
+    "key": "DP_0802_0425",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 425
+  },
+  {
+    "key": "DP_0802_0426",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 426
+  },
+  {
+    "key": "DP_0802_0427",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 427
+  },
+  {
+    "key": "DP_0802_0428",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 428
+  },
+  {
+    "key": "DP_0802_0429",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 429
+  },
+  {
+    "key": "DP_0802_0430",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 430
+  },
+  {
+    "key": "DP_0802_0431",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 431
+  },
+  {
+    "key": "DP_0802_0432",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 432
+  },
+  {
+    "key": "DP_0802_0433",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 433
+  },
+  {
+    "key": "DP_0802_0434",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 434
+  },
+  {
+    "key": "DP_0802_0435",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 435
+  },
+  {
+    "key": "DP_0802_0436",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 436
+  },
+  {
+    "key": "DP_0802_0437",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 437
+  },
+  {
+    "key": "DP_0802_0438",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 438
+  },
+  {
+    "key": "DP_0802_0439",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 439
+  },
+  {
+    "key": "DP_0802_0440",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 440
+  },
+  {
+    "key": "DP_0802_0441",
+    "original": "  ０．５ｍ",
+    "translation": "  ０．５ｍ",
+    "index": 441
+  },
+  {
+    "key": "DP_0802_0442",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 442
+  },
+  {
+    "key": "DP_0802_0443",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 443
+  },
+  {
+    "key": "DP_0802_0444",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 444
+  },
+  {
+    "key": "DP_0802_0445",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 445
+  },
+  {
+    "key": "DP_0802_0446",
+    "original": "  ０．６ｍ",
+    "translation": "  ０．６ｍ",
+    "index": 446
+  },
+  {
+    "key": "DP_0802_0447",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 447
+  },
+  {
+    "key": "DP_0802_0448",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 448
+  },
+  {
+    "key": "DP_0802_0449",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 449
+  },
+  {
+    "key": "DP_0802_0450",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 450
+  },
+  {
+    "key": "DP_0802_0451",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 451
+  },
+  {
+    "key": "DP_0802_0452",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 452
+  },
+  {
+    "key": "DP_0802_0453",
+    "original": "  ０．７ｍ",
+    "translation": "  ０．７ｍ",
+    "index": 453
+  },
+  {
+    "key": "DP_0802_0454",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 454
+  },
+  {
+    "key": "DP_0802_0455",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 455
+  },
+  {
+    "key": "DP_0802_0456",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 456
+  },
+  {
+    "key": "DP_0802_0457",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 457
+  },
+  {
+    "key": "DP_0802_0458",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 458
+  },
+  {
+    "key": "DP_0802_0459",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 459
+  },
+  {
+    "key": "DP_0802_0460",
+    "original": "  ２．２ｍ",
+    "translation": "  ２．２ｍ",
+    "index": 460
+  },
+  {
+    "key": "DP_0802_0461",
+    "original": "  １．１ｍ",
+    "translation": "  １．１ｍ",
+    "index": 461
+  },
+  {
+    "key": "DP_0802_0462",
+    "original": "  １．２ｍ",
+    "translation": "  １．２ｍ",
+    "index": 462
+  },
+  {
+    "key": "DP_0802_0463",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 463
+  },
+  {
+    "key": "DP_0802_0464",
+    "original": "  ２．４ｍ",
+    "translation": "  ２．４ｍ",
+    "index": 464
+  },
+  {
+    "key": "DP_0802_0465",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 465
+  },
+  {
+    "key": "DP_0802_0466",
+    "original": "  １．８ｍ",
+    "translation": "  １．８ｍ",
+    "index": 466
+  },
+  {
+    "key": "DP_0802_0467",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 467
+  },
+  {
+    "key": "DP_0802_0468",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 468
+  },
+  {
+    "key": "DP_0802_0469",
+    "original": "  １．９ｍ",
+    "translation": "  １．９ｍ",
+    "index": 469
+  },
+  {
+    "key": "DP_0802_0470",
+    "original": "  １．０ｍ",
+    "translation": "  １．０ｍ",
+    "index": 470
+  },
+  {
+    "key": "DP_0802_0471",
+    "original": "  ０．８ｍ",
+    "translation": "  ０．８ｍ",
+    "index": 471
+  },
+  {
+    "key": "DP_0802_0472",
+    "original": "  ２．０ｍ",
+    "translation": "  ２．０ｍ",
+    "index": 472
+  },
+  {
+    "key": "DP_0802_0473",
+    "original": "  ２．５ｍ",
+    "translation": "  ２．５ｍ",
+    "index": 473
+  },
+  {
+    "key": "DP_0802_0474",
+    "original": "  ０．９ｍ",
+    "translation": "  ０．９ｍ",
+    "index": 474
+  },
+  {
+    "key": "DP_0802_0475",
+    "original": "  １．６ｍ",
+    "translation": "  １．６ｍ",
+    "index": 475
+  },
+  {
+    "key": "DP_0802_0476",
+    "original": "  １．４ｍ",
+    "translation": "  １．４ｍ",
+    "index": 476
+  },
+  {
+    "key": "DP_0802_0477",
+    "original": "  ２．２ｍ",
+    "translation": "  ２．２ｍ",
+    "index": 477
+  },
+  {
+    "key": "DP_0802_0478",
+    "original": "  １．３ｍ",
+    "translation": "  １．３ｍ",
+    "index": 478
+  },
+  {
+    "key": "DP_0802_0479",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 479
+  },
+  {
+    "key": "DP_0802_0480",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 480
+  },
+  {
+    "key": "DP_0802_0481",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 481
+  },
+  {
+    "key": "DP_0802_0482",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 482
+  },
+  {
+    "key": "DP_0802_0483",
+    "original": "  ５．４ｍ",
+    "translation": "  ５．４ｍ",
+    "index": 483
+  },
+  {
+    "key": "DP_0802_0484",
+    "original": "  ４．２ｍ",
+    "translation": "  ４．２ｍ",
+    "index": 484
+  },
+  {
+    "key": "DP_0802_0485",
+    "original": "  １．７ｍ",
+    "translation": "  １．７ｍ",
+    "index": 485
+  },
+  {
+    "key": "DP_0802_0486",
+    "original": "  ３．７ｍ",
+    "translation": "  ３．７ｍ",
+    "index": 486
+  },
+  {
+    "key": "DP_0802_0487",
+    "original": "  ４．５ｍ",
+    "translation": "  ４．５ｍ",
+    "index": 487
+  },
+  {
+    "key": "DP_0802_0488",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 488
+  },
+  {
+    "key": "DP_0802_0489",
+    "original": "  ０．４ｍ",
+    "translation": "  ０．４ｍ",
+    "index": 489
+  },
+  {
+    "key": "DP_0802_0490",
+    "original": "  ０．３ｍ",
+    "translation": "  ０．３ｍ",
+    "index": 490
+  },
+  {
+    "key": "DP_0802_0491",
+    "original": "  １．５ｍ",
+    "translation": "  １．５ｍ",
+    "index": 491
+  },
+  {
+    "key": "DP_0802_0492",
+    "original": "  ０．２ｍ",
+    "translation": "  ０．２ｍ",
+    "index": 492
+  },
+  {
+    "key": "DP_0802_0493",
+    "original": "  ３．２ｍ",
+    "translation": "  ３．２ｍ",
+    "index": 493
+  }
+]

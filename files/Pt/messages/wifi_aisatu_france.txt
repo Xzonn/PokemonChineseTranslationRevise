@@ -1,3 +1,0 @@
-0	bonjour
-1	bonjour
-2	bonsoir

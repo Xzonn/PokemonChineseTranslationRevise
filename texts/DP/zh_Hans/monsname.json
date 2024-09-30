@@ -1,0 +1,2978 @@
+[
+  {
+    "key": "DP_0232_0000",
+    "original": "ーーーーー",
+    "translation": "ーーーーー",
+    "index": 0
+  },
+  {
+    "key": "DP_0232_0001",
+    "original": "フシギダネ",
+    "translation": "妙蛙种子",
+    "index": 1
+  },
+  {
+    "key": "DP_0232_0002",
+    "original": "フシギソウ",
+    "translation": "妙蛙草",
+    "index": 2
+  },
+  {
+    "key": "DP_0232_0003",
+    "original": "フシギバナ",
+    "translation": "妙蛙花",
+    "index": 3
+  },
+  {
+    "key": "DP_0232_0004",
+    "original": "ヒトカゲ",
+    "translation": "小火龙",
+    "index": 4
+  },
+  {
+    "key": "DP_0232_0005",
+    "original": "リザード",
+    "translation": "火恐龙",
+    "index": 5
+  },
+  {
+    "key": "DP_0232_0006",
+    "original": "リザードン",
+    "translation": "喷火龙",
+    "index": 6
+  },
+  {
+    "key": "DP_0232_0007",
+    "original": "ゼニガメ",
+    "translation": "杰尼龟",
+    "index": 7
+  },
+  {
+    "key": "DP_0232_0008",
+    "original": "カメール",
+    "translation": "卡咪龟",
+    "index": 8
+  },
+  {
+    "key": "DP_0232_0009",
+    "original": "カメックス",
+    "translation": "水箭龟",
+    "index": 9
+  },
+  {
+    "key": "DP_0232_0010",
+    "original": "キャタピー",
+    "translation": "绿毛虫",
+    "index": 10
+  },
+  {
+    "key": "DP_0232_0011",
+    "original": "トランセル",
+    "translation": "铁甲蛹",
+    "index": 11
+  },
+  {
+    "key": "DP_0232_0012",
+    "original": "バタフリー",
+    "translation": "巴大蝶",
+    "index": 12
+  },
+  {
+    "key": "DP_0232_0013",
+    "original": "ビードル",
+    "translation": "独角虫",
+    "index": 13
+  },
+  {
+    "key": "DP_0232_0014",
+    "original": "コクーン",
+    "translation": "铁壳蛹",
+    "index": 14
+  },
+  {
+    "key": "DP_0232_0015",
+    "original": "スピアー",
+    "translation": "大针蜂",
+    "index": 15
+  },
+  {
+    "key": "DP_0232_0016",
+    "original": "ポッポ",
+    "translation": "波波",
+    "index": 16
+  },
+  {
+    "key": "DP_0232_0017",
+    "original": "ピジョン",
+    "translation": "比比鸟",
+    "index": 17
+  },
+  {
+    "key": "DP_0232_0018",
+    "original": "ピジョット",
+    "translation": "大比鸟",
+    "index": 18
+  },
+  {
+    "key": "DP_0232_0019",
+    "original": "コラッタ",
+    "translation": "小拉达",
+    "index": 19
+  },
+  {
+    "key": "DP_0232_0020",
+    "original": "ラッタ",
+    "translation": "拉达",
+    "index": 20
+  },
+  {
+    "key": "DP_0232_0021",
+    "original": "オニスズメ",
+    "translation": "烈雀",
+    "index": 21
+  },
+  {
+    "key": "DP_0232_0022",
+    "original": "オニドリル",
+    "translation": "大嘴雀",
+    "index": 22
+  },
+  {
+    "key": "DP_0232_0023",
+    "original": "アーボ",
+    "translation": "阿柏蛇",
+    "index": 23
+  },
+  {
+    "key": "DP_0232_0024",
+    "original": "アーボック",
+    "translation": "阿柏怪",
+    "index": 24
+  },
+  {
+    "key": "DP_0232_0025",
+    "original": "ピカチュウ",
+    "translation": "皮卡丘",
+    "index": 25
+  },
+  {
+    "key": "DP_0232_0026",
+    "original": "ライチュウ",
+    "translation": "雷丘",
+    "index": 26
+  },
+  {
+    "key": "DP_0232_0027",
+    "original": "サンド",
+    "translation": "穿山鼠",
+    "index": 27
+  },
+  {
+    "key": "DP_0232_0028",
+    "original": "サンドパン",
+    "translation": "穿山王",
+    "index": 28
+  },
+  {
+    "key": "DP_0232_0029",
+    "original": "ニドラン㊛",
+    "translation": "尼多兰",
+    "index": 29
+  },
+  {
+    "key": "DP_0232_0030",
+    "original": "ニドリーナ",
+    "translation": "尼多娜",
+    "index": 30
+  },
+  {
+    "key": "DP_0232_0031",
+    "original": "ニドクイン",
+    "translation": "尼多后",
+    "index": 31
+  },
+  {
+    "key": "DP_0232_0032",
+    "original": "ニドラン㊚",
+    "translation": "尼多朗",
+    "index": 32
+  },
+  {
+    "key": "DP_0232_0033",
+    "original": "ニドリーノ",
+    "translation": "尼多力诺",
+    "index": 33
+  },
+  {
+    "key": "DP_0232_0034",
+    "original": "ニドキング",
+    "translation": "尼多王",
+    "index": 34
+  },
+  {
+    "key": "DP_0232_0035",
+    "original": "ピッピ",
+    "translation": "皮皮",
+    "index": 35
+  },
+  {
+    "key": "DP_0232_0036",
+    "original": "ピクシー",
+    "translation": "皮可西",
+    "index": 36
+  },
+  {
+    "key": "DP_0232_0037",
+    "original": "ロコン",
+    "translation": "六尾",
+    "index": 37
+  },
+  {
+    "key": "DP_0232_0038",
+    "original": "キュウコン",
+    "translation": "九尾",
+    "index": 38
+  },
+  {
+    "key": "DP_0232_0039",
+    "original": "プリン",
+    "translation": "胖丁",
+    "index": 39
+  },
+  {
+    "key": "DP_0232_0040",
+    "original": "プクリン",
+    "translation": "胖可丁",
+    "index": 40
+  },
+  {
+    "key": "DP_0232_0041",
+    "original": "ズバット",
+    "translation": "超音蝠",
+    "index": 41
+  },
+  {
+    "key": "DP_0232_0042",
+    "original": "ゴルバット",
+    "translation": "大嘴蝠",
+    "index": 42
+  },
+  {
+    "key": "DP_0232_0043",
+    "original": "ナゾノクサ",
+    "translation": "走路草",
+    "index": 43
+  },
+  {
+    "key": "DP_0232_0044",
+    "original": "クサイハナ",
+    "translation": "臭臭花",
+    "index": 44
+  },
+  {
+    "key": "DP_0232_0045",
+    "original": "ラフレシア",
+    "translation": "霸王花",
+    "index": 45
+  },
+  {
+    "key": "DP_0232_0046",
+    "original": "パラス",
+    "translation": "派拉斯",
+    "index": 46
+  },
+  {
+    "key": "DP_0232_0047",
+    "original": "パラセクト",
+    "translation": "派拉斯特",
+    "index": 47
+  },
+  {
+    "key": "DP_0232_0048",
+    "original": "コンパン",
+    "translation": "毛球",
+    "index": 48
+  },
+  {
+    "key": "DP_0232_0049",
+    "original": "モルフォン",
+    "translation": "摩鲁蛾",
+    "index": 49
+  },
+  {
+    "key": "DP_0232_0050",
+    "original": "ディグダ",
+    "translation": "地鼠",
+    "index": 50
+  },
+  {
+    "key": "DP_0232_0051",
+    "original": "ダグトリオ",
+    "translation": "三地鼠",
+    "index": 51
+  },
+  {
+    "key": "DP_0232_0052",
+    "original": "ニャース",
+    "translation": "喵喵",
+    "index": 52
+  },
+  {
+    "key": "DP_0232_0053",
+    "original": "ペルシアン",
+    "translation": "猫老大",
+    "index": 53
+  },
+  {
+    "key": "DP_0232_0054",
+    "original": "コダック",
+    "translation": "可达鸭",
+    "index": 54
+  },
+  {
+    "key": "DP_0232_0055",
+    "original": "ゴルダック",
+    "translation": "哥达鸭",
+    "index": 55
+  },
+  {
+    "key": "DP_0232_0056",
+    "original": "マンキー",
+    "translation": "猴怪",
+    "index": 56
+  },
+  {
+    "key": "DP_0232_0057",
+    "original": "オコリザル",
+    "translation": "火暴猴",
+    "index": 57
+  },
+  {
+    "key": "DP_0232_0058",
+    "original": "ガーディ",
+    "translation": "卡蒂狗",
+    "index": 58
+  },
+  {
+    "key": "DP_0232_0059",
+    "original": "ウインディ",
+    "translation": "风速狗",
+    "index": 59
+  },
+  {
+    "key": "DP_0232_0060",
+    "original": "ニョロモ",
+    "translation": "蚊香蝌蚪",
+    "index": 60
+  },
+  {
+    "key": "DP_0232_0061",
+    "original": "ニョロゾ",
+    "translation": "蚊香君",
+    "index": 61
+  },
+  {
+    "key": "DP_0232_0062",
+    "original": "ニョロボン",
+    "translation": "蚊香泳士",
+    "index": 62
+  },
+  {
+    "key": "DP_0232_0063",
+    "original": "ケーシィ",
+    "translation": "凯西",
+    "index": 63
+  },
+  {
+    "key": "DP_0232_0064",
+    "original": "ユンゲラー",
+    "translation": "勇基拉",
+    "index": 64
+  },
+  {
+    "key": "DP_0232_0065",
+    "original": "フーディン",
+    "translation": "胡地",
+    "index": 65
+  },
+  {
+    "key": "DP_0232_0066",
+    "original": "ワンリキー",
+    "translation": "腕力",
+    "index": 66
+  },
+  {
+    "key": "DP_0232_0067",
+    "original": "ゴーリキー",
+    "translation": "豪力",
+    "index": 67
+  },
+  {
+    "key": "DP_0232_0068",
+    "original": "カイリキー",
+    "translation": "怪力",
+    "index": 68
+  },
+  {
+    "key": "DP_0232_0069",
+    "original": "マダツボミ",
+    "translation": "喇叭芽",
+    "index": 69
+  },
+  {
+    "key": "DP_0232_0070",
+    "original": "ウツドン",
+    "translation": "口呆花",
+    "index": 70
+  },
+  {
+    "key": "DP_0232_0071",
+    "original": "ウツボット",
+    "translation": "大食花",
+    "index": 71
+  },
+  {
+    "key": "DP_0232_0072",
+    "original": "メノクラゲ",
+    "translation": "玛瑙水母",
+    "index": 72
+  },
+  {
+    "key": "DP_0232_0073",
+    "original": "ドククラゲ",
+    "translation": "毒刺水母",
+    "index": 73
+  },
+  {
+    "key": "DP_0232_0074",
+    "original": "イシツブテ",
+    "translation": "小拳石",
+    "index": 74
+  },
+  {
+    "key": "DP_0232_0075",
+    "original": "ゴローン",
+    "translation": "隆隆石",
+    "index": 75
+  },
+  {
+    "key": "DP_0232_0076",
+    "original": "ゴローニャ",
+    "translation": "隆隆岩",
+    "index": 76
+  },
+  {
+    "key": "DP_0232_0077",
+    "original": "ポニータ",
+    "translation": "小火马",
+    "index": 77
+  },
+  {
+    "key": "DP_0232_0078",
+    "original": "ギャロップ",
+    "translation": "烈焰马",
+    "index": 78
+  },
+  {
+    "key": "DP_0232_0079",
+    "original": "ヤドン",
+    "translation": "呆呆兽",
+    "index": 79
+  },
+  {
+    "key": "DP_0232_0080",
+    "original": "ヤドラン",
+    "translation": "呆壳兽",
+    "index": 80
+  },
+  {
+    "key": "DP_0232_0081",
+    "original": "コイル",
+    "translation": "小磁怪",
+    "index": 81
+  },
+  {
+    "key": "DP_0232_0082",
+    "original": "レアコイル",
+    "translation": "三合一磁怪",
+    "index": 82
+  },
+  {
+    "key": "DP_0232_0083",
+    "original": "カモネギ",
+    "translation": "大葱鸭",
+    "index": 83
+  },
+  {
+    "key": "DP_0232_0084",
+    "original": "ドードー",
+    "translation": "嘟嘟",
+    "index": 84
+  },
+  {
+    "key": "DP_0232_0085",
+    "original": "ドードリオ",
+    "translation": "嘟嘟利",
+    "index": 85
+  },
+  {
+    "key": "DP_0232_0086",
+    "original": "パウワウ",
+    "translation": "小海狮",
+    "index": 86
+  },
+  {
+    "key": "DP_0232_0087",
+    "original": "ジュゴン",
+    "translation": "白海狮",
+    "index": 87
+  },
+  {
+    "key": "DP_0232_0088",
+    "original": "ベトベター",
+    "translation": "臭泥",
+    "index": 88
+  },
+  {
+    "key": "DP_0232_0089",
+    "original": "ベトベトン",
+    "translation": "臭臭泥",
+    "index": 89
+  },
+  {
+    "key": "DP_0232_0090",
+    "original": "シェルダー",
+    "translation": "大舌贝",
+    "index": 90
+  },
+  {
+    "key": "DP_0232_0091",
+    "original": "パルシェン",
+    "translation": "刺甲贝",
+    "index": 91
+  },
+  {
+    "key": "DP_0232_0092",
+    "original": "ゴース",
+    "translation": "鬼斯",
+    "index": 92
+  },
+  {
+    "key": "DP_0232_0093",
+    "original": "ゴースト",
+    "translation": "鬼斯通",
+    "index": 93
+  },
+  {
+    "key": "DP_0232_0094",
+    "original": "ゲンガー",
+    "translation": "耿鬼",
+    "index": 94
+  },
+  {
+    "key": "DP_0232_0095",
+    "original": "イワーク",
+    "translation": "大岩蛇",
+    "index": 95
+  },
+  {
+    "key": "DP_0232_0096",
+    "original": "スリープ",
+    "translation": "催眠貘",
+    "index": 96
+  },
+  {
+    "key": "DP_0232_0097",
+    "original": "スリーパー",
+    "translation": "引梦貘人",
+    "index": 97
+  },
+  {
+    "key": "DP_0232_0098",
+    "original": "クラブ",
+    "translation": "大钳蟹",
+    "index": 98
+  },
+  {
+    "key": "DP_0232_0099",
+    "original": "キングラー",
+    "translation": "巨钳蟹",
+    "index": 99
+  },
+  {
+    "key": "DP_0232_0100",
+    "original": "ビリリダマ",
+    "translation": "霹雳电球",
+    "index": 100
+  },
+  {
+    "key": "DP_0232_0101",
+    "original": "マルマイン",
+    "translation": "顽皮雷弹",
+    "index": 101
+  },
+  {
+    "key": "DP_0232_0102",
+    "original": "タマタマ",
+    "translation": "蛋蛋",
+    "index": 102
+  },
+  {
+    "key": "DP_0232_0103",
+    "original": "ナッシー",
+    "translation": "椰蛋树",
+    "index": 103
+  },
+  {
+    "key": "DP_0232_0104",
+    "original": "カラカラ",
+    "translation": "卡拉卡拉",
+    "index": 104
+  },
+  {
+    "key": "DP_0232_0105",
+    "original": "ガラガラ",
+    "translation": "嘎啦嘎啦",
+    "index": 105
+  },
+  {
+    "key": "DP_0232_0106",
+    "original": "サワムラー",
+    "translation": "飞腿郎",
+    "index": 106
+  },
+  {
+    "key": "DP_0232_0107",
+    "original": "エビワラー",
+    "translation": "快拳郎",
+    "index": 107
+  },
+  {
+    "key": "DP_0232_0108",
+    "original": "ベロリンガ",
+    "translation": "大舌头",
+    "index": 108
+  },
+  {
+    "key": "DP_0232_0109",
+    "original": "ドガース",
+    "translation": "瓦斯弹",
+    "index": 109
+  },
+  {
+    "key": "DP_0232_0110",
+    "original": "マタドガス",
+    "translation": "双弹瓦斯",
+    "index": 110
+  },
+  {
+    "key": "DP_0232_0111",
+    "original": "サイホーン",
+    "translation": "独角犀牛",
+    "index": 111
+  },
+  {
+    "key": "DP_0232_0112",
+    "original": "サイドン",
+    "translation": "钻角犀兽",
+    "index": 112
+  },
+  {
+    "key": "DP_0232_0113",
+    "original": "ラッキー",
+    "translation": "吉利蛋",
+    "index": 113
+  },
+  {
+    "key": "DP_0232_0114",
+    "original": "モンジャラ",
+    "translation": "蔓藤怪",
+    "index": 114
+  },
+  {
+    "key": "DP_0232_0115",
+    "original": "ガルーラ",
+    "translation": "袋兽",
+    "index": 115
+  },
+  {
+    "key": "DP_0232_0116",
+    "original": "タッツー",
+    "translation": "墨海马",
+    "index": 116
+  },
+  {
+    "key": "DP_0232_0117",
+    "original": "シードラ",
+    "translation": "海刺龙",
+    "index": 117
+  },
+  {
+    "key": "DP_0232_0118",
+    "original": "トサキント",
+    "translation": "角金鱼",
+    "index": 118
+  },
+  {
+    "key": "DP_0232_0119",
+    "original": "アズマオウ",
+    "translation": "金鱼王",
+    "index": 119
+  },
+  {
+    "key": "DP_0232_0120",
+    "original": "ヒトデマン",
+    "translation": "海星星",
+    "index": 120
+  },
+  {
+    "key": "DP_0232_0121",
+    "original": "スターミー",
+    "translation": "宝石海星",
+    "index": 121
+  },
+  {
+    "key": "DP_0232_0122",
+    "original": "バリヤード",
+    "translation": "魔墙人偶",
+    "index": 122
+  },
+  {
+    "key": "DP_0232_0123",
+    "original": "ストライク",
+    "translation": "飞天螳螂",
+    "index": 123
+  },
+  {
+    "key": "DP_0232_0124",
+    "original": "ルージュラ",
+    "translation": "迷唇姐",
+    "index": 124
+  },
+  {
+    "key": "DP_0232_0125",
+    "original": "エレブー",
+    "translation": "电击兽",
+    "index": 125
+  },
+  {
+    "key": "DP_0232_0126",
+    "original": "ブーバー",
+    "translation": "鸭嘴火兽",
+    "index": 126
+  },
+  {
+    "key": "DP_0232_0127",
+    "original": "カイロス",
+    "translation": "凯罗斯",
+    "index": 127
+  },
+  {
+    "key": "DP_0232_0128",
+    "original": "ケンタロス",
+    "translation": "肯泰罗",
+    "index": 128
+  },
+  {
+    "key": "DP_0232_0129",
+    "original": "コイキング",
+    "translation": "鲤鱼王",
+    "index": 129
+  },
+  {
+    "key": "DP_0232_0130",
+    "original": "ギャラドス",
+    "translation": "暴鲤龙",
+    "index": 130
+  },
+  {
+    "key": "DP_0232_0131",
+    "original": "ラプラス",
+    "translation": "拉普拉斯",
+    "index": 131
+  },
+  {
+    "key": "DP_0232_0132",
+    "original": "メタモン",
+    "translation": "百变怪",
+    "index": 132
+  },
+  {
+    "key": "DP_0232_0133",
+    "original": "イーブイ",
+    "translation": "伊布",
+    "index": 133
+  },
+  {
+    "key": "DP_0232_0134",
+    "original": "シャワーズ",
+    "translation": "水伊布",
+    "index": 134
+  },
+  {
+    "key": "DP_0232_0135",
+    "original": "サンダース",
+    "translation": "雷伊布",
+    "index": 135
+  },
+  {
+    "key": "DP_0232_0136",
+    "original": "ブースター",
+    "translation": "火伊布",
+    "index": 136
+  },
+  {
+    "key": "DP_0232_0137",
+    "original": "ポリゴン",
+    "translation": "多边兽",
+    "index": 137
+  },
+  {
+    "key": "DP_0232_0138",
+    "original": "オムナイト",
+    "translation": "菊石兽",
+    "index": 138
+  },
+  {
+    "key": "DP_0232_0139",
+    "original": "オムスター",
+    "translation": "多刺菊石兽",
+    "index": 139
+  },
+  {
+    "key": "DP_0232_0140",
+    "original": "カブト",
+    "translation": "化石盔",
+    "index": 140
+  },
+  {
+    "key": "DP_0232_0141",
+    "original": "カブトプス",
+    "translation": "镰刀盔",
+    "index": 141
+  },
+  {
+    "key": "DP_0232_0142",
+    "original": "プテラ",
+    "translation": "化石翼龙",
+    "index": 142
+  },
+  {
+    "key": "DP_0232_0143",
+    "original": "カビゴン",
+    "translation": "卡比兽",
+    "index": 143
+  },
+  {
+    "key": "DP_0232_0144",
+    "original": "フリーザー",
+    "translation": "急冻鸟",
+    "index": 144
+  },
+  {
+    "key": "DP_0232_0145",
+    "original": "サンダー",
+    "translation": "闪电鸟",
+    "index": 145
+  },
+  {
+    "key": "DP_0232_0146",
+    "original": "ファイヤー",
+    "translation": "火焰鸟",
+    "index": 146
+  },
+  {
+    "key": "DP_0232_0147",
+    "original": "ミニリュウ",
+    "translation": "迷你龙",
+    "index": 147
+  },
+  {
+    "key": "DP_0232_0148",
+    "original": "ハクリュー",
+    "translation": "哈克龙",
+    "index": 148
+  },
+  {
+    "key": "DP_0232_0149",
+    "original": "カイリュー",
+    "translation": "快龙",
+    "index": 149
+  },
+  {
+    "key": "DP_0232_0150",
+    "original": "ミュウツー",
+    "translation": "超梦",
+    "index": 150
+  },
+  {
+    "key": "DP_0232_0151",
+    "original": "ミュウ",
+    "translation": "梦幻",
+    "index": 151
+  },
+  {
+    "key": "DP_0232_0152",
+    "original": "チコリータ",
+    "translation": "菊草叶",
+    "index": 152
+  },
+  {
+    "key": "DP_0232_0153",
+    "original": "ベイリーフ",
+    "translation": "月桂叶",
+    "index": 153
+  },
+  {
+    "key": "DP_0232_0154",
+    "original": "メガニウム",
+    "translation": "大竺葵",
+    "index": 154
+  },
+  {
+    "key": "DP_0232_0155",
+    "original": "ヒノアラシ",
+    "translation": "火球鼠",
+    "index": 155
+  },
+  {
+    "key": "DP_0232_0156",
+    "original": "マグマラシ",
+    "translation": "火岩鼠",
+    "index": 156
+  },
+  {
+    "key": "DP_0232_0157",
+    "original": "バクフーン",
+    "translation": "火暴兽",
+    "index": 157
+  },
+  {
+    "key": "DP_0232_0158",
+    "original": "ワニノコ",
+    "translation": "小锯鳄",
+    "index": 158
+  },
+  {
+    "key": "DP_0232_0159",
+    "original": "アリゲイツ",
+    "translation": "蓝鳄",
+    "index": 159
+  },
+  {
+    "key": "DP_0232_0160",
+    "original": "オーダイル",
+    "translation": "大力鳄",
+    "index": 160
+  },
+  {
+    "key": "DP_0232_0161",
+    "original": "オタチ",
+    "translation": "尾立",
+    "index": 161
+  },
+  {
+    "key": "DP_0232_0162",
+    "original": "オオタチ",
+    "translation": "大尾立",
+    "index": 162
+  },
+  {
+    "key": "DP_0232_0163",
+    "original": "ホーホー",
+    "translation": "咕咕",
+    "index": 163
+  },
+  {
+    "key": "DP_0232_0164",
+    "original": "ヨルノズク",
+    "translation": "猫头夜鹰",
+    "index": 164
+  },
+  {
+    "key": "DP_0232_0165",
+    "original": "レディバ",
+    "translation": "芭瓢虫",
+    "index": 165
+  },
+  {
+    "key": "DP_0232_0166",
+    "original": "レディアン",
+    "translation": "安瓢虫",
+    "index": 166
+  },
+  {
+    "key": "DP_0232_0167",
+    "original": "イトマル",
+    "translation": "圆丝蛛",
+    "index": 167
+  },
+  {
+    "key": "DP_0232_0168",
+    "original": "アリアドス",
+    "translation": "阿利多斯",
+    "index": 168
+  },
+  {
+    "key": "DP_0232_0169",
+    "original": "クロバット",
+    "translation": "叉字蝠",
+    "index": 169
+  },
+  {
+    "key": "DP_0232_0170",
+    "original": "チョンチー",
+    "translation": "灯笼鱼",
+    "index": 170
+  },
+  {
+    "key": "DP_0232_0171",
+    "original": "ランターン",
+    "translation": "电灯怪",
+    "index": 171
+  },
+  {
+    "key": "DP_0232_0172",
+    "original": "ピチュー",
+    "translation": "皮丘",
+    "index": 172
+  },
+  {
+    "key": "DP_0232_0173",
+    "original": "ピィ",
+    "translation": "皮宝宝",
+    "index": 173
+  },
+  {
+    "key": "DP_0232_0174",
+    "original": "ププリン",
+    "translation": "宝宝丁",
+    "index": 174
+  },
+  {
+    "key": "DP_0232_0175",
+    "original": "トゲピー",
+    "translation": "波克比",
+    "index": 175
+  },
+  {
+    "key": "DP_0232_0176",
+    "original": "トゲチック",
+    "translation": "波克基古",
+    "index": 176
+  },
+  {
+    "key": "DP_0232_0177",
+    "original": "ネイティ",
+    "translation": "天然雀",
+    "index": 177
+  },
+  {
+    "key": "DP_0232_0178",
+    "original": "ネイティオ",
+    "translation": "天然鸟",
+    "index": 178
+  },
+  {
+    "key": "DP_0232_0179",
+    "original": "メリープ",
+    "translation": "咩利羊",
+    "index": 179
+  },
+  {
+    "key": "DP_0232_0180",
+    "original": "モココ",
+    "translation": "茸茸羊",
+    "index": 180
+  },
+  {
+    "key": "DP_0232_0181",
+    "original": "デンリュウ",
+    "translation": "电龙",
+    "index": 181
+  },
+  {
+    "key": "DP_0232_0182",
+    "original": "キレイハナ",
+    "translation": "美丽花",
+    "index": 182
+  },
+  {
+    "key": "DP_0232_0183",
+    "original": "マリル",
+    "translation": "玛力露",
+    "index": 183
+  },
+  {
+    "key": "DP_0232_0184",
+    "original": "マリルリ",
+    "translation": "玛力露丽",
+    "index": 184
+  },
+  {
+    "key": "DP_0232_0185",
+    "original": "ウソッキー",
+    "translation": "树才怪",
+    "index": 185
+  },
+  {
+    "key": "DP_0232_0186",
+    "original": "ニョロトノ",
+    "translation": "蚊香蛙皇",
+    "index": 186
+  },
+  {
+    "key": "DP_0232_0187",
+    "original": "ハネッコ",
+    "translation": "毽子草",
+    "index": 187
+  },
+  {
+    "key": "DP_0232_0188",
+    "original": "ポポッコ",
+    "translation": "毽子花",
+    "index": 188
+  },
+  {
+    "key": "DP_0232_0189",
+    "original": "ワタッコ",
+    "translation": "毽子棉",
+    "index": 189
+  },
+  {
+    "key": "DP_0232_0190",
+    "original": "エイパム",
+    "translation": "长尾怪手",
+    "index": 190
+  },
+  {
+    "key": "DP_0232_0191",
+    "original": "ヒマナッツ",
+    "translation": "向日种子",
+    "index": 191
+  },
+  {
+    "key": "DP_0232_0192",
+    "original": "キマワリ",
+    "translation": "向日花怪",
+    "index": 192
+  },
+  {
+    "key": "DP_0232_0193",
+    "original": "ヤンヤンマ",
+    "translation": "蜻蜻蜓",
+    "index": 193
+  },
+  {
+    "key": "DP_0232_0194",
+    "original": "ウパー",
+    "translation": "乌波",
+    "index": 194
+  },
+  {
+    "key": "DP_0232_0195",
+    "original": "ヌオー",
+    "translation": "沼王",
+    "index": 195
+  },
+  {
+    "key": "DP_0232_0196",
+    "original": "エーフィ",
+    "translation": "太阳伊布",
+    "index": 196
+  },
+  {
+    "key": "DP_0232_0197",
+    "original": "ブラッキー",
+    "translation": "月亮伊布",
+    "index": 197
+  },
+  {
+    "key": "DP_0232_0198",
+    "original": "ヤミカラス",
+    "translation": "黑暗鸦",
+    "index": 198
+  },
+  {
+    "key": "DP_0232_0199",
+    "original": "ヤドキング",
+    "translation": "呆呆王",
+    "index": 199
+  },
+  {
+    "key": "DP_0232_0200",
+    "original": "ムウマ",
+    "translation": "梦妖",
+    "index": 200
+  },
+  {
+    "key": "DP_0232_0201",
+    "original": "アンノーン",
+    "translation": "未知图腾",
+    "index": 201
+  },
+  {
+    "key": "DP_0232_0202",
+    "original": "ソーナンス",
+    "translation": "果然翁",
+    "index": 202
+  },
+  {
+    "key": "DP_0232_0203",
+    "original": "キリンリキ",
+    "translation": "麒麟奇",
+    "index": 203
+  },
+  {
+    "key": "DP_0232_0204",
+    "original": "クヌギダマ",
+    "translation": "榛果球",
+    "index": 204
+  },
+  {
+    "key": "DP_0232_0205",
+    "original": "フォレトス",
+    "translation": "佛烈托斯",
+    "index": 205
+  },
+  {
+    "key": "DP_0232_0206",
+    "original": "ノコッチ",
+    "translation": "土龙弟弟",
+    "index": 206
+  },
+  {
+    "key": "DP_0232_0207",
+    "original": "グライガー",
+    "translation": "天蝎",
+    "index": 207
+  },
+  {
+    "key": "DP_0232_0208",
+    "original": "ハガネール",
+    "translation": "大钢蛇",
+    "index": 208
+  },
+  {
+    "key": "DP_0232_0209",
+    "original": "ブルー",
+    "translation": "布鲁",
+    "index": 209
+  },
+  {
+    "key": "DP_0232_0210",
+    "original": "グランブル",
+    "translation": "布鲁皇",
+    "index": 210
+  },
+  {
+    "key": "DP_0232_0211",
+    "original": "ハリーセン",
+    "translation": "千针鱼",
+    "index": 211
+  },
+  {
+    "key": "DP_0232_0212",
+    "original": "ハッサム",
+    "translation": "巨钳螳螂",
+    "index": 212
+  },
+  {
+    "key": "DP_0232_0213",
+    "original": "ツボツボ",
+    "translation": "壶壶",
+    "index": 213
+  },
+  {
+    "key": "DP_0232_0214",
+    "original": "ヘラクロス",
+    "translation": "赫拉克罗斯",
+    "index": 214
+  },
+  {
+    "key": "DP_0232_0215",
+    "original": "ニューラ",
+    "translation": "狃拉",
+    "index": 215
+  },
+  {
+    "key": "DP_0232_0216",
+    "original": "ヒメグマ",
+    "translation": "熊宝宝",
+    "index": 216
+  },
+  {
+    "key": "DP_0232_0217",
+    "original": "リングマ",
+    "translation": "圈圈熊",
+    "index": 217
+  },
+  {
+    "key": "DP_0232_0218",
+    "original": "マグマッグ",
+    "translation": "熔岩虫",
+    "index": 218
+  },
+  {
+    "key": "DP_0232_0219",
+    "original": "マグカルゴ",
+    "translation": "熔岩蜗牛",
+    "index": 219
+  },
+  {
+    "key": "DP_0232_0220",
+    "original": "ウリムー",
+    "translation": "小山猪",
+    "index": 220
+  },
+  {
+    "key": "DP_0232_0221",
+    "original": "イノムー",
+    "translation": "长毛猪",
+    "index": 221
+  },
+  {
+    "key": "DP_0232_0222",
+    "original": "サニーゴ",
+    "translation": "太阳珊瑚",
+    "index": 222
+  },
+  {
+    "key": "DP_0232_0223",
+    "original": "テッポウオ",
+    "translation": "铁炮鱼",
+    "index": 223
+  },
+  {
+    "key": "DP_0232_0224",
+    "original": "オクタン",
+    "translation": "章鱼桶",
+    "index": 224
+  },
+  {
+    "key": "DP_0232_0225",
+    "original": "デリバード",
+    "translation": "信使鸟",
+    "index": 225
+  },
+  {
+    "key": "DP_0232_0226",
+    "original": "マンタイン",
+    "translation": "巨翅飞鱼",
+    "index": 226
+  },
+  {
+    "key": "DP_0232_0227",
+    "original": "エアームド",
+    "translation": "盔甲鸟",
+    "index": 227
+  },
+  {
+    "key": "DP_0232_0228",
+    "original": "デルビル",
+    "translation": "戴鲁比",
+    "index": 228
+  },
+  {
+    "key": "DP_0232_0229",
+    "original": "ヘルガー",
+    "translation": "黑鲁加",
+    "index": 229
+  },
+  {
+    "key": "DP_0232_0230",
+    "original": "キングドラ",
+    "translation": "刺龙王",
+    "index": 230
+  },
+  {
+    "key": "DP_0232_0231",
+    "original": "ゴマゾウ",
+    "translation": "小小象",
+    "index": 231
+  },
+  {
+    "key": "DP_0232_0232",
+    "original": "ドンファン",
+    "translation": "顿甲",
+    "index": 232
+  },
+  {
+    "key": "DP_0232_0233",
+    "original": "ポリゴン２",
+    "translation": "多边兽２型",
+    "index": 233
+  },
+  {
+    "key": "DP_0232_0234",
+    "original": "オドシシ",
+    "translation": "惊角鹿",
+    "index": 234
+  },
+  {
+    "key": "DP_0232_0235",
+    "original": "ドーブル",
+    "translation": "图图犬",
+    "index": 235
+  },
+  {
+    "key": "DP_0232_0236",
+    "original": "バルキー",
+    "translation": "无畏小子",
+    "index": 236
+  },
+  {
+    "key": "DP_0232_0237",
+    "original": "カポエラー",
+    "translation": "战舞郎",
+    "index": 237
+  },
+  {
+    "key": "DP_0232_0238",
+    "original": "ムチュール",
+    "translation": "迷唇娃",
+    "index": 238
+  },
+  {
+    "key": "DP_0232_0239",
+    "original": "エレキッド",
+    "translation": "电击怪",
+    "index": 239
+  },
+  {
+    "key": "DP_0232_0240",
+    "original": "ブビィ",
+    "translation": "鸭嘴宝宝",
+    "index": 240
+  },
+  {
+    "key": "DP_0232_0241",
+    "original": "ミルタンク",
+    "translation": "大奶罐",
+    "index": 241
+  },
+  {
+    "key": "DP_0232_0242",
+    "original": "ハピナス",
+    "translation": "幸福蛋",
+    "index": 242
+  },
+  {
+    "key": "DP_0232_0243",
+    "original": "ライコウ",
+    "translation": "雷公",
+    "index": 243
+  },
+  {
+    "key": "DP_0232_0244",
+    "original": "エンテイ",
+    "translation": "炎帝",
+    "index": 244
+  },
+  {
+    "key": "DP_0232_0245",
+    "original": "スイクン",
+    "translation": "水君",
+    "index": 245
+  },
+  {
+    "key": "DP_0232_0246",
+    "original": "ヨーギラス",
+    "translation": "幼基拉斯",
+    "index": 246
+  },
+  {
+    "key": "DP_0232_0247",
+    "original": "サナギラス",
+    "translation": "沙基拉斯",
+    "index": 247
+  },
+  {
+    "key": "DP_0232_0248",
+    "original": "バンギラス",
+    "translation": "班基拉斯",
+    "index": 248
+  },
+  {
+    "key": "DP_0232_0249",
+    "original": "ルギア",
+    "translation": "洛奇亚",
+    "index": 249
+  },
+  {
+    "key": "DP_0232_0250",
+    "original": "ホウオウ",
+    "translation": "凤王",
+    "index": 250
+  },
+  {
+    "key": "DP_0232_0251",
+    "original": "セレビィ",
+    "translation": "时拉比",
+    "index": 251
+  },
+  {
+    "key": "DP_0232_0252",
+    "original": "キモリ",
+    "translation": "木守宫",
+    "index": 252
+  },
+  {
+    "key": "DP_0232_0253",
+    "original": "ジュプトル",
+    "translation": "森林蜥蜴",
+    "index": 253
+  },
+  {
+    "key": "DP_0232_0254",
+    "original": "ジュカイン",
+    "translation": "蜥蜴王",
+    "index": 254
+  },
+  {
+    "key": "DP_0232_0255",
+    "original": "アチャモ",
+    "translation": "火稚鸡",
+    "index": 255
+  },
+  {
+    "key": "DP_0232_0256",
+    "original": "ワカシャモ",
+    "translation": "力壮鸡",
+    "index": 256
+  },
+  {
+    "key": "DP_0232_0257",
+    "original": "バシャーモ",
+    "translation": "火焰鸡",
+    "index": 257
+  },
+  {
+    "key": "DP_0232_0258",
+    "original": "ミズゴロウ",
+    "translation": "水跃鱼",
+    "index": 258
+  },
+  {
+    "key": "DP_0232_0259",
+    "original": "ヌマクロー",
+    "translation": "沼跃鱼",
+    "index": 259
+  },
+  {
+    "key": "DP_0232_0260",
+    "original": "ラグラージ",
+    "translation": "巨沼怪",
+    "index": 260
+  },
+  {
+    "key": "DP_0232_0261",
+    "original": "ポチエナ",
+    "translation": "土狼犬",
+    "index": 261
+  },
+  {
+    "key": "DP_0232_0262",
+    "original": "グラエナ",
+    "translation": "大狼犬",
+    "index": 262
+  },
+  {
+    "key": "DP_0232_0263",
+    "original": "ジグザグマ",
+    "translation": "蛇纹熊",
+    "index": 263
+  },
+  {
+    "key": "DP_0232_0264",
+    "original": "マッスグマ",
+    "translation": "直冲熊",
+    "index": 264
+  },
+  {
+    "key": "DP_0232_0265",
+    "original": "ケムッソ",
+    "translation": "刺尾虫",
+    "index": 265
+  },
+  {
+    "key": "DP_0232_0266",
+    "original": "カラサリス",
+    "translation": "甲壳茧",
+    "index": 266
+  },
+  {
+    "key": "DP_0232_0267",
+    "original": "アゲハント",
+    "translation": "狩猎凤蝶",
+    "index": 267
+  },
+  {
+    "key": "DP_0232_0268",
+    "original": "マユルド",
+    "translation": "盾甲茧",
+    "index": 268
+  },
+  {
+    "key": "DP_0232_0269",
+    "original": "ドクケイル",
+    "translation": "毒粉蛾",
+    "index": 269
+  },
+  {
+    "key": "DP_0232_0270",
+    "original": "ハスボー",
+    "translation": "莲叶童子",
+    "index": 270
+  },
+  {
+    "key": "DP_0232_0271",
+    "original": "ハスブレロ",
+    "translation": "莲帽小童",
+    "index": 271
+  },
+  {
+    "key": "DP_0232_0272",
+    "original": "ルンパッパ",
+    "translation": "乐天河童",
+    "index": 272
+  },
+  {
+    "key": "DP_0232_0273",
+    "original": "タネボー",
+    "translation": "橡实果",
+    "index": 273
+  },
+  {
+    "key": "DP_0232_0274",
+    "original": "コノハナ",
+    "translation": "长鼻叶",
+    "index": 274
+  },
+  {
+    "key": "DP_0232_0275",
+    "original": "ダーテング",
+    "translation": "狡猾天狗",
+    "index": 275
+  },
+  {
+    "key": "DP_0232_0276",
+    "original": "スバメ",
+    "translation": "傲骨燕",
+    "index": 276
+  },
+  {
+    "key": "DP_0232_0277",
+    "original": "オオスバメ",
+    "translation": "大王燕",
+    "index": 277
+  },
+  {
+    "key": "DP_0232_0278",
+    "original": "キャモメ",
+    "translation": "长翅鸥",
+    "index": 278
+  },
+  {
+    "key": "DP_0232_0279",
+    "original": "ペリッパー",
+    "translation": "大嘴鸥",
+    "index": 279
+  },
+  {
+    "key": "DP_0232_0280",
+    "original": "ラルトス",
+    "translation": "拉鲁拉丝",
+    "index": 280
+  },
+  {
+    "key": "DP_0232_0281",
+    "original": "キルリア",
+    "translation": "奇鲁莉安",
+    "index": 281
+  },
+  {
+    "key": "DP_0232_0282",
+    "original": "サーナイト",
+    "translation": "沙奈朵",
+    "index": 282
+  },
+  {
+    "key": "DP_0232_0283",
+    "original": "アメタマ",
+    "translation": "溜溜糖球",
+    "index": 283
+  },
+  {
+    "key": "DP_0232_0284",
+    "original": "アメモース",
+    "translation": "雨翅蛾",
+    "index": 284
+  },
+  {
+    "key": "DP_0232_0285",
+    "original": "キノココ",
+    "translation": "蘑蘑菇",
+    "index": 285
+  },
+  {
+    "key": "DP_0232_0286",
+    "original": "キノガッサ",
+    "translation": "斗笠菇",
+    "index": 286
+  },
+  {
+    "key": "DP_0232_0287",
+    "original": "ナマケロ",
+    "translation": "懒人獭",
+    "index": 287
+  },
+  {
+    "key": "DP_0232_0288",
+    "original": "ヤルキモノ",
+    "translation": "过动猿",
+    "index": 288
+  },
+  {
+    "key": "DP_0232_0289",
+    "original": "ケッキング",
+    "translation": "请假王",
+    "index": 289
+  },
+  {
+    "key": "DP_0232_0290",
+    "original": "ツチニン",
+    "translation": "土居忍士",
+    "index": 290
+  },
+  {
+    "key": "DP_0232_0291",
+    "original": "テッカニン",
+    "translation": "铁面忍者",
+    "index": 291
+  },
+  {
+    "key": "DP_0232_0292",
+    "original": "ヌケニン",
+    "translation": "脱壳忍者",
+    "index": 292
+  },
+  {
+    "key": "DP_0232_0293",
+    "original": "ゴニョニョ",
+    "translation": "咕妞妞",
+    "index": 293
+  },
+  {
+    "key": "DP_0232_0294",
+    "original": "ドゴーム",
+    "translation": "吼爆弹",
+    "index": 294
+  },
+  {
+    "key": "DP_0232_0295",
+    "original": "バクオング",
+    "translation": "爆音怪",
+    "index": 295
+  },
+  {
+    "key": "DP_0232_0296",
+    "original": "マクノシタ",
+    "translation": "幕下力士",
+    "index": 296
+  },
+  {
+    "key": "DP_0232_0297",
+    "original": "ハリテヤマ",
+    "translation": "铁掌力士",
+    "index": 297
+  },
+  {
+    "key": "DP_0232_0298",
+    "original": "ルリリ",
+    "translation": "露力丽",
+    "index": 298
+  },
+  {
+    "key": "DP_0232_0299",
+    "original": "ノズパス",
+    "translation": "朝北鼻",
+    "index": 299
+  },
+  {
+    "key": "DP_0232_0300",
+    "original": "エネコ",
+    "translation": "向尾喵",
+    "index": 300
+  },
+  {
+    "key": "DP_0232_0301",
+    "original": "エネコロロ",
+    "translation": "优雅猫",
+    "index": 301
+  },
+  {
+    "key": "DP_0232_0302",
+    "original": "ヤミラミ",
+    "translation": "勾魂眼",
+    "index": 302
+  },
+  {
+    "key": "DP_0232_0303",
+    "original": "クチート",
+    "translation": "大嘴娃",
+    "index": 303
+  },
+  {
+    "key": "DP_0232_0304",
+    "original": "ココドラ",
+    "translation": "可可多拉",
+    "index": 304
+  },
+  {
+    "key": "DP_0232_0305",
+    "original": "コドラ",
+    "translation": "可多拉",
+    "index": 305
+  },
+  {
+    "key": "DP_0232_0306",
+    "original": "ボスゴドラ",
+    "translation": "波士可多拉",
+    "index": 306
+  },
+  {
+    "key": "DP_0232_0307",
+    "original": "アサナン",
+    "translation": "玛沙那",
+    "index": 307
+  },
+  {
+    "key": "DP_0232_0308",
+    "original": "チャーレム",
+    "translation": "恰雷姆",
+    "index": 308
+  },
+  {
+    "key": "DP_0232_0309",
+    "original": "ラクライ",
+    "translation": "落雷兽",
+    "index": 309
+  },
+  {
+    "key": "DP_0232_0310",
+    "original": "ライボルト",
+    "translation": "雷电兽",
+    "index": 310
+  },
+  {
+    "key": "DP_0232_0311",
+    "original": "プラスル",
+    "translation": "正电拍拍",
+    "index": 311
+  },
+  {
+    "key": "DP_0232_0312",
+    "original": "マイナン",
+    "translation": "负电拍拍",
+    "index": 312
+  },
+  {
+    "key": "DP_0232_0313",
+    "original": "バルビート",
+    "translation": "电萤虫",
+    "index": 313
+  },
+  {
+    "key": "DP_0232_0314",
+    "original": "イルミーゼ",
+    "translation": "甜甜萤",
+    "index": 314
+  },
+  {
+    "key": "DP_0232_0315",
+    "original": "ロゼリア",
+    "translation": "毒蔷薇",
+    "index": 315
+  },
+  {
+    "key": "DP_0232_0316",
+    "original": "ゴクリン",
+    "translation": "溶食兽",
+    "index": 316
+  },
+  {
+    "key": "DP_0232_0317",
+    "original": "マルノーム",
+    "translation": "吞食兽",
+    "index": 317
+  },
+  {
+    "key": "DP_0232_0318",
+    "original": "キバニア",
+    "translation": "利牙鱼",
+    "index": 318
+  },
+  {
+    "key": "DP_0232_0319",
+    "original": "サメハダー",
+    "translation": "巨牙鲨",
+    "index": 319
+  },
+  {
+    "key": "DP_0232_0320",
+    "original": "ホエルコ",
+    "translation": "吼吼鲸",
+    "index": 320
+  },
+  {
+    "key": "DP_0232_0321",
+    "original": "ホエルオー",
+    "translation": "吼鲸王",
+    "index": 321
+  },
+  {
+    "key": "DP_0232_0322",
+    "original": "ドンメル",
+    "translation": "呆火驼",
+    "index": 322
+  },
+  {
+    "key": "DP_0232_0323",
+    "original": "バクーダ",
+    "translation": "喷火驼",
+    "index": 323
+  },
+  {
+    "key": "DP_0232_0324",
+    "original": "コータス",
+    "translation": "煤炭龟",
+    "index": 324
+  },
+  {
+    "key": "DP_0232_0325",
+    "original": "バネブー",
+    "translation": "跳跳猪",
+    "index": 325
+  },
+  {
+    "key": "DP_0232_0326",
+    "original": "ブーピッグ",
+    "translation": "噗噗猪",
+    "index": 326
+  },
+  {
+    "key": "DP_0232_0327",
+    "original": "パッチール",
+    "translation": "晃晃斑",
+    "index": 327
+  },
+  {
+    "key": "DP_0232_0328",
+    "original": "ナックラー",
+    "translation": "大颚蚁",
+    "index": 328
+  },
+  {
+    "key": "DP_0232_0329",
+    "original": "ビブラーバ",
+    "translation": "超音波幼虫",
+    "index": 329
+  },
+  {
+    "key": "DP_0232_0330",
+    "original": "フライゴン",
+    "translation": "沙漠蜻蜓",
+    "index": 330
+  },
+  {
+    "key": "DP_0232_0331",
+    "original": "サボネア",
+    "translation": "刺球仙人掌",
+    "index": 331
+  },
+  {
+    "key": "DP_0232_0332",
+    "original": "ノクタス",
+    "translation": "梦歌仙人掌",
+    "index": 332
+  },
+  {
+    "key": "DP_0232_0333",
+    "original": "チルット",
+    "translation": "青绵鸟",
+    "index": 333
+  },
+  {
+    "key": "DP_0232_0334",
+    "original": "チルタリス",
+    "translation": "七夕青鸟",
+    "index": 334
+  },
+  {
+    "key": "DP_0232_0335",
+    "original": "ザングース",
+    "translation": "猫鼬斩",
+    "index": 335
+  },
+  {
+    "key": "DP_0232_0336",
+    "original": "ハブネーク",
+    "translation": "饭匙蛇",
+    "index": 336
+  },
+  {
+    "key": "DP_0232_0337",
+    "original": "ルナトーン",
+    "translation": "月石",
+    "index": 337
+  },
+  {
+    "key": "DP_0232_0338",
+    "original": "ソルロック",
+    "translation": "太阳岩",
+    "index": 338
+  },
+  {
+    "key": "DP_0232_0339",
+    "original": "ドジョッチ",
+    "translation": "泥泥鳅",
+    "index": 339
+  },
+  {
+    "key": "DP_0232_0340",
+    "original": "ナマズン",
+    "translation": "鲶鱼王",
+    "index": 340
+  },
+  {
+    "key": "DP_0232_0341",
+    "original": "ヘイガニ",
+    "translation": "龙虾小兵",
+    "index": 341
+  },
+  {
+    "key": "DP_0232_0342",
+    "original": "シザリガー",
+    "translation": "铁螯龙虾",
+    "index": 342
+  },
+  {
+    "key": "DP_0232_0343",
+    "original": "ヤジロン",
+    "translation": "天秤偶",
+    "index": 343
+  },
+  {
+    "key": "DP_0232_0344",
+    "original": "ネンドール",
+    "translation": "念力土偶",
+    "index": 344
+  },
+  {
+    "key": "DP_0232_0345",
+    "original": "リリーラ",
+    "translation": "触手百合",
+    "index": 345
+  },
+  {
+    "key": "DP_0232_0346",
+    "original": "ユレイドル",
+    "translation": "摇篮百合",
+    "index": 346
+  },
+  {
+    "key": "DP_0232_0347",
+    "original": "アノプス",
+    "translation": "太古羽虫",
+    "index": 347
+  },
+  {
+    "key": "DP_0232_0348",
+    "original": "アーマルド",
+    "translation": "太古盔甲",
+    "index": 348
+  },
+  {
+    "key": "DP_0232_0349",
+    "original": "ヒンバス",
+    "translation": "丑丑鱼",
+    "index": 349
+  },
+  {
+    "key": "DP_0232_0350",
+    "original": "ミロカロス",
+    "translation": "美纳斯",
+    "index": 350
+  },
+  {
+    "key": "DP_0232_0351",
+    "original": "ポワルン",
+    "translation": "飘浮泡泡",
+    "index": 351
+  },
+  {
+    "key": "DP_0232_0352",
+    "original": "カクレオン",
+    "translation": "变隐龙",
+    "index": 352
+  },
+  {
+    "key": "DP_0232_0353",
+    "original": "カゲボウズ",
+    "translation": "怨影娃娃",
+    "index": 353
+  },
+  {
+    "key": "DP_0232_0354",
+    "original": "ジュペッタ",
+    "translation": "诅咒娃娃",
+    "index": 354
+  },
+  {
+    "key": "DP_0232_0355",
+    "original": "ヨマワル",
+    "translation": "夜巡灵",
+    "index": 355
+  },
+  {
+    "key": "DP_0232_0356",
+    "original": "サマヨール",
+    "translation": "彷徨夜灵",
+    "index": 356
+  },
+  {
+    "key": "DP_0232_0357",
+    "original": "トロピウス",
+    "translation": "热带龙",
+    "index": 357
+  },
+  {
+    "key": "DP_0232_0358",
+    "original": "チリーン",
+    "translation": "风铃铃",
+    "index": 358
+  },
+  {
+    "key": "DP_0232_0359",
+    "original": "アブソル",
+    "translation": "阿勃梭鲁",
+    "index": 359
+  },
+  {
+    "key": "DP_0232_0360",
+    "original": "ソーナノ",
+    "translation": "小果然",
+    "index": 360
+  },
+  {
+    "key": "DP_0232_0361",
+    "original": "ユキワラシ",
+    "translation": "雪童子",
+    "index": 361
+  },
+  {
+    "key": "DP_0232_0362",
+    "original": "オニゴーリ",
+    "translation": "冰鬼护",
+    "index": 362
+  },
+  {
+    "key": "DP_0232_0363",
+    "original": "タマザラシ",
+    "translation": "海豹球",
+    "index": 363
+  },
+  {
+    "key": "DP_0232_0364",
+    "original": "トドグラー",
+    "translation": "海魔狮",
+    "index": 364
+  },
+  {
+    "key": "DP_0232_0365",
+    "original": "トドゼルガ",
+    "translation": "帝牙海狮",
+    "index": 365
+  },
+  {
+    "key": "DP_0232_0366",
+    "original": "パールル",
+    "translation": "珍珠贝",
+    "index": 366
+  },
+  {
+    "key": "DP_0232_0367",
+    "original": "ハンテール",
+    "translation": "猎斑鱼",
+    "index": 367
+  },
+  {
+    "key": "DP_0232_0368",
+    "original": "サクラビス",
+    "translation": "樱花鱼",
+    "index": 368
+  },
+  {
+    "key": "DP_0232_0369",
+    "original": "ジーランス",
+    "translation": "古空棘鱼",
+    "index": 369
+  },
+  {
+    "key": "DP_0232_0370",
+    "original": "ラブカス",
+    "translation": "爱心鱼",
+    "index": 370
+  },
+  {
+    "key": "DP_0232_0371",
+    "original": "タツベイ",
+    "translation": "宝贝龙",
+    "index": 371
+  },
+  {
+    "key": "DP_0232_0372",
+    "original": "コモルー",
+    "translation": "甲壳龙",
+    "index": 372
+  },
+  {
+    "key": "DP_0232_0373",
+    "original": "ボーマンダ",
+    "translation": "暴飞龙",
+    "index": 373
+  },
+  {
+    "key": "DP_0232_0374",
+    "original": "ダンバル",
+    "translation": "铁哑铃",
+    "index": 374
+  },
+  {
+    "key": "DP_0232_0375",
+    "original": "メタング",
+    "translation": "金属怪",
+    "index": 375
+  },
+  {
+    "key": "DP_0232_0376",
+    "original": "メタグロス",
+    "translation": "巨金怪",
+    "index": 376
+  },
+  {
+    "key": "DP_0232_0377",
+    "original": "レジロック",
+    "translation": "雷吉洛克",
+    "index": 377
+  },
+  {
+    "key": "DP_0232_0378",
+    "original": "レジアイス",
+    "translation": "雷吉艾斯",
+    "index": 378
+  },
+  {
+    "key": "DP_0232_0379",
+    "original": "レジスチル",
+    "translation": "雷吉斯奇鲁",
+    "index": 379
+  },
+  {
+    "key": "DP_0232_0380",
+    "original": "ラティアス",
+    "translation": "拉帝亚斯",
+    "index": 380
+  },
+  {
+    "key": "DP_0232_0381",
+    "original": "ラティオス",
+    "translation": "拉帝欧斯",
+    "index": 381
+  },
+  {
+    "key": "DP_0232_0382",
+    "original": "カイオーガ",
+    "translation": "盖欧卡",
+    "index": 382
+  },
+  {
+    "key": "DP_0232_0383",
+    "original": "グラードン",
+    "translation": "固拉多",
+    "index": 383
+  },
+  {
+    "key": "DP_0232_0384",
+    "original": "レックウザ",
+    "translation": "烈空坐",
+    "index": 384
+  },
+  {
+    "key": "DP_0232_0385",
+    "original": "ジラーチ",
+    "translation": "基拉祈",
+    "index": 385
+  },
+  {
+    "key": "DP_0232_0386",
+    "original": "デオキシス",
+    "translation": "代欧奇希斯",
+    "index": 386
+  },
+  {
+    "key": "DP_0232_0387",
+    "original": "ナエトル",
+    "translation": "草苗龟",
+    "index": 387
+  },
+  {
+    "key": "DP_0232_0388",
+    "original": "ハヤシガメ",
+    "translation": "树林龟",
+    "index": 388
+  },
+  {
+    "key": "DP_0232_0389",
+    "original": "ドダイトス",
+    "translation": "土台龟",
+    "index": 389
+  },
+  {
+    "key": "DP_0232_0390",
+    "original": "ヒコザル",
+    "translation": "小火焰猴",
+    "index": 390
+  },
+  {
+    "key": "DP_0232_0391",
+    "original": "モウカザル",
+    "translation": "猛火猴",
+    "index": 391
+  },
+  {
+    "key": "DP_0232_0392",
+    "original": "ゴウカザル",
+    "translation": "烈焰猴",
+    "index": 392
+  },
+  {
+    "key": "DP_0232_0393",
+    "original": "ポッチャマ",
+    "translation": "波加曼",
+    "index": 393
+  },
+  {
+    "key": "DP_0232_0394",
+    "original": "ポッタイシ",
+    "translation": "波皇子",
+    "index": 394
+  },
+  {
+    "key": "DP_0232_0395",
+    "original": "エンペルト",
+    "translation": "帝王拿波",
+    "index": 395
+  },
+  {
+    "key": "DP_0232_0396",
+    "original": "ムックル",
+    "translation": "姆克儿",
+    "index": 396
+  },
+  {
+    "key": "DP_0232_0397",
+    "original": "ムクバード",
+    "translation": "姆克鸟",
+    "index": 397
+  },
+  {
+    "key": "DP_0232_0398",
+    "original": "ムクホーク",
+    "translation": "姆克鹰",
+    "index": 398
+  },
+  {
+    "key": "DP_0232_0399",
+    "original": "ビッパ",
+    "translation": "大牙狸",
+    "index": 399
+  },
+  {
+    "key": "DP_0232_0400",
+    "original": "ビーダル",
+    "translation": "大尾狸",
+    "index": 400
+  },
+  {
+    "key": "DP_0232_0401",
+    "original": "コロボーシ",
+    "translation": "圆法师",
+    "index": 401
+  },
+  {
+    "key": "DP_0232_0402",
+    "original": "コロトック",
+    "translation": "音箱蟀",
+    "index": 402
+  },
+  {
+    "key": "DP_0232_0403",
+    "original": "コリンク",
+    "translation": "小猫怪",
+    "index": 403
+  },
+  {
+    "key": "DP_0232_0404",
+    "original": "ルクシオ",
+    "translation": "勒克猫",
+    "index": 404
+  },
+  {
+    "key": "DP_0232_0405",
+    "original": "レントラー",
+    "translation": "伦琴猫",
+    "index": 405
+  },
+  {
+    "key": "DP_0232_0406",
+    "original": "スボミー",
+    "translation": "含羞苞",
+    "index": 406
+  },
+  {
+    "key": "DP_0232_0407",
+    "original": "ロズレイド",
+    "translation": "罗丝雷朵",
+    "index": 407
+  },
+  {
+    "key": "DP_0232_0408",
+    "original": "ズガイドス",
+    "translation": "头盖龙",
+    "index": 408
+  },
+  {
+    "key": "DP_0232_0409",
+    "original": "ラムパルド",
+    "translation": "战槌龙",
+    "index": 409
+  },
+  {
+    "key": "DP_0232_0410",
+    "original": "タテトプス",
+    "translation": "盾甲龙",
+    "index": 410
+  },
+  {
+    "key": "DP_0232_0411",
+    "original": "トリデプス",
+    "translation": "护城龙",
+    "index": 411
+  },
+  {
+    "key": "DP_0232_0412",
+    "original": "ミノムッチ",
+    "translation": "结草儿",
+    "index": 412
+  },
+  {
+    "key": "DP_0232_0413",
+    "original": "ミノマダム",
+    "translation": "结草贵妇",
+    "index": 413
+  },
+  {
+    "key": "DP_0232_0414",
+    "original": "ガーメイル",
+    "translation": "绅士蛾",
+    "index": 414
+  },
+  {
+    "key": "DP_0232_0415",
+    "original": "ミツハニー",
+    "translation": "三蜜蜂",
+    "index": 415
+  },
+  {
+    "key": "DP_0232_0416",
+    "original": "ビークイン",
+    "translation": "蜂女王",
+    "index": 416
+  },
+  {
+    "key": "DP_0232_0417",
+    "original": "パチリス",
+    "translation": "帕奇利兹",
+    "index": 417
+  },
+  {
+    "key": "DP_0232_0418",
+    "original": "ブイゼル",
+    "translation": "泳圈鼬",
+    "index": 418
+  },
+  {
+    "key": "DP_0232_0419",
+    "original": "フローゼル",
+    "translation": "浮潜鼬",
+    "index": 419
+  },
+  {
+    "key": "DP_0232_0420",
+    "original": "チェリンボ",
+    "translation": "樱花宝",
+    "index": 420
+  },
+  {
+    "key": "DP_0232_0421",
+    "original": "チェリム",
+    "translation": "樱花儿",
+    "index": 421
+  },
+  {
+    "key": "DP_0232_0422",
+    "original": "カラナクシ",
+    "translation": "无壳海兔",
+    "index": 422
+  },
+  {
+    "key": "DP_0232_0423",
+    "original": "トリトドン",
+    "translation": "海兔兽",
+    "index": 423
+  },
+  {
+    "key": "DP_0232_0424",
+    "original": "エテボース",
+    "translation": "双尾怪手",
+    "index": 424
+  },
+  {
+    "key": "DP_0232_0425",
+    "original": "フワンテ",
+    "translation": "飘飘球",
+    "index": 425
+  },
+  {
+    "key": "DP_0232_0426",
+    "original": "フワライド",
+    "translation": "随风球",
+    "index": 426
+  },
+  {
+    "key": "DP_0232_0427",
+    "original": "ミミロル",
+    "translation": "卷卷耳",
+    "index": 427
+  },
+  {
+    "key": "DP_0232_0428",
+    "original": "ミミロップ",
+    "translation": "长耳兔",
+    "index": 428
+  },
+  {
+    "key": "DP_0232_0429",
+    "original": "ムウマージ",
+    "translation": "梦妖魔",
+    "index": 429
+  },
+  {
+    "key": "DP_0232_0430",
+    "original": "ドンカラス",
+    "translation": "乌鸦头头",
+    "index": 430
+  },
+  {
+    "key": "DP_0232_0431",
+    "original": "ニャルマー",
+    "translation": "魅力喵",
+    "index": 431
+  },
+  {
+    "key": "DP_0232_0432",
+    "original": "ブニャット",
+    "translation": "东施喵",
+    "index": 432
+  },
+  {
+    "key": "DP_0232_0433",
+    "original": "リーシャン",
+    "translation": "铃铛响",
+    "index": 433
+  },
+  {
+    "key": "DP_0232_0434",
+    "original": "スカンプー",
+    "translation": "臭鼬噗",
+    "index": 434
+  },
+  {
+    "key": "DP_0232_0435",
+    "original": "スカタンク",
+    "translation": "坦克臭鼬",
+    "index": 435
+  },
+  {
+    "key": "DP_0232_0436",
+    "original": "ドーミラー",
+    "translation": "铜镜怪",
+    "index": 436
+  },
+  {
+    "key": "DP_0232_0437",
+    "original": "ドータクン",
+    "translation": "青铜钟",
+    "index": 437
+  },
+  {
+    "key": "DP_0232_0438",
+    "original": "ウソハチ",
+    "translation": "盆才怪",
+    "index": 438
+  },
+  {
+    "key": "DP_0232_0439",
+    "original": "マネネ",
+    "translation": "魔尼尼",
+    "index": 439
+  },
+  {
+    "key": "DP_0232_0440",
+    "original": "ピンプク",
+    "translation": "小福蛋",
+    "index": 440
+  },
+  {
+    "key": "DP_0232_0441",
+    "original": "ペラップ",
+    "translation": "聒噪鸟",
+    "index": 441
+  },
+  {
+    "key": "DP_0232_0442",
+    "original": "ミカルゲ",
+    "translation": "花岩怪",
+    "index": 442
+  },
+  {
+    "key": "DP_0232_0443",
+    "original": "フカマル",
+    "translation": "圆陆鲨",
+    "index": 443
+  },
+  {
+    "key": "DP_0232_0444",
+    "original": "ガバイト",
+    "translation": "尖牙陆鲨",
+    "index": 444
+  },
+  {
+    "key": "DP_0232_0445",
+    "original": "ガブリアス",
+    "translation": "烈咬陆鲨",
+    "index": 445
+  },
+  {
+    "key": "DP_0232_0446",
+    "original": "ゴンベ",
+    "translation": "小卡比兽",
+    "index": 446
+  },
+  {
+    "key": "DP_0232_0447",
+    "original": "リオル",
+    "translation": "利欧路",
+    "index": 447
+  },
+  {
+    "key": "DP_0232_0448",
+    "original": "ルカリオ",
+    "translation": "路卡利欧",
+    "index": 448
+  },
+  {
+    "key": "DP_0232_0449",
+    "original": "ヒポポタス",
+    "translation": "沙河马",
+    "index": 449
+  },
+  {
+    "key": "DP_0232_0450",
+    "original": "カバルドン",
+    "translation": "河马兽",
+    "index": 450
+  },
+  {
+    "key": "DP_0232_0451",
+    "original": "スコルピ",
+    "translation": "钳尾蝎",
+    "index": 451
+  },
+  {
+    "key": "DP_0232_0452",
+    "original": "ドラピオン",
+    "translation": "龙王蝎",
+    "index": 452
+  },
+  {
+    "key": "DP_0232_0453",
+    "original": "グレッグル",
+    "translation": "不良蛙",
+    "index": 453
+  },
+  {
+    "key": "DP_0232_0454",
+    "original": "ドクロッグ",
+    "translation": "毒骷蛙",
+    "index": 454
+  },
+  {
+    "key": "DP_0232_0455",
+    "original": "マスキッパ",
+    "translation": "尖牙笼",
+    "index": 455
+  },
+  {
+    "key": "DP_0232_0456",
+    "original": "ケイコウオ",
+    "translation": "荧光鱼",
+    "index": 456
+  },
+  {
+    "key": "DP_0232_0457",
+    "original": "ネオラント",
+    "translation": "霓虹鱼",
+    "index": 457
+  },
+  {
+    "key": "DP_0232_0458",
+    "original": "タマンタ",
+    "translation": "小球飞鱼",
+    "index": 458
+  },
+  {
+    "key": "DP_0232_0459",
+    "original": "ユキカブリ",
+    "translation": "雪笠怪",
+    "index": 459
+  },
+  {
+    "key": "DP_0232_0460",
+    "original": "ユキノオー",
+    "translation": "暴雪王",
+    "index": 460
+  },
+  {
+    "key": "DP_0232_0461",
+    "original": "マニューラ",
+    "translation": "玛狃拉",
+    "index": 461
+  },
+  {
+    "key": "DP_0232_0462",
+    "original": "ジバコイル",
+    "translation": "自爆磁怪",
+    "index": 462
+  },
+  {
+    "key": "DP_0232_0463",
+    "original": "ベロベルト",
+    "translation": "大舌舔",
+    "index": 463
+  },
+  {
+    "key": "DP_0232_0464",
+    "original": "ドサイドン",
+    "translation": "超甲狂犀",
+    "index": 464
+  },
+  {
+    "key": "DP_0232_0465",
+    "original": "モジャンボ",
+    "translation": "巨蔓藤",
+    "index": 465
+  },
+  {
+    "key": "DP_0232_0466",
+    "original": "エレキブル",
+    "translation": "电击魔兽",
+    "index": 466
+  },
+  {
+    "key": "DP_0232_0467",
+    "original": "ブーバーン",
+    "translation": "鸭嘴炎兽",
+    "index": 467
+  },
+  {
+    "key": "DP_0232_0468",
+    "original": "トゲキッス",
+    "translation": "波克基斯",
+    "index": 468
+  },
+  {
+    "key": "DP_0232_0469",
+    "original": "メガヤンマ",
+    "translation": "远古巨蜓",
+    "index": 469
+  },
+  {
+    "key": "DP_0232_0470",
+    "original": "リーフィア",
+    "translation": "叶伊布",
+    "index": 470
+  },
+  {
+    "key": "DP_0232_0471",
+    "original": "グレイシア",
+    "translation": "冰伊布",
+    "index": 471
+  },
+  {
+    "key": "DP_0232_0472",
+    "original": "グライオン",
+    "translation": "天蝎王",
+    "index": 472
+  },
+  {
+    "key": "DP_0232_0473",
+    "original": "マンムー",
+    "translation": "象牙猪",
+    "index": 473
+  },
+  {
+    "key": "DP_0232_0474",
+    "original": "ポリゴンＺ",
+    "translation": "多边兽乙型",
+    "index": 474
+  },
+  {
+    "key": "DP_0232_0475",
+    "original": "エルレイド",
+    "translation": "艾路雷朵",
+    "index": 475
+  },
+  {
+    "key": "DP_0232_0476",
+    "original": "ダイノーズ",
+    "translation": "大朝北鼻",
+    "index": 476
+  },
+  {
+    "key": "DP_0232_0477",
+    "original": "ヨノワール",
+    "translation": "黑夜魔灵",
+    "index": 477
+  },
+  {
+    "key": "DP_0232_0478",
+    "original": "ユキメノコ",
+    "translation": "雪妖女",
+    "index": 478
+  },
+  {
+    "key": "DP_0232_0479",
+    "original": "ロトム",
+    "translation": "洛托姆",
+    "index": 479
+  },
+  {
+    "key": "DP_0232_0480",
+    "original": "ユクシー",
+    "translation": "由克希",
+    "index": 480
+  },
+  {
+    "key": "DP_0232_0481",
+    "original": "エムリット",
+    "translation": "艾姆利多",
+    "index": 481
+  },
+  {
+    "key": "DP_0232_0482",
+    "original": "アグノム",
+    "translation": "亚克诺姆",
+    "index": 482
+  },
+  {
+    "key": "DP_0232_0483",
+    "original": "ディアルガ",
+    "translation": "帝牙卢卡",
+    "index": 483
+  },
+  {
+    "key": "DP_0232_0484",
+    "original": "パルキア",
+    "translation": "帕路奇亚",
+    "index": 484
+  },
+  {
+    "key": "DP_0232_0485",
+    "original": "ヒードラン",
+    "translation": "席多蓝恩",
+    "index": 485
+  },
+  {
+    "key": "DP_0232_0486",
+    "original": "レジギガス",
+    "translation": "雷吉奇卡斯",
+    "index": 486
+  },
+  {
+    "key": "DP_0232_0487",
+    "original": "ギラティナ",
+    "translation": "骑拉帝纳",
+    "index": 487
+  },
+  {
+    "key": "DP_0232_0488",
+    "original": "クレセリア",
+    "translation": "克雷色利亚",
+    "index": 488
+  },
+  {
+    "key": "DP_0232_0489",
+    "original": "フィオネ",
+    "translation": "霏欧纳",
+    "index": 489
+  },
+  {
+    "key": "DP_0232_0490",
+    "original": "マナフィ",
+    "translation": "玛纳霏",
+    "index": 490
+  },
+  {
+    "key": "DP_0232_0491",
+    "original": "ダークライ",
+    "translation": "达克莱伊",
+    "index": 491
+  },
+  {
+    "key": "DP_0232_0492",
+    "original": "シェイミ",
+    "translation": "谢米",
+    "index": 492
+  },
+  {
+    "key": "DP_0232_0493",
+    "original": "アルセウス",
+    "translation": "阿尔宙斯",
+    "index": 493
+  },
+  {
+    "key": "DP_0232_0494",
+    "original": "タマゴ",
+    "translation": "蛋",
+    "index": 494
+  },
+  {
+    "key": "DP_0232_0495",
+    "original": "ダメタマゴ",
+    "translation": "坏蛋",
+    "index": 495
+  }
+]

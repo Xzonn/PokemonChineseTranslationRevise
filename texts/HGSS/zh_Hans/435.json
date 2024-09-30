@@ -1,0 +1,128 @@
+[
+  {
+    "key": "HGSS_0435_0000",
+    "original": "つづきから はじめる",
+    "translation": "继续游戏",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0435_0001",
+    "original": "さいしょから はじめる",
+    "translation": "从头开始游戏",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0435_0002",
+    "original": "ふしぎな おくりもの",
+    "translation": "神秘礼物",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0435_0003",
+    "original": "ポケモンレンジャーと せつぞく",
+    "translation": "与《宝可梦巡护员》联动",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0435_0004",
+    "original": "ルビーから つれてくる",
+    "translation": "与《红宝石》联动",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0435_0005",
+    "original": "サファイアから つれてくる",
+    "translation": "与《蓝宝石》联动",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0435_0006",
+    "original": "リーフグリーンから つれてくる",
+    "translation": "与《叶绿》联动",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0435_0007",
+    "original": "ファイアレッドから つれてくる",
+    "translation": "与《火红》联动",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0435_0008",
+    "original": "エメラルドから つれてくる",
+    "translation": "与《绿宝石》联动",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0435_0009",
+    "original": "ポケウォーカーと せつぞく",
+    "translation": "与宝可计步器连接",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0435_0010",
+    "original": "eメールせってい",
+    "translation": "Ｅーｍａｉｌ设定",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0435_0011",
+    "original": "Ｗｉｉと せつぞく",
+    "translation": "与Ｗｉｉ联动",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0435_0012",
+    "original": "ＷｉーＦｉせってい",
+    "translation": "ＷｉーＦｉ设定",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0435_0013",
+    "original": "しゅじんこう",
+    "translation": "主人公",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0435_0014",
+    "original": "プレイじかん",
+    "translation": "游戏时间",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0435_0015",
+    "original": "ポケモンずかん",
+    "translation": "宝可梦图鉴",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0435_0016",
+    "original": "もっているバッジ",
+    "translation": "持有徽章",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0435_0017",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0435_0018",
+    "original": "[0134,0000]：[0133,0001]",
+    "translation": "[0134,0000]:[0133,0001]",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0435_0019",
+    "original": "[0134,0000]ひき",
+    "translation": "[0134,0000]只",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0435_0020",
+    "original": "[0132,0000]こ",
+    "translation": "[0132,0000]个",
+    "index": 20
+  }
+]

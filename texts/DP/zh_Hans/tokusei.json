@@ -1,0 +1,746 @@
+[
+  {
+    "key": "DP_0711_0000",
+    "original": "ー",
+    "translation": "ー",
+    "index": 0
+  },
+  {
+    "key": "DP_0711_0001",
+    "original": "あくしゅう",
+    "translation": "恶臭",
+    "index": 1
+  },
+  {
+    "key": "DP_0711_0002",
+    "original": "あめふらし",
+    "translation": "降雨",
+    "index": 2
+  },
+  {
+    "key": "DP_0711_0003",
+    "original": "かそく",
+    "translation": "加速",
+    "index": 3
+  },
+  {
+    "key": "DP_0711_0004",
+    "original": "カブトアーマー",
+    "translation": "战斗盔甲",
+    "index": 4
+  },
+  {
+    "key": "DP_0711_0005",
+    "original": "がんじょう",
+    "translation": "结实",
+    "index": 5
+  },
+  {
+    "key": "DP_0711_0006",
+    "original": "しめりけ",
+    "translation": "湿气",
+    "index": 6
+  },
+  {
+    "key": "DP_0711_0007",
+    "original": "じゅうなん",
+    "translation": "柔软",
+    "index": 7
+  },
+  {
+    "key": "DP_0711_0008",
+    "original": "すながくれ",
+    "translation": "沙隐",
+    "index": 8
+  },
+  {
+    "key": "DP_0711_0009",
+    "original": "せいでんき",
+    "translation": "静电",
+    "index": 9
+  },
+  {
+    "key": "DP_0711_0010",
+    "original": "ちくでん",
+    "translation": "蓄电",
+    "index": 10
+  },
+  {
+    "key": "DP_0711_0011",
+    "original": "ちょすい",
+    "translation": "储水",
+    "index": 11
+  },
+  {
+    "key": "DP_0711_0012",
+    "original": "どんかん",
+    "translation": "迟钝",
+    "index": 12
+  },
+  {
+    "key": "DP_0711_0013",
+    "original": "ノーてんき",
+    "translation": "无关天气",
+    "index": 13
+  },
+  {
+    "key": "DP_0711_0014",
+    "original": "ふくがん",
+    "translation": "复眼",
+    "index": 14
+  },
+  {
+    "key": "DP_0711_0015",
+    "original": "ふみん",
+    "translation": "不眠",
+    "index": 15
+  },
+  {
+    "key": "DP_0711_0016",
+    "original": "へんしょく",
+    "translation": "变色",
+    "index": 16
+  },
+  {
+    "key": "DP_0711_0017",
+    "original": "めんえき",
+    "translation": "免疫",
+    "index": 17
+  },
+  {
+    "key": "DP_0711_0018",
+    "original": "もらいび",
+    "translation": "引火",
+    "index": 18
+  },
+  {
+    "key": "DP_0711_0019",
+    "original": "りんぷん",
+    "translation": "鳞粉",
+    "index": 19
+  },
+  {
+    "key": "DP_0711_0020",
+    "original": "マイペース",
+    "translation": "我行我素",
+    "index": 20
+  },
+  {
+    "key": "DP_0711_0021",
+    "original": "きゅうばん",
+    "translation": "吸盘",
+    "index": 21
+  },
+  {
+    "key": "DP_0711_0022",
+    "original": "いかく",
+    "translation": "威吓",
+    "index": 22
+  },
+  {
+    "key": "DP_0711_0023",
+    "original": "かげふみ",
+    "translation": "踩影",
+    "index": 23
+  },
+  {
+    "key": "DP_0711_0024",
+    "original": "さめはだ",
+    "translation": "粗糙皮肤",
+    "index": 24
+  },
+  {
+    "key": "DP_0711_0025",
+    "original": "ふしぎなまもり",
+    "translation": "神奇守护",
+    "index": 25
+  },
+  {
+    "key": "DP_0711_0026",
+    "original": "ふゆう",
+    "translation": "飘浮",
+    "index": 26
+  },
+  {
+    "key": "DP_0711_0027",
+    "original": "ほうし",
+    "translation": "孢子",
+    "index": 27
+  },
+  {
+    "key": "DP_0711_0028",
+    "original": "シンクロ",
+    "translation": "同步",
+    "index": 28
+  },
+  {
+    "key": "DP_0711_0029",
+    "original": "クリアボディ",
+    "translation": "恒净之躯",
+    "index": 29
+  },
+  {
+    "key": "DP_0711_0030",
+    "original": "しぜんかいふく",
+    "translation": "自然回复",
+    "index": 30
+  },
+  {
+    "key": "DP_0711_0031",
+    "original": "ひらいしん",
+    "translation": "避雷针",
+    "index": 31
+  },
+  {
+    "key": "DP_0711_0032",
+    "original": "てんのめぐみ",
+    "translation": "天恩",
+    "index": 32
+  },
+  {
+    "key": "DP_0711_0033",
+    "original": "すいすい",
+    "translation": "悠游自如",
+    "index": 33
+  },
+  {
+    "key": "DP_0711_0034",
+    "original": "ようりょくそ",
+    "translation": "叶绿素",
+    "index": 34
+  },
+  {
+    "key": "DP_0711_0035",
+    "original": "はっこう",
+    "translation": "发光",
+    "index": 35
+  },
+  {
+    "key": "DP_0711_0036",
+    "original": "トレース",
+    "translation": "复制",
+    "index": 36
+  },
+  {
+    "key": "DP_0711_0037",
+    "original": "ちからもち",
+    "translation": "大力士",
+    "index": 37
+  },
+  {
+    "key": "DP_0711_0038",
+    "original": "どくのトゲ",
+    "translation": "毒刺",
+    "index": 38
+  },
+  {
+    "key": "DP_0711_0039",
+    "original": "せいしんりょく",
+    "translation": "精神力",
+    "index": 39
+  },
+  {
+    "key": "DP_0711_0040",
+    "original": "マグマのよろい",
+    "translation": "熔岩铠甲",
+    "index": 40
+  },
+  {
+    "key": "DP_0711_0041",
+    "original": "みずのベール",
+    "translation": "水幕",
+    "index": 41
+  },
+  {
+    "key": "DP_0711_0042",
+    "original": "じりょく",
+    "translation": "磁力",
+    "index": 42
+  },
+  {
+    "key": "DP_0711_0043",
+    "original": "ぼうおん",
+    "translation": "隔音",
+    "index": 43
+  },
+  {
+    "key": "DP_0711_0044",
+    "original": "あめうけざら",
+    "translation": "雨盘",
+    "index": 44
+  },
+  {
+    "key": "DP_0711_0045",
+    "original": "すなおこし",
+    "translation": "扬沙",
+    "index": 45
+  },
+  {
+    "key": "DP_0711_0046",
+    "original": "プレッシャー",
+    "translation": "压迫感",
+    "index": 46
+  },
+  {
+    "key": "DP_0711_0047",
+    "original": "あついしぼう",
+    "translation": "厚脂肪",
+    "index": 47
+  },
+  {
+    "key": "DP_0711_0048",
+    "original": "はやおき",
+    "translation": "早起",
+    "index": 48
+  },
+  {
+    "key": "DP_0711_0049",
+    "original": "ほのおのからだ",
+    "translation": "火焰之躯",
+    "index": 49
+  },
+  {
+    "key": "DP_0711_0050",
+    "original": "にげあし",
+    "translation": "逃跑",
+    "index": 50
+  },
+  {
+    "key": "DP_0711_0051",
+    "original": "するどいめ",
+    "translation": "锐利目光",
+    "index": 51
+  },
+  {
+    "key": "DP_0711_0052",
+    "original": "かいりきバサミ",
+    "translation": "怪力钳",
+    "index": 52
+  },
+  {
+    "key": "DP_0711_0053",
+    "original": "ものひろい",
+    "translation": "捡拾",
+    "index": 53
+  },
+  {
+    "key": "DP_0711_0054",
+    "original": "なまけ",
+    "translation": "懒惰",
+    "index": 54
+  },
+  {
+    "key": "DP_0711_0055",
+    "original": "はりきり",
+    "translation": "活力",
+    "index": 55
+  },
+  {
+    "key": "DP_0711_0056",
+    "original": "メロメロボディ",
+    "translation": "迷人之躯",
+    "index": 56
+  },
+  {
+    "key": "DP_0711_0057",
+    "original": "プラス",
+    "translation": "正电",
+    "index": 57
+  },
+  {
+    "key": "DP_0711_0058",
+    "original": "マイナス",
+    "translation": "负电",
+    "index": 58
+  },
+  {
+    "key": "DP_0711_0059",
+    "original": "てんきや",
+    "translation": "阴晴不定",
+    "index": 59
+  },
+  {
+    "key": "DP_0711_0060",
+    "original": "ねんちゃく",
+    "translation": "黏着",
+    "index": 60
+  },
+  {
+    "key": "DP_0711_0061",
+    "original": "だっぴ",
+    "translation": "蜕皮",
+    "index": 61
+  },
+  {
+    "key": "DP_0711_0062",
+    "original": "こんじょう",
+    "translation": "毅力",
+    "index": 62
+  },
+  {
+    "key": "DP_0711_0063",
+    "original": "ふしぎなうろこ",
+    "translation": "神奇鳞片",
+    "index": 63
+  },
+  {
+    "key": "DP_0711_0064",
+    "original": "ヘドロえき",
+    "translation": "污泥浆",
+    "index": 64
+  },
+  {
+    "key": "DP_0711_0065",
+    "original": "しんりょく",
+    "translation": "茂盛",
+    "index": 65
+  },
+  {
+    "key": "DP_0711_0066",
+    "original": "もうか",
+    "translation": "猛火",
+    "index": 66
+  },
+  {
+    "key": "DP_0711_0067",
+    "original": "げきりゅう",
+    "translation": "激流",
+    "index": 67
+  },
+  {
+    "key": "DP_0711_0068",
+    "original": "むしのしらせ",
+    "translation": "虫之预感",
+    "index": 68
+  },
+  {
+    "key": "DP_0711_0069",
+    "original": "いしあたま",
+    "translation": "坚硬脑袋",
+    "index": 69
+  },
+  {
+    "key": "DP_0711_0070",
+    "original": "ひでり",
+    "translation": "日照",
+    "index": 70
+  },
+  {
+    "key": "DP_0711_0071",
+    "original": "ありじごく",
+    "translation": "沙穴",
+    "index": 71
+  },
+  {
+    "key": "DP_0711_0072",
+    "original": "やるき",
+    "translation": "干劲",
+    "index": 72
+  },
+  {
+    "key": "DP_0711_0073",
+    "original": "しろいけむり",
+    "translation": "白色烟雾",
+    "index": 73
+  },
+  {
+    "key": "DP_0711_0074",
+    "original": "ヨガパワー",
+    "translation": "瑜伽之力",
+    "index": 74
+  },
+  {
+    "key": "DP_0711_0075",
+    "original": "シェルアーマー",
+    "translation": "硬壳盔甲",
+    "index": 75
+  },
+  {
+    "key": "DP_0711_0076",
+    "original": "エアロック",
+    "translation": "气闸",
+    "index": 76
+  },
+  {
+    "key": "DP_0711_0077",
+    "original": "ちどりあし",
+    "translation": "蹒跚",
+    "index": 77
+  },
+  {
+    "key": "DP_0711_0078",
+    "original": "でんきエンジン",
+    "translation": "电气引擎",
+    "index": 78
+  },
+  {
+    "key": "DP_0711_0079",
+    "original": "とうそうしん",
+    "translation": "斗争心",
+    "index": 79
+  },
+  {
+    "key": "DP_0711_0080",
+    "original": "ふくつのこころ",
+    "translation": "不屈之心",
+    "index": 80
+  },
+  {
+    "key": "DP_0711_0081",
+    "original": "ゆきがくれ",
+    "translation": "雪隐",
+    "index": 81
+  },
+  {
+    "key": "DP_0711_0082",
+    "original": "くいしんぼう",
+    "translation": "贪吃鬼",
+    "index": 82
+  },
+  {
+    "key": "DP_0711_0083",
+    "original": "いかりのつぼ",
+    "translation": "愤怒穴位",
+    "index": 83
+  },
+  {
+    "key": "DP_0711_0084",
+    "original": "かるわざ",
+    "translation": "轻装",
+    "index": 84
+  },
+  {
+    "key": "DP_0711_0085",
+    "original": "たいねつ",
+    "translation": "耐热",
+    "index": 85
+  },
+  {
+    "key": "DP_0711_0086",
+    "original": "たんじゅん",
+    "translation": "单纯",
+    "index": 86
+  },
+  {
+    "key": "DP_0711_0087",
+    "original": "かんそうはだ",
+    "translation": "干燥皮肤",
+    "index": 87
+  },
+  {
+    "key": "DP_0711_0088",
+    "original": "ダウンロード",
+    "translation": "下载",
+    "index": 88
+  },
+  {
+    "key": "DP_0711_0089",
+    "original": "てつのこぶし",
+    "translation": "铁拳",
+    "index": 89
+  },
+  {
+    "key": "DP_0711_0090",
+    "original": "ポイズンヒール",
+    "translation": "毒疗",
+    "index": 90
+  },
+  {
+    "key": "DP_0711_0091",
+    "original": "てきおうりょく",
+    "translation": "适应力",
+    "index": 91
+  },
+  {
+    "key": "DP_0711_0092",
+    "original": "スキルリンク",
+    "translation": "连续攻击",
+    "index": 92
+  },
+  {
+    "key": "DP_0711_0093",
+    "original": "うるおいボディ",
+    "translation": "湿润之躯",
+    "index": 93
+  },
+  {
+    "key": "DP_0711_0094",
+    "original": "サンパワー",
+    "translation": "太阳之力",
+    "index": 94
+  },
+  {
+    "key": "DP_0711_0095",
+    "original": "はやあし",
+    "translation": "飞毛腿",
+    "index": 95
+  },
+  {
+    "key": "DP_0711_0096",
+    "original": "ノーマルスキン",
+    "translation": "一般皮肤",
+    "index": 96
+  },
+  {
+    "key": "DP_0711_0097",
+    "original": "スナイパー",
+    "translation": "狙击手",
+    "index": 97
+  },
+  {
+    "key": "DP_0711_0098",
+    "original": "マジックガード",
+    "translation": "魔法防守",
+    "index": 98
+  },
+  {
+    "key": "DP_0711_0099",
+    "original": "ノーガード",
+    "translation": "无防守",
+    "index": 99
+  },
+  {
+    "key": "DP_0711_0100",
+    "original": "あとだし",
+    "translation": "慢出",
+    "index": 100
+  },
+  {
+    "key": "DP_0711_0101",
+    "original": "テクニシャン",
+    "translation": "技术高手",
+    "index": 101
+  },
+  {
+    "key": "DP_0711_0102",
+    "original": "リーフガード",
+    "translation": "叶子防守",
+    "index": 102
+  },
+  {
+    "key": "DP_0711_0103",
+    "original": "ぶきよう",
+    "translation": "笨拙",
+    "index": 103
+  },
+  {
+    "key": "DP_0711_0104",
+    "original": "かたやぶり",
+    "translation": "破格",
+    "index": 104
+  },
+  {
+    "key": "DP_0711_0105",
+    "original": "きょううん",
+    "translation": "超幸运",
+    "index": 105
+  },
+  {
+    "key": "DP_0711_0106",
+    "original": "ゆうばく",
+    "translation": "诱爆",
+    "index": 106
+  },
+  {
+    "key": "DP_0711_0107",
+    "original": "きけんよち",
+    "translation": "危险预知",
+    "index": 107
+  },
+  {
+    "key": "DP_0711_0108",
+    "original": "よちむ",
+    "translation": "预知梦",
+    "index": 108
+  },
+  {
+    "key": "DP_0711_0109",
+    "original": "てんねん",
+    "translation": "纯朴",
+    "index": 109
+  },
+  {
+    "key": "DP_0711_0110",
+    "original": "いろめがね",
+    "translation": "有色眼镜",
+    "index": 110
+  },
+  {
+    "key": "DP_0711_0111",
+    "original": "フィルター",
+    "translation": "过滤",
+    "index": 111
+  },
+  {
+    "key": "DP_0711_0112",
+    "original": "スロースタート",
+    "translation": "慢启动",
+    "index": 112
+  },
+  {
+    "key": "DP_0711_0113",
+    "original": "きもったま",
+    "translation": "胆量",
+    "index": 113
+  },
+  {
+    "key": "DP_0711_0114",
+    "original": "よびみず",
+    "translation": "引水",
+    "index": 114
+  },
+  {
+    "key": "DP_0711_0115",
+    "original": "アイスボディ",
+    "translation": "冰冻之躯",
+    "index": 115
+  },
+  {
+    "key": "DP_0711_0116",
+    "original": "ハードロック",
+    "translation": "坚硬岩石",
+    "index": 116
+  },
+  {
+    "key": "DP_0711_0117",
+    "original": "ゆきふらし",
+    "translation": "降雪",
+    "index": 117
+  },
+  {
+    "key": "DP_0711_0118",
+    "original": "みつあつめ",
+    "translation": "采蜜",
+    "index": 118
+  },
+  {
+    "key": "DP_0711_0119",
+    "original": "おみとおし",
+    "translation": "察觉",
+    "index": 119
+  },
+  {
+    "key": "DP_0711_0120",
+    "original": "すてみ",
+    "translation": "舍身",
+    "index": 120
+  },
+  {
+    "key": "DP_0711_0121",
+    "original": "マルチタイプ",
+    "translation": "多属性",
+    "index": 121
+  },
+  {
+    "key": "DP_0711_0122",
+    "original": "フラワーギフト",
+    "translation": "花之礼",
+    "index": 122
+  },
+  {
+    "key": "DP_0711_0123",
+    "original": "ナイトメア",
+    "translation": "梦魇",
+    "index": 123
+  }
+]

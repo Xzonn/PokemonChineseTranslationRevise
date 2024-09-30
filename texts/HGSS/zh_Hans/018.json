@@ -1,0 +1,608 @@
+[
+  {
+    "key": "HGSS_0018_0000",
+    "original": "どの せいせきを みますか？[0200,0000]",
+    "translation": "要查看什么成绩？[0200,0000]",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0018_0001",
+    "original": "シングル",
+    "translation": "单打",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0018_0002",
+    "original": "ダブル",
+    "translation": "双打",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0018_0003",
+    "original": "マルチ",
+    "translation": "多人对战",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0018_0004",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0018_0005",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0018_0006",
+    "original": "どの ポケモンの せいせきを みるか\nえらんで ください！",
+    "translation": "请选择要查看\n哪只宝可梦的成绩！",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0018_0007",
+    "original": "ただいま [0100,0000]で\nちょうせん ちゅう！",
+    "translation": "正在[0100,0000]挑战中！",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0018_0008",
+    "original": "ア",
+    "translation": "ア",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0018_0009",
+    "original": "カ",
+    "translation": "カ",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0018_0010",
+    "original": "サ",
+    "translation": "サ",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0018_0011",
+    "original": "タ",
+    "translation": "タ",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0018_0012",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0018_0013",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0018_0014",
+    "original": "マ",
+    "translation": "マ",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0018_0015",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0018_0016",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0018_0017",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0018_0018",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0018_0019",
+    "original": "[0100,0000]",
+    "translation": "[0100,0000]",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0018_0020",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0018_0021",
+    "original": "バトルタワー",
+    "translation": "对战塔",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0018_0022",
+    "original": "バトルファクトリー",
+    "translation": "对战工厂",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0018_0023",
+    "original": "バトルキャッスル",
+    "translation": "对战城堡",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0018_0024",
+    "original": "バトルステージ",
+    "translation": "对战舞台",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0018_0025",
+    "original": "バトルルーレット",
+    "translation": "对战轮盘",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0018_0026",
+    "original": "シングルせいせき",
+    "translation": "单打成绩",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0018_0027",
+    "original": "ダブルせいせき",
+    "translation": "双打成绩",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0018_0028",
+    "original": "マルチせいせき",
+    "translation": "多人成绩",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0018_0029",
+    "original": "ぜんかい",
+    "translation": "上次",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0018_0030",
+    "original": "げんざい",
+    "translation": "当前",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0018_0031",
+    "original": "[0135,0000]",
+    "translation": "[0135,0000]",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0018_0032",
+    "original": "れんしょう",
+    "translation": "连胜",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0018_0033",
+    "original": "[0135,0000]",
+    "translation": "[0135,0000]",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0018_0034",
+    "original": "かい",
+    "translation": "次",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0018_0035",
+    "original": "れんしょう",
+    "translation": "连胜",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0018_0036",
+    "original": "[0135,0000]",
+    "translation": "[0135,0000]",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0018_0037",
+    "original": "ＣＰ",
+    "translation": "ＣＰ",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0018_0038",
+    "original": "ゲーム クリア",
+    "translation": "游戏过关",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0018_0039",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0018_0040",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0018_0041",
+    "original": "／",
+    "translation": "／",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0018_0042",
+    "original": "せいせきを みる\nポケモンを えらんで ください[0200,0000]",
+    "translation": "请选择要查看成绩的\n宝可梦。[0200,0000]",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0018_0043",
+    "original": "さいこう",
+    "translation": "最佳",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0018_0044",
+    "original": "トレーナーとマルチ",
+    "translation": "训练家与对战",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0018_0045",
+    "original": "ともだちとマルチ",
+    "translation": "朋友与对战",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0018_0046",
+    "original": "レベル５０",
+    "translation": "５０级",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0018_0047",
+    "original": "オープンレベル",
+    "translation": "无限制",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0018_0048",
+    "original": "レンタル／こうかん",
+    "translation": "租借／交换",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0018_0049",
+    "original": "キャッスルポイント",
+    "translation": "城堡点数",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0018_0050",
+    "original": "[0135,0000]れんしょう",
+    "translation": "[0135,0000]连胜",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0018_0051",
+    "original": "[0100,0000]の きろく",
+    "translation": "[0100,0000]的记录",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0018_0052",
+    "original": "[0135,0000]かい",
+    "translation": "[0135,0000]次",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0018_0053",
+    "original": "[0135,0000]ＣＰ",
+    "translation": "[0135,0000]ＣＰ",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0018_0054",
+    "original": "[0135,0000]れんしょう",
+    "translation": "[0135,0000]连胜",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0018_0055",
+    "original": "[0135,0000]ゲーム クリア",
+    "translation": "[0135,0000]游戏通关",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0018_0056",
+    "original": "ア",
+    "translation": "ア",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0018_0057",
+    "original": "イ",
+    "translation": "イ",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0018_0058",
+    "original": "ウ",
+    "translation": "ウ",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0018_0059",
+    "original": "エ",
+    "translation": "エ",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0018_0060",
+    "original": "オ",
+    "translation": "オ",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0018_0061",
+    "original": "カ",
+    "translation": "カ",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0018_0062",
+    "original": "キ",
+    "translation": "キ",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0018_0063",
+    "original": "ク",
+    "translation": "ク",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0018_0064",
+    "original": "ケ",
+    "translation": "ケ",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0018_0065",
+    "original": "コ",
+    "translation": "コ",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0018_0066",
+    "original": "サ",
+    "translation": "サ",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0018_0067",
+    "original": "シ",
+    "translation": "シ",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0018_0068",
+    "original": "ス",
+    "translation": "ス",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0018_0069",
+    "original": "セ",
+    "translation": "セ",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0018_0070",
+    "original": "ソ",
+    "translation": "ソ",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0018_0071",
+    "original": "タ",
+    "translation": "タ",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0018_0072",
+    "original": "チ",
+    "translation": "チ",
+    "index": 72
+  },
+  {
+    "key": "HGSS_0018_0073",
+    "original": "ツ",
+    "translation": "ツ",
+    "index": 73
+  },
+  {
+    "key": "HGSS_0018_0074",
+    "original": "テ",
+    "translation": "テ",
+    "index": 74
+  },
+  {
+    "key": "HGSS_0018_0075",
+    "original": "ト",
+    "translation": "ト",
+    "index": 75
+  },
+  {
+    "key": "HGSS_0018_0076",
+    "original": "ナ",
+    "translation": "ナ",
+    "index": 76
+  },
+  {
+    "key": "HGSS_0018_0077",
+    "original": "ニ",
+    "translation": "ニ",
+    "index": 77
+  },
+  {
+    "key": "HGSS_0018_0078",
+    "original": "ヌ",
+    "translation": "ヌ",
+    "index": 78
+  },
+  {
+    "key": "HGSS_0018_0079",
+    "original": "ネ",
+    "translation": "ネ",
+    "index": 79
+  },
+  {
+    "key": "HGSS_0018_0080",
+    "original": "ノ",
+    "translation": "ノ",
+    "index": 80
+  },
+  {
+    "key": "HGSS_0018_0081",
+    "original": "ハ",
+    "translation": "ハ",
+    "index": 81
+  },
+  {
+    "key": "HGSS_0018_0082",
+    "original": "ヒ",
+    "translation": "ヒ",
+    "index": 82
+  },
+  {
+    "key": "HGSS_0018_0083",
+    "original": "フ",
+    "translation": "フ",
+    "index": 83
+  },
+  {
+    "key": "HGSS_0018_0084",
+    "original": "ヘ",
+    "translation": "ヘ",
+    "index": 84
+  },
+  {
+    "key": "HGSS_0018_0085",
+    "original": "ホ",
+    "translation": "ホ",
+    "index": 85
+  },
+  {
+    "key": "HGSS_0018_0086",
+    "original": "マ",
+    "translation": "マ",
+    "index": 86
+  },
+  {
+    "key": "HGSS_0018_0087",
+    "original": "ミ",
+    "translation": "ミ",
+    "index": 87
+  },
+  {
+    "key": "HGSS_0018_0088",
+    "original": "ム",
+    "translation": "ム",
+    "index": 88
+  },
+  {
+    "key": "HGSS_0018_0089",
+    "original": "メ",
+    "translation": "メ",
+    "index": 89
+  },
+  {
+    "key": "HGSS_0018_0090",
+    "original": "モ",
+    "translation": "モ",
+    "index": 90
+  },
+  {
+    "key": "HGSS_0018_0091",
+    "original": "ヤ",
+    "translation": "ヤ",
+    "index": 91
+  },
+  {
+    "key": "HGSS_0018_0092",
+    "original": "ユ",
+    "translation": "ユ",
+    "index": 92
+  },
+  {
+    "key": "HGSS_0018_0093",
+    "original": "ヨ",
+    "translation": "ヨ",
+    "index": 93
+  },
+  {
+    "key": "HGSS_0018_0094",
+    "original": "ラ",
+    "translation": "ラ",
+    "index": 94
+  },
+  {
+    "key": "HGSS_0018_0095",
+    "original": "リ",
+    "translation": "リ",
+    "index": 95
+  },
+  {
+    "key": "HGSS_0018_0096",
+    "original": "ル",
+    "translation": "ル",
+    "index": 96
+  },
+  {
+    "key": "HGSS_0018_0097",
+    "original": "レ",
+    "translation": "レ",
+    "index": 97
+  },
+  {
+    "key": "HGSS_0018_0098",
+    "original": "ロ",
+    "translation": "ロ",
+    "index": 98
+  },
+  {
+    "key": "HGSS_0018_0099",
+    "original": "ワ",
+    "translation": "ワ",
+    "index": 99
+  },
+  {
+    "key": "HGSS_0018_0100",
+    "original": "ー",
+    "translation": "ー",
+    "index": 100
+  }
+]

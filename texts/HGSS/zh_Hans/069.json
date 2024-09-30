@@ -1,0 +1,26 @@
+[
+  {
+    "key": "HGSS_0069_0000",
+    "original": "コガネシティ\nラジオとう エレベーター\\r\nてんぼうだいへ まいります\\f\n",
+    "translation": "满金市\n播音塔电梯\\r\n前往瞭望台\\f\n",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0069_0001",
+    "original": "コガネシティ\nラジオとう エレベーター\\r\n５かいへ まいります\\f\n",
+    "translation": "满金市\n播音塔电梯\\r\n前往５层\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0069_0002",
+    "original": "てんぼうだいに つきました",
+    "translation": "瞭望台到了。",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0069_0003",
+    "original": "５かいに つきました",
+    "translation": "５层到了。",
+    "index": 3
+  }
+]

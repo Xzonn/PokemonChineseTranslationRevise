@@ -1,0 +1,74 @@
+[
+  {
+    "key": "DP_0226_0000",
+    "original": "メールボックス",
+    "translation": "メールボックス",
+    "index": 0
+  },
+  {
+    "key": "DP_0226_0001",
+    "original": "メールを よむ",
+    "translation": "メールを よむ",
+    "index": 1
+  },
+  {
+    "key": "DP_0226_0002",
+    "original": "メールを けす",
+    "translation": "メールを けす",
+    "index": 2
+  },
+  {
+    "key": "DP_0226_0003",
+    "original": "ポケモンに もたせる",
+    "translation": "ポケモンに もたせる",
+    "index": 3
+  },
+  {
+    "key": "DP_0226_0004",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 4
+  },
+  {
+    "key": "DP_0226_0005",
+    "original": "no id",
+    "translation": "no id",
+    "index": 5
+  },
+  {
+    "key": "DP_0226_0006",
+    "original": "[0103,0000] の\nメールを どうしますか？",
+    "translation": "[0103,0000] の\nメールを どうしますか？",
+    "index": 6
+  },
+  {
+    "key": "DP_0226_0007",
+    "original": "ないようは きえて しまいますが\nよろしい ですか？",
+    "translation": "ないようは きえて しまいますが\nよろしい ですか？",
+    "index": 7
+  },
+  {
+    "key": "DP_0226_0008",
+    "original": "ないようを けしました\\f\nポケモンに もたせますか？",
+    "translation": "ないようを けしました\\f\nポケモンに もたせますか？",
+    "index": 8
+  },
+  {
+    "key": "DP_0226_0009",
+    "original": "ないようを けした メールを\nバッグに しまいました",
+    "translation": "ないようを けした メールを\nバッグに しまいました",
+    "index": 9
+  },
+  {
+    "key": "DP_0226_0010",
+    "original": "バッグが いっぱいです⋯\nメールを すてました",
+    "translation": "バッグが いっぱいです⋯\nメールを すてました",
+    "index": 10
+  },
+  {
+    "key": "DP_0226_0011",
+    "original": "メールを もたせるのを\nやめました",
+    "translation": "メールを もたせるのを\nやめました",
+    "index": 11
+  }
+]

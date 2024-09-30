@@ -1,0 +1,122 @@
+[
+  {
+    "key": "DP_0486_0000",
+    "original": "つづきから はじめる",
+    "translation": "继续游戏",
+    "index": 0
+  },
+  {
+    "key": "DP_0486_0001",
+    "original": "さいしょから はじめる",
+    "translation": "从头开始游戏",
+    "index": 1
+  },
+  {
+    "key": "DP_0486_0002",
+    "original": "ふしぎな おくりもの",
+    "translation": "神秘礼物",
+    "index": 2
+  },
+  {
+    "key": "DP_0486_0003",
+    "original": "ポケモンレンジャーと せつぞく",
+    "translation": "与《宝可梦巡护员》联动",
+    "index": 3
+  },
+  {
+    "key": "DP_0486_0004",
+    "original": "ルビーから つれてくる",
+    "translation": "与《红宝石》联动",
+    "index": 4
+  },
+  {
+    "key": "DP_0486_0005",
+    "original": "サファイアから つれてくる",
+    "translation": "与《蓝宝石》联动",
+    "index": 5
+  },
+  {
+    "key": "DP_0486_0006",
+    "original": "リーフグリーンから つれてくる",
+    "translation": "与《叶绿》联动",
+    "index": 6
+  },
+  {
+    "key": "DP_0486_0007",
+    "original": "ファイアレッドから つれてくる",
+    "translation": "与《火红》联动",
+    "index": 7
+  },
+  {
+    "key": "DP_0486_0008",
+    "original": "エメラルドから つれてくる",
+    "translation": "与《绿宝石》联动",
+    "index": 8
+  },
+  {
+    "key": "DP_0486_0009",
+    "original": "ほすうけい",
+    "translation": "计步器",
+    "index": 9
+  },
+  {
+    "key": "DP_0486_0010",
+    "original": "Ｗｉｉと せつぞく",
+    "translation": "与Ｗｉｉ联动",
+    "index": 10
+  },
+  {
+    "key": "DP_0486_0011",
+    "original": "ＷｉーＦｉせってい",
+    "translation": "ＷｉーＦｉ设定",
+    "index": 11
+  },
+  {
+    "key": "DP_0486_0012",
+    "original": "しゅじんこう",
+    "translation": "主人公",
+    "index": 12
+  },
+  {
+    "key": "DP_0486_0013",
+    "original": "プレイじかん",
+    "translation": "游戏时间",
+    "index": 13
+  },
+  {
+    "key": "DP_0486_0014",
+    "original": "ポケモンずかん",
+    "translation": "宝可梦图鉴",
+    "index": 14
+  },
+  {
+    "key": "DP_0486_0015",
+    "original": "もっているバッジ",
+    "translation": "持有徽章",
+    "index": 15
+  },
+  {
+    "key": "DP_0486_0016",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 16
+  },
+  {
+    "key": "DP_0486_0017",
+    "original": "[0134,0000]：[0133,0001]",
+    "translation": "[0134,0000]:[0133,0001]",
+    "index": 17
+  },
+  {
+    "key": "DP_0486_0018",
+    "original": "[0134,0000]ひき",
+    "translation": "[0134,0000]只",
+    "index": 18
+  },
+  {
+    "key": "DP_0486_0019",
+    "original": "[0132,0000]こ",
+    "translation": "[0132,0000]个",
+    "index": 19
+  }
+]

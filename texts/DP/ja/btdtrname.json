@@ -1,0 +1,1844 @@
+[
+  {
+    "key": "DP_0015_0000",
+    "original": "イチロウタ",
+    "translation": "イチロウタ",
+    "index": 0
+  },
+  {
+    "key": "DP_0015_0001",
+    "original": "ジロウマル",
+    "translation": "ジロウマル",
+    "index": 1
+  },
+  {
+    "key": "DP_0015_0002",
+    "original": "サブロウタ",
+    "translation": "サブロウタ",
+    "index": 2
+  },
+  {
+    "key": "DP_0015_0003",
+    "original": "ユー",
+    "translation": "ユー",
+    "index": 3
+  },
+  {
+    "key": "DP_0015_0004",
+    "original": "イブ",
+    "translation": "イブ",
+    "index": 4
+  },
+  {
+    "key": "DP_0015_0005",
+    "original": "ミユ",
+    "translation": "ミユ",
+    "index": 5
+  },
+  {
+    "key": "DP_0015_0006",
+    "original": "ラー",
+    "translation": "ラー",
+    "index": 6
+  },
+  {
+    "key": "DP_0015_0007",
+    "original": "マカオ",
+    "translation": "マカオ",
+    "index": 7
+  },
+  {
+    "key": "DP_0015_0008",
+    "original": "エリオット",
+    "translation": "エリオット",
+    "index": 8
+  },
+  {
+    "key": "DP_0015_0009",
+    "original": "シモーヌ",
+    "translation": "シモーヌ",
+    "index": 9
+  },
+  {
+    "key": "DP_0015_0010",
+    "original": "ガクコ",
+    "translation": "ガクコ",
+    "index": 10
+  },
+  {
+    "key": "DP_0015_0011",
+    "original": "セザンヌ",
+    "translation": "セザンヌ",
+    "index": 11
+  },
+  {
+    "key": "DP_0015_0012",
+    "original": "タスケ",
+    "translation": "タスケ",
+    "index": 12
+  },
+  {
+    "key": "DP_0015_0013",
+    "original": "コスケ",
+    "translation": "コスケ",
+    "index": 13
+  },
+  {
+    "key": "DP_0015_0014",
+    "original": "ショウスケ",
+    "translation": "ショウスケ",
+    "index": 14
+  },
+  {
+    "key": "DP_0015_0015",
+    "original": "キラリ",
+    "translation": "キラリ",
+    "index": 15
+  },
+  {
+    "key": "DP_0015_0016",
+    "original": "カヨ",
+    "translation": "カヨ",
+    "index": 16
+  },
+  {
+    "key": "DP_0015_0017",
+    "original": "ホタル",
+    "translation": "ホタル",
+    "index": 17
+  },
+  {
+    "key": "DP_0015_0018",
+    "original": "マツノシン",
+    "translation": "マツノシン",
+    "index": 18
+  },
+  {
+    "key": "DP_0015_0019",
+    "original": "ノーマン",
+    "translation": "ノーマン",
+    "index": 19
+  },
+  {
+    "key": "DP_0015_0020",
+    "original": "ジージー",
+    "translation": "ジージー",
+    "index": 20
+  },
+  {
+    "key": "DP_0015_0021",
+    "original": "バルト",
+    "translation": "バルト",
+    "index": 21
+  },
+  {
+    "key": "DP_0015_0022",
+    "original": "スジコ",
+    "translation": "スジコ",
+    "index": 22
+  },
+  {
+    "key": "DP_0015_0023",
+    "original": "アケマツ",
+    "translation": "アケマツ",
+    "index": 23
+  },
+  {
+    "key": "DP_0015_0024",
+    "original": "マスジ",
+    "translation": "マスジ",
+    "index": 24
+  },
+  {
+    "key": "DP_0015_0025",
+    "original": "シオノジョ",
+    "translation": "シオノジョ",
+    "index": 25
+  },
+  {
+    "key": "DP_0015_0026",
+    "original": "カイコウ",
+    "translation": "カイコウ",
+    "index": 26
+  },
+  {
+    "key": "DP_0015_0027",
+    "original": "オタマ",
+    "translation": "オタマ",
+    "index": 27
+  },
+  {
+    "key": "DP_0015_0028",
+    "original": "オカネ",
+    "translation": "オカネ",
+    "index": 28
+  },
+  {
+    "key": "DP_0015_0029",
+    "original": "オトミ",
+    "translation": "オトミ",
+    "index": 29
+  },
+  {
+    "key": "DP_0015_0030",
+    "original": "ジンゾウ",
+    "translation": "ジンゾウ",
+    "index": 30
+  },
+  {
+    "key": "DP_0015_0031",
+    "original": "ヨウゾウ",
+    "translation": "ヨウゾウ",
+    "index": 31
+  },
+  {
+    "key": "DP_0015_0032",
+    "original": "ヤスミン",
+    "translation": "ヤスミン",
+    "index": 32
+  },
+  {
+    "key": "DP_0015_0033",
+    "original": "コウメ",
+    "translation": "コウメ",
+    "index": 33
+  },
+  {
+    "key": "DP_0015_0034",
+    "original": "コタケ",
+    "translation": "コタケ",
+    "index": 34
+  },
+  {
+    "key": "DP_0015_0035",
+    "original": "コマツ",
+    "translation": "コマツ",
+    "index": 35
+  },
+  {
+    "key": "DP_0015_0036",
+    "original": "トモチカ",
+    "translation": "トモチカ",
+    "index": 36
+  },
+  {
+    "key": "DP_0015_0037",
+    "original": "カネツグ",
+    "translation": "カネツグ",
+    "index": 37
+  },
+  {
+    "key": "DP_0015_0038",
+    "original": "アツモリ",
+    "translation": "アツモリ",
+    "index": 38
+  },
+  {
+    "key": "DP_0015_0039",
+    "original": "ネネ",
+    "translation": "ネネ",
+    "index": 39
+  },
+  {
+    "key": "DP_0015_0040",
+    "original": "キキ",
+    "translation": "キキ",
+    "index": 40
+  },
+  {
+    "key": "DP_0015_0041",
+    "original": "ヤヤ",
+    "translation": "ヤヤ",
+    "index": 41
+  },
+  {
+    "key": "DP_0015_0042",
+    "original": "モトキ",
+    "translation": "モトキ",
+    "index": 42
+  },
+  {
+    "key": "DP_0015_0043",
+    "original": "フロイト",
+    "translation": "フロイト",
+    "index": 43
+  },
+  {
+    "key": "DP_0015_0044",
+    "original": "ランマル",
+    "translation": "ランマル",
+    "index": 44
+  },
+  {
+    "key": "DP_0015_0045",
+    "original": "フサ",
+    "translation": "フサ",
+    "index": 45
+  },
+  {
+    "key": "DP_0015_0046",
+    "original": "カキエ",
+    "translation": "カキエ",
+    "index": 46
+  },
+  {
+    "key": "DP_0015_0047",
+    "original": "タエ",
+    "translation": "タエ",
+    "index": 47
+  },
+  {
+    "key": "DP_0015_0048",
+    "original": "サムソン",
+    "translation": "サムソン",
+    "index": 48
+  },
+  {
+    "key": "DP_0015_0049",
+    "original": "ヨシヒト",
+    "translation": "ヨシヒト",
+    "index": 49
+  },
+  {
+    "key": "DP_0015_0050",
+    "original": "ヒデヨシ",
+    "translation": "ヒデヨシ",
+    "index": 50
+  },
+  {
+    "key": "DP_0015_0051",
+    "original": "カナメ",
+    "translation": "カナメ",
+    "index": 51
+  },
+  {
+    "key": "DP_0015_0052",
+    "original": "キザム",
+    "translation": "キザム",
+    "index": 52
+  },
+  {
+    "key": "DP_0015_0053",
+    "original": "ニコライ",
+    "translation": "ニコライ",
+    "index": 53
+  },
+  {
+    "key": "DP_0015_0054",
+    "original": "モモジ",
+    "translation": "モモジ",
+    "index": 54
+  },
+  {
+    "key": "DP_0015_0055",
+    "original": "チヨジ",
+    "translation": "チヨジ",
+    "index": 55
+  },
+  {
+    "key": "DP_0015_0056",
+    "original": "アンジ",
+    "translation": "アンジ",
+    "index": 56
+  },
+  {
+    "key": "DP_0015_0057",
+    "original": "ムネタツ",
+    "translation": "ムネタツ",
+    "index": 57
+  },
+  {
+    "key": "DP_0015_0058",
+    "original": "ユメスケ",
+    "translation": "ユメスケ",
+    "index": 58
+  },
+  {
+    "key": "DP_0015_0059",
+    "original": "イアン",
+    "translation": "イアン",
+    "index": 59
+  },
+  {
+    "key": "DP_0015_0060",
+    "original": "コウジー",
+    "translation": "コウジー",
+    "index": 60
+  },
+  {
+    "key": "DP_0015_0061",
+    "original": "フミノリ",
+    "translation": "フミノリ",
+    "index": 61
+  },
+  {
+    "key": "DP_0015_0062",
+    "original": "タダノスケ",
+    "translation": "タダノスケ",
+    "index": 62
+  },
+  {
+    "key": "DP_0015_0063",
+    "original": "ハルノ",
+    "translation": "ハルノ",
+    "index": 63
+  },
+  {
+    "key": "DP_0015_0064",
+    "original": "フユノ",
+    "translation": "フユノ",
+    "index": 64
+  },
+  {
+    "key": "DP_0015_0065",
+    "original": "アキノ",
+    "translation": "アキノ",
+    "index": 65
+  },
+  {
+    "key": "DP_0015_0066",
+    "original": "シマー",
+    "translation": "シマー",
+    "index": 66
+  },
+  {
+    "key": "DP_0015_0067",
+    "original": "カタセ",
+    "translation": "カタセ",
+    "index": 67
+  },
+  {
+    "key": "DP_0015_0068",
+    "original": "ブロンディ",
+    "translation": "ブロンディ",
+    "index": 68
+  },
+  {
+    "key": "DP_0015_0069",
+    "original": "エリサ",
+    "translation": "エリサ",
+    "index": 69
+  },
+  {
+    "key": "DP_0015_0070",
+    "original": "ハマヨ",
+    "translation": "ハマヨ",
+    "index": 70
+  },
+  {
+    "key": "DP_0015_0071",
+    "original": "ミミヨ",
+    "translation": "ミミヨ",
+    "index": 71
+  },
+  {
+    "key": "DP_0015_0072",
+    "original": "コロク",
+    "translation": "コロク",
+    "index": 72
+  },
+  {
+    "key": "DP_0015_0073",
+    "original": "マグミ",
+    "translation": "マグミ",
+    "index": 73
+  },
+  {
+    "key": "DP_0015_0074",
+    "original": "カゲカツ",
+    "translation": "カゲカツ",
+    "index": 74
+  },
+  {
+    "key": "DP_0015_0075",
+    "original": "エツコ",
+    "translation": "エツコ",
+    "index": 75
+  },
+  {
+    "key": "DP_0015_0076",
+    "original": "ニキータ",
+    "translation": "ニキータ",
+    "index": 76
+  },
+  {
+    "key": "DP_0015_0077",
+    "original": "ボン",
+    "translation": "ボン",
+    "index": 77
+  },
+  {
+    "key": "DP_0015_0078",
+    "original": "クリストフ",
+    "translation": "クリストフ",
+    "index": 78
+  },
+  {
+    "key": "DP_0015_0079",
+    "original": "ロブ",
+    "translation": "ロブ",
+    "index": 79
+  },
+  {
+    "key": "DP_0015_0080",
+    "original": "チヨノフ",
+    "translation": "チヨノフ",
+    "index": 80
+  },
+  {
+    "key": "DP_0015_0081",
+    "original": "カルロッタ",
+    "translation": "カルロッタ",
+    "index": 81
+  },
+  {
+    "key": "DP_0015_0082",
+    "original": "イツカ",
+    "translation": "イツカ",
+    "index": 82
+  },
+  {
+    "key": "DP_0015_0083",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "index": 83
+  },
+  {
+    "key": "DP_0015_0084",
+    "original": "ケイスケ",
+    "translation": "ケイスケ",
+    "index": 84
+  },
+  {
+    "key": "DP_0015_0085",
+    "original": "シンデン",
+    "translation": "シンデン",
+    "index": 85
+  },
+  {
+    "key": "DP_0015_0086",
+    "original": "エミール",
+    "translation": "エミール",
+    "index": 86
+  },
+  {
+    "key": "DP_0015_0087",
+    "original": "ビクトル",
+    "translation": "ビクトル",
+    "index": 87
+  },
+  {
+    "key": "DP_0015_0088",
+    "original": "カザン",
+    "translation": "カザン",
+    "index": 88
+  },
+  {
+    "key": "DP_0015_0089",
+    "original": "クラウド",
+    "translation": "クラウド",
+    "index": 89
+  },
+  {
+    "key": "DP_0015_0090",
+    "original": "ガンノスケ",
+    "translation": "ガンノスケ",
+    "index": 90
+  },
+  {
+    "key": "DP_0015_0091",
+    "original": "ミスヅ",
+    "translation": "ミスヅ",
+    "index": 91
+  },
+  {
+    "key": "DP_0015_0092",
+    "original": "キクチヨ",
+    "translation": "キクチヨ",
+    "index": 92
+  },
+  {
+    "key": "DP_0015_0093",
+    "original": "マイア",
+    "translation": "マイア",
+    "index": 93
+  },
+  {
+    "key": "DP_0015_0094",
+    "original": "ロベール",
+    "translation": "ロベール",
+    "index": 94
+  },
+  {
+    "key": "DP_0015_0095",
+    "original": "アーノルド",
+    "translation": "アーノルド",
+    "index": 95
+  },
+  {
+    "key": "DP_0015_0096",
+    "original": "モウリュウ",
+    "translation": "モウリュウ",
+    "index": 96
+  },
+  {
+    "key": "DP_0015_0097",
+    "original": "マイヅル",
+    "translation": "マイヅル",
+    "index": 97
+  },
+  {
+    "key": "DP_0015_0098",
+    "original": "トラコ",
+    "translation": "トラコ",
+    "index": 98
+  },
+  {
+    "key": "DP_0015_0099",
+    "original": "アタミ",
+    "translation": "アタミ",
+    "index": 99
+  },
+  {
+    "key": "DP_0015_0100",
+    "original": "ジクウ",
+    "translation": "ジクウ",
+    "index": 100
+  },
+  {
+    "key": "DP_0015_0101",
+    "original": "サイエン",
+    "translation": "サイエン",
+    "index": 101
+  },
+  {
+    "key": "DP_0015_0102",
+    "original": "バーバレラ",
+    "translation": "バーバレラ",
+    "index": 102
+  },
+  {
+    "key": "DP_0015_0103",
+    "original": "ネリミ",
+    "translation": "ネリミ",
+    "index": 103
+  },
+  {
+    "key": "DP_0015_0104",
+    "original": "ジンパチ",
+    "translation": "ジンパチ",
+    "index": 104
+  },
+  {
+    "key": "DP_0015_0105",
+    "original": "キンヤ",
+    "translation": "キンヤ",
+    "index": 105
+  },
+  {
+    "key": "DP_0015_0106",
+    "original": "イクナ",
+    "translation": "イクナ",
+    "index": 106
+  },
+  {
+    "key": "DP_0015_0107",
+    "original": "トメ",
+    "translation": "トメ",
+    "index": 107
+  },
+  {
+    "key": "DP_0015_0108",
+    "original": "トミイチ",
+    "translation": "トミイチ",
+    "index": 108
+  },
+  {
+    "key": "DP_0015_0109",
+    "original": "ハルト",
+    "translation": "ハルト",
+    "index": 109
+  },
+  {
+    "key": "DP_0015_0110",
+    "original": "シャクソン",
+    "translation": "シャクソン",
+    "index": 110
+  },
+  {
+    "key": "DP_0015_0111",
+    "original": "サカメ",
+    "translation": "サカメ",
+    "index": 111
+  },
+  {
+    "key": "DP_0015_0112",
+    "original": "サンダンス",
+    "translation": "サンダンス",
+    "index": 112
+  },
+  {
+    "key": "DP_0015_0113",
+    "original": "モンシロ",
+    "translation": "モンシロ",
+    "index": 113
+  },
+  {
+    "key": "DP_0015_0114",
+    "original": "ハヤット",
+    "translation": "ハヤット",
+    "index": 114
+  },
+  {
+    "key": "DP_0015_0115",
+    "original": "グラマン",
+    "translation": "グラマン",
+    "index": 115
+  },
+  {
+    "key": "DP_0015_0116",
+    "original": "シュンスケ",
+    "translation": "シュンスケ",
+    "index": 116
+  },
+  {
+    "key": "DP_0015_0117",
+    "original": "ラメ",
+    "translation": "ラメ",
+    "index": 117
+  },
+  {
+    "key": "DP_0015_0118",
+    "original": "パンコール",
+    "translation": "パンコール",
+    "index": 118
+  },
+  {
+    "key": "DP_0015_0119",
+    "original": "カメ",
+    "translation": "カメ",
+    "index": 119
+  },
+  {
+    "key": "DP_0015_0120",
+    "original": "カッペイ",
+    "translation": "カッペイ",
+    "index": 120
+  },
+  {
+    "key": "DP_0015_0121",
+    "original": "ナンペイ",
+    "translation": "ナンペイ",
+    "index": 121
+  },
+  {
+    "key": "DP_0015_0122",
+    "original": "キンペイ",
+    "translation": "キンペイ",
+    "index": 122
+  },
+  {
+    "key": "DP_0015_0123",
+    "original": "ロロ",
+    "translation": "ロロ",
+    "index": 123
+  },
+  {
+    "key": "DP_0015_0124",
+    "original": "タタミ",
+    "translation": "タタミ",
+    "index": 124
+  },
+  {
+    "key": "DP_0015_0125",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "index": 125
+  },
+  {
+    "key": "DP_0015_0126",
+    "original": "キンサク",
+    "translation": "キンサク",
+    "index": 126
+  },
+  {
+    "key": "DP_0015_0127",
+    "original": "ジュンサク",
+    "translation": "ジュンサク",
+    "index": 127
+  },
+  {
+    "key": "DP_0015_0128",
+    "original": "ショウサク",
+    "translation": "ショウサク",
+    "index": 128
+  },
+  {
+    "key": "DP_0015_0129",
+    "original": "ココナ",
+    "translation": "ココナ",
+    "index": 129
+  },
+  {
+    "key": "DP_0015_0130",
+    "original": "ユーナ",
+    "translation": "ユーナ",
+    "index": 130
+  },
+  {
+    "key": "DP_0015_0131",
+    "original": "ヨハンナ",
+    "translation": "ヨハンナ",
+    "index": 131
+  },
+  {
+    "key": "DP_0015_0132",
+    "original": "スケノシン",
+    "translation": "スケノシン",
+    "index": 132
+  },
+  {
+    "key": "DP_0015_0133",
+    "original": "ブルーノ",
+    "translation": "ブルーノ",
+    "index": 133
+  },
+  {
+    "key": "DP_0015_0134",
+    "original": "サムオ",
+    "translation": "サムオ",
+    "index": 134
+  },
+  {
+    "key": "DP_0015_0135",
+    "original": "バガン",
+    "translation": "バガン",
+    "index": 135
+  },
+  {
+    "key": "DP_0015_0136",
+    "original": "ステハチ",
+    "translation": "ステハチ",
+    "index": 136
+  },
+  {
+    "key": "DP_0015_0137",
+    "original": "ターケーシ",
+    "translation": "ターケーシ",
+    "index": 137
+  },
+  {
+    "key": "DP_0015_0138",
+    "original": "アダム",
+    "translation": "アダム",
+    "index": 138
+  },
+  {
+    "key": "DP_0015_0139",
+    "original": "セリーヌ",
+    "translation": "セリーヌ",
+    "index": 139
+  },
+  {
+    "key": "DP_0015_0140",
+    "original": "メルバ",
+    "translation": "メルバ",
+    "index": 140
+  },
+  {
+    "key": "DP_0015_0141",
+    "original": "ブンシ",
+    "translation": "ブンシ",
+    "index": 141
+  },
+  {
+    "key": "DP_0015_0142",
+    "original": "トモノシン",
+    "translation": "トモノシン",
+    "index": 142
+  },
+  {
+    "key": "DP_0015_0143",
+    "original": "ポポ",
+    "translation": "ポポ",
+    "index": 143
+  },
+  {
+    "key": "DP_0015_0144",
+    "original": "アグネス",
+    "translation": "アグネス",
+    "index": 144
+  },
+  {
+    "key": "DP_0015_0145",
+    "original": "マエ",
+    "translation": "マエ",
+    "index": 145
+  },
+  {
+    "key": "DP_0015_0146",
+    "original": "カスガ",
+    "translation": "カスガ",
+    "index": 146
+  },
+  {
+    "key": "DP_0015_0147",
+    "original": "ヤンカー",
+    "translation": "ヤンカー",
+    "index": 147
+  },
+  {
+    "key": "DP_0015_0148",
+    "original": "モーリス",
+    "translation": "モーリス",
+    "index": 148
+  },
+  {
+    "key": "DP_0015_0149",
+    "original": "キアーラ",
+    "translation": "キアーラ",
+    "index": 149
+  },
+  {
+    "key": "DP_0015_0150",
+    "original": "ジョディー",
+    "translation": "ジョディー",
+    "index": 150
+  },
+  {
+    "key": "DP_0015_0151",
+    "original": "クレハ",
+    "translation": "クレハ",
+    "index": 151
+  },
+  {
+    "key": "DP_0015_0152",
+    "original": "ガン",
+    "translation": "ガン",
+    "index": 152
+  },
+  {
+    "key": "DP_0015_0153",
+    "original": "コトノナカ",
+    "translation": "コトノナカ",
+    "index": 153
+  },
+  {
+    "key": "DP_0015_0154",
+    "original": "ハーマン",
+    "translation": "ハーマン",
+    "index": 154
+  },
+  {
+    "key": "DP_0015_0155",
+    "original": "シュンデイ",
+    "translation": "シュンデイ",
+    "index": 155
+  },
+  {
+    "key": "DP_0015_0156",
+    "original": "ヤコフ",
+    "translation": "ヤコフ",
+    "index": 156
+  },
+  {
+    "key": "DP_0015_0157",
+    "original": "レオニード",
+    "translation": "レオニード",
+    "index": 157
+  },
+  {
+    "key": "DP_0015_0158",
+    "original": "ナヨ",
+    "translation": "ナヨ",
+    "index": 158
+  },
+  {
+    "key": "DP_0015_0159",
+    "original": "ライマー",
+    "translation": "ライマー",
+    "index": 159
+  },
+  {
+    "key": "DP_0015_0160",
+    "original": "シロー",
+    "translation": "シロー",
+    "index": 160
+  },
+  {
+    "key": "DP_0015_0161",
+    "original": "ゴロー",
+    "translation": "ゴロー",
+    "index": 161
+  },
+  {
+    "key": "DP_0015_0162",
+    "original": "ヒルダ",
+    "translation": "ヒルダ",
+    "index": 162
+  },
+  {
+    "key": "DP_0015_0163",
+    "original": "カネコ",
+    "translation": "カネコ",
+    "index": 163
+  },
+  {
+    "key": "DP_0015_0164",
+    "original": "ベン",
+    "translation": "ベン",
+    "index": 164
+  },
+  {
+    "key": "DP_0015_0165",
+    "original": "ガク",
+    "translation": "ガク",
+    "index": 165
+  },
+  {
+    "key": "DP_0015_0166",
+    "original": "ジャニス",
+    "translation": "ジャニス",
+    "index": 166
+  },
+  {
+    "key": "DP_0015_0167",
+    "original": "ハルネ",
+    "translation": "ハルネ",
+    "index": 167
+  },
+  {
+    "key": "DP_0015_0168",
+    "original": "ゲラン",
+    "translation": "ゲラン",
+    "index": 168
+  },
+  {
+    "key": "DP_0015_0169",
+    "original": "サキョウ",
+    "translation": "サキョウ",
+    "index": 169
+  },
+  {
+    "key": "DP_0015_0170",
+    "original": "オトギ",
+    "translation": "オトギ",
+    "index": 170
+  },
+  {
+    "key": "DP_0015_0171",
+    "original": "パシモン",
+    "translation": "パシモン",
+    "index": 171
+  },
+  {
+    "key": "DP_0015_0172",
+    "original": "カルロ",
+    "translation": "カルロ",
+    "index": 172
+  },
+  {
+    "key": "DP_0015_0173",
+    "original": "サマノスケ",
+    "translation": "サマノスケ",
+    "index": 173
+  },
+  {
+    "key": "DP_0015_0174",
+    "original": "カゲツナ",
+    "translation": "カゲツナ",
+    "index": 174
+  },
+  {
+    "key": "DP_0015_0175",
+    "original": "フェデリコ",
+    "translation": "フェデリコ",
+    "index": 175
+  },
+  {
+    "key": "DP_0015_0176",
+    "original": "ファウスト",
+    "translation": "ファウスト",
+    "index": 176
+  },
+  {
+    "key": "DP_0015_0177",
+    "original": "チェルニー",
+    "translation": "チェルニー",
+    "index": 177
+  },
+  {
+    "key": "DP_0015_0178",
+    "original": "トコヨ",
+    "translation": "トコヨ",
+    "index": 178
+  },
+  {
+    "key": "DP_0015_0179",
+    "original": "ニュー",
+    "translation": "ニュー",
+    "index": 179
+  },
+  {
+    "key": "DP_0015_0180",
+    "original": "コロンタ",
+    "translation": "コロンタ",
+    "index": 180
+  },
+  {
+    "key": "DP_0015_0181",
+    "original": "シリュウ",
+    "translation": "シリュウ",
+    "index": 181
+  },
+  {
+    "key": "DP_0015_0182",
+    "original": "レイヤ",
+    "translation": "レイヤ",
+    "index": 182
+  },
+  {
+    "key": "DP_0015_0183",
+    "original": "デリー",
+    "translation": "デリー",
+    "index": 183
+  },
+  {
+    "key": "DP_0015_0184",
+    "original": "アブラハム",
+    "translation": "アブラハム",
+    "index": 184
+  },
+  {
+    "key": "DP_0015_0185",
+    "original": "ヒナオ",
+    "translation": "ヒナオ",
+    "index": 185
+  },
+  {
+    "key": "DP_0015_0186",
+    "original": "ユリウス",
+    "translation": "ユリウス",
+    "index": 186
+  },
+  {
+    "key": "DP_0015_0187",
+    "original": "ジョルジュ",
+    "translation": "ジョルジュ",
+    "index": 187
+  },
+  {
+    "key": "DP_0015_0188",
+    "original": "マルオ",
+    "translation": "マルオ",
+    "index": 188
+  },
+  {
+    "key": "DP_0015_0189",
+    "original": "マル",
+    "translation": "マル",
+    "index": 189
+  },
+  {
+    "key": "DP_0015_0190",
+    "original": "ボレロ",
+    "translation": "ボレロ",
+    "index": 190
+  },
+  {
+    "key": "DP_0015_0191",
+    "original": "タイザン",
+    "translation": "タイザン",
+    "index": 191
+  },
+  {
+    "key": "DP_0015_0192",
+    "original": "グレゴリー",
+    "translation": "グレゴリー",
+    "index": 192
+  },
+  {
+    "key": "DP_0015_0193",
+    "original": "セス",
+    "translation": "セス",
+    "index": 193
+  },
+  {
+    "key": "DP_0015_0194",
+    "original": "ジモン",
+    "translation": "ジモン",
+    "index": 194
+  },
+  {
+    "key": "DP_0015_0195",
+    "original": "アマデオ",
+    "translation": "アマデオ",
+    "index": 195
+  },
+  {
+    "key": "DP_0015_0196",
+    "original": "オミト",
+    "translation": "オミト",
+    "index": 196
+  },
+  {
+    "key": "DP_0015_0197",
+    "original": "タシマヤ",
+    "translation": "タシマヤ",
+    "index": 197
+  },
+  {
+    "key": "DP_0015_0198",
+    "original": "ワラジ",
+    "translation": "ワラジ",
+    "index": 198
+  },
+  {
+    "key": "DP_0015_0199",
+    "original": "オンリ",
+    "translation": "オンリ",
+    "index": 199
+  },
+  {
+    "key": "DP_0015_0200",
+    "original": "コレヤス",
+    "translation": "コレヤス",
+    "index": 200
+  },
+  {
+    "key": "DP_0015_0201",
+    "original": "サンスケ",
+    "translation": "サンスケ",
+    "index": 201
+  },
+  {
+    "key": "DP_0015_0202",
+    "original": "コトチヨ",
+    "translation": "コトチヨ",
+    "index": 202
+  },
+  {
+    "key": "DP_0015_0203",
+    "original": "マリーナ",
+    "translation": "マリーナ",
+    "index": 203
+  },
+  {
+    "key": "DP_0015_0204",
+    "original": "ワホ",
+    "translation": "ワホ",
+    "index": 204
+  },
+  {
+    "key": "DP_0015_0205",
+    "original": "リョウセイ",
+    "translation": "リョウセイ",
+    "index": 205
+  },
+  {
+    "key": "DP_0015_0206",
+    "original": "モポ",
+    "translation": "モポ",
+    "index": 206
+  },
+  {
+    "key": "DP_0015_0207",
+    "original": "フランシス",
+    "translation": "フランシス",
+    "index": 207
+  },
+  {
+    "key": "DP_0015_0208",
+    "original": "オニーロク",
+    "translation": "オニーロク",
+    "index": 208
+  },
+  {
+    "key": "DP_0015_0209",
+    "original": "ゴウジン",
+    "translation": "ゴウジン",
+    "index": 209
+  },
+  {
+    "key": "DP_0015_0210",
+    "original": "アラキ",
+    "translation": "アラキ",
+    "index": 210
+  },
+  {
+    "key": "DP_0015_0211",
+    "original": "ヤト",
+    "translation": "ヤト",
+    "index": 211
+  },
+  {
+    "key": "DP_0015_0212",
+    "original": "ボブ",
+    "translation": "ボブ",
+    "index": 212
+  },
+  {
+    "key": "DP_0015_0213",
+    "original": "ボブヒコ",
+    "translation": "ボブヒコ",
+    "index": 213
+  },
+  {
+    "key": "DP_0015_0214",
+    "original": "コマ",
+    "translation": "コマ",
+    "index": 214
+  },
+  {
+    "key": "DP_0015_0215",
+    "original": "テキサス",
+    "translation": "テキサス",
+    "index": 215
+  },
+  {
+    "key": "DP_0015_0216",
+    "original": "アドロック",
+    "translation": "アドロック",
+    "index": 216
+  },
+  {
+    "key": "DP_0015_0217",
+    "original": "フトシ",
+    "translation": "フトシ",
+    "index": 217
+  },
+  {
+    "key": "DP_0015_0218",
+    "original": "コウガ",
+    "translation": "コウガ",
+    "index": 218
+  },
+  {
+    "key": "DP_0015_0219",
+    "original": "ヒノエ",
+    "translation": "ヒノエ",
+    "index": 219
+  },
+  {
+    "key": "DP_0015_0220",
+    "original": "サブ",
+    "translation": "サブ",
+    "index": 220
+  },
+  {
+    "key": "DP_0015_0221",
+    "original": "ナユタ",
+    "translation": "ナユタ",
+    "index": 221
+  },
+  {
+    "key": "DP_0015_0222",
+    "original": "ファナ",
+    "translation": "ファナ",
+    "index": 222
+  },
+  {
+    "key": "DP_0015_0223",
+    "original": "ヘルガ",
+    "translation": "ヘルガ",
+    "index": 223
+  },
+  {
+    "key": "DP_0015_0224",
+    "original": "アントン",
+    "translation": "アントン",
+    "index": 224
+  },
+  {
+    "key": "DP_0015_0225",
+    "original": "ゴヨウマツ",
+    "translation": "ゴヨウマツ",
+    "index": 225
+  },
+  {
+    "key": "DP_0015_0226",
+    "original": "スケキヨ",
+    "translation": "スケキヨ",
+    "index": 226
+  },
+  {
+    "key": "DP_0015_0227",
+    "original": "コツル",
+    "translation": "コツル",
+    "index": 227
+  },
+  {
+    "key": "DP_0015_0228",
+    "original": "ビリー",
+    "translation": "ビリー",
+    "index": 228
+  },
+  {
+    "key": "DP_0015_0229",
+    "original": "トゥビェン",
+    "translation": "トゥビェン",
+    "index": 229
+  },
+  {
+    "key": "DP_0015_0230",
+    "original": "ゼンコ",
+    "translation": "ゼンコ",
+    "index": 230
+  },
+  {
+    "key": "DP_0015_0231",
+    "original": "ケーニッヒ",
+    "translation": "ケーニッヒ",
+    "index": 231
+  },
+  {
+    "key": "DP_0015_0232",
+    "original": "ゼノン",
+    "translation": "ゼノン",
+    "index": 232
+  },
+  {
+    "key": "DP_0015_0233",
+    "original": "セフィーロ",
+    "translation": "セフィーロ",
+    "index": 233
+  },
+  {
+    "key": "DP_0015_0234",
+    "original": "エンマ",
+    "translation": "エンマ",
+    "index": 234
+  },
+  {
+    "key": "DP_0015_0235",
+    "original": "タケトラ",
+    "translation": "タケトラ",
+    "index": 235
+  },
+  {
+    "key": "DP_0015_0236",
+    "original": "ヒメ",
+    "translation": "ヒメ",
+    "index": 236
+  },
+  {
+    "key": "DP_0015_0237",
+    "original": "スケ",
+    "translation": "スケ",
+    "index": 237
+  },
+  {
+    "key": "DP_0015_0238",
+    "original": "カンベエ",
+    "translation": "カンベエ",
+    "index": 238
+  },
+  {
+    "key": "DP_0015_0239",
+    "original": "ペドロ",
+    "translation": "ペドロ",
+    "index": 239
+  },
+  {
+    "key": "DP_0015_0240",
+    "original": "ヤン",
+    "translation": "ヤン",
+    "index": 240
+  },
+  {
+    "key": "DP_0015_0241",
+    "original": "テフコ",
+    "translation": "テフコ",
+    "index": 241
+  },
+  {
+    "key": "DP_0015_0242",
+    "original": "ノール",
+    "translation": "ノール",
+    "index": 242
+  },
+  {
+    "key": "DP_0015_0243",
+    "original": "チョウキチ",
+    "translation": "チョウキチ",
+    "index": 243
+  },
+  {
+    "key": "DP_0015_0244",
+    "original": "ノノミ",
+    "translation": "ノノミ",
+    "index": 244
+  },
+  {
+    "key": "DP_0015_0245",
+    "original": "ヒコ",
+    "translation": "ヒコ",
+    "index": 245
+  },
+  {
+    "key": "DP_0015_0246",
+    "original": "アントニオ",
+    "translation": "アントニオ",
+    "index": 246
+  },
+  {
+    "key": "DP_0015_0247",
+    "original": "イケル",
+    "translation": "イケル",
+    "index": 247
+  },
+  {
+    "key": "DP_0015_0248",
+    "original": "コスズ",
+    "translation": "コスズ",
+    "index": 248
+  },
+  {
+    "key": "DP_0015_0249",
+    "original": "サンレー",
+    "translation": "サンレー",
+    "index": 249
+  },
+  {
+    "key": "DP_0015_0250",
+    "original": "ホーミー",
+    "translation": "ホーミー",
+    "index": 250
+  },
+  {
+    "key": "DP_0015_0251",
+    "original": "ヒデジ",
+    "translation": "ヒデジ",
+    "index": 251
+  },
+  {
+    "key": "DP_0015_0252",
+    "original": "ジャネット",
+    "translation": "ジャネット",
+    "index": 252
+  },
+  {
+    "key": "DP_0015_0253",
+    "original": "ダユー",
+    "translation": "ダユー",
+    "index": 253
+  },
+  {
+    "key": "DP_0015_0254",
+    "original": "ジャイルズ",
+    "translation": "ジャイルズ",
+    "index": 254
+  },
+  {
+    "key": "DP_0015_0255",
+    "original": "ジェローム",
+    "translation": "ジェローム",
+    "index": 255
+  },
+  {
+    "key": "DP_0015_0256",
+    "original": "エーミー",
+    "translation": "エーミー",
+    "index": 256
+  },
+  {
+    "key": "DP_0015_0257",
+    "original": "ソフィー",
+    "translation": "ソフィー",
+    "index": 257
+  },
+  {
+    "key": "DP_0015_0258",
+    "original": "サクゾウ",
+    "translation": "サクゾウ",
+    "index": 258
+  },
+  {
+    "key": "DP_0015_0259",
+    "original": "キング",
+    "translation": "キング",
+    "index": 259
+  },
+  {
+    "key": "DP_0015_0260",
+    "original": "ピピン",
+    "translation": "ピピン",
+    "index": 260
+  },
+  {
+    "key": "DP_0015_0261",
+    "original": "スゲコ",
+    "translation": "スゲコ",
+    "index": 261
+  },
+  {
+    "key": "DP_0015_0262",
+    "original": "トウベエ",
+    "translation": "トウベエ",
+    "index": 262
+  },
+  {
+    "key": "DP_0015_0263",
+    "original": "モモタロウ",
+    "translation": "モモタロウ",
+    "index": 263
+  },
+  {
+    "key": "DP_0015_0264",
+    "original": "ナスオ",
+    "translation": "ナスオ",
+    "index": 264
+  },
+  {
+    "key": "DP_0015_0265",
+    "original": "タダオミ",
+    "translation": "タダオミ",
+    "index": 265
+  },
+  {
+    "key": "DP_0015_0266",
+    "original": "ニック",
+    "translation": "ニック",
+    "index": 266
+  },
+  {
+    "key": "DP_0015_0267",
+    "original": "ラジカント",
+    "translation": "ラジカント",
+    "index": 267
+  },
+  {
+    "key": "DP_0015_0268",
+    "original": "ドンタ",
+    "translation": "ドンタ",
+    "index": 268
+  },
+  {
+    "key": "DP_0015_0269",
+    "original": "モーロッソ",
+    "translation": "モーロッソ",
+    "index": 269
+  },
+  {
+    "key": "DP_0015_0270",
+    "original": "ネンペイ",
+    "translation": "ネンペイ",
+    "index": 270
+  },
+  {
+    "key": "DP_0015_0271",
+    "original": "イワベエ",
+    "translation": "イワベエ",
+    "index": 271
+  },
+  {
+    "key": "DP_0015_0272",
+    "original": "パクサ",
+    "translation": "パクサ",
+    "index": 272
+  },
+  {
+    "key": "DP_0015_0273",
+    "original": "ゲンゴロウ",
+    "translation": "ゲンゴロウ",
+    "index": 273
+  },
+  {
+    "key": "DP_0015_0274",
+    "original": "タカジーン",
+    "translation": "タカジーン",
+    "index": 274
+  },
+  {
+    "key": "DP_0015_0275",
+    "original": "ムック",
+    "translation": "ムック",
+    "index": 275
+  },
+  {
+    "key": "DP_0015_0276",
+    "original": "アマポーラ",
+    "translation": "アマポーラ",
+    "index": 276
+  },
+  {
+    "key": "DP_0015_0277",
+    "original": "シーゲル",
+    "translation": "シーゲル",
+    "index": 277
+  },
+  {
+    "key": "DP_0015_0278",
+    "original": "レポマン",
+    "translation": "レポマン",
+    "index": 278
+  },
+  {
+    "key": "DP_0015_0279",
+    "original": "ナンコウ",
+    "translation": "ナンコウ",
+    "index": 279
+  },
+  {
+    "key": "DP_0015_0280",
+    "original": "ネモ",
+    "translation": "ネモ",
+    "index": 280
+  },
+  {
+    "key": "DP_0015_0281",
+    "original": "タネシゲ",
+    "translation": "タネシゲ",
+    "index": 281
+  },
+  {
+    "key": "DP_0015_0282",
+    "original": "トドメキ",
+    "translation": "トドメキ",
+    "index": 282
+  },
+  {
+    "key": "DP_0015_0283",
+    "original": "ムネアゲ",
+    "translation": "ムネアゲ",
+    "index": 283
+  },
+  {
+    "key": "DP_0015_0284",
+    "original": "タマノシン",
+    "translation": "タマノシン",
+    "index": 284
+  },
+  {
+    "key": "DP_0015_0285",
+    "original": "ペル",
+    "translation": "ペル",
+    "index": 285
+  },
+  {
+    "key": "DP_0015_0286",
+    "original": "スタンリー",
+    "translation": "スタンリー",
+    "index": 286
+  },
+  {
+    "key": "DP_0015_0287",
+    "original": "タンジュウ",
+    "translation": "タンジュウ",
+    "index": 287
+  },
+  {
+    "key": "DP_0015_0288",
+    "original": "ヘル",
+    "translation": "ヘル",
+    "index": 288
+  },
+  {
+    "key": "DP_0015_0289",
+    "original": "トメゾウ",
+    "translation": "トメゾウ",
+    "index": 289
+  },
+  {
+    "key": "DP_0015_0290",
+    "original": "ババール",
+    "translation": "ババール",
+    "index": 290
+  },
+  {
+    "key": "DP_0015_0291",
+    "original": "カケス",
+    "translation": "カケス",
+    "index": 291
+  },
+  {
+    "key": "DP_0015_0292",
+    "original": "カネモリ",
+    "translation": "カネモリ",
+    "index": 292
+  },
+  {
+    "key": "DP_0015_0293",
+    "original": "ナミダ",
+    "translation": "ナミダ",
+    "index": 293
+  },
+  {
+    "key": "DP_0015_0294",
+    "original": "シオミツ",
+    "translation": "シオミツ",
+    "index": 294
+  },
+  {
+    "key": "DP_0015_0295",
+    "original": "ヨシモリ",
+    "translation": "ヨシモリ",
+    "index": 295
+  },
+  {
+    "key": "DP_0015_0296",
+    "original": "カオルコ",
+    "translation": "カオルコ",
+    "index": 296
+  },
+  {
+    "key": "DP_0015_0297",
+    "original": "クルブシ",
+    "translation": "クルブシ",
+    "index": 297
+  },
+  {
+    "key": "DP_0015_0298",
+    "original": "パオ",
+    "translation": "パオ",
+    "index": 298
+  },
+  {
+    "key": "DP_0015_0299",
+    "original": "タマエ",
+    "translation": "タマエ",
+    "index": 299
+  },
+  {
+    "key": "DP_0015_0300",
+    "original": "モミ",
+    "translation": "モミ",
+    "index": 300
+  },
+  {
+    "key": "DP_0015_0301",
+    "original": "ミル",
+    "translation": "ミル",
+    "index": 301
+  },
+  {
+    "key": "DP_0015_0302",
+    "original": "ゲン",
+    "translation": "ゲン",
+    "index": 302
+  },
+  {
+    "key": "DP_0015_0303",
+    "original": "マイ",
+    "translation": "マイ",
+    "index": 303
+  },
+  {
+    "key": "DP_0015_0304",
+    "original": "バク",
+    "translation": "バク",
+    "index": 304
+  },
+  {
+    "key": "DP_0015_0305",
+    "original": "クロツグ",
+    "translation": "クロツグ",
+    "index": 305
+  },
+  {
+    "key": "DP_0015_0306",
+    "original": "クロツグ",
+    "translation": "クロツグ",
+    "index": 306
+  }
+]

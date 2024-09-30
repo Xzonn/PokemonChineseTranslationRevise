@@ -1,0 +1,230 @@
+[
+  {
+    "key": "DP_0279_0000",
+    "original": "あいて",
+    "translation": "对手",
+    "index": 0
+  },
+  {
+    "key": "DP_0279_0001",
+    "original": "あたし",
+    "translation": "人家",
+    "index": 1
+  },
+  {
+    "key": "DP_0279_0002",
+    "original": "あなた",
+    "translation": "你",
+    "index": 2
+  },
+  {
+    "key": "DP_0279_0003",
+    "original": "おかあさん",
+    "translation": "妈妈",
+    "index": 3
+  },
+  {
+    "key": "DP_0279_0004",
+    "original": "おじいさん",
+    "translation": "爷爷",
+    "index": 4
+  },
+  {
+    "key": "DP_0279_0005",
+    "original": "おじさん",
+    "translation": "叔叔",
+    "index": 5
+  },
+  {
+    "key": "DP_0279_0006",
+    "original": "おとうさん",
+    "translation": "爸爸",
+    "index": 6
+  },
+  {
+    "key": "DP_0279_0007",
+    "original": "おとこのこ",
+    "translation": "男孩子",
+    "index": 7
+  },
+  {
+    "key": "DP_0279_0008",
+    "original": "おとな",
+    "translation": "大人",
+    "index": 8
+  },
+  {
+    "key": "DP_0279_0009",
+    "original": "おにいさん",
+    "translation": "哥哥",
+    "index": 9
+  },
+  {
+    "key": "DP_0279_0010",
+    "original": "おねえさん",
+    "translation": "姐姐",
+    "index": 10
+  },
+  {
+    "key": "DP_0279_0011",
+    "original": "おばあさん",
+    "translation": "奶奶",
+    "index": 11
+  },
+  {
+    "key": "DP_0279_0012",
+    "original": "おばさん",
+    "translation": "阿姨",
+    "index": 12
+  },
+  {
+    "key": "DP_0279_0013",
+    "original": "おや",
+    "translation": "父母",
+    "index": 13
+  },
+  {
+    "key": "DP_0279_0014",
+    "original": "オヤジ",
+    "translation": "老爷子",
+    "index": 14
+  },
+  {
+    "key": "DP_0279_0015",
+    "original": "おれさま",
+    "translation": "本大人",
+    "index": 15
+  },
+  {
+    "key": "DP_0279_0016",
+    "original": "おんなのこ",
+    "translation": "女孩子",
+    "index": 16
+  },
+  {
+    "key": "DP_0279_0017",
+    "original": "ガール",
+    "translation": "少女",
+    "index": 17
+  },
+  {
+    "key": "DP_0279_0018",
+    "original": "かぞく",
+    "translation": "家人",
+    "index": 18
+  },
+  {
+    "key": "DP_0279_0019",
+    "original": "かのじょ",
+    "translation": "女朋友",
+    "index": 19
+  },
+  {
+    "key": "DP_0279_0020",
+    "original": "かれ",
+    "translation": "男朋友",
+    "index": 20
+  },
+  {
+    "key": "DP_0279_0021",
+    "original": "きみ",
+    "translation": "您",
+    "index": 21
+  },
+  {
+    "key": "DP_0279_0022",
+    "original": "きょうだい",
+    "translation": "兄弟",
+    "index": 22
+  },
+  {
+    "key": "DP_0279_0023",
+    "original": "こども",
+    "translation": "小孩子",
+    "index": 23
+  },
+  {
+    "key": "DP_0279_0024",
+    "original": "さま",
+    "translation": "先生",
+    "index": 24
+  },
+  {
+    "key": "DP_0279_0025",
+    "original": "さん",
+    "translation": "女士",
+    "index": 25
+  },
+  {
+    "key": "DP_0279_0026",
+    "original": "じぶん",
+    "translation": "自己",
+    "index": 26
+  },
+  {
+    "key": "DP_0279_0027",
+    "original": "だれ",
+    "translation": "谁",
+    "index": 27
+  },
+  {
+    "key": "DP_0279_0028",
+    "original": "ともだち",
+    "translation": "朋友",
+    "index": 28
+  },
+  {
+    "key": "DP_0279_0029",
+    "original": "なかま",
+    "translation": "伙伴",
+    "index": 29
+  },
+  {
+    "key": "DP_0279_0030",
+    "original": "ひと",
+    "translation": "人",
+    "index": 30
+  },
+  {
+    "key": "DP_0279_0031",
+    "original": "ボーイ",
+    "translation": "少年",
+    "index": 31
+  },
+  {
+    "key": "DP_0279_0032",
+    "original": "ボク",
+    "translation": "俺",
+    "index": 32
+  },
+  {
+    "key": "DP_0279_0033",
+    "original": "みんな",
+    "translation": "大家",
+    "index": 33
+  },
+  {
+    "key": "DP_0279_0034",
+    "original": "ライバル",
+    "translation": "劲敌",
+    "index": 34
+  },
+  {
+    "key": "DP_0279_0035",
+    "original": "わし",
+    "translation": "老身",
+    "index": 35
+  },
+  {
+    "key": "DP_0279_0036",
+    "original": "わたし",
+    "translation": "我",
+    "index": 36
+  },
+  {
+    "key": "DP_0279_0037",
+    "original": "ベビー",
+    "translation": "宝宝",
+    "index": 37
+  }
+]

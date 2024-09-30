@@ -1,0 +1,92 @@
+[
+  {
+    "key": "HGSS_0227_0000",
+    "original": "メールボックス",
+    "translation": "メールボックス",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0227_0001",
+    "original": "[0132,0000]",
+    "translation": "[0132,0000]",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0227_0002",
+    "original": "／",
+    "translation": "／",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0227_0003",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0227_0004",
+    "original": "とじる",
+    "translation": "とじる",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0227_0005",
+    "original": "メールを よむ",
+    "translation": "メールを よむ",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0227_0006",
+    "original": "メールを けす",
+    "translation": "メールを けす",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0227_0007",
+    "original": "もたせる",
+    "translation": "もたせる",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0227_0008",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0227_0009",
+    "original": "[0103,0000]の\nメールを どうしますか？",
+    "translation": "[0103,0000]の\nメールを どうしますか？",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0227_0010",
+    "original": "ないようは きえて しまいますが\nよろしい ですか？",
+    "translation": "ないようは きえて しまいますが\nよろしい ですか？",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0227_0011",
+    "original": "ないようを けしました",
+    "translation": "ないようを けしました",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0227_0012",
+    "original": "ポケモンに もたせますか？",
+    "translation": "ポケモンに もたせますか？",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0227_0013",
+    "original": "ないようを けした メールを\nバッグに しまいました",
+    "translation": "ないようを けした メールを\nバッグに しまいました",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0227_0014",
+    "original": "バッグが いっぱいです⋯\nメールを すてました",
+    "translation": "バッグが いっぱいです⋯\nメールを すてました",
+    "index": 14
+  }
+]

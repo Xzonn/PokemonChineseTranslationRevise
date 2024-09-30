@@ -1,0 +1,806 @@
+[
+  {
+    "key": "DP_0392_0000",
+    "original": "つぶれて はなる",
+    "translation": "つぶれて　はなる",
+    "index": 0
+  },
+  {
+    "key": "DP_0392_0001",
+    "original": "たてに ブルブル",
+    "translation": "上下震动",
+    "index": 1
+  },
+  {
+    "key": "DP_0392_0002",
+    "original": "たてに ひっぱる",
+    "translation": "上下拉长",
+    "index": 2
+  },
+  {
+    "key": "DP_0392_0003",
+    "original": "ちぢんで ふくらむ",
+    "translation": "缩小爆发",
+    "index": 3
+  },
+  {
+    "key": "DP_0392_0004",
+    "original": "ためて はねる スロー",
+    "translation": "上下跃起",
+    "index": 4
+  },
+  {
+    "key": "DP_0392_0005",
+    "original": "よこに ブルブル",
+    "translation": "左右震动",
+    "index": 5
+  },
+  {
+    "key": "DP_0392_0006",
+    "original": "ピョンピョン スモール",
+    "translation": "跳跃烟雾",
+    "index": 6
+  },
+  {
+    "key": "DP_0392_0007",
+    "original": "ためて よこはね",
+    "translation": "积蓄力量左右跃起",
+    "index": 7
+  },
+  {
+    "key": "DP_0392_0008",
+    "original": "たてゆれ",
+    "translation": "上下摇晃",
+    "index": 8
+  },
+  {
+    "key": "DP_0392_0009",
+    "original": "ヤジロベー スロー",
+    "translation": "弥次郎兵卫投掷",
+    "index": 9
+  },
+  {
+    "key": "DP_0392_0010",
+    "original": "よことびはね スロー",
+    "translation": "左右跳动投掷",
+    "index": 10
+  },
+  {
+    "key": "DP_0392_0011",
+    "original": "きざみよことび",
+    "translation": "锯齿状左右跃起",
+    "index": 11
+  },
+  {
+    "key": "DP_0392_0012",
+    "original": "よことびはね スモール",
+    "translation": "左右跃起烟雾",
+    "index": 12
+  },
+  {
+    "key": "DP_0392_0013",
+    "original": "ゆれながら さゆう",
+    "translation": "边摇边左右",
+    "index": 13
+  },
+  {
+    "key": "DP_0392_0014",
+    "original": "ガクンガクン",
+    "translation": "咔空咔空",
+    "index": 14
+  },
+  {
+    "key": "DP_0392_0015",
+    "original": "かげぶんしん",
+    "translation": "影子分身",
+    "index": 15
+  },
+  {
+    "key": "DP_0392_0016",
+    "original": "よこゆれ スロー",
+    "translation": "左右摇动投掷",
+    "index": 16
+  },
+  {
+    "key": "DP_0392_0017",
+    "original": "ゆれながら じょうげ",
+    "translation": "边摇边上下",
+    "index": 17
+  },
+  {
+    "key": "DP_0392_0018",
+    "original": "よこに ひっぱる",
+    "translation": "左右拉扯",
+    "index": 18
+  },
+  {
+    "key": "DP_0392_0019",
+    "original": "スパーク",
+    "translation": "电光",
+    "index": 19
+  },
+  {
+    "key": "DP_0392_0020",
+    "original": "ボワボワ",
+    "translation": "软绵绵",
+    "index": 20
+  },
+  {
+    "key": "DP_0392_0021",
+    "original": "2かい ちぢんで ふくらむ",
+    "translation": "2回变小爆发",
+    "index": 21
+  },
+  {
+    "key": "DP_0392_0022",
+    "original": "ゆりかご スロー",
+    "translation": "摇篮投掷",
+    "index": 22
+  },
+  {
+    "key": "DP_0392_0023",
+    "original": "よことびはね",
+    "translation": "左右跃起",
+    "index": 23
+  },
+  {
+    "key": "DP_0392_0024",
+    "original": "たてはね から よこはね",
+    "translation": "上下跳跃后左右跳跃",
+    "index": 24
+  },
+  {
+    "key": "DP_0392_0025",
+    "original": "ピョンピョン",
+    "translation": "锯齿状左右跃起",
+    "index": 25
+  },
+  {
+    "key": "DP_0392_0026",
+    "original": "たてゆれ スロー",
+    "translation": "上下摇晃投掷",
+    "index": 26
+  },
+  {
+    "key": "DP_0392_0027",
+    "original": "くりくり",
+    "translation": "抓挠",
+    "index": 27
+  },
+  {
+    "key": "DP_0392_0028",
+    "original": "ヤジロベー 2かい",
+    "translation": "弥次郎兵卫2会",
+    "index": 28
+  },
+  {
+    "key": "DP_0392_0029",
+    "original": "よこゆれ",
+    "translation": "左右摇晃",
+    "index": 29
+  },
+  {
+    "key": "DP_0392_0030",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 30
+  },
+  {
+    "key": "DP_0392_0031",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 31
+  },
+  {
+    "key": "DP_0392_0032",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 32
+  },
+  {
+    "key": "DP_0392_0033",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 33
+  },
+  {
+    "key": "DP_0392_0034",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 34
+  },
+  {
+    "key": "DP_0392_0035",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 35
+  },
+  {
+    "key": "DP_0392_0036",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 36
+  },
+  {
+    "key": "DP_0392_0037",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 37
+  },
+  {
+    "key": "DP_0392_0038",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 38
+  },
+  {
+    "key": "DP_0392_0039",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 39
+  },
+  {
+    "key": "DP_0392_0040",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 40
+  },
+  {
+    "key": "DP_0392_0041",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 41
+  },
+  {
+    "key": "DP_0392_0042",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 42
+  },
+  {
+    "key": "DP_0392_0043",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 43
+  },
+  {
+    "key": "DP_0392_0044",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 44
+  },
+  {
+    "key": "DP_0392_0045",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 45
+  },
+  {
+    "key": "DP_0392_0046",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 46
+  },
+  {
+    "key": "DP_0392_0047",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 47
+  },
+  {
+    "key": "DP_0392_0048",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 48
+  },
+  {
+    "key": "DP_0392_0049",
+    "original": "ダミー",
+    "translation": "模型",
+    "index": 49
+  },
+  {
+    "key": "DP_0392_0050",
+    "original": "Ｂ かげぶんしん1",
+    "translation": "Ｂ　影子分身1",
+    "index": 50
+  },
+  {
+    "key": "DP_0392_0051",
+    "original": "Ｂ かげぶんしん2",
+    "translation": "Ｂ　影子分身2",
+    "index": 51
+  },
+  {
+    "key": "DP_0392_0052",
+    "original": "Ｂ かげぶんしん3",
+    "translation": "Ｂ　影子分身3",
+    "index": 52
+  },
+  {
+    "key": "DP_0392_0053",
+    "original": "Ｂ よこゆれ1",
+    "translation": "Ｂ　左右摇晃1",
+    "index": 53
+  },
+  {
+    "key": "DP_0392_0054",
+    "original": "Ｂ よこゆれ2",
+    "translation": "Ｂ　左右摇晃2",
+    "index": 54
+  },
+  {
+    "key": "DP_0392_0055",
+    "original": "Ｂ よこゆれ3",
+    "translation": "Ｂ　左右摇晃3",
+    "index": 55
+  },
+  {
+    "key": "DP_0392_0056",
+    "original": "Ｂ たてブルブル1",
+    "translation": "Ｂ　上下震动1",
+    "index": 56
+  },
+  {
+    "key": "DP_0392_0057",
+    "original": "Ｂ たてブルブル2",
+    "translation": "Ｂ　上下震动2",
+    "index": 57
+  },
+  {
+    "key": "DP_0392_0058",
+    "original": "Ｂ たてブルブル3",
+    "translation": "Ｂ　上下震动3",
+    "index": 58
+  },
+  {
+    "key": "DP_0392_0059",
+    "original": "Ｂ よこブルブル1",
+    "translation": "Ｂ　左右震动1",
+    "index": 59
+  },
+  {
+    "key": "DP_0392_0060",
+    "original": "Ｂ よこブルブル2",
+    "translation": "Ｂ　左右震动2",
+    "index": 60
+  },
+  {
+    "key": "DP_0392_0061",
+    "original": "Ｂ よこブルブル3",
+    "translation": "Ｂ　左右震动3",
+    "index": 61
+  },
+  {
+    "key": "DP_0392_0062",
+    "original": "Ｂ たてのび1",
+    "translation": "Ｂ　上下伸缩1",
+    "index": 62
+  },
+  {
+    "key": "DP_0392_0063",
+    "original": "Ｂ たてのび2",
+    "translation": "Ｂ　上下伸缩2",
+    "index": 63
+  },
+  {
+    "key": "DP_0392_0064",
+    "original": "Ｂ たてのび3",
+    "translation": "Ｂ　上下伸缩3",
+    "index": 64
+  },
+  {
+    "key": "DP_0392_0065",
+    "original": "Ｂ よこのび1",
+    "translation": "Ｂ　左右伸缩1",
+    "index": 65
+  },
+  {
+    "key": "DP_0392_0066",
+    "original": "Ｂ よこのび2",
+    "translation": "Ｂ　左右伸缩2",
+    "index": 66
+  },
+  {
+    "key": "DP_0392_0067",
+    "original": "Ｂ よこのび3",
+    "translation": "Ｂ　左右伸缩3",
+    "index": 67
+  },
+  {
+    "key": "DP_0392_0068",
+    "original": "Ｂ たてよこのび1",
+    "translation": "Ｂ　上下左右伸缩1",
+    "index": 68
+  },
+  {
+    "key": "DP_0392_0069",
+    "original": "Ｂ たてよこのび2",
+    "translation": "Ｂ　上下左右伸缩2",
+    "index": 69
+  },
+  {
+    "key": "DP_0392_0070",
+    "original": "Ｂ たてよこのび3",
+    "translation": "Ｂ　上下左右伸缩3",
+    "index": 70
+  },
+  {
+    "key": "DP_0392_0071",
+    "original": "Ｂ ガクン1",
+    "translation": "Ｂ　急刹1",
+    "index": 71
+  },
+  {
+    "key": "DP_0392_0072",
+    "original": "Ｂ ガクン2",
+    "translation": "Ｂ　急刹2",
+    "index": 72
+  },
+  {
+    "key": "DP_0392_0073",
+    "original": "Ｂ ガクン3",
+    "translation": "Ｂ　急刹3",
+    "index": 73
+  },
+  {
+    "key": "DP_0392_0074",
+    "original": "Ｂ さんかく1",
+    "translation": "Ｂ　三角1",
+    "index": 74
+  },
+  {
+    "key": "DP_0392_0075",
+    "original": "Ｂ さんかく2",
+    "translation": "Ｂ　三角2",
+    "index": 75
+  },
+  {
+    "key": "DP_0392_0076",
+    "original": "Ｂ さんかく3",
+    "translation": "Ｂ　三角3",
+    "index": 76
+  },
+  {
+    "key": "DP_0392_0077",
+    "original": "Ｂ バウンド1",
+    "translation": "Ｂ　弹回1",
+    "index": 77
+  },
+  {
+    "key": "DP_0392_0078",
+    "original": "Ｂ バウンド2",
+    "translation": "Ｂ　弹回2",
+    "index": 78
+  },
+  {
+    "key": "DP_0392_0079",
+    "original": "Ｂ バウンド3",
+    "translation": "Ｂ　弹回3",
+    "index": 79
+  },
+  {
+    "key": "DP_0392_0080",
+    "original": "Ｂ バウンドスモール1",
+    "translation": "Ｂ　弹回小型1",
+    "index": 80
+  },
+  {
+    "key": "DP_0392_0081",
+    "original": "Ｂ バウンドスモール2",
+    "translation": "Ｂ　弹回小型2",
+    "index": 81
+  },
+  {
+    "key": "DP_0392_0082",
+    "original": "Ｂ バウンドスモール3",
+    "translation": "Ｂ　弹回小型3",
+    "index": 82
+  },
+  {
+    "key": "DP_0392_0083",
+    "original": "Ｂ さゆうゆれ1",
+    "translation": "Ｂ　左右摇摆1",
+    "index": 83
+  },
+  {
+    "key": "DP_0392_0084",
+    "original": "Ｂ さゆうゆれ2",
+    "translation": "Ｂ　左右摇摆2",
+    "index": 84
+  },
+  {
+    "key": "DP_0392_0085",
+    "original": "Ｂ さゆうゆれ3",
+    "translation": "Ｂ　左右摇摆3",
+    "index": 85
+  },
+  {
+    "key": "DP_0392_0086",
+    "original": "Ｂ しずむ1",
+    "translation": "Ｂ　静止1",
+    "index": 86
+  },
+  {
+    "key": "DP_0392_0087",
+    "original": "Ｂ しずむ2",
+    "translation": "Ｂ　静止2",
+    "index": 87
+  },
+  {
+    "key": "DP_0392_0088",
+    "original": "Ｂ しずむ3",
+    "translation": "Ｂ　静止3",
+    "index": 88
+  },
+  {
+    "key": "DP_0392_0089",
+    "original": "Ｂ ちぢんでふくらむ1",
+    "translation": "Ｂ　缩小后爆发1",
+    "index": 89
+  },
+  {
+    "key": "DP_0392_0090",
+    "original": "Ｂ ちぢんでふくらむ2",
+    "translation": "Ｂ　缩小后爆发2",
+    "index": 90
+  },
+  {
+    "key": "DP_0392_0091",
+    "original": "Ｂ ちぢんでふくらむ3",
+    "translation": "Ｂ　缩小后爆发3",
+    "index": 91
+  },
+  {
+    "key": "DP_0392_0092",
+    "original": "Ｂ とっしん1",
+    "translation": "Ｂ　突进1",
+    "index": 92
+  },
+  {
+    "key": "DP_0392_0093",
+    "original": "Ｂ とっしん",
+    "translation": "Ｂ　突进",
+    "index": 93
+  },
+  {
+    "key": "DP_0392_0094",
+    "original": "Ｂ とっしん",
+    "translation": "Ｂ　突进",
+    "index": 94
+  },
+  {
+    "key": "DP_0392_0095",
+    "original": "Ｂ フェードあか1",
+    "translation": "Ｂ　枯萎红1",
+    "index": 95
+  },
+  {
+    "key": "DP_0392_0096",
+    "original": "Ｂ フェードあか2",
+    "translation": "Ｂ　枯萎红2",
+    "index": 96
+  },
+  {
+    "key": "DP_0392_0097",
+    "original": "Ｂ フェードあか3",
+    "translation": "Ｂ　枯萎红3",
+    "index": 97
+  },
+  {
+    "key": "DP_0392_0098",
+    "original": "Ｂ フェードあお1",
+    "translation": "Ｂ　枯萎蓝1",
+    "index": 98
+  },
+  {
+    "key": "DP_0392_0099",
+    "original": "Ｂ フェードあお2",
+    "translation": "Ｂ　枯萎蓝2",
+    "index": 99
+  },
+  {
+    "key": "DP_0392_0100",
+    "original": "Ｂ フェードあお3",
+    "translation": "Ｂ　枯萎蓝3",
+    "index": 100
+  },
+  {
+    "key": "DP_0392_0101",
+    "original": "Ｂ フェードみどり1",
+    "translation": "Ｂ　枯萎绿1",
+    "index": 101
+  },
+  {
+    "key": "DP_0392_0102",
+    "original": "Ｂ フェードみどり2",
+    "translation": "Ｂ　枯萎绿2",
+    "index": 102
+  },
+  {
+    "key": "DP_0392_0103",
+    "original": "Ｂ フェードみどり3",
+    "translation": "Ｂ　枯萎绿3",
+    "index": 103
+  },
+  {
+    "key": "DP_0392_0104",
+    "original": "Ｂ スパーク1",
+    "translation": "Ｂ　电光1",
+    "index": 104
+  },
+  {
+    "key": "DP_0392_0105",
+    "original": "Ｂ スパーク2",
+    "translation": "Ｂ　电光2",
+    "index": 105
+  },
+  {
+    "key": "DP_0392_0106",
+    "original": "Ｂ スパーク3",
+    "translation": "Ｂ　电光3",
+    "index": 106
+  },
+  {
+    "key": "DP_0392_0107",
+    "original": "Ｂ ブルブルよこいどう1",
+    "translation": "Ｂ　震动着横向移动1",
+    "index": 107
+  },
+  {
+    "key": "DP_0392_0108",
+    "original": "Ｂ ブルブルよこいどう2",
+    "translation": "Ｂ　震动着横向移动2",
+    "index": 108
+  },
+  {
+    "key": "DP_0392_0109",
+    "original": "Ｂ ブルブルよこいどう3",
+    "translation": "Ｂ　震动着横向移动3",
+    "index": 109
+  },
+  {
+    "key": "DP_0392_0110",
+    "original": "Ｂ こうそくかいてん1",
+    "translation": "Ｂ　高速回转1",
+    "index": 110
+  },
+  {
+    "key": "DP_0392_0111",
+    "original": "Ｂ こうそくかいてん2",
+    "translation": "Ｂ　高速回转2",
+    "index": 111
+  },
+  {
+    "key": "DP_0392_0112",
+    "original": "Ｂ こうそくかいてん3",
+    "translation": "Ｂ　高速回转3",
+    "index": 112
+  },
+  {
+    "key": "DP_0392_0113",
+    "original": "Ｂ ふくらむ1",
+    "translation": "Ｂ　爆发1",
+    "index": 113
+  },
+  {
+    "key": "DP_0392_0114",
+    "original": "Ｂ ふくらむ2",
+    "translation": "Ｂ　鼓起2",
+    "index": 114
+  },
+  {
+    "key": "DP_0392_0115",
+    "original": "Ｂ ふくらむ3",
+    "translation": "Ｂ　爆发3",
+    "index": 115
+  },
+  {
+    "key": "DP_0392_0116",
+    "original": "Ｂ ちぢんで ふくらむ1",
+    "translation": "Ｂ　缩小后爆发1",
+    "index": 116
+  },
+  {
+    "key": "DP_0392_0117",
+    "original": "Ｂ ちぢんで ふくらむ2",
+    "translation": "Ｂ　缩小后爆发2",
+    "index": 117
+  },
+  {
+    "key": "DP_0392_0118",
+    "original": "Ｂ ちぢんで ふくらむ3",
+    "translation": "Ｂ　缩小后爆发3",
+    "index": 118
+  },
+  {
+    "key": "DP_0392_0119",
+    "original": "Ｂ つぶれよこゆれＡ1",
+    "translation": "Ｂ　散乱横向摇晃Ａ1",
+    "index": 119
+  },
+  {
+    "key": "DP_0392_0120",
+    "original": "Ｂ つぶれよこゆれＡ2",
+    "translation": "Ｂ　散乱横向摇晃Ａ2",
+    "index": 120
+  },
+  {
+    "key": "DP_0392_0121",
+    "original": "Ｂ つぶれよこゆれＡ3",
+    "translation": "Ｂ　散乱横向摇晃Ａ3",
+    "index": 121
+  },
+  {
+    "key": "DP_0392_0122",
+    "original": "Ｂ つぶれよこゆれＢ1",
+    "translation": "Ｂ　散乱横向摇晃Ｂ1",
+    "index": 122
+  },
+  {
+    "key": "DP_0392_0123",
+    "original": "Ｂ つぶれよこゆれＢ2",
+    "translation": "Ｂ　散乱横向摇晃Ｂ2",
+    "index": 123
+  },
+  {
+    "key": "DP_0392_0124",
+    "original": "Ｂ つぶれよこゆれＢ3",
+    "translation": "Ｂ　散乱横向摇晃Ｂ3",
+    "index": 124
+  },
+  {
+    "key": "DP_0392_0125",
+    "original": "Ｂ ピョンピョン1",
+    "translation": "Ｂ　锯齿状左右跃起1",
+    "index": 125
+  },
+  {
+    "key": "DP_0392_0126",
+    "original": "Ｂ ピョンピョン2",
+    "translation": "Ｂ　锯齿状左右跃起2",
+    "index": 126
+  },
+  {
+    "key": "DP_0392_0127",
+    "original": "Ｂ ピョンピョン3",
+    "translation": "Ｂ　锯齿状左右跃起3",
+    "index": 127
+  },
+  {
+    "key": "DP_0392_0128",
+    "original": "Ｂ ゆれながら じょうげ1",
+    "translation": "Ｂ　边摇晃边上下1",
+    "index": 128
+  },
+  {
+    "key": "DP_0392_0129",
+    "original": "Ｂ ゆれながら じょうげ2",
+    "translation": "Ｂ　边摇晃边上下2",
+    "index": 129
+  },
+  {
+    "key": "DP_0392_0130",
+    "original": "Ｂ ゆれながら じょうげ3",
+    "translation": "Ｂ　边摇晃边上下3",
+    "index": 130
+  },
+  {
+    "key": "DP_0392_0131",
+    "original": "Ｂ あしぶみ1",
+    "translation": "Ｂ　踩脚1",
+    "index": 131
+  },
+  {
+    "key": "DP_0392_0132",
+    "original": "Ｂ あしぶみ2",
+    "translation": "Ｂ　踩脚2",
+    "index": 132
+  },
+  {
+    "key": "DP_0392_0133",
+    "original": "Ｂ あしぶみ3",
+    "translation": "Ｂ　踩脚3",
+    "index": 133
+  }
+]

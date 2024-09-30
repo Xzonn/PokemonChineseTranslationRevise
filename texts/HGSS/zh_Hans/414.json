@@ -1,0 +1,440 @@
+[
+  {
+    "key": "HGSS_0414_0000",
+    "original": "シングルバトル",
+    "translation": "单打对战",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0414_0001",
+    "original": "ダブルバトル",
+    "translation": "双打对战",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0414_0002",
+    "original": "マルチバトル",
+    "translation": "多人对战",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0414_0003",
+    "original": "つうしんマルチバトル",
+    "translation": "连接多人对战",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0414_0004",
+    "original": "ＷｉーＦｉバトル",
+    "translation": "ＷｉーＦｉ战斗房间",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0414_0005",
+    "original": "へいきんかちぬきすう",
+    "translation": "平均连胜次数",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0414_0006",
+    "original": "たおしたポケモン",
+    "translation": "打倒的宝可梦",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0414_0007",
+    "original": "つかまえたポケモン",
+    "translation": "已捉到的宝可梦",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0414_0008",
+    "original": "ポケモンのタマゴ",
+    "translation": "宝可梦的蛋",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0414_0009",
+    "original": "つりあげたポケモン",
+    "translation": "钓到的宝可梦",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0414_0010",
+    "original": "コンテストのゆうしょうかいすう",
+    "translation": "华丽大赛的优胜回数",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0414_0011",
+    "original": "コンテストのしょうりつ",
+    "translation": "华丽大赛的胜率",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0414_0012",
+    "original": "リボンのかくとくすう",
+    "translation": "获得的奖章数量",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0414_0013",
+    "original": "とじる",
+    "translation": "关闭",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0414_0014",
+    "original": "[0132,0000]．[0103,0001]",
+    "translation": "[0132,0000]．[0103,0001]",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0414_0015",
+    "original": "[0135,0000]しょう",
+    "translation": "[0135,0000]胜",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0414_0016",
+    "original": "[0132,0000]にん",
+    "translation": "[0132,0000]人",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0414_0017",
+    "original": "[0136,0000]こ",
+    "translation": "[0136,0000]个",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0414_0018",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]只",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0414_0019",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]只",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0414_0020",
+    "original": "[0134,0000]％",
+    "translation": "[0134,0000]％",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0414_0021",
+    "original": "[0135,0000]かい",
+    "translation": "[0135,0000]次",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0414_0022",
+    "original": "どの きろくを みますか？",
+    "translation": "看哪个记录呢？",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0414_0023",
+    "original": "バトルタワーの きろく\nシングルバトル れんしょうすう",
+    "translation": "对战塔的记录\n单打对战连胜数",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0414_0024",
+    "original": "バトルタワーの きろく\nダブルバトル れんしょうすう",
+    "translation": "对战塔的记录\n双打对战连胜数",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0414_0025",
+    "original": "バトルタワーの きろく\nマルチバトル れんしょうすう",
+    "translation": "对战塔的记录\n多人对战连胜数",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0414_0026",
+    "original": "バトルタワーの きろく\nつうしんマルチバトル れんしょうすう",
+    "translation": "对战塔的记录\n连接多人对战连胜数",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0414_0027",
+    "original": "バトルタワーの きろく\nＷｉーＦｉバトル れんしょうすう",
+    "translation": "对战塔的记录\nＷｉーＦｉ战斗连胜数",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0414_0028",
+    "original": "バトルタワーの きろく\nへいきん かちぬきすう",
+    "translation": "对战塔的记录\n平均胜数",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0414_0029",
+    "original": "たおした ポケモンの かず",
+    "translation": "打倒的宝可梦数量",
+    "index": 29
+  },
+  {
+    "key": "HGSS_0414_0030",
+    "original": "ボールで つかまえた\nポケモンの かず",
+    "translation": "用精灵球捉到的\n宝可梦数量",
+    "index": 30
+  },
+  {
+    "key": "HGSS_0414_0031",
+    "original": "タマゴから うまれた\nポケモンの かず",
+    "translation": "从蛋里孵出来的\n宝可梦数量",
+    "index": 31
+  },
+  {
+    "key": "HGSS_0414_0032",
+    "original": "つりあげた ポケモンの かず",
+    "translation": "钓到的宝可梦数量",
+    "index": 32
+  },
+  {
+    "key": "HGSS_0414_0033",
+    "original": "コンテストで ゆうしょう\nした かいすう",
+    "translation": "华丽大赛的\n优胜回数",
+    "index": 33
+  },
+  {
+    "key": "HGSS_0414_0034",
+    "original": "コンテストの しょうりつ",
+    "translation": "华丽大赛的胜率",
+    "index": 34
+  },
+  {
+    "key": "HGSS_0414_0035",
+    "original": "コンテストで もらった\nリボンの かず",
+    "translation": "华丽大赛拿到\n的奖章数",
+    "index": 35
+  },
+  {
+    "key": "HGSS_0414_0036",
+    "original": "きろくをけす",
+    "translation": "消除记录",
+    "index": 36
+  },
+  {
+    "key": "HGSS_0414_0037",
+    "original": "けしたい きろくを えらんで\nＸか Ａボタンを おしてください",
+    "translation": "请选择想删除的记录，\n按Ｘ或Ａ键。",
+    "index": 37
+  },
+  {
+    "key": "HGSS_0414_0038",
+    "original": "ほんとうに けしても いいですか？",
+    "translation": "确定删除吗？",
+    "index": 38
+  },
+  {
+    "key": "HGSS_0414_0039",
+    "original": "あなたの きろくは けせません！",
+    "translation": "无法删除自己的记录！",
+    "index": 39
+  },
+  {
+    "key": "HGSS_0414_0040",
+    "original": "[0205]きろくをけす",
+    "translation": "[0205]删除记录",
+    "index": 40
+  },
+  {
+    "key": "HGSS_0414_0041",
+    "original": "[0205]もどる",
+    "translation": "[0205]返回",
+    "index": 41
+  },
+  {
+    "key": "HGSS_0414_0042",
+    "original": "[0132,0000]．",
+    "translation": "[0132,0000]．",
+    "index": 42
+  },
+  {
+    "key": "HGSS_0414_0043",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 43
+  },
+  {
+    "key": "HGSS_0414_0044",
+    "original": "[0135,0000]しょう",
+    "translation": "[0135,0000]胜",
+    "index": 44
+  },
+  {
+    "key": "HGSS_0414_0045",
+    "original": "[0132,0000]にん",
+    "translation": "[0132,0000]人",
+    "index": 45
+  },
+  {
+    "key": "HGSS_0414_0046",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]只",
+    "index": 46
+  },
+  {
+    "key": "HGSS_0414_0047",
+    "original": "[0137,0000]ひき",
+    "translation": "[0137,0000]只",
+    "index": 47
+  },
+  {
+    "key": "HGSS_0414_0048",
+    "original": "けしたい きろくを えらんで\nＡまたは Ｘボタンを おしてください",
+    "translation": "请选择想删除的记录，\n按Ｘ或Ａ键。",
+    "index": 48
+  },
+  {
+    "key": "HGSS_0414_0049",
+    "original": "[0103,0000]の きろくを\nほんとうに けしても いいですか？",
+    "translation": "[0103,0000]的记录\n真的要删除吗？",
+    "index": 49
+  },
+  {
+    "key": "HGSS_0414_0050",
+    "original": "はい",
+    "translation": "是",
+    "index": 50
+  },
+  {
+    "key": "HGSS_0414_0051",
+    "original": "いいえ",
+    "translation": "否",
+    "index": 51
+  },
+  {
+    "key": "HGSS_0414_0052",
+    "original": "あなたの きろくは けせません！\n",
+    "translation": "无法删除自己的记录！",
+    "index": 52
+  },
+  {
+    "key": "HGSS_0414_0053",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 53
+  },
+  {
+    "key": "HGSS_0414_0054",
+    "original": "[0205]シングルバトル れんしょうすう",
+    "translation": "[0205]单打对战连胜数",
+    "index": 54
+  },
+  {
+    "key": "HGSS_0414_0055",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 55
+  },
+  {
+    "key": "HGSS_0414_0056",
+    "original": "[0205]ダブルバトル れんしょうすう",
+    "translation": "[0205]双打对战连胜数",
+    "index": 56
+  },
+  {
+    "key": "HGSS_0414_0057",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 57
+  },
+  {
+    "key": "HGSS_0414_0058",
+    "original": "[0205]マルチバトル れんしょうすう",
+    "translation": "[0205]多人对战连胜数",
+    "index": 58
+  },
+  {
+    "key": "HGSS_0414_0059",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 59
+  },
+  {
+    "key": "HGSS_0414_0060",
+    "original": "[0205]つうしんマルチバトル れんしょうすう",
+    "translation": "[0205]连接多人对战连胜数",
+    "index": 60
+  },
+  {
+    "key": "HGSS_0414_0061",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 61
+  },
+  {
+    "key": "HGSS_0414_0062",
+    "original": "[0205]ＷｉーＦｉバトル れんしょうすう",
+    "translation": "[0205]ＷｉーＦｉ战连胜数",
+    "index": 62
+  },
+  {
+    "key": "HGSS_0414_0063",
+    "original": "[0205]バトルタワーの きろく",
+    "translation": "[0205]对战塔记录",
+    "index": 63
+  },
+  {
+    "key": "HGSS_0414_0064",
+    "original": "[0205]へいきん かちぬきすう",
+    "translation": "[0205]平均连胜数",
+    "index": 64
+  },
+  {
+    "key": "HGSS_0414_0065",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]宝可梦记录",
+    "index": 65
+  },
+  {
+    "key": "HGSS_0414_0066",
+    "original": "[0205]たおした ポケモンの かず",
+    "translation": "[0205]打倒的宝可梦数",
+    "index": 66
+  },
+  {
+    "key": "HGSS_0414_0067",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]宝可梦记录",
+    "index": 67
+  },
+  {
+    "key": "HGSS_0414_0068",
+    "original": "[0205]ボールで つかまえた ポケモンの かず",
+    "translation": "[0205]精灵球抓住宝可梦数",
+    "index": 68
+  },
+  {
+    "key": "HGSS_0414_0069",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]宝可梦记录",
+    "index": 69
+  },
+  {
+    "key": "HGSS_0414_0070",
+    "original": "[0205]タマゴから うまれた ポケモンの かず",
+    "translation": "[0205]蛋里孵出宝可梦数",
+    "index": 70
+  },
+  {
+    "key": "HGSS_0414_0071",
+    "original": "[0205]ポケモンの きろく",
+    "translation": "[0205]宝可梦记录",
+    "index": 71
+  },
+  {
+    "key": "HGSS_0414_0072",
+    "original": "[0205]つりあげた ポケモンの かず",
+    "translation": "[0205]钓起宝可梦数",
+    "index": 72
+  }
+]

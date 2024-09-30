@@ -1,0 +1,26 @@
+[
+  {
+    "key": "HGSS_0093_0000",
+    "original": "アサギのとうだい エレベーター\nライトルームへ まいります\\f\n",
+    "translation": "浅葱灯塔　电梯\n直达灯室。\\f\n",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0093_0001",
+    "original": "アサギのとうだい エレベーター\n１かいへ まいります\\f\n",
+    "translation": "浅葱灯塔　电梯\n直达１楼。\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0093_0002",
+    "original": "ライトルームに つきました",
+    "translation": "到灯室了。",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0093_0003",
+    "original": "１かいに つきました",
+    "translation": "到１楼了。",
+    "index": 3
+  }
+]

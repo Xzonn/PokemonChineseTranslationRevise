@@ -1,0 +1,170 @@
+[
+  {
+    "key": "HGSS_0422_0000",
+    "original": "エリアを どうする？",
+    "translation": "区域怎么办？",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0422_0001",
+    "original": "どれと とりかえる？",
+    "translation": "要和哪个交换？",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0422_0002",
+    "original": "どこに いどうする？",
+    "translation": "要移动到哪里？",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0422_0003",
+    "original": "はいちした ブロックが\nとれますが よろしいですか？",
+    "translation": "放置的区块将解除，\n可以吗？",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0422_0004",
+    "original": "もどる",
+    "translation": "返回",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0422_0005",
+    "original": "けってい",
+    "translation": "确定",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0422_0006",
+    "original": "やめる",
+    "translation": "取消",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0422_0007",
+    "original": "とりかえる",
+    "translation": "互换",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0422_0008",
+    "original": "ならびかえ",
+    "translation": "排序",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0422_0009",
+    "original": "[0132,0000]／２",
+    "translation": "[0132,0000]／２",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0422_0010",
+    "original": "そうげんに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "草原宝可梦喜欢的\n区块数量",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0422_0011",
+    "original": "もりに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "森林宝可梦喜欢的\n区块数量",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0422_0012",
+    "original": "いわばに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "岩场宝可梦喜欢的\n区块数量",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0422_0013",
+    "original": "みずべに いる ポケモンが\nすきそうな ブロックの かず",
+    "translation": "湖边宝可梦喜欢的\n区块数量",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0422_0014",
+    "original": "そのほかの ブロックの かず",
+    "translation": "其他区块数量",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0422_0015",
+    "original": "[0133,0000]こ",
+    "translation": "[0133,0000]个",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0422_0016",
+    "original": "そうげん",
+    "translation": "草原",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0422_0017",
+    "original": "はなばたけ",
+    "translation": "花田",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0422_0018",
+    "original": "サバンナ",
+    "translation": "热带草原",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0422_0019",
+    "original": "いわば",
+    "translation": "岩场",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0422_0020",
+    "original": "みずべのいわば",
+    "translation": "湖边岩场",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0422_0021",
+    "original": "しつげん",
+    "translation": "湿原",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0422_0022",
+    "original": "もり",
+    "translation": "森林",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0422_0023",
+    "original": "みずべのもり",
+    "translation": "湖边森林",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0422_0024",
+    "original": "ぬまち",
+    "translation": "沼泽地",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0422_0025",
+    "original": "あれち",
+    "translation": "荒地",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0422_0026",
+    "original": "やま",
+    "translation": "山",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0422_0027",
+    "original": "さばく",
+    "translation": "沙漠",
+    "index": 27
+  }
+]

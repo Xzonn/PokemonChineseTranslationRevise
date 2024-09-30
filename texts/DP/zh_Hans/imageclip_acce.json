@@ -1,0 +1,602 @@
+[
+  {
+    "key": "DP_0214_0000",
+    "original": "しろいわたげ",
+    "translation": "白色绒毛",
+    "index": 0
+  },
+  {
+    "key": "DP_0214_0001",
+    "original": "きいろのわたげ",
+    "translation": "黄色绒毛",
+    "index": 1
+  },
+  {
+    "key": "DP_0214_0002",
+    "original": "ピンクのわたげ",
+    "translation": "粉色绒毛",
+    "index": 2
+  },
+  {
+    "key": "DP_0214_0003",
+    "original": "ちゃいろのわたげ",
+    "translation": "茶色绒毛",
+    "index": 3
+  },
+  {
+    "key": "DP_0214_0004",
+    "original": "くろいわたげ",
+    "translation": "黑色绒毛",
+    "index": 4
+  },
+  {
+    "key": "DP_0214_0005",
+    "original": "オレンジのわたげ",
+    "translation": "橙色绒毛",
+    "index": 5
+  },
+  {
+    "key": "DP_0214_0006",
+    "original": "まんまるストーン",
+    "translation": "滚圆石头",
+    "index": 6
+  },
+  {
+    "key": "DP_0214_0007",
+    "original": "きらきらストーン",
+    "translation": "闪光石头",
+    "index": 7
+  },
+  {
+    "key": "DP_0214_0008",
+    "original": "こつこつストーン",
+    "translation": "坚硬石头",
+    "index": 8
+  },
+  {
+    "key": "DP_0214_0009",
+    "original": "ごつごつストーン",
+    "translation": "粗糙石头",
+    "index": 9
+  },
+  {
+    "key": "DP_0214_0010",
+    "original": "まっくろストーン",
+    "translation": "漆黑石头",
+    "index": 10
+  },
+  {
+    "key": "DP_0214_0011",
+    "original": "ちびストーン",
+    "translation": "小石子",
+    "index": 11
+  },
+  {
+    "key": "DP_0214_0012",
+    "original": "ピンクのウロコ",
+    "translation": "粉色鳞片",
+    "index": 12
+  },
+  {
+    "key": "DP_0214_0013",
+    "original": "あおいウロコ",
+    "translation": "蓝色鳞片",
+    "index": 13
+  },
+  {
+    "key": "DP_0214_0014",
+    "original": "みどりのウロコ",
+    "translation": "绿色鳞片",
+    "index": 14
+  },
+  {
+    "key": "DP_0214_0015",
+    "original": "むらさきのウロコ",
+    "translation": "紫色鳞片",
+    "index": 15
+  },
+  {
+    "key": "DP_0214_0016",
+    "original": "おおきいウロコ",
+    "translation": "大鳞片",
+    "index": 16
+  },
+  {
+    "key": "DP_0214_0017",
+    "original": "ほそいウロコ",
+    "translation": "细鳞片",
+    "index": 17
+  },
+  {
+    "key": "DP_0214_0018",
+    "original": "あおいはね",
+    "translation": "蓝色羽毛",
+    "index": 18
+  },
+  {
+    "key": "DP_0214_0019",
+    "original": "あかいはね",
+    "translation": "红色羽毛",
+    "index": 19
+  },
+  {
+    "key": "DP_0214_0020",
+    "original": "きいろのはね",
+    "translation": "黄色羽毛",
+    "index": 20
+  },
+  {
+    "key": "DP_0214_0021",
+    "original": "しろいはね",
+    "translation": "白色羽毛",
+    "index": 21
+  },
+  {
+    "key": "DP_0214_0022",
+    "original": "くろいちょびひげ",
+    "translation": "黑色小胡子",
+    "index": 22
+  },
+  {
+    "key": "DP_0214_0023",
+    "original": "しろいちょびひげ",
+    "translation": "白色小胡子",
+    "index": 23
+  },
+  {
+    "key": "DP_0214_0024",
+    "original": "くろいひげ",
+    "translation": "黑色胡须",
+    "index": 24
+  },
+  {
+    "key": "DP_0214_0025",
+    "original": "しろいひげ",
+    "translation": "白色胡须",
+    "index": 25
+  },
+  {
+    "key": "DP_0214_0026",
+    "original": "ちいさいはっぱ",
+    "translation": "小叶子",
+    "index": 26
+  },
+  {
+    "key": "DP_0214_0027",
+    "original": "おおきいはっぱ",
+    "translation": "大叶子",
+    "index": 27
+  },
+  {
+    "key": "DP_0214_0028",
+    "original": "ほそいはっぱ",
+    "translation": "细叶子",
+    "index": 28
+  },
+  {
+    "key": "DP_0214_0029",
+    "original": "つめのカラ",
+    "translation": "爪子壳",
+    "index": 29
+  },
+  {
+    "key": "DP_0214_0030",
+    "original": "つののカラ",
+    "translation": "犄角壳",
+    "index": 30
+  },
+  {
+    "key": "DP_0214_0031",
+    "original": "ほそいキノコ",
+    "translation": "细蘑菇",
+    "index": 31
+  },
+  {
+    "key": "DP_0214_0032",
+    "original": "ふといキノコ",
+    "translation": "粗蘑菇",
+    "index": 32
+  },
+  {
+    "key": "DP_0214_0033",
+    "original": "きりかぶ",
+    "translation": "树桩",
+    "index": 33
+  },
+  {
+    "key": "DP_0214_0034",
+    "original": "きれいなしずく",
+    "translation": "漂亮的水滴",
+    "index": 34
+  },
+  {
+    "key": "DP_0214_0035",
+    "original": "ゆきのけっしょう",
+    "translation": "雪之结晶",
+    "index": 35
+  },
+  {
+    "key": "DP_0214_0036",
+    "original": "パチパチひばな",
+    "translation": "霹雳火花",
+    "index": 36
+  },
+  {
+    "key": "DP_0214_0037",
+    "original": "メラメラほのお",
+    "translation": "熊熊火焰",
+    "index": 37
+  },
+  {
+    "key": "DP_0214_0038",
+    "original": "ふしぎなほのお",
+    "translation": "神秘火焰",
+    "index": 38
+  },
+  {
+    "key": "DP_0214_0039",
+    "original": "にじみでるきあい",
+    "translation": "流露出的决心",
+    "index": 39
+  },
+  {
+    "key": "DP_0214_0040",
+    "original": "ふしぎなスプーン",
+    "translation": "神秘的匙子",
+    "index": 40
+  },
+  {
+    "key": "DP_0214_0041",
+    "original": "モコモコけむり",
+    "translation": "蓬松烟雾",
+    "index": 41
+  },
+  {
+    "key": "DP_0214_0042",
+    "original": "どくエキス",
+    "translation": "毒精华",
+    "index": 42
+  },
+  {
+    "key": "DP_0214_0043",
+    "original": "おかねもちコイン",
+    "translation": "富有硬币",
+    "index": 43
+  },
+  {
+    "key": "DP_0214_0044",
+    "original": "ぶきみなもの",
+    "translation": "可怕的东西",
+    "index": 44
+  },
+  {
+    "key": "DP_0214_0045",
+    "original": "バネ",
+    "translation": "弹簧",
+    "index": 45
+  },
+  {
+    "key": "DP_0214_0046",
+    "original": "かいのかけら",
+    "translation": "贝壳碎片",
+    "index": 46
+  },
+  {
+    "key": "DP_0214_0047",
+    "original": "はなうたおんぷ",
+    "translation": "哼歌音符",
+    "index": 47
+  },
+  {
+    "key": "DP_0214_0048",
+    "original": "ピカピカパウダー",
+    "translation": "闪烁粉末",
+    "index": 48
+  },
+  {
+    "key": "DP_0214_0049",
+    "original": "キラキラパウダー",
+    "translation": "闪亮粉末",
+    "index": 49
+  },
+  {
+    "key": "DP_0214_0050",
+    "original": "あかいはな",
+    "translation": "红花",
+    "index": 50
+  },
+  {
+    "key": "DP_0214_0051",
+    "original": "ピンクのはな",
+    "translation": "粉花",
+    "index": 51
+  },
+  {
+    "key": "DP_0214_0052",
+    "original": "しろいはな",
+    "translation": "白花",
+    "index": 52
+  },
+  {
+    "key": "DP_0214_0053",
+    "original": "あおいはな",
+    "translation": "蓝花",
+    "index": 53
+  },
+  {
+    "key": "DP_0214_0054",
+    "original": "オレンジのはな",
+    "translation": "橙色花",
+    "index": 54
+  },
+  {
+    "key": "DP_0214_0055",
+    "original": "きいろのはな",
+    "translation": "金色花",
+    "index": 55
+  },
+  {
+    "key": "DP_0214_0056",
+    "original": "ぐるぐるメガネ",
+    "translation": "圈圈眼镜",
+    "index": 56
+  },
+  {
+    "key": "DP_0214_0057",
+    "original": "まっくろメガネ",
+    "translation": "漆黑眼镜",
+    "index": 57
+  },
+  {
+    "key": "DP_0214_0058",
+    "original": "ゴージャスメガネ",
+    "translation": "豪华眼镜",
+    "index": 58
+  },
+  {
+    "key": "DP_0214_0059",
+    "original": "あまいキャンディ",
+    "translation": "甜甜糖果",
+    "index": 59
+  },
+  {
+    "key": "DP_0214_0060",
+    "original": "かみふぶき",
+    "translation": "彩色纸屑",
+    "index": 60
+  },
+  {
+    "key": "DP_0214_0061",
+    "original": "カラフルパラソル",
+    "translation": "彩色阳伞",
+    "index": 61
+  },
+  {
+    "key": "DP_0214_0062",
+    "original": "カラカサ",
+    "translation": "纸伞",
+    "index": 62
+  },
+  {
+    "key": "DP_0214_0063",
+    "original": "スポットライト",
+    "translation": "聚光灯",
+    "index": 63
+  },
+  {
+    "key": "DP_0214_0064",
+    "original": "マント",
+    "translation": "披风",
+    "index": 64
+  },
+  {
+    "key": "DP_0214_0065",
+    "original": "スタンドマイク",
+    "translation": "立式话筒",
+    "index": 65
+  },
+  {
+    "key": "DP_0214_0066",
+    "original": "サーフボード",
+    "translation": "冲浪板",
+    "index": 66
+  },
+  {
+    "key": "DP_0214_0067",
+    "original": "カーペット",
+    "translation": "地毯",
+    "index": 67
+  },
+  {
+    "key": "DP_0214_0068",
+    "original": "なつかしどかん",
+    "translation": "怀旧的水管",
+    "index": 68
+  },
+  {
+    "key": "DP_0214_0069",
+    "original": "ふわふわベッド",
+    "translation": "松软的床",
+    "index": 69
+  },
+  {
+    "key": "DP_0214_0070",
+    "original": "ミラーボール",
+    "translation": "反射镜球",
+    "index": 70
+  },
+  {
+    "key": "DP_0214_0071",
+    "original": "かおだしかんばん",
+    "translation": "露脸招牌",
+    "index": 71
+  },
+  {
+    "key": "DP_0214_0072",
+    "original": "ピンクのかみどめ",
+    "translation": "粉色发夹",
+    "index": 72
+  },
+  {
+    "key": "DP_0214_0073",
+    "original": "まっかなかみどめ",
+    "translation": "赤红发夹",
+    "index": 73
+  },
+  {
+    "key": "DP_0214_0074",
+    "original": "ブルーのかみどめ",
+    "translation": "蓝色发夹",
+    "index": 74
+  },
+  {
+    "key": "DP_0214_0075",
+    "original": "きいろのかみどめ",
+    "translation": "黄色发夹",
+    "index": 75
+  },
+  {
+    "key": "DP_0214_0076",
+    "original": "みどりのかみどめ",
+    "translation": "绿色发夹",
+    "index": 76
+  },
+  {
+    "key": "DP_0214_0077",
+    "original": "ピンクのふうせん",
+    "translation": "粉色气球",
+    "index": 77
+  },
+  {
+    "key": "DP_0214_0078",
+    "original": "あかいふうせん",
+    "translation": "红色气球",
+    "index": 78
+  },
+  {
+    "key": "DP_0214_0079",
+    "original": "あおいふうせん",
+    "translation": "蓝色气球",
+    "index": 79
+  },
+  {
+    "key": "DP_0214_0080",
+    "original": "きいろのふうせん",
+    "translation": "黄色气球",
+    "index": 80
+  },
+  {
+    "key": "DP_0214_0081",
+    "original": "みどりのふうせん",
+    "translation": "绿色气球",
+    "index": 81
+  },
+  {
+    "key": "DP_0214_0082",
+    "original": "ヘッドドレス",
+    "translation": "蕾丝帽",
+    "index": 82
+  },
+  {
+    "key": "DP_0214_0083",
+    "original": "シルクハット",
+    "translation": "高帽",
+    "index": 83
+  },
+  {
+    "key": "DP_0214_0084",
+    "original": "きぬのベール",
+    "translation": "丝绸面纱",
+    "index": 84
+  },
+  {
+    "key": "DP_0214_0085",
+    "original": "たなびくハチマキ",
+    "translation": "飘曳头巾",
+    "index": 85
+  },
+  {
+    "key": "DP_0214_0086",
+    "original": "はかせのぼうし",
+    "translation": "博士帽",
+    "index": 86
+  },
+  {
+    "key": "DP_0214_0087",
+    "original": "おはなのステージ",
+    "translation": "鲜花舞台",
+    "index": 87
+  },
+  {
+    "key": "DP_0214_0088",
+    "original": "きんのおたちだい",
+    "translation": "金色站台",
+    "index": 88
+  },
+  {
+    "key": "DP_0214_0089",
+    "original": "ガラスのステージ",
+    "translation": "玻璃舞台",
+    "index": 89
+  },
+  {
+    "key": "DP_0214_0090",
+    "original": "ひょうしょうだい",
+    "translation": "颁奖台",
+    "index": 90
+  },
+  {
+    "key": "DP_0214_0091",
+    "original": "キューブステージ",
+    "translation": "方块舞台",
+    "index": 91
+  },
+  {
+    "key": "DP_0214_0092",
+    "original": "ナエトルおめん",
+    "translation": "草苗龟面具",
+    "index": 92
+  },
+  {
+    "key": "DP_0214_0093",
+    "original": "ヒコザルおめん",
+    "translation": "小火焰猴面具",
+    "index": 93
+  },
+  {
+    "key": "DP_0214_0094",
+    "original": "ポッチャマおめん",
+    "translation": "波加曼面具",
+    "index": 94
+  },
+  {
+    "key": "DP_0214_0095",
+    "original": "おおきいき",
+    "translation": "大树",
+    "index": 95
+  },
+  {
+    "key": "DP_0214_0096",
+    "original": "フラッグ",
+    "translation": "旗子",
+    "index": 96
+  },
+  {
+    "key": "DP_0214_0097",
+    "original": "クラウン",
+    "translation": "王冠",
+    "index": 97
+  },
+  {
+    "key": "DP_0214_0098",
+    "original": "ティアラ",
+    "translation": "后冠",
+    "index": 98
+  },
+  {
+    "key": "DP_0214_0099",
+    "original": "ながれぼし",
+    "translation": "流星",
+    "index": 99
+  }
+]

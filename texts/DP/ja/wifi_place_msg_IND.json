@@ -1,0 +1,218 @@
+[
+  {
+    "key": "DP_0778_0000",
+    "original": "なし",
+    "translation": "なし",
+    "index": 0
+  },
+  {
+    "key": "DP_0778_0001",
+    "original": "アンダマン・ニコバルしょとう",
+    "translation": "アンダマン・ニコバルしょとう",
+    "index": 1
+  },
+  {
+    "key": "DP_0778_0002",
+    "original": "アーンドラ・プラデーシュ",
+    "translation": "アーンドラ・プラデーシュ",
+    "index": 2
+  },
+  {
+    "key": "DP_0778_0003",
+    "original": "アルナーチャル・プラデーシュ",
+    "translation": "アルナーチャル・プラデーシュ",
+    "index": 3
+  },
+  {
+    "key": "DP_0778_0004",
+    "original": "アッサム",
+    "translation": "アッサム",
+    "index": 4
+  },
+  {
+    "key": "DP_0778_0005",
+    "original": "ビハール",
+    "translation": "ビハール",
+    "index": 5
+  },
+  {
+    "key": "DP_0778_0006",
+    "original": "チャンディガル",
+    "translation": "チャンディガル",
+    "index": 6
+  },
+  {
+    "key": "DP_0778_0007",
+    "original": "チャッティースガル",
+    "translation": "チャッティースガル",
+    "index": 7
+  },
+  {
+    "key": "DP_0778_0008",
+    "original": "ダドラおよびナガル・アベリ",
+    "translation": "ダドラおよびナガル・アベリ",
+    "index": 8
+  },
+  {
+    "key": "DP_0778_0009",
+    "original": "ダマン・ディウ",
+    "translation": "ダマン・ディウ",
+    "index": 9
+  },
+  {
+    "key": "DP_0778_0010",
+    "original": "デリー",
+    "translation": "デリー",
+    "index": 10
+  },
+  {
+    "key": "DP_0778_0011",
+    "original": "ゴア",
+    "translation": "ゴア",
+    "index": 11
+  },
+  {
+    "key": "DP_0778_0012",
+    "original": "グジャラート",
+    "translation": "グジャラート",
+    "index": 12
+  },
+  {
+    "key": "DP_0778_0013",
+    "original": "ハリヤーナー",
+    "translation": "ハリヤーナー",
+    "index": 13
+  },
+  {
+    "key": "DP_0778_0014",
+    "original": "ヒマーチャル・プラデーシュ",
+    "translation": "ヒマーチャル・プラデーシュ",
+    "index": 14
+  },
+  {
+    "key": "DP_0778_0015",
+    "original": "ジャンム・カシミール",
+    "translation": "ジャンム・カシミール",
+    "index": 15
+  },
+  {
+    "key": "DP_0778_0016",
+    "original": "ジャールカンド",
+    "translation": "ジャールカンド",
+    "index": 16
+  },
+  {
+    "key": "DP_0778_0017",
+    "original": "カルナータカ",
+    "translation": "カルナータカ",
+    "index": 17
+  },
+  {
+    "key": "DP_0778_0018",
+    "original": "ケーララ",
+    "translation": "ケーララ",
+    "index": 18
+  },
+  {
+    "key": "DP_0778_0019",
+    "original": "ラクシャディープ",
+    "translation": "ラクシャディープ",
+    "index": 19
+  },
+  {
+    "key": "DP_0778_0020",
+    "original": "マディヤ・プラデーシュ",
+    "translation": "マディヤ・プラデーシュ",
+    "index": 20
+  },
+  {
+    "key": "DP_0778_0021",
+    "original": "マハラシュトラ",
+    "translation": "マハラシュトラ",
+    "index": 21
+  },
+  {
+    "key": "DP_0778_0022",
+    "original": "メガラヤ",
+    "translation": "メガラヤ",
+    "index": 22
+  },
+  {
+    "key": "DP_0778_0023",
+    "original": "ミゾラム",
+    "translation": "ミゾラム",
+    "index": 23
+  },
+  {
+    "key": "DP_0778_0024",
+    "original": "マニプル",
+    "translation": "マニプル",
+    "index": 24
+  },
+  {
+    "key": "DP_0778_0025",
+    "original": "ナガランド",
+    "translation": "ナガランド",
+    "index": 25
+  },
+  {
+    "key": "DP_0778_0026",
+    "original": "オリッサ",
+    "translation": "オリッサ",
+    "index": 26
+  },
+  {
+    "key": "DP_0778_0027",
+    "original": "ポンディシェリ",
+    "translation": "ポンディシェリ",
+    "index": 27
+  },
+  {
+    "key": "DP_0778_0028",
+    "original": "パンジャーブ",
+    "translation": "パンジャーブ",
+    "index": 28
+  },
+  {
+    "key": "DP_0778_0029",
+    "original": "ラジャスターン",
+    "translation": "ラジャスターン",
+    "index": 29
+  },
+  {
+    "key": "DP_0778_0030",
+    "original": "シッキム",
+    "translation": "シッキム",
+    "index": 30
+  },
+  {
+    "key": "DP_0778_0031",
+    "original": "タミル・ナードゥ",
+    "translation": "タミル・ナードゥ",
+    "index": 31
+  },
+  {
+    "key": "DP_0778_0032",
+    "original": "トリプラ",
+    "translation": "トリプラ",
+    "index": 32
+  },
+  {
+    "key": "DP_0778_0033",
+    "original": "ウッタル・プラデーシュ",
+    "translation": "ウッタル・プラデーシュ",
+    "index": 33
+  },
+  {
+    "key": "DP_0778_0034",
+    "original": "ウッタランチャル",
+    "translation": "ウッタランチャル",
+    "index": 34
+  },
+  {
+    "key": "DP_0778_0035",
+    "original": "にしベンガル",
+    "translation": "にしベンガル",
+    "index": 35
+  }
+]

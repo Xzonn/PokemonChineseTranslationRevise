@@ -1,0 +1,182 @@
+[
+  {
+    "key": "HGSS_0306_0000",
+    "original": "スピードコース",
+    "translation": "速度竞技",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0306_0001",
+    "original": "パワーコース",
+    "translation": "力量竞技",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0306_0002",
+    "original": "テクニックコース",
+    "translation": "技巧竞技",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0306_0003",
+    "original": "スタミナコース",
+    "translation": "耐力竞技",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0306_0004",
+    "original": "ジャンプコース",
+    "translation": "跳跃竞技",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0306_0005",
+    "original": "スピード＆ジャンプコース",
+    "translation": "速度＆跳跃竞技",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0306_0006",
+    "original": "ジャンプ＆テクニックコース",
+    "translation": "跳跃＆技巧竞技",
+    "index": 6
+  },
+  {
+    "key": "HGSS_0306_0007",
+    "original": "テクニック＆パワーコース",
+    "translation": "技巧＆力量竞技",
+    "index": 7
+  },
+  {
+    "key": "HGSS_0306_0008",
+    "original": "パワー＆スタミナコース",
+    "translation": "力量＆耐力竞技",
+    "index": 8
+  },
+  {
+    "key": "HGSS_0306_0009",
+    "original": "スタミナ＆スピードコース",
+    "translation": "耐力＆速度竞技",
+    "index": 9
+  },
+  {
+    "key": "HGSS_0306_0010",
+    "original": "マスターコース",
+    "translation": "大师竞技",
+    "index": 10
+  },
+  {
+    "key": "HGSS_0306_0011",
+    "original": "あか",
+    "translation": "红色",
+    "index": 11
+  },
+  {
+    "key": "HGSS_0306_0012",
+    "original": "あお",
+    "translation": "蓝色",
+    "index": 12
+  },
+  {
+    "key": "HGSS_0306_0013",
+    "original": "みどり",
+    "translation": "绿色",
+    "index": 13
+  },
+  {
+    "key": "HGSS_0306_0014",
+    "original": "きいろ",
+    "translation": "黄色",
+    "index": 14
+  },
+  {
+    "key": "HGSS_0306_0015",
+    "original": "スピードメダル",
+    "translation": "速度奖章",
+    "index": 15
+  },
+  {
+    "key": "HGSS_0306_0016",
+    "original": "パワーメダル",
+    "translation": "力量奖章",
+    "index": 16
+  },
+  {
+    "key": "HGSS_0306_0017",
+    "original": "テクニックメダル",
+    "translation": "技巧奖章",
+    "index": 17
+  },
+  {
+    "key": "HGSS_0306_0018",
+    "original": "スタミナメダル",
+    "translation": "耐力奖章",
+    "index": 18
+  },
+  {
+    "key": "HGSS_0306_0019",
+    "original": "ジャンプメダル",
+    "translation": "跳跃奖章",
+    "index": 19
+  },
+  {
+    "key": "HGSS_0306_0020",
+    "original": "ダッシュハードル",
+    "translation": "跨栏冲刺",
+    "index": 20
+  },
+  {
+    "key": "HGSS_0306_0021",
+    "original": "スティールフラッグ",
+    "translation": "旗帜争夺",
+    "index": 21
+  },
+  {
+    "key": "HGSS_0306_0022",
+    "original": "プッシュサークル",
+    "translation": "推挤抢位",
+    "index": 22
+  },
+  {
+    "key": "HGSS_0306_0023",
+    "original": "ブレイクブロック",
+    "translation": "徒手劈砖",
+    "index": 23
+  },
+  {
+    "key": "HGSS_0306_0024",
+    "original": "キャッチソーサー",
+    "translation": "接盘子",
+    "index": 24
+  },
+  {
+    "key": "HGSS_0306_0025",
+    "original": "バウンドフィールド",
+    "translation": "弹跳摸灯",
+    "index": 25
+  },
+  {
+    "key": "HGSS_0306_0026",
+    "original": "チェンジリレー",
+    "translation": "越野接力",
+    "index": 26
+  },
+  {
+    "key": "HGSS_0306_0027",
+    "original": "リングアウトファイト",
+    "translation": "擂台碰撞",
+    "index": 27
+  },
+  {
+    "key": "HGSS_0306_0028",
+    "original": "シューティングスノー",
+    "translation": "雪球投掷",
+    "index": 28
+  },
+  {
+    "key": "HGSS_0306_0029",
+    "original": "スマッシュゴール",
+    "translation": "足球射门",
+    "index": 29
+  }
+]

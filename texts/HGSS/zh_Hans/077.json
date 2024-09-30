@@ -1,0 +1,44 @@
+[
+  {
+    "key": "HGSS_0077_0000",
+    "original": "むかしの ポケモンを\nまねして つくられた もの",
+    "translation": "依照从前的宝可梦的样子\n建造的东西。",
+    "index": 0
+  },
+  {
+    "key": "HGSS_0077_0001",
+    "original": "ふーむ\nいつのまに こんなものが⋯⋯\\f\nこの もじの\nいみするところは⋯⋯\\r\n⋯⋯ ⋯⋯ ⋯⋯\\f\n",
+    "translation": "呼，\n不知是何时的东西……\\f\n这些文字的意思是……\n………………\\f\n",
+    "index": 1
+  },
+  {
+    "key": "HGSS_0077_0002",
+    "original": "ねえ きみ！\nいちど けんきゅうじょに もどろう！\\f\n",
+    "translation": "喂，说你呢！\n回一趟研究所吧！\\f\n",
+    "index": 2
+  },
+  {
+    "key": "HGSS_0077_0003",
+    "original": "あの せきばんに かいてあった\nないようは こうでした⋯⋯\\f\n",
+    "translation": "那块石版上画着的\n内容是这样的……\\f\n",
+    "index": 3
+  },
+  {
+    "key": "HGSS_0077_0004",
+    "original": "NAKAMATACHI\nWARERA MIAGE\\r\nSYUKUFUKU SURU\\f\n",
+    "translation": "NAKAMATACHI\nWARERA　MIAGE\\r\nSYUKUFUKU　SURU\\f\n",
+    "index": 4
+  },
+  {
+    "key": "HGSS_0077_0005",
+    "original": "うーん どういう いみ だろう？\nもういちど いせきを しらべてみる\\r\nひつようが ありそうですね\\f\n",
+    "translation": "嗯，是什么意思呢？\n看来有再去遗迹调查\\r\n一次的必要了。\\f\n",
+    "index": 5
+  },
+  {
+    "key": "HGSS_0077_0006",
+    "original": "[0103,0000]は\nアンノーンノートに かきこんだ！",
+    "translation": "[0103,0000]\n在未知图腾笔记写下记录！",
+    "index": 6
+  }
+]

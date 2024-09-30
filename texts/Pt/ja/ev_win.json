@@ -1,0 +1,1682 @@
+[
+  {
+    "key": "PT_0360_0000",
+    "original": "どく",
+    "translation": "どく",
+    "index": 0
+  },
+  {
+    "key": "PT_0360_0001",
+    "original": "まひ",
+    "translation": "まひ",
+    "index": 1
+  },
+  {
+    "key": "PT_0360_0002",
+    "original": "ねむり",
+    "translation": "ねむり",
+    "index": 2
+  },
+  {
+    "key": "PT_0360_0003",
+    "original": "やけど",
+    "translation": "やけど",
+    "index": 3
+  },
+  {
+    "key": "PT_0360_0004",
+    "original": "こおり",
+    "translation": "こおり",
+    "index": 4
+  },
+  {
+    "key": "PT_0360_0005",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 5
+  },
+  {
+    "key": "PT_0360_0006",
+    "original": "シングルバトル",
+    "translation": "シングルバトル",
+    "index": 6
+  },
+  {
+    "key": "PT_0360_0007",
+    "original": "ダブルバトル",
+    "translation": "ダブルバトル",
+    "index": 7
+  },
+  {
+    "key": "PT_0360_0008",
+    "original": "ミックスバトル",
+    "translation": "ミックスバトル",
+    "index": 8
+  },
+  {
+    "key": "PT_0360_0009",
+    "original": "マルチバトル",
+    "translation": "マルチバトル",
+    "index": 9
+  },
+  {
+    "key": "PT_0360_0010",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 10
+  },
+  {
+    "key": "PT_0360_0011",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 11
+  },
+  {
+    "key": "PT_0360_0012",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 12
+  },
+  {
+    "key": "PT_0360_0013",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 13
+  },
+  {
+    "key": "PT_0360_0014",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 14
+  },
+  {
+    "key": "PT_0360_0015",
+    "original": "げんざいの フロア",
+    "translation": "げんざいの フロア",
+    "index": 15
+  },
+  {
+    "key": "PT_0360_0016",
+    "original": "[0132,0000]かい",
+    "translation": "[0132,0000]かい",
+    "index": 16
+  },
+  {
+    "key": "PT_0360_0017",
+    "original": "かっこよさ",
+    "translation": "かっこよさ",
+    "index": 17
+  },
+  {
+    "key": "PT_0360_0018",
+    "original": "うつくしさ",
+    "translation": "うつくしさ",
+    "index": 18
+  },
+  {
+    "key": "PT_0360_0019",
+    "original": "かわいさ",
+    "translation": "かわいさ",
+    "index": 19
+  },
+  {
+    "key": "PT_0360_0020",
+    "original": "たくましさ",
+    "translation": "たくましさ",
+    "index": 20
+  },
+  {
+    "key": "PT_0360_0021",
+    "original": "かしこさ",
+    "translation": "かしこさ",
+    "index": 21
+  },
+  {
+    "key": "PT_0360_0022",
+    "original": "こうかん",
+    "translation": "こうかん",
+    "index": 22
+  },
+  {
+    "key": "PT_0360_0023",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 23
+  },
+  {
+    "key": "PT_0360_0024",
+    "original": "ファンシーカップ",
+    "translation": "ファンシーカップ",
+    "index": 24
+  },
+  {
+    "key": "PT_0360_0025",
+    "original": "イエローカップ",
+    "translation": "イエローカップ",
+    "index": 25
+  },
+  {
+    "key": "PT_0360_0026",
+    "original": "リトルカップ",
+    "translation": "リトルカップ",
+    "index": 26
+  },
+  {
+    "key": "PT_0360_0027",
+    "original": "ミドルカップ",
+    "translation": "ミドルカップ",
+    "index": 27
+  },
+  {
+    "key": "PT_0360_0028",
+    "original": "ヘビーカップ",
+    "translation": "ヘビーカップ",
+    "index": 28
+  },
+  {
+    "key": "PT_0360_0029",
+    "original": "[011A,0000]カップ",
+    "translation": "[011A,0000]カップ",
+    "index": 29
+  },
+  {
+    "key": "PT_0360_0030",
+    "original": "[011A,0001]カップ",
+    "translation": "[011A,0001]カップ",
+    "index": 30
+  },
+  {
+    "key": "PT_0360_0031",
+    "original": "[011A,0002]カップ",
+    "translation": "[011A,0002]カップ",
+    "index": 31
+  },
+  {
+    "key": "PT_0360_0032",
+    "original": "[011A,0003]カップ",
+    "translation": "[011A,0003]カップ",
+    "index": 32
+  },
+  {
+    "key": "PT_0360_0033",
+    "original": "[011A,0004]カップ",
+    "translation": "[011A,0004]カップ",
+    "index": 33
+  },
+  {
+    "key": "PT_0360_0034",
+    "original": "あずかりシステム",
+    "translation": "あずかりシステム",
+    "index": 34
+  },
+  {
+    "key": "PT_0360_0035",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 35
+  },
+  {
+    "key": "PT_0360_0036",
+    "original": "スイッチをきる",
+    "translation": "スイッチをきる",
+    "index": 36
+  },
+  {
+    "key": "PT_0360_0037",
+    "original": "ふつうに たいせん",
+    "translation": "ふつうに たいせん",
+    "index": 37
+  },
+  {
+    "key": "PT_0360_0038",
+    "original": "ルールブックをつかう",
+    "translation": "ルールブックをつかう",
+    "index": 38
+  },
+  {
+    "key": "PT_0360_0039",
+    "original": "けってい",
+    "translation": "けってい",
+    "index": 39
+  },
+  {
+    "key": "PT_0360_0040",
+    "original": "ルールをみる",
+    "translation": "ルールをみる",
+    "index": 40
+  },
+  {
+    "key": "PT_0360_0041",
+    "original": "はい",
+    "translation": "はい",
+    "index": 41
+  },
+  {
+    "key": "PT_0360_0042",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "index": 42
+  },
+  {
+    "key": "PT_0360_0043",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 43
+  },
+  {
+    "key": "PT_0360_0044",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 44
+  },
+  {
+    "key": "PT_0360_0045",
+    "original": "ほのお",
+    "translation": "ほのお",
+    "index": 45
+  },
+  {
+    "key": "PT_0360_0046",
+    "original": "みず",
+    "translation": "みず",
+    "index": 46
+  },
+  {
+    "key": "PT_0360_0047",
+    "original": "くさ",
+    "translation": "くさ",
+    "index": 47
+  },
+  {
+    "key": "PT_0360_0048",
+    "original": "カード",
+    "translation": "カード",
+    "index": 48
+  },
+  {
+    "key": "PT_0360_0049",
+    "original": "たいせん",
+    "translation": "たいせん",
+    "index": 49
+  },
+  {
+    "key": "PT_0360_0050",
+    "original": "[0103,0000]",
+    "translation": "[0103,0000]",
+    "index": 50
+  },
+  {
+    "key": "PT_0360_0051",
+    "original": "[0103,0001]",
+    "translation": "[0103,0001]",
+    "index": 51
+  },
+  {
+    "key": "PT_0360_0052",
+    "original": "[0103,0002]",
+    "translation": "[0103,0002]",
+    "index": 52
+  },
+  {
+    "key": "PT_0360_0053",
+    "original": "[0103,0003]",
+    "translation": "[0103,0003]",
+    "index": 53
+  },
+  {
+    "key": "PT_0360_0054",
+    "original": "ひりょうをまく",
+    "translation": "ひりょうをまく",
+    "index": 54
+  },
+  {
+    "key": "PT_0360_0055",
+    "original": "きのみをうめる",
+    "translation": "きのみをうめる",
+    "index": 55
+  },
+  {
+    "key": "PT_0360_0056",
+    "original": "おえかき",
+    "translation": "おえかき",
+    "index": 56
+  },
+  {
+    "key": "PT_0360_0057",
+    "original": " ",
+    "translation": " ",
+    "index": 57
+  },
+  {
+    "key": "PT_0360_0058",
+    "original": "だれかのパソコン",
+    "translation": "だれかのパソコン",
+    "index": 58
+  },
+  {
+    "key": "PT_0360_0059",
+    "original": "ミズキのパソコン",
+    "translation": "ミズキのパソコン",
+    "index": 59
+  },
+  {
+    "key": "PT_0360_0060",
+    "original": "[0103,0000]のパソコン",
+    "translation": "[0103,0000]のパソコン",
+    "index": 60
+  },
+  {
+    "key": "PT_0360_0061",
+    "original": "でんどういり",
+    "translation": "でんどういり",
+    "index": 61
+  },
+  {
+    "key": "PT_0360_0062",
+    "original": "オーキドのパソコン",
+    "translation": "オーキドのパソコン",
+    "index": 62
+  },
+  {
+    "key": "PT_0360_0063",
+    "original": "ナナカマドのパソコン",
+    "translation": "ナナカマドのパソコン",
+    "index": 63
+  },
+  {
+    "key": "PT_0360_0064",
+    "original": "スイッチを きる",
+    "translation": "スイッチを きる",
+    "index": 64
+  },
+  {
+    "key": "PT_0360_0065",
+    "original": "ポケモンを あずける",
+    "translation": "ポケモンを あずける",
+    "index": 65
+  },
+  {
+    "key": "PT_0360_0066",
+    "original": "ポケモンを つれていく",
+    "translation": "ポケモンを つれていく",
+    "index": 66
+  },
+  {
+    "key": "PT_0360_0067",
+    "original": "ボックスを せいりする",
+    "translation": "ボックスを せいりする",
+    "index": 67
+  },
+  {
+    "key": "PT_0360_0068",
+    "original": "もちものを せいりする",
+    "translation": "もちものを せいりする",
+    "index": 68
+  },
+  {
+    "key": "PT_0360_0069",
+    "original": "つよさ くらべ",
+    "translation": "つよさ くらべ",
+    "index": 69
+  },
+  {
+    "key": "PT_0360_0070",
+    "original": "さようなら",
+    "translation": "さようなら",
+    "index": 70
+  },
+  {
+    "key": "PT_0360_0071",
+    "original": "メールボックス",
+    "translation": "メールボックス",
+    "index": 71
+  },
+  {
+    "key": "PT_0360_0072",
+    "original": "ボールカプセル",
+    "translation": "ボールカプセル",
+    "index": 72
+  },
+  {
+    "key": "PT_0360_0073",
+    "original": "せつぞくを きる",
+    "translation": "せつぞくを きる",
+    "index": 73
+  },
+  {
+    "key": "PT_0360_0074",
+    "original": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "translation": "てもちの ポケモンを\nボックスに あずけることが できます",
+    "index": 74
+  },
+  {
+    "key": "PT_0360_0075",
+    "original": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "translation": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
+    "index": 75
+  },
+  {
+    "key": "PT_0360_0076",
+    "original": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "translation": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
+    "index": 76
+  },
+  {
+    "key": "PT_0360_0077",
+    "original": "ポケモンが もっている どうぐを\nせいり できます",
+    "translation": "ポケモンが もっている どうぐを\nせいり できます",
+    "index": 77
+  },
+  {
+    "key": "PT_0360_0078",
+    "original": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "translation": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
+    "index": 78
+  },
+  {
+    "key": "PT_0360_0079",
+    "original": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "translation": "ポケモンあずかりシステム への\nつうしんを せつだん します",
+    "index": 79
+  },
+  {
+    "key": "PT_0360_0080",
+    "original": "メールを ２０つう まで\nほぞん することが できます",
+    "translation": "メールを ２０つう まで\nほぞん することが できます",
+    "index": 80
+  },
+  {
+    "key": "PT_0360_0081",
+    "original": "ボールカプセルの\nセットや へんしゅうが できます",
+    "translation": "ボールカプセルの\nセットや へんしゅうが できます",
+    "index": 81
+  },
+  {
+    "key": "PT_0360_0082",
+    "original": "じぶんのパソコン への つうしんを\nせつだん します",
+    "translation": "じぶんのパソコン への つうしんを\nせつだん します",
+    "index": 82
+  },
+  {
+    "key": "PT_0360_0083",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 83
+  },
+  {
+    "key": "PT_0360_0084",
+    "original": "ないようを よむ",
+    "translation": "ないようを よむ",
+    "index": 84
+  },
+  {
+    "key": "PT_0360_0085",
+    "original": "バッグに もどす",
+    "translation": "バッグに もどす",
+    "index": 85
+  },
+  {
+    "key": "PT_0360_0086",
+    "original": "ポケモンに もたせる",
+    "translation": "ポケモンに もたせる",
+    "index": 86
+  },
+  {
+    "key": "PT_0360_0087",
+    "original": "あずける",
+    "translation": "あずける",
+    "index": 87
+  },
+  {
+    "key": "PT_0360_0088",
+    "original": "とりだす",
+    "translation": "とりだす",
+    "index": 88
+  },
+  {
+    "key": "PT_0360_0089",
+    "original": "エリア１",
+    "translation": "エリア１",
+    "index": 89
+  },
+  {
+    "key": "PT_0360_0090",
+    "original": "エリア２",
+    "translation": "エリア２",
+    "index": 90
+  },
+  {
+    "key": "PT_0360_0091",
+    "original": "エリア３",
+    "translation": "エリア３",
+    "index": 91
+  },
+  {
+    "key": "PT_0360_0092",
+    "original": "さんかする",
+    "translation": "さんかする",
+    "index": 92
+  },
+  {
+    "key": "PT_0360_0093",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 93
+  },
+  {
+    "key": "PT_0360_0094",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 94
+  },
+  {
+    "key": "PT_0360_0095",
+    "original": "またのさんかを\nおまちしております",
+    "translation": "またのさんかを\nおまちしております",
+    "index": 95
+  },
+  {
+    "key": "PT_0360_0096",
+    "original": "コンテストのきほん",
+    "translation": "コンテストのきほん",
+    "index": 96
+  },
+  {
+    "key": "PT_0360_0097",
+    "original": "コンテストのしゅるい",
+    "translation": "コンテストのしゅるい",
+    "index": 97
+  },
+  {
+    "key": "PT_0360_0098",
+    "original": "ランクについて",
+    "translation": "ランクについて",
+    "index": 98
+  },
+  {
+    "key": "PT_0360_0099",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 99
+  },
+  {
+    "key": "PT_0360_0100",
+    "original": "コンテストとは？",
+    "translation": "コンテストとは？",
+    "index": 100
+  },
+  {
+    "key": "PT_0360_0101",
+    "original": "ビジュアルぶもん",
+    "translation": "ビジュアルぶもん",
+    "index": 101
+  },
+  {
+    "key": "PT_0360_0102",
+    "original": "ダンスぶもん",
+    "translation": "ダンスぶもん",
+    "index": 102
+  },
+  {
+    "key": "PT_0360_0103",
+    "original": "えんぎぶもん",
+    "translation": "えんぎぶもん",
+    "index": 103
+  },
+  {
+    "key": "PT_0360_0104",
+    "original": "もどる",
+    "translation": "もどる",
+    "index": 104
+  },
+  {
+    "key": "PT_0360_0105",
+    "original": "ノーマルランク",
+    "translation": "ノーマルランク",
+    "index": 105
+  },
+  {
+    "key": "PT_0360_0106",
+    "original": "グレートランク",
+    "translation": "グレートランク",
+    "index": 106
+  },
+  {
+    "key": "PT_0360_0107",
+    "original": "ウルトラランク",
+    "translation": "ウルトラランク",
+    "index": 107
+  },
+  {
+    "key": "PT_0360_0108",
+    "original": "マスターランク",
+    "translation": "マスターランク",
+    "index": 108
+  },
+  {
+    "key": "PT_0360_0109",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 109
+  },
+  {
+    "key": "PT_0360_0110",
+    "original": "かっこよさコンテスト",
+    "translation": "かっこよさコンテスト",
+    "index": 110
+  },
+  {
+    "key": "PT_0360_0111",
+    "original": "うつくしさコンテスト",
+    "translation": "うつくしさコンテスト",
+    "index": 111
+  },
+  {
+    "key": "PT_0360_0112",
+    "original": "かわいさコンテスト",
+    "translation": "かわいさコンテスト",
+    "index": 112
+  },
+  {
+    "key": "PT_0360_0113",
+    "original": "かしこさコンテスト",
+    "translation": "かしこさコンテスト",
+    "index": 113
+  },
+  {
+    "key": "PT_0360_0114",
+    "original": "たくましさコンテスト",
+    "translation": "たくましさコンテスト",
+    "index": 114
+  },
+  {
+    "key": "PT_0360_0115",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 115
+  },
+  {
+    "key": "PT_0360_0116",
+    "original": "１かい",
+    "translation": "１かい",
+    "index": 116
+  },
+  {
+    "key": "PT_0360_0117",
+    "original": "２かい",
+    "translation": "２かい",
+    "index": 117
+  },
+  {
+    "key": "PT_0360_0118",
+    "original": "３かい",
+    "translation": "３かい",
+    "index": 118
+  },
+  {
+    "key": "PT_0360_0119",
+    "original": "４かい",
+    "translation": "４かい",
+    "index": 119
+  },
+  {
+    "key": "PT_0360_0120",
+    "original": "５かい",
+    "translation": "５かい",
+    "index": 120
+  },
+  {
+    "key": "PT_0360_0121",
+    "original": "ちか１かい",
+    "translation": "ちか１かい",
+    "index": 121
+  },
+  {
+    "key": "PT_0360_0122",
+    "original": "ちか２かい",
+    "translation": "ちか２かい",
+    "index": 122
+  },
+  {
+    "key": "PT_0360_0123",
+    "original": "てんぼうしつ",
+    "translation": "てんぼうしつ",
+    "index": 123
+  },
+  {
+    "key": "PT_0360_0124",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 124
+  },
+  {
+    "key": "PT_0360_0125",
+    "original": "５０まい[0203,003C]１０００¥   ",
+    "translation": "５０まい[0203,003C]１０００¥   ",
+    "index": 125
+  },
+  {
+    "key": "PT_0360_0126",
+    "original": "５００まい[0203,003C]１００００¥  ",
+    "translation": "５００まい[0203,003C]１００００¥  ",
+    "index": 126
+  },
+  {
+    "key": "PT_0360_0127",
+    "original": "いらない ",
+    "translation": "いらない ",
+    "index": 127
+  },
+  {
+    "key": "PT_0360_0128",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 128
+  },
+  {
+    "key": "PT_0360_0129",
+    "original": "こうかんを する",
+    "translation": "こうかんを する",
+    "index": 129
+  },
+  {
+    "key": "PT_0360_0130",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 130
+  },
+  {
+    "key": "PT_0360_0131",
+    "original": "ポケモンをあずけるって？",
+    "translation": "ポケモンをあずけるって？",
+    "index": 131
+  },
+  {
+    "key": "PT_0360_0132",
+    "original": "ポケモンをさがすって？",
+    "translation": "ポケモンをさがすって？",
+    "index": 132
+  },
+  {
+    "key": "PT_0360_0133",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 133
+  },
+  {
+    "key": "PT_0360_0134",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 134
+  },
+  {
+    "key": "PT_0360_0135",
+    "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
+    "index": 135
+  },
+  {
+    "key": "PT_0360_0136",
+    "original": "やめる             ",
+    "translation": "やめる             ",
+    "index": 136
+  },
+  {
+    "key": "PT_0360_0137",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 137
+  },
+  {
+    "key": "PT_0360_0138",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 138
+  },
+  {
+    "key": "PT_0360_0139",
+    "original": "ぐるぐる",
+    "translation": "ぐるぐる",
+    "index": 139
+  },
+  {
+    "key": "PT_0360_0140",
+    "original": "レコード",
+    "translation": "レコード",
+    "index": 140
+  },
+  {
+    "key": "PT_0360_0141",
+    "original": "ちょうせんする",
+    "translation": "ちょうせんする",
+    "index": 141
+  },
+  {
+    "key": "PT_0360_0142",
+    "original": "せつめいをきく",
+    "translation": "せつめいをきく",
+    "index": 142
+  },
+  {
+    "key": "PT_0360_0143",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 143
+  },
+  {
+    "key": "PT_0360_0144",
+    "original": "シングル",
+    "translation": "シングル",
+    "index": 144
+  },
+  {
+    "key": "PT_0360_0145",
+    "original": "ダブル",
+    "translation": "ダブル",
+    "index": 145
+  },
+  {
+    "key": "PT_0360_0146",
+    "original": "つづける",
+    "translation": "つづける",
+    "index": 146
+  },
+  {
+    "key": "PT_0360_0147",
+    "original": "やすむ",
+    "translation": "やすむ",
+    "index": 147
+  },
+  {
+    "key": "PT_0360_0148",
+    "original": "リタイア",
+    "translation": "リタイア",
+    "index": 148
+  },
+  {
+    "key": "PT_0360_0149",
+    "original": "リーダーになる",
+    "translation": "リーダーになる",
+    "index": 149
+  },
+  {
+    "key": "PT_0360_0150",
+    "original": "グループにはいる",
+    "translation": "グループにはいる",
+    "index": 150
+  },
+  {
+    "key": "PT_0360_0151",
+    "original": "れきだいリーダーをみる",
+    "translation": "れきだいリーダーをみる",
+    "index": 151
+  },
+  {
+    "key": "PT_0360_0152",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "まえのへやに ちょうせんする",
+    "index": 152
+  },
+  {
+    "key": "PT_0360_0153",
+    "original": "ともだちを とうろくするには？",
+    "translation": "ともだちを とうろくするには？",
+    "index": 153
+  },
+  {
+    "key": "PT_0360_0154",
+    "original": "もう わかった！",
+    "translation": "もう わかった！",
+    "index": 154
+  },
+  {
+    "key": "PT_0360_0155",
+    "original": "もういっかい おしえて！",
+    "translation": "もういっかい おしえて！",
+    "index": 155
+  },
+  {
+    "key": "PT_0360_0156",
+    "original": "ひみつのコハク",
+    "translation": "ひみつのコハク",
+    "index": 156
+  },
+  {
+    "key": "PT_0360_0157",
+    "original": "かいのカセキ",
+    "translation": "かいのカセキ",
+    "index": 157
+  },
+  {
+    "key": "PT_0360_0158",
+    "original": "こうらのカセキ",
+    "translation": "こうらのカセキ",
+    "index": 158
+  },
+  {
+    "key": "PT_0360_0159",
+    "original": "ねっこのカセキ",
+    "translation": "ねっこのカセキ",
+    "index": 159
+  },
+  {
+    "key": "PT_0360_0160",
+    "original": "ツメのカセキ",
+    "translation": "ツメのカセキ",
+    "index": 160
+  },
+  {
+    "key": "PT_0360_0161",
+    "original": "たてのカセキ",
+    "translation": "たてのカセキ",
+    "index": 161
+  },
+  {
+    "key": "PT_0360_0162",
+    "original": "ずがいのカセキ",
+    "translation": "ずがいのカセキ",
+    "index": 162
+  },
+  {
+    "key": "PT_0360_0163",
+    "original": "ふたりで たいせん",
+    "translation": "ふたりで たいせん",
+    "index": 163
+  },
+  {
+    "key": "PT_0360_0164",
+    "original": "４にんで たいせん",
+    "translation": "４にんで たいせん",
+    "index": 164
+  },
+  {
+    "key": "PT_0360_0165",
+    "original": "あいさつ",
+    "translation": "あいさつ",
+    "index": 165
+  },
+  {
+    "key": "PT_0360_0166",
+    "original": "おはなしする",
+    "translation": "おはなしする",
+    "index": 166
+  },
+  {
+    "key": "PT_0360_0167",
+    "original": "チャット",
+    "translation": "チャット",
+    "index": 167
+  },
+  {
+    "key": "PT_0360_0168",
+    "original": "[0108,0000][0203,0060][0136,0001]",
+    "translation": "[0108,0000][0203,0060][0136,0001]",
+    "index": 168
+  },
+  {
+    "key": "PT_0360_0169",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 169
+  },
+  {
+    "key": "PT_0360_0170",
+    "original": "わざマシン２４   ４０００まい ",
+    "translation": "わざマシン２４   ４０００まい ",
+    "index": 170
+  },
+  {
+    "key": "PT_0360_0171",
+    "original": "わざマシン３０   ４５００まい ",
+    "translation": "わざマシン３０   ４５００まい ",
+    "index": 171
+  },
+  {
+    "key": "PT_0360_0172",
+    "original": "わざマシン３５   ４０００まい ",
+    "translation": "わざマシン３５   ４０００まい ",
+    "index": 172
+  },
+  {
+    "key": "PT_0360_0173",
+    "original": "いらない",
+    "translation": "いらない",
+    "index": 173
+  },
+  {
+    "key": "PT_0360_0174",
+    "original": "みぎ",
+    "translation": "みぎ",
+    "index": 174
+  },
+  {
+    "key": "PT_0360_0175",
+    "original": "ひだり",
+    "translation": "ひだり",
+    "index": 175
+  },
+  {
+    "key": "PT_0360_0176",
+    "original": "ビジュアル",
+    "translation": "ビジュアル",
+    "index": 176
+  },
+  {
+    "key": "PT_0360_0177",
+    "original": "ダンス",
+    "translation": "ダンス",
+    "index": 177
+  },
+  {
+    "key": "PT_0360_0178",
+    "original": "えんぎ",
+    "translation": "えんぎ",
+    "index": 178
+  },
+  {
+    "key": "PT_0360_0179",
+    "original": "れんしゅうって？",
+    "translation": "れんしゅうって？",
+    "index": 179
+  },
+  {
+    "key": "PT_0360_0180",
+    "original": "ハタ",
+    "translation": "ハタ",
+    "index": 180
+  },
+  {
+    "key": "PT_0360_0181",
+    "original": "タマ",
+    "translation": "タマ",
+    "index": 181
+  },
+  {
+    "key": "PT_0360_0182",
+    "original": "トラップ",
+    "translation": "トラップ",
+    "index": 182
+  },
+  {
+    "key": "PT_0360_0183",
+    "original": "グッズ",
+    "translation": "グッズ",
+    "index": 183
+  },
+  {
+    "key": "PT_0360_0184",
+    "original": "たから",
+    "translation": "たから",
+    "index": 184
+  },
+  {
+    "key": "PT_0360_0185",
+    "original": "まえのへやに ちょうせんする",
+    "translation": "まえのへやに ちょうせんする",
+    "index": 185
+  },
+  {
+    "key": "PT_0360_0186",
+    "original": "エリア１",
+    "translation": "エリア１",
+    "index": 186
+  },
+  {
+    "key": "PT_0360_0187",
+    "original": "エリア２",
+    "translation": "エリア２",
+    "index": 187
+  },
+  {
+    "key": "PT_0360_0188",
+    "original": "エリア３",
+    "translation": "エリア３",
+    "index": 188
+  },
+  {
+    "key": "PT_0360_0189",
+    "original": "エリア４",
+    "translation": "エリア４",
+    "index": 189
+  },
+  {
+    "key": "PT_0360_0190",
+    "original": "エリア５",
+    "translation": "エリア５",
+    "index": 190
+  },
+  {
+    "key": "PT_0360_0191",
+    "original": "エリア６",
+    "translation": "エリア６",
+    "index": 191
+  },
+  {
+    "key": "PT_0360_0192",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 192
+  },
+  {
+    "key": "PT_0360_0193",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 193
+  },
+  {
+    "key": "PT_0360_0194",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 194
+  },
+  {
+    "key": "PT_0360_0195",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 195
+  },
+  {
+    "key": "PT_0360_0196",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 196
+  },
+  {
+    "key": "PT_0360_0197",
+    "original": "[0136,0000]まい",
+    "translation": "[0136,0000]まい",
+    "index": 197
+  },
+  {
+    "key": "PT_0360_0198",
+    "original": "きほんルール",
+    "translation": "きほんルール",
+    "index": 198
+  },
+  {
+    "key": "PT_0360_0199",
+    "original": "ほかくショー",
+    "translation": "ほかくショー",
+    "index": 199
+  },
+  {
+    "key": "PT_0360_0200",
+    "original": "あずけかた",
+    "translation": "あずけかた",
+    "index": 200
+  },
+  {
+    "key": "PT_0360_0201",
+    "original": "あずけかた２",
+    "translation": "あずけかた２",
+    "index": 201
+  },
+  {
+    "key": "PT_0360_0202",
+    "original": "もうわかった！",
+    "translation": "もうわかった！",
+    "index": 202
+  },
+  {
+    "key": "PT_0360_0203",
+    "original": "さんか する",
+    "translation": "さんか する",
+    "index": 203
+  },
+  {
+    "key": "PT_0360_0204",
+    "original": "せつめいを きく",
+    "translation": "せつめいを きく",
+    "index": 204
+  },
+  {
+    "key": "PT_0360_0205",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 205
+  },
+  {
+    "key": "PT_0360_0206",
+    "original": "ポケモンをえらぶ",
+    "translation": "ポケモンをえらぶ",
+    "index": 206
+  },
+  {
+    "key": "PT_0360_0207",
+    "original": "せつめい",
+    "translation": "せつめい",
+    "index": 207
+  },
+  {
+    "key": "PT_0360_0208",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 208
+  },
+  {
+    "key": "PT_0360_0209",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 209
+  },
+  {
+    "key": "PT_0360_0210",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 210
+  },
+  {
+    "key": "PT_0360_0211",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 211
+  },
+  {
+    "key": "PT_0360_0212",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 212
+  },
+  {
+    "key": "PT_0360_0213",
+    "original": "こうてつじま",
+    "translation": "こうてつじま",
+    "index": 213
+  },
+  {
+    "key": "PT_0360_0214",
+    "original": "まんげつじま",
+    "translation": "まんげつじま",
+    "index": 214
+  },
+  {
+    "key": "PT_0360_0215",
+    "original": "しんげつじま",
+    "translation": "しんげつじま",
+    "index": 215
+  },
+  {
+    "key": "PT_0360_0216",
+    "original": "ファイトエリア",
+    "translation": "ファイトエリア",
+    "index": 216
+  },
+  {
+    "key": "PT_0360_0217",
+    "original": "キッサキシティ",
+    "translation": "キッサキシティ",
+    "index": 217
+  },
+  {
+    "key": "PT_0360_0218",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 218
+  },
+  {
+    "key": "PT_0360_0219",
+    "original": "おいしいみず[0203,0050]２００¥",
+    "translation": "おいしいみず[0203,0050]２００¥",
+    "index": 219
+  },
+  {
+    "key": "PT_0360_0220",
+    "original": "サイコソーダ[0203,0050]３００¥",
+    "translation": "サイコソーダ[0203,0050]３００¥",
+    "index": 220
+  },
+  {
+    "key": "PT_0360_0221",
+    "original": "ミックスオレ[0203,0050]３５０¥",
+    "translation": "ミックスオレ[0203,0050]３５０¥",
+    "index": 221
+  },
+  {
+    "key": "PT_0360_0222",
+    "original": "いらない         ",
+    "translation": "いらない         ",
+    "index": 222
+  },
+  {
+    "key": "PT_0360_0223",
+    "original": "すくすくこやし[0203,005A]２００¥",
+    "translation": "すくすくこやし[0203,005A]２００¥",
+    "index": 223
+  },
+  {
+    "key": "PT_0360_0224",
+    "original": "じめじめこやし[0203,005A]２００¥",
+    "translation": "じめじめこやし[0203,005A]２００¥",
+    "index": 224
+  },
+  {
+    "key": "PT_0360_0225",
+    "original": "ながながこやし[0203,005A]２００¥",
+    "translation": "ながながこやし[0203,005A]２００¥",
+    "index": 225
+  },
+  {
+    "key": "PT_0360_0226",
+    "original": "ねばねばこやし[0203,005A]２００¥",
+    "translation": "ねばねばこやし[0203,005A]２００¥",
+    "index": 226
+  },
+  {
+    "key": "PT_0360_0227",
+    "original": "やめる            ",
+    "translation": "やめる            ",
+    "index": 227
+  },
+  {
+    "key": "PT_0360_0228",
+    "original": "なんでもない",
+    "translation": "なんでもない",
+    "index": 228
+  },
+  {
+    "key": "PT_0360_0229",
+    "original": "おすすめは？",
+    "translation": "おすすめは？",
+    "index": 229
+  },
+  {
+    "key": "PT_0360_0230",
+    "original": "[0135,0000]ＢＰ",
+    "translation": "[0135,0000]ＢＰ",
+    "index": 230
+  },
+  {
+    "key": "PT_0360_0231",
+    "original": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "translation": "[0108,0000][0203,0060][0134,0001]ＢＰ",
+    "index": 231
+  },
+  {
+    "key": "PT_0360_0232",
+    "original": "いらない            ",
+    "translation": "いらない            ",
+    "index": 232
+  },
+  {
+    "key": "PT_0360_0233",
+    "original": "デジタルどけい",
+    "translation": "デジタルどけい",
+    "index": 233
+  },
+  {
+    "key": "PT_0360_0234",
+    "original": "ストップウォッチ",
+    "translation": "ストップウォッチ",
+    "index": 234
+  },
+  {
+    "key": "PT_0360_0235",
+    "original": "けいさんき",
+    "translation": "けいさんき",
+    "index": 235
+  },
+  {
+    "key": "PT_0360_0236",
+    "original": "メモようし",
+    "translation": "メモようし",
+    "index": 236
+  },
+  {
+    "key": "PT_0360_0237",
+    "original": "アナログどけい",
+    "translation": "アナログどけい",
+    "index": 237
+  },
+  {
+    "key": "PT_0360_0238",
+    "original": "ドットアート",
+    "translation": "ドットアート",
+    "index": 238
+  },
+  {
+    "key": "PT_0360_0239",
+    "original": "ポケモンリスト",
+    "translation": "ポケモンリスト",
+    "index": 239
+  },
+  {
+    "key": "PT_0360_0240",
+    "original": "なつきチェッカー",
+    "translation": "なつきチェッカー",
+    "index": 240
+  },
+  {
+    "key": "PT_0360_0241",
+    "original": "ダウジングマシン",
+    "translation": "ダウジングマシン",
+    "index": 241
+  },
+  {
+    "key": "PT_0360_0242",
+    "original": "カウンター",
+    "translation": "カウンター",
+    "index": 242
+  },
+  {
+    "key": "PT_0360_0243",
+    "original": "ほすうカウンター",
+    "translation": "ほすうカウンター",
+    "index": 243
+  },
+  {
+    "key": "PT_0360_0244",
+    "original": "そだてやチェッカー",
+    "translation": "そだてやチェッカー",
+    "index": 244
+  },
+  {
+    "key": "PT_0360_0245",
+    "original": "ルーレット",
+    "translation": "ルーレット",
+    "index": 245
+  },
+  {
+    "key": "PT_0360_0246",
+    "original": "コイントス",
+    "translation": "コイントス",
+    "index": 246
+  },
+  {
+    "key": "PT_0360_0247",
+    "original": "わざこうかチェッカー",
+    "translation": "わざこうかチェッカー",
+    "index": 247
+  },
+  {
+    "key": "PT_0360_0248",
+    "original": "あいしょうチェッカー",
+    "translation": "あいしょうチェッカー",
+    "index": 248
+  },
+  {
+    "key": "PT_0360_0249",
+    "original": "アラームどけい",
+    "translation": "アラームどけい",
+    "index": 249
+  },
+  {
+    "key": "PT_0360_0250",
+    "original": "キッチンタイマー",
+    "translation": "キッチンタイマー",
+    "index": 250
+  },
+  {
+    "key": "PT_0360_0251",
+    "original": "マーキングマップ",
+    "translation": "マーキングマップ",
+    "index": 251
+  },
+  {
+    "key": "PT_0360_0252",
+    "original": "きのみサーチャー",
+    "translation": "きのみサーチャー",
+    "index": 252
+  },
+  {
+    "key": "PT_0360_0253",
+    "original": "カラーチェンジャー",
+    "translation": "カラーチェンジャー",
+    "index": 253
+  },
+  {
+    "key": "PT_0360_0254",
+    "original": "カレンダー",
+    "translation": "カレンダー",
+    "index": 254
+  },
+  {
+    "key": "PT_0360_0255",
+    "original": "つうしんサーチャー",
+    "translation": "つうしんサーチャー",
+    "index": 255
+  },
+  {
+    "key": "PT_0360_0256",
+    "original": "ポケトレカウンター",
+    "translation": "ポケトレカウンター",
+    "index": 256
+  },
+  {
+    "key": "PT_0360_0257",
+    "original": "ポケモンヒストリー",
+    "translation": "ポケモンヒストリー",
+    "index": 257
+  },
+  {
+    "key": "PT_0360_0258",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 258
+  },
+  {
+    "key": "PT_0360_0259",
+    "original": "その１",
+    "translation": "その１",
+    "index": 259
+  },
+  {
+    "key": "PT_0360_0260",
+    "original": "その２",
+    "translation": "その２",
+    "index": 260
+  },
+  {
+    "key": "PT_0360_0261",
+    "original": "その３",
+    "translation": "その３",
+    "index": 261
+  },
+  {
+    "key": "PT_0360_0262",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 262
+  },
+  {
+    "key": "PT_0360_0263",
+    "original": "ダークボール",
+    "translation": "ダークボール",
+    "index": 263
+  },
+  {
+    "key": "PT_0360_0264",
+    "original": "ヒールボール",
+    "translation": "ヒールボール",
+    "index": 264
+  },
+  {
+    "key": "PT_0360_0265",
+    "original": "クイックボール",
+    "translation": "クイックボール",
+    "index": 265
+  },
+  {
+    "key": "PT_0360_0266",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 266
+  },
+  {
+    "key": "PT_0360_0267",
+    "original": "ダイブボール",
+    "translation": "ダイブボール",
+    "index": 267
+  },
+  {
+    "key": "PT_0360_0268",
+    "original": "うちゅうのはじまり",
+    "translation": "うちゅうのはじまり",
+    "index": 268
+  },
+  {
+    "key": "PT_0360_0269",
+    "original": "しんわのポケモン",
+    "translation": "しんわのポケモン",
+    "index": 269
+  },
+  {
+    "key": "PT_0360_0270",
+    "original": "あかいくさり",
+    "translation": "あかいくさり",
+    "index": 270
+  },
+  {
+    "key": "PT_0360_0271",
+    "original": "やめる",
+    "translation": "やめる",
+    "index": 271
+  },
+  {
+    "key": "PT_0360_0272",
+    "original": "きろくする",
+    "translation": "きろくする",
+    "index": 272
+  },
+  {
+    "key": "PT_0360_0273",
+    "original": "あかいかけら",
+    "translation": "あかいかけら",
+    "index": 273
+  },
+  {
+    "key": "PT_0360_0274",
+    "original": "あおいかけら",
+    "translation": "あおいかけら",
+    "index": 274
+  },
+  {
+    "key": "PT_0360_0275",
+    "original": "きいろいかけら",
+    "translation": "きいろいかけら",
+    "index": 275
+  },
+  {
+    "key": "PT_0360_0276",
+    "original": "みどりのかけら",
+    "translation": "みどりのかけら",
+    "index": 276
+  },
+  {
+    "key": "PT_0360_0277",
+    "original": "[0134,0000]こ",
+    "translation": "[0134,0000]こ",
+    "index": 277
+  },
+  {
+    "key": "PT_0360_0278",
+    "original": "１こ",
+    "translation": "１こ",
+    "index": 278
+  },
+  {
+    "key": "PT_0360_0279",
+    "original": "１０こ",
+    "translation": "１０こ",
+    "index": 279
+  }
+]
