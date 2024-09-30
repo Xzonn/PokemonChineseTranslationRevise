@@ -51,6 +51,7 @@ jobs:
         with:
           name: binaries
           if-no-files-found: error
+          retention-days: 1
           path: |
             out/
 
