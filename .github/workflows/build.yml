@@ -104,7 +104,7 @@ jobs:
           {
             dotnet tool install -g dotnet-script
           }
-      - name: Prepare messages abd textures
+      - name: Prepare messages and textures
         run: |
           python scripts/merge_messages.py
           dotnet script scripts/copy_textures.csx

@@ -16,6 +16,6 @@ Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force
 Move-Item out/Patch-D.zip out/Patch-D.xzp -Force
 
 # Create patch for Pearl
-dotnet script sripts/copy_narc.csx "out/D/data/" "out/P/data/"
+dotnet script scripts/copy_narc.csx "out/D/data/" "out/P/data/"
 Compress-Archive -Path "out/P/*" -DestinationPath "out/Patch-P.zip" -Force
 Move-Item out/Patch-P.zip out/Patch-P.xzp -Force
