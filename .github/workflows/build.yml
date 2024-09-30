@@ -15,7 +15,7 @@ jobs:
   compile-binaries:
     runs-on: ubuntu-latest
     container:
-      image: devkitpro/devkitarm:latest
+      image: xzonn/devkitarm:latest
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,18 +23,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '8.0.x'
-      - name: Install dotnet script
-        run: |
-          dotnet tool install -g dotnet-script
-      - name: Get tools commit id
-        id: get-tools-commit-id
-        run: |
-          pushd tools/
-          echo "id=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
-          popd
       - name: Merge messages
         run: |
           python scripts/merge_messages.py
@@ -43,19 +31,19 @@ jobs:
       - name: Diamond and Pearl
         continue-on-error: true
         run: |
-          dotnet script scripts/DP.csx
+          dotnet-script scripts/DP.csx
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Platinum
         continue-on-error: true
         run: |
-          dotnet script scripts/Pt.csx
+          dotnet-script scripts/Pt.csx
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Heart Gold and Soul Silver
         continue-on-error: true
         run: |
-          dotnet script scripts/HGSS.csx
+          dotnet-script scripts/HGSS.csx
         env:
           XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Upload artifacts
