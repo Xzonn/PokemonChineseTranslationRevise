@@ -117,15 +117,3 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Copy md5.txt
   File.Copy($"original_files/HGSS/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
 }
-
-CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/HGSS/a/0/0/8/");
-File.Delete("textures/HGSS/a/0/0/8/0077.bin");
-for (int from = 155; from <= 177; from++)
-{
-  MoveFile($"textures/HGSS/a/0/0/8/{from:d04}.bin", $"textures/HGSS/a/0/0/8/{from + 64:d04}.bin");
-}
-
-CopyFolder("textures/DP/graphic/pst_gra.narc/", "textures/HGSS/a/0/3/9/");
-CopyFolder("textures/DP/graphic/zukan.narc/", "textures/HGSS/a/0/6/7/");
-
-// CopyFile("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/0013.bin", "textures/HGSS/a/0/7/4/0013.bin");

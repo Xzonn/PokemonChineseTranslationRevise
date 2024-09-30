@@ -104,9 +104,10 @@ jobs:
           {
             dotnet tool install -g dotnet-script
           }
-      - name: Merge messages
+      - name: Prepare messages abd textures
         run: |
           python scripts/merge_messages.py
+          dotnet script scripts/copy_textures.csx
         env:
           PYTHONUTF8: 1
       - name: Diamond and Pearl
