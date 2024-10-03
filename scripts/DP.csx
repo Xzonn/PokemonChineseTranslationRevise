@@ -58,7 +58,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
   Array.Copy(conversion_table_quote, 0, arm9, 0x016574, conversion_table_quote.Length);
   // conversion table change for space(0x00) trans
-  EditBinary(ref arm9, (uint)(gameCode == "D" ? 0x0EF7D4 : 0x0EF7D8), "DE 01");
+  EditBinary(ref arm9, (uint)(gameCode == "D" ? 0x0EF7D6 : 0x0EF7DA), "DE 01");
   // chinese trans core code
   var rs_migrate_string = (gameCode == "D")
       ? File.ReadAllBytes("files/gen3_to_gen4_chinese_char/D_arm9_0x0164C0.bin")
