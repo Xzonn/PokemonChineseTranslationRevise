@@ -58,7 +58,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
   Array.Copy(conversion_table_quote, 0, arm9, 0x016574, conversion_table_quote.Length);
   // conversion table change for space(0x00) trans
-  EditBinary(ref arm9, (uint)(gameCode == "D" ? 0x0EF7D6 : 0x0EF7DA), "DE 01");
+  EditBinary(ref arm9, (gameCode == "D" ? 0x0EF7D6 : 0x0EF7DA), "DE 01");
   // chinese trans core code
   var rs_migrate_string = (gameCode == "D")
       ? File.ReadAllBytes("files/gen3_to_gen4_chinese_char/D_arm9_0x0164C0.bin")
@@ -98,7 +98,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Edit overlay_0083.bin
   var overlay_0083 = File.ReadAllBytes($"original_files/DP/{gameCode}/overlay/overlay_0083.bin");
   var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
-  var overlay_0083_expand = new byte[overlay_0083.Length + 0x1980 + conversion_table_chinese.Length]
+  var overlay_0083_expand = new byte[overlay_0083.Length + 0x1980 + conversion_table_chinese.Length];
   Array.Copy(overlay_0083, 0, overlay_0083_expand, 0, overlay_0083.Length);
   Array.Copy(conversion_table_chinese, 0, overlay_0083_expand, overlay_0083.Length + 0x1980, conversion_table_chinese.Length);
 

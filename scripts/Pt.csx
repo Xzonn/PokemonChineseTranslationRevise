@@ -104,7 +104,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Edit overlay_0097.bin
   var overlay_0097 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overlay/overlay_0097.bin");
   var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
-  var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length]
+  var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length];
   Array.Copy(overlay_0097, 0, overlay_0097_expand, 0, overlay_0097.Length);
   // chinese from gen3 to gen4
   // conversion table for chinese
