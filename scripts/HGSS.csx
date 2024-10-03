@@ -89,6 +89,31 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0065.bin", BLZ.Compress(overlay_0065));
   Console.WriteLine($"Edited: overlay_0065.bin");
 
+  // Decopress and Edit overlay_0074.bin
+  var overlay_0074 = BLZ.Decompress(File.ReadAllBytes($"original_files/HGSS/{gameCode}/overlay/overlay_0074.bin"));
+  var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
+  var overlay_0074_expand = new byte[overlay_0074.Length + 0x1980 + conversion_table_chinese.Length]
+  Array.Copy(overlay_0074, 0, overlay_0074_expand, 0, overlay_0074.Length);
+  // chinese from gen3 to gen4
+  // conversion table for chinese
+  Array.Copy(conversion_table_chinese, 0, overlay_0074_expand, overlay_0074.Length + 0x1980, conversion_table_chinese.Length);
+  // Remove language restrictions
+  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
+  EditBinary(ref overlay_0074_expand, 0x0638, "FF D1");
+  // quote trans redirect
+  var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
+  Array.Copy(conversion_table_quote, 0, overlay_0074_expand, (uint)(gameCode == "HG" ? 0xFF9C : 0xFFA0), conversion_table_quote.Length);
+  // conversion table change for space(0x00) trans
+  EditBinary(ref overlay_0074_expand, (uint)(gameCode == "HG" ? 0x010E8E : 0x010E92), "DE 01");
+  // chinese trans core code
+  var rs_migrate_string = (gameCode == "HG")
+      ? File.ReadAllBytes("files/gen3_to_gen4_chinese_char/HG_overlay_0074_0x010010.bin")
+      : File.ReadAllBytes("files/gen3_to_gen4_chinese_char/SS_overlay_0074_0x010014.bin");
+  Array.Copy(rs_migrate_string, 0, overlay_0074_expand, (uint)(gameCode == "HG" ? 0x010010 : 0x010014), rs_migrate_string.Length);
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0074.bin", BLZ.Compress(overlay_0074_expand));
+  Console.WriteLine($"Edited: overlay_0074.bin");
+
   // Decopress and Edit overlay_0112.bin
   var overlay_0112 = BLZ.Decompress(File.ReadAllBytes($"original_files/HGSS/{gameCode}/overlay/overlay_0112.bin"));
 
