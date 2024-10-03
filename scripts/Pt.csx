@@ -120,7 +120,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // conversion table change for space(0x00) trans
   EditBinary(ref overlay_0097_expand, 0xF44E, "DE 01");
   // chinese trans core code
-  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/Pt_overlay_0097_0xE5FC.bin")
+  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/Pt_overlay_0097_0xE5FC.bin");
   Array.Copy(rs_migrate_string, 0, overlay_0097_expand, 0xE5FC, rs_migrate_string.Length);
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0097.bin", overlay_0097_expand);
