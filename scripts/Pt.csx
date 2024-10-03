@@ -101,6 +101,31 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0094.bin", overlay_0094);
   Console.WriteLine($"Edited: overlay_0094.bin");
 
+  // Edit overlay_0097.bin
+  var overlay_0097 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overlay/overlay_0097.bin");
+  var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
+  var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length]
+  Array.Copy(overlay_0097, 0, overlay_0097_expand, 0, overlay_0097.Length);
+  // chinese from gen3 to gen4
+  // conversion table for chinese
+  Array.Copy(conversion_table_chinese, 0, overlay_0097_expand, overlay_0097.Length + 0x1980, conversion_table_chinese.Length);
+  // Remove language restrictions
+  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
+  EditBinary(ref overlay_0097_expand, 0x0118, "FF D1");
+  // Remove 24 hour restrictions
+  EditBinary(ref overlay_0097_expand, 0xA6CC, "1E E0");
+  // quote trans redirect
+  var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
+  Array.Copy(conversion_table_quote, 0, overlay_0097_expand, 0xE588, conversion_table_quote.Length);
+  // conversion table change for space(0x00) trans
+  EditBinary(ref overlay_0097_expand, 0xF44E, "DE 01");
+  // chinese trans core code
+  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/Pt_overlay_0097_0xE5FC.bin")
+  Array.Copy(rs_migrate_string, 0, overlay_0097_expand, 0xE5FC, rs_migrate_string.Length);
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0097.bin", overlay_0097_expand);
+  Console.WriteLine($"Edited: overlay_0097.bin");
+
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt
