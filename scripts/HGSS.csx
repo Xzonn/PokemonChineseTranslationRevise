@@ -139,6 +139,16 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0122.bin", BLZ.Compress(overlay_0122));
   Console.WriteLine($"Edited: overlay_0122.bin");
 
+  // Edit overarm9.bin
+  var overarm9 = File.ReadAllBytes($"original_files/HGSS/{gameCode}/overarm9.bin");
+
+  // Expand overlay_0074
+  EditBinary(ref overarm9, 74*0x20+8, BitConverter.GetBytes((uint)overlay_0074_expand.Length));
+  EditBinary(ref overarm9, 74*0x20+0x1C, BitConverter.GetBytes((uint)(BLZ.Compress(overlay_0074_expand).Length|(1<<24))));
+
+  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9);
+  Console.WriteLine($"Edited: overarm9.bin");
+
   EditBanner("HGSS", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt
