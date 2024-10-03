@@ -7,7 +7,6 @@ DIR_TEXTS = "texts"
 DIR_TEMP = "temp"
 
 PATH_CHAR_TABLE = "files/CharTable.txt"
-PATH_CHAR_TABLE_3TO4 = "files/CharTable_3to4.bin"
 
 
 class GameInfo(TypedDict):

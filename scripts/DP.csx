@@ -53,6 +53,18 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var aikotobaList = SortEasyChatWords(ref arm9, (uint)(gameCode == "D" ? 0x1001b4 : 0x1001b8), easyChatWords.ToArray());
   if (gameCode == "D") { File.WriteAllLines($"out/Aikotoba-DP.txt", aikotobaList); }
 
+  // chinese from gen3 to gen4
+  // quote trans redirect
+  var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
+  Array.Copy(conversion_table_quote, 0, arm9, 0x016574, conversion_table_quote.Length);
+  // conversion table change for space(0x00) trans
+  EditBinary(ref arm9, (uint)(gameCode == "D" ? 0x0EF7D4 : 0x0EF7D8), "DE 01");
+  // chinese trans core code
+  var rs_migrate_string = (gameCode == "D")
+      ? File.ReadAllBytes("files/gen3_to_gen4_chinese_char/D_arm9_0x0164C0.bin")
+      : File.ReadAllBytes("files/gen3_to_gen4_chinese_char/P_arm9_0x0164C0.bin");
+  Array.Copy(rs_migrate_string, 0, arm9, 0x0164C0, rs_migrate_string.Length);
+
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");
 
@@ -85,12 +97,18 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   // Edit overlay_0083.bin
   var overlay_0083 = File.ReadAllBytes($"original_files/DP/{gameCode}/overlay/overlay_0083.bin");
+  var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
+  var overlay_0083_expand = new byte[overlay_0083.Length + 0x1980 + conversion_table_chinese.Length]
+  Array.Copy(overlay_0083, 0, overlay_0083_expand, 0, overlay_0083.Length);
+  Array.Copy(conversion_table_chinese, 0, overlay_0083_expand, overlay_0083.Length + 0x1980, conversion_table_chinese.Length);
 
   // Remove language restrictions
   // Ref: https://bbs.oldmantvg.net/thread-31283.htm
-  EditBinary(ref overlay_0083, 0x00129A, "FF D1");
+  EditBinary(ref overlay_0083_expand, 0x00129A, "FF D1");
+  // Remove 24 hour restrictions
+  EditBinary(ref overlay_0083_expand, 0x00839C, "1E E0");
 
-  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0083.bin", overlay_0083);
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0083.bin", overlay_0083_expand);
   Console.WriteLine($"Edited: overlay_0083.bin");
 
   EditBanner("DP", gameCode, GAME_CODE_TO_TITLE[gameCode]);
