@@ -144,7 +144,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   // Expand overlay_0074
   Array.Copy(BitConverter.GetBytes((uint)overlay_0074_expand.Length), 0, overarm9, 74*0x20+8, 4);
-  Array.Copy(BitConverter.GetBytes((uint)(BLZ.Compress(overlay_0074_expand).Length|(1<<24))), 0, overarm9, 74*0x20+8, 4);
+  Array.Copy(BitConverter.GetBytes((uint)(BLZ.Compress(overlay_0074_expand).Length|(1<<24))), 0, overarm9, 74*0x20+0x1C, 4);
 
   File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9);
   Console.WriteLine($"Edited: overarm9.bin");
