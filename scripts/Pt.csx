@@ -106,7 +106,9 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
   var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length];
   Array.Copy(overlay_0097, 0, overlay_0097_expand, 0, overlay_0097.Length);
+
   // chinese from gen3 to gen4
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/Pt/patch.asm
   // conversion table for chinese
   Array.Copy(conversion_table_chinese, 0, overlay_0097_expand, overlay_0097.Length + 0x1980, conversion_table_chinese.Length);
   // Remove language restrictions
@@ -120,7 +122,9 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // conversion table change for space(0x00) trans
   EditBinary(ref overlay_0097_expand, 0xF44E, "DE 01");
   // chinese trans core code
-  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/Pt_overlay_0097_0xE5FC.bin");
+  // var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/Pt_overlay_0097_0xE5FC.bin");
+  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/rs_migrate_string.bin");
+  EditBinary(ref rs_migrate_string, 0xA4, "AC 96 23 02 E8 87 23 02 40 C6 23 02");
   Array.Copy(rs_migrate_string, 0, overlay_0097_expand, 0xE5FC, rs_migrate_string.Length);
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0097.bin", overlay_0097_expand);

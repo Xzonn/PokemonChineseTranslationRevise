@@ -54,15 +54,19 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   if (gameCode == "D") { File.WriteAllLines($"out/Aikotoba-DP.txt", aikotobaList); }
 
   // chinese from gen3 to gen4
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/D/patch.asm
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/P/patch.asm
   // quote trans redirect
   var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
   Array.Copy(conversion_table_quote, 0, arm9, 0x016574, conversion_table_quote.Length);
   // conversion table change for space(0x00) trans
   EditBinary(ref arm9, (gameCode == "D" ? 0x0EF7D6 : 0x0EF7DA), "DE 01");
   // chinese trans core code
-  var rs_migrate_string = (gameCode == "D")
+  /*var rs_migrate_string = (gameCode == "D")
       ? File.ReadAllBytes("files/gen3_to_gen4_chinese_char/D_arm9_0x0164C0.bin")
-      : File.ReadAllBytes("files/gen3_to_gen4_chinese_char/P_arm9_0x0164C0.bin");
+      : File.ReadAllBytes("files/gen3_to_gen4_chinese_char/P_arm9_0x0164C0.bin");*/
+  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/rs_migrate_string.bin");
+  EditBinary(ref rs_migrate_string, 0xA4, (gameCode == "D" ? "D4 F7 0E 02 74 65 01 02 00 06 24 02" : "D8 F7 0E 02 74 65 01 02 00 06 24 02"));
   Array.Copy(rs_migrate_string, 0, arm9, 0x0164C0, rs_migrate_string.Length);
 
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
@@ -100,8 +104,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
   var overlay_0083_expand = new byte[overlay_0083.Length + 0x1980 + conversion_table_chinese.Length];
   Array.Copy(overlay_0083, 0, overlay_0083_expand, 0, overlay_0083.Length);
-  Array.Copy(conversion_table_chinese, 0, overlay_0083_expand, overlay_0083.Length + 0x1980, conversion_table_chinese.Length);
 
+  // chinese from gen3 to gen4
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/D/patch.asm
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/P/patch.asm
+  // conversion table for chinese
+  Array.Copy(conversion_table_chinese, 0, overlay_0083_expand, overlay_0083.Length + 0x1980, conversion_table_chinese.Length);
   // Remove language restrictions
   // Ref: https://bbs.oldmantvg.net/thread-31283.htm
   EditBinary(ref overlay_0083_expand, 0x00129A, "FF D1");
