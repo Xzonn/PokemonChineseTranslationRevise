@@ -145,7 +145,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Edit overarm9.bin
   var overarm9 = File.ReadAllBytes($"original_files/HGSS/{gameCode}/overarm9.bin");
 
-  // Expand overlay_0074
+  // update ram size and compressed size for overlay_0074 expand
   Array.Copy(BitConverter.GetBytes((uint)overlay_0074_expand.Length), 0, overarm9, 74*0x20+8, 4);
   Array.Copy(BitConverter.GetBytes((uint)(BLZ.Compress(overlay_0074_expand).Length|(1<<24))), 0, overarm9, 74*0x20+0x1C, 4);
 

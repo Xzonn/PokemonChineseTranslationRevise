@@ -133,7 +133,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   // Edit overarm9.bin
   var overarm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overarm9.bin");
 
-  // Expand overlay_0097
+  // update ram size for overlay_0097 expand
   Array.Copy(BitConverter.GetBytes((uint)overlay_0097_expand.Length), 0, overarm9, 97*0x20+8, 4);
 
   File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9);
