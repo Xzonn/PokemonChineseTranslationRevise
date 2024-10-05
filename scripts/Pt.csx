@@ -7,11 +7,6 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
   ["Pt"] = "宝可梦 白金\nNintendo",
 };
 
-var text = File.ReadAllText("temp/Pt/messages.txt");
-var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
-text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
-File.WriteAllText("temp/Pt/messages.txt", text);
-
 var messages = LoadMessages("temp/Pt/messages.txt");
 var easyChatWordsIds = new int[] {
   408, // monsname

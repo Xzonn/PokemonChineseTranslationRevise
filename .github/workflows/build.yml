@@ -28,24 +28,19 @@ jobs:
           python scripts/merge_messages.py
         env:
           PYTHONUTF8: 1
+          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Diamond and Pearl
         continue-on-error: true
         run: |
           dotnet-script scripts/DP.csx
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Platinum
         continue-on-error: true
         run: |
           dotnet-script scripts/Pt.csx
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Heart Gold and Soul Silver
         continue-on-error: true
         run: |
           dotnet-script scripts/HGSS.csx
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -110,24 +105,19 @@ jobs:
           dotnet script scripts/copy_textures.csx
         env:
           PYTHONUTF8: 1
+          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Diamond and Pearl
         continue-on-error: true
         run: |
           scripts/DP.ps1
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Platinum
         continue-on-error: true
         run: |
           scripts/Pt.ps1
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Heart Gold and Soul Silver
         continue-on-error: true
         run: |
           scripts/HGSS.ps1
-        env:
-          XZ_PATCH_VERSION: "${{ github.sha }}"
       - name: Upload artifacts
         if: ${{ !inputs.publish }}
         uses: actions/upload-artifact@v4

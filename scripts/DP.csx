@@ -8,11 +8,6 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
   ["P"] = "宝可梦 珍珠\nNintendo",
 };
 
-var text = File.ReadAllText("temp/DP/messages.txt");
-var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
-text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
-File.WriteAllText("temp/DP/messages.txt", text);
-
 var messages = LoadMessages("temp/DP/messages.txt");
 var easyChatWordsIds = new int[] {
   356, // monsname
@@ -37,6 +32,14 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
   Directory.CreateDirectory($"out/{gameCode}/data/");
   Directory.CreateDirectory($"out/{gameCode}/overlay/");
+  if (Directory.Exists("asm/DP/build"))
+  {
+    Directory.Delete("asm/DP/build", true);
+  }
+  foreach (var path in Directory.EnumerateFiles("asm/DP", "repl_*"))
+  {
+    File.Delete(path);
+  }
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/DP/{gameCode}/arm9.bin");

@@ -4,6 +4,8 @@ from helper import DIR_TEMP, DIR_TEXTS, GAMES, GameInfo, load_game_data
 
 
 def merge_messages(games: list[GameInfo], texts_root: str, output_root: str):
+  version = os.environ.get("XZ_PATCH_VERSION", "UNKNOWN")[-7:]
+
   for game_info in games:
     game = game_info["game"]
     file_name = game_info["file_name"]
@@ -26,7 +28,7 @@ def merge_messages(games: list[GameInfo], texts_root: str, output_root: str):
             writer.write(f"{file_id}-{lang_i}\n")
 
           for i, line in lines.items():
-            line = line.replace("\\f\n", "\\f").replace("\\r\n", "\\r").replace("\n", "\\n")
+            line = line.replace("\\f\n", "\\f").replace("\\r\n", "\\r").replace("\n", "\\n").replace("${VERSION}", version)
             writer.write(f"{i}\t{line}\n")
 
     print(f"Merged: {game}/{file_name}")
