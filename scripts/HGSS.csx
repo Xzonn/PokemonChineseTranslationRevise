@@ -2,6 +2,8 @@
 #r "nuget: NitroHelper, 0.12.0"
 #r "nuget: Xzonn.BlzHelper, 0.9.0"
 #load "lib.csx"
+
+using NitroHelper;
 using Xzonn.BlzHelper;
 
 var GAME_CODE_TO_TITLE = new Dictionary<string, string>
@@ -39,11 +41,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var arm9Comp = File.ReadAllBytes($"original_files/HGSS/{gameCode}/arm9.bin");
   var nitroCode = arm9Comp.Skip(arm9Comp.Length - 12).ToArray();
   var arm9 = BLZ.Decompress(arm9Comp.Take(arm9Comp.Length - 12).ToArray());
+  Dictionary<string, string> symbols = new();
 
   foreach (var folder in Directory.EnumerateDirectories("asm/HGSS/replSource/"))
   {
     int address = Convert.ToInt32(Path.GetFileName(folder), 16);
-    CompileArm9(ref arm9, address, "HGSS", gameCode);
+    Compile(ref arm9, ref symbols, address, "HGSS", gameCode);
   }
 
   SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
@@ -106,6 +109,24 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0122.bin", BLZ.Compress(overlay_0122));
   Console.WriteLine($"Edited: overlay_0122.bin");
+
+  // Edit overlay files
+  var overlay9Table = new OverlayTable($"original_files/HGSS/{gameCode}/overarm9.bin", 0, (uint)new FileInfo($"original_files/HGSS/{gameCode}/overarm9.bin").Length, true);
+  for (int i = 0; i < overlay9Table.overlayTable.Count; i++)
+  {
+    if (!Directory.Exists($"asm/HGSS/overlay_{i:D4}")) { continue; }
+    var overlay = File.ReadAllBytes($"original_files/HGSS/{gameCode}/overlay/overlay_{i:D4}.bin");
+    foreach (var folder in Directory.EnumerateDirectories($"asm/HGSS/overlay_{i:D4}/"))
+    {
+      var address = Convert.ToInt32(Path.GetFileName(folder), 16);
+      var ramAddress = overlay9Table.overlayTable[i].ramAddress;
+      Compile(ref overlay, ref symbols, address, "HGSS", gameCode, $"overlay_{i:D4}", ramAddress);
+    }
+    File.WriteAllBytes($"out/{gameCode}/overlay/overlay_{i:D4}.bin", overlay);
+    Console.WriteLine($"Edited: overlay_{i:D4}.bin");
+  }
+
+  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   EditBanner("HGSS", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 

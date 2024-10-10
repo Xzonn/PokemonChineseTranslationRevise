@@ -3,6 +3,7 @@
 
 using System.Diagnostics;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 void EditBinary(ref byte[] bytes, int offset, string newHexString)
 {
@@ -26,13 +27,10 @@ void EditBanner(string parentGame, string game, string newTitle)
 
 void CopyFolder(string from, string to, string pattern = "*")
 {
-  if (!Directory.Exists(to))
+  foreach (var file in Directory.GetFiles(from, pattern, SearchOption.AllDirectories))
   {
-    Directory.CreateDirectory(to);
-  }
-  foreach (var file in Directory.GetFiles(from, pattern))
-  {
-    var fileTo = Path.Combine(to, Path.GetFileName(file));
+    var fileTo = Path.Combine(to, Path.GetRelativePath(from, file));
+    Directory.CreateDirectory(Path.GetDirectoryName(fileTo));
     File.Copy(file, fileTo, true);
     Console.WriteLine($"Copied: {file} -> {fileTo}");
   }
@@ -164,12 +162,13 @@ Dictionary<int, Dictionary<int, string>> LoadMessages(string path)
   return messages;
 }
 
-bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
+bool Compile(ref byte[] arm9, ref Dictionary<string, string> symbols, int address, string parentGame, string game, string sourceFolder = "replSource", uint ramAddress = 0x2000000)
 {
+  var symPattern = new Regex(@"^(?<address>[0-9a-f]{8}) \w\s+.text\s+\d{8} (?<name>.+)$", RegexOptions.Multiline);
   ProcessStartInfo psi = new()
   {
     FileName = "make",
-    Arguments = $"TARGET=repl_{address:X7} SOURCES=replSource/{address:X7} GAME={game} CODEADDR=0x{address:X7}",
+    Arguments = $"TARGET=repl_{address:X7} SOURCES={sourceFolder}/{address:X7} GAME={game} CODEADDR=0x{address:X7}",
     WorkingDirectory = $"asm/{parentGame}",
     UseShellExecute = false,
     RedirectStandardError = true,
@@ -178,7 +177,8 @@ bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
   Process p = new() { StartInfo = psi };
   static void func(object sender, DataReceivedEventArgs e)
   {
-    if (!string.IsNullOrEmpty(e.Data)) {
+    if (!string.IsNullOrEmpty(e.Data))
+    {
       Console.WriteLine(e.Data);
     }
   }
@@ -191,7 +191,12 @@ bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
   if (p.ExitCode == 0)
   {
     var newBytes = File.ReadAllBytes($"asm/{parentGame}/repl_{address:X7}.bin");
-    Array.Copy(newBytes, 0, arm9, address - 0x2000000, newBytes.Length);
+    Array.Copy(newBytes, 0, arm9, address - ramAddress, newBytes.Length);
+    var symText = File.ReadAllText($"asm/{parentGame}/repl_{address:X7}.sym");
+    foreach (Match match in symPattern.Matches(symText))
+    {
+      symbols.Add(match.Groups["name"].Value.Trim(), match.Groups["address"].Value.Trim());
+    }
     return true;
   }
   return false;
