@@ -66,10 +66,10 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   {
     if (!Directory.Exists($"asm/DP/overlay_{i:D4}")) { continue; }
     var overlay = File.ReadAllBytes($"original_files/DP/{gameCode}/overlay/overlay_{i:D4}.bin");
+    var ramAddress = overlay9Table.overlayTable[i].ramAddress;
     foreach (var folder in Directory.EnumerateDirectories($"asm/DP/overlay_{i:D4}/"))
     {
       var address = Convert.ToInt32(Path.GetFileName(folder), 16);
-      var ramAddress = overlay9Table.overlayTable[i].ramAddress;
       Compile(ref overlay, ref symbols, address, "DP", gameCode, $"overlay_{i:D4}", ramAddress);
     }
     File.WriteAllBytes($"out/{gameCode}/overlay/overlay_{i:D4}.bin", overlay);
