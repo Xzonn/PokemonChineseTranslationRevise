@@ -101,6 +101,44 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0094.bin", overlay_0094);
   Console.WriteLine($"Edited: overlay_0094.bin");
 
+  // Edit overlay_0097.bin
+  var overlay_0097 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overlay/overlay_0097.bin");
+
+  // chinese from gen3 to gen4
+  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/Pt/patch.asm
+
+  // expand overlay_0097.bin for conversion table chinese
+  var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
+  var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length];
+  Array.Copy(overlay_0097, 0, overlay_0097_expand, 0, overlay_0097.Length);
+  Array.Copy(conversion_table_chinese, 0, overlay_0097_expand, overlay_0097.Length + 0x1980, conversion_table_chinese.Length);
+  // Remove language restrictions
+  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
+  EditBinary(ref overlay_0097_expand, 0x0118, "FF D1");
+  // Remove 24 hour restrictions
+  EditBinary(ref overlay_0097_expand, 0xA6CC, "1E E0");
+  // conversion table quote trans redirect
+  var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
+  Array.Copy(conversion_table_quote, 0, overlay_0097_expand, 0xE588, conversion_table_quote.Length);
+  // conversion table change for space(0x00) trans
+  EditBinary(ref overlay_0097_expand, 0xF44E, "DE 01");
+  // chinese trans core code
+  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/rs_migrate_string.bin");
+  EditBinary(ref rs_migrate_string, 0xA4, "AC 96 23 02 E8 87 23 02 40 C6 23 02");
+  Array.Copy(rs_migrate_string, 0, overlay_0097_expand, 0xE5FC, rs_migrate_string.Length);
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0097.bin", overlay_0097_expand);
+  Console.WriteLine($"Edited: overlay_0097.bin");
+
+  // Edit overarm9.bin
+  var overarm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overarm9.bin");
+
+  // update ram size for overlay_0097 expand
+  Array.Copy(BitConverter.GetBytes((uint)overlay_0097_expand.Length), 0, overarm9, 97*0x20+8, 4);
+
+  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9);
+  Console.WriteLine($"Edited: overarm9.bin");
+
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
   // Copy md5.txt

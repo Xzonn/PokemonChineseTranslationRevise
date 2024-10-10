@@ -7,10 +7,9 @@ $PCTRTools = "tools/PCTRTools/bin/Release/net8.0/publish/PCTRTools.exe"
 & "$PCTRTools" "font" -c "files/CharTable.txt" -i "original_files/DP/data/graphic/font.narc" -o "out/D/data/graphic/font.narc"
 
 # Import text
-& "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "original_files/DP/data/msgdata/msg.narc" -t "temp/DP/messages.txt" -o "temp/msg.narc"
-& "$PCTRTools" "append-narc" -i "temp/msg.narc" -a "files/CharTable_3to4.bin" -o "out/D/data/msgdata/msg.narc"
-python "scripts\edit_convert_table_address.py" "out/D/arm9.bin" "out/D/data/msgdata/msg.narc" "out/D/symbols.txt"
-python "scripts\edit_convert_table_address.py" "out/P/arm9.bin" "out/D/data/msgdata/msg.narc" "out/P/symbols.txt"
+& "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "original_files/DP/data/msgdata/msg.narc" -t "temp/DP/messages.txt" -o "out/D/data/msgdata/msg.narc"
+
+dotnet script scripts/pad_text.csx "original_files/DP/data/msgdata/msg.narc" "out/D/data/msgdata/msg.narc"
 
 # Create patch for Diamond
 Compress-Archive -Path "out/D/*" -DestinationPath "out/Patch-D.zip" -Force

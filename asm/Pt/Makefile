@@ -69,7 +69,7 @@ CXXFLAGS	:= $(CFLAGS) -fno-rtti -fno-exceptions
 ASFLAGS	:=	-g $(ARCH)
 SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(shell dirname $(SOURCES)))/symbols.x
 NEWSYMT :=
-LDFLAGS	=	--use-blx $(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g $(ARCH) -Map newcode.map
+LDFLAGS	=	--use-blx $(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g -Map newcode.map
 
 ifdef CODEADDR
   LDFLAGS += -Ttext $(CODEADDR)
