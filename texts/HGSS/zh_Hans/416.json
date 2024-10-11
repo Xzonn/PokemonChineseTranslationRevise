@@ -3,78 +3,91 @@
     "key": "HGSS_0416_0000",
     "original": "[FF00,0001][0104,0000][FF00,0000]",
     "translation": "[FF00,0001][0104,0000][FF00,0000]",
-    "index": 0
+    "index": 0,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0001",
     "original": "しゅじんこう [0103,0001]",
     "translation": "主人公　[0103,0001]",
-    "index": 1
+    "index": 1,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0002",
     "original": "もっているバッジ [0133,0002]こ",
-    "translation": "持有徽章　[0132,0002]个",
-    "index": 2
+    "translation": "持有徽章　[0133,0002]个",
+    "index": 2,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0003",
     "original": "ポケモンずかん[0134,0003]ひき",
     "translation": "宝可梦图鉴　[0134,0003]只",
-    "index": 3
+    "index": 3,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0004",
     "original": "プレイじかん[0134,0004]：[0133,0005]",
     "translation": "游戏时间　[0134,0004]:[0133,0005]",
-    "index": 4
+    "index": 4,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0005",
     "original": "しゅじんこう",
     "translation": "主人公",
-    "index": 5
+    "index": 5,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0006",
     "original": "もっているバッジ",
     "translation": "持有徽章",
-    "index": 6
+    "index": 6,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0007",
     "original": "ポケモンずかん",
     "translation": "宝可梦图鉴",
-    "index": 7
+    "index": 7,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0008",
     "original": "プレイじかん",
     "translation": "游戏时间",
-    "index": 8
+    "index": 8,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0009",
     "original": "[0103,0001]",
     "translation": "[0103,0001]",
-    "index": 9
+    "index": 9,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0010",
     "original": "[0132,0002]こ",
     "translation": "[0132,0002]个",
-    "index": 10
+    "index": 10,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0011",
     "original": "[0134,0003]ひき",
     "translation": "[0134,0003]只",
-    "index": 11
+    "index": 11,
+    "context": ""
   },
   {
     "key": "HGSS_0416_0012",
     "original": "[0134,0004]：[0133,0005]",
     "translation": "[0134,0004]:[0133,0005]",
-    "index": 12
+    "index": 12,
+    "context": ""
   }
 ]

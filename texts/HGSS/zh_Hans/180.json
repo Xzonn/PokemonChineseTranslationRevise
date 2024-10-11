@@ -3,996 +3,1162 @@
     "key": "HGSS_0180_0000",
     "original": "つごうが わるいみたい⋯",
     "translation": "信号好像不太好…",
-    "index": 0
+    "index": 0,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0001",
     "original": "[0103,0001]からの\nへんじを まっています",
     "translation": "正在等待[0103,0001]回复……",
-    "index": 1
+    "index": 1,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0002",
     "original": "[0103,0001]に メンバー とうろくを\nおねがいしています！ おまちください",
     "translation": "正在请[0103,0001]\n加您为成员，请稍等！",
-    "index": 2
+    "index": 2,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0003",
     "original": "メンバーから ぬけますか？[0200,0000]",
     "translation": "要离开队伍吗？[0200,0000]",
-    "index": 3
+    "index": 3,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0004",
     "original": "[0103,0001]から ＯＫとの\nへんじが きました",
     "translation": "[0103,0001]回复\nＯＫ。",
-    "index": 4
+    "index": 4,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0005",
     "original": "[0103,0001]から ＮＧとの\nへんじが きてしまいました⋯⋯[0201,0078]",
-    "translation": "[0103,0001]回复\nＮＧ…",
-    "index": 5
+    "translation": "收到了来自\n[0103,0001]的ＮＧ回复……[0201,0078]",
+    "index": 5,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0006",
     "original": "メンバーから ぬけました",
     "translation": "离开队伍",
-    "index": 6
+    "index": 6,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0007",
     "original": "ポケモンの こうかん！ ともだちからの\nれんらくを まっています",
     "translation": "宝可梦的交换！等待好友的\n联络。",
-    "index": 7
+    "index": 7,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0008",
     "original": "シングルバトル！ ともだちからの\nれんらくを まっています",
     "translation": "单打对战！\n正在等待朋友联络……",
-    "index": 8
+    "index": 8,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0009",
     "original": "ダブルバトル！ ともだちからの\nれんらくを まっています",
     "translation": "双打对战！\n正在等待朋友联络……",
-    "index": 9
+    "index": 9,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0010",
     "original": "マルチバトル！ ともだちからの\nれんらくを まっています",
     "translation": "多人对战！\n正在等待朋友联络……",
-    "index": 10
+    "index": 10,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0011",
     "original": "ミックスバトル！ ともだちからの\nれんらくを まっています",
     "translation": "混合对战！\n正在等待朋友联络……",
-    "index": 11
+    "index": 11,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0012",
     "original": "フラットバトル！ ともだちからの\nれんらくを まっています",
     "translation": "平等战斗！等待好友的联络。",
-    "index": 12
+    "index": 12,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0013",
     "original": "サファリこうかん！ ともだちからの\nれんらくを まっています",
     "translation": "狩猎交换！等待好友的联络。",
-    "index": 13
+    "index": 13,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0014",
     "original": "ポケスロン！ ともだちからの\nれんらくを まっています",
     "translation": "宝可全能竞技赛！等待好友的联络。",
-    "index": 14
+    "index": 14,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0015",
     "original": "メンバーが そろったら\nＡボタン⋯すすむ Ｂボタン⋯やめる",
     "translation": "成员到齐之后……\nＡ键…继续　Ｂ键…退出",
-    "index": 15
+    "index": 15,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0016",
     "original": "レコードコーナー！ ともだちからの\nれんらくを まっています",
     "translation": "记录角！正在等待朋友的联系",
-    "index": 16
+    "index": 16,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0017",
     "original": "メンバーが そろったら\nＡボタン⋯すすむ Ｂボタン⋯やめる",
     "translation": "成员到齐之后……\nＡ键…继续　Ｂ键…退出",
-    "index": 17
+    "index": 17,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0018",
     "original": "バトルタワー！ ともだちからの\nれんらくを まっています",
     "translation": "对战塔！ 等待好友的\n联络。",
-    "index": 18
+    "index": 18,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0019",
     "original": "バトルファクトリー レベル５０！\nともだちの れんらくを まっています",
     "translation": "对战工厂，５０级！\n等到好友的联络。",
-    "index": 19
+    "index": 19,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0020",
     "original": "バトルファクトリーオープン！\nともだちの れんらくを まっています",
     "translation": "对战工厂，无限制！\n等到好友的联络。",
-    "index": 20
+    "index": 20,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0021",
     "original": "バトルステージ！\nともだちの れんらくを まっています",
     "translation": "对战舞台！\n等到好友的联络。",
-    "index": 21
+    "index": 21,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0022",
     "original": "バトルキャッスル！\nともだちの れんらくを まっています",
     "translation": "对战城堡！\n等到好友的联络",
-    "index": 22
+    "index": 22,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0023",
     "original": "バトルルーレット！\nともだちの れんらくを まっています",
     "translation": "对战轮盘！\n等到好友的回复",
-    "index": 23
+    "index": 23,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0024",
     "original": "[0103,0001]から れんらくあり！\nこうかんを しますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n交换吗？",
-    "index": 24
+    "translation": "收到了来自[0103,0001]的联络！\n要交换吗？[0200,0000]",
+    "index": 24,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0025",
     "original": "[0103,0001]から れんらくあり！\nシングルバトルを しますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n进行单打对战吗？",
-    "index": 25
+    "translation": "收到了来自[0103,0001]的联络！\n要开始单打对战吗？[0200,0000]",
+    "index": 25,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0026",
     "original": "[0103,0001]から れんらくあり！\nダブルバトルを しますか？[0200,0000]",
     "translation": "收到了来自[0103,0001]的联络！\n要开始双打对战吗？[0200,0000]",
-    "index": 26
+    "index": 26,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0027",
     "original": "[0103,0001]から れんらくあり！\nミックスバトルを しますか？[0200,0000]",
     "translation": "收到了来自[0103,0001]的联络！\n要开始混合对战吗？[0200,0000]",
-    "index": 27
+    "index": 27,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0028",
     "original": "[0103,0001]から れんらくあり！\nフラットバトルを しますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n进行平等战斗？[0200,0000]",
-    "index": 28
+    "translation": "收到了来自[0103,0001]的联络！\n要开始平等对战吗？[0200,0000]",
+    "index": 28,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0029",
     "original": "[0103,0001]から れんらくあり！\nサファリこうかんを しますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n要进行狩猎交换吗？[0200,0000]",
-    "index": 29
+    "translation": "收到了来自[0103,0001]的联络！\n要进行狩猎交换吗？[0200,0000]",
+    "index": 29,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0030",
     "original": "[0103,0001]から れんらくあり！\nメンバーに しますか？[0200,0000]",
     "translation": "收到了来自[0103,0001]的联络！\n要将其加为成员吗？[0200,0000]",
-    "index": 30
+    "index": 30,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0031",
     "original": "[0103,0001]から れんらくあり！\nメンバーに しますか？[0200,0000]",
     "translation": "收到了来自[0103,0001]的联络！\n要将其加为成员吗？[0200,0000]",
-    "index": 31
+    "index": 31,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0032",
     "original": "[0103,0001]から れんらくあり！\nバトルタワーを はじめますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n挑战对战塔吗？[0200,0000]",
-    "index": 32
+    "translation": "收到了来自[0103,0001]的联络！\n要开始对战塔吗？[0200,0000]",
+    "index": 32,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0033",
     "original": "[0103,0001]から れんらくあり！\nバトルファクトリーはじめますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n开始对战工厂吗？[0200,0000]",
-    "index": 33
+    "translation": "收到了来自[0103,0001]的联络！\n要开始对战工厂吗？[0200,0000]",
+    "index": 33,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0034",
     "original": "[0103,0001]から れんらくあり！\nバトルステージはじめますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n开始对战舞台吗？[0200,0000]",
-    "index": 34
+    "translation": "收到了来自[0103,0001]的联络！\n要开始对战舞台吗？[0200,0000]",
+    "index": 34,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0035",
     "original": "[0103,0001]から れんらくあり！\nバトルキャッスルはじめますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n开始对战城堡吗？[0200,0000]",
-    "index": 35
+    "translation": "收到了来自[0103,0001]的联络！\n要开始对战城堡吗？[0200,0000]",
+    "index": 35,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0036",
     "original": "[0103,0001]から れんらくあり！\nバトルルーレットはじめますか？[0200,0000]",
-    "translation": "[0103,0001]联络！\n开始对战轮盘吗？[0200,0000]",
-    "index": 36
+    "translation": "收到了来自[0103,0001]的联络！\n要开始对战轮盘吗？[0200,0000]",
+    "index": 36,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0037",
     "original": "[0103,0001]から れんらくあり！\nメンバーに しますか？[0200,0000]",
     "translation": "收到了来自[0103,0001]的联络！\n要将其加为成员吗？[0200,0000]",
-    "index": 37
+    "index": 37,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0038",
     "original": "マルチバトル！\nこのメンバーで よろしいですか？[0200,0000]",
     "translation": "多人对战！\n以当前成员参加，可以吗？[0200,0000]",
-    "index": 38
+    "index": 38,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0039",
     "original": "このメンバーで よろしいですか？[0200,0000]",
     "translation": "确定以当前成员开始吗？[0200,0000]",
-    "index": 39
+    "index": 39,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0040",
     "original": "レコードコーナー！\nこのメンバーで よろしいですか？[0200,0000]",
     "translation": "记录角！\n以当前成员参加，可以吗？[0200,0000]",
-    "index": 40
+    "index": 40,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0041",
     "original": "コンテスト！\nこのメンバーで よろしいですか？",
     "translation": "华丽大赛！\n要以当前成员参加吗？",
-    "index": 41
+    "index": 41,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0042",
     "original": "ポケスロン！\nこのメンバーで よろしいですか？[0200,0000]",
     "translation": "宝可全能竞技赛！\n这个成员可以吗？[0200,0000]",
-    "index": 42
+    "index": 42,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0043",
     "original": "このメンバーで マルチバトルを\nするのは やめますか？[0200,0000]",
     "translation": "要放弃以当前成员进行多人对战吗？[0200,0000]",
-    "index": 43
+    "index": 43,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0044",
     "original": "りょうりを やめますか？",
     "translation": "要取消料理制作吗？",
-    "index": 44
+    "index": 44,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0045",
     "original": "このメンバーで レコードコーナーを\nするのは やめますか？[0200,0000]",
     "translation": "要放弃以当前成员\n进入记录角吗？[0200,0000]",
-    "index": 45
+    "index": 45,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0046",
     "original": "このメンバーで コンテストをするのは\nやめますか？",
     "translation": "要放弃以当前成员\n参加华丽大赛吗？",
-    "index": 46
+    "index": 46,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0047",
     "original": "このメンバーで ポケスロンを\nするのは やめますか？[0200,0000]",
     "translation": "不要这个成员进入\n宝可全能竞技赛吗？[0200,0000]",
-    "index": 47
+    "index": 47,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0048",
     "original": "ポケモンの こうかんをする\nともだちを えらんでください[0200,0000]",
     "translation": "请选择与您一起\n参加宝可梦交换的好友。[0200,0000]",
-    "index": 48
+    "index": 48,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0049",
     "original": "シングルバトルをする ともだちを\nえらんでください[0200,0000]",
     "translation": "请选择与您一起\n参加单打对战的朋友。[0200,0000]",
-    "index": 49
+    "index": 49,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0050",
     "original": "ダブルバトルをする ともだちを\nえらんでください[0200,0000]",
     "translation": "请选择与您一起\n参加双打对战的朋友。[0200,0000]",
-    "index": 50
+    "index": 50,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0051",
     "original": "マルチバトルをする ともだちを\nえらんでください[0200,0000]",
     "translation": "请选择与您一起\n参加多人对战的朋友。[0200,0000]",
-    "index": 51
+    "index": 51,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0052",
     "original": "ミックスバトルをする ともだちを\nえらんでください[0200,0000]",
     "translation": "请选择与您一起\n参加混合对战的朋友。[0200,0000]",
-    "index": 52
+    "index": 52,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0053",
     "original": "フラットバトルをする ともだちを\nえらんでください[0200,0000]",
     "translation": "进入平等战斗\n请选择好友。[0200,0000]",
-    "index": 53
+    "index": 53,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0054",
     "original": "サファリこうかんをする\nともだちを えらんでください[0200,0000]",
     "translation": "进入狩猎\n请选择好友。[0200,0000]",
-    "index": 54
+    "index": 54,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0055",
     "original": "ポケスロンをする ともだちを\nえらんでください[0200,0000]",
     "translation": "进入宝可全能竞技赛\n请选择好友。[0200,0000]",
-    "index": 55
+    "index": 55,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0056",
     "original": "りょうりをする ともだちを\nえらんで ください",
     "translation": "制作料理　\n请选择好友。",
-    "index": 56
+    "index": 56,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0057",
     "original": "レコードコーナーをする\nともだちを えらんでください[0200,0000]",
     "translation": "进入记录角　\n请选择好友。[0200,0000]",
-    "index": 57
+    "index": 57,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0058",
     "original": "コンテストをする ともだちを\nえらんでください",
     "translation": "进入竞赛　\n请选择好友。",
-    "index": 58
+    "index": 58,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0059",
     "original": "バトルタワーを ともに たたかう\nともだちを えらんでください[0200,0000]",
     "translation": "请选择在对战塔\n游玩的好友。[0200,0000]",
-    "index": 59
+    "index": 59,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0060",
     "original": "バトルファクトリー レベル５０\nともだちを えらんでください[0200,0000]",
     "translation": "对战工厂５０级\n请选择好友。[0200,0000]",
-    "index": 60
+    "index": 60,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0061",
     "original": "バトルファクトリーオープン\nともだちを えらんでください[0200,0000]",
     "translation": "对战工厂无限制\n请选择好友。[0200,0000]",
-    "index": 61
+    "index": 61,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0062",
     "original": "バトルステージで あそぶ\nともだちを えらんでください[0200,0000]",
     "translation": "请选择在对战舞台\n游玩的好友。[0200,0000]",
-    "index": 62
+    "index": 62,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0063",
     "original": "バトルキャッスルで あそぶ\nともだちを えらんでください[0200,0000]",
     "translation": "请选择在对战城堡\n游玩的好友。[0200,0000]",
-    "index": 63
+    "index": 63,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0064",
     "original": "バトルルーレットで あそぶ\nともだちを えらんでください[0200,0000]",
     "translation": "请选择在对战轮盘\n游玩的朋友。[0200,0000]",
-    "index": 64
+    "index": 64,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0065",
     "original": "つごうが わるくなってしまった\nメンバーがいます\\f\nもういちど さいしょから\nてつづきを やりなおして ください",
     "translation": "有成员不便进行记录混合。\\f\n要重头开始，\n请重新办理手续。",
-    "index": 65
+    "index": 65,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0066",
     "original": "このメンバーで レコードコーナーを\nするのは やめます",
     "translation": "不用这个成员　\n进入记录角。",
-    "index": 66
+    "index": 66,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0067",
     "original": "このメンバーで コンテストを\nするのは やめます",
     "translation": "不用这个成员\n进入竞技场。",
-    "index": 67
+    "index": 67,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0068",
     "original": "このメンバーで ポケスロンを\nするのは やめます",
     "translation": "不用这个成员\n进入宝可全能竞技赛。",
-    "index": 68
+    "index": 68,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0069",
     "original": "[0103,0001]に ＯＫの\nへんじを だしました",
     "translation": "[0103,0001]回复\nＯＫ",
-    "index": 69
+    "index": 69,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0070",
     "original": "マルチバトル！\nほかの メンバーを まっています",
     "translation": "多人对战！\n等待其它的成员。",
-    "index": 70
+    "index": 70,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0071",
     "original": "ほかの メンバーを まっています",
     "translation": "等待其它的成员。",
-    "index": 71
+    "index": 71,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0072",
     "original": "レコードコーナー！\nほかの メンバーを まっています",
     "translation": "记录角！\n等待其它的成员。",
-    "index": 72
+    "index": 72,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0073",
     "original": "コンテスト！\nほかの メンバーを まっています",
     "translation": "竞赛！\n等待其它的成员。",
-    "index": 73
+    "index": 73,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0074",
     "original": "ポケスロン！\nほかの メンバーを まっています",
     "translation": "宝可全能竞技赛！\n等待其它的成员。",
-    "index": 74
+    "index": 74,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0075",
     "original": "[0103,0000]\nＩＤ[0136,0001]",
     "translation": "[0103,0000]\nＩＤ[0136,0001]",
-    "index": 75
+    "index": 75,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0076",
     "original": "[0133,0000]：[0103,0001]",
     "translation": "[0133,0000]：[0103,0001]",
-    "index": 76
+    "index": 76,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0077",
     "original": "[0133,0000]：",
     "translation": "[0133,0000]：",
-    "index": 77
+    "index": 77,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0078",
     "original": "ＩＤ[0136,0002]",
     "translation": "ＩＤ[0136,0002]",
-    "index": 78
+    "index": 78,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0079",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
-    "index": 79
+    "index": 79,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0080",
     "original": "あと[0132,0000]にん\nひつよう",
     "translation": "还要[0132,0000]人。",
-    "index": 80
+    "index": 80,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0081",
     "original": "[0132,0000]にんプレイ",
     "translation": "[0132,0000]人游玩",
-    "index": 81
+    "index": 81,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0082",
     "original": " ",
     "translation": " ",
-    "index": 82
+    "index": 82,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0083",
     "original": "スタンダード",
     "translation": "标准",
-    "index": 83
+    "index": 83,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0084",
     "original": "ファンシー",
     "translation": "空想",
-    "index": 84
+    "index": 84,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0085",
     "original": "リトル",
     "translation": "小型",
-    "index": 85
+    "index": 85,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0086",
     "original": "ライト",
     "translation": "光线",
-    "index": 86
+    "index": 86,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0087",
     "original": "ダブル",
     "translation": "双打",
-    "index": 87
+    "index": 87,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0088",
     "original": "スタンダード",
     "translation": "标准",
-    "index": 88
+    "index": 88,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0089",
     "original": "ライト",
     "translation": "光线",
-    "index": 89
+    "index": 89,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0090",
     "original": "ダブル",
     "translation": "双打",
-    "index": 90
+    "index": 90,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0091",
     "original": "ダブル",
     "translation": "双打",
-    "index": 91
+    "index": 91,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0092",
     "original": "ジーエス",
     "translation": "ＧＳ",
-    "index": 92
+    "index": 92,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0093",
     "original": "ポケモンのかず：",
     "translation": "宝可梦的数量：",
-    "index": 93
+    "index": 93,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0094",
     "original": "ポケモンのレベル：",
     "translation": "宝可梦的等级：",
-    "index": 94
+    "index": 94,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0095",
     "original": "レベルのごうけい：",
     "translation": "合计等级：",
-    "index": 95
+    "index": 95,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0096",
     "original": "たかさ：",
     "translation": "身高：",
-    "index": 96
+    "index": 96,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0097",
     "original": "おもさ：",
     "translation": "体重：",
-    "index": 97
+    "index": 97,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0098",
     "original": "しんかポケモン：",
     "translation": "进化宝可梦：",
-    "index": 98
+    "index": 98,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0099",
     "original": "とくべつなポケモン：",
     "translation": "特别的宝可梦：",
-    "index": 99
+    "index": 99,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0100",
     "original": "おなじポケモン：",
     "translation": "相同宝可梦：",
-    "index": 100
+    "index": 100,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0101",
     "original": "おなじどうぐ：",
     "translation": "相同道具：",
-    "index": 101
+    "index": 101,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0102",
     "original": "[0132,0000]ひき",
     "translation": "[0132,0000]只",
-    "index": 102
+    "index": 102,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0103",
     "original": "[0134,0000]まで",
     "translation": "最高[0134,0000]",
-    "index": 103
+    "index": 103,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0104",
     "original": "[0134,0000]まで",
     "translation": "最高[0134,0000]",
-    "index": 104
+    "index": 104,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0105",
     "original": "[0132,0000]．[0132,0001]ｍいか",
     "translation": "[0132,0000]．[0132,0001]ｍ一下",
-    "index": 105
+    "index": 105,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0106",
     "original": "[0132,0000]．[0132,0001]ｍいじょう",
     "translation": "[0132,0000]．[0132,0001]ｍ以上",
-    "index": 106
+    "index": 106,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0107",
     "original": "[0133,0000]ｋｇいか",
     "translation": "[0133,0000]ｋｇ一下",
-    "index": 107
+    "index": 107,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0108",
     "original": "[0133,0000]ｋｇいじょう",
     "translation": "[0133,0000]ｋｇ以上",
-    "index": 108
+    "index": 108,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0109",
     "original": "さんかできる",
     "translation": "可以参加",
-    "index": 109
+    "index": 109,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0110",
     "original": "さんかできない",
     "translation": "无法参加",
-    "index": 110
+    "index": 110,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0111",
     "original": "もたせられる",
     "translation": "允许携带",
-    "index": 111
+    "index": 111,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0112",
     "original": "もたせられない",
     "translation": "不允许携带",
-    "index": 112
+    "index": 112,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0113",
     "original": "[011A,0000]カップ",
     "translation": "[011A,0000]杯",
-    "index": 113
+    "index": 113,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0114",
     "original": "せいげんなし",
     "translation": "无限制",
-    "index": 114
+    "index": 114,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0115",
     "original": "２ひきまで",
     "translation": "最多２只",
-    "index": 115
+    "index": 115,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0116",
     "original": "おたがいの えらんだ ルールが\nちがって いるようです！",
     "translation": "双方所选的规则不一样！",
-    "index": 116
+    "index": 116,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0117",
     "original": "かっこよさコンテスト！\nともだちの れんらくを まっています",
     "translation": "帅气华丽大赛！\n正在等待朋友联络……",
-    "index": 117
+    "index": 117,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0118",
     "original": "うつくしさコンテスト！\nともだちの れんらくを まっています",
     "translation": "美丽华丽大赛！\n正在等待朋友联络……",
-    "index": 118
+    "index": 118,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0119",
     "original": "かわいさコンテスト！\nともだちの れんらくを まっています",
     "translation": "可爱华丽大赛！\n正在等待朋友联络……",
-    "index": 119
+    "index": 119,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0120",
     "original": "かしこさコンテスト！\nともだちの れんらくを まっています",
     "translation": "聪明华丽大赛！\n正在等待朋友联络……",
-    "index": 120
+    "index": 120,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0121",
     "original": "たくましさコンテスト！\nともだちの れんらくを まっています",
     "translation": "强壮华丽大赛！\n正在等待朋友联络……",
-    "index": 121
+    "index": 121,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0122",
     "original": "かっこよさコンテスト！\nリーダーを えらんで ください",
     "translation": "帅气华丽大赛！\n请选择组长。",
-    "index": 122
+    "index": 122,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0123",
     "original": "うつくしさコンテスト！\nリーダーを えらんで ください",
     "translation": "美丽华丽大赛！\n请选择组长。",
-    "index": 123
+    "index": 123,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0124",
     "original": "かわいさコンテスト！\nリーダーを えらんで ください",
     "translation": "可爱华丽大赛！\n请选择组长。",
-    "index": 124
+    "index": 124,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0125",
     "original": "かしこさコンテスト！\nリーダーを えらんで ください",
     "translation": "聪明华丽大赛！\n请选择组长。",
-    "index": 125
+    "index": 125,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0126",
     "original": "たくましさコンテスト！\nリーダーを えらんで ください",
     "translation": "强壮华丽大赛！\n请选择组长。",
-    "index": 126
+    "index": 126,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0127",
     "original": "かっこよさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "帅气华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 127
+    "index": 127,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0128",
     "original": "うつくしさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "美丽华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 128
+    "index": 128,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0129",
     "original": "かわいさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "可爱华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 129
+    "index": 129,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0130",
     "original": "かしこさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "聪明华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 130
+    "index": 130,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0131",
     "original": "たくましさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "强壮华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 131
+    "index": 131,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0132",
     "original": "かっこよさコンテスト！\nほかの メンバーを まっています！",
     "translation": "帅气华丽大赛！\n正在等待其他成员！",
-    "index": 132
+    "index": 132,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0133",
     "original": "うつくしさコンテスト！\nほかの メンバーを まっています！",
     "translation": "美丽华丽大赛！\n正在等待其他成员！",
-    "index": 133
+    "index": 133,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0134",
     "original": "かわいさコンテスト！\nほかの メンバーを まっています！",
     "translation": "可爱华丽大赛！\n正在等待其他成员！",
-    "index": 134
+    "index": 134,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0135",
     "original": "かしこさコンテスト！\nほかの メンバーを まっています！",
     "translation": "聪明华丽大赛！\n正在等待其他成员！",
-    "index": 135
+    "index": 135,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0136",
     "original": "たくましさコンテスト！\nほかの メンバーを まっています！",
     "translation": "强壮华丽大赛！\n正在等待其他成员！",
-    "index": 136
+    "index": 136,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0137",
     "original": "このメンバーで\\r\nかっこよさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行帅气竞赛。",
-    "index": 137
+    "index": 137,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0138",
     "original": "このメンバーで\\r\nうつくしさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行美丽竞赛。",
-    "index": 138
+    "index": 138,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0139",
     "original": "このメンバーで\\r\nかわいさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行可爱竞赛。",
-    "index": 139
+    "index": 139,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0140",
     "original": "このメンバーで\\r\nかしこさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行聪明竞赛。",
-    "index": 140
+    "index": 140,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0141",
     "original": "このメンバーで\\r\nたくましさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行强壮竞赛。",
-    "index": 141
+    "index": 141,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0142",
     "original": "スピード＆ジャンプコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "速度＆跳跃项目\n成员募集中。[0200,0000]",
-    "index": 142
+    "index": 142,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0143",
     "original": "ジャンプ＆テクニックコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "跳跃＆技巧项目\n成员募集中。[0200,0000]",
-    "index": 143
+    "index": 143,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0144",
     "original": "テクニック＆パワーコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "技巧＆力量项目\n成员募集中。[0200,0000]",
-    "index": 144
+    "index": 144,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0145",
     "original": "パワー＆スタミナコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "力量＆耐力项目\n成员募集中。[0200,0000]",
-    "index": 145
+    "index": 145,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0146",
     "original": "スタミナ＆スピードコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "耐力＆速度项目\n成员募集中。[0200,0000]",
-    "index": 146
+    "index": 146,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0147",
     "original": "マスターコース\nメンバーを ぼしゅう しています[0200,0000]",
     "translation": "大师项目\n成员募集中。[0200,0000]",
-    "index": 147
+    "index": 147,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0148",
     "original": "スピード＆ジャンプコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "速度＆跳跃项目\n请选择队长。[0200,0000]",
-    "index": 148
+    "index": 148,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0149",
     "original": "ジャンプ＆テクニックコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "跳跃＆技巧项目\n请选择队长。[0200,0000]",
-    "index": 149
+    "index": 149,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0150",
     "original": "テクニック＆パワーコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "技巧＆力量项目\n请选择队长。[0200,0000]",
-    "index": 150
+    "index": 150,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0151",
     "original": "パワー＆スタミナコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "力量＆耐力项目\n请选择队长。[0200,0000]",
-    "index": 151
+    "index": 151,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0152",
     "original": "スタミナ＆スピードコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "耐力＆速度项目\n请选择队长。[0200,0000]",
-    "index": 152
+    "index": 152,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0153",
     "original": "マスターコース\nリーダーを えらんで ください[0200,0000]",
     "translation": "大师项目\n请选择队长。[0200,0000]",
-    "index": 153
+    "index": 153,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0154",
     "original": "スピード＆ジャンプコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "速度＆跳跃项目\n成员到齐后触摸[0200,0000]",
-    "index": 154
+    "index": 154,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0155",
     "original": "ジャンプ＆テクニックコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "跳跃＆技巧项目\n成员到齐后触摸[0200,0000]",
-    "index": 155
+    "index": 155,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0156",
     "original": "テクニック＆パワーコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "技巧＆力量项目\n成员到齐后触摸[0200,0000]",
-    "index": 156
+    "index": 156,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0157",
     "original": "パワー＆スタミナコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "力量＆耐力项目\n成员到齐后触摸[0200,0000]",
-    "index": 157
+    "index": 157,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0158",
     "original": "スタミナ＆スピードコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "耐力＆速度项目\n成员到齐后触摸[0200,0000]",
-    "index": 158
+    "index": 158,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0159",
     "original": "マスターコース\nメンバーが そろったら タッチ[0200,0000]",
     "translation": "大师项目\n成员到齐后触摸[0200,0000]",
-    "index": 159
+    "index": 159,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0160",
     "original": "スピード＆ジャンプコース\nほかの メンバーを まっています！",
     "translation": "速度＆跳跃项目\n等待其他成员！",
-    "index": 160
+    "index": 160,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0161",
     "original": "ジャンプ＆テクニックコース\nほかの メンバーを まっています！",
     "translation": "跳跃＆技巧项目\n等待其他成员！",
-    "index": 161
+    "index": 161,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0162",
     "original": "テクニック＆パワーコース\nほかの メンバーを まっています！",
     "translation": "技巧＆力量项目\n等待其他成员！",
-    "index": 162
+    "index": 162,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0163",
     "original": "パワー＆スタミナコース\nほかの メンバーを まっています！",
     "translation": "力量＆耐力项目\n等待其他成员！",
-    "index": 163
+    "index": 163,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0164",
     "original": "スタミナ＆スピードコース\nほかの メンバーを まっています！",
     "translation": "耐力＆速度项目\n等待其他成员！",
-    "index": 164
+    "index": 164,
+    "context": ""
   },
   {
     "key": "HGSS_0180_0165",
     "original": "マスターコース\nほかの メンバーを まっています！",
     "translation": "大师项目\n等待其他成员！",
-    "index": 165
+    "index": 165,
+    "context": ""
   }
 ]

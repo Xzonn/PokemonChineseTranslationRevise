@@ -3,4554 +3,5313 @@
     "key": "HGSS_0258_0000",
     "original": "おや？\n[0101,0000]が なにか もっている⋯⋯\\f\nもってる ものを もらいますか？[0200,0000]",
     "translation": "哦呀？\n[0101,0000]拿着什么东西……\\f\n要收下它拿着的东西吗？[0200,0000]",
-    "index": 0
+    "index": 0,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0001",
     "original": "[0101,0000]は なにか\nみつけて うれしそうだ！",
     "translation": "[0101,0000]找到了什么\n似乎很开心！",
-    "index": 1
+    "index": 1,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0002",
     "original": "！！\nだいじそうにして てばなさない！",
     "translation": "！！\n它很喜欢这东西，不肯放手！",
-    "index": 2
+    "index": 2,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0003",
     "original": "[0101,0000]は うれしそうに\nわたして くれた！",
     "translation": "[0101,0000]开心地\n交了出来！",
-    "index": 3
+    "index": 3,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0004",
     "original": "⋯⋯ ⋯⋯ ⋯⋯\nおや？\\f\n[0101,0000]が ふしぎな\nかがやくはっぱ を もっている⋯⋯",
     "translation": "………………\n哦呀？\\f\n[0101,0000]拿着\n不可思议的闪耀的叶片……",
-    "index": 4
+    "index": 4,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0005",
     "original": "こっちを むいて\nうなずいてる",
     "translation": "它看向这边\n并轻轻地点着头。",
-    "index": 5
+    "index": 5,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0006",
     "original": "[0101,0000] から\nへんな おとが きこえてくる⋯⋯",
     "translation": "[0101,0000]发出了\n奇怪的声音……",
-    "index": 6
+    "index": 6,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0007",
     "original": "[0101,0000]は なにか しゃべるように\nうなりごえを あげている",
     "translation": "[0101,0000]好像是在\n诉说着什么一般地低吼着。",
-    "index": 7
+    "index": 7,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0008",
     "original": "？ おくの ほうから\nなにか きこえた みたい！",
     "translation": "从里面\n好像传来了什么声音！",
-    "index": 8
+    "index": 8,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0009",
     "original": "！ [0101,0000]は あやうく もってた\n[0108,0004]を\\r\nわすれる ところだった！",
     "translation": "[0101,0000]好不容易\n才刚要忘掉带着的\\r\n[0108,0004]！",
-    "index": 9
+    "index": 9,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0010",
     "original": "[0101,0000]が [0103,0002]を\nつっついて きた！\\r\nつっつき かえしますか？[0200,0000]",
     "translation": "[0101,0000]戳了戳\n[0103,0002]！\\r\n要戳回去吗？[0200,0000]",
-    "index": 10
+    "index": 10,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0011",
     "original": "[0101,0000]は まわりのものを\nツンツンしてる⋯⋯",
     "translation": "[0101,0000]正在戳着\n身边的东西……",
-    "index": 11
+    "index": 11,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0012",
     "original": "[0101,0000]は あしに\nぺったり くっついてきた",
     "translation": "[0101,0000]紧紧地\n贴在了脚上。",
-    "index": 12
+    "index": 12,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0013",
     "original": "[0101,0000]は きゅうに\nおこりだした！",
     "translation": "[0101,0000]突然生气了！",
-    "index": 13
+    "index": 13,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0014",
     "original": "[0101,0000]は おどろいて\nとびあがった！",
     "translation": "[0101,0000]\n突然大吃一惊！",
-    "index": 14
+    "index": 14,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0015",
     "original": "[0101,0000]は なんだか\nしょんぼり してる⋯⋯",
     "translation": "[0101,0000]看起来\n有点萎靡不振……",
-    "index": 15
+    "index": 15,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0016",
     "original": "[0101,0000]は なにか\nくわえて こっちを みてる\\r\nくわえたものを とりだしますか？[0200,0000]",
     "translation": "[0101,0000]\n不知道叼着什么看着这边，\\r\n要把那东西拿出来吗？[0200,0000]",
-    "index": 16
+    "index": 16,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0017",
     "original": "[0101,0000]は さむくて\nスリスリ すりよってきた！",
     "translation": "[0101,0000]感觉很冷，\n向你身上靠了过来！",
-    "index": 17
+    "index": 17,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0018",
     "original": "[0101,0000]は すごく\nよろこんだ！",
     "translation": "[0101,0000]非常高兴！",
-    "index": 18
+    "index": 18,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0019",
     "original": "[0101,0000]は すこし\nほっと したみたい！",
     "translation": "[0101,0000]好像松了一口气！",
-    "index": 19
+    "index": 19,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0020",
     "original": "[0101,0000]は\nくっついて うれしそう！",
     "translation": "[0101,0000]\n很开心地戳来戳去！",
-    "index": 20
+    "index": 20,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0021",
     "original": "[0101,0000]は \nなんだか とっても うれしそう！",
     "translation": "[0101,0000]看起来非常开心！",
-    "index": 21
+    "index": 21,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0022",
     "original": "[0101,0000]は\nだいこうふん だ！",
     "translation": "[0101,0000]特别兴奋！",
-    "index": 22
+    "index": 22,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0023",
     "original": "[0101,0000]は ちょっと\nとびあがった！",
     "translation": "[0101,0000]稍微跳了一下！",
-    "index": 23
+    "index": 23,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0024",
     "original": "[0101,0000]は とっても\nよろこんでる！",
     "translation": "[0101,0000]特别高兴！",
-    "index": 24
+    "index": 24,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0025",
     "original": "[0101,0000]は\nなんだか きんちょう してる⋯⋯\\r\nこえを かけて みますか？[0200,0000]",
     "translation": "[0101,0000]\n不知怎么很紧张……\\r\n要跟它说说话吗？[0200,0000]",
-    "index": 25
+    "index": 25,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0026",
     "original": "[0101,0000]は びっくりして\nいたずらを やめた！",
     "translation": "[0101,0000]吓了一跳\n放弃了恶作剧！",
-    "index": 26
+    "index": 26,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0027",
     "original": "[0101,0000]は ピタッと\nくっついてきた！\\r\nかまって あげますか？[0200,0000]",
     "translation": "[0101,0000]\n戳了一下！\\r\n陪陪它吧？[0200,0000]",
-    "index": 27
+    "index": 27,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0028",
     "original": "[0101,0000]は まわりのもの に\nきょうみ しんしん だ！",
     "translation": "[0101,0000]对周围的事物\n非常感兴趣！",
-    "index": 28
+    "index": 28,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0029",
     "original": "[0101,0000]は とっても\nまんぞく そうだ！",
     "translation": "[0101,0000]看起来特别满足！",
-    "index": 29
+    "index": 29,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0030",
     "original": "[0101,0000]は よそみ してて\nドンと ぶつかった！",
     "translation": "[0101,0000]往旁边看了看\n突然撞了上去！",
-    "index": 30
+    "index": 30,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0031",
     "original": "[0101,0000]は あそんでほしそうに\nこっちを みつめてる⋯⋯\\r\nちょっと かまって あげますか？[0200,0000]",
     "translation": "[0101,0000]看着这边，\n似乎是很想玩……\\r\n稍微陪陪它吧？[0200,0000]",
-    "index": 31
+    "index": 31,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0032",
     "original": "[0101,0000]は いきなり\nからだを おしてきた！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "[0101,0000]\n突然放下了身子！\\r\n要注意一下吗？[0200,0000]",
-    "index": 32
+    "index": 32,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0033",
     "original": "[0101,0000]は なんだか\nうとうと してる⋯⋯\\r\nなまえを よんで みますか？[0200,0000]",
     "translation": "[0101,0000]\n不知怎么迷迷糊糊的……\\r\n叫叫它名字看吧？[0200,0000]",
-    "index": 33
+    "index": 33,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0034",
     "original": "[0101,0000]は\nきょとんと してる",
     "translation": "[0101,0000]愣在了那里。",
-    "index": 34
+    "index": 34,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0035",
     "original": "[0101,0000]は くさむらで\nゴロゴロして はっぱだらけだ！\\r\nはっぱを とって あげますか？[0200,0000]",
     "translation": "[0101,0000]在草丛里\n滚来滚去，身上都是叶子！\\r\n帮它把树叶摘下来吗？[0200,0000]",
-    "index": 35
+    "index": 35,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0036",
     "original": "[0101,0000]は いきなり\nキュッと くっついてきた！\\r\nすこし かまって あげますか？[0200,0000]",
     "translation": "[0101,0000]\n突然冲上来戳了一下！\\r\n稍微陪它玩玩吧？[0200,0000]",
-    "index": 36
+    "index": 36,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0037",
     "original": "[0101,0000]は こっちを\nじーっと みつめてる⋯⋯\\r\nよんで みますか？[0200,0000]",
     "translation": "[0101,0000]\n盯着这边看……\\r\n要叫叫它吗？[0200,0000]",
-    "index": 37
+    "index": 37,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0038",
     "original": "[0101,0000]は\nさきに いきたそうだ！",
     "translation": "[0101,0000]好像想到前面去！",
-    "index": 38
+    "index": 38,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0039",
     "original": "[0101,0000]は きゅうに\nちょっかいを だしてきた！\\r\nすこし かまって あげますか？[0200,0000]",
     "translation": "[0101,0000]\n突然伸出了前爪！\\r\n稍微陪它玩玩吧？[0200,0000]",
-    "index": 39
+    "index": 39,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0040",
     "original": "[0101,0000]は ふあんそうに\nキョロキョロ みまわしてる\\r\nこえを かけて あげますか？[0200,0000]",
     "translation": "[0101,0000]不安地\n环顾四周。\\r\n要叫叫它看吗？[0200,0000]",
-    "index": 40
+    "index": 40,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0041",
     "original": "[0101,0000]は\nボーっと してる⋯⋯\\r\nこえを かけて みますか？[0200,0000]",
     "translation": "[0101,0000]\n在发呆……\\r\n要叫叫它看吗？[0200,0000]",
-    "index": 41
+    "index": 41,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0042",
     "original": "[0101,0000]は けんきゅうじょに\nもどりたい みたい",
     "translation": "[0101,0000]\n似乎想回研究所。",
-    "index": 42
+    "index": 42,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0043",
     "original": "[0101,0000]は とつぜん\nあしに すりよってきた！",
     "translation": "[0101,0000]\n突然开始摩擦双脚！",
-    "index": 43
+    "index": 43,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0044",
     "original": "[0101,0000]は くつを\nガジガジ かんできた！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "[0101,0000]\n在咬鞋子！\\r\n要警告一下吗？[0200,0000]",
-    "index": 44
+    "index": 44,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0045",
     "original": "[0101,0000]は はっぱが\nすこし へなっと たれてる",
     "translation": "[0101,0000]的叶子\n耷拉了下来。",
-    "index": 45
+    "index": 45,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0046",
     "original": "[0101,0000]の ほっぺが\nあかく なってる！",
     "translation": "[0101,0000]的脸颊\n变得红通通的！",
-    "index": 46
+    "index": 46,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0047",
     "original": "[0101,0000]は からだを\nうごかすのも たいへんそう！",
     "translation": "[0101,0000]好像连\n活动身体都很费力！",
-    "index": 47
+    "index": 47,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0048",
     "original": "[0101,0000]は たのしそうに\nついてきてる！",
     "translation": "[0101,0000]高兴地跟了上来！",
-    "index": 48
+    "index": 48,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0049",
     "original": "[0101,0000]は [0103,0002]と\nあそびたそうだ！",
     "translation": "[0101,0000]好像想和你玩！",
-    "index": 49
+    "index": 49,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0050",
     "original": "[0101,0000]は あまえためで\nこっちを みている！",
     "translation": "[0101,0000]一脸撒娇地看着你！",
-    "index": 50
+    "index": 50,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0051",
     "original": "[0101,0000]は いっしょうけんめい\nついて きてる！",
     "translation": "[0101,0000]拼命地\n跟在后面！",
-    "index": 51
+    "index": 51,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0052",
     "original": "[0101,0000]は うれしくて\nこおどり してる！",
     "translation": "[0101,0000]\n欢欣雀跃地跳个不停！",
-    "index": 52
+    "index": 52,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0053",
     "original": "[0101,0000]は うれしくて\nすりよってきた！",
     "translation": "[0101,0000]开心地靠了过来！",
-    "index": 53
+    "index": 53,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0054",
     "original": "[0101,0000]は うれしそうな\nかおを してる！",
     "translation": "[0101,0000]的表情\n很开心！",
-    "index": 54
+    "index": 54,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0055",
     "original": "[0101,0000]は きもちよさそうに\nついてきてる！",
     "translation": "[0101,0000]欢快地\n跟在你的后面！",
-    "index": 55
+    "index": 55,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0056",
     "original": "[0101,0000]は ググッと\nちからを いれた！",
     "translation": "[0101,0000]使起了劲儿来！",
-    "index": 56
+    "index": 56,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0057",
     "original": "[0101,0000]は クルッと\nかいてん した！",
     "translation": "[0101,0000]\n转来转去！",
-    "index": 57
+    "index": 57,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0058",
     "original": "[0101,0000]は こちらを\nじーっと みてる",
     "translation": "[0101,0000]正盯着这边看呢。",
-    "index": 58
+    "index": 58,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0059",
     "original": "[0101,0000]は こっちを むいて\nニコッと した！",
     "translation": "[0101,0000]转了过来\n并冲着你笑了笑！",
-    "index": 59
+    "index": 59,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0060",
     "original": "[0101,0000]は ササッと\nみがるに うごいた！",
     "translation": "[0101,0000]轻快地动了起来！",
-    "index": 60
+    "index": 60,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0061",
     "original": "[0101,0000]は うれしくて\nスキップ なんて してる！",
     "translation": "[0101,0000]开心地跳了起来！",
-    "index": 61
+    "index": 61,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0062",
     "original": "[0101,0000]は\nとっても うれしそうだ！",
     "translation": "[0101,0000]开心极了！",
-    "index": 62
+    "index": 62,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0063",
     "original": "[0101,0000]は ピョンっと\nみがるに ジャンプした！",
     "translation": "[0101,0000]\n轻快到跳了一下！",
-    "index": 63
+    "index": 63,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0064",
     "original": "[0101,0000]は フンフンっと\nげんきに うごいた！",
     "translation": "[0101,0000]精神十足地\n动了起来！",
-    "index": 64
+    "index": 64,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0065",
     "original": "[0101,0000]は まっすぐに\nこっちを みつめてる！",
     "translation": "[0101,0000]直直地\n望着这边！",
-    "index": 65
+    "index": 65,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0066",
     "original": "[0101,0000]は\nめを そらした⋯⋯",
     "translation": "[0101,0000]\n移开了视线……",
-    "index": 66
+    "index": 66,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0067",
     "original": "[0101,0000]は [0103,0002]の\nバッグを つっついてきた！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "[0101,0000]戳了戳[0103,0002]的\n包包！\\r\n要注意一下吗？[0200,0000]",
-    "index": 67
+    "index": 67,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0068",
     "original": "[0101,0000]は [0103,0002]の\nめを じーっと みつめてる",
     "translation": "[0101,0000]一直盯着\n[0103,0002]的双眼。",
-    "index": 68
+    "index": 68,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0069",
     "original": "[0101,0000]は あいさつ した！",
     "translation": "[0101,0000]请了个安！",
-    "index": 69
+    "index": 69,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0070",
     "original": "[0101,0000]は\nあいてに あいさつ した！",
     "translation": "[0101,0000]\n跟对方问了个好！",
-    "index": 70
+    "index": 70,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0071",
     "original": "[0101,0000]は ほえだした！",
     "translation": "[0101,0000]吼了起来！",
-    "index": 71
+    "index": 71,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0072",
     "original": "[0101,0000]は あいてに むかって\nおおきく うなりごえを あげた！",
     "translation": "[0101,0000]朝着对方\n发出了巨大的响声！",
-    "index": 72
+    "index": 72,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0073",
     "original": "[0101,0000]は\nあいてを いかく してる！",
     "translation": "[0101,0000]\n在威吓对方！",
-    "index": 73
+    "index": 73,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0074",
     "original": "[0101,0000]は あいてを\nキッと にらんだ！",
     "translation": "[0101,0000]\n瞪着对方看！",
-    "index": 74
+    "index": 74,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0075",
     "original": "[0101,0000]は あいてを\nじーっと みてる",
     "translation": "[0101,0000]\n盯着对方看。",
-    "index": 75
+    "index": 75,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0076",
     "original": "[0101,0000]は アカリちゃんが\nきになる みたい！",
     "translation": "[0101,0000]似乎很喜欢\n光儿！",
-    "index": 76
+    "index": 76,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0077",
     "original": "[0101,0000]は アカリちゃんと\nあそびたそうだ！",
     "translation": "[0101,0000]很想和\n光儿玩！",
-    "index": 77
+    "index": 77,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0078",
     "original": "[0101,0000]は アカリちゃんに\nあいさつ した！",
     "translation": "[0101,0000]跟光儿\n问了声好！",
-    "index": 78
+    "index": 78,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0079",
     "original": "[0101,0000]は アカリちゃんを\nきにしている⋯⋯",
     "translation": "[0101,0000]很喜欢\n光儿……",
-    "index": 79
+    "index": 79,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0080",
     "original": "[0101,0000]は あくびを⋯⋯\n⋯⋯ ⋯⋯ ⋯⋯\\r\nやめちゃった",
     "translation": "[0101,0000]在打哈……\n………………\\r\n不，它忍住了。",
-    "index": 80
+    "index": 80,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0081",
     "original": "[0101,0000]は あさひを\nながめてる⋯⋯",
     "translation": "[0101,0000]\n眺望朝阳……",
-    "index": 81
+    "index": 81,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0082",
     "original": "[0101,0000]は あしに\nかみついて きた！",
     "translation": "[0101,0000]\n咬着脚！",
-    "index": 82
+    "index": 82,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0083",
     "original": "[0101,0000]は あしもとを\nつついて きた",
     "translation": "[0101,0000]戳了戳你的脚。",
-    "index": 83
+    "index": 83,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0084",
     "original": "[0101,0000]は あしもとを\nガジガジ かんで きた！\\r\nすこし おこりますか？[0200,0000]",
     "translation": "[0101,0000]\n啃咬着你的脚！\\r\n要对它发火吗？[0200,0000]",
-    "index": 84
+    "index": 84,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0085",
     "original": "[0101,0000]は あしもとを\nハムハム かんで きた！\\r\nすこし おこりますか？[0200,0000]",
     "translation": "[0101,0000]\n吞咬着你的脚！\\r\n要对它发火吗？[0200,0000]",
-    "index": 85
+    "index": 85,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0086",
     "original": "[0101,0000]は あたまを\nじーっと みつめてる⋯⋯",
     "translation": "[0101,0000]\n盯着你的头看……",
-    "index": 86
+    "index": 86,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0087",
     "original": "[0101,0000]は あたりを\nけいかい してる！",
     "translation": "[0101,0000]正在警惕四周！",
-    "index": 87
+    "index": 87,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0088",
     "original": "[0101,0000]は あたりを\nみまわしている！",
     "translation": "[0101,0000]在四下张望！",
-    "index": 88
+    "index": 88,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0089",
     "original": "[0101,0000]は あつくて\nいやそうな かおを してる",
     "translation": "[0101,0000]很热，\n表情很不舒服。",
-    "index": 89
+    "index": 89,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0090",
     "original": "[0101,0000]は あつくて\nうつむいてる⋯⋯",
     "translation": "[0101,0000]很热，\n蹲了下来……",
-    "index": 90
+    "index": 90,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0091",
     "original": "[0101,0000]は あつくて\nすごく たのしそう！",
     "translation": "[0101,0000]很热，\n非常开心！",
-    "index": 91
+    "index": 91,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0092",
     "original": "[0101,0000]は\nあめで うれしそう！",
     "translation": "[0101,0000]\n看着下雨很开心！",
-    "index": 92
+    "index": 92,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0093",
     "original": "[0101,0000]は あめで\nとっても よろこんでる！",
     "translation": "[0101,0000]\n看着下雨非常开心！",
-    "index": 93
+    "index": 93,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0094",
     "original": "[0101,0000]は あめに\nびっくり したみたい！",
     "translation": "[0101,0000]似乎\n被雨吓了一跳！",
-    "index": 94
+    "index": 94,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0095",
     "original": "[0101,0000]は あやうく\nころびそうに なった！",
     "translation": "[0101,0000]\n差点要摔倒了！",
-    "index": 95
+    "index": 95,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0096",
     "original": "[0101,0000]は いきおいよく\nひを だした！",
     "translation": "[0101,0000]猛地发出了火焰！",
-    "index": 96
+    "index": 96,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0097",
     "original": "[0101,0000]は いきなり\nおこり はじめた！",
     "translation": "[0101,0000]突然生起了气来！",
-    "index": 97
+    "index": 97,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0098",
     "original": "[0101,0000]は いきなり\nおたけびを あげた！",
     "translation": "[0101,0000]突然吼了起来！",
-    "index": 98
+    "index": 98,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0099",
     "original": "[0101,0000]は いきなり\nうしろに むかって ほえだした！",
     "translation": "[0101,0000]\n突然对着后面吼了起来！",
-    "index": 99
+    "index": 99,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0100",
     "original": "[0101,0000]は いきなり\nサッと うしろを むいた！",
     "translation": "[0101,0000]突然\n转过了身去！",
-    "index": 100
+    "index": 100,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0101",
     "original": "[0101,0000]は じめんを\nつっついて あそんでる",
     "translation": "[0101,0000]正在戳着地面玩。",
-    "index": 101
+    "index": 101,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0102",
     "original": "[0101,0000]は じめんを\nいじって あそんでる",
     "translation": "[0101,0000]正在玩弄着地面。",
-    "index": 102
+    "index": 102,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0103",
     "original": "[0101,0000]は じめんを\nつっついて あそんでる",
     "translation": "[0101,0000]正在戳着地面玩。",
-    "index": 103
+    "index": 103,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0104",
     "original": "[0101,0000]は いしころを\nコロコロ ころがして あそんでる",
     "translation": "[0101,0000]正在骨碌骨碌地\n滚着石头玩。",
-    "index": 104
+    "index": 104,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0105",
     "original": "[0101,0000]は まわりの\nにおいを かいでる",
     "translation": "[0101,0000]正在闻着周围的气味。",
-    "index": 105
+    "index": 105,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0106",
     "original": "[0101,0000]は いわをみて\nびっくり した！",
     "translation": "[0101,0000]看着岩石\n吓了一跳！",
-    "index": 106
+    "index": 106,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0107",
     "original": "[0101,0000]は うえをむいて\nあんぐり くちを あけている",
     "translation": "[0101,0000]对着前面\n张大了嘴巴。",
-    "index": 107
+    "index": 107,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0108",
     "original": "[0101,0000]は うえをむいて\nがーっと くちを あけている",
     "translation": "[0101,0000]对着前面\n张大了嘴巴。",
-    "index": 108
+    "index": 108,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0109",
     "original": "[0101,0000]は ウキウキしてる！",
     "translation": "[0101,0000]看起来兴高采烈的！",
-    "index": 109
+    "index": 109,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0110",
     "original": "[0101,0000]は うでを\nまわして きあいを いれた！",
     "translation": "[0101,0000]\n转着手！",
-    "index": 110
+    "index": 110,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0111",
     "original": "[0101,0000]は\nうなりごえを あげた！",
     "translation": "[0101,0000]\n发出叫声！",
-    "index": 111
+    "index": 111,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0112",
     "original": "[0101,0000]は\nうなりごえを あげた！",
     "translation": "[0101,0000]\n发出叫声！",
-    "index": 112
+    "index": 112,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0113",
     "original": "[0101,0000]は うみを\nじーっと みつめてる",
     "translation": "[0101,0000]\n盯着大海看。",
-    "index": 113
+    "index": 113,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0114",
     "original": "[0101,0000]は うみを みて\nよろこんでる！",
     "translation": "[0101,0000]看着大海\n很开心！",
-    "index": 114
+    "index": 114,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0115",
     "original": "[0101,0000]は うれしくて\nおどり だした！",
     "translation": "[0101,0000]开心地\n跳起了舞！",
-    "index": 115
+    "index": 115,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0116",
     "original": "[0101,0000]は うれしくて\nゴロゴロ してる",
     "translation": "[0101,0000]正在\n开心地打滚。",
-    "index": 116
+    "index": 116,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0117",
     "original": "[0101,0000]は うれしそうに\nあいさつ した！",
     "translation": "[0101,0000]开心地\n问好！",
-    "index": 117
+    "index": 117,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0118",
     "original": "[0101,0000]は\nうれしそうに ゴロゴロしてる！",
     "translation": "[0101,0000]看起来很高兴地\n在打滚呢！",
-    "index": 118
+    "index": 118,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0119",
     "original": "[0101,0000]は\nうれしそうに ジャンプした！",
     "translation": "[0101,0000]\n开心地跳了起来！",
-    "index": 119
+    "index": 119,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0120",
     "original": "[0101,0000]は うれしそうに\nピシャピシャ はねてる！",
     "translation": "[0101,0000]开心地\n蹦来蹦去！",
-    "index": 120
+    "index": 120,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0121",
     "original": "[0101,0000]は\nでんしゃに のりたそう！",
     "translation": "[0101,0000]\n很想坐电车！",
-    "index": 121
+    "index": 121,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0122",
     "original": "[0101,0000]は えだに\nひっかかって ころびそうに なった！",
     "translation": "[0101,0000]很开心地\n挂在树枝上！",
-    "index": 122
+    "index": 122,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0123",
     "original": "[0101,0000]は えだに\nぶつかって びっくりした！",
     "translation": "[0101,0000]撞在\n树枝上吓了一跳！",
-    "index": 123
+    "index": 123,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0124",
     "original": "[0101,0000]は おおきく\nくちを あけた！",
     "translation": "[0101,0000]大大地张着嘴！",
-    "index": 124
+    "index": 124,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0125",
     "original": "[0101,0000]は\nおおきく ほえだした！",
     "translation": "[0101,0000]大叫了起来！",
-    "index": 125
+    "index": 125,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0126",
     "original": "[0101,0000]は\nおおきな あくびを した！",
     "translation": "[0101,0000]打了个大哈欠！",
-    "index": 126
+    "index": 126,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0127",
     "original": "[0101,0000]は\nおくを じーっと みてる⋯⋯",
     "translation": "[0101,0000]\n盯着里面看……",
-    "index": 127
+    "index": 127,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0128",
     "original": "[0101,0000]は おくのほうを\nみて ブルッと ふるえた⋯⋯",
     "translation": "[0101,0000]看着里面\n颤抖……",
-    "index": 128
+    "index": 128,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0129",
     "original": "[0101,0000]は\nおたけびを あげた！",
     "translation": "[0101,0000]吼叫了起来！",
-    "index": 129
+    "index": 129,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0130",
     "original": "[0101,0000]は\nおちばを いじって あそんでいる",
     "translation": "[0101,0000]\n摆弄着落叶玩。",
-    "index": 130
+    "index": 130,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0131",
     "original": "[0101,0000]は\nおとしあなが きになるみたい",
     "translation": "[0101,0000]\n似乎对陷阱很好奇。",
-    "index": 131
+    "index": 131,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0132",
     "original": "[0101,0000]は\nおなかを ツンツン してきた！",
     "translation": "[0101,0000]\n对里面的东西很好奇！",
-    "index": 132
+    "index": 132,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0133",
     "original": "[0101,0000]は かおに\nあせを たらしている⋯⋯",
     "translation": "[0101,0000]的脸上在流汗……",
-    "index": 133
+    "index": 133,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0134",
     "original": "[0101,0000]は\nがけをみて こわがってる⋯⋯",
     "translation": "[0101,0000]\n看着悬崖害怕……",
-    "index": 134
+    "index": 134,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0135",
     "original": "[0101,0000]は\nからだが ピリッと したみたい！",
     "translation": "[0101,0000]\n想动一下身体！",
-    "index": 135
+    "index": 135,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0136",
     "original": "[0101,0000]は\nからだを しゃきっと させた！",
     "translation": "[0101,0000]挺起了身板！",
-    "index": 136
+    "index": 136,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0137",
     "original": "[0101,0000]は からだを\nブルブルッと ふるえさせた！",
     "translation": "[0101,0000]瑟瑟地抖着身体！",
-    "index": 137
+    "index": 137,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0138",
     "original": "[0101,0000]は\nかわの ながれを ジッとみてる",
     "translation": "[0101,0000]\n盯着河水的流动。",
-    "index": 138
+    "index": 138,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0139",
     "original": "[0101,0000]は きあいを いれた！",
     "translation": "[0101,0000]打起了精神！",
-    "index": 139
+    "index": 139,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0140",
     "original": "[0101,0000]は\nきかいの おとを きいてる",
     "translation": "[0101,0000]\n听着机械的声音。",
-    "index": 140
+    "index": 140,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0141",
     "original": "[0101,0000]は\nきかいを さわりたそう！",
     "translation": "[0101,0000]\n似乎很想摸机械！",
-    "index": 141
+    "index": 141,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0142",
     "original": "[0101,0000]は\nきかいを じーっと みつめてる",
     "translation": "[0101,0000]\n盯着机械看。",
-    "index": 142
+    "index": 142,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0143",
     "original": "[0101,0000]は\nキッと あいてを にらんだ！",
     "translation": "[0101,0000]\n瞪着对方看！",
-    "index": 143
+    "index": 143,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0144",
     "original": "[0101,0000]は \nきゅうに ほえだした！",
     "translation": "[0101,0000]突然大叫了起来！",
-    "index": 144
+    "index": 144,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0145",
     "original": "[0101,0000]は\nきように うごいて アピールした！",
     "translation": "[0101,0000]\n灵活地后撤！",
-    "index": 145
+    "index": 145,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0146",
     "original": "[0101,0000]は\nきょうみ しんしんだ！",
     "translation": "[0101,0000]一副兴致勃勃的样子！",
-    "index": 146
+    "index": 146,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0147",
     "original": "[0101,0000]は キョロキョロ\nあたりを みまわしてる",
     "translation": "[0101,0000]不停地环视着周围。",
-    "index": 147
+    "index": 147,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0148",
     "original": "[0101,0000]は キョロキョロして\nおとを きいている",
     "translation": "[0101,0000]紧张地\n发出声音。",
-    "index": 148
+    "index": 148,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0149",
     "original": "[0101,0000]は キョロキョロ\nなにかを さがしてる",
     "translation": "[0101,0000]东张西望地\n在找着什么。",
-    "index": 149
+    "index": 149,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0150",
     "original": "[0101,0000]は キョロキョロ してる",
     "translation": "[0101,0000]在四处张望。",
-    "index": 150
+    "index": 150,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0151",
     "original": "[0101,0000]は キョロキョロ\nもりを ながめている",
     "translation": "[0101,0000]紧张地\n盯着森林。",
-    "index": 151
+    "index": 151,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0152",
     "original": "[0101,0000]は キョロキョロして\nみずのながれる おとを きいてる",
     "translation": "[0101,0000]不安地\n听着水流的声音。",
-    "index": 152
+    "index": 152,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0153",
     "original": "[0101,0000]は キョロキョロと\nあたりを みまわしてる",
     "translation": "[0101,0000]不安地\n张望四周。",
-    "index": 153
+    "index": 153,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0154",
     "original": "[0101,0000]は きを\nじーっと みてる",
     "translation": "[0101,0000]\n盯着树看。",
-    "index": 154
+    "index": 154,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0155",
     "original": "[0101,0000]は きを ひきしめた！",
     "translation": "[0101,0000]靠着树！",
-    "index": 155
+    "index": 155,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0156",
     "original": "[0101,0000]は\nきんちょうして かたくなってる",
     "translation": "[0101,0000]\n紧张得有点僵硬。",
-    "index": 156
+    "index": 156,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0157",
     "original": "[0101,0000]は くさを\nつついて あそんでる",
     "translation": "[0101,0000]\n戳着草玩。",
-    "index": 157
+    "index": 157,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0158",
     "original": "[0101,0000]は\nくさを パクパク くわえてる",
     "translation": "[0101,0000]\n吃着草。",
-    "index": 158
+    "index": 158,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0159",
     "original": "[0101,0000]は\nくさを ひっぱって あそんでる！",
     "translation": "[0101,0000]\n拔着草玩！",
-    "index": 159
+    "index": 159,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0160",
     "original": "[0101,0000]は くずれそうな\nゆかを みつめてる",
     "translation": "[0101,0000]盯着\n快塌的地板看。",
-    "index": 160
+    "index": 160,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0161",
     "original": "[0101,0000]は くずれそうな\nてんじょうを みあげてる",
     "translation": "[0101,0000]盯着\n快塌的天花板看。",
-    "index": 161
+    "index": 161,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0162",
     "original": "[0101,0000]は くちを\nあんぐり あけている",
     "translation": "[0101,0000]把嘴巴张得大大的。",
-    "index": 162
+    "index": 162,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0163",
     "original": "[0101,0000]は\nくちを ガチガチ ならしてる！",
     "translation": "[0101,0000]的嘴正在打颤！",
-    "index": 163
+    "index": 163,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0164",
     "original": "[0101,0000]は くびを まわして\nきあいを いれた！",
     "translation": "[0101,0000]扭动着脖子，\n鼓足了干劲！",
-    "index": 164
+    "index": 164,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0165",
     "original": "[0101,0000]は\nがんばって ついてきてる⋯⋯",
     "translation": "[0101,0000]\n努力地跟在后面……",
-    "index": 165
+    "index": 165,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0166",
     "original": "[0101,0000]は くるっと\nかいてん した！",
     "translation": "[0101,0000]在原地转起了圈来！",
-    "index": 166
+    "index": 166,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0167",
     "original": "[0101,0000]は くんくん\nしおの かおりを かいでいる",
     "translation": "[0101,0000]嗅着\n潮水的味道。",
-    "index": 167
+    "index": 167,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0168",
     "original": "[0101,0000]は\nけいかいを している！",
     "translation": "[0101,0000]正保持着警惕！",
-    "index": 168
+    "index": 168,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0169",
     "original": "[0101,0000]は\nげんき いっぱいだ！",
     "translation": "[0101,0000]精神十足！",
-    "index": 169
+    "index": 169,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0170",
     "original": "[0101,0000]は\nげんきに あいさつした！",
     "translation": "[0101,0000]\n精力旺盛地打招呼！",
-    "index": 170
+    "index": 170,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0171",
     "original": "[0101,0000]は\nげんきよく とびあがった！",
     "translation": "[0101,0000]精神十足地\n跳了起来！",
-    "index": 171
+    "index": 171,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0172",
     "original": "[0101,0000]は\nこおりを いじってる",
     "translation": "[0101,0000]\n玩着冰。",
-    "index": 172
+    "index": 172,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0173",
     "original": "[0101,0000]は\nこおりを つっついてる",
     "translation": "[0101,0000]\n戳着冰。",
-    "index": 173
+    "index": 173,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0174",
     "original": "[0101,0000]は コツコツ じめんを\nつっついて なにかを さがしてる",
     "translation": "[0101,0000]一个劲地戳着地面，\n好像是在找着什么。",
-    "index": 174
+    "index": 174,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0175",
     "original": "[0101,0000]は\nこっちの かおを じっと みつめてる",
     "translation": "[0101,0000]\n盯着这边的脸看。",
-    "index": 175
+    "index": 175,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0176",
     "original": "[0101,0000]は\nこっちを みて ニヤッとした",
     "translation": "[0101,0000]\n盯着这边喵了一声。",
-    "index": 176
+    "index": 176,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0177",
     "original": "[0101,0000]は\nこっちをみて うなずいた",
     "translation": "[0101,0000]\n看着这边喃喃自语。",
-    "index": 177
+    "index": 177,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0178",
     "original": "[0101,0000]は こもれびを みつめてる",
     "translation": "[0101,0000]看着森林里的阳光。",
-    "index": 178
+    "index": 178,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0179",
     "original": "[0101,0000]は ゴロゴロしてる",
     "translation": "[0101,0000]滚来滚去。",
-    "index": 179
+    "index": 179,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0180",
     "original": "[0101,0000]は こわがって\n[0103,0002]に すりよった！",
     "translation": "[0101,0000]害怕地\n蹭着[0103,0002]！",
-    "index": 180
+    "index": 180,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0181",
     "original": "[0101,0000]は こわくて\nすりよってきた！",
     "translation": "[0101,0000]很害怕地\n蹭着你！",
-    "index": 181
+    "index": 181,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0182",
     "original": "[0101,0000]は さむくって\nウキウキ してる！",
     "translation": "[0101,0000]很冷\n很兴奋！",
-    "index": 182
+    "index": 182,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0183",
     "original": "[0101,0000]は さむくて\nいやそうな かおをしてる⋯⋯",
     "translation": "[0101,0000]很冷\n感觉非常不舒服……",
-    "index": 183
+    "index": 183,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0184",
     "original": "[0101,0000]は さむくて\nキャッキャ してる！",
     "translation": "[0101,0000]很冷\n感觉很烦躁！",
-    "index": 184
+    "index": 184,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0185",
     "original": "[0101,0000]は さむくて\nからだを すこし ちいさくしてる⋯⋯",
     "translation": "[0101,0000]很冷\n身体稍微有缩小……",
-    "index": 185
+    "index": 185,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0186",
     "original": "[0101,0000]は\nしおかぜを うけて きもちよさそう！",
     "translation": "[0101,0000]\n吹着海风感觉很舒服！",
-    "index": 186
+    "index": 186,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0187",
     "original": "[0101,0000]は したをみて\nドキドキ してる！",
     "translation": "[0101,0000]看着下面\n很激动！",
-    "index": 187
+    "index": 187,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0188",
     "original": "[0101,0000]は\nしたをみて びっくり した！",
     "translation": "[0101,0000]\n看着下面吓了一跳！",
-    "index": 188
+    "index": 188,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0189",
     "original": "[0101,0000]は\nしっぽの ひを ボッとした！",
     "translation": "[0101,0000]\n尾巴上的火突然旺了起来！",
-    "index": 189
+    "index": 189,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0190",
     "original": "[0101,0000]は\nじてんしゃが きになる みたい！",
     "translation": "[0101,0000]\n似乎很喜欢骑自行车！",
-    "index": 190
+    "index": 190,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0191",
     "original": "[0101,0000]は [0103,0002]の\nあしあとを みてる",
     "translation": "[0101,0000]看着\n[0103,0002]的脚印。",
-    "index": 191
+    "index": 191,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0192",
     "original": "[0101,0000]は\nじぶんの かおを じっとみてる",
     "translation": "[0101,0000]\n盯着自己的脸看。",
-    "index": 192
+    "index": 192,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0193",
     "original": "[0101,0000]は\nじぶんの かおを みつめてる",
     "translation": "[0101,0000]\n看着自己的脸。",
-    "index": 193
+    "index": 193,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0194",
     "original": "[0101,0000]は \nジメジメしてて いやそうにしてる⋯⋯",
     "translation": "[0101,0000]\n湿漉漉的很不爽……",
-    "index": 194
+    "index": 194,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0195",
     "original": "[0101,0000]は じめんの においを\nクンクン かいでる",
     "translation": "[0101,0000]不停地\n闻着地面上的气味。",
-    "index": 195
+    "index": 195,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0196",
     "original": "[0101,0000]は じめんを\nコツコツ つついてる",
     "translation": "[0101,0000]一个劲地戳着地面。",
-    "index": 196
+    "index": 196,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0197",
     "original": "[0101,0000]は じーっと\nしたを むいてる",
     "translation": "[0101,0000]一直盯着下面看。",
-    "index": 197
+    "index": 197,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0198",
     "original": "[0101,0000]は じめんを つついてる",
     "translation": "[0101,0000]正在戳着地面。",
-    "index": 198
+    "index": 198,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0199",
     "original": "[0101,0000]は\nじめんを ほって あそんでる",
     "translation": "[0101,0000]\n挖洞玩。",
-    "index": 199
+    "index": 199,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0200",
     "original": "[0101,0000]は じめんを\nコツコツ つっついてる",
     "translation": "[0101,0000]一个劲地\n戳着地面。",
-    "index": 200
+    "index": 200,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0201",
     "original": "[0101,0000]は\nじゅんびうんどう してるのかな？",
     "translation": "[0101,0000]是在做热身运动吗？",
-    "index": 201
+    "index": 201,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0202",
     "original": "[0101,0000]は\nしんちょうに ついてきている！",
     "translation": "[0101,0000]小心地\n跟了上来！",
-    "index": 202
+    "index": 202,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0203",
     "original": "[0101,0000]は きんちょうして\nおとなしく している⋯⋯",
     "translation": "[0101,0000]很紧张地\n老实不动……",
-    "index": 203
+    "index": 203,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0204",
     "original": "[0101,0000]は すごく うれしそう！",
     "translation": "[0101,0000]看起来可开心了！",
-    "index": 204
+    "index": 204,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0205",
     "original": "[0101,0000]は\nすこし きんちょう してる みたい",
     "translation": "[0101,0000]看起来好像有点紧张。",
-    "index": 205
+    "index": 205,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0206",
     "original": "[0101,0000]は\nすこし こうふん してる！",
     "translation": "[0101,0000]有点兴奋！",
-    "index": 206
+    "index": 206,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0207",
     "original": "[0101,0000]は すこし ころんで\nワタワタした！",
     "translation": "[0101,0000]摔了一小跤，\n有点慌慌的！",
-    "index": 207
+    "index": 207,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0208",
     "original": "[0101,0000]は\nすこし つかれてる みたい",
     "translation": "[0101,0000]好像有点累了。",
-    "index": 208
+    "index": 208,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0209",
     "original": "[0101,0000]は すばやく\nうごいて アピールした！",
     "translation": "[0101,0000]迅速地\n后撤！",
-    "index": 209
+    "index": 209,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0210",
     "original": "[0101,0000]は すこし\nピリッとして びっくり したみたい！",
     "translation": "[0101,0000]\n稍微有点吃惊！",
-    "index": 210
+    "index": 210,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0211",
     "original": "[0101,0000]は すべって ぶつかった！",
     "translation": "[0101,0000]撞了上去！",
-    "index": 211
+    "index": 211,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0212",
     "original": "[0101,0000]は せまくて\nイライラ してる！",
     "translation": "[0101,0000]\n觉得太小太不舒服！",
-    "index": 212
+    "index": 212,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0213",
     "original": "[0101,0000]は せまくて \nけいかい してる！",
     "translation": "[0101,0000]\n觉得太小而提高警惑！",
-    "index": 213
+    "index": 213,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0214",
     "original": "[0101,0000]は そとを きにしてる！",
     "translation": "[0101,0000]好奇外面！",
-    "index": 214
+    "index": 214,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0215",
     "original": "[0101,0000]は そとを ながめて\nよろこんでる！",
     "translation": "[0101,0000]看着外面\n很高兴！",
-    "index": 215
+    "index": 215,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0216",
     "original": "[0101,0000]は そとを みたくて\nうずうず してる！",
     "translation": "[0101,0000]想看外面\n心痒痒！",
-    "index": 216
+    "index": 216,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0217",
     "original": "[0101,0000]は そとを みたくて\nつんつん してきた！",
     "translation": "[0101,0000]很想看外面\n有点迫不及待！",
-    "index": 217
+    "index": 217,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0218",
     "original": "[0101,0000]は そらを みて\nまぶしそうに してる！",
     "translation": "[0101,0000]看着天空\n有点头晕！",
-    "index": 218
+    "index": 218,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0219",
     "original": "[0101,0000]は\nたかい やまを みあげてる⋯⋯",
     "translation": "[0101,0000]\n眺望高山……",
-    "index": 219
+    "index": 219,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0220",
     "original": "[0101,0000]は たかい やまを\nみて おたけびを あげた！",
     "translation": "[0101,0000]看着高山\n大吼！",
-    "index": 220
+    "index": 220,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0221",
     "original": "[0101,0000]は\nたきが きになる みたい！",
     "translation": "[0101,0000]\n似乎对瀑布很有兴趣！",
-    "index": 221
+    "index": 221,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0222",
     "original": "[0101,0000]は\nたきの おとを きいてる",
     "translation": "[0101,0000]\n听着瀑布的声音。",
-    "index": 222
+    "index": 222,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0223",
     "original": "[0101,0000]は たきの\nなかから おとが きこえるみたい！？",
     "translation": "[0101,0000]似乎从\n瀑布中听到了什么！？",
-    "index": 223
+    "index": 223,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0224",
     "original": "[0101,0000]は たきの なかに\nなにかを みつけたみたい！？",
     "translation": "[0101,0000]似乎在\n瀑布中找到了什么！？",
-    "index": 224
+    "index": 224,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0225",
     "original": "[0101,0000]は\nたくさんうごいて アピールした！",
     "translation": "[0101,0000]\n有点抱怨了！",
-    "index": 225
+    "index": 225,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0226",
     "original": "[0101,0000]は\nただならぬ けはいを かんじている⋯⋯",
     "translation": "[0101,0000]\n感觉到了不一般的气息……",
-    "index": 226
+    "index": 226,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0227",
     "original": "[0101,0000]は\nたたみの においを かいでる",
     "translation": "[0101,0000]\n嗅着槌槌米的气味。",
-    "index": 227
+    "index": 227,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0228",
     "original": "[0101,0000]は\nたてものの おとを きいている",
     "translation": "[0101,0000]\n听着建筑的声音。",
-    "index": 228
+    "index": 228,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0229",
     "original": "[0101,0000]は タワーを みあげている",
     "translation": "[0101,0000]抬头看着塔。",
-    "index": 229
+    "index": 229,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0230",
     "original": "[0101,0000]は\nちいさく うなっている⋯⋯",
     "translation": "[0101,0000]小声地嘀咕着……",
-    "index": 230
+    "index": 230,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0231",
     "original": "[0101,0000]は\nちからいっぱいに アピールした！",
     "translation": "[0101,0000]使出全力炫耀了一番！",
-    "index": 231
+    "index": 231,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0232",
     "original": "[0101,0000]は\nちょっと いやそうなかおを してる⋯⋯",
     "translation": "[0101,0000]看起来好像有点不开心……",
-    "index": 232
+    "index": 232,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0233",
     "original": "[0101,0000]は\nちょっと きんちょう してる⋯⋯",
     "translation": "[0101,0000]有点紧张……",
-    "index": 233
+    "index": 233,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0234",
     "original": "[0101,0000]は ちょっと こわがってる",
     "translation": "[0101,0000]稍微有点害怕。",
-    "index": 234
+    "index": 234,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0235",
     "original": "[0101,0000]は\nちょっと ピリッと したみたい！",
     "translation": "[0101,0000]好像有点麻麻的！",
-    "index": 235
+    "index": 235,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0236",
     "original": "[0101,0000]は\nちょっと まよってる みたい⋯⋯",
     "translation": "[0101,0000]\n似乎有点迷惑……",
-    "index": 236
+    "index": 236,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0237",
     "original": "[0101,0000]は\nつりを じっと みてる",
     "translation": "[0101,0000]\n盯着钓鱼看。",
-    "index": 237
+    "index": 237,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0238",
     "original": "[0101,0000]は つるを\nビシッと した！",
     "translation": "[0101,0000]拉紧了藤蔓！",
-    "index": 238
+    "index": 238,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0239",
     "original": "[0101,0000]は つるを\nフリフリした！",
     "translation": "[0101,0000]晃动着藤蔓！",
-    "index": 239
+    "index": 239,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0240",
     "original": "[0101,0000]は\nてんじひんを じーっと みてる",
     "translation": "[0101,0000]\n盯着展示品看。",
-    "index": 240
+    "index": 240,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0241",
     "original": "[0101,0000]は てんじょうを みて\nおどろいてる！",
     "translation": "[0101,0000]看着天花板\n吓了一跳！",
-    "index": 241
+    "index": 241,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0242",
     "original": "[0101,0000]は てんじょうを みて\nころびそうに なった！",
     "translation": "[0101,0000]看着天花板\n很开心！",
-    "index": 242
+    "index": 242,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0243",
     "original": "[0101,0000]は\nてんじょうを みあげている",
     "translation": "[0101,0000]\n抬头看着天花板。",
-    "index": 243
+    "index": 243,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0244",
     "original": "[0101,0000]は とおくに\nむかって ほえだした！",
     "translation": "[0101,0000]朝着远处吼了出来！",
-    "index": 244
+    "index": 244,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0245",
     "original": "[0101,0000]は\nとっても あつそうだ⋯⋯",
     "translation": "[0101,0000]\n似乎非常热……",
-    "index": 245
+    "index": 245,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0246",
     "original": "[0101,0000]は おかあさんに\nあいさつした！",
     "translation": "[0101,0000]跟妈妈\n问了声好！",
-    "index": 246
+    "index": 246,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0247",
     "original": "[0101,0000]は\nとっても うれしそう！",
     "translation": "[0101,0000]看起来非常开心！",
-    "index": 247
+    "index": 247,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0248",
     "original": "[0101,0000]は\nとっても さむそうだ！",
     "translation": "[0101,0000]\n似乎非常冷！",
-    "index": 248
+    "index": 248,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0249",
     "original": "[0101,0000]は\nとっても たのしそう！",
     "translation": "[0101,0000]\n似乎非常开心！",
-    "index": 249
+    "index": 249,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0250",
     "original": "[0101,0000]は\nすなのうえで あそんでる！",
     "translation": "[0101,0000]\n在沙子上玩！",
-    "index": 250
+    "index": 250,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0251",
     "original": "[0101,0000]は ながいくさに\nからまって あそんでる！",
     "translation": "[0101,0000]陷进长草中\n玩！",
-    "index": 251
+    "index": 251,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0252",
     "original": "[0101,0000]は ながいくさに\nからまって ワタワタした！",
     "translation": "[0101,0000]陷进长草中\n非常烦躁！",
-    "index": 252
+    "index": 252,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0253",
     "original": "[0101,0000]は ながいくさに\nつまずきそうに なった！",
     "translation": "[0101,0000]陷进长草中\n似乎是拔不出来了！",
-    "index": 253
+    "index": 253,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0254",
     "original": "[0101,0000]は ながいくさを\nパクパク してる",
     "translation": "[0101,0000]吃着\n长长的草。",
-    "index": 254
+    "index": 254,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0255",
     "original": "[0101,0000]は ながれるうみを\nジッと みつめてる⋯⋯",
     "translation": "[0101,0000]看着\n海水的流动……",
-    "index": 255
+    "index": 255,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0256",
     "original": "[0101,0000]は なにかに\nおびえている みたい⋯⋯",
     "translation": "[0101,0000]似乎\n在怕着什么……",
-    "index": 256
+    "index": 256,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0257",
     "original": "[0101,0000]は なにかの おとに\nびっくりした！",
     "translation": "[0101,0000]被什么声音\n给吓住了！",
-    "index": 257
+    "index": 257,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0258",
     "original": "[0101,0000]は なにかの けはいを\nかんじて びっくりしている！",
     "translation": "[0101,0000]感觉到了什么\n气息后吓了一跳！",
-    "index": 258
+    "index": 258,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0259",
     "original": "[0101,0000]は なにかの\nけはいを かんじている⋯⋯",
     "translation": "[0101,0000]感觉到了\n某种气息……",
-    "index": 259
+    "index": 259,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0260",
     "original": "[0101,0000]は なにかを\nみつけたみたい！",
     "translation": "[0101,0000]似乎是\n找到了什么东西！",
-    "index": 260
+    "index": 260,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0261",
     "original": "[0101,0000]は なみのおとを\nじーっと きいてる",
     "translation": "[0101,0000]静静地听着\n波涛的声音。",
-    "index": 261
+    "index": 261,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0262",
     "original": "[0101,0000]は なみをみて\nよろこんでる！",
     "translation": "[0101,0000]看着波浪\n很开心！",
-    "index": 262
+    "index": 262,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0263",
     "original": "[0101,0000]は なんだか\nあやしい おとが きこえるみたい",
     "translation": "[0101,0000]不知怎么\n似乎听到了可疑的声音。",
-    "index": 263
+    "index": 263,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0264",
     "original": "[0101,0000]は なんだか うれしそう！",
     "translation": "[0101,0000]看上去好像挺开心的！",
-    "index": 264
+    "index": 264,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0265",
     "original": "[0101,0000]は なんだか おこってる！",
     "translation": "[0101,0000]看起来很生气！",
-    "index": 265
+    "index": 265,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0266",
     "original": "[0101,0000]は なんだか\nきんちょう してる！",
     "translation": "[0101,0000]好像很紧张！",
-    "index": 266
+    "index": 266,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0267",
     "original": "[0101,0000]は なんだか\nさむそうに してる⋯⋯",
     "translation": "[0101,0000]不知怎么\n很冷……",
-    "index": 267
+    "index": 267,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0268",
     "original": "[0101,0000]は なんだか たのしそう！",
     "translation": "[0101,0000]看起来很高兴！",
-    "index": 268
+    "index": 268,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0269",
     "original": "[0101,0000]は\nなんだか てれちゃってる",
     "translation": "[0101,0000]好像有些害羞。",
-    "index": 269
+    "index": 269,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0270",
     "original": "[0101,0000]は なんだか\nとっても うれしそう！",
     "translation": "[0101,0000]看起来非常开心！",
-    "index": 270
+    "index": 270,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0271",
     "original": "[0101,0000]は においを\nかいで あやしんでる",
     "translation": "[0101,0000]嗅着味道\n觉得很可疑。",
-    "index": 271
+    "index": 271,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0272",
     "original": "[0101,0000]は\nニコッと こっちを みた",
     "translation": "[0101,0000]\n笑着看着这边。",
-    "index": 272
+    "index": 272,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0273",
     "original": "[0101,0000]は のんびり してる",
     "translation": "[0101,0000]悠悠哉哉的。",
-    "index": 273
+    "index": 273,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0274",
     "original": "[0101,0000]は はしの ひかりで\nまぶしそうに した！",
     "translation": "[0101,0000]被光\n晃到睁不开眼睛！",
-    "index": 274
+    "index": 274,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0275",
     "original": "[0101,0000]は はしらに \nあわせて おどってる！",
     "translation": "[0101,0000]碰到柱子后\n大吃一惊！",
-    "index": 275
+    "index": 275,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0276",
     "original": "[0101,0000]は はしりたくて\nひっぱってきた！",
     "translation": "[0101,0000]想跑步，\n所以过来拉你了！",
-    "index": 276
+    "index": 276,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0277",
     "original": "[0101,0000]は はずかしそうに\nうしろに かくれた！",
     "translation": "[0101,0000]害羞地\n躲到了后面！",
-    "index": 277
+    "index": 277,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0278",
     "original": "[0101,0000]は はずかしそうに\nちょっとにげた！",
     "translation": "[0101,0000]害羞地\n逃开了！",
-    "index": 278
+    "index": 278,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0279",
     "original": "[0101,0000]は はっぱと\nたわむれてる！",
     "translation": "[0101,0000]在跟叶子\n玩！",
-    "index": 279
+    "index": 279,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0280",
     "original": "[0101,0000]は はっぱの\nこすれるおとで リラックス してる⋯⋯",
     "translation": "[0101,0000]听着叶子\n擦过的声音感觉很放松……",
-    "index": 280
+    "index": 280,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0281",
     "original": "[0101,0000]は はっぱの\nこすれるおとを きいてる みたい",
     "translation": "[0101,0000]似乎是在听\n叶子擦过的声音。",
-    "index": 281
+    "index": 281,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0282",
     "original": "[0101,0000]は はっぱを\nいじって あそんでいる！",
     "translation": "[0101,0000]摆弄\n叶子玩！",
-    "index": 282
+    "index": 282,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0283",
     "original": "[0101,0000]は\nピカピカで めを つむってる！",
     "translation": "[0101,0000]\n闭上了眼睛！",
-    "index": 283
+    "index": 283,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0284",
     "original": "[0101,0000]は ビシャビシャ\nダンスを おどってる！",
     "translation": "[0101,0000]\n跳着舞！",
-    "index": 284
+    "index": 284,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0285",
     "original": "[0101,0000]は ビッチャビッチャ\nダンスを おどってる！",
     "translation": "[0101,0000]\n跳着舞！",
-    "index": 285
+    "index": 285,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0286",
     "original": "[0101,0000]は ピョンピョン\nジャンプして アピールした！",
     "translation": "[0101,0000]\n跳着吸引你！",
-    "index": 286
+    "index": 286,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0287",
     "original": "[0101,0000]は ピョンピョンと\nジャンプを した！",
     "translation": "[0101,0000]\n跳着吸引你！",
-    "index": 287
+    "index": 287,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0288",
     "original": "[0101,0000]は ふあんそうに\n[0103,0002]を つっついてきた",
     "translation": "[0101,0000]不安地\n戳着[0103,0002]。",
-    "index": 288
+    "index": 288,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0289",
     "original": "[0101,0000]は ふしぎそうに\nきかいを ながめてる",
     "translation": "[0101,0000]不可思议地\n看着机械。",
-    "index": 289
+    "index": 289,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0290",
     "original": "[0101,0000]は\nふたりに あいさつした！",
     "translation": "[0101,0000]\n跟两人问好！",
-    "index": 290
+    "index": 290,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0291",
     "original": "[0101,0000]は\nふたりをみて こえを あげた",
     "translation": "[0101,0000]\n看着两人发出声音。",
-    "index": 291
+    "index": 291,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0292",
     "original": "[0101,0000]は ふねと\nいっしょに ゆらゆらしてる！",
     "translation": "[0101,0000]和船\n一起摇摇晃晃！",
-    "index": 292
+    "index": 292,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0293",
     "original": "[0101,0000]は ふらふら してる！",
     "translation": "[0101,0000]摇摇晃晃的！",
-    "index": 293
+    "index": 293,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0294",
     "original": "[0101,0000]は\nプルプル ふるえてる⋯⋯",
     "translation": "[0101,0000]正在瑟瑟发抖……",
-    "index": 294
+    "index": 294,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0295",
     "original": "[0101,0000]は ふんすいを\nじーっと みてる",
     "translation": "[0101,0000]\n盯着喷泉看。",
-    "index": 295
+    "index": 295,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0296",
     "original": "[0101,0000]は ふんすいを\nみて よろこんでる！",
     "translation": "[0101,0000]\n看着喷泉很高兴！",
-    "index": 296
+    "index": 296,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0297",
     "original": "[0101,0000]は ペルシアンのぞうを\nにらんでる！",
     "translation": "[0101,0000]盯着\n猫老大像看！",
-    "index": 297
+    "index": 297,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0298",
     "original": "[0101,0000]は ペルシアンの\nぞうをみて ほえている！",
     "translation": "[0101,0000]看着猫老大像\n大吼！",
-    "index": 298
+    "index": 298,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0299",
     "original": "[0101,0000]は ほうしを\nぽわっと だした！",
     "translation": "[0101,0000]\n放出了孢子！",
-    "index": 299
+    "index": 299,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0300",
     "original": "[0101,0000]は\nぼくそうの においを かいでる",
     "translation": "[0101,0000]\n嗅着牧草的味道。",
-    "index": 300
+    "index": 300,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0301",
     "original": "[0101,0000]は ポケモンリーグを\nまっすぐ みつめてる",
     "translation": "[0101,0000]直直地\n看着宝可梦联盟。",
-    "index": 301
+    "index": 301,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0302",
     "original": "[0101,0000]は\nボッと ほのおを だした！",
     "translation": "[0101,0000]突然发出了火焰！",
-    "index": 302
+    "index": 302,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0303",
     "original": "[0101,0000]は ほのおを だして\nきあいを いれた！",
     "translation": "[0101,0000]发出火焰，\n鼓足了干劲！",
-    "index": 303
+    "index": 303,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0304",
     "original": "[0101,0000]は ボロボロの\nゆかを みつめてる",
     "translation": "[0101,0000]看着\n破破烂烂的地板。",
-    "index": 304
+    "index": 304,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0305",
     "original": "[0101,0000]は ふねに\nのれて たのしそう！",
     "translation": "[0101,0000]坐在\n穿上很开心！",
-    "index": 305
+    "index": 305,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0306",
     "original": "[0101,0000]は まだまだ げんき だ！",
     "translation": "[0101,0000]仍然精神十足！",
-    "index": 306
+    "index": 306,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0307",
     "original": "[0101,0000]は まだまだ\nふねから おりたくない みたい",
     "translation": "[0101,0000]\n似乎还不想下船。",
-    "index": 307
+    "index": 307,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0308",
     "original": "[0101,0000]は まどに\nみずが かかって よろこんでる！",
     "translation": "[0101,0000]把水\n泼在窗户上玩！",
-    "index": 308
+    "index": 308,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0309",
     "original": "[0101,0000]は みちに まよって\nキョロキョロ してる",
     "translation": "[0101,0000]迷路了，\n感到很不安。",
-    "index": 309
+    "index": 309,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0310",
     "original": "[0101,0000]は まわりの おとを\nしんちょうに きいている！",
     "translation": "[0101,0000]用心地听着\n四周的声音！",
-    "index": 310
+    "index": 310,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0311",
     "original": "[0101,0000]は まわりを\nキョロキョロ みてる",
     "translation": "[0101,0000]向四周东张西望着。",
-    "index": 311
+    "index": 311,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0312",
     "original": "[0101,0000]は まわりをみて \nぽかーんと してる",
     "translation": "[0101,0000]正看着周围发呆。",
-    "index": 312
+    "index": 312,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0313",
     "original": "[0101,0000]は みずうみを\nキョロキョロ みてる",
     "translation": "[0101,0000]不安地\n看着湖水。",
-    "index": 313
+    "index": 313,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0314",
     "original": "[0101,0000]は みずが たれて\nびっくり した！",
     "translation": "[0101,0000]被掉下来的水\n吓了一跳！",
-    "index": 314
+    "index": 314,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0315",
     "original": "[0101,0000]は みずたまりで\nあそんでる！",
     "translation": "[0101,0000]\n在水池里玩！",
-    "index": 315
+    "index": 315,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0316",
     "original": "[0101,0000]は みずで すべって\nころびそうに なった！",
     "translation": "[0101,0000]\n在水上滑了一跤！",
-    "index": 316
+    "index": 316,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0317",
     "original": "[0101,0000]は みずを \nぴゅーっと だした！",
     "translation": "[0101,0000]哗地一声\n放出了水！",
-    "index": 317
+    "index": 317,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0318",
     "original": "[0101,0000]は みみを ピクピクして\nかぜの おとを きいてる",
     "translation": "[0101,0000]竖起耳朵\n聂听风的声音。",
-    "index": 318
+    "index": 318,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0319",
     "original": "[0101,0000]は\nみんなに あいさつ した！",
     "translation": "[0101,0000]\n跟大家问了好！",
-    "index": 319
+    "index": 319,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0320",
     "original": "[0101,0000]は むぎわらぼうしが\nきになった みたい",
     "translation": "[0101,0000]似乎对\n草帽很感兴趣。",
-    "index": 320
+    "index": 320,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0321",
     "original": "[0101,0000]は めを\nキリッと させた！",
     "translation": "[0101,0000]的眼神\n变得坚定了起来！",
-    "index": 321
+    "index": 321,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0322",
     "original": "[0101,0000]は めをとじて\nしずかに している⋯⋯",
     "translation": "[0101,0000]闭上眼睛\n安静了下来……",
-    "index": 322
+    "index": 322,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0323",
     "original": "[0101,0000]は もってる\n[0108,0004]を にぎりしめた！",
     "translation": "[0101,0000]握紧了手上的\n[0108,0004]！",
-    "index": 323
+    "index": 323,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0324",
     "original": "[0101,0000]は もってる\n[0108,0004]を みつめてる",
     "translation": "[0101,0000]看着手上的\n[0108,0004]。",
-    "index": 324
+    "index": 324,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0325",
     "original": "[0101,0000]は もってる\n[0108,0004]を ジッと みてる",
     "translation": "[0101,0000]盯着手上的\n[0108,0004]看。",
-    "index": 325
+    "index": 325,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0326",
     "original": "[0101,0000]は モニターを みて\nきあいを いれている！",
     "translation": "[0101,0000]盯着屏幕\n拿出气势！",
-    "index": 326
+    "index": 326,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0327",
     "original": "[0101,0000]は もりを みあげて\nキョロキョロ してる",
     "translation": "[0101,0000]看着森林\n感觉很局促。",
-    "index": 327
+    "index": 327,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0328",
     "original": "[0101,0000]は\nやけどが いたそうだ！",
     "translation": "[0101,0000]被烧伤了，\n好像很疼！",
-    "index": 328
+    "index": 328,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0329",
     "original": "[0101,0000]は やまで\nなにかを みつけた みたい！",
     "translation": "[0101,0000]似乎在\n山上找到了什么！",
-    "index": 329
+    "index": 329,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0330",
     "original": "[0101,0000]は やまで\nなにかを みつけた みたい！",
     "translation": "[0101,0000]似乎在\n山上找到了什么！",
-    "index": 330
+    "index": 330,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0331",
     "original": "[0101,0000]は やまを\nじーっと みつめてる",
     "translation": "[0101,0000]\n盯着山看。",
-    "index": 331
+    "index": 331,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0332",
     "original": "[0101,0000]は やまを\nじーっと みつめてる",
     "translation": "[0101,0000]\n盯着山看。",
-    "index": 332
+    "index": 332,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0333",
     "original": "[0101,0000]は やまをみて\nたのしそうに してる！",
     "translation": "[0101,0000]开心地\n盯着山看！",
-    "index": 333
+    "index": 333,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0334",
     "original": "[0101,0000]は やるき いっぱいだ！",
     "translation": "[0101,0000]干劲十足！",
-    "index": 334
+    "index": 334,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0335",
     "original": "[0101,0000]は\nやるきを たかめている！",
     "translation": "[0101,0000]提高了干劲！",
-    "index": 335
+    "index": 335,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0336",
     "original": "[0101,0000]は\nゆうがに そらを とんでる！",
     "translation": "[0101,0000]\n优雅地飞上天空！",
-    "index": 336
+    "index": 336,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0337",
     "original": "[0101,0000]は あかくそまった\nそらを ながめてる⋯⋯",
     "translation": "[0101,0000]望着\n染红的天空……",
-    "index": 337
+    "index": 337,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0338",
     "original": "[0101,0000]は\nゆかで ゴロゴロ した！",
     "translation": "[0101,0000]\n在地板上滚来滚去！",
-    "index": 338
+    "index": 338,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0339",
     "original": "[0101,0000]は ゆかで すべって\nころびそうに なった！",
     "translation": "[0101,0000]在地板上\n滑了一跤！",
-    "index": 339
+    "index": 339,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0340",
     "original": "[0101,0000]は ゆかの おとで\nびっくり した！",
     "translation": "[0101,0000]被地板的声音\n吓了一跳！",
-    "index": 340
+    "index": 340,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0341",
     "original": "[0101,0000]は ゆかの においを\nクンクン かいでいる",
     "translation": "[0101,0000]嗅着\n地板的气味。",
-    "index": 341
+    "index": 341,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0342",
     "original": "[0101,0000]は ゆかの においを\nクンクン かいでいる",
     "translation": "[0101,0000]嗅着\n地板的气味。",
-    "index": 342
+    "index": 342,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0343",
     "original": "[0101,0000]は ゆっくりと\nかおを みつめた",
     "translation": "[0101,0000]悠哉地\n盯着脸看。",
-    "index": 343
+    "index": 343,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0344",
     "original": "[0101,0000]は ゆったり\nリラックス してる",
     "translation": "[0101,0000]正在惬意地放松着。",
-    "index": 344
+    "index": 344,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0345",
     "original": "[0101,0000]は ゆらゆら\nゆれて ころびそう！",
     "translation": "[0101,0000]摇摇晃晃地\n摔了一跤！",
-    "index": 345
+    "index": 345,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0346",
     "original": "[0101,0000]は ゆれる はしらが\nきになる みたい",
     "translation": "[0101,0000]似乎对摇晃的\n柱子很好奇。",
-    "index": 346
+    "index": 346,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0347",
     "original": "[0101,0000]は ゆれるふねに\nあわせて おどってる！",
     "translation": "[0101,0000]被摇摇晃晃的\n船吓了一跳！",
-    "index": 347
+    "index": 347,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0348",
     "original": "[0101,0000]は よぞらを\nながめてる⋯⋯",
     "translation": "[0101,0000]望着\n夜空……",
-    "index": 348
+    "index": 348,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0349",
     "original": "[0101,0000]は\nよゆう たっぷりだ！",
     "translation": "[0101,0000]看起来\n非常游刃有余！",
-    "index": 349
+    "index": 349,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0350",
     "original": "[0101,0000]は わーっと\nあくびを した",
     "translation": "[0101,0000]“啊～”地\n打了个哈欠。",
-    "index": 350
+    "index": 350,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0351",
     "original": "[0101,0000]は\n[0103,0002]に くっついてきた！",
     "translation": "[0101,0000]戳了戳\n[0103,0002]！",
-    "index": 351
+    "index": 351,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0352",
     "original": "[0101,0000]は \n[0103,0002]と ぶつかった！",
     "translation": "[0101,0000]和　\n[0103,0002]撞到了！",
-    "index": 352
+    "index": 352,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0353",
     "original": "[0101,0000]は [0103,0002]の\nかおを みつめてる",
     "translation": "[0101,0000]盯着[0103,0002]的\n脸看",
-    "index": 353
+    "index": 353,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0354",
     "original": "[0101,0000]は\nあいさつ してる！",
     "translation": "[0101,0000]\n问好！",
-    "index": 354
+    "index": 354,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0355",
     "original": "[0101,0000]は\nあしもとを つついて きた",
     "translation": "[0101,0000]戳了戳你的脚。",
-    "index": 355
+    "index": 355,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0356",
     "original": "[0101,0000]は\nあたりを けいかい している！",
     "translation": "[0101,0000]\n对四周保持警戒！",
-    "index": 356
+    "index": 356,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0357",
     "original": "[0101,0000]は\nあやうく ころびそうに なった！",
     "translation": "[0101,0000]\n差点要摔倒了！",
-    "index": 357
+    "index": 357,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0358",
     "original": "[0101,0000]は\nいきおいよく ほのおを だした！",
     "translation": "[0101,0000]\n猛地放出了火焰！",
-    "index": 358
+    "index": 358,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0359",
     "original": "[0101,0000]は\nいまにも たおれそうだ！",
     "translation": "[0101,0000]看起来\n快要倒下了！",
-    "index": 359
+    "index": 359,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0360",
     "original": "[0101,0000]は うつった\nじぶんを みて びっくりした！",
     "translation": "[0101,0000]看着\n映出来的自己吓了一跳！",
-    "index": 360
+    "index": 360,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0361",
     "original": "[0101,0000]は\nうれしくて うたってる！",
     "translation": "[0101,0000]\n在开心地唱歌！",
-    "index": 361
+    "index": 361,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0362",
     "original": "[0101,0000]は\nうれしくて てれちゃってる！",
     "translation": "[0101,0000]\n开心地害羞！",
-    "index": 362
+    "index": 362,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0363",
     "original": "[0101,0000]は\nウワーっと あくびを した！",
     "translation": "[0101,0000]\n打了个大哈欠！",
-    "index": 363
+    "index": 363,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0364",
     "original": "[0101,0000]は\nおなかを ツンツン してきた！",
     "translation": "[0101,0000]\n对里面的东西很好奇！",
-    "index": 364
+    "index": 364,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0365",
     "original": "[0101,0000]は [0103,0002]の\nかおを じーっとみてる",
     "translation": "[0101,0000]一直在\n盯着你的脸看。",
-    "index": 365
+    "index": 365,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0366",
     "original": "[0101,0000]は\nカモネギに あいさつ してる！",
     "translation": "[0101,0000]在跟\n大葱鸭问好！",
-    "index": 366
+    "index": 366,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0367",
     "original": "[0101,0000]は\nきもちよさそうに かぜを うけてる",
     "translation": "[0101,0000]\n很舒服地迎着风。",
-    "index": 367
+    "index": 367,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0368",
     "original": "[0101,0000]は\nキョロキョロ ビルを ながめてる",
     "translation": "[0101,0000]\n不安地看着高楼大厦。",
-    "index": 368
+    "index": 368,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0369",
     "original": "[0101,0000]は\nくさの においを かいでる",
     "translation": "[0101,0000]\n嗅着草的味道、",
-    "index": 369
+    "index": 369,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0370",
     "original": "[0101,0000]は くさむらから\nいしころを みつけて よろこんでる！",
     "translation": "[0101,0000]从草丛里\n找到了小石头，很开心！",
-    "index": 370
+    "index": 370,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0371",
     "original": "[0101,0000]は くさむらで\nあまやどり してる",
     "translation": "[0101,0000]在草丛里\n躲雨。",
-    "index": 371
+    "index": 371,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0372",
     "original": "[0101,0000]は くさむらで\nゴロゴロ してる",
     "translation": "[0101,0000]在草丛里\n滚来滚去。",
-    "index": 372
+    "index": 372,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0373",
     "original": "[0101,0000]は くさむらで\nビショビショ だ！",
     "translation": "[0101,0000]在草丛里\n湿漉漉的！",
-    "index": 373
+    "index": 373,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0374",
     "original": "[0101,0000]は くさむらに\nひっかかりそうに なった！",
     "translation": "[0101,0000]\n被草丛绊到了！",
-    "index": 374
+    "index": 374,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0375",
     "original": "[0101,0000]は くさむらの おとに\nびっくりした！",
     "translation": "[0101,0000]\n被草丛的声音吓了一跳！",
-    "index": 375
+    "index": 375,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0376",
     "original": "[0101,0000]は くさむらの\nにおいを かいでる",
     "translation": "[0101,0000]\n嗅着草丛的味道。",
-    "index": 376
+    "index": 376,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0377",
     "original": "[0101,0000]は くさむらを\nジッと みつめてる",
     "translation": "[0101,0000]\n盯着草丛看。",
-    "index": 377
+    "index": 377,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0378",
     "original": "[0101,0000]は くさむらを\nふみしめている！",
     "translation": "[0101,0000]\n踏着草丛！",
-    "index": 378
+    "index": 378,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0379",
     "original": "[0101,0000]は\nくさを ひっぱってる",
     "translation": "[0101,0000]\n拔着草。",
-    "index": 379
+    "index": 379,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0380",
     "original": "[0101,0000]は くちを\nアグアグ してる",
     "translation": "[0101,0000]\n嚼着草。",
-    "index": 380
+    "index": 380,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0381",
     "original": "[0101,0000]は くちを\nググッと しめている",
     "translation": "[0101,0000]\n闭上嘴巴。",
-    "index": 381
+    "index": 381,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0382",
     "original": "[0101,0000]は くちを\nパクパク してる",
     "translation": "[0101,0000]\n吧唧嘴。",
-    "index": 382
+    "index": 382,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0383",
     "original": "[0101,0000]は クルミちゃんに\nあいさつ してる！",
     "translation": "[0101,0000]向胡桃\n问好！",
-    "index": 383
+    "index": 383,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0384",
     "original": "[0101,0000]は クンクン\nへやの においを かいでる",
     "translation": "[0101,0000]嗅着\n房间的气味。",
-    "index": 384
+    "index": 384,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0385",
     "original": "[0101,0000]は げんきに\nついて きてる！",
     "translation": "[0101,0000]精神地\n跟在后面！",
-    "index": 385
+    "index": 385,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0386",
     "original": "[0101,0000]は さむくて\nプルプル してる⋯⋯",
     "translation": "[0101,0000]冷的在\n发抖……",
-    "index": 386
+    "index": 386,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0387",
     "original": "[0101,0000]は したを\nじーっと のぞいている",
     "translation": "[0101,0000]\n一直盯着下面看。",
-    "index": 387
+    "index": 387,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0388",
     "original": "[0101,0000]は すこし\nこわがっているみたい⋯⋯",
     "translation": "[0101,0000]\n似乎稍微有些害怕……",
-    "index": 388
+    "index": 388,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0389",
     "original": "[0101,0000]は すべって\nころびそうに なった！",
     "translation": "[0101,0000]\n滑了一跤！",
-    "index": 389
+    "index": 389,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0390",
     "original": "[0101,0000]は すべるのが\nとっても たのしいみたい！",
     "translation": "[0101,0000]似乎\n很喜欢滑来滑去！",
-    "index": 390
+    "index": 390,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0391",
     "original": "[0101,0000]は そとをみて\nはしゃいでる！",
     "translation": "[0101,0000]看着外面\n非常激动！",
-    "index": 391
+    "index": 391,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0392",
     "original": "[0101,0000]は そらを\nじーっと みつめている",
     "translation": "[0101,0000]静静地\n盯着天空。",
-    "index": 392
+    "index": 392,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0393",
     "original": "[0101,0000]は\nそらを みあげている",
     "translation": "[0101,0000]\n抬头看着天空。",
-    "index": 393
+    "index": 393,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0394",
     "original": "[0101,0000]は とおくを\nじーっと みつめてる",
     "translation": "[0101,0000]一直在眺望远方。",
-    "index": 394
+    "index": 394,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0395",
     "original": "[0101,0000]は どくで\nぶるぶる してる⋯⋯",
     "translation": "[0101,0000]中毒了，\n浑身都在发抖……",
-    "index": 395
+    "index": 395,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0396",
     "original": "[0101,0000]は\nとっても よろこんでる！",
     "translation": "[0101,0000]特别高兴！",
-    "index": 396
+    "index": 396,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0397",
     "original": "[0101,0000]は ドンドンと\nジャンプを した！",
     "translation": "[0101,0000]\n激动地跳着！",
-    "index": 397
+    "index": 397,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0398",
     "original": "[0101,0000]は なにかの\nけはいを かんじている⋯⋯",
     "translation": "[0101,0000]感觉到了\n某种气息……",
-    "index": 398
+    "index": 398,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0399",
     "original": "[0101,0000]は なにかを\nかんじて うなっている！",
     "translation": "[0101,0000]感觉到了什么，\n喃喃自语！",
-    "index": 399
+    "index": 399,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0400",
     "original": "[0101,0000]は なにもない ほうを\nじっと みつめてる⋯⋯",
     "translation": "[0101,0000]盯着水面都\n没有的地方看……",
-    "index": 400
+    "index": 400,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0401",
     "original": "[0101,0000]は\nなんとか ついて きてる",
     "translation": "[0101,0000]勉强地跟了上来。",
-    "index": 401
+    "index": 401,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0402",
     "original": "[0101,0000]は\nねむいのを なんとか こらえてる⋯⋯",
     "translation": "[0101,0000]强忍着睡意……",
-    "index": 402
+    "index": 402,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0403",
     "original": "[0101,0000]は ねむくて\nうとうと してる⋯⋯",
     "translation": "[0101,0000]睡意朦胧，\n昏昏欲睡……",
-    "index": 403
+    "index": 403,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0404",
     "original": "[0101,0000]は\nねむそうな めをしてる⋯⋯",
     "translation": "[0101,0000]\n眼神看起来很想睡……",
-    "index": 404
+    "index": 404,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0405",
     "original": "[0101,0000]は ノリノリで\nダンスを おどった！",
     "translation": "[0101,0000]\n慢慢地跳起了舞！",
-    "index": 405
+    "index": 405,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0406",
     "original": "[0101,0000]は はっぱを\nピョコピョコ させてる",
     "translation": "[0101,0000]\n不停地拨弄着叶子。",
-    "index": 406
+    "index": 406,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0407",
     "original": "[0101,0000]は はっぱを\nフリフリ してる",
     "translation": "[0101,0000]晃动着叶子。",
-    "index": 407
+    "index": 407,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0408",
     "original": "[0101,0000]は はっぱを\nブンブン ふっている！",
     "translation": "[0101,0000]\n在吹树叶！",
-    "index": 408
+    "index": 408,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0409",
     "original": "[0101,0000]は\nマリルと あそびたそうだ！",
     "translation": "[0101,0000]\n想和玛力露一起玩！",
-    "index": 409
+    "index": 409,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0410",
     "original": "[0101,0000]は\nひを ボッと だした",
     "translation": "[0101,0000]\n倏地发出了火焰。",
-    "index": 410
+    "index": 410,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0411",
     "original": "[0101,0000]は ひを\nボボッと だした",
     "translation": "[0101,0000]\n蓦地发出了火焰。",
-    "index": 411
+    "index": 411,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0412",
     "original": "[0101,0000]は ひを\nポンッポンッと だしている！",
     "translation": "[0101,0000]\n忽地发出了火焰。",
-    "index": 412
+    "index": 412,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0413",
     "original": "[0101,0000]は マシンに\nさわろうと してる",
     "translation": "[0101,0000]想去摸\n机器。",
-    "index": 413
+    "index": 413,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0414",
     "original": "[0101,0000]は おかあさんを\nきにしている みたい！",
     "translation": "[0101,0000]似乎对\n妈妈很感兴趣！",
-    "index": 414
+    "index": 414,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0415",
     "original": "[0101,0000]は みずたまりで\nパシャパシャ してる！",
     "translation": "[0101,0000]在水池\n玩得欢！",
-    "index": 415
+    "index": 415,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0416",
     "original": "[0101,0000]は みずに うつった\nかおを じっとみてる⋯⋯",
     "translation": "[0101,0000]看着映在\n水池中的脸……",
-    "index": 416
+    "index": 416,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0417",
     "original": "[0101,0000]は みんなに\nあいさつ してる！",
     "translation": "[0101,0000]跟大家\n打招呼！",
-    "index": 417
+    "index": 417,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0418",
     "original": "[0101,0000]は みんなの まえで\nもじもじ してる⋯⋯",
     "translation": "[0101,0000]在大家面前\n扭扭捏捏的……",
-    "index": 418
+    "index": 418,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0419",
     "original": "[0101,0000]は やるき いっぱいだ！",
     "translation": "[0101,0000]干劲十足！",
-    "index": 419
+    "index": 419,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0420",
     "original": "[0101,0000]は よゆう たっぷりだ！",
     "translation": "[0101,0000]看起来\n非常游刃有余！",
-    "index": 420
+    "index": 420,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0421",
     "original": "[0101,0000]は [0103,0002]が\nいなくなった と おもったみたい！",
     "translation": "[0101,0000]似乎意味　\n[0103,0002]不见了！",
-    "index": 421
+    "index": 421,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0422",
     "original": "⋯⋯\nくしゃみ したみたい！",
     "translation": "……\n它好像打了个喷嚏！",
-    "index": 422
+    "index": 422,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0423",
     "original": "⋯⋯\nくつが すこし よごれた",
     "translation": "……\n鞋子有点湿了。",
-    "index": 423
+    "index": 423,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0424",
     "original": "⋯⋯\nちょっと さむそうに してる",
     "translation": "……\n它看起来有点冷。",
-    "index": 424
+    "index": 424,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0425",
     "original": "⋯⋯\nなにか へんなものを たべたみたい\\r\nまずそうな かおをしてる⋯⋯",
     "translation": "……\n它好像吃了奇怪的东西。\\r\n一脸难吃的样子……",
-    "index": 425
+    "index": 425,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0426",
     "original": "⋯⋯\nなにかに びっくり している",
     "translation": "……\n它好像被什么吓了一跳。",
-    "index": 426
+    "index": 426,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0427",
     "original": "⋯⋯\nなにかを こわがってる",
     "translation": "……\n它好像在害怕着什么。",
-    "index": 427
+    "index": 427,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0428",
     "original": "⋯⋯\nなんだか いいにおいが するみたい",
     "translation": "……\n好像闻到了一股香味。",
-    "index": 428
+    "index": 428,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0429",
     "original": "⋯⋯ \nあかくそまった そらを みつめてる",
     "translation": "……　\n望着染红的天空。",
-    "index": 429
+    "index": 429,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0430",
     "original": "⋯⋯\nゆれる ふねを ジーっと みてる",
     "translation": "……\n看着摇晃的船。",
-    "index": 430
+    "index": 430,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0431",
     "original": "⋯⋯あ！\nたなを いじろうと してる！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "……啊！\n它想要翻弄架子！\\r\n要教育一下它吗？[0200,0000]",
-    "index": 431
+    "index": 431,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0432",
     "original": "⋯⋯ あ！\nどうぐを いたずら してる！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "……啊！\n它在乱翻道具！\\r\n要注意一下吗？[0200,0000]",
-    "index": 432
+    "index": 432,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0433",
     "original": "⋯⋯\nこっちを にらんでる",
     "translation": "……\n它在注视着你。",
-    "index": 433
+    "index": 433,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0434",
     "original": "⋯⋯\nたなが くずれそうになって びっくりした！",
     "translation": "……架子差点倒了，\n它被吓了一跳！",
-    "index": 434
+    "index": 434,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0435",
     "original": "⋯⋯\nたなが ぐちゃぐちゃに なった",
     "translation": "……\n架子被弄得乱七八糟的。",
-    "index": 435
+    "index": 435,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0436",
     "original": "⋯⋯\nめを あわせて くれない",
     "translation": "……\n它不愿与你对视。",
-    "index": 436
+    "index": 436,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0437",
     "original": "⋯⋯\nよんでも こっちに きてくれない",
     "translation": "……\n就算叫它，它也不过来。",
-    "index": 437
+    "index": 437,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0438",
     "original": "あ！ [0101,0000]は\nかみきれを くわえてる！\\r\nおこりますか？[0200,0000]",
     "translation": "啊！[0101,0000]\n叼着碎纸片！\\r\n要生气吗？[0200,0000]",
-    "index": 438
+    "index": 438,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0439",
     "original": "あ！ [0101,0000]は\nコードを くわえてる！\\r\nおこりますか？[0200,0000]",
     "translation": "啊！[0101,0000]\n叼着电线！\\r\n要生气吗？[0200,0000]",
-    "index": 439
+    "index": 439,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0440",
     "original": "あ！ [0101,0000]は なにかの\nスイッチを さわろうとしてる！\\r\nやめさせ ますか？",
     "translation": "啊！[0101,0000]\n叼着什么的开关！\\r\n要让它停下来吗？",
-    "index": 440
+    "index": 440,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0441",
     "original": "あ！\nすべって こっちに よりかかって きた！",
     "translation": "啊！\n滑了一跤朝这边来了！",
-    "index": 441
+    "index": 441,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0442",
     "original": "あ！\nつまみぐいを しようとしてる！\\r\nちゅうい しますか？[0200,0000]",
     "translation": "啊！\n它想偷吃！\\r\n要教育一下它吗？[0200,0000]",
-    "index": 442
+    "index": 442,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0443",
     "original": "あ！\nなにかを たべた！\\r\nくちを あけますか？[0200,0000]",
     "translation": "啊！\n它吃了什么东西！\\r\n要扒开嘴巴吗？[0200,0000]",
-    "index": 443
+    "index": 443,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0444",
     "original": "あ！\nバッグが すこし よごれた⋯⋯",
     "translation": "啊！\n包包有点湿了……",
-    "index": 444
+    "index": 444,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0445",
     "original": "あ！\nはっぱが ついてる！",
     "translation": "啊！\n它身上粘着叶子！",
-    "index": 445
+    "index": 445,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0446",
     "original": "あさひを みつめて\nよろこんでる！",
     "translation": "看着朝阳\n非常开心！",
-    "index": 446
+    "index": 446,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0447",
     "original": "すなを まきあげて\nあそんでる！",
     "translation": "在玩沙！",
-    "index": 447
+    "index": 447,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0448",
     "original": "[0103,0002]の あしあとを\nみて よろこんでる！",
     "translation": "看着[0103,0002]的脚印\n非常开心！",
-    "index": 448
+    "index": 448,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0449",
     "original": "[0103,0002]の あしあとを\nみて よろこんでる！",
     "translation": "看着[0103,0002]的脚印\n非常开心！",
-    "index": 449
+    "index": 449,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0450",
     "original": "じめんが ビチャビチャで\nいやがってる⋯⋯",
     "translation": "地面泥泞\n非常不爽……",
-    "index": 450
+    "index": 450,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0451",
     "original": "じめんが ビチャビチャで\nよろこんでる！",
     "translation": "地面泥泞\n非常开心！",
-    "index": 451
+    "index": 451,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0452",
     "original": "あつくて ウキウキしてる！",
     "translation": "很热很开心！",
-    "index": 452
+    "index": 452,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0453",
     "original": "あつくて ちょっと\nいやそうな かおをしてる⋯⋯",
     "translation": "很热\n感觉有点不舒服……",
-    "index": 453
+    "index": 453,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0454",
     "original": "あぶない！\nすこし おちそうに なった⋯⋯",
     "translation": "危险！\n差点就掉下去了……",
-    "index": 454
+    "index": 454,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0455",
     "original": "あぶない！\nゆかが くずれて おちそうに なった",
     "translation": "危险！\n地板破了差点掉下去！",
-    "index": 455
+    "index": 455,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0456",
     "original": "あやうく すべって\nころびそうに なった！",
     "translation": "差点就\n滑倒了！",
-    "index": 456
+    "index": 456,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0457",
     "original": "[0101,0000]は \nからだに ピトッと くっついた",
     "translation": "突然戳了\n[0101,0000]一下。",
-    "index": 457
+    "index": 457,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0458",
     "original": "[0101,0000]は クルクルと\nまわり はじめた",
     "translation": "[0101,0000]\n开始转圈圈了。",
-    "index": 458
+    "index": 458,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0459",
     "original": "いいてんきで うれしい みたい！",
     "translation": "能有一个好天气，\n它好像很高兴！",
-    "index": 459
+    "index": 459,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0460",
     "original": "クンクン！\nいいにおいが するみたい！",
     "translation": "嗅嗅！\n它好像闻到一股香味！",
-    "index": 460
+    "index": 460,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0461",
     "original": "[0101,0000]は いきなり\nうなりごえを あげた！",
     "translation": "[0101,0000]突然发出了低吼！",
-    "index": 461
+    "index": 461,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0462",
     "original": "いきなり はなしかけられて\nびっくり したみたい！",
     "translation": "它好像因为突然被搭话\n所以吓了一跳！",
-    "index": 462
+    "index": 462,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0463",
     "original": "イチゴちゃん に\nあいさつ してる！",
     "translation": "在跟草莓\n问好！",
-    "index": 463
+    "index": 463,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0464",
     "original": "いっしょに なって おどってる！",
     "translation": "在一起跳舞！",
-    "index": 464
+    "index": 464,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0465",
     "original": "[0101,0000]は\nいやがって おこりだした！",
     "translation": "[0101,0000]厌恶地生气了！",
-    "index": 465
+    "index": 465,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0466",
     "original": "いろんな どうぐを ジロジロみてる",
     "translation": "它目不转睛地看着各种道具。",
-    "index": 466
+    "index": 466,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0467",
     "original": "[0101,0000]は じめんを\nうれしそうに ほってる！",
     "translation": "[0101,0000]\n开心地刨着地！",
-    "index": 467
+    "index": 467,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0468",
     "original": "[0101,0000]は いわを\nガリガリ けずり はじめた！",
     "translation": "[0101,0000]\n蹭着岩石玩！",
-    "index": 468
+    "index": 468,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0469",
     "original": "[0101,0000]は いわを\nドンドン たたいて あそんでる！",
     "translation": "[0101,0000]\n敲着石头玩！",
-    "index": 469
+    "index": 469,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0470",
     "original": "[0101,0000]は ゴロゴロ\nころがって あそんでる！",
     "translation": "[0101,0000]\n滚着玩！",
-    "index": 470
+    "index": 470,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0471",
     "original": "[0101,0000]は ダンッダンッと\nじならしを はじめた",
     "translation": "[0101,0000]\n开始了松土。",
-    "index": 471
+    "index": 471,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0472",
     "original": "[0101,0000]は きみょうな うごきで\nフラフラと おどった",
     "translation": "[0101,0000]用奇怪的姿势\n跳起了舞来。",
-    "index": 472
+    "index": 472,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0473",
     "original": "[0101,0000]は\nユラユラ ふしぎに おどった",
     "translation": "[0101,0000]\n不可思议地跳起了舞来。",
-    "index": 473
+    "index": 473,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0474",
     "original": "[0101,0000]は きみょうな うごきで\nユラーッと おどった",
     "translation": "[0101,0000]用奇怪的姿势\n跳起了舞来。",
-    "index": 474
+    "index": 474,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0475",
     "original": "[0101,0000]は\nユラユラーっと ふしぎに おどった",
     "translation": "[0101,0000]\n不可思议地跳起了舞来。",
-    "index": 475
+    "index": 475,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0476",
     "original": "うみを ジッと みつめてる！",
     "translation": "它一直在看着大海！",
-    "index": 476
+    "index": 476,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0477",
     "original": "うれしそうに モグモグ している",
     "translation": "开心地嚼着。",
-    "index": 477
+    "index": 477,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0478",
     "original": "ウワーっと あくびをした！",
     "translation": "它“啊～”地打了个哈欠！",
-    "index": 478
+    "index": 478,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0479",
     "original": "[0101,0000]の こえで\nとうが ふるえてる！",
     "translation": "被[0101,0000]的声音\n吓住了！",
-    "index": 479
+    "index": 479,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0480",
     "original": "[0101,0000]は おおきく ほえだした！",
     "translation": "[0101,0000]大叫了起来！",
-    "index": 480
+    "index": 480,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0481",
     "original": "おくのほうから\nかぜが ふいている みたい",
     "translation": "从里面\n似乎吹来了风。",
-    "index": 481
+    "index": 481,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0482",
     "original": "おどりをみて ウキウキ してる！",
     "translation": "看着舞蹈很开心！",
-    "index": 482
+    "index": 482,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0483",
     "original": "おみやげを キョロキョロ みてる",
     "translation": "紧紧地盯着土特产看。",
-    "index": 483
+    "index": 483,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0484",
     "original": "[0101,0000]は\nやるきを だしている！",
     "translation": "[0101,0000]\n提起了干劲！",
-    "index": 484
+    "index": 484,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0485",
     "original": "[0101,0000]は うれしそうに\n[0108,0004]を ふってうたってる",
     "translation": "[0101,0000]开心地挥着\n[0108,0004]唱歌。",
-    "index": 485
+    "index": 485,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0486",
     "original": "[0101,0000]は うれしそうに\nくるりと おどった！",
     "translation": "[0101,0000]\n开心地跳起了舞！",
-    "index": 486
+    "index": 486,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0487",
     "original": "からだを のばして\nリラックス してる",
     "translation": "它正在伸展身体放松身心。",
-    "index": 487
+    "index": 487,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0488",
     "original": "きもちよくて ねむそうに してる",
     "translation": "它睡得很香。",
-    "index": 488
+    "index": 488,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0489",
     "original": "[0101,0000]は\nおおきく おたけびを あげた！",
     "translation": "[0101,0000]大声地吼叫了起来！",
-    "index": 489
+    "index": 489,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0490",
     "original": "キョロキョロ なにか\nさがしてる みたい",
     "translation": "它东张西望的，好像在找着什么。",
-    "index": 490
+    "index": 490,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0491",
     "original": "キョロキョロ たなを みまわしてる",
     "translation": "紧张地看着架子。",
-    "index": 491
+    "index": 491,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0492",
     "original": "クルクル まわってるのが\nきになるみたい",
     "translation": "似乎对周围转来转去的\n点心很好奇。",
-    "index": 492
+    "index": 492,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0493",
     "original": "クンクン けむりの においを かいでる",
     "translation": "嗅着烟的味道。",
-    "index": 493
+    "index": 493,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0494",
     "original": "クンクン はなの においを かいでる",
     "translation": "嗅着花的味道。",
-    "index": 494
+    "index": 494,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0495",
     "original": "クンクン ゆかの においを かいでる",
     "translation": "它在努力闻着地板上的味道。",
-    "index": 495
+    "index": 495,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0496",
     "original": "クンクン！\nなにか ちかくに あるのかな？",
     "translation": "嗅嗅！\n有什么东西在附近吗？",
-    "index": 496
+    "index": 496,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0497",
     "original": "[0101,0000]は クンクン\nおねえさんの においを かいでる",
     "translation": "[0101,0000]\n嗅着姐姐的味道。",
-    "index": 497
+    "index": 497,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0498",
     "original": "クンクン！\nなんだか いいにおいが するみたい！",
     "translation": "嗅嗅！\n它好像闻到一股香味！",
-    "index": 498
+    "index": 498,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0499",
     "original": "クンクン はなの においを\nかいでる",
     "translation": "嗅着\n花的味道。",
-    "index": 499
+    "index": 499,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0500",
     "original": "[0101,0000]は\nげんきに あいさつした！",
     "translation": "[0101,0000]\n精力旺盛地打招呼！",
-    "index": 500
+    "index": 500,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0501",
     "original": "[0101,0000]は いつも いじょうに\nビシビシッと はねている！",
     "translation": "[0101,0000]比平常\n跳得更欢！",
-    "index": 501
+    "index": 501,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0502",
     "original": "こおりに さわって\nちょっと びっくりした みたい！",
     "translation": "碰到冰\n似乎稍微吓了一跳！",
-    "index": 502
+    "index": 502,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0503",
     "original": "[0101,0000]は じーっと\nあいてを みてる！",
     "translation": "[0101,0000]\n盯着对方看！",
-    "index": 503
+    "index": 503,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0504",
     "original": "こくばんを\nじっと みつめてる⋯⋯\\r\nでも わからない みたい",
     "translation": "它一直在看着黑板……\n但好像并没有看懂。",
-    "index": 504
+    "index": 504,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0505",
     "original": "[0101,0000]は\nゴミを つついて あそんでる⋯⋯",
     "translation": "[0101,0000]\n戳着垃圾玩……",
-    "index": 505
+    "index": 505,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0506",
     "original": "[0101,0000]は\nさくのむこうが きになる みたい",
     "translation": "[0101,0000]\n似乎对栅栏那侧很好奇。",
-    "index": 506
+    "index": 506,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0507",
     "original": "[0101,0000]は さむいのが\nとっても うれしい みたい！",
     "translation": "[0101,0000]对冷的东西\n似乎是非常开心！",
-    "index": 507
+    "index": 507,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0508",
     "original": "[0101,0000]は\nさむそうにして すりよってきた！",
     "translation": "[0101,0000]\n有点冷地蹭来蹭去！",
-    "index": 508
+    "index": 508,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0509",
     "original": "[0101,0000]は\nさむそうにして ちかづいてきた！",
     "translation": "[0101,0000]\n有点冷地靠了过来！",
-    "index": 509
+    "index": 509,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0510",
     "original": "[0101,0000]は じーっと\nたなを みつめてる",
     "translation": "[0101,0000]\n盯着架子看。",
-    "index": 510
+    "index": 510,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0511",
     "original": "したの へやが\nすごく きになる みたい",
     "translation": "似乎对下面的房间\n非常有兴趣。",
-    "index": 511
+    "index": 511,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0512",
     "original": "じっとして うごかなく なった",
     "translation": "一动不动的。",
-    "index": 512
+    "index": 512,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0513",
     "original": "じてんしゃの ネジをころがしてる",
     "translation": "它正在转动着自行车的螺丝。",
-    "index": 513
+    "index": 513,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0514",
     "original": "ジメジメ していて\nたのしい みたい！",
     "translation": "湿湿的\n似乎还蛮开心的！",
-    "index": 514
+    "index": 514,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0515",
     "original": "[0101,0000]は\nジメジメ するのが いや みたい⋯⋯",
     "translation": "[0101,0000]\n湿湿的感觉很不舒服……",
-    "index": 515
+    "index": 515,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0516",
     "original": "[0101,0000]の こえで\nとうが ふるえてる！",
     "translation": "被[0101,0000]的声音\n吓住了！",
-    "index": 516
+    "index": 516,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0517",
     "original": "[0101,0000]は\nおおきく ほえだした！",
     "translation": "[0101,0000]大叫了起来！",
-    "index": 517
+    "index": 517,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0518",
     "original": "[0101,0000]は\nすごい おどりを おどった！",
     "translation": "[0101,0000]\n跳起了很厉害的舞！",
-    "index": 518
+    "index": 518,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0519",
     "original": "[0101,0000]は\nすごく よろこんだ！",
     "translation": "[0101,0000]非常高兴！",
-    "index": 519
+    "index": 519,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0520",
     "original": "[0101,0000]は\nきれいに おどった！",
     "translation": "[0101,0000]\n跳起了漂亮的舞！",
-    "index": 520
+    "index": 520,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0521",
     "original": "[0101,0000]は\nたのしそうに おどった！",
     "translation": "[0101,0000]\n开心地跳了起来！",
-    "index": 521
+    "index": 521,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0522",
     "original": "そとに なにか みつけて\nよろこんでる みたい！",
     "translation": "在外面找到了什么，\n似乎非常开心！",
-    "index": 522
+    "index": 522,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0523",
     "original": "[0101,0000]は\nちょっと いやそうな かおをした⋯⋯",
     "translation": "[0101,0000]\n表情稍微有点痛苦……",
-    "index": 523
+    "index": 523,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0524",
     "original": "[0101,0000]は ちょっと\nさむくなって ウキウキしてる！",
     "translation": "[0101,0000]稍微有点冷，\n很开心！",
-    "index": 524
+    "index": 524,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0525",
     "original": "[0101,0000]は ちょっと\nびっくり したみたい",
     "translation": "[0101,0000]似乎是\n稍微有被吓到了。",
-    "index": 525
+    "index": 525,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0526",
     "original": "ちょっと よだれを たらしてる⋯⋯",
     "translation": "它正在流着口水……",
-    "index": 526
+    "index": 526,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0527",
     "original": "つまずいて ころびそうに なった！",
     "translation": "绊了一跤！",
-    "index": 527
+    "index": 527,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0528",
     "original": "ツルツル すべって\nたのしい みたい！",
     "translation": "滑来滑去的\n非常开心！",
-    "index": 528
+    "index": 528,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0529",
     "original": "ツンツン からだを\nつっついてきた！",
     "translation": "它戳向了你的身体！",
-    "index": 529
+    "index": 529,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0530",
     "original": "からだを のばして\nリラックス してる！",
     "translation": "它正在伸展身体放松身心。",
-    "index": 530
+    "index": 530,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0531",
     "original": "[0101,0000]は じめんを\nうれしそうに ドカドカ ほってる！",
     "translation": "[0101,0000]开心地\n刨着地面！",
-    "index": 531
+    "index": 531,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0532",
     "original": "[0101,0000]は ガンガンと\nじめんを けずってる！",
     "translation": "[0101,0000]\n不断地挖着地面！",
-    "index": 532
+    "index": 532,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0533",
     "original": "[0101,0000]は\nとっても うれしそう！",
     "translation": "[0101,0000]看起来非常开心！",
-    "index": 533
+    "index": 533,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0534",
     "original": "[0101,0000]は\nとおくを じーっと みつめてる",
     "translation": "[0101,0000]一直在眺望远方。",
-    "index": 534
+    "index": 534,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0535",
     "original": "[0101,0000]は\nきゅうに ほえだした！",
     "translation": "[0101,0000]突然大叫了起来！",
-    "index": 535
+    "index": 535,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0536",
     "original": "[0101,0000]は こうふん ぎみだ！",
     "translation": "[0101,0000]一副兴奋的模样！",
-    "index": 536
+    "index": 536,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0537",
     "original": "なにか うたってる みたい？",
     "translation": "似乎是在唱什么东西吧？",
-    "index": 537
+    "index": 537,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0538",
     "original": "なにか ながれてるのかな？",
     "translation": "在唱什么呢？",
-    "index": 538
+    "index": 538,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0539",
     "original": "なにかを かんじて\nピリピリ してる",
     "translation": "感觉到了什么，\n有点颤抖。",
-    "index": 539
+    "index": 539,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0540",
     "original": "なにかを みつけて よろこんでる！",
     "translation": "找到了什么很开心！",
-    "index": 540
+    "index": 540,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0541",
     "original": "なにも ないところを\nじーっと みつめてる⋯⋯",
     "translation": "它一直在盯着什么都没有的地方……",
-    "index": 541
+    "index": 541,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0542",
     "original": "なんだか いやそうに している",
     "translation": "它好像有点不开心了。",
-    "index": 542
+    "index": 542,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0543",
     "original": "[0101,0000]は\nなんだか うれしそうだ！",
     "translation": "[0101,0000]好像很高兴！",
-    "index": 543
+    "index": 543,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0544",
     "original": "[0101,0000]は\nなんだか うれしそうに おどってる",
     "translation": "[0101,0000]好像在高兴地跳舞。",
-    "index": 544
+    "index": 544,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0545",
     "original": "なんだか おこってる！",
     "translation": "它好像生气了！",
-    "index": 545
+    "index": 545,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0546",
     "original": "なんだか いいにおいが\nするみたいで クンクンしてる！",
     "translation": "它好像闻到了什么香味！",
-    "index": 546
+    "index": 546,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0547",
     "original": "なんだか かべから\nおとが するみたい⋯⋯",
     "translation": "好像有声音从墙上传来……",
-    "index": 547
+    "index": 547,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0548",
     "original": "なんだか さむいかぜが ふいてきた！",
     "translation": "好像有冷风吹了过来！",
-    "index": 548
+    "index": 548,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0549",
     "original": "なんだか すごく\nあつそうに してる⋯⋯",
     "translation": "感觉似乎\n相当的热……",
-    "index": 549
+    "index": 549,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0550",
     "original": "[0101,0000]は\nなんだか せまそうに してる",
     "translation": "[0101,0000]\n感觉很窄。",
-    "index": 550
+    "index": 550,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0551",
     "original": "[0101,0000]は\nなんだか はずかしそうに してる",
     "translation": "[0101,0000]\n好像害羞了。",
-    "index": 551
+    "index": 551,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0552",
     "original": "[0101,0000]は\nニコニコ あいさつした！",
     "translation": "[0101,0000]\n笑着问了好！",
-    "index": 552
+    "index": 552,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0553",
     "original": "[0101,0000]は じめんを うれしそうに\nドッカンドッカン ほってる！",
     "translation": "[0101,0000]\n开心地刨着地面！",
-    "index": 553
+    "index": 553,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0554",
     "original": "[0101,0000]は\nはなうた なんて うたってる！ ",
     "translation": "[0101,0000]\n竟然在哼着歌！　",
-    "index": 554
+    "index": 554,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0555",
     "original": "はなびらが かおに ついてる！",
     "translation": "花瓣粘在了它的脸上！",
-    "index": 555
+    "index": 555,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0556",
     "original": "はやく うみに いきたい みたい！",
     "translation": "好像想立刻跳进海里！",
-    "index": 556
+    "index": 556,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0557",
     "original": "[0101,0000]は\nおこったかおで うなってる！",
     "translation": "[0101,0000]在一脸\n愤怒地低吼着！",
-    "index": 557
+    "index": 557,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0558",
     "original": "[0101,0000]は\nきゅうに おどりだした！",
     "translation": "[0101,0000]\n突然跳起了舞！",
-    "index": 558
+    "index": 558,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0559",
     "original": "[0101,0000]は\nそらを みあげている⋯⋯",
     "translation": "[0101,0000]\n望着天空……",
-    "index": 559
+    "index": 559,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0560",
     "original": "[0101,0000]は\nたのしく おどりを おどった！",
     "translation": "[0101,0000]\n跳起了健壮的舞！",
-    "index": 560
+    "index": 560,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0561",
     "original": "[0101,0000]は\nとっても うれしそうに おどった！",
     "translation": "[0101,0000]\n非常开心地跳起了舞！",
-    "index": 561
+    "index": 561,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0562",
     "original": "[0101,0000]は ピリピリッと\nやるきを だしている！",
     "translation": "[0101,0000]散发着“哔哩哔哩”的电流，\n干劲十足！",
-    "index": 562
+    "index": 562,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0563",
     "original": "[0101,0000]は\nきゅうに おどりだした！",
     "translation": "[0101,0000]\n突然跳起了舞！",
-    "index": 563
+    "index": 563,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0564",
     "original": "[0101,0000]は\nそらを みあげている⋯⋯",
     "translation": "[0101,0000]\n望着天空……",
-    "index": 564
+    "index": 564,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0565",
     "original": "ピシャピシャ みずで あそんでる！",
     "translation": "它在哗啦哗啦地玩着水！",
-    "index": 565
+    "index": 565,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0566",
     "original": "[0101,0000]は\nたのしく おどりを おどった！",
     "translation": "[0101,0000]\n跳起了健壮的舞！",
-    "index": 566
+    "index": 566,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0567",
     "original": "[0101,0000]は\nとっても うれしそうに おどった！",
     "translation": "[0101,0000]\n非常开心地跳起了舞！",
-    "index": 567
+    "index": 567,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0568",
     "original": "びっくりして こっちむいた！",
     "translation": "它吃惊地转了过来！",
-    "index": 568
+    "index": 568,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0569",
     "original": "びっくりして とびあがった！",
     "translation": "吓得跳了起来！",
-    "index": 569
+    "index": 569,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0570",
     "original": "[0101,0000]は \nきゅうに おどりだした！",
     "translation": "[0101,0000]\n突然跳起了舞！",
-    "index": 570
+    "index": 570,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0571",
     "original": "[0101,0000]は\nそらを みあげている⋯⋯",
     "translation": "[0101,0000]\n望着天空……",
-    "index": 571
+    "index": 571,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0572",
     "original": "ピョンピョン とぶのが\nたのしい みたい！",
     "translation": "看起来它很开心地\n在空中跳着！",
-    "index": 572
+    "index": 572,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0573",
     "original": "[0101,0000]は\nビリッと からだを ふるわせた！",
     "translation": "[0101,0000]的身体\n像触电了一样颤抖起来！",
-    "index": 573
+    "index": 573,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0574",
     "original": "[0101,0000]は ブルブル\nからだを ゆらしている！",
     "translation": "[0101,0000]在瑟瑟发抖！",
-    "index": 574
+    "index": 574,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0575",
     "original": "ふかふかで とっても うれしそう！",
     "translation": "软绵绵的很舒服！",
-    "index": 575
+    "index": 575,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0576",
     "original": "ブスッとした かおで\nそっぽむいてる⋯⋯",
     "translation": "它一脸不快地\n把头扭了过去……",
-    "index": 576
+    "index": 576,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0577",
     "original": "[0101,0000]は\nそらを じっと みつめてる",
     "translation": "[0101,0000]\n盯着天空看。",
-    "index": 577
+    "index": 577,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0578",
     "original": "[0101,0000]は\nふたりを ジロジロ のぞきこんでる",
     "translation": "[0101,0000]\n紧紧地盯着两人看。",
-    "index": 578
+    "index": 578,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0579",
     "original": "ぺっ！\nごみが はいってたみたい！",
     "translation": "呸！\n似乎是进垃圾了！",
-    "index": 579
+    "index": 579,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0580",
     "original": "へんな においが\nするみたい⋯⋯",
     "translation": "似乎有股\n奇怪的味道……",
-    "index": 580
+    "index": 580,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0581",
     "original": "[0101,0000]は\nおおきく ほえだした！",
     "translation": "[0101,0000]大叫了起来！",
-    "index": 581
+    "index": 581,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0582",
     "original": "[0101,0000]の こえで\nとうが ふるえてる！",
     "translation": "被[0101,0000]的声音\n吓住了！",
-    "index": 582
+    "index": 582,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0583",
     "original": "[0101,0000]は\nてんに むかって さけんでいる！",
     "translation": "[0101,0000]\n对着天空大喊！",
-    "index": 583
+    "index": 583,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0584",
     "original": "ほしぞらが きれいで\nうれしい みたい！",
     "translation": "看着美丽的星空\n非常开心！",
-    "index": 584
+    "index": 584,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0585",
     "original": "まえが みえなくて ぶつかった！",
     "translation": "它没有看清前方有什么\n东西而撞了上去！",
-    "index": 585
+    "index": 585,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0586",
     "original": "まだ わからないみたい⋯⋯",
     "translation": "似乎还不知道……",
-    "index": 586
+    "index": 586,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0587",
     "original": "[0101,0000]は きみょうな うごきで\nユラリユラリと おどった",
     "translation": "[0101,0000]用奇怪的姿势\n跳起了舞。",
-    "index": 587
+    "index": 587,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0588",
     "original": "[0101,0000]は ユラーリユラーリ\nふしぎに おどった",
     "translation": "[0101,0000]跳起了\n不可思议的舞蹈。",
-    "index": 588
+    "index": 588,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0589",
     "original": "[0101,0000]は\nビリッと からだを ふるわせた！",
     "translation": "[0101,0000]的身体\n像触电了一样颤抖起来！",
-    "index": 589
+    "index": 589,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0590",
     "original": "[0101,0000]は ブルブル\nからだを ゆらしている！",
     "translation": "[0101,0000]在瑟瑟发抖！",
-    "index": 590
+    "index": 590,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0591",
     "original": "まわりを キョロキョロ\nみまわしてる",
     "translation": "它在不停地四下张望。",
-    "index": 591
+    "index": 591,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0592",
     "original": "まわりを キョロキョロ みて\nあやしんでる",
     "translation": "不安地张望四周，\n有点神经兮兮。",
-    "index": 592
+    "index": 592,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0593",
     "original": "[0101,0000]は\nじめじめして うれしい みたい！",
     "translation": "[0101,0000]\n湿湿的似乎很开心！",
-    "index": 593
+    "index": 593,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0594",
     "original": "[0101,0000]は みずに あたって\nちょっと いやそう⋯⋯",
     "translation": "[0101,0000]泼上了水\n有点不舒服……",
-    "index": 594
+    "index": 594,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0595",
     "original": "[0101,0000]は\nみずにあたって きもち よさそう！",
     "translation": "[0101,0000]\n波上水很开心！",
-    "index": 595
+    "index": 595,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0596",
     "original": "みずを パシャパシャして\nあそんでる！",
     "translation": "泼水玩得很开心！",
-    "index": 596
+    "index": 596,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0597",
     "original": "[0101,0000]は\nいきなり さけびだした！",
     "translation": "[0101,0000]\n突然叫了起来！",
-    "index": 597
+    "index": 597,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0598",
     "original": "[0101,0000]は バシンバシンと\nじめんを たたきだした！",
     "translation": "[0101,0000]\n敲着地面！",
-    "index": 598
+    "index": 598,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0599",
     "original": "[0101,0000]は\nてんじょうに むかって ほえた！",
     "translation": "[0101,0000]\n对着头顶大吼！",
-    "index": 599
+    "index": 599,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0600",
     "original": "[0101,0000]は いきなり\nくるくるっと まわりだした！",
     "translation": "[0101,0000]\n突然转了起来！",
-    "index": 600
+    "index": 600,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0601",
     "original": "[0101,0000]は\nきゅうに さけびはじめた！",
     "translation": "[0101,0000]\n突然叫了起来！",
-    "index": 601
+    "index": 601,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0602",
     "original": "[0101,0000]は\nブルブルッと ふるえだした",
     "translation": "[0101,0000]\n身体有些颤抖。",
-    "index": 602
+    "index": 602,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0603",
     "original": "もってる [0108,0004]を\nみて よだれを たらしてる⋯⋯",
     "translation": "看着手上的[0108,0004]\n流着口水……",
-    "index": 603
+    "index": 603,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0604",
     "original": "もってる [0108,0004]を\nおかあさんに あげようと してる！",
     "translation": "想将手上的[0108,0004]\n交给妈妈！",
-    "index": 604
+    "index": 604,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0605",
     "original": "やまの ちょうじょうを\nジーッと みつめてる",
     "translation": "它正在盯着山顶看。",
-    "index": 605
+    "index": 605,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0606",
     "original": "あかくそまった そらを みつめて\nうれしそうに してる！",
     "translation": "看着被染红的天空\n非常开心！",
-    "index": 606
+    "index": 606,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0607",
     "original": "よぞらを みつめて \nうっとり してる！",
     "translation": "看着夜空\n有些出神！",
-    "index": 607
+    "index": 607,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0608",
     "original": "[0101,0000]の こえで\nとうが ふるえてる！",
     "translation": "被[0101,0000]的声音\n吓住了！",
-    "index": 608
+    "index": 608,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0609",
     "original": "[0101,0000]は\nおおきく ほえだした！",
     "translation": "[0101,0000]大叫了起来！",
-    "index": 609
+    "index": 609,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0610",
     "original": "[0101,0000]は\nたのしく おどりを おどった！",
     "translation": "[0101,0000]\n跳起了健壮的舞！",
-    "index": 610
+    "index": 610,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0611",
     "original": "[0101,0000]は とっても\nうれしそうに おどった！",
     "translation": "[0101,0000]\n非常开心地跳起了舞！",
-    "index": 611
+    "index": 611,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0612",
     "original": "[0101,0000]は ほのおを ボワーッと\nふいて やるきを だしている！",
     "translation": "[0101,0000]喷出火焰，\n干劲满满！",
-    "index": 612
+    "index": 612,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0613",
     "original": "[0101,0000]は\nおおきく うなりだした！",
     "translation": "[0101,0000]\n大叫一声！",
-    "index": 613
+    "index": 613,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0614",
     "original": "わ！ [0101,0000]が\nいきなり だきついてきた！",
     "translation": "哇！[0101,0000]\n突然抱了上来！",
-    "index": 614
+    "index": 614,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0615",
     "original": "わ！ [0101,0000]が\nきゅうに じゃれてきた！",
     "translation": "哇！[0101,0000]\n突然想和你玩！",
-    "index": 615
+    "index": 615,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0616",
     "original": "わ！ [0101,0000]は\nうれしくて おどっちゃった！",
     "translation": "哇！[0101,0000]\n突然就跳起来了！",
-    "index": 616
+    "index": 616,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0617",
     "original": "わ！\nさむいかぜが ふいてきた！ ⋯⋯\\r\nなんだか うれしそうに してる？",
     "translation": "哇！\n冷风吹了起来！\\r\n它看起来却很高兴？",
-    "index": 617
+    "index": 617,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0618",
     "original": "わ！\nきゅうに すりよってきた！\\r\nあたまを なでて あげますか？[0200,0000]",
     "translation": "哇！\n它突然靠了过来！\\r\n要摸摸它的头吗？[0200,0000]",
-    "index": 618
+    "index": 618,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0619",
     "original": "わ！\nいきなり みずを かけてきた！",
     "translation": "哇！\n突然泼水过来了！",
-    "index": 619
+    "index": 619,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0620",
     "original": "わ！\nきゅうに ほえだした！",
     "translation": "哇！\n它突然大叫了起来！",
-    "index": 620
+    "index": 620,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0621",
     "original": "ん？\nやまのうえに なにか みつけたのかな？",
     "translation": "嗯？\n在山上找到什么了吗？",
-    "index": 621
+    "index": 621,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0622",
     "original": "ちょっと ピリッと したみたい！",
     "translation": "它好像被刺了一下！",
-    "index": 622
+    "index": 622,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0623",
     "original": "うれしくて キャッキャ してる！",
     "translation": "很开心的样子！",
-    "index": 623
+    "index": 623,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0624",
     "original": "⋯⋯ なんだか\nちょっと つまんなそう",
     "translation": "……感觉\n稍微有点无聊。",
-    "index": 624
+    "index": 624,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0625",
     "original": "ちょっと かなしそう！",
     "translation": "稍微有点悲伤！",
-    "index": 625
+    "index": 625,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0626",
     "original": "あ！ たべて なんだか\nきもちわるそうに してる⋯⋯",
     "translation": "啊！吃了后\n感觉有些恶心……",
-    "index": 626
+    "index": 626,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0627",
     "original": "わ！\nすごくびっくり してる！",
     "translation": "哇！\n吓了一大跳！",
-    "index": 627
+    "index": 627,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0628",
     "original": "⋯⋯ なんだか\nかたまって うごかない",
     "translation": "……感觉\n硬硬的，动不了",
-    "index": 628
+    "index": 628,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0629",
     "original": "すんごく たのしそう！",
     "translation": "超高兴地！",
-    "index": 629
+    "index": 629,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0630",
     "original": "⋯⋯ すごく\nブスッと してる！",
     "translation": "……\n超爽的！",
-    "index": 630
+    "index": 630,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0631",
     "original": "とっても よろこんでる！",
     "translation": "非常开心！",
-    "index": 631
+    "index": 631,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0632",
     "original": "あ！\nなきだしそう！",
     "translation": "啊！\n快哭了！",
-    "index": 632
+    "index": 632,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0633",
     "original": "はんせいして\nしょぼんと してる⋯⋯",
     "translation": "在反省，\n无精打采的……",
-    "index": 633
+    "index": 633,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0634",
     "original": "⋯⋯ なんだか\nわるのり してる",
     "translation": "……感觉\n好像做了什么坏事一样。",
-    "index": 634
+    "index": 634,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0635",
     "original": "びっくりして とびあがった！",
     "translation": "吓得跳了起来！",
-    "index": 635
+    "index": 635,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0636",
     "original": "だらーっと よだれを\nたらしてる⋯⋯",
     "translation": "口水\n流了下来……",
-    "index": 636
+    "index": 636,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0637",
     "original": "うれしそうに ピョンピョン してる！",
     "translation": "很开心的样子！",
-    "index": 637
+    "index": 637,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0638",
     "original": "わ！\nからだを プルッと させた！",
     "translation": "哇！\n身体弄圆圆的！",
-    "index": 638
+    "index": 638,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0639",
     "original": "わー！\nかおを こすりつけてきた！",
     "translation": "哇！\n来蹭你的脸啦！",
-    "index": 639
+    "index": 639,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0640",
     "original": "あ！\nなんだか なきだしそう⋯⋯",
     "translation": "啊！\n好像快哭出来了……",
-    "index": 640
+    "index": 640,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0641",
     "original": "なんだか うれしそうに してる！",
     "translation": "感觉还蛮开心的！",
-    "index": 641
+    "index": 641,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0642",
     "original": "ぼーっと してる⋯⋯",
     "translation": "在发呆……",
-    "index": 642
+    "index": 642,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0643",
     "original": "[0103,0002]と\nあそべて たのしそう！",
     "translation": "和[0103,0002]\n一起玩很开心！",
-    "index": 643
+    "index": 643,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0644",
     "original": "かまってほしそうに\nグズッてる⋯⋯",
     "translation": "慢吞吞的\n想要咬……",
-    "index": 644
+    "index": 644,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0645",
     "original": "[0103,0002]の かおをみて\nあんしん したみたい！",
     "translation": "看着[0103,0002]的脸\n很安心！",
-    "index": 645
+    "index": 645,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0646",
     "original": "あ！\nころびそうになった⋯⋯",
     "translation": "啊！\n差点摔倒……",
-    "index": 646
+    "index": 646,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0647",
     "original": "びっくりして とびあがった！",
     "translation": "吓得跳了起来！",
-    "index": 647
+    "index": 647,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0648",
     "original": "たらーっと\nよだれを たらしてる⋯⋯",
     "translation": "口水\n流下来了……",
-    "index": 648
+    "index": 648,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0649",
     "original": "ちょっと しゅんとしてる⋯⋯",
     "translation": "有点呆……",
-    "index": 649
+    "index": 649,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0650",
     "original": "はんたいの くつも かみはじめた！",
     "translation": "另一只鞋子也开始啃了！",
-    "index": 650
+    "index": 650,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0651",
     "original": "ちょっと びっくり したみたい！",
     "translation": "它好像被吓了一跳！",
-    "index": 651
+    "index": 651,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0652",
     "original": "おもしろそうに\nまだ つっついてる⋯⋯",
     "translation": "还在戳，\n似乎感觉很有意思……",
-    "index": 652
+    "index": 652,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0653",
     "original": "ちょっと しゅんとしてる⋯⋯",
     "translation": "有点呆……",
-    "index": 653
+    "index": 653,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0654",
     "original": "あ！ なんだか まずそうなかおして\nペッペッて してる！",
     "translation": "啊！不知怎么\n表情有点愁眉不展！",
-    "index": 654
+    "index": 654,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0655",
     "original": "⋯⋯ ちょっと はんせい したみたい",
     "translation": "……似乎是在反省了。",
-    "index": 655
+    "index": 655,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0656",
     "original": "こんどは ペロペロしてる⋯⋯",
     "translation": "这次用舌头舔了……",
-    "index": 656
+    "index": 656,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0657",
     "original": "ちょっと はんせい したみたい",
     "translation": "似乎是在反省了。",
-    "index": 657
+    "index": 657,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0658",
     "original": "あ！ たなが くずれそうになって\nびっくりしたみたい！",
     "translation": "啊！架子快倒了，\n吓了一大跳！",
-    "index": 658
+    "index": 658,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0659",
     "original": "ハッとして かみきれを おとした",
     "translation": "掉了张纸片下来。",
-    "index": 659
+    "index": 659,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0660",
     "original": "あ！ のどにひっかかって\nペッて した！",
     "translation": "啊！\n喉咙卡住了！",
-    "index": 660
+    "index": 660,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0661",
     "original": "ちょっと はずかしそうに してる",
     "translation": "稍微有点害羞。",
-    "index": 661
+    "index": 661,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0662",
     "original": "あ！\nちょっと しびれたみたい！",
     "translation": "啊！\n似乎稍微有些麻痹！",
-    "index": 662
+    "index": 662,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0663",
     "original": "やめたけど スイッチが きになるみたい",
     "translation": "义无反顾地盯着开关。",
-    "index": 663
+    "index": 663,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0664",
     "original": "カチ！\\f\n⋯⋯でも\nなにもおこらなかった みたい",
     "translation": "咔嚓！\\f\n……不过\n似乎什么都没有发生。",
-    "index": 664
+    "index": 664,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0665",
     "original": "よだれを たらしながら\nじっとしてる⋯⋯",
     "translation": "边流着口水\n边呆在一边……",
-    "index": 665
+    "index": 665,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0666",
     "original": "あ！\nのどにひっかかって ペッてした！",
     "translation": "啊！\n喉咙卡住了！",
-    "index": 666
+    "index": 666,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0667",
     "original": "くちの なかに はいってた\nゴミを とりだした！",
     "translation": "拿出了嘴巴里的\n垃圾！",
-    "index": 667
+    "index": 667,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0668",
     "original": "あ！\nのどにひっかかって ペッてした！",
     "translation": "啊！\n喉咙卡住了！",
-    "index": 668
+    "index": 668,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0669",
     "original": "すごく うれしそうに\nクルクル まわった！",
     "translation": "超开心地\n滚来滚去！",
-    "index": 669
+    "index": 669,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0670",
     "original": "⋯⋯ ちょっと さみしそう",
     "translation": "……稍微有些寂寞。",
-    "index": 670
+    "index": 670,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0671",
     "original": "ドスンドスンと よろこんだ！",
     "translation": "非常开心！",
-    "index": 671
+    "index": 671,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0672",
     "original": "かなしそうに ゴミを\nペッと はきだした！",
     "translation": "悲伤地吐出了\n垃圾！",
-    "index": 672
+    "index": 672,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0673",
     "original": "ビックリして おおごえを だした！",
     "translation": "吓得大叫了起来！",
-    "index": 673
+    "index": 673,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0674",
     "original": "よろこんで おおごえを あげた！",
     "translation": "开心地大叫了起来！",
-    "index": 674
+    "index": 674,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0675",
     "original": "うれしそうに ドスンドスンと\nとびあがった！",
     "translation": "开心地\n跳了起来！",
-    "index": 675
+    "index": 675,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0676",
     "original": "おおごえを だして\nはんせいしている！",
     "translation": "大叫后\n开始反省！",
-    "index": 676
+    "index": 676,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0677",
     "original": "ビックリして へんなこえを だした！",
     "translation": "吓得发出了怪声！",
-    "index": 677
+    "index": 677,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0678",
     "original": "うれしそうに ドスンドスンと\nおどりだした！",
     "translation": "开心地\n跳起了舞来！",
-    "index": 678
+    "index": 678,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0679",
     "original": "うれしそうに からだを\nドンドン おしてきた！",
     "translation": "开心地\n活动身体！",
-    "index": 679
+    "index": 679,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0680",
     "original": "おおきなこえで へんじをした！",
     "translation": "用很大的声音回话！",
-    "index": 680
+    "index": 680,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0681",
     "original": "あそんでもらえて うれしそうだ！",
     "translation": "能陪它玩感觉很开心！",
-    "index": 681
+    "index": 681,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0682",
     "original": "ビックリして おおきなこえを あげた！",
     "translation": "吓得大叫了起来！",
-    "index": 682
+    "index": 682,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0683",
     "original": "ビックリして おおきなこえを あげた！",
     "translation": "吓得大叫了起来！",
-    "index": 683
+    "index": 683,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0684",
     "original": "くやしそうに くちを ギリギリ している！",
     "translation": "很不甘心地咬嘴巴！",
-    "index": 684
+    "index": 684,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0685",
     "original": "はんせいして\nちいさく うなってる⋯⋯",
     "translation": "反省着\n……",
-    "index": 685
+    "index": 685,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0686",
     "original": "くちの なかに はいってた\nゴミを とりだした！",
     "translation": "拿出了嘴巴里的\n垃圾！",
-    "index": 686
+    "index": 686,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0687",
     "original": "すごく うれしそうに\nグルングルン まわった！",
     "translation": "非常开心地\n转来转去！",
-    "index": 687
+    "index": 687,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0688",
     "original": "[0101,0000]は まいこさんと\nおんなじように おどってる！",
     "translation": "[0101,0000]和和服女孩\n一同跳起了舞！",
-    "index": 688
+    "index": 688,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0689",
     "original": "[0101,0000]は まいこさんに\nあわせて ピチュピチュ おどった！",
     "translation": "[0101,0000]和和服女孩\n一同跳起了舞！",
-    "index": 689
+    "index": 689,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0690",
     "original": "[0101,0000]は ここぞとばかりに\nちからづよさを アピールした！",
     "translation": "[0101,0000]正在借机\n炫耀自己的力量！",
-    "index": 690
+    "index": 690,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0691",
     "original": "[0101,0000]は いっしょになって\nピカピカ ひかった！",
     "translation": "和[0101,0000]一起\n闪闪发亮！",
-    "index": 691
+    "index": 691,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0692",
     "original": "[0101,0000]は じっととまって\nきのまねを してる！",
     "translation": "[0101,0000]一动不动\n装树！",
-    "index": 692
+    "index": 692,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0693",
     "original": "[0101,0000]は じっととまって\nきのまねを してるみたい？",
     "translation": "[0101,0000]一动不动\n在装树？",
-    "index": 693
+    "index": 693,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0694",
     "original": "[0101,0000]は ゆびを\nふりふりして おどってる！",
     "translation": "[0101,0000]摇晃手指\n跳起了舞！",
-    "index": 694
+    "index": 694,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0695",
     "original": "[0101,0000]は リフトをみて\nきもちわるがってる みたい",
     "translation": "[0101,0000]看着电梯\n心情似乎不太好。",
-    "index": 695
+    "index": 695,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0696",
     "original": "[0101,0000]は\nわきわき うごいた！",
     "translation": "[0101,0000]\n激动地到处走动！",
-    "index": 696
+    "index": 696,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0697",
     "original": "[0101,0000]は よこに\nシャカシャカ うごいた！",
     "translation": "[0101,0000]移到了\n一旁！",
-    "index": 697
+    "index": 697,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0698",
     "original": "[0101,0000]は なんだか\nこうふんして はないきが あらい！",
     "translation": "[0101,0000]兴奋得\n呼吸都急促了起来！",
-    "index": 698
+    "index": 698,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0699",
     "original": "[0101,0000]は ゆらゆらして\nなんだか たのしそう",
     "translation": "[0101,0000]摇摇晃晃的，\n感觉很开心。",
-    "index": 699
+    "index": 699,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0700",
     "original": "[0101,0000]は とつぜん \nピーピー なきだした！",
     "translation": "[0101,0000]突然\n皮皮～地叫了起来！",
-    "index": 700
+    "index": 700,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0701",
     "original": "[0101,0000]は ピチピチ\nはねている！",
     "translation": "[0101,0000]\n跳着！",
-    "index": 701
+    "index": 701,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0702",
     "original": "[0101,0000]は\nごみばこを あさってる⋯⋯",
     "translation": "[0101,0000]\n翻着垃圾桶……",
-    "index": 702
+    "index": 702,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0703",
     "original": "[0101,0000]は\nなんだか かなしそう⋯⋯",
     "translation": "[0101,0000]\n感觉很悲伤……",
-    "index": 703
+    "index": 703,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0704",
     "original": "[0101,0000]は\nこわがって プルプルしてる",
     "translation": "[0101,0000]\n害怕的有些颤抖。",
-    "index": 704
+    "index": 704,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0705",
     "original": "[0101,0000]は めをとじて \nいのるように じっとしてる",
     "translation": "[0101,0000]闭上眼睛\n好像在祈祷。",
-    "index": 705
+    "index": 705,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0706",
     "original": "[0101,0000]は\nたのしそうに ジャンプした！",
     "translation": "[0101,0000]在开心地跳着！",
-    "index": 706
+    "index": 706,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0707",
     "original": "[0101,0000]は\nほかの ポケモンたちと あそびたそう！",
     "translation": "[0101,0000]\n想和其他的宝可梦们玩！",
-    "index": 707
+    "index": 707,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0708",
     "original": "[0101,0000]は\nくるくると おなかをまわした",
     "translation": "[0101,0000]\n摇晃着肚子。",
-    "index": 708
+    "index": 708,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0709",
     "original": "[0101,0000]は\nジジジっと なにか いった？",
-    "translation": "悉悉索索地讲了什么吗？",
-    "index": 709
+    "translation": "[0101,0000]\n悉悉索索地讲了什么吗？",
+    "index": 709,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0710",
     "original": "[0101,0000]は おおきなくちを\nあけて うなりだした！",
     "translation": "[0101,0000]张开大嘴\n开始叫！",
-    "index": 710
+    "index": 710,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0711",
     "original": "[0101,0000]は つめをたてて\nグアアアーッと うなった！",
     "translation": "[0101,0000]亮出爪子\n开始叫！",
-    "index": 711
+    "index": 711,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0712",
     "original": "[0101,0000]は ながいからだを\nうごかし おおきく うなりだした！",
     "translation": "[0101,0000]移动着长长的\n身体发出大叫！",
-    "index": 712
+    "index": 712,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0713",
     "original": "[0101,0000]は てんにむかって\nさけるような こえをあげた！",
     "translation": "[0101,0000]对着天空\n大声咆哮！",
-    "index": 713
+    "index": 713,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0714",
     "original": "[0101,0000]は からだを ふるわせ\nゆれるような おたけびを あげた！",
     "translation": "[0101,0000]发出了能让人\n颤抖的雄叫！",
-    "index": 714
+    "index": 714,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0715",
     "original": "[0101,0000]は からだをはって\nおおきなこえで うなった！",
     "translation": "[0101,0000]张开身体\n发出大叫！",
-    "index": 715
+    "index": 715,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0716",
     "original": "[0101,0000]は バチバチと\nうれしそうに とびまわってる！",
     "translation": "[0101,0000]吧唧吧唧地\n开心地飞来飞去！",
-    "index": 716
+    "index": 716,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0717",
     "original": "[0101,0000]は ビュンビュンと\nたのしそうに おどってる！",
     "translation": "[0101,0000]\n开心地跳着舞！",
-    "index": 717
+    "index": 717,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0718",
     "original": "[0101,0000]は じーっと\n[0103,0002]の かおを みつめてる",
     "translation": "[0101,0000]盯着\n[0103,0002]的脸看。",
-    "index": 718
+    "index": 718,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0719",
     "original": "[0101,0000]は [0103,0002]の\nにおいを かいでる",
     "translation": "[0101,0000]嗅着[0103,0002]的\n气味。",
-    "index": 719
+    "index": 719,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0720",
     "original": "[0101,0000]は\nこっちをむいて ニコッとした！",
     "translation": "[0101,0000]转了过来\n并冲着你笑了笑！",
-    "index": 720
+    "index": 720,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0721",
     "original": "[0101,0000]は まだ\nじぶんのなまえに なれてない みたい",
     "translation": "[0101,0000]\n似乎还不习惯自己的名字。",
-    "index": 721
+    "index": 721,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0722",
     "original": "[0101,0000]は ぷわっと\nほうしを だした！",
     "translation": "[0101,0000]\n放出了软绵绵的孢子！",
-    "index": 722
+    "index": 722,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0723",
     "original": "[0101,0000]は\nきに はりつこうとした！",
     "translation": "[0101,0000]\n想贴到树上！",
-    "index": 723
+    "index": 723,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0724",
     "original": "⋯⋯ おや？\n[0101,0000]の ようすが⋯⋯\\r\nかわらなかった！",
     "translation": "……哎呀？\n[0101,0000]的样子……\\r\n并没有发生变化！",
-    "index": 724
+    "index": 724,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0725",
     "original": "[0101,0000]は つるをのばして\nからみついてきた！\\r\nなんだか たのしそう！",
     "translation": "[0101,0000]把藤蔓伸展开，\n然后把它缠在了你身上！\\r\n它看起来很开心！",
-    "index": 725
+    "index": 725,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0726",
     "original": "[0101,0000]は まいこさんより\nじょうずに おどった！",
     "translation": "[0101,0000]跳的\n比和服女孩还好！",
-    "index": 726
+    "index": 726,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0727",
     "original": "なんだか なつかしい\nかおりがする みたい⋯⋯",
     "translation": "好像有种\n很怀念的味道……",
-    "index": 727
+    "index": 727,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0728",
     "original": "[0101,0000]は\nとても リラックスしてる",
     "translation": "[0101,0000]看起来非常放松。",
-    "index": 728
+    "index": 728,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0729",
     "original": "[0101,0000]は \nけんきゅうじょを キョロキョロみてる",
     "translation": "[0101,0000]\n看着研究所。",
-    "index": 729
+    "index": 729,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0730",
     "original": "マシンが グルグルしてるのが\nきになるみたい",
     "translation": "它好像对一圈圈转动的\n机器很感兴趣。",
-    "index": 730
+    "index": 730,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0731",
     "original": "[0101,0000]は\nやるきを だしている！",
     "translation": "[0101,0000]\n提起了干劲！",
-    "index": 731
+    "index": 731,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0732",
     "original": "[0101,0000]は\nはりきってる！",
     "translation": "[0101,0000]\n在积蓄力量！",
-    "index": 732
+    "index": 732,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0733",
     "original": "[0101,0000]は\nケースのなかが きになるみたい",
     "translation": "[0101,0000]\n似乎对盒子的里面很好奇。",
-    "index": 733
+    "index": 733,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0734",
     "original": "[0101,0000]は\nキョロキョロ いしを ながめてる",
     "translation": "[0101,0000]\n看着石头。",
-    "index": 734
+    "index": 734,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0735",
     "original": "[0101,0000]は\nプールサイドで はしろうとした！",
     "translation": "[0101,0000]\n想在泳池边奔跑！",
-    "index": 735
+    "index": 735,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0736",
     "original": "なぜか じゅんびうんどう してる？",
     "translation": "是在做准备运动吗？",
-    "index": 736
+    "index": 736,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0737",
     "original": "[0101,0000]は\nヤドランに あいさつした！",
     "translation": "[0101,0000]\n跟呆壳兽问了好！",
-    "index": 737
+    "index": 737,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0738",
     "original": "[0101,0000]は\nベイリーフに あいさつした！",
     "translation": "[0101,0000]\n跟月桂叶问了好！",
-    "index": 738
+    "index": 738,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0739",
     "original": "[0101,0000]は\nうみを ジーッと みつめてる",
     "translation": "[0101,0000]\n盯着大海看。",
-    "index": 739
+    "index": 739,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0740",
     "original": "[0101,0000]は\nふねに のりたいみたい！",
     "translation": "[0101,0000]\n似乎很想坐船！",
-    "index": 740
+    "index": 740,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0741",
     "original": "[0101,0000]は\nでんしゃに のりたそう！",
     "translation": "[0101,0000]\n很想坐电车！",
-    "index": 741
+    "index": 741,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0742",
     "original": "[0101,0000]は\nてんじょうを みあげてる",
     "translation": "[0101,0000]\n抬头看着天花板",
-    "index": 742
+    "index": 742,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0743",
     "original": "[0101,0000]は ゆかが\nミシミシして びっくりしたみたい！",
     "translation": "[0101,0000]被不稳的地板\n吓了一跳！",
-    "index": 743
+    "index": 743,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0744",
     "original": "[0101,0000]は [0103,0002]の\nまねを した！",
     "translation": "[0101,0000]模仿\n[0103,0002]！",
-    "index": 744
+    "index": 744,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0745",
     "original": "⋯⋯ ⋯⋯ ⋯⋯\\f\n⋯⋯ ⋯⋯ ⋯⋯\\f\n⋯⋯ ⋯⋯ ⋯⋯\\f\n⋯⋯ ⋯⋯ [0101,0000]は\nだまって うなずいた！",
     "translation": "………………\\f\n………………\\f\n………………\\f\n……　……　[0101,0000]\n什么都没说就点了点头！",
-    "index": 745
+    "index": 745,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0746",
     "original": "[0101,0000]は\nシャワーに あたってうれしそう！",
     "translation": "[0101,0000]\n冲着澡很舒服！",
-    "index": 746
+    "index": 746,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0747",
     "original": "[0101,0000]は シャワーに\nあたって ちょっといやそう⋯⋯",
     "translation": "[0101,0000]\n冲着澡感觉有些难受……",
-    "index": 747
+    "index": 747,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0748",
     "original": "[0101,0000]は\nよだれを たらしてる⋯⋯",
     "translation": "[0101,0000]\n流着口水……",
-    "index": 748
+    "index": 748,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0749",
     "original": "[0101,0000]は のどを\nごくっと ならした",
     "translation": "[0101,0000]的喉咙\n发出破音。",
-    "index": 749
+    "index": 749,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0750",
     "original": "[0101,0000]は\nせまくて ドキドキしてる",
     "translation": "[0101,0000]\n觉得很窄很兴奋。",
-    "index": 750
+    "index": 750,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0751",
     "original": "[0101,0000]は\nなにかに ぶつかったみたい！",
     "translation": "[0101,0000]\n好像撞到了什么东西！",
-    "index": 751
+    "index": 751,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0752",
     "original": "[0101,0000]は\nエイパムと あそびたそう！",
     "translation": "[0101,0000]\n很想和长尾怪手一起玩！",
-    "index": 752
+    "index": 752,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0753",
     "original": "[0101,0000]は\nいしを ころころ ころがしてる",
     "translation": "[0101,0000]在骨碌骨碌地\n滚动着石头。",
-    "index": 753
+    "index": 753,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0754",
     "original": "[0101,0000]は\nのどを ごくっと ならした",
     "translation": "[0101,0000]的\n喉咙发出破音。",
-    "index": 754
+    "index": 754,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0755",
     "original": "[0101,0000]は\nゆっくりと うなずいた",
     "translation": "[0101,0000]\n慢慢地喃喃着。",
-    "index": 755
+    "index": 755,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0756",
     "original": "[0101,0000]は\nきあいを いれている！",
     "translation": "[0101,0000]\n调整气势！",
-    "index": 756
+    "index": 756,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0757",
     "original": "[0101,0000]は\nしゅうちゅう している⋯⋯",
     "translation": "[0101,0000]\n正在集中……",
-    "index": 757
+    "index": 757,
+    "context": ""
   },
   {
     "key": "HGSS_0258_0758",
     "original": "[0101,0000]は\nいきなり おたけびを あげた！",
     "translation": "[0101,0000]突然吼了起来！",
-    "index": 758
+    "index": 758,
+    "context": ""
   }
 ]
