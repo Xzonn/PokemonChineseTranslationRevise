@@ -1,480 +1,480 @@
 [
   {
-    "key": "PT_0017_0000",
+    "key": "Pt_0017_0000",
     "original": "[0100,0000]",
     "translation": "[0100,0000]",
     "index": 0
   },
   {
-    "key": "PT_0017_0001",
+    "key": "Pt_0017_0001",
     "original": "[0101,0000]",
     "translation": "[0101,0000]",
     "index": 1
   },
   {
-    "key": "PT_0017_0002",
+    "key": "Pt_0017_0002",
     "original": "もちもの",
     "translation": "持有物",
     "index": 2
   },
   {
-    "key": "PT_0017_0003",
+    "key": "Pt_0017_0003",
     "original": "せいかく",
     "translation": "性格",
     "index": 3
   },
   {
-    "key": "PT_0017_0004",
+    "key": "Pt_0017_0004",
     "original": "とくせい",
     "translation": "特性",
     "index": 4
   },
   {
-    "key": "PT_0017_0005",
+    "key": "Pt_0017_0005",
     "original": "[010B,0000]",
     "translation": "[010B,0000]",
     "index": 5
   },
   {
-    "key": "PT_0017_0006",
+    "key": "Pt_0017_0006",
     "original": "ボックス１",
     "translation": "盒子１",
     "index": 6
   },
   {
-    "key": "PT_0017_0007",
+    "key": "Pt_0017_0007",
     "original": "ボックス２",
     "translation": "盒子２",
     "index": 7
   },
   {
-    "key": "PT_0017_0008",
+    "key": "Pt_0017_0008",
     "original": "ボックス３",
     "translation": "盒子３",
     "index": 8
   },
   {
-    "key": "PT_0017_0009",
+    "key": "Pt_0017_0009",
     "original": "ボックス４",
     "translation": "盒子４",
     "index": 9
   },
   {
-    "key": "PT_0017_0010",
+    "key": "Pt_0017_0010",
     "original": "ボックス５",
     "translation": "盒子５",
     "index": 10
   },
   {
-    "key": "PT_0017_0011",
+    "key": "Pt_0017_0011",
     "original": "ボックス６",
     "translation": "盒子６",
     "index": 11
   },
   {
-    "key": "PT_0017_0012",
+    "key": "Pt_0017_0012",
     "original": "ボックス７",
     "translation": "盒子７",
     "index": 12
   },
   {
-    "key": "PT_0017_0013",
+    "key": "Pt_0017_0013",
     "original": "ボックス８",
     "translation": "盒子８",
     "index": 13
   },
   {
-    "key": "PT_0017_0014",
+    "key": "Pt_0017_0014",
     "original": "ボックス９",
     "translation": "盒子９",
     "index": 14
   },
   {
-    "key": "PT_0017_0015",
+    "key": "Pt_0017_0015",
     "original": "ボックス１０",
     "translation": "盒子１０",
     "index": 15
   },
   {
-    "key": "PT_0017_0016",
+    "key": "Pt_0017_0016",
     "original": "ボックス１１",
     "translation": "盒子１１",
     "index": 16
   },
   {
-    "key": "PT_0017_0017",
+    "key": "Pt_0017_0017",
     "original": "ボックス１２",
     "translation": "盒子１２",
     "index": 17
   },
   {
-    "key": "PT_0017_0018",
+    "key": "Pt_0017_0018",
     "original": "ボックス１３",
     "translation": "盒子１３",
     "index": 18
   },
   {
-    "key": "PT_0017_0019",
+    "key": "Pt_0017_0019",
     "original": "ボックス１４",
     "translation": "盒子１４",
     "index": 19
   },
   {
-    "key": "PT_0017_0020",
+    "key": "Pt_0017_0020",
     "original": "ボックス１５",
     "translation": "盒子１５",
     "index": 20
   },
   {
-    "key": "PT_0017_0021",
+    "key": "Pt_0017_0021",
     "original": "ボックス１６",
     "translation": "盒子１６",
     "index": 21
   },
   {
-    "key": "PT_0017_0022",
+    "key": "Pt_0017_0022",
     "original": "ボックス１７",
     "translation": "盒子１７",
     "index": 22
   },
   {
-    "key": "PT_0017_0023",
+    "key": "Pt_0017_0023",
     "original": "ボックス１８",
     "translation": "盒子１８",
     "index": 23
   },
   {
-    "key": "PT_0017_0024",
+    "key": "Pt_0017_0024",
     "original": "ジャンプ",
     "translation": "跳跃",
     "index": 24
   },
   {
-    "key": "PT_0017_0025",
+    "key": "Pt_0017_0025",
     "original": "かべがみ",
     "translation": "壁纸",
     "index": 25
   },
   {
-    "key": "PT_0017_0026",
+    "key": "Pt_0017_0026",
     "original": "なまえ",
     "translation": "名字",
     "index": 26
   },
   {
-    "key": "PT_0017_0027",
+    "key": "Pt_0017_0027",
     "original": "やめる",
     "translation": "取消",
     "index": 27
   },
   {
-    "key": "PT_0017_0028",
+    "key": "Pt_0017_0028",
     "original": "ふうけい１",
     "translation": "风景１",
     "index": 28
   },
   {
-    "key": "PT_0017_0029",
+    "key": "Pt_0017_0029",
     "original": "ふうけい２",
     "translation": "风景２",
     "index": 29
   },
   {
-    "key": "PT_0017_0030",
+    "key": "Pt_0017_0030",
     "original": "ふうけい３",
     "translation": "风景３",
     "index": 30
   },
   {
-    "key": "PT_0017_0031",
+    "key": "Pt_0017_0031",
     "original": "エトセトラ",
     "translation": "其他",
     "index": 31
   },
   {
-    "key": "PT_0017_0032",
+    "key": "Pt_0017_0032",
     "original": "だいすき１",
     "translation": "发烧友１",
     "index": 32
   },
   {
-    "key": "PT_0017_0033",
+    "key": "Pt_0017_0033",
     "original": "だいすき２",
     "translation": "发烧友２",
     "index": 33
   },
   {
-    "key": "PT_0017_0034",
+    "key": "Pt_0017_0034",
     "original": "もり",
     "translation": "森林",
     "index": 34
   },
   {
-    "key": "PT_0017_0035",
+    "key": "Pt_0017_0035",
     "original": "シティ",
     "translation": "城市",
     "index": 35
   },
   {
-    "key": "PT_0017_0036",
+    "key": "Pt_0017_0036",
     "original": "さばく",
     "translation": "沙漠",
     "index": 36
   },
   {
-    "key": "PT_0017_0037",
+    "key": "Pt_0017_0037",
     "original": "サバンナ",
     "translation": "热带草原",
     "index": 37
   },
   {
-    "key": "PT_0017_0038",
+    "key": "Pt_0017_0038",
     "original": "いわやま",
     "translation": "岩山",
     "index": 38
   },
   {
-    "key": "PT_0017_0039",
+    "key": "Pt_0017_0039",
     "original": "かざん",
     "translation": "火山",
     "index": 39
   },
   {
-    "key": "PT_0017_0040",
+    "key": "Pt_0017_0040",
     "original": "ゆきやま",
     "translation": "雪山",
     "index": 40
   },
   {
-    "key": "PT_0017_0041",
+    "key": "Pt_0017_0041",
     "original": "どうくつ",
     "translation": "洞窟",
     "index": 41
   },
   {
-    "key": "PT_0017_0042",
+    "key": "Pt_0017_0042",
     "original": "うみべ",
     "translation": "海边",
     "index": 42
   },
   {
-    "key": "PT_0017_0043",
+    "key": "Pt_0017_0043",
     "original": "かいてい",
     "translation": "海底",
     "index": 43
   },
   {
-    "key": "PT_0017_0044",
+    "key": "Pt_0017_0044",
     "original": "かわ",
     "translation": "河川",
     "index": 44
   },
   {
-    "key": "PT_0017_0045",
+    "key": "Pt_0017_0045",
     "original": "そら",
     "translation": "天空",
     "index": 45
   },
   {
-    "key": "PT_0017_0046",
+    "key": "Pt_0017_0046",
     "original": "ポケセン",
     "translation": "宝可梦中心",
     "index": 46
   },
   {
-    "key": "PT_0017_0047",
+    "key": "Pt_0017_0047",
     "original": "きんぞく",
     "translation": "金属",
     "index": 47
   },
   {
-    "key": "PT_0017_0048",
+    "key": "Pt_0017_0048",
     "original": "チェック",
     "translation": "格子",
     "index": 48
   },
   {
-    "key": "PT_0017_0049",
+    "key": "Pt_0017_0049",
     "original": "シンプル",
     "translation": "简洁",
     "index": 49
   },
   {
-    "key": "PT_0017_0050",
+    "key": "Pt_0017_0050",
     "original": "やぶれた",
     "translation": "破碎",
     "index": 50
   },
   {
-    "key": "PT_0017_0051",
+    "key": "Pt_0017_0051",
     "original": "コンテスト",
     "translation": "华丽大赛",
     "index": 51
   },
   {
-    "key": "PT_0017_0052",
+    "key": "Pt_0017_0052",
     "original": "なつかしい",
     "translation": "怀旧",
     "index": 52
   },
   {
-    "key": "PT_0017_0053",
+    "key": "Pt_0017_0053",
     "original": "グレッグル",
     "translation": "不良蛙",
     "index": 53
   },
   {
-    "key": "PT_0017_0054",
+    "key": "Pt_0017_0054",
     "original": "さんびき",
     "translation": "最初的三只",
     "index": 54
   },
   {
-    "key": "PT_0017_0055",
+    "key": "Pt_0017_0055",
     "original": "ピカピカ",
     "translation": "皮卡皮卡",
     "index": 55
   },
   {
-    "key": "PT_0017_0056",
+    "key": "Pt_0017_0056",
     "original": "でんせつ",
     "translation": "传说",
     "index": 56
   },
   {
-    "key": "PT_0017_0057",
+    "key": "Pt_0017_0057",
     "original": "ギンガだん",
     "translation": "银河队",
     "index": 57
   },
   {
-    "key": "PT_0017_0058",
+    "key": "Pt_0017_0058",
     "original": "つかむ",
     "translation": "抓住",
     "index": 58
   },
   {
-    "key": "PT_0017_0059",
+    "key": "Pt_0017_0059",
     "original": "ここにおく",
     "translation": "放在这里",
     "index": 59
   },
   {
-    "key": "PT_0017_0060",
+    "key": "Pt_0017_0060",
     "original": "いれかえる",
     "translation": "调换",
     "index": 60
   },
   {
-    "key": "PT_0017_0061",
+    "key": "Pt_0017_0061",
     "original": "ようすをみる",
     "translation": "查看信息",
     "index": 61
   },
   {
-    "key": "PT_0017_0062",
+    "key": "Pt_0017_0062",
     "original": "つれていく",
     "translation": "带走",
     "index": 62
   },
   {
-    "key": "PT_0017_0063",
+    "key": "Pt_0017_0063",
     "original": "あずける",
     "translation": "寄放",
     "index": 63
   },
   {
-    "key": "PT_0017_0064",
+    "key": "Pt_0017_0064",
     "original": "もちもの",
     "translation": "持有物",
     "index": 64
   },
   {
-    "key": "PT_0017_0065",
+    "key": "Pt_0017_0065",
     "original": "マーキング",
     "translation": "标记",
     "index": 65
   },
   {
-    "key": "PT_0017_0066",
+    "key": "Pt_0017_0066",
     "original": "にがす",
     "translation": "放生",
     "index": 66
   },
   {
-    "key": "PT_0017_0067",
+    "key": "Pt_0017_0067",
     "original": "やめる",
     "translation": "取消",
     "index": 67
   },
   {
-    "key": "PT_0017_0068",
+    "key": "Pt_0017_0068",
     "original": "けってい",
     "translation": "确定",
     "index": 68
   },
   {
-    "key": "PT_0017_0069",
+    "key": "Pt_0017_0069",
     "original": "やめる",
     "translation": "取消",
     "index": 69
   },
   {
-    "key": "PT_0017_0070",
+    "key": "Pt_0017_0070",
     "original": "もたせる",
     "translation": "携带",
     "index": 70
   },
   {
-    "key": "PT_0017_0071",
+    "key": "Pt_0017_0071",
     "original": "あずかる",
     "translation": "收回",
     "index": 71
   },
   {
-    "key": "PT_0017_0072",
+    "key": "Pt_0017_0072",
     "original": "せつめい",
     "translation": "说明",
     "index": 72
   },
   {
-    "key": "PT_0017_0073",
+    "key": "Pt_0017_0073",
     "original": "とりかえる",
     "translation": "互换",
     "index": 73
   },
   {
-    "key": "PT_0017_0074",
+    "key": "Pt_0017_0074",
     "original": "バッグへ",
     "translation": "放回包包",
     "index": 74
   },
   {
-    "key": "PT_0017_0075",
+    "key": "Pt_0017_0075",
     "original": "やめる",
     "translation": "取消",
     "index": 75
   },
   {
-    "key": "PT_0017_0076",
+    "key": "Pt_0017_0076",
     "original": "ひだりにこてい",
     "translation": "固定在左边",
     "index": 76
   },
   {
-    "key": "PT_0017_0077",
+    "key": "Pt_0017_0077",
     "original": "みぎにこてい",
     "translation": "固定在右边",
     "index": 77
   },
   {
-    "key": "PT_0017_0078",
+    "key": "Pt_0017_0078",
     "original": "はい",
     "translation": "是",
     "index": 78
   },
   {
-    "key": "PT_0017_0079",
+    "key": "Pt_0017_0079",
     "original": "いいえ",
     "translation": "否",
     "index": 79

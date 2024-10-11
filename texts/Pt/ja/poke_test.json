@@ -1,156 +1,156 @@
 [
   {
-    "key": "PT_0292_0000",
+    "key": "Pt_0446_0000",
     "original": "[0134,0000] [0100,0001] [0100,0002] [0100,0003]",
     "translation": "[0134,0000] [0100,0001] [0100,0002] [0100,0003]",
     "index": 0
   },
   {
-    "key": "PT_0292_0001",
+    "key": "Pt_0446_0001",
     "original": "オス",
     "translation": "オス",
     "index": 1
   },
   {
-    "key": "PT_0292_0002",
+    "key": "Pt_0446_0002",
     "original": "メス",
     "translation": "メス",
     "index": 2
   },
   {
-    "key": "PT_0292_0003",
+    "key": "Pt_0446_0003",
     "original": "なし",
     "translation": "なし",
     "index": 3
   },
   {
-    "key": "PT_0292_0004",
+    "key": "Pt_0446_0004",
     "original": "ノーマル",
     "translation": "ノーマル",
     "index": 4
   },
   {
-    "key": "PT_0292_0005",
+    "key": "Pt_0446_0005",
     "original": "レア",
     "translation": "レア",
     "index": 5
   },
   {
-    "key": "PT_0292_0006",
+    "key": "Pt_0446_0006",
     "original": "ー",
     "translation": "ー",
     "index": 6
   },
   {
-    "key": "PT_0292_0007",
+    "key": "Pt_0446_0007",
     "original": "ループ",
     "translation": "ループ",
     "index": 7
   },
   {
-    "key": "PT_0292_0008",
+    "key": "Pt_0446_0008",
     "original": "→",
     "translation": "→",
     "index": 8
   },
   {
-    "key": "PT_0292_0009",
+    "key": "Pt_0446_0009",
     "original": "ロードします",
     "translation": "ロードします",
     "index": 9
   },
   {
-    "key": "PT_0292_0010",
+    "key": "Pt_0446_0010",
     "original": "セーブします",
     "translation": "セーブします",
     "index": 10
   },
   {
-    "key": "PT_0292_0011",
+    "key": "Pt_0446_0011",
     "original": "はい",
     "translation": "はい",
     "index": 11
   },
   {
-    "key": "PT_0292_0012",
+    "key": "Pt_0446_0012",
     "original": "いいえ",
     "translation": "いいえ",
     "index": 12
   },
   {
-    "key": "PT_0292_0013",
+    "key": "Pt_0446_0013",
     "original": "Ｌ１",
     "translation": "Ｌ１",
     "index": 13
   },
   {
-    "key": "PT_0292_0014",
+    "key": "Pt_0446_0014",
     "original": "Ｌ２",
     "translation": "Ｌ２",
     "index": 14
   },
   {
-    "key": "PT_0292_0015",
+    "key": "Pt_0446_0015",
     "original": "Ｌ３",
     "translation": "Ｌ３",
     "index": 15
   },
   {
-    "key": "PT_0292_0016",
+    "key": "Pt_0446_0016",
     "original": "Ｌ４",
     "translation": "Ｌ４",
     "index": 16
   },
   {
-    "key": "PT_0292_0017",
+    "key": "Pt_0446_0017",
     "original": "Ｌ５",
     "translation": "Ｌ５",
     "index": 17
   },
   {
-    "key": "PT_0292_0018",
+    "key": "Pt_0446_0018",
     "original": "Ｌ６",
     "translation": "Ｌ６",
     "index": 18
   },
   {
-    "key": "PT_0292_0019",
+    "key": "Pt_0446_0019",
     "original": "Ｌ７",
     "translation": "Ｌ７",
     "index": 19
   },
   {
-    "key": "PT_0292_0020",
+    "key": "Pt_0446_0020",
     "original": "Ｌ８",
     "translation": "Ｌ８",
     "index": 20
   },
   {
-    "key": "PT_0292_0021",
+    "key": "Pt_0446_0021",
     "original": "Ｌ９",
     "translation": "Ｌ９",
     "index": 21
   },
   {
-    "key": "PT_0292_0022",
+    "key": "Pt_0446_0022",
     "original": "Ｐｏｓ（[0134,0004]、[0134,0005]）",
     "translation": "Ｐｏｓ（[0134,0004]、[0134,0005]）",
     "index": 22
   },
   {
-    "key": "PT_0292_0023",
+    "key": "Pt_0446_0023",
     "original": "なきごえかいし",
     "translation": "なきごえかいし",
     "index": 23
   },
   {
-    "key": "PT_0292_0024",
+    "key": "Pt_0446_0024",
     "original": "エディット しょうめん",
     "translation": "エディット しょうめん",
     "index": 24
   },
   {
-    "key": "PT_0292_0025",
+    "key": "Pt_0446_0025",
     "original": "エディット はいめん",
     "translation": "エディット はいめん",
     "index": 25

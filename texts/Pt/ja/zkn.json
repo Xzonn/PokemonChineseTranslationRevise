@@ -1,750 +1,750 @@
 [
   {
-    "key": "PT_0685_0000",
+    "key": "Pt_0685_0000",
     "original": "みつけたかず",
     "translation": "みつけたかず",
     "index": 0
   },
   {
-    "key": "PT_0685_0001",
+    "key": "Pt_0685_0001",
     "original": "つかまえたかず",
     "translation": "つかまえたかず",
     "index": 1
   },
   {
-    "key": "PT_0685_0002",
+    "key": "Pt_0685_0002",
     "original": "リストを\nもどす",
     "translation": "リストを\nもどす",
     "index": 2
   },
   {
-    "key": "PT_0685_0003",
+    "key": "Pt_0685_0003",
     "original": "リストの\nはじめへ",
     "translation": "リストの\nはじめへ",
     "index": 3
   },
   {
-    "key": "PT_0685_0004",
+    "key": "Pt_0685_0004",
     "original": "リストの\nさいごへ",
     "translation": "リストの\nさいごへ",
     "index": 4
   },
   {
-    "key": "PT_0685_0005",
+    "key": "Pt_0685_0005",
     "original": "ずかんを\nきりかえる",
     "translation": "ずかんを\nきりかえる",
     "index": 5
   },
   {
-    "key": "PT_0685_0006",
+    "key": "Pt_0685_0006",
     "original": "ポケモンを\nならべる",
     "translation": "ポケモンを\nならべる",
     "index": 6
   },
   {
-    "key": "PT_0685_0007",
+    "key": "Pt_0685_0007",
     "original": "ポケモンを\nさがす",
     "translation": "ポケモンを\nさがす",
     "index": 7
   },
   {
-    "key": "PT_0685_0008",
+    "key": "Pt_0685_0008",
     "original": "ポケモン",
     "translation": "ポケモン",
     "index": 8
   },
   {
-    "key": "PT_0685_0009",
+    "key": "Pt_0685_0009",
     "original": "たかさ",
     "translation": "たかさ",
     "index": 9
   },
   {
-    "key": "PT_0685_0010",
+    "key": "Pt_0685_0010",
     "original": "おもさ",
     "translation": "おもさ",
     "index": 10
   },
   {
-    "key": "PT_0685_0011",
+    "key": "Pt_0685_0011",
     "original": "ｍ",
     "translation": "ｍ",
     "index": 11
   },
   {
-    "key": "PT_0685_0012",
+    "key": "Pt_0685_0012",
     "original": "ｋｇ",
     "translation": "ｋｇ",
     "index": 12
   },
   {
-    "key": "PT_0685_0013",
+    "key": "Pt_0685_0013",
     "original": "オスのすがた",
     "translation": "オスのすがた",
     "index": 13
   },
   {
-    "key": "PT_0685_0014",
+    "key": "Pt_0685_0014",
     "original": "メスのすがた",
     "translation": "メスのすがた",
     "index": 14
   },
   {
-    "key": "PT_0685_0015",
+    "key": "Pt_0685_0015",
     "original": "にしのうみ",
     "translation": "にしのうみ",
     "index": 15
   },
   {
-    "key": "PT_0685_0016",
+    "key": "Pt_0685_0016",
     "original": "ひがしのうみ",
     "translation": "ひがしのうみ",
     "index": 16
   },
   {
-    "key": "PT_0685_0017",
+    "key": "Pt_0685_0017",
     "original": "くさきのミノ",
     "translation": "くさきのミノ",
     "index": 17
   },
   {
-    "key": "PT_0685_0018",
+    "key": "Pt_0685_0018",
     "original": "すなちのミノ",
     "translation": "すなちのミノ",
     "index": 18
   },
   {
-    "key": "PT_0685_0019",
+    "key": "Pt_0685_0019",
     "original": "ゴミのミノ",
     "translation": "ゴミのミノ",
     "index": 19
   },
   {
-    "key": "PT_0685_0020",
+    "key": "Pt_0685_0020",
     "original": "あるすがた",
     "translation": "あるすがた",
     "index": 20
   },
   {
-    "key": "PT_0685_0021",
+    "key": "Pt_0685_0021",
     "original": " ",
     "translation": " ",
     "index": 21
   },
   {
-    "key": "PT_0685_0022",
+    "key": "Pt_0685_0022",
     "original": "えいごのずかん",
     "translation": "えいごのずかん",
     "index": 22
   },
   {
-    "key": "PT_0685_0023",
+    "key": "Pt_0685_0023",
     "original": "フランスごのずかん",
     "translation": "フランスごのずかん",
     "index": 23
   },
   {
-    "key": "PT_0685_0024",
+    "key": "Pt_0685_0024",
     "original": "ドイツごのずかん",
     "translation": "ドイツごのずかん",
     "index": 24
   },
   {
-    "key": "PT_0685_0025",
+    "key": "Pt_0685_0025",
     "original": "イタリアごのずかん",
     "translation": "イタリアごのずかん",
     "index": 25
   },
   {
-    "key": "PT_0685_0026",
+    "key": "Pt_0685_0026",
     "original": "スペインごのずかん",
     "translation": "スペインごのずかん",
     "index": 26
   },
   {
-    "key": "PT_0685_0027",
+    "key": "Pt_0685_0027",
     "original": "Pokémon",
     "translation": "Pokémon",
     "index": 27
   },
   {
-    "key": "PT_0685_0028",
+    "key": "Pt_0685_0028",
     "original": "ページ",
     "translation": "ページ",
     "index": 28
   },
   {
-    "key": "PT_0685_0029",
+    "key": "Pt_0685_0029",
     "original": "ずかんをみる",
     "translation": "ずかんをみる",
     "index": 29
   },
   {
-    "key": "PT_0685_0030",
+    "key": "Pt_0685_0030",
     "original": "ぶんぷ",
     "translation": "ぶんぷ",
     "index": 30
   },
   {
-    "key": "PT_0685_0031",
+    "key": "Pt_0685_0031",
     "original": "なきごえ",
     "translation": "なきごえ",
     "index": 31
   },
   {
-    "key": "PT_0685_0032",
+    "key": "Pt_0685_0032",
     "original": "おおきさ",
     "translation": "おおきさ",
     "index": 32
   },
   {
-    "key": "PT_0685_0033",
+    "key": "Pt_0685_0033",
     "original": "ＮＥＸＴ",
     "translation": "ＮＥＸＴ",
     "index": 33
   },
   {
-    "key": "PT_0685_0034",
+    "key": "Pt_0685_0034",
     "original": "ＢＡＣＫ",
     "translation": "ＢＡＣＫ",
     "index": 34
   },
   {
-    "key": "PT_0685_0035",
+    "key": "Pt_0685_0035",
     "original": "せいそくち ふめい",
     "translation": "せいそくち ふめい",
     "index": 35
   },
   {
-    "key": "PT_0685_0036",
+    "key": "Pt_0685_0036",
     "original": "あさ",
     "translation": "あさ",
     "index": 36
   },
   {
-    "key": "PT_0685_0037",
+    "key": "Pt_0685_0037",
     "original": "ひる",
     "translation": "ひる",
     "index": 37
   },
   {
-    "key": "PT_0685_0038",
+    "key": "Pt_0685_0038",
     "original": "よる",
     "translation": "よる",
     "index": 38
   },
   {
-    "key": "PT_0685_0039",
+    "key": "Pt_0685_0039",
     "original": "よる",
     "translation": "よる",
     "index": 39
   },
   {
-    "key": "PT_0685_0040",
+    "key": "Pt_0685_0040",
     "original": "しんや",
     "translation": "しんや",
     "index": 40
   },
   {
-    "key": "PT_0685_0041",
+    "key": "Pt_0685_0041",
     "original": "コーラス",
     "translation": "コーラス",
     "index": 41
   },
   {
-    "key": "PT_0685_0042",
+    "key": "Pt_0685_0042",
     "original": "パン",
     "translation": "パン",
     "index": 42
   },
   {
-    "key": "PT_0685_0043",
+    "key": "Pt_0685_0043",
     "original": "たかさくらべ",
     "translation": "たかさくらべ",
     "index": 43
   },
   {
-    "key": "PT_0685_0044",
+    "key": "Pt_0685_0044",
     "original": "おもさくらべ",
     "translation": "おもさくらべ",
     "index": 44
   },
   {
-    "key": "PT_0685_0045",
+    "key": "Pt_0685_0045",
     "original": "たかさくらべ",
     "translation": "たかさくらべ",
     "index": 45
   },
   {
-    "key": "PT_0685_0046",
+    "key": "Pt_0685_0046",
     "original": "おもさくらべ",
     "translation": "おもさくらべ",
     "index": 46
   },
   {
-    "key": "PT_0685_0047",
+    "key": "Pt_0685_0047",
     "original": "なまえ",
     "translation": "なまえ",
     "index": 47
   },
   {
-    "key": "PT_0685_0048",
+    "key": "Pt_0685_0048",
     "original": "タイプ",
     "translation": "タイプ",
     "index": 48
   },
   {
-    "key": "PT_0685_0049",
+    "key": "Pt_0685_0049",
     "original": "かたち",
     "translation": "かたち",
     "index": 49
   },
   {
-    "key": "PT_0685_0050",
+    "key": "Pt_0685_0050",
     "original": "ならび",
     "translation": "ならび",
     "index": 50
   },
   {
-    "key": "PT_0685_0051",
+    "key": "Pt_0685_0051",
     "original": "けってい",
     "translation": "けってい",
     "index": 51
   },
   {
-    "key": "PT_0685_0052",
+    "key": "Pt_0685_0052",
     "original": "やめる",
     "translation": "やめる",
     "index": 52
   },
   {
-    "key": "PT_0685_0053",
+    "key": "Pt_0685_0053",
     "original": "ー",
     "translation": "ー",
     "index": 53
   },
   {
-    "key": "PT_0685_0054",
+    "key": "Pt_0685_0054",
     "original": "あいうえお",
     "translation": "あいうえお",
     "index": 54
   },
   {
-    "key": "PT_0685_0055",
+    "key": "Pt_0685_0055",
     "original": "かきくけこ",
     "translation": "かきくけこ",
     "index": 55
   },
   {
-    "key": "PT_0685_0056",
+    "key": "Pt_0685_0056",
     "original": "さしすせそ",
     "translation": "さしすせそ",
     "index": 56
   },
   {
-    "key": "PT_0685_0057",
+    "key": "Pt_0685_0057",
     "original": "たちつてと",
     "translation": "たちつてと",
     "index": 57
   },
   {
-    "key": "PT_0685_0058",
+    "key": "Pt_0685_0058",
     "original": "なにぬねの",
     "translation": "なにぬねの",
     "index": 58
   },
   {
-    "key": "PT_0685_0059",
+    "key": "Pt_0685_0059",
     "original": "はひふへほ",
     "translation": "はひふへほ",
     "index": 59
   },
   {
-    "key": "PT_0685_0060",
+    "key": "Pt_0685_0060",
     "original": "まみむめも",
     "translation": "まみむめも",
     "index": 60
   },
   {
-    "key": "PT_0685_0061",
+    "key": "Pt_0685_0061",
     "original": "やゆよ わ",
     "translation": "やゆよ わ",
     "index": 61
   },
   {
-    "key": "PT_0685_0062",
+    "key": "Pt_0685_0062",
     "original": "らりるれろ",
     "translation": "らりるれろ",
     "index": 62
   },
   {
-    "key": "PT_0685_0063",
+    "key": "Pt_0685_0063",
     "original": "わ",
     "translation": "わ",
     "index": 63
   },
   {
-    "key": "PT_0685_0064",
+    "key": "Pt_0685_0064",
     "original": "ノーマル",
     "translation": "ノーマル",
     "index": 64
   },
   {
-    "key": "PT_0685_0065",
+    "key": "Pt_0685_0065",
     "original": "ほのお",
     "translation": "ほのお",
     "index": 65
   },
   {
-    "key": "PT_0685_0066",
+    "key": "Pt_0685_0066",
     "original": "みず",
     "translation": "みず",
     "index": 66
   },
   {
-    "key": "PT_0685_0067",
+    "key": "Pt_0685_0067",
     "original": "でんき",
     "translation": "でんき",
     "index": 67
   },
   {
-    "key": "PT_0685_0068",
+    "key": "Pt_0685_0068",
     "original": "くさ",
     "translation": "くさ",
     "index": 68
   },
   {
-    "key": "PT_0685_0069",
+    "key": "Pt_0685_0069",
     "original": "こおり",
     "translation": "こおり",
     "index": 69
   },
   {
-    "key": "PT_0685_0070",
+    "key": "Pt_0685_0070",
     "original": "かくとう",
     "translation": "かくとう",
     "index": 70
   },
   {
-    "key": "PT_0685_0071",
+    "key": "Pt_0685_0071",
     "original": "どく",
     "translation": "どく",
     "index": 71
   },
   {
-    "key": "PT_0685_0072",
+    "key": "Pt_0685_0072",
     "original": "じめん",
     "translation": "じめん",
     "index": 72
   },
   {
-    "key": "PT_0685_0073",
+    "key": "Pt_0685_0073",
     "original": "ひこう",
     "translation": "ひこう",
     "index": 73
   },
   {
-    "key": "PT_0685_0074",
+    "key": "Pt_0685_0074",
     "original": "エスパー",
     "translation": "エスパー",
     "index": 74
   },
   {
-    "key": "PT_0685_0075",
+    "key": "Pt_0685_0075",
     "original": "むし",
     "translation": "むし",
     "index": 75
   },
   {
-    "key": "PT_0685_0076",
+    "key": "Pt_0685_0076",
     "original": "いわ",
     "translation": "いわ",
     "index": 76
   },
   {
-    "key": "PT_0685_0077",
+    "key": "Pt_0685_0077",
     "original": "ゴースト",
     "translation": "ゴースト",
     "index": 77
   },
   {
-    "key": "PT_0685_0078",
+    "key": "Pt_0685_0078",
     "original": "ドラゴン",
     "translation": "ドラゴン",
     "index": 78
   },
   {
-    "key": "PT_0685_0079",
+    "key": "Pt_0685_0079",
     "original": "あく",
     "translation": "あく",
     "index": 79
   },
   {
-    "key": "PT_0685_0080",
+    "key": "Pt_0685_0080",
     "original": "はがね",
     "translation": "はがね",
     "index": 80
   },
   {
-    "key": "PT_0685_0081",
+    "key": "Pt_0685_0081",
     "original": "ばんごう",
     "translation": "ばんごう",
     "index": 81
   },
   {
-    "key": "PT_0685_0082",
+    "key": "Pt_0685_0082",
     "original": "ごじゅうおん",
     "translation": "ごじゅうおん",
     "index": 82
   },
   {
-    "key": "PT_0685_0083",
+    "key": "Pt_0685_0083",
     "original": "おもい",
     "translation": "おもい",
     "index": 83
   },
   {
-    "key": "PT_0685_0084",
+    "key": "Pt_0685_0084",
     "original": "かるい",
     "translation": "かるい",
     "index": 84
   },
   {
-    "key": "PT_0685_0085",
+    "key": "Pt_0685_0085",
     "original": "たかい",
     "translation": "たかい",
     "index": 85
   },
   {
-    "key": "PT_0685_0086",
+    "key": "Pt_0685_0086",
     "original": "ひくい",
     "translation": "ひくい",
     "index": 86
   },
   {
-    "key": "PT_0685_0087",
+    "key": "Pt_0685_0087",
     "original": "なまえの さいしょの もじを\nしてい します。",
     "translation": "なまえの さいしょの もじを\nしてい します。",
     "index": 87
   },
   {
-    "key": "PT_0685_0088",
+    "key": "Pt_0685_0088",
     "original": "タイプを してい します。",
     "translation": "タイプを してい します。",
     "index": 88
   },
   {
-    "key": "PT_0685_0089",
+    "key": "Pt_0685_0089",
     "original": "からだの かたちを してい します。",
     "translation": "からだの かたちを してい します。",
     "index": 89
   },
   {
-    "key": "PT_0685_0090",
+    "key": "Pt_0685_0090",
     "original": "ずかんの ならびを してい します。",
     "translation": "ずかんの ならびを してい します。",
     "index": 90
   },
   {
-    "key": "PT_0685_0091",
+    "key": "Pt_0685_0091",
     "original": "じょうけんに あう ポケモンを\nさがします。",
     "translation": "じょうけんに あう ポケモンを\nさがします。",
     "index": 91
   },
   {
-    "key": "PT_0685_0092",
+    "key": "Pt_0685_0092",
     "original": "けんさくを ちゅうし します。",
     "translation": "けんさくを ちゅうし します。",
     "index": 92
   },
   {
-    "key": "PT_0685_0093",
+    "key": "Pt_0685_0093",
     "original": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
     "translation": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
     "index": 93
   },
   {
-    "key": "PT_0685_0094",
+    "key": "Pt_0685_0094",
     "original": "けんさくちゅう",
     "translation": "けんさくちゅう",
     "index": 94
   },
   {
-    "key": "PT_0685_0095",
+    "key": "Pt_0685_0095",
     "original": "１．４５",
     "translation": "１．４５",
     "index": 95
   },
   {
-    "key": "PT_0685_0096",
+    "key": "Pt_0685_0096",
     "original": "１．４０",
     "translation": "１．４０",
     "index": 96
   },
   {
-    "key": "PT_0685_0097",
+    "key": "Pt_0685_0097",
     "original": "３８．０",
     "translation": "３８．０",
     "index": 97
   },
   {
-    "key": "PT_0685_0098",
+    "key": "Pt_0685_0098",
     "original": "３４．０",
     "translation": "３４．０",
     "index": 98
   },
   {
-    "key": "PT_0685_0099",
+    "key": "Pt_0685_0099",
     "original": "ーーーーー",
     "translation": "ーーーーー",
     "index": 99
   },
   {
-    "key": "PT_0685_0100",
+    "key": "Pt_0685_0100",
     "original": "ーーー",
     "translation": "ーーー",
     "index": 100
   },
   {
-    "key": "PT_0685_0101",
+    "key": "Pt_0685_0101",
     "original": "べつのすがたをみる",
     "translation": "べつのすがたをみる",
     "index": 101
   },
   {
-    "key": "PT_0685_0102",
+    "key": "Pt_0685_0102",
     "original": "せつめい",
     "translation": "せつめい",
     "index": 102
   },
   {
-    "key": "PT_0685_0103",
+    "key": "Pt_0685_0103",
     "original": "ぶんぷ",
     "translation": "ぶんぷ",
     "index": 103
   },
   {
-    "key": "PT_0685_0104",
+    "key": "Pt_0685_0104",
     "original": "なきごえ",
     "translation": "なきごえ",
     "index": 104
   },
   {
-    "key": "PT_0685_0105",
+    "key": "Pt_0685_0105",
     "original": "おおきさ",
     "translation": "おおきさ",
     "index": 105
   },
   {
-    "key": "PT_0685_0106",
+    "key": "Pt_0685_0106",
     "original": "すがた",
     "translation": "すがた",
     "index": 106
   },
   {
-    "key": "PT_0685_0107",
+    "key": "Pt_0685_0107",
     "original": "おわる",
     "translation": "おわる",
     "index": 107
   },
   {
-    "key": "PT_0685_0108",
+    "key": "Pt_0685_0108",
     "original": "もどる",
     "translation": "もどる",
     "index": 108
   },
   {
-    "key": "PT_0685_0109",
+    "key": "Pt_0685_0109",
     "original": "みつかったかず",
     "translation": "みつかったかず",
     "index": 109
   },
   {
-    "key": "PT_0685_0110",
+    "key": "Pt_0685_0110",
     "original": "ポケモンずかんの とうろく かんりょう！",
     "translation": "ポケモンずかんの とうろく かんりょう！",
     "index": 110
   },
   {
-    "key": "PT_0685_0111",
+    "key": "Pt_0685_0111",
     "original": "ノーマルフォルム",
     "translation": "ノーマルフォルム",
     "index": 111
   },
   {
-    "key": "PT_0685_0112",
+    "key": "Pt_0685_0112",
     "original": "アタックフォルム",
     "translation": "アタックフォルム",
     "index": 112
   },
   {
-    "key": "PT_0685_0113",
+    "key": "Pt_0685_0113",
     "original": "ディフェンスフォルム",
     "translation": "ディフェンスフォルム",
     "index": 113
   },
   {
-    "key": "PT_0685_0114",
+    "key": "Pt_0685_0114",
     "original": "スピードフォルム",
     "translation": "スピードフォルム",
     "index": 114
   },
   {
-    "key": "PT_0685_0115",
+    "key": "Pt_0685_0115",
     "original": "ランドフォルム",
     "translation": "ランドフォルム",
     "index": 115
   },
   {
-    "key": "PT_0685_0116",
+    "key": "Pt_0685_0116",
     "original": "スカイフォルム",
     "translation": "スカイフォルム",
     "index": 116
   },
   {
-    "key": "PT_0685_0117",
+    "key": "Pt_0685_0117",
     "original": "アナザーフォルム",
     "translation": "アナザーフォルム",
     "index": 117
   },
   {
-    "key": "PT_0685_0118",
+    "key": "Pt_0685_0118",
     "original": "オリジンフォルム",
     "translation": "オリジンフォルム",
     "index": 118
   },
   {
-    "key": "PT_0685_0119",
+    "key": "Pt_0685_0119",
     "original": "ロトム",
     "translation": "ロトム",
     "index": 119
   },
   {
-    "key": "PT_0685_0120",
+    "key": "Pt_0685_0120",
     "original": "ヒートロトム",
     "translation": "ヒートロトム",
     "index": 120
   },
   {
-    "key": "PT_0685_0121",
+    "key": "Pt_0685_0121",
     "original": "ウォッシュロトム",
     "translation": "ウォッシュロトム",
     "index": 121
   },
   {
-    "key": "PT_0685_0122",
+    "key": "Pt_0685_0122",
     "original": "フロストロトム",
     "translation": "フロストロトム",
     "index": 122
   },
   {
-    "key": "PT_0685_0123",
+    "key": "Pt_0685_0123",
     "original": "スピンロトム",
     "translation": "スピンロトム",
     "index": 123
   },
   {
-    "key": "PT_0685_0124",
+    "key": "Pt_0685_0124",
     "original": "カットロトム",
     "translation": "カットロトム",
     "index": 124

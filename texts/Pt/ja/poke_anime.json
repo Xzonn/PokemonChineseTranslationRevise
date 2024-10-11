@@ -1,858 +1,858 @@
 [
   {
-    "key": "PT_0290_0000",
-    "original": "つぶれて はねる",
-    "translation": "つぶれて はねる",
+    "key": "Pt_0445_0000",
+    "original": "つぶれて はなれる",
+    "translation": "つぶれて はなれる",
     "index": 0
   },
   {
-    "key": "PT_0290_0001",
+    "key": "Pt_0445_0001",
     "original": "たてに ブルブル",
     "translation": "たてに ブルブル",
     "index": 1
   },
   {
-    "key": "PT_0290_0002",
+    "key": "Pt_0445_0002",
     "original": "たてに ひっぱる",
     "translation": "たてに ひっぱる",
     "index": 2
   },
   {
-    "key": "PT_0290_0003",
+    "key": "Pt_0445_0003",
     "original": "ちぢんで ふくらむ",
     "translation": "ちぢんで ふくらむ",
     "index": 3
   },
   {
-    "key": "PT_0290_0004",
+    "key": "Pt_0445_0004",
     "original": "ためて はねる スロー",
     "translation": "ためて はねる スロー",
     "index": 4
   },
   {
-    "key": "PT_0290_0005",
+    "key": "Pt_0445_0005",
     "original": "よこに ブルブル",
     "translation": "よこに ブルブル",
     "index": 5
   },
   {
-    "key": "PT_0290_0006",
+    "key": "Pt_0445_0006",
     "original": "ピョンピョン スモール",
     "translation": "ピョンピョン スモール",
     "index": 6
   },
   {
-    "key": "PT_0290_0007",
+    "key": "Pt_0445_0007",
     "original": "ためて よこはね",
     "translation": "ためて よこはね",
     "index": 7
   },
   {
-    "key": "PT_0290_0008",
+    "key": "Pt_0445_0008",
     "original": "たてゆれ",
     "translation": "たてゆれ",
     "index": 8
   },
   {
-    "key": "PT_0290_0009",
+    "key": "Pt_0445_0009",
     "original": "ヤジロベー スロー",
     "translation": "ヤジロベー スロー",
     "index": 9
   },
   {
-    "key": "PT_0290_0010",
+    "key": "Pt_0445_0010",
     "original": "よことびはね スロー",
     "translation": "よことびはね スロー",
     "index": 10
   },
   {
-    "key": "PT_0290_0011",
+    "key": "Pt_0445_0011",
     "original": "きざみよことび",
     "translation": "きざみよことび",
     "index": 11
   },
   {
-    "key": "PT_0290_0012",
+    "key": "Pt_0445_0012",
     "original": "よことびはね スモール",
     "translation": "よことびはね スモール",
     "index": 12
   },
   {
-    "key": "PT_0290_0013",
+    "key": "Pt_0445_0013",
     "original": "ゆれながら さゆう",
     "translation": "ゆれながら さゆう",
     "index": 13
   },
   {
-    "key": "PT_0290_0014",
+    "key": "Pt_0445_0014",
     "original": "ガクンガクン",
     "translation": "ガクンガクン",
     "index": 14
   },
   {
-    "key": "PT_0290_0015",
+    "key": "Pt_0445_0015",
     "original": "かげぶんしん",
     "translation": "かげぶんしん",
     "index": 15
   },
   {
-    "key": "PT_0290_0016",
+    "key": "Pt_0445_0016",
     "original": "よこゆれ スロー",
     "translation": "よこゆれ スロー",
     "index": 16
   },
   {
-    "key": "PT_0290_0017",
+    "key": "Pt_0445_0017",
     "original": "ゆれながら じょうげ",
     "translation": "ゆれながら じょうげ",
     "index": 17
   },
   {
-    "key": "PT_0290_0018",
+    "key": "Pt_0445_0018",
     "original": "よこに ひっぱる",
     "translation": "よこに ひっぱる",
     "index": 18
   },
   {
-    "key": "PT_0290_0019",
+    "key": "Pt_0445_0019",
     "original": "スパーク",
     "translation": "スパーク",
     "index": 19
   },
   {
-    "key": "PT_0290_0020",
+    "key": "Pt_0445_0020",
     "original": "ボワボワ",
     "translation": "ボワボワ",
     "index": 20
   },
   {
-    "key": "PT_0290_0021",
+    "key": "Pt_0445_0021",
     "original": "2かい ちぢんで ふくらむ",
     "translation": "2かい ちぢんで ふくらむ",
     "index": 21
   },
   {
-    "key": "PT_0290_0022",
+    "key": "Pt_0445_0022",
     "original": "ゆりかご スロー",
     "translation": "ゆりかご スロー",
     "index": 22
   },
   {
-    "key": "PT_0290_0023",
+    "key": "Pt_0445_0023",
     "original": "よことびはね",
     "translation": "よことびはね",
     "index": 23
   },
   {
-    "key": "PT_0290_0024",
+    "key": "Pt_0445_0024",
     "original": "たてはね から よこはね",
     "translation": "たてはね から よこはね",
     "index": 24
   },
   {
-    "key": "PT_0290_0025",
+    "key": "Pt_0445_0025",
     "original": "ピョンピョン",
     "translation": "ピョンピョン",
     "index": 25
   },
   {
-    "key": "PT_0290_0026",
+    "key": "Pt_0445_0026",
     "original": "たてゆれ スロー",
     "translation": "たてゆれ スロー",
     "index": 26
   },
   {
-    "key": "PT_0290_0027",
+    "key": "Pt_0445_0027",
     "original": "くりくり",
     "translation": "くりくり",
     "index": 27
   },
   {
-    "key": "PT_0290_0028",
+    "key": "Pt_0445_0028",
     "original": "ヤジロベー 2かい",
     "translation": "ヤジロベー 2かい",
     "index": 28
   },
   {
-    "key": "PT_0290_0029",
+    "key": "Pt_0445_0029",
     "original": "よこゆれ",
     "translation": "よこゆれ",
     "index": 29
   },
   {
-    "key": "PT_0290_0030",
+    "key": "Pt_0445_0030",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 30
   },
   {
-    "key": "PT_0290_0031",
+    "key": "Pt_0445_0031",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 31
   },
   {
-    "key": "PT_0290_0032",
+    "key": "Pt_0445_0032",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 32
   },
   {
-    "key": "PT_0290_0033",
+    "key": "Pt_0445_0033",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 33
   },
   {
-    "key": "PT_0290_0034",
+    "key": "Pt_0445_0034",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 34
   },
   {
-    "key": "PT_0290_0035",
+    "key": "Pt_0445_0035",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 35
   },
   {
-    "key": "PT_0290_0036",
+    "key": "Pt_0445_0036",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 36
   },
   {
-    "key": "PT_0290_0037",
+    "key": "Pt_0445_0037",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 37
   },
   {
-    "key": "PT_0290_0038",
+    "key": "Pt_0445_0038",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 38
   },
   {
-    "key": "PT_0290_0039",
+    "key": "Pt_0445_0039",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 39
   },
   {
-    "key": "PT_0290_0040",
+    "key": "Pt_0445_0040",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 40
   },
   {
-    "key": "PT_0290_0041",
+    "key": "Pt_0445_0041",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 41
   },
   {
-    "key": "PT_0290_0042",
+    "key": "Pt_0445_0042",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 42
   },
   {
-    "key": "PT_0290_0043",
+    "key": "Pt_0445_0043",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 43
   },
   {
-    "key": "PT_0290_0044",
+    "key": "Pt_0445_0044",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 44
   },
   {
-    "key": "PT_0290_0045",
+    "key": "Pt_0445_0045",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 45
   },
   {
-    "key": "PT_0290_0046",
+    "key": "Pt_0445_0046",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 46
   },
   {
-    "key": "PT_0290_0047",
+    "key": "Pt_0445_0047",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 47
   },
   {
-    "key": "PT_0290_0048",
+    "key": "Pt_0445_0048",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 48
   },
   {
-    "key": "PT_0290_0049",
+    "key": "Pt_0445_0049",
     "original": "ダミー",
     "translation": "ダミー",
     "index": 49
   },
   {
-    "key": "PT_0290_0050",
+    "key": "Pt_0445_0050",
     "original": "Ｂ かげぶんしん1",
     "translation": "Ｂ かげぶんしん1",
     "index": 50
   },
   {
-    "key": "PT_0290_0051",
+    "key": "Pt_0445_0051",
     "original": "Ｂ かげぶんしん2",
     "translation": "Ｂ かげぶんしん2",
     "index": 51
   },
   {
-    "key": "PT_0290_0052",
+    "key": "Pt_0445_0052",
     "original": "Ｂ かげぶんしん3",
     "translation": "Ｂ かげぶんしん3",
     "index": 52
   },
   {
-    "key": "PT_0290_0053",
+    "key": "Pt_0445_0053",
     "original": "Ｂ よこゆれ1",
     "translation": "Ｂ よこゆれ1",
     "index": 53
   },
   {
-    "key": "PT_0290_0054",
+    "key": "Pt_0445_0054",
     "original": "Ｂ よこゆれ2",
     "translation": "Ｂ よこゆれ2",
     "index": 54
   },
   {
-    "key": "PT_0290_0055",
+    "key": "Pt_0445_0055",
     "original": "Ｂ よこゆれ3",
     "translation": "Ｂ よこゆれ3",
     "index": 55
   },
   {
-    "key": "PT_0290_0056",
+    "key": "Pt_0445_0056",
     "original": "Ｂ たてブルブル1",
     "translation": "Ｂ たてブルブル1",
     "index": 56
   },
   {
-    "key": "PT_0290_0057",
+    "key": "Pt_0445_0057",
     "original": "Ｂ たてブルブル2",
     "translation": "Ｂ たてブルブル2",
     "index": 57
   },
   {
-    "key": "PT_0290_0058",
+    "key": "Pt_0445_0058",
     "original": "Ｂ たてブルブル3",
     "translation": "Ｂ たてブルブル3",
     "index": 58
   },
   {
-    "key": "PT_0290_0059",
+    "key": "Pt_0445_0059",
     "original": "Ｂ よこブルブル1",
     "translation": "Ｂ よこブルブル1",
     "index": 59
   },
   {
-    "key": "PT_0290_0060",
+    "key": "Pt_0445_0060",
     "original": "Ｂ よこブルブル2",
     "translation": "Ｂ よこブルブル2",
     "index": 60
   },
   {
-    "key": "PT_0290_0061",
+    "key": "Pt_0445_0061",
     "original": "Ｂ よこブルブル3",
     "translation": "Ｂ よこブルブル3",
     "index": 61
   },
   {
-    "key": "PT_0290_0062",
+    "key": "Pt_0445_0062",
     "original": "Ｂ たてのび1",
     "translation": "Ｂ たてのび1",
     "index": 62
   },
   {
-    "key": "PT_0290_0063",
+    "key": "Pt_0445_0063",
     "original": "Ｂ たてのび2",
     "translation": "Ｂ たてのび2",
     "index": 63
   },
   {
-    "key": "PT_0290_0064",
+    "key": "Pt_0445_0064",
     "original": "Ｂ たてのび3",
     "translation": "Ｂ たてのび3",
     "index": 64
   },
   {
-    "key": "PT_0290_0065",
+    "key": "Pt_0445_0065",
     "original": "Ｂ よこのび1",
     "translation": "Ｂ よこのび1",
     "index": 65
   },
   {
-    "key": "PT_0290_0066",
+    "key": "Pt_0445_0066",
     "original": "Ｂ よこのび2",
     "translation": "Ｂ よこのび2",
     "index": 66
   },
   {
-    "key": "PT_0290_0067",
+    "key": "Pt_0445_0067",
     "original": "Ｂ よこのび3",
     "translation": "Ｂ よこのび3",
     "index": 67
   },
   {
-    "key": "PT_0290_0068",
+    "key": "Pt_0445_0068",
     "original": "Ｂ たてよこのび1",
     "translation": "Ｂ たてよこのび1",
     "index": 68
   },
   {
-    "key": "PT_0290_0069",
+    "key": "Pt_0445_0069",
     "original": "Ｂ たてよこのび2",
     "translation": "Ｂ たてよこのび2",
     "index": 69
   },
   {
-    "key": "PT_0290_0070",
+    "key": "Pt_0445_0070",
     "original": "Ｂ たてよこのび3",
     "translation": "Ｂ たてよこのび3",
     "index": 70
   },
   {
-    "key": "PT_0290_0071",
+    "key": "Pt_0445_0071",
     "original": "Ｂ ガクン1",
     "translation": "Ｂ ガクン1",
     "index": 71
   },
   {
-    "key": "PT_0290_0072",
+    "key": "Pt_0445_0072",
     "original": "Ｂ ガクン2",
     "translation": "Ｂ ガクン2",
     "index": 72
   },
   {
-    "key": "PT_0290_0073",
+    "key": "Pt_0445_0073",
     "original": "Ｂ ガクン3",
     "translation": "Ｂ ガクン3",
     "index": 73
   },
   {
-    "key": "PT_0290_0074",
+    "key": "Pt_0445_0074",
     "original": "Ｂ さんかく1",
     "translation": "Ｂ さんかく1",
     "index": 74
   },
   {
-    "key": "PT_0290_0075",
+    "key": "Pt_0445_0075",
     "original": "Ｂ さんかく2",
     "translation": "Ｂ さんかく2",
     "index": 75
   },
   {
-    "key": "PT_0290_0076",
+    "key": "Pt_0445_0076",
     "original": "Ｂ さんかく3",
     "translation": "Ｂ さんかく3",
     "index": 76
   },
   {
-    "key": "PT_0290_0077",
+    "key": "Pt_0445_0077",
     "original": "Ｂ バウンド1",
     "translation": "Ｂ バウンド1",
     "index": 77
   },
   {
-    "key": "PT_0290_0078",
+    "key": "Pt_0445_0078",
     "original": "Ｂ バウンド2",
     "translation": "Ｂ バウンド2",
     "index": 78
   },
   {
-    "key": "PT_0290_0079",
+    "key": "Pt_0445_0079",
     "original": "Ｂ バウンド3",
     "translation": "Ｂ バウンド3",
     "index": 79
   },
   {
-    "key": "PT_0290_0080",
+    "key": "Pt_0445_0080",
     "original": "Ｂ バウンドスモール1",
     "translation": "Ｂ バウンドスモール1",
     "index": 80
   },
   {
-    "key": "PT_0290_0081",
+    "key": "Pt_0445_0081",
     "original": "Ｂ バウンドスモール2",
     "translation": "Ｂ バウンドスモール2",
     "index": 81
   },
   {
-    "key": "PT_0290_0082",
+    "key": "Pt_0445_0082",
     "original": "Ｂ バウンドスモール3",
     "translation": "Ｂ バウンドスモール3",
     "index": 82
   },
   {
-    "key": "PT_0290_0083",
+    "key": "Pt_0445_0083",
     "original": "Ｂ さゆうゆれ1",
     "translation": "Ｂ さゆうゆれ1",
     "index": 83
   },
   {
-    "key": "PT_0290_0084",
+    "key": "Pt_0445_0084",
     "original": "Ｂ さゆうゆれ2",
     "translation": "Ｂ さゆうゆれ2",
     "index": 84
   },
   {
-    "key": "PT_0290_0085",
+    "key": "Pt_0445_0085",
     "original": "Ｂ さゆうゆれ3",
     "translation": "Ｂ さゆうゆれ3",
     "index": 85
   },
   {
-    "key": "PT_0290_0086",
+    "key": "Pt_0445_0086",
     "original": "Ｂ しずむ1",
     "translation": "Ｂ しずむ1",
     "index": 86
   },
   {
-    "key": "PT_0290_0087",
+    "key": "Pt_0445_0087",
     "original": "Ｂ しずむ2",
     "translation": "Ｂ しずむ2",
     "index": 87
   },
   {
-    "key": "PT_0290_0088",
+    "key": "Pt_0445_0088",
     "original": "Ｂ しずむ3",
     "translation": "Ｂ しずむ3",
     "index": 88
   },
   {
-    "key": "PT_0290_0089",
+    "key": "Pt_0445_0089",
     "original": "Ｂ ちぢんでふくらむ1",
     "translation": "Ｂ ちぢんでふくらむ1",
     "index": 89
   },
   {
-    "key": "PT_0290_0090",
+    "key": "Pt_0445_0090",
     "original": "Ｂ ちぢんでふくらむ2",
     "translation": "Ｂ ちぢんでふくらむ2",
     "index": 90
   },
   {
-    "key": "PT_0290_0091",
+    "key": "Pt_0445_0091",
     "original": "Ｂ ちぢんでふくらむ3",
     "translation": "Ｂ ちぢんでふくらむ3",
     "index": 91
   },
   {
-    "key": "PT_0290_0092",
+    "key": "Pt_0445_0092",
     "original": "Ｂ とっしん1",
     "translation": "Ｂ とっしん1",
     "index": 92
   },
   {
-    "key": "PT_0290_0093",
+    "key": "Pt_0445_0093",
     "original": "Ｂ とっしん",
     "translation": "Ｂ とっしん",
     "index": 93
   },
   {
-    "key": "PT_0290_0094",
+    "key": "Pt_0445_0094",
     "original": "Ｂ とっしん",
     "translation": "Ｂ とっしん",
     "index": 94
   },
   {
-    "key": "PT_0290_0095",
+    "key": "Pt_0445_0095",
     "original": "Ｂ フェードあか1",
     "translation": "Ｂ フェードあか1",
     "index": 95
   },
   {
-    "key": "PT_0290_0096",
+    "key": "Pt_0445_0096",
     "original": "Ｂ フェードあか2",
     "translation": "Ｂ フェードあか2",
     "index": 96
   },
   {
-    "key": "PT_0290_0097",
+    "key": "Pt_0445_0097",
     "original": "Ｂ フェードあか3",
     "translation": "Ｂ フェードあか3",
     "index": 97
   },
   {
-    "key": "PT_0290_0098",
+    "key": "Pt_0445_0098",
     "original": "Ｂ フェードあお1",
     "translation": "Ｂ フェードあお1",
     "index": 98
   },
   {
-    "key": "PT_0290_0099",
+    "key": "Pt_0445_0099",
     "original": "Ｂ フェードあお2",
     "translation": "Ｂ フェードあお2",
     "index": 99
   },
   {
-    "key": "PT_0290_0100",
+    "key": "Pt_0445_0100",
     "original": "Ｂ フェードあお3",
     "translation": "Ｂ フェードあお3",
     "index": 100
   },
   {
-    "key": "PT_0290_0101",
+    "key": "Pt_0445_0101",
     "original": "Ｂ フェードみどり1",
     "translation": "Ｂ フェードみどり1",
     "index": 101
   },
   {
-    "key": "PT_0290_0102",
+    "key": "Pt_0445_0102",
     "original": "Ｂ フェードみどり2",
     "translation": "Ｂ フェードみどり2",
     "index": 102
   },
   {
-    "key": "PT_0290_0103",
+    "key": "Pt_0445_0103",
     "original": "Ｂ フェードみどり3",
     "translation": "Ｂ フェードみどり3",
     "index": 103
   },
   {
-    "key": "PT_0290_0104",
+    "key": "Pt_0445_0104",
     "original": "Ｂ スパーク1",
     "translation": "Ｂ スパーク1",
     "index": 104
   },
   {
-    "key": "PT_0290_0105",
+    "key": "Pt_0445_0105",
     "original": "Ｂ スパーク2",
     "translation": "Ｂ スパーク2",
     "index": 105
   },
   {
-    "key": "PT_0290_0106",
+    "key": "Pt_0445_0106",
     "original": "Ｂ スパーク3",
     "translation": "Ｂ スパーク3",
     "index": 106
   },
   {
-    "key": "PT_0290_0107",
+    "key": "Pt_0445_0107",
     "original": "Ｂ ブルブルよこいどう1",
     "translation": "Ｂ ブルブルよこいどう1",
     "index": 107
   },
   {
-    "key": "PT_0290_0108",
+    "key": "Pt_0445_0108",
     "original": "Ｂ ブルブルよこいどう2",
     "translation": "Ｂ ブルブルよこいどう2",
     "index": 108
   },
   {
-    "key": "PT_0290_0109",
+    "key": "Pt_0445_0109",
     "original": "Ｂ ブルブルよこいどう3",
     "translation": "Ｂ ブルブルよこいどう3",
     "index": 109
   },
   {
-    "key": "PT_0290_0110",
+    "key": "Pt_0445_0110",
     "original": "Ｂ こうそくかいてん1",
     "translation": "Ｂ こうそくかいてん1",
     "index": 110
   },
   {
-    "key": "PT_0290_0111",
+    "key": "Pt_0445_0111",
     "original": "Ｂ こうそくかいてん2",
     "translation": "Ｂ こうそくかいてん2",
     "index": 111
   },
   {
-    "key": "PT_0290_0112",
+    "key": "Pt_0445_0112",
     "original": "Ｂ こうそくかいてん3",
     "translation": "Ｂ こうそくかいてん3",
     "index": 112
   },
   {
-    "key": "PT_0290_0113",
+    "key": "Pt_0445_0113",
     "original": "Ｂ ふくらむ1",
     "translation": "Ｂ ふくらむ1",
     "index": 113
   },
   {
-    "key": "PT_0290_0114",
+    "key": "Pt_0445_0114",
     "original": "Ｂ ふくらむ2",
     "translation": "Ｂ ふくらむ2",
     "index": 114
   },
   {
-    "key": "PT_0290_0115",
+    "key": "Pt_0445_0115",
     "original": "Ｂ ふくらむ3",
     "translation": "Ｂ ふくらむ3",
     "index": 115
   },
   {
-    "key": "PT_0290_0116",
+    "key": "Pt_0445_0116",
     "original": "Ｂ ちぢんで ふくらむ1",
     "translation": "Ｂ ちぢんで ふくらむ1",
     "index": 116
   },
   {
-    "key": "PT_0290_0117",
+    "key": "Pt_0445_0117",
     "original": "Ｂ ちぢんで ふくらむ2",
     "translation": "Ｂ ちぢんで ふくらむ2",
     "index": 117
   },
   {
-    "key": "PT_0290_0118",
+    "key": "Pt_0445_0118",
     "original": "Ｂ ちぢんで ふくらむ3",
     "translation": "Ｂ ちぢんで ふくらむ3",
     "index": 118
   },
   {
-    "key": "PT_0290_0119",
+    "key": "Pt_0445_0119",
     "original": "Ｂ つぶれよこゆれＡ1",
     "translation": "Ｂ つぶれよこゆれＡ1",
     "index": 119
   },
   {
-    "key": "PT_0290_0120",
+    "key": "Pt_0445_0120",
     "original": "Ｂ つぶれよこゆれＡ2",
     "translation": "Ｂ つぶれよこゆれＡ2",
     "index": 120
   },
   {
-    "key": "PT_0290_0121",
+    "key": "Pt_0445_0121",
     "original": "Ｂ つぶれよこゆれＡ3",
     "translation": "Ｂ つぶれよこゆれＡ3",
     "index": 121
   },
   {
-    "key": "PT_0290_0122",
+    "key": "Pt_0445_0122",
     "original": "Ｂ つぶれよこゆれＢ1",
     "translation": "Ｂ つぶれよこゆれＢ1",
     "index": 122
   },
   {
-    "key": "PT_0290_0123",
+    "key": "Pt_0445_0123",
     "original": "Ｂ つぶれよこゆれＢ2",
     "translation": "Ｂ つぶれよこゆれＢ2",
     "index": 123
   },
   {
-    "key": "PT_0290_0124",
+    "key": "Pt_0445_0124",
     "original": "Ｂ つぶれよこゆれＢ3",
     "translation": "Ｂ つぶれよこゆれＢ3",
     "index": 124
   },
   {
-    "key": "PT_0290_0125",
+    "key": "Pt_0445_0125",
     "original": "Ｂ ピョンピョン1",
     "translation": "Ｂ ピョンピョン1",
     "index": 125
   },
   {
-    "key": "PT_0290_0126",
+    "key": "Pt_0445_0126",
     "original": "Ｂ ピョンピョン2",
     "translation": "Ｂ ピョンピョン2",
     "index": 126
   },
   {
-    "key": "PT_0290_0127",
+    "key": "Pt_0445_0127",
     "original": "Ｂ ピョンピョン3",
     "translation": "Ｂ ピョンピョン3",
     "index": 127
   },
   {
-    "key": "PT_0290_0128",
+    "key": "Pt_0445_0128",
     "original": "Ｂ ゆれながら じょうげ1",
     "translation": "Ｂ ゆれながら じょうげ1",
     "index": 128
   },
   {
-    "key": "PT_0290_0129",
+    "key": "Pt_0445_0129",
     "original": "Ｂ ゆれながら じょうげ2",
     "translation": "Ｂ ゆれながら じょうげ2",
     "index": 129
   },
   {
-    "key": "PT_0290_0130",
+    "key": "Pt_0445_0130",
     "original": "Ｂ ゆれながら じょうげ3",
     "translation": "Ｂ ゆれながら じょうげ3",
     "index": 130
   },
   {
-    "key": "PT_0290_0131",
+    "key": "Pt_0445_0131",
     "original": "Ｂ あしぶみ1",
     "translation": "Ｂ あしぶみ1",
     "index": 131
   },
   {
-    "key": "PT_0290_0132",
+    "key": "Pt_0445_0132",
     "original": "Ｂ あしぶみ2",
     "translation": "Ｂ あしぶみ2",
     "index": 132
   },
   {
-    "key": "PT_0290_0133",
+    "key": "Pt_0445_0133",
     "original": "Ｂ あしぶみ3",
     "translation": "Ｂ あしぶみ3",
     "index": 133
   },
   {
-    "key": "PT_0290_0134",
+    "key": "Pt_0445_0134",
     "original": "ＰＬ Ｂ ピョンピョン スモール",
     "translation": "ＰＬ Ｂ ピョンピョン スモール",
     "index": 134
   },
   {
-    "key": "PT_0290_0135",
+    "key": "Pt_0445_0135",
     "original": "ＰＬ Ｂ ためて よこはね",
     "translation": "ＰＬ Ｂ ためて よこはね",
     "index": 135
   },
   {
-    "key": "PT_0290_0136",
+    "key": "Pt_0445_0136",
     "original": "ＰＬ Ｂ ヤジロベー スロー",
     "translation": "ＰＬ Ｂ ヤジロベー スロー",
     "index": 136
   },
   {
-    "key": "PT_0290_0137",
+    "key": "Pt_0445_0137",
     "original": "ＰＬ Ｂ よことびはね スロー",
     "translation": "ＰＬ Ｂ よことびはね スロー",
     "index": 137
   },
   {
-    "key": "PT_0290_0138",
+    "key": "Pt_0445_0138",
     "original": "ＰＬ Ｂ よことびはね スモール",
     "translation": "ＰＬ Ｂ よことびはね スモール",
     "index": 138
   },
   {
-    "key": "PT_0290_0139",
+    "key": "Pt_0445_0139",
     "original": "ＰＬ Ｂ ゆれながら さゆう",
     "translation": "ＰＬ Ｂ ゆれながら さゆう",
     "index": 139
   },
   {
-    "key": "PT_0290_0140",
+    "key": "Pt_0445_0140",
     "original": "ＰＬ Ｂ ゆれながら じょうげ",
     "translation": "ＰＬ Ｂ ゆれながら じょうげ",
     "index": 140
   },
   {
-    "key": "PT_0290_0141",
+    "key": "Pt_0445_0141",
     "original": "ＰＬ Ｂ ゆりかご スロー",
     "translation": "ＰＬ Ｂ ゆりかご スロー",
     "index": 141
   },
   {
-    "key": "PT_0290_0142",
+    "key": "Pt_0445_0142",
     "original": "ＰＬ Ｂ よことびはね",
     "translation": "ＰＬ Ｂ よことびはね",
     "index": 142

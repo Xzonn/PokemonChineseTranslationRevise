@@ -10,11 +10,6 @@ var GAME_CODE_TO_TITLE = new Dictionary<string, string>
   ["SS"] = "宝可梦 魂银\nNintendo",
 };
 
-var text = File.ReadAllText("temp/HGSS/messages.txt");
-var version = Environment.GetEnvironmentVariable("XZ_PATCH_VERSION");
-text = text.Replace("${VERSION}", string.IsNullOrEmpty(version) ? "UNKNOWN" : version[..7]);
-File.WriteAllText("temp/HGSS/messages.txt", text);
-
 var messages = LoadMessages("temp/HGSS/messages.txt");
 var easyChatWordsIds = new int[] {
   232, // monsname

@@ -1,600 +1,600 @@
 [
   {
-    "key": "DP_0214_0000",
+    "key": "DP_0336_0000",
     "original": "しろいわたげ",
     "translation": "しろいわたげ",
     "index": 0
   },
   {
-    "key": "DP_0214_0001",
+    "key": "DP_0336_0001",
     "original": "きいろのわたげ",
     "translation": "きいろのわたげ",
     "index": 1
   },
   {
-    "key": "DP_0214_0002",
+    "key": "DP_0336_0002",
     "original": "ピンクのわたげ",
     "translation": "ピンクのわたげ",
     "index": 2
   },
   {
-    "key": "DP_0214_0003",
+    "key": "DP_0336_0003",
     "original": "ちゃいろのわたげ",
     "translation": "ちゃいろのわたげ",
     "index": 3
   },
   {
-    "key": "DP_0214_0004",
+    "key": "DP_0336_0004",
     "original": "くろいわたげ",
     "translation": "くろいわたげ",
     "index": 4
   },
   {
-    "key": "DP_0214_0005",
+    "key": "DP_0336_0005",
     "original": "オレンジのわたげ",
     "translation": "オレンジのわたげ",
     "index": 5
   },
   {
-    "key": "DP_0214_0006",
+    "key": "DP_0336_0006",
     "original": "まんまるストーン",
     "translation": "まんまるストーン",
     "index": 6
   },
   {
-    "key": "DP_0214_0007",
+    "key": "DP_0336_0007",
     "original": "きらきらストーン",
     "translation": "きらきらストーン",
     "index": 7
   },
   {
-    "key": "DP_0214_0008",
+    "key": "DP_0336_0008",
     "original": "こつこつストーン",
     "translation": "こつこつストーン",
     "index": 8
   },
   {
-    "key": "DP_0214_0009",
+    "key": "DP_0336_0009",
     "original": "ごつごつストーン",
     "translation": "ごつごつストーン",
     "index": 9
   },
   {
-    "key": "DP_0214_0010",
+    "key": "DP_0336_0010",
     "original": "まっくろストーン",
     "translation": "まっくろストーン",
     "index": 10
   },
   {
-    "key": "DP_0214_0011",
+    "key": "DP_0336_0011",
     "original": "ちびストーン",
     "translation": "ちびストーン",
     "index": 11
   },
   {
-    "key": "DP_0214_0012",
+    "key": "DP_0336_0012",
     "original": "ピンクのウロコ",
     "translation": "ピンクのウロコ",
     "index": 12
   },
   {
-    "key": "DP_0214_0013",
+    "key": "DP_0336_0013",
     "original": "あおいウロコ",
     "translation": "あおいウロコ",
     "index": 13
   },
   {
-    "key": "DP_0214_0014",
+    "key": "DP_0336_0014",
     "original": "みどりのウロコ",
     "translation": "みどりのウロコ",
     "index": 14
   },
   {
-    "key": "DP_0214_0015",
+    "key": "DP_0336_0015",
     "original": "むらさきのウロコ",
     "translation": "むらさきのウロコ",
     "index": 15
   },
   {
-    "key": "DP_0214_0016",
+    "key": "DP_0336_0016",
     "original": "おおきいウロコ",
     "translation": "おおきいウロコ",
     "index": 16
   },
   {
-    "key": "DP_0214_0017",
+    "key": "DP_0336_0017",
     "original": "ほそいウロコ",
     "translation": "ほそいウロコ",
     "index": 17
   },
   {
-    "key": "DP_0214_0018",
+    "key": "DP_0336_0018",
     "original": "あおいはね",
     "translation": "あおいはね",
     "index": 18
   },
   {
-    "key": "DP_0214_0019",
+    "key": "DP_0336_0019",
     "original": "あかいはね",
     "translation": "あかいはね",
     "index": 19
   },
   {
-    "key": "DP_0214_0020",
+    "key": "DP_0336_0020",
     "original": "きいろのはね",
     "translation": "きいろのはね",
     "index": 20
   },
   {
-    "key": "DP_0214_0021",
+    "key": "DP_0336_0021",
     "original": "しろいはね",
     "translation": "しろいはね",
     "index": 21
   },
   {
-    "key": "DP_0214_0022",
+    "key": "DP_0336_0022",
     "original": "くろいちょびひげ",
     "translation": "くろいちょびひげ",
     "index": 22
   },
   {
-    "key": "DP_0214_0023",
+    "key": "DP_0336_0023",
     "original": "しろいちょびひげ",
     "translation": "しろいちょびひげ",
     "index": 23
   },
   {
-    "key": "DP_0214_0024",
+    "key": "DP_0336_0024",
     "original": "くろいひげ",
     "translation": "くろいひげ",
     "index": 24
   },
   {
-    "key": "DP_0214_0025",
+    "key": "DP_0336_0025",
     "original": "しろいひげ",
     "translation": "しろいひげ",
     "index": 25
   },
   {
-    "key": "DP_0214_0026",
+    "key": "DP_0336_0026",
     "original": "ちいさいはっぱ",
     "translation": "ちいさいはっぱ",
     "index": 26
   },
   {
-    "key": "DP_0214_0027",
+    "key": "DP_0336_0027",
     "original": "おおきいはっぱ",
     "translation": "おおきいはっぱ",
     "index": 27
   },
   {
-    "key": "DP_0214_0028",
+    "key": "DP_0336_0028",
     "original": "ほそいはっぱ",
     "translation": "ほそいはっぱ",
     "index": 28
   },
   {
-    "key": "DP_0214_0029",
+    "key": "DP_0336_0029",
     "original": "つめのカラ",
     "translation": "つめのカラ",
     "index": 29
   },
   {
-    "key": "DP_0214_0030",
+    "key": "DP_0336_0030",
     "original": "つののカラ",
     "translation": "つののカラ",
     "index": 30
   },
   {
-    "key": "DP_0214_0031",
+    "key": "DP_0336_0031",
     "original": "ほそいキノコ",
     "translation": "ほそいキノコ",
     "index": 31
   },
   {
-    "key": "DP_0214_0032",
+    "key": "DP_0336_0032",
     "original": "ふといキノコ",
     "translation": "ふといキノコ",
     "index": 32
   },
   {
-    "key": "DP_0214_0033",
+    "key": "DP_0336_0033",
     "original": "きりかぶ",
     "translation": "きりかぶ",
     "index": 33
   },
   {
-    "key": "DP_0214_0034",
+    "key": "DP_0336_0034",
     "original": "きれいなしずく",
     "translation": "きれいなしずく",
     "index": 34
   },
   {
-    "key": "DP_0214_0035",
+    "key": "DP_0336_0035",
     "original": "ゆきのけっしょう",
     "translation": "ゆきのけっしょう",
     "index": 35
   },
   {
-    "key": "DP_0214_0036",
+    "key": "DP_0336_0036",
     "original": "パチパチひばな",
     "translation": "パチパチひばな",
     "index": 36
   },
   {
-    "key": "DP_0214_0037",
+    "key": "DP_0336_0037",
     "original": "メラメラほのお",
     "translation": "メラメラほのお",
     "index": 37
   },
   {
-    "key": "DP_0214_0038",
+    "key": "DP_0336_0038",
     "original": "ふしぎなほのお",
     "translation": "ふしぎなほのお",
     "index": 38
   },
   {
-    "key": "DP_0214_0039",
+    "key": "DP_0336_0039",
     "original": "にじみでるきあい",
     "translation": "にじみでるきあい",
     "index": 39
   },
   {
-    "key": "DP_0214_0040",
+    "key": "DP_0336_0040",
     "original": "ふしぎなスプーン",
     "translation": "ふしぎなスプーン",
     "index": 40
   },
   {
-    "key": "DP_0214_0041",
+    "key": "DP_0336_0041",
     "original": "モコモコけむり",
     "translation": "モコモコけむり",
     "index": 41
   },
   {
-    "key": "DP_0214_0042",
+    "key": "DP_0336_0042",
     "original": "どくエキス",
     "translation": "どくエキス",
     "index": 42
   },
   {
-    "key": "DP_0214_0043",
+    "key": "DP_0336_0043",
     "original": "おかねもちコイン",
     "translation": "おかねもちコイン",
     "index": 43
   },
   {
-    "key": "DP_0214_0044",
+    "key": "DP_0336_0044",
     "original": "ぶきみなもの",
     "translation": "ぶきみなもの",
     "index": 44
   },
   {
-    "key": "DP_0214_0045",
+    "key": "DP_0336_0045",
     "original": "バネ",
     "translation": "バネ",
     "index": 45
   },
   {
-    "key": "DP_0214_0046",
+    "key": "DP_0336_0046",
     "original": "かいのかけら",
     "translation": "かいのかけら",
     "index": 46
   },
   {
-    "key": "DP_0214_0047",
+    "key": "DP_0336_0047",
     "original": "はなうたおんぷ",
     "translation": "はなうたおんぷ",
     "index": 47
   },
   {
-    "key": "DP_0214_0048",
+    "key": "DP_0336_0048",
     "original": "ピカピカパウダー",
     "translation": "ピカピカパウダー",
     "index": 48
   },
   {
-    "key": "DP_0214_0049",
+    "key": "DP_0336_0049",
     "original": "キラキラパウダー",
     "translation": "キラキラパウダー",
     "index": 49
   },
   {
-    "key": "DP_0214_0050",
+    "key": "DP_0336_0050",
     "original": "あかいはな",
     "translation": "あかいはな",
     "index": 50
   },
   {
-    "key": "DP_0214_0051",
+    "key": "DP_0336_0051",
     "original": "ピンクのはな",
     "translation": "ピンクのはな",
     "index": 51
   },
   {
-    "key": "DP_0214_0052",
+    "key": "DP_0336_0052",
     "original": "しろいはな",
     "translation": "しろいはな",
     "index": 52
   },
   {
-    "key": "DP_0214_0053",
+    "key": "DP_0336_0053",
     "original": "あおいはな",
     "translation": "あおいはな",
     "index": 53
   },
   {
-    "key": "DP_0214_0054",
+    "key": "DP_0336_0054",
     "original": "オレンジのはな",
     "translation": "オレンジのはな",
     "index": 54
   },
   {
-    "key": "DP_0214_0055",
+    "key": "DP_0336_0055",
     "original": "きいろのはな",
     "translation": "きいろのはな",
     "index": 55
   },
   {
-    "key": "DP_0214_0056",
+    "key": "DP_0336_0056",
     "original": "ぐるぐるメガネ",
     "translation": "ぐるぐるメガネ",
     "index": 56
   },
   {
-    "key": "DP_0214_0057",
+    "key": "DP_0336_0057",
     "original": "まっくろメガネ",
     "translation": "まっくろメガネ",
     "index": 57
   },
   {
-    "key": "DP_0214_0058",
+    "key": "DP_0336_0058",
     "original": "ゴージャスメガネ",
     "translation": "ゴージャスメガネ",
     "index": 58
   },
   {
-    "key": "DP_0214_0059",
+    "key": "DP_0336_0059",
     "original": "あまいキャンディ",
     "translation": "あまいキャンディ",
     "index": 59
   },
   {
-    "key": "DP_0214_0060",
+    "key": "DP_0336_0060",
     "original": "かみふぶき",
     "translation": "かみふぶき",
     "index": 60
   },
   {
-    "key": "DP_0214_0061",
+    "key": "DP_0336_0061",
     "original": "カラフルパラソル",
     "translation": "カラフルパラソル",
     "index": 61
   },
   {
-    "key": "DP_0214_0062",
+    "key": "DP_0336_0062",
     "original": "カラカサ",
     "translation": "カラカサ",
     "index": 62
   },
   {
-    "key": "DP_0214_0063",
+    "key": "DP_0336_0063",
     "original": "スポットライト",
     "translation": "スポットライト",
     "index": 63
   },
   {
-    "key": "DP_0214_0064",
+    "key": "DP_0336_0064",
     "original": "マント",
     "translation": "マント",
     "index": 64
   },
   {
-    "key": "DP_0214_0065",
+    "key": "DP_0336_0065",
     "original": "スタンドマイク",
     "translation": "スタンドマイク",
     "index": 65
   },
   {
-    "key": "DP_0214_0066",
+    "key": "DP_0336_0066",
     "original": "サーフボード",
     "translation": "サーフボード",
     "index": 66
   },
   {
-    "key": "DP_0214_0067",
+    "key": "DP_0336_0067",
     "original": "カーペット",
     "translation": "カーペット",
     "index": 67
   },
   {
-    "key": "DP_0214_0068",
+    "key": "DP_0336_0068",
     "original": "なつかしどかん",
     "translation": "なつかしどかん",
     "index": 68
   },
   {
-    "key": "DP_0214_0069",
+    "key": "DP_0336_0069",
     "original": "ふわふわベッド",
     "translation": "ふわふわベッド",
     "index": 69
   },
   {
-    "key": "DP_0214_0070",
+    "key": "DP_0336_0070",
     "original": "ミラーボール",
     "translation": "ミラーボール",
     "index": 70
   },
   {
-    "key": "DP_0214_0071",
+    "key": "DP_0336_0071",
     "original": "かおだしかんばん",
     "translation": "かおだしかんばん",
     "index": 71
   },
   {
-    "key": "DP_0214_0072",
+    "key": "DP_0336_0072",
     "original": "ピンクのかみどめ",
     "translation": "ピンクのかみどめ",
     "index": 72
   },
   {
-    "key": "DP_0214_0073",
+    "key": "DP_0336_0073",
     "original": "まっかなかみどめ",
     "translation": "まっかなかみどめ",
     "index": 73
   },
   {
-    "key": "DP_0214_0074",
+    "key": "DP_0336_0074",
     "original": "ブルーのかみどめ",
     "translation": "ブルーのかみどめ",
     "index": 74
   },
   {
-    "key": "DP_0214_0075",
+    "key": "DP_0336_0075",
     "original": "きいろのかみどめ",
     "translation": "きいろのかみどめ",
     "index": 75
   },
   {
-    "key": "DP_0214_0076",
+    "key": "DP_0336_0076",
     "original": "みどりのかみどめ",
     "translation": "みどりのかみどめ",
     "index": 76
   },
   {
-    "key": "DP_0214_0077",
+    "key": "DP_0336_0077",
     "original": "ピンクのふうせん",
     "translation": "ピンクのふうせん",
     "index": 77
   },
   {
-    "key": "DP_0214_0078",
+    "key": "DP_0336_0078",
     "original": "あかいふうせん",
     "translation": "あかいふうせん",
     "index": 78
   },
   {
-    "key": "DP_0214_0079",
+    "key": "DP_0336_0079",
     "original": "あおいふうせん",
     "translation": "あおいふうせん",
     "index": 79
   },
   {
-    "key": "DP_0214_0080",
+    "key": "DP_0336_0080",
     "original": "きいろのふうせん",
     "translation": "きいろのふうせん",
     "index": 80
   },
   {
-    "key": "DP_0214_0081",
+    "key": "DP_0336_0081",
     "original": "みどりのふうせん",
     "translation": "みどりのふうせん",
     "index": 81
   },
   {
-    "key": "DP_0214_0082",
+    "key": "DP_0336_0082",
     "original": "ヘッドドレス",
     "translation": "ヘッドドレス",
     "index": 82
   },
   {
-    "key": "DP_0214_0083",
+    "key": "DP_0336_0083",
     "original": "シルクハット",
     "translation": "シルクハット",
     "index": 83
   },
   {
-    "key": "DP_0214_0084",
+    "key": "DP_0336_0084",
     "original": "きぬのベール",
     "translation": "きぬのベール",
     "index": 84
   },
   {
-    "key": "DP_0214_0085",
+    "key": "DP_0336_0085",
     "original": "たなびくハチマキ",
     "translation": "たなびくハチマキ",
     "index": 85
   },
   {
-    "key": "DP_0214_0086",
+    "key": "DP_0336_0086",
     "original": "はかせのぼうし",
     "translation": "はかせのぼうし",
     "index": 86
   },
   {
-    "key": "DP_0214_0087",
+    "key": "DP_0336_0087",
     "original": "おはなのステージ",
     "translation": "おはなのステージ",
     "index": 87
   },
   {
-    "key": "DP_0214_0088",
+    "key": "DP_0336_0088",
     "original": "きんのおたちだい",
     "translation": "きんのおたちだい",
     "index": 88
   },
   {
-    "key": "DP_0214_0089",
+    "key": "DP_0336_0089",
     "original": "ガラスのステージ",
     "translation": "ガラスのステージ",
     "index": 89
   },
   {
-    "key": "DP_0214_0090",
+    "key": "DP_0336_0090",
     "original": "ひょうしょうだい",
     "translation": "ひょうしょうだい",
     "index": 90
   },
   {
-    "key": "DP_0214_0091",
+    "key": "DP_0336_0091",
     "original": "キューブステージ",
     "translation": "キューブステージ",
     "index": 91
   },
   {
-    "key": "DP_0214_0092",
+    "key": "DP_0336_0092",
     "original": "ナエトルおめん",
     "translation": "ナエトルおめん",
     "index": 92
   },
   {
-    "key": "DP_0214_0093",
+    "key": "DP_0336_0093",
     "original": "ヒコザルおめん",
     "translation": "ヒコザルおめん",
     "index": 93
   },
   {
-    "key": "DP_0214_0094",
+    "key": "DP_0336_0094",
     "original": "ポッチャマおめん",
     "translation": "ポッチャマおめん",
     "index": 94
   },
   {
-    "key": "DP_0214_0095",
+    "key": "DP_0336_0095",
     "original": "おおきいき",
     "translation": "おおきいき",
     "index": 95
   },
   {
-    "key": "DP_0214_0096",
+    "key": "DP_0336_0096",
     "original": "フラッグ",
     "translation": "フラッグ",
     "index": 96
   },
   {
-    "key": "DP_0214_0097",
+    "key": "DP_0336_0097",
     "original": "クラウン",
     "translation": "クラウン",
     "index": 97
   },
   {
-    "key": "DP_0214_0098",
+    "key": "DP_0336_0098",
     "original": "ティアラ",
     "translation": "ティアラ",
     "index": 98
   },
   {
-    "key": "DP_0214_0099",
+    "key": "DP_0336_0099",
     "original": "ながれぼし",
     "translation": "ながれぼし",
     "index": 99

@@ -1,4 +1,4 @@
-$PCTRTools = "tools/PCTRTools/bin/Release/PCTRTools.exe"
+$PCTRTools = "tools/PCTRTools/bin/Release/net8.0/publish/PCTRTools.exe"
 
 # Replace narc
 & "$PCTRTools" "replace-narc" -i "original_files/DP/data/" -n "textures/DP/" -o "out/D/data/"

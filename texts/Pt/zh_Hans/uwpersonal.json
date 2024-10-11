@@ -1,366 +1,366 @@
 [
   {
-    "key": "PT_0628_0000",
+    "key": "Pt_0628_0000",
     "original": "もようがえを する",
     "translation": "变换模样",
     "index": 0
   },
   {
-    "key": "PT_0628_0001",
+    "key": "Pt_0628_0001",
     "original": "グッズを あずける",
     "translation": "寄存货物",
     "index": 1
   },
   {
-    "key": "PT_0628_0002",
+    "key": "Pt_0628_0002",
     "original": "グッズを うけとる",
     "translation": "取出货物",
     "index": 2
   },
   {
-    "key": "PT_0628_0003",
+    "key": "Pt_0628_0003",
     "original": "ハタを みる",
     "translation": "看旗",
     "index": 3
   },
   {
-    "key": "PT_0628_0004",
+    "key": "Pt_0628_0004",
     "original": "レーダーを つかう",
     "translation": "使用雷达",
     "index": 4
   },
   {
-    "key": "PT_0628_0005",
+    "key": "Pt_0628_0005",
     "original": "やめる",
     "translation": "取消",
     "index": 5
   },
   {
-    "key": "PT_0628_0006",
+    "key": "Pt_0628_0006",
     "original": "パソコンに あずけている グッズを\nじゆうに おくことが できます ",
     "translation": "可以将放在电脑里的货物按顺序\n排列好。",
     "index": 6
   },
   {
-    "key": "PT_0628_0007",
+    "key": "Pt_0628_0007",
     "original": "パソコンへ てもちの\nグッズを あずけます",
     "translation": "把手上的货物\n寄存到电脑上。",
     "index": 7
   },
   {
-    "key": "PT_0628_0008",
+    "key": "Pt_0628_0008",
     "original": "パソコンから あずけた\nグッズを ひきだします",
     "translation": "从电脑中取出\n寄存的货物。",
     "index": 8
   },
   {
-    "key": "PT_0628_0009",
+    "key": "Pt_0628_0009",
     "original": "いままで かくとく した\nハタを みます",
     "translation": "查看到目前为止获得的旗。",
     "index": 9
   },
   {
-    "key": "PT_0628_0010",
+    "key": "Pt_0628_0010",
     "original": "ちかにある いろいろな ものを\nさがしだすことが できます",
     "translation": "能找出在地下的各种东西。",
     "index": 10
   },
   {
-    "key": "PT_0628_0011",
+    "key": "Pt_0628_0011",
     "original": "スイッチを きります ",
     "translation": "关掉开关。",
     "index": 11
   },
   {
-    "key": "PT_0628_0012",
+    "key": "Pt_0628_0012",
     "original": "[0101,0001] きち",
     "translation": "[0101,0001]基地",
     "index": 12
   },
   {
-    "key": "PT_0628_0013",
+    "key": "Pt_0628_0013",
     "original": "とった ハタのかず",
     "translation": "获得旗的数量",
     "index": 13
   },
   {
-    "key": "PT_0628_0014",
+    "key": "Pt_0628_0014",
     "original": "[0137,0006]",
     "translation": "[0137,0006]",
     "index": 14
   },
   {
-    "key": "PT_0628_0015",
+    "key": "Pt_0628_0015",
     "original": "さいきん とったハタ",
     "translation": "最近获得的旗",
     "index": 15
   },
   {
-    "key": "PT_0628_0016",
+    "key": "Pt_0628_0016",
     "original": "[0101,0000]のハタ",
     "translation": "[0101,0000]的旗",
     "index": 16
   },
   {
-    "key": "PT_0628_0017",
+    "key": "Pt_0628_0017",
     "original": "ＩＤ：[0136,0005]",
     "translation": "ＩＤ：[0136,0005]",
     "index": 17
   },
   {
-    "key": "PT_0628_0018",
+    "key": "Pt_0628_0018",
     "original": "グッズを あずける",
     "translation": "寄存货物",
     "index": 18
   },
   {
-    "key": "PT_0628_0019",
+    "key": "Pt_0628_0019",
     "original": "たからを あずける",
     "translation": "寄存宝藏",
     "index": 19
   },
   {
-    "key": "PT_0628_0020",
+    "key": "Pt_0628_0020",
     "original": "タマを あずける",
     "translation": "寄存玉",
     "index": 20
   },
   {
-    "key": "PT_0628_0021",
+    "key": "Pt_0628_0021",
     "original": "トラップを あずける",
     "translation": "寄存陷阱",
     "index": 21
   },
   {
-    "key": "PT_0628_0022",
+    "key": "Pt_0628_0022",
     "original": "もどる",
     "translation": "返回",
     "index": 22
   },
   {
-    "key": "PT_0628_0023",
+    "key": "Pt_0628_0023",
     "original": "グッズを うけとる",
     "translation": "取出货物",
     "index": 23
   },
   {
-    "key": "PT_0628_0024",
+    "key": "Pt_0628_0024",
     "original": "たからを うけとる",
     "translation": "取出宝藏",
     "index": 24
   },
   {
-    "key": "PT_0628_0025",
+    "key": "Pt_0628_0025",
     "original": "タマを うけとる",
     "translation": "取出玉",
     "index": 25
   },
   {
-    "key": "PT_0628_0026",
+    "key": "Pt_0628_0026",
     "original": "トラップを うけとる",
     "translation": "取出陷阱",
     "index": 26
   },
   {
-    "key": "PT_0628_0027",
+    "key": "Pt_0628_0027",
     "original": "もどる",
     "translation": "返回",
     "index": 27
   },
   {
-    "key": "PT_0628_0028",
+    "key": "Pt_0628_0028",
     "original": "てもちの\n グッズ",
     "translation": "现有的\n物品",
     "index": 28
   },
   {
-    "key": "PT_0628_0029",
+    "key": "Pt_0628_0029",
     "original": "てもちの\n たから",
     "translation": "现有的\n宝物",
     "index": 29
   },
   {
-    "key": "PT_0628_0030",
+    "key": "Pt_0628_0030",
     "original": "てもちの\nトラップ",
     "translation": "持有的\n陷阱",
     "index": 30
   },
   {
-    "key": "PT_0628_0031",
+    "key": "Pt_0628_0031",
     "original": "てもちの\n  タマ",
     "translation": "现有的\n玉",
     "index": 31
   },
   {
-    "key": "PT_0628_0032",
+    "key": "Pt_0628_0032",
     "original": "パソコンの\n  グッズ",
     "translation": "电脑中\n的道具",
     "index": 32
   },
   {
-    "key": "PT_0628_0033",
+    "key": "Pt_0628_0033",
     "original": "パソコンの\n  たから",
     "translation": "电脑中\n的宝藏",
     "index": 33
   },
   {
-    "key": "PT_0628_0034",
+    "key": "Pt_0628_0034",
     "original": "パソコンの\n トラップ",
     "translation": "电脑中\n的陷阱",
     "index": 34
   },
   {
-    "key": "PT_0628_0035",
+    "key": "Pt_0628_0035",
     "original": "パソコンの\n   タマ",
     "translation": "电脑中\n的玉",
     "index": 35
   },
   {
-    "key": "PT_0628_0036",
+    "key": "Pt_0628_0036",
     "original": "[0119,0002] を\nパソコンから ひきだした",
     "translation": "将[0119,0002]从\n电脑中拿出来了。",
     "index": 36
   },
   {
-    "key": "PT_0628_0037",
+    "key": "Pt_0628_0037",
     "original": "[0119,0002] を\nパソコンに あずけた",
     "translation": "将[0119,0002]\n寄存到电脑中。",
     "index": 37
   },
   {
-    "key": "PT_0628_0038",
+    "key": "Pt_0628_0038",
     "original": "パソコンが いっぱい です",
     "translation": "电脑已经满了。",
     "index": 38
   },
   {
-    "key": "PT_0628_0039",
+    "key": "Pt_0628_0039",
     "original": "てもちの グッズが\nいっぱいです",
     "translation": "持有的货物\n已经满了",
     "index": 39
   },
   {
-    "key": "PT_0628_0040",
+    "key": "Pt_0628_0040",
     "original": "カセキサーチ",
     "translation": "化石搜索",
     "index": 40
   },
   {
-    "key": "PT_0628_0041",
+    "key": "Pt_0628_0041",
     "original": "タマサーチ",
     "translation": "玉搜索",
     "index": 41
   },
   {
-    "key": "PT_0628_0042",
+    "key": "Pt_0628_0042",
     "original": "トラップサーチ",
     "translation": "陷阱搜索",
     "index": 42
   },
   {
-    "key": "PT_0628_0043",
+    "key": "Pt_0628_0043",
     "original": "もどる",
     "translation": "返回",
     "index": 43
   },
   {
-    "key": "PT_0628_0044",
+    "key": "Pt_0628_0044",
     "original": "ちかつうろ にある カセキを\nさがしだすことが できます",
     "translation": "可以找出埋在地下通道的化石。",
     "index": 44
   },
   {
-    "key": "PT_0628_0045",
+    "key": "Pt_0628_0045",
     "original": "じぶんで うめた タマを\nさがしだす ことができます",
     "translation": "可以找出自己所埋的玉。",
     "index": 45
   },
   {
-    "key": "PT_0628_0046",
+    "key": "Pt_0628_0046",
     "original": "ちかつうろに しかけられている\nトラップを さがしだすことが できます",
     "translation": "可以找出在地下通道里\n布置的陷阱。",
     "index": 46
   },
   {
-    "key": "PT_0628_0047",
+    "key": "Pt_0628_0047",
     "original": "もどります ",
     "translation": "返回",
     "index": 47
   },
   {
-    "key": "PT_0628_0048",
+    "key": "Pt_0628_0048",
     "original": "カセキサーチを きどう した！\\f\nレーダーに カセキの ばしょが\nうつし だされた！",
     "translation": "启动了化石搜索！\\f\n雷达上映出了\n化石的位置！",
     "index": 48
   },
   {
-    "key": "PT_0628_0049",
+    "key": "Pt_0628_0049",
     "original": "タマサーチを きどう した！\\f\nレーダーに タマの ばしょが\nうつし だされた！",
     "translation": "启动了玉搜索！\\f\n雷达上显示了\n玉的位置！",
     "index": 49
   },
   {
-    "key": "PT_0628_0050",
+    "key": "Pt_0628_0050",
     "original": "トラップサーチを きどう した！\\f\nレーダーに トラップの ばしょが\nうつし だされた！",
     "translation": "启动了陷阱搜索！\\f\n雷达上显示了陷阱的位置！",
     "index": 50
   },
   {
-    "key": "PT_0628_0051",
+    "key": "Pt_0628_0051",
     "original": "-------",
     "translation": "-------",
     "index": 51
   },
   {
-    "key": "PT_0628_0052",
+    "key": "Pt_0628_0052",
     "original": "ＩＤ：-------",
     "translation": "ＩＤ：-------",
     "index": 52
   },
   {
-    "key": "PT_0628_0053",
+    "key": "Pt_0628_0053",
     "original": "[0119,0002] [0133,0006]を\nひきだした",
     "translation": "[0119,0002]取出了\n[0133,0006]",
     "index": 53
   },
   {
-    "key": "PT_0628_0054",
+    "key": "Pt_0628_0054",
     "original": "[0119,0002] [0133,0006]を\nあずけた",
     "translation": "[0119,0002]寄存了\n[0133,0006]",
     "index": 54
   },
   {
-    "key": "PT_0628_0055",
+    "key": "Pt_0628_0055",
     "original": "おいてある グッズを ひきだすことは\nできません",
     "translation": "不能取出放置在里面的货物。",
     "index": 55
   },
   {
-    "key": "PT_0628_0056",
+    "key": "Pt_0628_0056",
     "original": "もようがえを するときに\nだれかが くると きけんです！\\f\nいりぐちを しめておいて ください",
     "translation": "变换模样的时候\n如果有人进来的话就危险了！\\f\n所以请将入口关好。",
     "index": 56
   },
   {
-    "key": "PT_0628_0057",
+    "key": "Pt_0628_0057",
     "original": "カセキサーチを きどう した！\\f\n⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯\\f\nいりぐちを しめていたので\nレーダーに なにも うつらなかった！",
     "translation": "启动了化石搜索！\\f\n…………………………\\f\n由于关闭了入口，\n雷达什么也显示不出来！",
     "index": 57
   },
   {
-    "key": "PT_0628_0058",
+    "key": "Pt_0628_0058",
     "original": "タマサーチを きどう した！\\f\n⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯\\f\nいりぐちを しめていたので\nレーダーに なにも うつらなかった！",
     "translation": "启动了玉搜索！\\f\n…………………………\\f\n由于关闭了入口，\n雷达什么也显示不出来！",
     "index": 58
   },
   {
-    "key": "PT_0628_0059",
+    "key": "Pt_0628_0059",
     "original": "トラップサーチを きどう した！\\f\n⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯ ⋯⋯\\f\nいりぐちを しめていたので\nレーダーに なにも うつらなかった！",
     "translation": "启动了陷阱搜索！\\f\n…………………………\\f\n由于关闭了入口，\n雷达什么也显示不出来！",
     "index": 59
   },
   {
-    "key": "PT_0628_0060",
+    "key": "Pt_0628_0060",
     "original": "パソコンに グッズを あずけてから\nもようがえを してください",
     "translation": "在电脑上寄存好道具后，\n请改变模样。",
     "index": 60

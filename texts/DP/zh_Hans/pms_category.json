@@ -1,84 +1,84 @@
 [
   {
-    "key": "DP_0275_0000",
+    "key": "DP_0377_0000",
     "original": "ポケモン",
     "translation": "宝可梦",
     "index": 0
   },
   {
-    "key": "DP_0275_0001",
+    "key": "DP_0377_0001",
     "original": "ポケモン２",
     "translation": "宝可梦２",
     "index": 1
   },
   {
-    "key": "DP_0275_0002",
+    "key": "DP_0377_0002",
     "original": "わざ",
     "translation": "招式",
     "index": 2
   },
   {
-    "key": "DP_0275_0003",
+    "key": "DP_0377_0003",
     "original": "わざ２",
     "translation": "招式２",
     "index": 3
   },
   {
-    "key": "DP_0275_0004",
+    "key": "DP_0377_0004",
     "original": "ステータス",
     "translation": "能力",
     "index": 4
   },
   {
-    "key": "DP_0275_0005",
+    "key": "DP_0377_0005",
     "original": "トレーナー",
     "translation": "训练家",
     "index": 5
   },
   {
-    "key": "DP_0275_0006",
+    "key": "DP_0377_0006",
     "original": "ひと",
     "translation": "人",
     "index": 6
   },
   {
-    "key": "DP_0275_0007",
+    "key": "DP_0377_0007",
     "original": "あいさつ",
     "translation": "打招呼",
     "index": 7
   },
   {
-    "key": "DP_0275_0008",
+    "key": "DP_0377_0008",
     "original": "せいかつ",
     "translation": "生活",
     "index": 8
   },
   {
-    "key": "DP_0275_0009",
+    "key": "DP_0377_0009",
     "original": "きもち",
     "translation": "心情",
     "index": 9
   },
   {
-    "key": "DP_0275_0010",
+    "key": "DP_0377_0010",
     "original": "なんかいことば",
     "translation": "难解的语言",
     "index": 10
   },
   {
-    "key": "DP_0275_0011",
+    "key": "DP_0377_0011",
     "original": "ユニオン",
     "translation": "联机",
     "index": 11
   },
   {
-    "key": "DP_0275_0012",
+    "key": "DP_0377_0012",
     "original": "？？？",
     "translation": "？？？",
     "index": 12
   },
   {
-    "key": "DP_0275_0013",
+    "key": "DP_0377_0013",
     "original": "もどる",
     "translation": "返回",
     "index": 13

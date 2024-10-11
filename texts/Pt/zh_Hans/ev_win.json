@@ -1,1680 +1,1680 @@
 [
   {
-    "key": "PT_0360_0000",
+    "key": "Pt_0360_0000",
     "original": "どく",
     "translation": "中毒",
     "index": 0
   },
   {
-    "key": "PT_0360_0001",
+    "key": "Pt_0360_0001",
     "original": "まひ",
     "translation": "麻痹",
     "index": 1
   },
   {
-    "key": "PT_0360_0002",
+    "key": "Pt_0360_0002",
     "original": "ねむり",
     "translation": "睡眠",
     "index": 2
   },
   {
-    "key": "PT_0360_0003",
+    "key": "Pt_0360_0003",
     "original": "やけど",
     "translation": "灼伤",
     "index": 3
   },
   {
-    "key": "PT_0360_0004",
+    "key": "Pt_0360_0004",
     "original": "こおり",
     "translation": "冰冻",
     "index": 4
   },
   {
-    "key": "PT_0360_0005",
+    "key": "Pt_0360_0005",
     "original": "やめる",
     "translation": "取消",
     "index": 5
   },
   {
-    "key": "PT_0360_0006",
+    "key": "Pt_0360_0006",
     "original": "シングルバトル",
     "translation": "单打对战",
     "index": 6
   },
   {
-    "key": "PT_0360_0007",
+    "key": "Pt_0360_0007",
     "original": "ダブルバトル",
     "translation": "双打对战",
     "index": 7
   },
   {
-    "key": "PT_0360_0008",
+    "key": "Pt_0360_0008",
     "original": "ミックスバトル",
     "translation": "混合对战",
     "index": 8
   },
   {
-    "key": "PT_0360_0009",
+    "key": "Pt_0360_0009",
     "original": "マルチバトル",
     "translation": "多人对战",
     "index": 9
   },
   {
-    "key": "PT_0360_0010",
+    "key": "Pt_0360_0010",
     "original": "せつめいをきく",
     "translation": "听说明",
     "index": 10
   },
   {
-    "key": "PT_0360_0011",
+    "key": "Pt_0360_0011",
     "original": "やめる",
     "translation": "取消",
     "index": 11
   },
   {
-    "key": "PT_0360_0012",
+    "key": "Pt_0360_0012",
     "original": "もどる",
     "translation": "返回",
     "index": 12
   },
   {
-    "key": "PT_0360_0013",
+    "key": "Pt_0360_0013",
     "original": "グループにはいる",
     "translation": "加入群组",
     "index": 13
   },
   {
-    "key": "PT_0360_0014",
+    "key": "Pt_0360_0014",
     "original": "リーダーになる",
     "translation": "成为组长",
     "index": 14
   },
   {
-    "key": "PT_0360_0015",
+    "key": "Pt_0360_0015",
     "original": "げんざいの フロア",
     "translation": "现在的楼层",
     "index": 15
   },
   {
-    "key": "PT_0360_0016",
+    "key": "Pt_0360_0016",
     "original": "[0132,0000]かい",
     "translation": "[0132,0000]楼",
     "index": 16
   },
   {
-    "key": "PT_0360_0017",
+    "key": "Pt_0360_0017",
     "original": "かっこよさ",
     "translation": "帅气",
     "index": 17
   },
   {
-    "key": "PT_0360_0018",
+    "key": "Pt_0360_0018",
     "original": "うつくしさ",
     "translation": "美丽",
     "index": 18
   },
   {
-    "key": "PT_0360_0019",
+    "key": "Pt_0360_0019",
     "original": "かわいさ",
     "translation": "可爱",
     "index": 19
   },
   {
-    "key": "PT_0360_0020",
+    "key": "Pt_0360_0020",
     "original": "たくましさ",
     "translation": "强壮",
     "index": 20
   },
   {
-    "key": "PT_0360_0021",
+    "key": "Pt_0360_0021",
     "original": "かしこさ",
     "translation": "聪明",
     "index": 21
   },
   {
-    "key": "PT_0360_0022",
+    "key": "Pt_0360_0022",
     "original": "こうかん",
     "translation": "交换",
     "index": 22
   },
   {
-    "key": "PT_0360_0023",
+    "key": "Pt_0360_0023",
     "original": "やめる",
     "translation": "取消",
     "index": 23
   },
   {
-    "key": "PT_0360_0024",
+    "key": "Pt_0360_0024",
     "original": "ファンシーカップ",
     "translation": "基础杯",
     "index": 24
   },
   {
-    "key": "PT_0360_0025",
+    "key": "Pt_0360_0025",
     "original": "イエローカップ",
     "translation": "黄色杯",
     "index": 25
   },
   {
-    "key": "PT_0360_0026",
+    "key": "Pt_0360_0026",
     "original": "リトルカップ",
     "translation": "新芽杯",
     "index": 26
   },
   {
-    "key": "PT_0360_0027",
+    "key": "Pt_0360_0027",
     "original": "ミドルカップ",
     "translation": "中级杯",
     "index": 27
   },
   {
-    "key": "PT_0360_0028",
+    "key": "Pt_0360_0028",
     "original": "ヘビーカップ",
     "translation": "高级杯",
     "index": 28
   },
   {
-    "key": "PT_0360_0029",
+    "key": "Pt_0360_0029",
     "original": "[011A,0000]カップ",
     "translation": "[011A,0000]杯",
     "index": 29
   },
   {
-    "key": "PT_0360_0030",
+    "key": "Pt_0360_0030",
     "original": "[011A,0001]カップ",
     "translation": "[011A,0001]杯",
     "index": 30
   },
   {
-    "key": "PT_0360_0031",
+    "key": "Pt_0360_0031",
     "original": "[011A,0002]カップ",
     "translation": "[011A,0002]杯",
     "index": 31
   },
   {
-    "key": "PT_0360_0032",
+    "key": "Pt_0360_0032",
     "original": "[011A,0003]カップ",
     "translation": "[011A,0003]杯",
     "index": 32
   },
   {
-    "key": "PT_0360_0033",
+    "key": "Pt_0360_0033",
     "original": "[011A,0004]カップ",
     "translation": "[011A,0004]杯",
     "index": 33
   },
   {
-    "key": "PT_0360_0034",
+    "key": "Pt_0360_0034",
     "original": "あずかりシステム",
     "translation": "寄放系统",
     "index": 34
   },
   {
-    "key": "PT_0360_0035",
+    "key": "Pt_0360_0035",
     "original": "でんどういり",
     "translation": "登入名人堂",
     "index": 35
   },
   {
-    "key": "PT_0360_0036",
+    "key": "Pt_0360_0036",
     "original": "スイッチをきる",
     "translation": "关闭电源",
     "index": 36
   },
   {
-    "key": "PT_0360_0037",
+    "key": "Pt_0360_0037",
     "original": "ふつうに たいせん",
     "translation": "一般对战",
     "index": 37
   },
   {
-    "key": "PT_0360_0038",
+    "key": "Pt_0360_0038",
     "original": "ルールブックをつかう",
     "translation": "使用规则书",
     "index": 38
   },
   {
-    "key": "PT_0360_0039",
+    "key": "Pt_0360_0039",
     "original": "けってい",
     "translation": "确定",
     "index": 39
   },
   {
-    "key": "PT_0360_0040",
+    "key": "Pt_0360_0040",
     "original": "ルールをみる",
     "translation": "确认规则",
     "index": 40
   },
   {
-    "key": "PT_0360_0041",
+    "key": "Pt_0360_0041",
     "original": "はい",
     "translation": "是",
     "index": 41
   },
   {
-    "key": "PT_0360_0042",
+    "key": "Pt_0360_0042",
     "original": "いいえ",
     "translation": "否",
     "index": 42
   },
   {
-    "key": "PT_0360_0043",
+    "key": "Pt_0360_0043",
     "original": "やめる",
     "translation": "取消",
     "index": 43
   },
   {
-    "key": "PT_0360_0044",
+    "key": "Pt_0360_0044",
     "original": "やめる",
     "translation": "取消",
     "index": 44
   },
   {
-    "key": "PT_0360_0045",
+    "key": "Pt_0360_0045",
     "original": "ほのお",
     "translation": "火",
     "index": 45
   },
   {
-    "key": "PT_0360_0046",
+    "key": "Pt_0360_0046",
     "original": "みず",
     "translation": "水",
     "index": 46
   },
   {
-    "key": "PT_0360_0047",
+    "key": "Pt_0360_0047",
     "original": "くさ",
     "translation": "草",
     "index": 47
   },
   {
-    "key": "PT_0360_0048",
+    "key": "Pt_0360_0048",
     "original": "カード",
     "translation": "卡片",
     "index": 48
   },
   {
-    "key": "PT_0360_0049",
+    "key": "Pt_0360_0049",
     "original": "たいせん",
     "translation": "对战",
     "index": 49
   },
   {
-    "key": "PT_0360_0050",
+    "key": "Pt_0360_0050",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
     "index": 50
   },
   {
-    "key": "PT_0360_0051",
+    "key": "Pt_0360_0051",
     "original": "[0103,0001]",
     "translation": "[0103,0001]",
     "index": 51
   },
   {
-    "key": "PT_0360_0052",
+    "key": "Pt_0360_0052",
     "original": "[0103,0002]",
     "translation": "[0103,0002]",
     "index": 52
   },
   {
-    "key": "PT_0360_0053",
+    "key": "Pt_0360_0053",
     "original": "[0103,0003]",
     "translation": "[0103,0003]",
     "index": 53
   },
   {
-    "key": "PT_0360_0054",
+    "key": "Pt_0360_0054",
     "original": "ひりょうをまく",
     "translation": "施肥",
     "index": 54
   },
   {
-    "key": "PT_0360_0055",
+    "key": "Pt_0360_0055",
     "original": "きのみをうめる",
     "translation": "种树果",
     "index": 55
   },
   {
-    "key": "PT_0360_0056",
+    "key": "Pt_0360_0056",
     "original": "おえかき",
     "translation": "画画",
     "index": 56
   },
   {
-    "key": "PT_0360_0057",
+    "key": "Pt_0360_0057",
     "original": " ",
     "translation": "　",
     "index": 57
   },
   {
-    "key": "PT_0360_0058",
+    "key": "Pt_0360_0058",
     "original": "だれかのパソコン",
     "translation": "某人的电脑",
     "index": 58
   },
   {
-    "key": "PT_0360_0059",
+    "key": "Pt_0360_0059",
     "original": "ミズキのパソコン",
     "translation": "水木的电脑",
     "index": 59
   },
   {
-    "key": "PT_0360_0060",
+    "key": "Pt_0360_0060",
     "original": "[0103,0000]のパソコン",
     "translation": "[0103,0000]的电脑",
     "index": 60
   },
   {
-    "key": "PT_0360_0061",
+    "key": "Pt_0360_0061",
     "original": "でんどういり",
     "translation": "登入名人堂",
     "index": 61
   },
   {
-    "key": "PT_0360_0062",
+    "key": "Pt_0360_0062",
     "original": "オーキドのパソコン",
     "translation": "大木的电脑",
     "index": 62
   },
   {
-    "key": "PT_0360_0063",
+    "key": "Pt_0360_0063",
     "original": "ナナカマドのパソコン",
     "translation": "山梨的电脑",
     "index": 63
   },
   {
-    "key": "PT_0360_0064",
+    "key": "Pt_0360_0064",
     "original": "スイッチを きる",
     "translation": "关闭电源",
     "index": 64
   },
   {
-    "key": "PT_0360_0065",
+    "key": "Pt_0360_0065",
     "original": "ポケモンを あずける",
     "translation": "寄放宝可梦",
     "index": 65
   },
   {
-    "key": "PT_0360_0066",
+    "key": "Pt_0360_0066",
     "original": "ポケモンを つれていく",
     "translation": "取出宝可梦",
     "index": 66
   },
   {
-    "key": "PT_0360_0067",
+    "key": "Pt_0360_0067",
     "original": "ボックスを せいりする",
     "translation": "整理盒子",
     "index": 67
   },
   {
-    "key": "PT_0360_0068",
+    "key": "Pt_0360_0068",
     "original": "もちものを せいりする",
     "translation": "整理携带物品",
     "index": 68
   },
   {
-    "key": "PT_0360_0069",
+    "key": "Pt_0360_0069",
     "original": "つよさ くらべ",
     "translation": "比较能力",
     "index": 69
   },
   {
-    "key": "PT_0360_0070",
+    "key": "Pt_0360_0070",
     "original": "さようなら",
     "translation": "再见",
     "index": 70
   },
   {
-    "key": "PT_0360_0071",
+    "key": "Pt_0360_0071",
     "original": "メールボックス",
     "translation": "邮箱",
     "index": 71
   },
   {
-    "key": "PT_0360_0072",
+    "key": "Pt_0360_0072",
     "original": "ボールカプセル",
     "translation": "球壳",
     "index": 72
   },
   {
-    "key": "PT_0360_0073",
+    "key": "Pt_0360_0073",
     "original": "せつぞくを きる",
     "translation": "切断连接",
     "index": 73
   },
   {
-    "key": "PT_0360_0074",
+    "key": "Pt_0360_0074",
     "original": "てもちの ポケモンを\nボックスに あずけることが できます",
     "translation": "把身上的宝可梦存放在盒子里",
     "index": 74
   },
   {
-    "key": "PT_0360_0075",
+    "key": "Pt_0360_0075",
     "original": "ボックスに あずけている ポケモンを\nてもちに くわえることが できます",
     "translation": "把存放在盒子里的宝可梦带在身上",
     "index": 75
   },
   {
-    "key": "PT_0360_0076",
+    "key": "Pt_0360_0076",
     "original": "ボックスに あずけている ポケモンや\nてもちのポケモンを せいり できます",
     "translation": "整理盒子或者身上的宝可梦",
     "index": 76
   },
   {
-    "key": "PT_0360_0077",
+    "key": "Pt_0360_0077",
     "original": "ポケモンが もっている どうぐを\nせいり できます",
     "translation": "整理宝可梦带着的道具",
     "index": 77
   },
   {
-    "key": "PT_0360_0078",
+    "key": "Pt_0360_0078",
     "original": "てもちや ボックスの ポケモンの\nつよさを くらべることが できます",
     "translation": "比较盒子或者身上宝可梦的能力",
     "index": 78
   },
   {
-    "key": "PT_0360_0079",
+    "key": "Pt_0360_0079",
     "original": "ポケモンあずかりシステム への\nつうしんを せつだん します",
     "translation": "切断连接寄存宝可梦的程序",
     "index": 79
   },
   {
-    "key": "PT_0360_0080",
+    "key": "Pt_0360_0080",
     "original": "メールを ２０つう まで\nほぞん することが できます",
     "translation": "可以保存２０封邮件",
     "index": 80
   },
   {
-    "key": "PT_0360_0081",
+    "key": "Pt_0360_0081",
     "original": "ボールカプセルの\nセットや へんしゅうが できます",
     "translation": "可以设置或修改球壳",
     "index": 81
   },
   {
-    "key": "PT_0360_0082",
+    "key": "Pt_0360_0082",
     "original": "じぶんのパソコン への つうしんを\nせつだん します",
     "translation": "切断与电脑的连接",
     "index": 82
   },
   {
-    "key": "PT_0360_0083",
+    "key": "Pt_0360_0083",
     "original": "やめる",
     "translation": "取消",
     "index": 83
   },
   {
-    "key": "PT_0360_0084",
+    "key": "Pt_0360_0084",
     "original": "ないようを よむ",
     "translation": "阅读内容",
     "index": 84
   },
   {
-    "key": "PT_0360_0085",
+    "key": "Pt_0360_0085",
     "original": "バッグに もどす",
     "translation": "返回包包",
     "index": 85
   },
   {
-    "key": "PT_0360_0086",
+    "key": "Pt_0360_0086",
     "original": "ポケモンに もたせる",
     "translation": "让宝可梦携带",
     "index": 86
   },
   {
-    "key": "PT_0360_0087",
+    "key": "Pt_0360_0087",
     "original": "あずける",
     "translation": "寄放",
     "index": 87
   },
   {
-    "key": "PT_0360_0088",
+    "key": "Pt_0360_0088",
     "original": "とりだす",
     "translation": "取出",
     "index": 88
   },
   {
-    "key": "PT_0360_0089",
+    "key": "Pt_0360_0089",
     "original": "エリア１",
     "translation": "第１区",
     "index": 89
   },
   {
-    "key": "PT_0360_0090",
+    "key": "Pt_0360_0090",
     "original": "エリア２",
     "translation": "第２区",
     "index": 90
   },
   {
-    "key": "PT_0360_0091",
+    "key": "Pt_0360_0091",
     "original": "エリア３",
     "translation": "第３区",
     "index": 91
   },
   {
-    "key": "PT_0360_0092",
+    "key": "Pt_0360_0092",
     "original": "さんかする",
     "translation": "参加",
     "index": 92
   },
   {
-    "key": "PT_0360_0093",
+    "key": "Pt_0360_0093",
     "original": "せつめいをきく",
     "translation": "听说明",
     "index": 93
   },
   {
-    "key": "PT_0360_0094",
+    "key": "Pt_0360_0094",
     "original": "やめる",
     "translation": "取消",
     "index": 94
   },
   {
-    "key": "PT_0360_0095",
+    "key": "Pt_0360_0095",
     "original": "またのさんかを\nおまちしております",
     "translation": "欢迎再次参加",
     "index": 95
   },
   {
-    "key": "PT_0360_0096",
+    "key": "Pt_0360_0096",
     "original": "コンテストのきほん",
     "translation": "华丽大赛的基本",
     "index": 96
   },
   {
-    "key": "PT_0360_0097",
+    "key": "Pt_0360_0097",
     "original": "コンテストのしゅるい",
     "translation": "华丽大赛的种类",
     "index": 97
   },
   {
-    "key": "PT_0360_0098",
+    "key": "Pt_0360_0098",
     "original": "ランクについて",
     "translation": "关于级别",
     "index": 98
   },
   {
-    "key": "PT_0360_0099",
+    "key": "Pt_0360_0099",
     "original": "もどる",
     "translation": "返回",
     "index": 99
   },
   {
-    "key": "PT_0360_0100",
+    "key": "Pt_0360_0100",
     "original": "コンテストとは？",
     "translation": "华丽大赛是什么？",
     "index": 100
   },
   {
-    "key": "PT_0360_0101",
+    "key": "Pt_0360_0101",
     "original": "ビジュアルぶもん",
     "translation": "视觉方面",
     "index": 101
   },
   {
-    "key": "PT_0360_0102",
+    "key": "Pt_0360_0102",
     "original": "ダンスぶもん",
     "translation": "舞蹈部",
     "index": 102
   },
   {
-    "key": "PT_0360_0103",
+    "key": "Pt_0360_0103",
     "original": "えんぎぶもん",
     "translation": "表演部",
     "index": 103
   },
   {
-    "key": "PT_0360_0104",
+    "key": "Pt_0360_0104",
     "original": "もどる",
     "translation": "返回",
     "index": 104
   },
   {
-    "key": "PT_0360_0105",
+    "key": "Pt_0360_0105",
     "original": "ノーマルランク",
     "translation": "普通级",
     "index": 105
   },
   {
-    "key": "PT_0360_0106",
+    "key": "Pt_0360_0106",
     "original": "グレートランク",
     "translation": "高手级",
     "index": 106
   },
   {
-    "key": "PT_0360_0107",
+    "key": "Pt_0360_0107",
     "original": "ウルトラランク",
     "translation": "究极级",
     "index": 107
   },
   {
-    "key": "PT_0360_0108",
+    "key": "Pt_0360_0108",
     "original": "マスターランク",
     "translation": "大师级",
     "index": 108
   },
   {
-    "key": "PT_0360_0109",
+    "key": "Pt_0360_0109",
     "original": "やめる",
     "translation": "取消",
     "index": 109
   },
   {
-    "key": "PT_0360_0110",
+    "key": "Pt_0360_0110",
     "original": "かっこよさコンテスト",
     "translation": "帅气华丽大赛",
     "index": 110
   },
   {
-    "key": "PT_0360_0111",
+    "key": "Pt_0360_0111",
     "original": "うつくしさコンテスト",
     "translation": "美丽华丽大赛",
     "index": 111
   },
   {
-    "key": "PT_0360_0112",
+    "key": "Pt_0360_0112",
     "original": "かわいさコンテスト",
     "translation": "可爱华丽大赛",
     "index": 112
   },
   {
-    "key": "PT_0360_0113",
+    "key": "Pt_0360_0113",
     "original": "かしこさコンテスト",
     "translation": "聪明华丽大赛",
     "index": 113
   },
   {
-    "key": "PT_0360_0114",
+    "key": "Pt_0360_0114",
     "original": "たくましさコンテスト",
     "translation": "强壮华丽大赛",
     "index": 114
   },
   {
-    "key": "PT_0360_0115",
+    "key": "Pt_0360_0115",
     "original": "やめる",
     "translation": "取消",
     "index": 115
   },
   {
-    "key": "PT_0360_0116",
+    "key": "Pt_0360_0116",
     "original": "１かい",
     "translation": "１楼",
     "index": 116
   },
   {
-    "key": "PT_0360_0117",
+    "key": "Pt_0360_0117",
     "original": "２かい",
     "translation": "２楼",
     "index": 117
   },
   {
-    "key": "PT_0360_0118",
+    "key": "Pt_0360_0118",
     "original": "３かい",
     "translation": "３楼",
     "index": 118
   },
   {
-    "key": "PT_0360_0119",
+    "key": "Pt_0360_0119",
     "original": "４かい",
     "translation": "４楼",
     "index": 119
   },
   {
-    "key": "PT_0360_0120",
+    "key": "Pt_0360_0120",
     "original": "５かい",
     "translation": "５楼",
     "index": 120
   },
   {
-    "key": "PT_0360_0121",
+    "key": "Pt_0360_0121",
     "original": "ちか１かい",
     "translation": "地下１楼",
     "index": 121
   },
   {
-    "key": "PT_0360_0122",
+    "key": "Pt_0360_0122",
     "original": "ちか２かい",
     "translation": "地下２楼",
     "index": 122
   },
   {
-    "key": "PT_0360_0123",
+    "key": "Pt_0360_0123",
     "original": "てんぼうしつ",
     "translation": "展望室",
     "index": 123
   },
   {
-    "key": "PT_0360_0124",
+    "key": "Pt_0360_0124",
     "original": "やめる",
     "translation": "取消",
     "index": 124
   },
   {
-    "key": "PT_0360_0125",
+    "key": "Pt_0360_0125",
     "original": "５０まい[0203,003C]１０００¥   ",
     "translation": "５０枚　[0203,003C]$１０００　　　",
     "index": 125
   },
   {
-    "key": "PT_0360_0126",
+    "key": "Pt_0360_0126",
     "original": "５００まい[0203,003C]１００００¥  ",
     "translation": "５００枚　[0203,003C]$１００００　　",
     "index": 126
   },
   {
-    "key": "PT_0360_0127",
+    "key": "Pt_0360_0127",
     "original": "いらない ",
     "translation": "不需要　",
     "index": 127
   },
   {
-    "key": "PT_0360_0128",
+    "key": "Pt_0360_0128",
     "original": "せつめいを きく",
     "translation": "听说明",
     "index": 128
   },
   {
-    "key": "PT_0360_0129",
+    "key": "Pt_0360_0129",
     "original": "こうかんを する",
     "translation": "交换",
     "index": 129
   },
   {
-    "key": "PT_0360_0130",
+    "key": "Pt_0360_0130",
     "original": "やめる",
     "translation": "取消",
     "index": 130
   },
   {
-    "key": "PT_0360_0131",
+    "key": "Pt_0360_0131",
     "original": "ポケモンをあずけるって？",
     "translation": "什么是存放宝可梦？",
     "index": 131
   },
   {
-    "key": "PT_0360_0132",
+    "key": "Pt_0360_0132",
     "original": "ポケモンをさがすって？",
     "translation": "什么是搜索宝可梦？",
     "index": 132
   },
   {
-    "key": "PT_0360_0133",
+    "key": "Pt_0360_0133",
     "original": "もうわかった！",
     "translation": "我知道了！",
     "index": 133
   },
   {
-    "key": "PT_0360_0134",
+    "key": "Pt_0360_0134",
     "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
     "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
     "index": 134
   },
   {
-    "key": "PT_0360_0135",
+    "key": "Pt_0360_0135",
     "original": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
     "translation": "[0100,0000][0102,0002][0203,005A]Ｌｖ．[0134,0001]",
     "index": 135
   },
   {
-    "key": "PT_0360_0136",
+    "key": "Pt_0360_0136",
     "original": "やめる             ",
     "translation": "取消　　　　　　　　　　　　　　",
     "index": 136
   },
   {
-    "key": "PT_0360_0137",
+    "key": "Pt_0360_0137",
     "original": "みぎ",
     "translation": "右",
     "index": 137
   },
   {
-    "key": "PT_0360_0138",
+    "key": "Pt_0360_0138",
     "original": "ひだり",
     "translation": "左",
     "index": 138
   },
   {
-    "key": "PT_0360_0139",
+    "key": "Pt_0360_0139",
     "original": "ぐるぐる",
     "translation": "转圈圈",
     "index": 139
   },
   {
-    "key": "PT_0360_0140",
+    "key": "Pt_0360_0140",
     "original": "レコード",
     "translation": "记录",
     "index": 140
   },
   {
-    "key": "PT_0360_0141",
+    "key": "Pt_0360_0141",
     "original": "ちょうせんする",
     "translation": "挑战",
     "index": 141
   },
   {
-    "key": "PT_0360_0142",
+    "key": "Pt_0360_0142",
     "original": "せつめいをきく",
     "translation": "听说明",
     "index": 142
   },
   {
-    "key": "PT_0360_0143",
+    "key": "Pt_0360_0143",
     "original": "やめる",
     "translation": "取消",
     "index": 143
   },
   {
-    "key": "PT_0360_0144",
+    "key": "Pt_0360_0144",
     "original": "シングル",
     "translation": "单打",
     "index": 144
   },
   {
-    "key": "PT_0360_0145",
+    "key": "Pt_0360_0145",
     "original": "ダブル",
     "translation": "双打",
     "index": 145
   },
   {
-    "key": "PT_0360_0146",
+    "key": "Pt_0360_0146",
     "original": "つづける",
     "translation": "继续",
     "index": 146
   },
   {
-    "key": "PT_0360_0147",
+    "key": "Pt_0360_0147",
     "original": "やすむ",
     "translation": "休息",
     "index": 147
   },
   {
-    "key": "PT_0360_0148",
+    "key": "Pt_0360_0148",
     "original": "リタイア",
     "translation": "退出",
     "index": 148
   },
   {
-    "key": "PT_0360_0149",
+    "key": "Pt_0360_0149",
     "original": "リーダーになる",
     "translation": "成为组长",
     "index": 149
   },
   {
-    "key": "PT_0360_0150",
+    "key": "Pt_0360_0150",
     "original": "グループにはいる",
     "translation": "加入群组",
     "index": 150
   },
   {
-    "key": "PT_0360_0151",
+    "key": "Pt_0360_0151",
     "original": "れきだいリーダーをみる",
     "translation": "查看历代领队",
     "index": 151
   },
   {
-    "key": "PT_0360_0152",
+    "key": "Pt_0360_0152",
     "original": "まえのへやに ちょうせんする",
     "translation": "挑战前面的房间",
     "index": 152
   },
   {
-    "key": "PT_0360_0153",
+    "key": "Pt_0360_0153",
     "original": "ともだちを とうろくするには？",
     "translation": "怎样添加朋友？",
     "index": 153
   },
   {
-    "key": "PT_0360_0154",
+    "key": "Pt_0360_0154",
     "original": "もう わかった！",
     "translation": "我知道了！",
     "index": 154
   },
   {
-    "key": "PT_0360_0155",
+    "key": "Pt_0360_0155",
     "original": "もういっかい おしえて！",
     "translation": "再讲一次！",
     "index": 155
   },
   {
-    "key": "PT_0360_0156",
+    "key": "Pt_0360_0156",
     "original": "ひみつのコハク",
     "translation": "秘密琥珀",
     "index": 156
   },
   {
-    "key": "PT_0360_0157",
+    "key": "Pt_0360_0157",
     "original": "かいのカセキ",
     "translation": "贝壳化石",
     "index": 157
   },
   {
-    "key": "PT_0360_0158",
+    "key": "Pt_0360_0158",
     "original": "こうらのカセキ",
     "translation": "甲壳化石",
     "index": 158
   },
   {
-    "key": "PT_0360_0159",
+    "key": "Pt_0360_0159",
     "original": "ねっこのカセキ",
     "translation": "根状化石",
     "index": 159
   },
   {
-    "key": "PT_0360_0160",
+    "key": "Pt_0360_0160",
     "original": "ツメのカセキ",
     "translation": "爪子化石",
     "index": 160
   },
   {
-    "key": "PT_0360_0161",
+    "key": "Pt_0360_0161",
     "original": "たてのカセキ",
     "translation": "盾甲化石",
     "index": 161
   },
   {
-    "key": "PT_0360_0162",
+    "key": "Pt_0360_0162",
     "original": "ずがいのカセキ",
     "translation": "头盖化石",
     "index": 162
   },
   {
-    "key": "PT_0360_0163",
+    "key": "Pt_0360_0163",
     "original": "ふたりで たいせん",
     "translation": "双人对战",
     "index": 163
   },
   {
-    "key": "PT_0360_0164",
+    "key": "Pt_0360_0164",
     "original": "４にんで たいせん",
     "translation": "４人对战",
     "index": 164
   },
   {
-    "key": "PT_0360_0165",
+    "key": "Pt_0360_0165",
     "original": "あいさつ",
     "translation": "打招呼",
     "index": 165
   },
   {
-    "key": "PT_0360_0166",
+    "key": "Pt_0360_0166",
     "original": "おはなしする",
     "translation": "聊天",
     "index": 166
   },
   {
-    "key": "PT_0360_0167",
+    "key": "Pt_0360_0167",
     "original": "チャット",
     "translation": "闲谈",
     "index": 167
   },
   {
-    "key": "PT_0360_0168",
+    "key": "Pt_0360_0168",
     "original": "[0108,0000][0203,0060][0136,0001]",
     "translation": "[0108,0000][0203,0060][0136,0001]",
     "index": 168
   },
   {
-    "key": "PT_0360_0169",
+    "key": "Pt_0360_0169",
     "original": "いらない            ",
     "translation": "不需要　　　　　　　　　　　　",
     "index": 169
   },
   {
-    "key": "PT_0360_0170",
+    "key": "Pt_0360_0170",
     "original": "わざマシン２４   ４０００まい ",
     "translation": "招式学习器２４　　　４０００枚　",
     "index": 170
   },
   {
-    "key": "PT_0360_0171",
+    "key": "Pt_0360_0171",
     "original": "わざマシン３０   ４５００まい ",
     "translation": "招式学习器３０　　　４５００枚　",
     "index": 171
   },
   {
-    "key": "PT_0360_0172",
+    "key": "Pt_0360_0172",
     "original": "わざマシン３５   ４０００まい ",
     "translation": "招式学习器３５　　　４０００枚　",
     "index": 172
   },
   {
-    "key": "PT_0360_0173",
+    "key": "Pt_0360_0173",
     "original": "いらない",
     "translation": "不需要",
     "index": 173
   },
   {
-    "key": "PT_0360_0174",
+    "key": "Pt_0360_0174",
     "original": "みぎ",
     "translation": "右",
     "index": 174
   },
   {
-    "key": "PT_0360_0175",
+    "key": "Pt_0360_0175",
     "original": "ひだり",
     "translation": "左",
     "index": 175
   },
   {
-    "key": "PT_0360_0176",
+    "key": "Pt_0360_0176",
     "original": "ビジュアル",
     "translation": "视觉",
     "index": 176
   },
   {
-    "key": "PT_0360_0177",
+    "key": "Pt_0360_0177",
     "original": "ダンス",
     "translation": "舞蹈",
     "index": 177
   },
   {
-    "key": "PT_0360_0178",
+    "key": "Pt_0360_0178",
     "original": "えんぎ",
     "translation": "演艺",
     "index": 178
   },
   {
-    "key": "PT_0360_0179",
+    "key": "Pt_0360_0179",
     "original": "れんしゅうって？",
     "translation": "什么是练习？",
     "index": 179
   },
   {
-    "key": "PT_0360_0180",
+    "key": "Pt_0360_0180",
     "original": "ハタ",
     "translation": "旗",
     "index": 180
   },
   {
-    "key": "PT_0360_0181",
+    "key": "Pt_0360_0181",
     "original": "タマ",
     "translation": "玉",
     "index": 181
   },
   {
-    "key": "PT_0360_0182",
+    "key": "Pt_0360_0182",
     "original": "トラップ",
     "translation": "陷阱",
     "index": 182
   },
   {
-    "key": "PT_0360_0183",
+    "key": "Pt_0360_0183",
     "original": "グッズ",
     "translation": "物品",
     "index": 183
   },
   {
-    "key": "PT_0360_0184",
+    "key": "Pt_0360_0184",
     "original": "たから",
     "translation": "宝物",
     "index": 184
   },
   {
-    "key": "PT_0360_0185",
+    "key": "Pt_0360_0185",
     "original": "まえのへやに ちょうせんする",
     "translation": "挑战前面的房间",
     "index": 185
   },
   {
-    "key": "PT_0360_0186",
+    "key": "Pt_0360_0186",
     "original": "エリア１",
     "translation": "第１区",
     "index": 186
   },
   {
-    "key": "PT_0360_0187",
+    "key": "Pt_0360_0187",
     "original": "エリア２",
     "translation": "第２区",
     "index": 187
   },
   {
-    "key": "PT_0360_0188",
+    "key": "Pt_0360_0188",
     "original": "エリア３",
     "translation": "第３区",
     "index": 188
   },
   {
-    "key": "PT_0360_0189",
+    "key": "Pt_0360_0189",
     "original": "エリア４",
     "translation": "第４区",
     "index": 189
   },
   {
-    "key": "PT_0360_0190",
+    "key": "Pt_0360_0190",
     "original": "エリア５",
     "translation": "第５区",
     "index": 190
   },
   {
-    "key": "PT_0360_0191",
+    "key": "Pt_0360_0191",
     "original": "エリア６",
     "translation": "第６区",
     "index": 191
   },
   {
-    "key": "PT_0360_0192",
+    "key": "Pt_0360_0192",
     "original": "やめる",
     "translation": "取消",
     "index": 192
   },
   {
-    "key": "PT_0360_0193",
+    "key": "Pt_0360_0193",
     "original": "あかいかけら",
     "translation": "红色碎片",
     "index": 193
   },
   {
-    "key": "PT_0360_0194",
+    "key": "Pt_0360_0194",
     "original": "あおいかけら",
     "translation": "蓝色碎片",
     "index": 194
   },
   {
-    "key": "PT_0360_0195",
+    "key": "Pt_0360_0195",
     "original": "きいろいかけら",
     "translation": "黄色碎片",
     "index": 195
   },
   {
-    "key": "PT_0360_0196",
+    "key": "Pt_0360_0196",
     "original": "みどりのかけら",
     "translation": "绿色碎片",
     "index": 196
   },
   {
-    "key": "PT_0360_0197",
+    "key": "Pt_0360_0197",
     "original": "[0136,0000]まい",
     "translation": "[0136,0000]枚",
     "index": 197
   },
   {
-    "key": "PT_0360_0198",
+    "key": "Pt_0360_0198",
     "original": "きほんルール",
     "translation": "基本规则",
     "index": 198
   },
   {
-    "key": "PT_0360_0199",
+    "key": "Pt_0360_0199",
     "original": "ほかくショー",
     "translation": "抓捕展览",
     "index": 199
   },
   {
-    "key": "PT_0360_0200",
+    "key": "Pt_0360_0200",
     "original": "あずけかた",
     "translation": "寄存方式",
     "index": 200
   },
   {
-    "key": "PT_0360_0201",
+    "key": "Pt_0360_0201",
     "original": "あずけかた２",
     "translation": "寄存方式２",
     "index": 201
   },
   {
-    "key": "PT_0360_0202",
+    "key": "Pt_0360_0202",
     "original": "もうわかった！",
     "translation": "我知道了！",
     "index": 202
   },
   {
-    "key": "PT_0360_0203",
+    "key": "Pt_0360_0203",
     "original": "さんか する",
     "translation": "参加",
     "index": 203
   },
   {
-    "key": "PT_0360_0204",
+    "key": "Pt_0360_0204",
     "original": "せつめいを きく",
     "translation": "听说明",
     "index": 204
   },
   {
-    "key": "PT_0360_0205",
+    "key": "Pt_0360_0205",
     "original": "やめる",
     "translation": "取消",
     "index": 205
   },
   {
-    "key": "PT_0360_0206",
+    "key": "Pt_0360_0206",
     "original": "ポケモンをえらぶ",
     "translation": "选择宝可梦",
     "index": 206
   },
   {
-    "key": "PT_0360_0207",
+    "key": "Pt_0360_0207",
     "original": "せつめい",
     "translation": "说明",
     "index": 207
   },
   {
-    "key": "PT_0360_0208",
+    "key": "Pt_0360_0208",
     "original": "やめる",
     "translation": "取消",
     "index": 208
   },
   {
-    "key": "PT_0360_0209",
+    "key": "Pt_0360_0209",
     "original": "あかいかけら",
     "translation": "红色碎片",
     "index": 209
   },
   {
-    "key": "PT_0360_0210",
+    "key": "Pt_0360_0210",
     "original": "あおいかけら",
     "translation": "蓝色碎片",
     "index": 210
   },
   {
-    "key": "PT_0360_0211",
+    "key": "Pt_0360_0211",
     "original": "きいろいかけら",
     "translation": "黄色碎片",
     "index": 211
   },
   {
-    "key": "PT_0360_0212",
+    "key": "Pt_0360_0212",
     "original": "みどりのかけら",
     "translation": "绿色碎片",
     "index": 212
   },
   {
-    "key": "PT_0360_0213",
+    "key": "Pt_0360_0213",
     "original": "こうてつじま",
     "translation": "钢铁岛",
     "index": 213
   },
   {
-    "key": "PT_0360_0214",
+    "key": "Pt_0360_0214",
     "original": "まんげつじま",
     "translation": "满月岛",
     "index": 214
   },
   {
-    "key": "PT_0360_0215",
+    "key": "Pt_0360_0215",
     "original": "しんげつじま",
     "translation": "新月岛",
     "index": 215
   },
   {
-    "key": "PT_0360_0216",
+    "key": "Pt_0360_0216",
     "original": "ファイトエリア",
     "translation": "战斗区",
     "index": 216
   },
   {
-    "key": "PT_0360_0217",
+    "key": "Pt_0360_0217",
     "original": "キッサキシティ",
     "translation": "雪峰市",
     "index": 217
   },
   {
-    "key": "PT_0360_0218",
+    "key": "Pt_0360_0218",
     "original": "やめる",
     "translation": "取消",
     "index": 218
   },
   {
-    "key": "PT_0360_0219",
+    "key": "Pt_0360_0219",
     "original": "おいしいみず[0203,0050]２００¥",
     "translation": "美味之水[0203,0050]$２００　　",
     "index": 219
   },
   {
-    "key": "PT_0360_0220",
+    "key": "Pt_0360_0220",
     "original": "サイコソーダ[0203,0050]３００¥",
     "translation": "劲爽汽水[0203,0050]$３００　　",
     "index": 220
   },
   {
-    "key": "PT_0360_0221",
+    "key": "Pt_0360_0221",
     "original": "ミックスオレ[0203,0050]３５０¥",
     "translation": "果汁牛奶[0203,0050]$３５０　　",
     "index": 221
   },
   {
-    "key": "PT_0360_0222",
+    "key": "Pt_0360_0222",
     "original": "いらない         ",
     "translation": "不需要　　　　　　　　　",
     "index": 222
   },
   {
-    "key": "PT_0360_0223",
+    "key": "Pt_0360_0223",
     "original": "すくすくこやし[0203,005A]２００¥",
     "translation": "速速肥[0203,005A]$２００　　　",
     "index": 223
   },
   {
-    "key": "PT_0360_0224",
+    "key": "Pt_0360_0224",
     "original": "じめじめこやし[0203,005A]２００¥",
     "translation": "湿湿肥[0203,005A]$２００　　　",
     "index": 224
   },
   {
-    "key": "PT_0360_0225",
+    "key": "Pt_0360_0225",
     "original": "ながながこやし[0203,005A]２００¥",
     "translation": "久久肥[0203,005A]$２００　　　",
     "index": 225
   },
   {
-    "key": "PT_0360_0226",
+    "key": "Pt_0360_0226",
     "original": "ねばねばこやし[0203,005A]２００¥",
     "translation": "粘粘肥[0203,005A]$２００　　　",
     "index": 226
   },
   {
-    "key": "PT_0360_0227",
+    "key": "Pt_0360_0227",
     "original": "やめる            ",
     "translation": "取消　　　　　　　　　　　　　",
     "index": 227
   },
   {
-    "key": "PT_0360_0228",
+    "key": "Pt_0360_0228",
     "original": "なんでもない",
     "translation": "什么都没有",
     "index": 228
   },
   {
-    "key": "PT_0360_0229",
+    "key": "Pt_0360_0229",
     "original": "おすすめは？",
     "translation": "有什么推荐的？",
     "index": 229
   },
   {
-    "key": "PT_0360_0230",
+    "key": "Pt_0360_0230",
     "original": "[0135,0000]ＢＰ",
     "translation": "[0135,0000]ＢＰ",
     "index": 230
   },
   {
-    "key": "PT_0360_0231",
+    "key": "Pt_0360_0231",
     "original": "[0108,0000][0203,0060][0134,0001]ＢＰ",
     "translation": "[0108,0000][0203,0060][0134,0001]ＢＰ",
     "index": 231
   },
   {
-    "key": "PT_0360_0232",
+    "key": "Pt_0360_0232",
     "original": "いらない            ",
     "translation": "不需要　　　　　　　　　　　　",
     "index": 232
   },
   {
-    "key": "PT_0360_0233",
+    "key": "Pt_0360_0233",
     "original": "デジタルどけい",
     "translation": "数字时钟",
     "index": 233
   },
   {
-    "key": "PT_0360_0234",
+    "key": "Pt_0360_0234",
     "original": "ストップウォッチ",
     "translation": "秒表",
     "index": 234
   },
   {
-    "key": "PT_0360_0235",
+    "key": "Pt_0360_0235",
     "original": "けいさんき",
     "translation": "计算器",
     "index": 235
   },
   {
-    "key": "PT_0360_0236",
+    "key": "Pt_0360_0236",
     "original": "メモようし",
     "translation": "便签",
     "index": 236
   },
   {
-    "key": "PT_0360_0237",
+    "key": "Pt_0360_0237",
     "original": "アナログどけい",
     "translation": "模拟时钟",
     "index": 237
   },
   {
-    "key": "PT_0360_0238",
+    "key": "Pt_0360_0238",
     "original": "ドットアート",
     "translation": "像素画",
     "index": 238
   },
   {
-    "key": "PT_0360_0239",
+    "key": "Pt_0360_0239",
     "original": "ポケモンリスト",
     "translation": "宝可梦列表",
     "index": 239
   },
   {
-    "key": "PT_0360_0240",
+    "key": "Pt_0360_0240",
     "original": "なつきチェッカー",
     "translation": "亲密度检测器",
     "index": 240
   },
   {
-    "key": "PT_0360_0241",
+    "key": "Pt_0360_0241",
     "original": "ダウジングマシン",
     "translation": "探宝器",
     "index": 241
   },
   {
-    "key": "PT_0360_0242",
+    "key": "Pt_0360_0242",
     "original": "カウンター",
     "translation": "计数器",
     "index": 242
   },
   {
-    "key": "PT_0360_0243",
+    "key": "Pt_0360_0243",
     "original": "ほすうカウンター",
     "translation": "步数计",
     "index": 243
   },
   {
-    "key": "PT_0360_0244",
+    "key": "Pt_0360_0244",
     "original": "そだてやチェッカー",
     "translation": "培育屋检测器",
     "index": 244
   },
   {
-    "key": "PT_0360_0245",
+    "key": "Pt_0360_0245",
     "original": "ルーレット",
     "translation": "轮盘",
     "index": 245
   },
   {
-    "key": "PT_0360_0246",
+    "key": "Pt_0360_0246",
     "original": "コイントス",
     "translation": "掷硬币",
     "index": 246
   },
   {
-    "key": "PT_0360_0247",
+    "key": "Pt_0360_0247",
     "original": "わざこうかチェッカー",
     "translation": "招式效果检测器",
     "index": 247
   },
   {
-    "key": "PT_0360_0248",
+    "key": "Pt_0360_0248",
     "original": "あいしょうチェッカー",
     "translation": "契合度检测器",
     "index": 248
   },
   {
-    "key": "PT_0360_0249",
+    "key": "Pt_0360_0249",
     "original": "アラームどけい",
     "translation": "闹钟",
     "index": 249
   },
   {
-    "key": "PT_0360_0250",
+    "key": "Pt_0360_0250",
     "original": "キッチンタイマー",
     "translation": "计时器",
     "index": 250
   },
   {
-    "key": "PT_0360_0251",
+    "key": "Pt_0360_0251",
     "original": "マーキングマップ",
     "translation": "标记地图",
     "index": 251
   },
   {
-    "key": "PT_0360_0252",
+    "key": "Pt_0360_0252",
     "original": "きのみサーチャー",
     "translation": "树果搜索",
     "index": 252
   },
   {
-    "key": "PT_0360_0253",
+    "key": "Pt_0360_0253",
     "original": "カラーチェンジャー",
     "translation": "变色器",
     "index": 253
   },
   {
-    "key": "PT_0360_0254",
+    "key": "Pt_0360_0254",
     "original": "カレンダー",
     "translation": "日历",
     "index": 254
   },
   {
-    "key": "PT_0360_0255",
+    "key": "Pt_0360_0255",
     "original": "つうしんサーチャー",
     "translation": "连接搜索器",
     "index": 255
   },
   {
-    "key": "PT_0360_0256",
+    "key": "Pt_0360_0256",
     "original": "ポケトレカウンター",
     "translation": "宝可追踪计数器",
     "index": 256
   },
   {
-    "key": "PT_0360_0257",
+    "key": "Pt_0360_0257",
     "original": "ポケモンヒストリー",
     "translation": "宝可梦履历",
     "index": 257
   },
   {
-    "key": "PT_0360_0258",
+    "key": "Pt_0360_0258",
     "original": "やめる",
     "translation": "取消",
     "index": 258
   },
   {
-    "key": "PT_0360_0259",
+    "key": "Pt_0360_0259",
     "original": "その１",
     "translation": "其一",
     "index": 259
   },
   {
-    "key": "PT_0360_0260",
+    "key": "Pt_0360_0260",
     "original": "その２",
     "translation": "其二",
     "index": 260
   },
   {
-    "key": "PT_0360_0261",
+    "key": "Pt_0360_0261",
     "original": "その３",
     "translation": "其三",
     "index": 261
   },
   {
-    "key": "PT_0360_0262",
+    "key": "Pt_0360_0262",
     "original": "やめる",
     "translation": "取消",
     "index": 262
   },
   {
-    "key": "PT_0360_0263",
+    "key": "Pt_0360_0263",
     "original": "ダークボール",
     "translation": "黑暗球",
     "index": 263
   },
   {
-    "key": "PT_0360_0264",
+    "key": "Pt_0360_0264",
     "original": "ヒールボール",
     "translation": "治愈球",
     "index": 264
   },
   {
-    "key": "PT_0360_0265",
+    "key": "Pt_0360_0265",
     "original": "クイックボール",
     "translation": "先机球",
     "index": 265
   },
   {
-    "key": "PT_0360_0266",
+    "key": "Pt_0360_0266",
     "original": "やめる",
     "translation": "取消",
     "index": 266
   },
   {
-    "key": "PT_0360_0267",
+    "key": "Pt_0360_0267",
     "original": "ダイブボール",
     "translation": "潜水球",
     "index": 267
   },
   {
-    "key": "PT_0360_0268",
+    "key": "Pt_0360_0268",
     "original": "うちゅうのはじまり",
     "translation": "宇宙的起源",
     "index": 268
   },
   {
-    "key": "PT_0360_0269",
+    "key": "Pt_0360_0269",
     "original": "しんわのポケモン",
     "translation": "神话的宝可梦",
     "index": 269
   },
   {
-    "key": "PT_0360_0270",
+    "key": "Pt_0360_0270",
     "original": "あかいくさり",
     "translation": "红色锁链",
     "index": 270
   },
   {
-    "key": "PT_0360_0271",
+    "key": "Pt_0360_0271",
     "original": "やめる",
     "translation": "取消",
     "index": 271
   },
   {
-    "key": "PT_0360_0272",
+    "key": "Pt_0360_0272",
     "original": "きろくする",
     "translation": "记录",
     "index": 272
   },
   {
-    "key": "PT_0360_0273",
+    "key": "Pt_0360_0273",
     "original": "あかいかけら",
     "translation": "红色碎片",
     "index": 273
   },
   {
-    "key": "PT_0360_0274",
+    "key": "Pt_0360_0274",
     "original": "あおいかけら",
     "translation": "蓝色碎片",
     "index": 274
   },
   {
-    "key": "PT_0360_0275",
+    "key": "Pt_0360_0275",
     "original": "きいろいかけら",
     "translation": "黄色碎片",
     "index": 275
   },
   {
-    "key": "PT_0360_0276",
+    "key": "Pt_0360_0276",
     "original": "みどりのかけら",
     "translation": "绿色碎片",
     "index": 276
   },
   {
-    "key": "PT_0360_0277",
+    "key": "Pt_0360_0277",
     "original": "[0134,0000]こ",
     "translation": "[0134,0000]个",
     "index": 277
   },
   {
-    "key": "PT_0360_0278",
+    "key": "Pt_0360_0278",
     "original": "１こ",
     "translation": "１个",
     "index": 278
   },
   {
-    "key": "PT_0360_0279",
+    "key": "Pt_0360_0279",
     "original": "１０こ",
     "translation": "１０个",
     "index": 279

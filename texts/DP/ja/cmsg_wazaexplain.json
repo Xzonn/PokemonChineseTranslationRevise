@@ -1,414 +1,414 @@
 [
   {
-    "key": "DP_0209_0000",
+    "key": "DP_0196_0000",
     "original": "つぎのターンで",
     "translation": "つぎのターンで",
     "index": 0
   },
   {
-    "key": "DP_0209_0001",
+    "key": "DP_0196_0001",
     "original": "さいしょにえんぎ",
     "translation": "さいしょにえんぎ",
     "index": 1
   },
   {
-    "key": "DP_0209_0002",
+    "key": "DP_0196_0002",
     "original": "つぎのターンで",
     "translation": "つぎのターンで",
     "index": 2
   },
   {
-    "key": "DP_0209_0003",
+    "key": "DP_0196_0003",
     "original": "さいごにえんぎ",
     "translation": "さいごにえんぎ",
     "index": 3
   },
   {
-    "key": "DP_0209_0004",
+    "key": "DP_0196_0004",
     "original": "しんさいんが",
     "translation": "しんさいんが",
     "index": 4
   },
   {
-    "key": "DP_0209_0005",
+    "key": "DP_0196_0005",
     "original": "かさなるごとに＋２",
     "translation": "かさなるごとに＋２",
     "index": 5
   },
   {
-    "key": "DP_0209_0006",
+    "key": "DP_0196_0006",
     "original": "ボルテージが",
     "translation": "ボルテージが",
     "index": 6
   },
   {
-    "key": "DP_0209_0007",
+    "key": "DP_0196_0007",
     "original": "あがると＋２",
     "translation": "あがると＋２",
     "index": 7
   },
   {
-    "key": "DP_0209_0008",
+    "key": "DP_0196_0008",
     "original": "きほんのえんぎ",
     "translation": "きほんのえんぎ",
     "index": 8
   },
   {
-    "key": "DP_0209_0009",
+    "key": "DP_0196_0009",
     "original": " ",
     "translation": " ",
     "index": 9
   },
   {
-    "key": "DP_0209_0010",
+    "key": "DP_0196_0010",
     "original": "しんさいん",
     "translation": "しんさいん",
     "index": 10
   },
   {
-    "key": "DP_0209_0011",
+    "key": "DP_0196_0011",
     "original": "かさならないと＋３",
     "translation": "かさならないと＋３",
     "index": 11
   },
   {
-    "key": "DP_0209_0012",
+    "key": "DP_0196_0012",
     "original": "２ターンれんぞく",
     "translation": "２ターンれんぞく",
     "index": 12
   },
   {
-    "key": "DP_0209_0013",
+    "key": "DP_0196_0013",
     "original": "えんぎできる",
     "translation": "えんぎできる",
     "index": 13
   },
   {
-    "key": "DP_0209_0014",
+    "key": "DP_0196_0014",
     "original": "ボルテージぶんが",
     "translation": "ボルテージぶんが",
     "index": 14
   },
   {
-    "key": "DP_0209_0015",
+    "key": "DP_0196_0015",
     "original": "うわのせされる",
     "translation": "うわのせされる",
     "index": 15
   },
   {
-    "key": "DP_0209_0016",
+    "key": "DP_0196_0016",
     "original": "ぜんいんがじぶんと",
     "translation": "ぜんいんがじぶんと",
     "index": 16
   },
   {
-    "key": "DP_0209_0017",
+    "key": "DP_0196_0017",
     "original": "かさなると＋１５",
     "translation": "かさなると＋１５",
     "index": 17
   },
   {
-    "key": "DP_0209_0018",
+    "key": "DP_0196_0018",
     "original": "ぜんしんさいんの",
     "translation": "ぜんしんさいんの",
     "index": 18
   },
   {
-    "key": "DP_0209_0019",
+    "key": "DP_0196_0019",
     "original": "ボルテージ１つへる",
     "translation": "ボルテージ１つへる",
     "index": 19
   },
   {
-    "key": "DP_0209_0020",
+    "key": "DP_0196_0020",
     "original": "つぎのターンで",
     "translation": "つぎのターンで",
     "index": 20
   },
   {
-    "key": "DP_0209_0021",
+    "key": "DP_0196_0021",
     "original": "ひょうか２ばい",
     "translation": "ひょうか２ばい",
     "index": 21
   },
   {
-    "key": "DP_0209_0022",
+    "key": "DP_0196_0022",
     "original": "じぶんのまえの",
     "translation": "じぶんのまえの",
     "index": 22
   },
   {
-    "key": "DP_0209_0023",
+    "key": "DP_0196_0023",
     "original": "ボルテージもらえる",
     "translation": "ボルテージもらえる",
     "index": 23
   },
   {
-    "key": "DP_0209_0024",
+    "key": "DP_0196_0024",
     "original": "そのターンでは",
     "translation": "そのターンでは",
     "index": 24
   },
   {
-    "key": "DP_0209_0025",
+    "key": "DP_0196_0025",
     "original": "ボルテージふえない",
     "translation": "ボルテージふえない",
     "index": 25
   },
   {
-    "key": "DP_0209_0026",
+    "key": "DP_0196_0026",
     "original": "つぎのターンで",
     "translation": "つぎのターンで",
     "index": 26
   },
   {
-    "key": "DP_0209_0027",
+    "key": "DP_0196_0027",
     "original": "じゅんばんランダム",
     "translation": "じゅんばんランダム",
     "index": 27
   },
   {
-    "key": "DP_0209_0028",
+    "key": "DP_0196_0028",
     "original": "さいごのえんぎで",
     "translation": "さいごのえんぎで",
     "index": 28
   },
   {
-    "key": "DP_0209_0029",
+    "key": "DP_0196_0029",
     "original": "ひょうか２ばい",
     "translation": "ひょうか２ばい",
     "index": 29
   },
   {
-    "key": "DP_0209_0030",
+    "key": "DP_0196_0030",
     "original": "ボルテージひくいと",
     "translation": "ボルテージひくいと",
     "index": 30
   },
   {
-    "key": "DP_0209_0031",
+    "key": "DP_0196_0031",
     "original": "たかいひょうか",
     "translation": "たかいひょうか",
     "index": 31
   },
   {
-    "key": "DP_0209_0032",
+    "key": "DP_0196_0032",
     "original": "いちばんさいしょの",
     "translation": "いちばんさいしょの",
     "index": 32
   },
   {
-    "key": "DP_0209_0033",
+    "key": "DP_0196_0033",
     "original": "えんぎで＋２",
     "translation": "えんぎで＋２",
     "index": 33
   },
   {
-    "key": "DP_0209_0034",
+    "key": "DP_0196_0034",
     "original": "いちばんさいごの",
     "translation": "いちばんさいごの",
     "index": 34
   },
   {
-    "key": "DP_0209_0035",
+    "key": "DP_0196_0035",
     "original": "えんぎで＋２",
     "translation": "えんぎで＋２",
     "index": 35
   },
   {
-    "key": "DP_0209_0036",
+    "key": "DP_0196_0036",
     "original": "そのターンでは",
     "translation": "そのターンでは",
     "index": 36
   },
   {
-    "key": "DP_0209_0037",
+    "key": "DP_0196_0037",
     "original": "ボルテージへらない",
     "translation": "ボルテージへらない",
     "index": 37
   },
   {
-    "key": "DP_0209_0038",
+    "key": "DP_0196_0038",
     "original": "つづけてボルテージ",
     "translation": "つづけてボルテージ",
     "index": 38
   },
   {
-    "key": "DP_0209_0039",
+    "key": "DP_0196_0039",
     "original": "あがると＋３",
     "translation": "あがると＋３",
     "index": 39
   },
   {
-    "key": "DP_0209_0040",
+    "key": "DP_0196_0040",
     "original": "じゅんばんおそいと",
     "translation": "じゅんばんおそいと",
     "index": 40
   },
   {
-    "key": "DP_0209_0041",
+    "key": "DP_0196_0041",
     "original": "たかいひょうか",
     "translation": "たかいひょうか",
     "index": 41
   },
   {
-    "key": "DP_0209_0042",
+    "key": "DP_0196_0042",
     "original": "ボルテージの",
     "translation": "ボルテージの",
     "index": 42
   },
   {
-    "key": "DP_0209_0043",
+    "key": "DP_0196_0043",
     "original": "マックスあとで＋３",
     "translation": "マックスあとで＋３",
     "index": 43
   },
   {
-    "key": "DP_0209_0044",
+    "key": "DP_0196_0044",
     "original": "ひょうかがいちばん",
     "translation": "ひょうかがいちばん",
     "index": 44
   },
   {
-    "key": "DP_0209_0045",
+    "key": "DP_0196_0045",
     "original": "ひくいと＋３",
     "translation": "ひくいと＋３",
     "index": 45
   },
   {
-    "key": "DP_0209_0046",
+    "key": "DP_0196_0046",
     "original": "つぎの ターンで\nさいしょに えんぎを\nすることが できる。",
     "translation": "つぎの ターンで\nさいしょに えんぎを\nすることが できる。",
     "index": 46
   },
   {
-    "key": "DP_0209_0047",
+    "key": "DP_0196_0047",
     "original": "つぎの ターンで\nさいごに えんぎを\nすることが できる。",
     "translation": "つぎの ターンで\nさいごに えんぎを\nすることが できる。",
     "index": 47
   },
   {
-    "key": "DP_0209_0048",
+    "key": "DP_0196_0048",
     "original": "しんさいんが\nかぶるごとに＋２",
     "translation": "しんさいんが\nかぶるごとに＋２",
     "index": 48
   },
   {
-    "key": "DP_0209_0049",
+    "key": "DP_0196_0049",
     "original": "しんさいんの\nボルテージが\nあがったら ＋２。",
     "translation": "しんさいんの\nボルテージが\nあがったら ＋２。",
     "index": 49
   },
   {
-    "key": "DP_0209_0050",
+    "key": "DP_0196_0050",
     "original": "ポケモンの もつ\nわざを つかって\nきほんの えんぎ。",
     "translation": "ポケモンの もつ\nわざを つかって\nきほんの えんぎ。",
     "index": 50
   },
   {
-    "key": "DP_0209_0051",
+    "key": "DP_0196_0051",
     "original": "ほかの ポケモンと\nしんさいんが\nかさならないと ＋３。",
     "translation": "ほかの ポケモンと\nしんさいんが\nかさならないと ＋３。",
     "index": 51
   },
   {
-    "key": "DP_0209_0052",
+    "key": "DP_0196_0052",
     "original": "２かい れんぞく\nおなじ わざで\nえんぎが できる。",
     "translation": "２かい れんぞく\nおなじ わざで\nえんぎが できる。",
     "index": 52
   },
   {
-    "key": "DP_0209_0053",
+    "key": "DP_0196_0053",
     "original": "ボルテージぶんの\nもりあがりが\nうわのせ される。",
     "translation": "ボルテージぶんの\nもりあがりが\nうわのせ される。",
     "index": 53
   },
   {
-    "key": "DP_0209_0054",
+    "key": "DP_0196_0054",
     "original": "すべての ポケモンが\nおなじ しんさいんを\nえらぶと ＋１５される。",
     "translation": "すべての ポケモンが\nおなじ しんさいんを\nえらぶと ＋１５される。",
     "index": 54
   },
   {
-    "key": "DP_0209_0055",
+    "key": "DP_0196_0055",
     "original": "しんさいん ぜんいんの\nボルテージが\n１つずつ へる。",
     "translation": "しんさいん ぜんいんの\nボルテージが\n１つずつ へる。",
     "index": 55
   },
   {
-    "key": "DP_0209_0056",
+    "key": "DP_0196_0056",
     "original": "つぎの ターンで\nひょうかが\n２ばいに なる。",
     "translation": "つぎの ターンで\nひょうかが\n２ばいに なる。",
     "index": 56
   },
   {
-    "key": "DP_0209_0057",
+    "key": "DP_0196_0057",
     "original": "じぶんの まえの\nポケモンの\nボルテージが もらえる。",
     "translation": "じぶんの まえの\nポケモンの\nボルテージが もらえる。",
     "index": 57
   },
   {
-    "key": "DP_0209_0058",
+    "key": "DP_0196_0058",
     "original": "その ターンでは\nボルテージが\nふえなく なる。",
     "translation": "その ターンでは\nボルテージが\nふえなく なる。",
     "index": 58
   },
   {
-    "key": "DP_0209_0059",
+    "key": "DP_0196_0059",
     "original": "つぎの ターンで\nじゅんばんが\nランダムに なる。",
     "translation": "つぎの ターンで\nじゅんばんが\nランダムに なる。",
     "index": 59
   },
   {
-    "key": "DP_0209_0060",
+    "key": "DP_0196_0060",
     "original": "さいごの アピールで\nひょうかが\n２ばいに なる。",
     "translation": "さいごの アピールで\nひょうかが\n２ばいに なる。",
     "index": 60
   },
   {
-    "key": "DP_0209_0061",
+    "key": "DP_0196_0061",
     "original": "ボルテージが\nひくければ ひくいほど\nたかい ひょうかになる。",
     "translation": "ボルテージが\nひくければ ひくいほど\nたかい ひょうかになる。",
     "index": 61
   },
   {
-    "key": "DP_0209_0062",
+    "key": "DP_0196_0062",
     "original": "その ターンで\nいちばん さいしょに\nえんぎをすると ＋２。",
     "translation": "その ターンで\nいちばん さいしょに\nえんぎをすると ＋２。",
     "index": 62
   },
   {
-    "key": "DP_0209_0063",
+    "key": "DP_0196_0063",
     "original": "その ターンで\nいちばん さいごに\nえんぎをすると ＋２。",
     "translation": "その ターンで\nいちばん さいごに\nえんぎをすると ＋２。",
     "index": 63
   },
   {
-    "key": "DP_0209_0064",
+    "key": "DP_0196_0064",
     "original": "その ターンでは\nボルテージが\nへらなく なる。",
     "translation": "その ターンでは\nボルテージが\nへらなく なる。",
     "index": 64
   },
   {
-    "key": "DP_0209_0065",
+    "key": "DP_0196_0065",
     "original": "２ひき れんぞくして\nボルテージが\nあがったら ＋３。",
     "translation": "２ひき れんぞくして\nボルテージが\nあがったら ＋３。",
     "index": 65
   },
   {
-    "key": "DP_0209_0066",
+    "key": "DP_0196_0066",
     "original": "えんぎの じゅんばんが\nおそければ おそいほど\nたかい ひょうかになる。",
     "translation": "えんぎの じゅんばんが\nおそければ おそいほど\nたかい ひょうかになる。",
     "index": 66
   },
   {
-    "key": "DP_0209_0067",
+    "key": "DP_0196_0067",
     "original": "まえの ポケモンの\nボルテージマックスの\nあとだと +３。",
     "translation": "まえの ポケモンの\nボルテージマックスの\nあとだと +３。",
     "index": 67
   },
   {
-    "key": "DP_0209_0068",
+    "key": "DP_0196_0068",
     "original": "じぶんの ポケモンの\nひょうかが いちばん\nひくいと ＋３される。",
     "translation": "じぶんの ポケモンの\nひょうかが いちばん\nひくいと ＋３される。",
     "index": 68
