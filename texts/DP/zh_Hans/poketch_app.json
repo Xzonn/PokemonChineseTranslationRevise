@@ -1,150 +1,150 @@
 [
   {
-    "key": "DP_0297_0000",
+    "key": "DP_0398_0000",
     "original": "デジタルどけい",
     "translation": "数字时钟",
     "index": 0
   },
   {
-    "key": "DP_0297_0001",
+    "key": "DP_0398_0001",
     "original": "けいさんき",
     "translation": "计算器",
     "index": 1
   },
   {
-    "key": "DP_0297_0002",
+    "key": "DP_0398_0002",
     "original": "メモようし",
     "translation": "便签",
     "index": 2
   },
   {
-    "key": "DP_0297_0003",
+    "key": "DP_0398_0003",
     "original": "ほすうカウンター",
     "translation": "步数计",
     "index": 3
   },
   {
-    "key": "DP_0297_0004",
+    "key": "DP_0398_0004",
     "original": "ポケモンリスト",
     "translation": "宝可梦列表",
     "index": 4
   },
   {
-    "key": "DP_0297_0005",
+    "key": "DP_0398_0005",
     "original": "なつきチェッカー",
     "translation": "亲密度检测器",
     "index": 5
   },
   {
-    "key": "DP_0297_0006",
+    "key": "DP_0398_0006",
     "original": "ダウジングマシン",
     "translation": "探宝器",
     "index": 6
   },
   {
-    "key": "DP_0297_0007",
+    "key": "DP_0398_0007",
     "original": "きのみサーチャー",
     "translation": "树果搜索",
     "index": 7
   },
   {
-    "key": "DP_0297_0008",
+    "key": "DP_0398_0008",
     "original": "そだてやチェッカー",
     "translation": "培育屋检测器",
     "index": 8
   },
   {
-    "key": "DP_0297_0009",
+    "key": "DP_0398_0009",
     "original": "ポケモンヒストリー",
     "translation": "宝可梦履历",
     "index": 9
   },
   {
-    "key": "DP_0297_0010",
+    "key": "DP_0398_0010",
     "original": "カウンター",
     "translation": "计数器",
     "index": 10
   },
   {
-    "key": "DP_0297_0011",
+    "key": "DP_0398_0011",
     "original": "アナログどけい",
     "translation": "模拟时钟",
     "index": 11
   },
   {
-    "key": "DP_0297_0012",
+    "key": "DP_0398_0012",
     "original": "マーキングマップ",
     "translation": "标记地图",
     "index": 12
   },
   {
-    "key": "DP_0297_0013",
+    "key": "DP_0398_0013",
     "original": "つうしんサーチャー",
     "translation": "连接搜索器",
     "index": 13
   },
   {
-    "key": "DP_0297_0014",
+    "key": "DP_0398_0014",
     "original": "コイントス",
     "translation": "掷硬币",
     "index": 14
   },
   {
-    "key": "DP_0297_0015",
+    "key": "DP_0398_0015",
     "original": "わざこうかチェッカー",
     "translation": "招式效果检测器",
     "index": 15
   },
   {
-    "key": "DP_0297_0016",
+    "key": "DP_0398_0016",
     "original": "カレンダー",
     "translation": "日历",
     "index": 16
   },
   {
-    "key": "DP_0297_0017",
+    "key": "DP_0398_0017",
     "original": "ドットアート",
     "translation": "像素画",
     "index": 17
   },
   {
-    "key": "DP_0297_0018",
+    "key": "DP_0398_0018",
     "original": "ルーレット",
     "translation": "轮盘",
     "index": 18
   },
   {
-    "key": "DP_0297_0019",
+    "key": "DP_0398_0019",
     "original": "ポケトレカウンター",
     "translation": "宝可追踪计数器",
     "index": 19
   },
   {
-    "key": "DP_0297_0020",
+    "key": "DP_0398_0020",
     "original": "キッチンタイマー",
     "translation": "计时器",
     "index": 20
   },
   {
-    "key": "DP_0297_0021",
+    "key": "DP_0398_0021",
     "original": "カラーチェンジャー",
     "translation": "变色器",
     "index": 21
   },
   {
-    "key": "DP_0297_0022",
+    "key": "DP_0398_0022",
     "original": "あいしょうチェッカー",
     "translation": "契合度检测器",
     "index": 22
   },
   {
-    "key": "DP_0297_0023",
+    "key": "DP_0398_0023",
     "original": "ストップウォッチ",
     "translation": "秒表",
     "index": 23
   },
   {
-    "key": "DP_0297_0024",
+    "key": "DP_0398_0024",
     "original": "アラームどけい",
     "translation": "闹钟",
     "index": 24

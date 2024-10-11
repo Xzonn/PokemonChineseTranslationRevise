@@ -1,486 +1,486 @@
 [
   {
-    "key": "PT_0200_0000",
+    "key": "Pt_0200_0000",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
     "index": 0
   },
   {
-    "key": "PT_0200_0001",
+    "key": "Pt_0200_0001",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
     "index": 1
   },
   {
-    "key": "PT_0200_0002",
+    "key": "Pt_0200_0002",
     "original": "[0135,0000]ＣＰ",
     "translation": "[0135,0000]ＣＰ",
     "index": 2
   },
   {
-    "key": "PT_0200_0003",
+    "key": "Pt_0200_0003",
     "original": "[0135,0000]ＣＰ",
     "translation": "[0135,0000]ＣＰ",
     "index": 3
   },
   {
-    "key": "PT_0200_0004",
+    "key": "Pt_0200_0004",
     "original": "どのポケモンを みるか\nえらんで ください！",
     "translation": "请选择要查看的宝可梦！",
     "index": 4
   },
   {
-    "key": "PT_0200_0005",
+    "key": "Pt_0200_0005",
     "original": "もどる",
     "translation": "返回",
     "index": 5
   },
   {
-    "key": "PT_0200_0006",
+    "key": "Pt_0200_0006",
     "original": "おともだちを まっています！",
     "translation": "朋友在等着你！",
     "index": 6
   },
   {
-    "key": "PT_0200_0007",
+    "key": "Pt_0200_0007",
     "original": "[0103,0000]さんが\n「もどる」を せんたく しました！",
     "translation": "[0103,0000]\n选择了“返回”！",
     "index": 7
   },
   {
-    "key": "PT_0200_0008",
+    "key": "Pt_0200_0008",
     "original": "しらべる",
     "translation": "查看",
     "index": 8
   },
   {
-    "key": "PT_0200_0009",
+    "key": "Pt_0200_0009",
     "original": "レベル",
     "translation": "等级",
     "index": 9
   },
   {
-    "key": "PT_0200_0010",
+    "key": "Pt_0200_0010",
     "original": "じょうほう",
     "translation": "情报",
     "index": 10
   },
   {
-    "key": "PT_0200_0011",
+    "key": "Pt_0200_0011",
     "original": "とじる",
     "translation": "关闭",
     "index": 11
   },
   {
-    "key": "PT_0200_0012",
+    "key": "Pt_0200_0012",
     "original": "ポケモンの すがたを\nみることが できます",
     "translation": "能够查看宝可梦的样子。",
     "index": 12
   },
   {
-    "key": "PT_0200_0013",
+    "key": "Pt_0200_0013",
     "original": "ポケモンの レベルを\nかえることが できます",
     "translation": "能够改变宝可梦的等级。",
     "index": 13
   },
   {
-    "key": "PT_0200_0014",
+    "key": "Pt_0200_0014",
     "original": "あいての じょうほうを\nしることが できます",
     "translation": "能够得知对手的情报。",
     "index": 14
   },
   {
-    "key": "PT_0200_0015",
+    "key": "Pt_0200_0015",
     "original": "えらぶに もどります",
     "translation": "返回选择",
     "index": 15
   },
   {
-    "key": "PT_0200_0016",
+    "key": "Pt_0200_0016",
     "original": "ポケモンの しょうたいが わかります\n[0133,0000]ＣＰを つかいますか？",
     "translation": "查看宝可梦的真面目\n确定使用[0133,0000]ＣＰ吗？",
     "index": 16
   },
   {
-    "key": "PT_0200_0017",
+    "key": "Pt_0200_0017",
     "original": "はい",
     "translation": "是",
     "index": 17
   },
   {
-    "key": "PT_0200_0018",
+    "key": "Pt_0200_0018",
     "original": "いいえ",
     "translation": "否",
     "index": 18
   },
   {
-    "key": "PT_0200_0019",
+    "key": "Pt_0200_0019",
     "original": "ＣＰが たりません！",
     "translation": "ＣＰ不足！",
     "index": 19
   },
   {
-    "key": "PT_0200_0020",
+    "key": "Pt_0200_0020",
     "original": "ポケモンの しょうたいは\n[0100,0000] でした！",
     "translation": "宝可梦的真面目是\n[0100,0000]！",
     "index": 20
   },
   {
-    "key": "PT_0200_0021",
+    "key": "Pt_0200_0021",
     "original": "ポケモンの レベルを かえられます\nどちらに しますか？",
     "translation": "改变宝可梦的等级\n请问选择哪一项？",
     "index": 21
   },
   {
-    "key": "PT_0200_0022",
+    "key": "Pt_0200_0022",
     "original": "レベル＋５",
     "translation": "等级＋５",
     "index": 22
   },
   {
-    "key": "PT_0200_0023",
+    "key": "Pt_0200_0023",
     "original": "レベルー５",
     "translation": "等级ー５",
     "index": 23
   },
   {
-    "key": "PT_0200_0024",
+    "key": "Pt_0200_0024",
     "original": "やめる",
     "translation": "取消",
     "index": 24
   },
   {
-    "key": "PT_0200_0025",
+    "key": "Pt_0200_0025",
     "original": "[0133,0000]ＣＰ かかりますが\nよろしい ですか？",
     "translation": "需要使用[0133,0000]ＣＰ。\n确定吗？",
     "index": 25
   },
   {
-    "key": "PT_0200_0026",
+    "key": "Pt_0200_0026",
     "original": "はい",
     "translation": "是",
     "index": 26
   },
   {
-    "key": "PT_0200_0027",
+    "key": "Pt_0200_0027",
     "original": "いいえ",
     "translation": "否",
     "index": 27
   },
   {
-    "key": "PT_0200_0028",
+    "key": "Pt_0200_0028",
     "original": "ＣＰが たりません！",
     "translation": "ＣＰ不足！",
     "index": 28
   },
   {
-    "key": "PT_0200_0029",
+    "key": "Pt_0200_0029",
     "original": "これいじょう あがりません！",
     "translation": "无法再提升了！",
     "index": 29
   },
   {
-    "key": "PT_0200_0030",
+    "key": "Pt_0200_0030",
     "original": "これいじょう さがりません！",
     "translation": "无法再下降了！",
     "index": 30
   },
   {
-    "key": "PT_0200_0031",
+    "key": "Pt_0200_0031",
     "original": "ポケモンの レベルが\n＋５ されました！",
     "translation": "宝可梦的等级＋５！",
     "index": 31
   },
   {
-    "key": "PT_0200_0032",
+    "key": "Pt_0200_0032",
     "original": "ポケモンの レベルが\nー５ されました！",
     "translation": "宝可梦的等级ー５！",
     "index": 32
   },
   {
-    "key": "PT_0200_0033",
+    "key": "Pt_0200_0033",
     "original": "つよさ",
     "translation": "能力",
     "index": 33
   },
   {
-    "key": "PT_0200_0034",
+    "key": "Pt_0200_0034",
     "original": "わざ",
     "translation": "招式",
     "index": 34
   },
   {
-    "key": "PT_0200_0035",
+    "key": "Pt_0200_0035",
     "original": "ランクアップ",
     "translation": "级别提升",
     "index": 35
   },
   {
-    "key": "PT_0200_0036",
+    "key": "Pt_0200_0036",
     "original": "やめる",
     "translation": "取消",
     "index": 36
   },
   {
-    "key": "PT_0200_0037",
+    "key": "Pt_0200_0037",
     "original": "ポケモンの つよさが わかります",
     "translation": "能够知道宝可梦的等级。",
     "index": 37
   },
   {
-    "key": "PT_0200_0038",
+    "key": "Pt_0200_0038",
     "original": "ポケモンの わざが わかります",
     "translation": "能够知道宝可梦的招式。",
     "index": 38
   },
   {
-    "key": "PT_0200_0039",
+    "key": "Pt_0200_0039",
     "original": "ランクアップで わざの じょうほうを\nかうことが できるように なります",
     "translation": "因为级别的提升\n能够购买对手的招式情报。",
     "index": 39
   },
   {
-    "key": "PT_0200_0040",
+    "key": "Pt_0200_0040",
     "original": "これ いじょう\nランクは あがりません",
     "translation": "级别已无法再提升了。",
     "index": 40
   },
   {
-    "key": "PT_0200_0041",
+    "key": "Pt_0200_0041",
     "original": "なにを するか\nえらぶに もどります",
     "translation": "请选择要做什么。",
     "index": 41
   },
   {
-    "key": "PT_0200_0042",
+    "key": "Pt_0200_0042",
     "original": "じょうほうの ランクが ひくいので\nわざを みることが できません",
     "translation": "情报的级别过低\n无法查看招式情报。",
     "index": 42
   },
   {
-    "key": "PT_0200_0043",
+    "key": "Pt_0200_0043",
     "original": "ポケモンの つよさが わかります\n[0133,0000]ＣＰを つかいますか？",
     "translation": "能够知道宝可梦的能力\n确定使用[0133,0000]ＣＰ吗？",
     "index": 43
   },
   {
-    "key": "PT_0200_0044",
+    "key": "Pt_0200_0044",
     "original": "はい",
     "translation": "是",
     "index": 44
   },
   {
-    "key": "PT_0200_0045",
+    "key": "Pt_0200_0045",
     "original": "いいえ",
     "translation": "否",
     "index": 45
   },
   {
-    "key": "PT_0200_0046",
+    "key": "Pt_0200_0046",
     "original": "ＣＰが たりません！",
     "translation": "ＣＰ不足！",
     "index": 46
   },
   {
-    "key": "PT_0200_0047",
+    "key": "Pt_0200_0047",
     "original": "つよさの じょうほうを かいました！",
     "translation": "买下了能力的情报！",
     "index": 47
   },
   {
-    "key": "PT_0200_0048",
+    "key": "Pt_0200_0048",
     "original": "もちもの",
     "translation": "持有物",
     "index": 48
   },
   {
-    "key": "PT_0200_0049",
+    "key": "Pt_0200_0049",
     "original": "[FF00,0002][0108,0000][FF00,0000]",
     "translation": "[FF00,0002][0108,0000][FF00,0000]",
     "index": 49
   },
   {
-    "key": "PT_0200_0050",
+    "key": "Pt_0200_0050",
     "original": "せいかく",
     "translation": "性格",
     "index": 50
   },
   {
-    "key": "PT_0200_0051",
+    "key": "Pt_0200_0051",
     "original": "[FF00,0002][0107,0000][FF00,0000]",
     "translation": "[FF00,0002][0107,0000][FF00,0000]",
     "index": 51
   },
   {
-    "key": "PT_0200_0052",
+    "key": "Pt_0200_0052",
     "original": "とくせい",
     "translation": "特性",
     "index": 52
   },
   {
-    "key": "PT_0200_0053",
+    "key": "Pt_0200_0053",
     "original": "[FF00,0002][0105,0000][FF00,0000]",
     "translation": "[FF00,0002][0105,0000][FF00,0000]",
     "index": 53
   },
   {
-    "key": "PT_0200_0054",
+    "key": "Pt_0200_0054",
     "original": "こうげき",
     "translation": "攻击",
     "index": 54
   },
   {
-    "key": "PT_0200_0055",
+    "key": "Pt_0200_0055",
     "original": "[FF00,0002][0134,0000][FF00,0000]",
     "translation": "[FF00,0002][0134,0000][FF00,0000]",
     "index": 55
   },
   {
-    "key": "PT_0200_0056",
+    "key": "Pt_0200_0056",
     "original": "ぼうぎょ",
     "translation": "防御",
     "index": 56
   },
   {
-    "key": "PT_0200_0057",
+    "key": "Pt_0200_0057",
     "original": "[FF00,0002][0134,0000][FF00,0000]",
     "translation": "[FF00,0002][0134,0000][FF00,0000]",
     "index": 57
   },
   {
-    "key": "PT_0200_0058",
+    "key": "Pt_0200_0058",
     "original": "とくこう",
     "translation": "特攻",
     "index": 58
   },
   {
-    "key": "PT_0200_0059",
+    "key": "Pt_0200_0059",
     "original": "[FF00,0002][0134,0000][FF00,0000]",
     "translation": "[FF00,0002][0134,0000][FF00,0000]",
     "index": 59
   },
   {
-    "key": "PT_0200_0060",
+    "key": "Pt_0200_0060",
     "original": "とくぼう",
     "translation": "特防",
     "index": 60
   },
   {
-    "key": "PT_0200_0061",
+    "key": "Pt_0200_0061",
     "original": "[FF00,0002][0134,0000][FF00,0000]",
     "translation": "[FF00,0002][0134,0000][FF00,0000]",
     "index": 61
   },
   {
-    "key": "PT_0200_0062",
+    "key": "Pt_0200_0062",
     "original": "すばやさ",
     "translation": "速度",
     "index": 62
   },
   {
-    "key": "PT_0200_0063",
+    "key": "Pt_0200_0063",
     "original": "[FF00,0002][0134,0000][FF00,0000]",
     "translation": "[FF00,0002][0134,0000][FF00,0000]",
     "index": 63
   },
   {
-    "key": "PT_0200_0064",
+    "key": "Pt_0200_0064",
     "original": "㊚",
     "translation": "♂",
     "index": 64
   },
   {
-    "key": "PT_0200_0065",
+    "key": "Pt_0200_0065",
     "original": "㊛",
     "translation": "♀",
     "index": 65
   },
   {
-    "key": "PT_0200_0066",
+    "key": "Pt_0200_0066",
     "original": "もっている わざが わかります\n[0133,0000]ＣＰを つかいますか？",
     "translation": "能知道所持有的招式\n确定使用[0133,0000]ＣＰ吗？",
     "index": 66
   },
   {
-    "key": "PT_0200_0067",
+    "key": "Pt_0200_0067",
     "original": "はい",
     "translation": "是",
     "index": 67
   },
   {
-    "key": "PT_0200_0068",
+    "key": "Pt_0200_0068",
     "original": "いいえ",
     "translation": "否",
     "index": 68
   },
   {
-    "key": "PT_0200_0069",
+    "key": "Pt_0200_0069",
     "original": "ＣＰが たりません！",
     "translation": "ＣＰ不足！",
     "index": 69
   },
   {
-    "key": "PT_0200_0070",
+    "key": "Pt_0200_0070",
     "original": "わざの じょうほうを かいました！",
     "translation": "购买了招式的情报！",
     "index": 70
   },
   {
-    "key": "PT_0200_0071",
+    "key": "Pt_0200_0071",
     "original": "[0106,0000]",
     "translation": "[0106,0000]",
     "index": 71
   },
   {
-    "key": "PT_0200_0072",
+    "key": "Pt_0200_0072",
     "original": "[0106,0001]",
     "translation": "[0106,0001]",
     "index": 72
   },
   {
-    "key": "PT_0200_0073",
+    "key": "Pt_0200_0073",
     "original": "[0106,0002]",
     "translation": "[0106,0002]",
     "index": 73
   },
   {
-    "key": "PT_0200_0074",
+    "key": "Pt_0200_0074",
     "original": "[0106,0003]",
     "translation": "[0106,0003]",
     "index": 74
   },
   {
-    "key": "PT_0200_0075",
+    "key": "Pt_0200_0075",
     "original": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
     "translation": "[FF00,0002][0133,0004][FF00,0000]／[FF00,0002][0133,0005][FF00,0000]",
     "index": 75
   },
   {
-    "key": "PT_0200_0076",
+    "key": "Pt_0200_0076",
     "original": "[0134,0000]ＣＰを つかって\nランクを あげますか？",
     "translation": "要使用[0134,0000]ＣＰ提升\n级别吗？",
     "index": 76
   },
   {
-    "key": "PT_0200_0077",
+    "key": "Pt_0200_0077",
     "original": "はい",
     "translation": "是",
     "index": 77
   },
   {
-    "key": "PT_0200_0078",
+    "key": "Pt_0200_0078",
     "original": "いいえ",
     "translation": "否",
     "index": 78
   },
   {
-    "key": "PT_0200_0079",
+    "key": "Pt_0200_0079",
     "original": "ＣＰが たりません！",
     "translation": "ＣＰ不足！",
     "index": 79
   },
   {
-    "key": "PT_0200_0080",
+    "key": "Pt_0200_0080",
     "original": "[0103,0005]は わざの じょうほうを\nかうことが できるように なりました",
     "translation": "[0103,0005]能够购买招式情报了。",
     "index": 80

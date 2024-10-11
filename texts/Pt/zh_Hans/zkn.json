@@ -1,750 +1,750 @@
 [
   {
-    "key": "PT_0685_0000",
+    "key": "Pt_0685_0000",
     "original": "みつけたかず",
     "translation": "发现数量",
     "index": 0
   },
   {
-    "key": "PT_0685_0001",
+    "key": "Pt_0685_0001",
     "original": "つかまえたかず",
     "translation": "捕获数量",
     "index": 1
   },
   {
-    "key": "PT_0685_0002",
+    "key": "Pt_0685_0002",
     "original": "リストを\nもどす",
     "translation": "原始状态",
     "index": 2
   },
   {
-    "key": "PT_0685_0003",
+    "key": "Pt_0685_0003",
     "original": "リストの\nはじめへ",
     "translation": "图鉴的开头",
     "index": 3
   },
   {
-    "key": "PT_0685_0004",
+    "key": "Pt_0685_0004",
     "original": "リストの\nさいごへ",
     "translation": "图鉴的最后",
     "index": 4
   },
   {
-    "key": "PT_0685_0005",
+    "key": "Pt_0685_0005",
     "original": "ずかんを\nきりかえる",
     "translation": "图鉴切换",
     "index": 5
   },
   {
-    "key": "PT_0685_0006",
+    "key": "Pt_0685_0006",
     "original": "ポケモンを\nならべる",
     "translation": "分类宝可梦",
     "index": 6
   },
   {
-    "key": "PT_0685_0007",
+    "key": "Pt_0685_0007",
     "original": "ポケモンを\nさがす",
     "translation": "查找宝可梦",
     "index": 7
   },
   {
-    "key": "PT_0685_0008",
+    "key": "Pt_0685_0008",
     "original": "ポケモン",
     "translation": "宝可梦",
     "index": 8
   },
   {
-    "key": "PT_0685_0009",
+    "key": "Pt_0685_0009",
     "original": "たかさ",
     "translation": "身高",
     "index": 9
   },
   {
-    "key": "PT_0685_0010",
+    "key": "Pt_0685_0010",
     "original": "おもさ",
     "translation": "体重",
     "index": 10
   },
   {
-    "key": "PT_0685_0011",
+    "key": "Pt_0685_0011",
     "original": "ｍ",
     "translation": "ｍ",
     "index": 11
   },
   {
-    "key": "PT_0685_0012",
+    "key": "Pt_0685_0012",
     "original": "ｋｇ",
     "translation": "ｋｇ",
     "index": 12
   },
   {
-    "key": "PT_0685_0013",
+    "key": "Pt_0685_0013",
     "original": "オスのすがた",
     "translation": "雄性的样子",
     "index": 13
   },
   {
-    "key": "PT_0685_0014",
+    "key": "Pt_0685_0014",
     "original": "メスのすがた",
     "translation": "雌性的样子",
     "index": 14
   },
   {
-    "key": "PT_0685_0015",
+    "key": "Pt_0685_0015",
     "original": "にしのうみ",
     "translation": "西海",
     "index": 15
   },
   {
-    "key": "PT_0685_0016",
+    "key": "Pt_0685_0016",
     "original": "ひがしのうみ",
     "translation": "东海",
     "index": 16
   },
   {
-    "key": "PT_0685_0017",
+    "key": "Pt_0685_0017",
     "original": "くさきのミノ",
     "translation": "草木蓑衣",
     "index": 17
   },
   {
-    "key": "PT_0685_0018",
+    "key": "Pt_0685_0018",
     "original": "すなちのミノ",
     "translation": "砂土蓑衣",
     "index": 18
   },
   {
-    "key": "PT_0685_0019",
+    "key": "Pt_0685_0019",
     "original": "ゴミのミノ",
     "translation": "垃圾蓑衣",
     "index": 19
   },
   {
-    "key": "PT_0685_0020",
+    "key": "Pt_0685_0020",
     "original": "あるすがた",
     "translation": "某种样子",
     "index": 20
   },
   {
-    "key": "PT_0685_0021",
+    "key": "Pt_0685_0021",
     "original": " ",
     "translation": "　",
     "index": 21
   },
   {
-    "key": "PT_0685_0022",
+    "key": "Pt_0685_0022",
     "original": "えいごのずかん",
     "translation": "英语图鉴",
     "index": 22
   },
   {
-    "key": "PT_0685_0023",
+    "key": "Pt_0685_0023",
     "original": "フランスごのずかん",
     "translation": "法语图鉴",
     "index": 23
   },
   {
-    "key": "PT_0685_0024",
+    "key": "Pt_0685_0024",
     "original": "ドイツごのずかん",
     "translation": "德语图鉴",
     "index": 24
   },
   {
-    "key": "PT_0685_0025",
+    "key": "Pt_0685_0025",
     "original": "イタリアごのずかん",
     "translation": "意大利语图鉴",
     "index": 25
   },
   {
-    "key": "PT_0685_0026",
+    "key": "Pt_0685_0026",
     "original": "スペインごのずかん",
     "translation": "西班牙语图鉴",
     "index": 26
   },
   {
-    "key": "PT_0685_0027",
+    "key": "Pt_0685_0027",
     "original": "Pokémon",
     "translation": "Pokémon",
     "index": 27
   },
   {
-    "key": "PT_0685_0028",
+    "key": "Pt_0685_0028",
     "original": "ページ",
     "translation": "页",
     "index": 28
   },
   {
-    "key": "PT_0685_0029",
+    "key": "Pt_0685_0029",
     "original": "ずかんをみる",
     "translation": "查看图鉴",
     "index": 29
   },
   {
-    "key": "PT_0685_0030",
+    "key": "Pt_0685_0030",
     "original": "ぶんぷ",
     "translation": "分布",
     "index": 30
   },
   {
-    "key": "PT_0685_0031",
+    "key": "Pt_0685_0031",
     "original": "なきごえ",
     "translation": "叫声",
     "index": 31
   },
   {
-    "key": "PT_0685_0032",
+    "key": "Pt_0685_0032",
     "original": "おおきさ",
     "translation": "大小",
     "index": 32
   },
   {
-    "key": "PT_0685_0033",
+    "key": "Pt_0685_0033",
     "original": "ＮＥＸＴ",
     "translation": "ＮＥＸＴ",
     "index": 33
   },
   {
-    "key": "PT_0685_0034",
+    "key": "Pt_0685_0034",
     "original": "ＢＡＣＫ",
     "translation": "ＢＡＣＫ",
     "index": 34
   },
   {
-    "key": "PT_0685_0035",
+    "key": "Pt_0685_0035",
     "original": "せいそくち ふめい",
     "translation": "栖息地不明",
     "index": 35
   },
   {
-    "key": "PT_0685_0036",
+    "key": "Pt_0685_0036",
     "original": "あさ",
     "translation": "早上",
     "index": 36
   },
   {
-    "key": "PT_0685_0037",
+    "key": "Pt_0685_0037",
     "original": "ひる",
     "translation": "白天",
     "index": 37
   },
   {
-    "key": "PT_0685_0038",
+    "key": "Pt_0685_0038",
     "original": "よる",
     "translation": "晚上",
     "index": 38
   },
   {
-    "key": "PT_0685_0039",
+    "key": "Pt_0685_0039",
     "original": "よる",
     "translation": "晚上",
     "index": 39
   },
   {
-    "key": "PT_0685_0040",
+    "key": "Pt_0685_0040",
     "original": "しんや",
     "translation": "深夜",
     "index": 40
   },
   {
-    "key": "PT_0685_0041",
+    "key": "Pt_0685_0041",
     "original": "コーラス",
     "translation": "　合声",
     "index": 41
   },
   {
-    "key": "PT_0685_0042",
+    "key": "Pt_0685_0042",
     "original": "パン",
     "translation": "泛声",
     "index": 42
   },
   {
-    "key": "PT_0685_0043",
+    "key": "Pt_0685_0043",
     "original": "たかさくらべ",
     "translation": "　　比身高　　",
     "index": 43
   },
   {
-    "key": "PT_0685_0044",
+    "key": "Pt_0685_0044",
     "original": "おもさくらべ",
     "translation": "　　比体重　　",
     "index": 44
   },
   {
-    "key": "PT_0685_0045",
+    "key": "Pt_0685_0045",
     "original": "たかさくらべ",
     "translation": "　　比身高　　",
     "index": 45
   },
   {
-    "key": "PT_0685_0046",
+    "key": "Pt_0685_0046",
     "original": "おもさくらべ",
     "translation": "　　比体重　　",
     "index": 46
   },
   {
-    "key": "PT_0685_0047",
+    "key": "Pt_0685_0047",
     "original": "なまえ",
     "translation": " 名字",
     "index": 47
   },
   {
-    "key": "PT_0685_0048",
+    "key": "Pt_0685_0048",
     "original": "タイプ",
     "translation": " 属性",
     "index": 48
   },
   {
-    "key": "PT_0685_0049",
+    "key": "Pt_0685_0049",
     "original": "かたち",
     "translation": " 外形",
     "index": 49
   },
   {
-    "key": "PT_0685_0050",
+    "key": "Pt_0685_0050",
     "original": "ならび",
     "translation": " 排序",
     "index": 50
   },
   {
-    "key": "PT_0685_0051",
+    "key": "Pt_0685_0051",
     "original": "けってい",
     "translation": " 确定",
     "index": 51
   },
   {
-    "key": "PT_0685_0052",
+    "key": "Pt_0685_0052",
     "original": "やめる",
     "translation": "取消",
     "index": 52
   },
   {
-    "key": "PT_0685_0053",
+    "key": "Pt_0685_0053",
     "original": "ー",
     "translation": "ー",
     "index": 53
   },
   {
-    "key": "PT_0685_0054",
+    "key": "Pt_0685_0054",
     "original": "あいうえお",
     "translation": "　ＡＢＣ",
     "index": 54
   },
   {
-    "key": "PT_0685_0055",
+    "key": "Pt_0685_0055",
     "original": "かきくけこ",
     "translation": "　ＤＥＦ",
     "index": 55
   },
   {
-    "key": "PT_0685_0056",
+    "key": "Pt_0685_0056",
     "original": "さしすせそ",
     "translation": "　ＧＨＩ",
     "index": 56
   },
   {
-    "key": "PT_0685_0057",
+    "key": "Pt_0685_0057",
     "original": "たちつてと",
     "translation": "　ＪＫＬ",
     "index": 57
   },
   {
-    "key": "PT_0685_0058",
+    "key": "Pt_0685_0058",
     "original": "なにぬねの",
     "translation": "　ＭＮＯ",
     "index": 58
   },
   {
-    "key": "PT_0685_0059",
+    "key": "Pt_0685_0059",
     "original": "はひふへほ",
     "translation": "　ＰＱＲ",
     "index": 59
   },
   {
-    "key": "PT_0685_0060",
+    "key": "Pt_0685_0060",
     "original": "まみむめも",
     "translation": "　ＳＴＵ",
     "index": 60
   },
   {
-    "key": "PT_0685_0061",
+    "key": "Pt_0685_0061",
     "original": "やゆよ わ",
     "translation": "　 ＹＺ",
     "index": 61
   },
   {
-    "key": "PT_0685_0062",
+    "key": "Pt_0685_0062",
     "original": "らりるれろ",
     "translation": "　ＶＷＸ",
     "index": 62
   },
   {
-    "key": "PT_0685_0063",
+    "key": "Pt_0685_0063",
     "original": "わ",
     "translation": "わ",
     "index": 63
   },
   {
-    "key": "PT_0685_0064",
+    "key": "Pt_0685_0064",
     "original": "ノーマル",
     "translation": "　一般",
     "index": 64
   },
   {
-    "key": "PT_0685_0065",
+    "key": "Pt_0685_0065",
     "original": "ほのお",
     "translation": "　火",
     "index": 65
   },
   {
-    "key": "PT_0685_0066",
+    "key": "Pt_0685_0066",
     "original": "みず",
     "translation": " 水",
     "index": 66
   },
   {
-    "key": "PT_0685_0067",
+    "key": "Pt_0685_0067",
     "original": "でんき",
     "translation": "　电",
     "index": 67
   },
   {
-    "key": "PT_0685_0068",
+    "key": "Pt_0685_0068",
     "original": "くさ",
     "translation": " 草",
     "index": 68
   },
   {
-    "key": "PT_0685_0069",
+    "key": "Pt_0685_0069",
     "original": "こおり",
     "translation": "　冰",
     "index": 69
   },
   {
-    "key": "PT_0685_0070",
+    "key": "Pt_0685_0070",
     "original": "かくとう",
     "translation": "　格斗",
     "index": 70
   },
   {
-    "key": "PT_0685_0071",
+    "key": "Pt_0685_0071",
     "original": "どく",
     "translation": " 毒",
     "index": 71
   },
   {
-    "key": "PT_0685_0072",
+    "key": "Pt_0685_0072",
     "original": "じめん",
     "translation": " 地面",
     "index": 72
   },
   {
-    "key": "PT_0685_0073",
+    "key": "Pt_0685_0073",
     "original": "ひこう",
     "translation": " 飞行",
     "index": 73
   },
   {
-    "key": "PT_0685_0074",
+    "key": "Pt_0685_0074",
     "original": "エスパー",
     "translation": " 超能力",
     "index": 74
   },
   {
-    "key": "PT_0685_0075",
+    "key": "Pt_0685_0075",
     "original": "むし",
     "translation": " 虫",
     "index": 75
   },
   {
-    "key": "PT_0685_0076",
+    "key": "Pt_0685_0076",
     "original": "いわ",
     "translation": "岩石",
     "index": 76
   },
   {
-    "key": "PT_0685_0077",
+    "key": "Pt_0685_0077",
     "original": "ゴースト",
     "translation": "　幽灵",
     "index": 77
   },
   {
-    "key": "PT_0685_0078",
+    "key": "Pt_0685_0078",
     "original": "ドラゴン",
     "translation": "　 龙",
     "index": 78
   },
   {
-    "key": "PT_0685_0079",
+    "key": "Pt_0685_0079",
     "original": "あく",
     "translation": " 恶",
     "index": 79
   },
   {
-    "key": "PT_0685_0080",
+    "key": "Pt_0685_0080",
     "original": "はがね",
     "translation": "　钢",
     "index": 80
   },
   {
-    "key": "PT_0685_0081",
+    "key": "Pt_0685_0081",
     "original": "ばんごう",
     "translation": "　编号",
     "index": 81
   },
   {
-    "key": "PT_0685_0082",
+    "key": "Pt_0685_0082",
     "original": "ごじゅうおん",
     "translation": "　　拼音",
     "index": 82
   },
   {
-    "key": "PT_0685_0083",
+    "key": "Pt_0685_0083",
     "original": "おもい",
     "translation": "　重",
     "index": 83
   },
   {
-    "key": "PT_0685_0084",
+    "key": "Pt_0685_0084",
     "original": "かるい",
     "translation": "　轻",
     "index": 84
   },
   {
-    "key": "PT_0685_0085",
+    "key": "Pt_0685_0085",
     "original": "たかい",
     "translation": "　高",
     "index": 85
   },
   {
-    "key": "PT_0685_0086",
+    "key": "Pt_0685_0086",
     "original": "ひくい",
     "translation": "　矮",
     "index": 86
   },
   {
-    "key": "PT_0685_0087",
+    "key": "Pt_0685_0087",
     "original": "なまえの さいしょの もじを\nしてい します。",
     "translation": "按照名字的拼音排序。",
     "index": 87
   },
   {
-    "key": "PT_0685_0088",
+    "key": "Pt_0685_0088",
     "original": "タイプを してい します。",
     "translation": "按照属性排序。",
     "index": 88
   },
   {
-    "key": "PT_0685_0089",
+    "key": "Pt_0685_0089",
     "original": "からだの かたちを してい します。",
     "translation": "按照体形排序。",
     "index": 89
   },
   {
-    "key": "PT_0685_0090",
+    "key": "Pt_0685_0090",
     "original": "ずかんの ならびを してい します。",
     "translation": "按照图鉴类别排序。",
     "index": 90
   },
   {
-    "key": "PT_0685_0091",
+    "key": "Pt_0685_0091",
     "original": "じょうけんに あう ポケモンを\nさがします。",
     "translation": "查找符合条件的宝可梦。",
     "index": 91
   },
   {
-    "key": "PT_0685_0092",
+    "key": "Pt_0685_0092",
     "original": "けんさくを ちゅうし します。",
     "translation": "查找中止。",
     "index": 92
   },
   {
-    "key": "PT_0685_0093",
+    "key": "Pt_0685_0093",
     "original": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
     "translation": "找不到符合条件的宝可梦…",
     "index": 93
   },
   {
-    "key": "PT_0685_0094",
+    "key": "Pt_0685_0094",
     "original": "けんさくちゅう",
     "translation": "查找中",
     "index": 94
   },
   {
-    "key": "PT_0685_0095",
+    "key": "Pt_0685_0095",
     "original": "１．４５",
     "translation": "１．４５",
     "index": 95
   },
   {
-    "key": "PT_0685_0096",
+    "key": "Pt_0685_0096",
     "original": "１．４０",
     "translation": "１．４０",
     "index": 96
   },
   {
-    "key": "PT_0685_0097",
+    "key": "Pt_0685_0097",
     "original": "３８．０",
     "translation": "３８．０",
     "index": 97
   },
   {
-    "key": "PT_0685_0098",
+    "key": "Pt_0685_0098",
     "original": "３４．０",
     "translation": "３４．０",
     "index": 98
   },
   {
-    "key": "PT_0685_0099",
+    "key": "Pt_0685_0099",
     "original": "ーーーーー",
     "translation": "ーーーーー",
     "index": 99
   },
   {
-    "key": "PT_0685_0100",
+    "key": "Pt_0685_0100",
     "original": "ーーー",
     "translation": "ーーー",
     "index": 100
   },
   {
-    "key": "PT_0685_0101",
+    "key": "Pt_0685_0101",
     "original": "べつのすがたをみる",
     "translation": "　　 查看其他样子",
     "index": 101
   },
   {
-    "key": "PT_0685_0102",
+    "key": "Pt_0685_0102",
     "original": "せつめい",
     "translation": "说明",
     "index": 102
   },
   {
-    "key": "PT_0685_0103",
+    "key": "Pt_0685_0103",
     "original": "ぶんぷ",
     "translation": "分布",
     "index": 103
   },
   {
-    "key": "PT_0685_0104",
+    "key": "Pt_0685_0104",
     "original": "なきごえ",
     "translation": "叫声",
     "index": 104
   },
   {
-    "key": "PT_0685_0105",
+    "key": "Pt_0685_0105",
     "original": "おおきさ",
     "translation": "大小",
     "index": 105
   },
   {
-    "key": "PT_0685_0106",
+    "key": "Pt_0685_0106",
     "original": "すがた",
     "translation": "样子",
     "index": 106
   },
   {
-    "key": "PT_0685_0107",
+    "key": "Pt_0685_0107",
     "original": "おわる",
     "translation": "结束",
     "index": 107
   },
   {
-    "key": "PT_0685_0108",
+    "key": "Pt_0685_0108",
     "original": "もどる",
     "translation": "返回",
     "index": 108
   },
   {
-    "key": "PT_0685_0109",
+    "key": "Pt_0685_0109",
     "original": "みつかったかず",
     "translation": "发现数量",
     "index": 109
   },
   {
-    "key": "PT_0685_0110",
+    "key": "Pt_0685_0110",
     "original": "ポケモンずかんの とうろく かんりょう！",
     "translation": "宝可梦图鉴登陆完成！",
     "index": 110
   },
   {
-    "key": "PT_0685_0111",
+    "key": "Pt_0685_0111",
     "original": "ノーマルフォルム",
     "translation": "普通形态",
     "index": 111
   },
   {
-    "key": "PT_0685_0112",
+    "key": "Pt_0685_0112",
     "original": "アタックフォルム",
     "translation": "攻击形态",
     "index": 112
   },
   {
-    "key": "PT_0685_0113",
+    "key": "Pt_0685_0113",
     "original": "ディフェンスフォルム",
     "translation": "防御形态",
     "index": 113
   },
   {
-    "key": "PT_0685_0114",
+    "key": "Pt_0685_0114",
     "original": "スピードフォルム",
     "translation": "速度形态",
     "index": 114
   },
   {
-    "key": "PT_0685_0115",
+    "key": "Pt_0685_0115",
     "original": "ランドフォルム",
     "translation": "陆上形态",
     "index": 115
   },
   {
-    "key": "PT_0685_0116",
+    "key": "Pt_0685_0116",
     "original": "スカイフォルム",
     "translation": "天空形态",
     "index": 116
   },
   {
-    "key": "PT_0685_0117",
+    "key": "Pt_0685_0117",
     "original": "アナザーフォルム",
     "translation": "别种形态",
     "index": 117
   },
   {
-    "key": "PT_0685_0118",
+    "key": "Pt_0685_0118",
     "original": "オリジンフォルム",
     "translation": "起源形态",
     "index": 118
   },
   {
-    "key": "PT_0685_0119",
+    "key": "Pt_0685_0119",
     "original": "ロトム",
     "translation": "洛托姆",
     "index": 119
   },
   {
-    "key": "PT_0685_0120",
+    "key": "Pt_0685_0120",
     "original": "ヒートロトム",
     "translation": "加热洛托姆",
     "index": 120
   },
   {
-    "key": "PT_0685_0121",
+    "key": "Pt_0685_0121",
     "original": "ウォッシュロトム",
     "translation": "清洗洛托姆",
     "index": 121
   },
   {
-    "key": "PT_0685_0122",
+    "key": "Pt_0685_0122",
     "original": "フロストロトム",
     "translation": "结冰洛托姆",
     "index": 122
   },
   {
-    "key": "PT_0685_0123",
+    "key": "Pt_0685_0123",
     "original": "スピンロトム",
     "translation": "旋转洛托姆",
     "index": 123
   },
   {
-    "key": "PT_0685_0124",
+    "key": "Pt_0685_0124",
     "original": "カットロトム",
     "translation": "切割洛托姆",
     "index": 124

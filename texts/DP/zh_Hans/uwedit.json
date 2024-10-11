@@ -1,150 +1,150 @@
 [
   {
-    "key": "DP_0626_0000",
+    "key": "DP_0565_0000",
     "original": "もようがえ",
     "translation": "变换模样",
     "index": 0
   },
   {
-    "key": "DP_0626_0001",
+    "key": "DP_0565_0001",
     "original": "グッズをおく",
     "translation": "放置物品",
     "index": 1
   },
   {
-    "key": "DP_0626_0002",
+    "key": "DP_0565_0002",
     "original": "グッズをもどす",
     "translation": "收起物品",
     "index": 2
   },
   {
-    "key": "DP_0626_0003",
+    "key": "DP_0565_0003",
     "original": "グッズのいどう",
     "translation": "物品移动",
     "index": 3
   },
   {
-    "key": "DP_0626_0004",
+    "key": "DP_0565_0004",
     "original": "やめる",
     "translation": "取消",
     "index": 4
   },
   {
-    "key": "DP_0626_0005",
+    "key": "DP_0565_0005",
     "original": "パソコンに あずけてある\nグッズを おきます",
     "translation": "放置寄存在电脑中的物品。",
     "index": 5
   },
   {
-    "key": "DP_0626_0006",
+    "key": "DP_0565_0006",
     "original": "きちに おいてある グッズを\nパソコンに もどします",
     "translation": "将放置在基地里的物品\n放回电脑。",
     "index": 6
   },
   {
-    "key": "DP_0626_0007",
+    "key": "DP_0565_0007",
     "original": "きちに おいてある グッズを\nいどうさせます",
     "translation": "将放置在基地里的物品\n移动。",
     "index": 7
   },
   {
-    "key": "DP_0626_0008",
+    "key": "DP_0565_0008",
     "original": "もようがえを やめます",
     "translation": "取消变换模样",
     "index": 8
   },
   {
-    "key": "DP_0626_0009",
+    "key": "DP_0565_0009",
     "original": "おいたグッズ",
     "translation": "放置的物品",
     "index": 9
   },
   {
-    "key": "DP_0626_0010",
+    "key": "DP_0565_0010",
     "original": "[0133,0000]／[0133,0001]",
     "translation": "[0133,0000]／[0133,0001]",
     "index": 10
   },
   {
-    "key": "DP_0626_0011",
+    "key": "DP_0565_0011",
     "original": "[010A,0000] を せっちした！",
     "translation": "已经安装了[010A,0000]！",
     "index": 11
   },
   {
-    "key": "DP_0626_0012",
+    "key": "DP_0565_0012",
     "original": "その ばしょには おけません",
     "translation": "不能放在那里。",
     "index": 12
   },
   {
-    "key": "DP_0626_0013",
+    "key": "DP_0565_0013",
     "original": "[010A,0000] を\nパソコンに もどした",
     "translation": "将[010A,0000]收回\n电脑里了。",
     "index": 13
   },
   {
-    "key": "DP_0626_0014",
+    "key": "DP_0565_0014",
     "original": "いわを かたづけた！",
     "translation": "整理了石头！",
     "index": 14
   },
   {
-    "key": "DP_0626_0015",
+    "key": "DP_0565_0015",
     "original": "おおきないわ を かたづける ことは\nできません",
     "translation": "大的石头\n无法清理。",
     "index": 15
   },
   {
-    "key": "DP_0626_0016",
+    "key": "DP_0565_0016",
     "original": "おおきないわ を いどうさせることは\nできません",
     "translation": "大的石头\n无法移动。",
     "index": 16
   },
   {
-    "key": "DP_0626_0017",
+    "key": "DP_0565_0017",
     "original": "あと [0133,0000]こ\nかたづけられ ます",
     "translation": "还有[0133,0000]个要清理。",
     "index": 17
   },
   {
-    "key": "DP_0626_0018",
+    "key": "DP_0565_0018",
     "original": "これいじょう おおきないわ を\nかたづけることは できません",
     "translation": "不能清理比这更大的石头了。",
     "index": 18
   },
   {
-    "key": "DP_0626_0019",
+    "key": "DP_0565_0019",
     "original": "パソコンのなかに グッズが ありません",
     "translation": "电脑里面没有物品。",
     "index": 19
   },
   {
-    "key": "DP_0626_0020",
+    "key": "DP_0565_0020",
     "original": "これいじょう グッズは おけません",
     "translation": "不能再放入更多的物品了。",
     "index": 20
   },
   {
-    "key": "DP_0626_0021",
+    "key": "DP_0565_0021",
     "original": "そのグッズは もう おかれています",
     "translation": "那物品已经放置了。",
     "index": 21
   },
   {
-    "key": "DP_0626_0022",
+    "key": "DP_0565_0022",
     "original": "パソコンは もどせません",
     "translation": "电脑不能收起。",
     "index": 22
   },
   {
-    "key": "DP_0626_0023",
+    "key": "DP_0565_0023",
     "original": "パソコンは いどう できません",
     "translation": "电脑不能移动。",
     "index": 23
   },
   {
-    "key": "DP_0626_0024",
+    "key": "DP_0565_0024",
     "original": "もどります",
     "translation": "返回",
     "index": 24

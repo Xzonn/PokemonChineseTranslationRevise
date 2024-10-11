@@ -1,642 +1,642 @@
 [
   {
-    "key": "DP_0280_0000",
+    "key": "DP_0382_0000",
     "original": "こんにちは",
     "translation": "こんにちは",
     "index": 0
   },
   {
-    "key": "DP_0280_0001",
+    "key": "DP_0382_0001",
     "original": "hello",
     "translation": "hello",
     "index": 1
   },
   {
-    "key": "DP_0280_0002",
+    "key": "DP_0382_0002",
     "original": "bonjour",
     "translation": "bonjour",
     "index": 2
   },
   {
-    "key": "DP_0280_0003",
+    "key": "DP_0382_0003",
     "original": "ciao",
     "translation": "ciao",
     "index": 3
   },
   {
-    "key": "DP_0280_0004",
+    "key": "DP_0382_0004",
     "original": "hallo",
     "translation": "hallo",
     "index": 4
   },
   {
-    "key": "DP_0280_0005",
+    "key": "DP_0382_0005",
     "original": "hola",
     "translation": "hola",
     "index": 5
   },
   {
-    "key": "DP_0280_0006",
+    "key": "DP_0382_0006",
     "original": "あーあ",
     "translation": "あーあ",
     "index": 6
   },
   {
-    "key": "DP_0280_0007",
+    "key": "DP_0382_0007",
     "original": "あーん",
     "translation": "あーん",
     "index": 7
   },
   {
-    "key": "DP_0280_0008",
+    "key": "DP_0382_0008",
     "original": "あはは",
     "translation": "あはは",
     "index": 8
   },
   {
-    "key": "DP_0280_0009",
+    "key": "DP_0382_0009",
     "original": "あら",
     "translation": "あら",
     "index": 9
   },
   {
-    "key": "DP_0280_0010",
+    "key": "DP_0382_0010",
     "original": "ありがとう",
     "translation": "ありがとう",
     "index": 10
   },
   {
-    "key": "DP_0280_0011",
+    "key": "DP_0382_0011",
     "original": "いいよ",
     "translation": "いいよ",
     "index": 11
   },
   {
-    "key": "DP_0280_0012",
+    "key": "DP_0382_0012",
     "original": "いえ",
     "translation": "いえ",
     "index": 12
   },
   {
-    "key": "DP_0280_0013",
+    "key": "DP_0382_0013",
     "original": "イエス",
     "translation": "イエス",
     "index": 13
   },
   {
-    "key": "DP_0280_0014",
+    "key": "DP_0382_0014",
     "original": "いくぜ",
     "translation": "いくぜ",
     "index": 14
   },
   {
-    "key": "DP_0280_0015",
+    "key": "DP_0382_0015",
     "original": "いくよ",
     "translation": "いくよ",
     "index": 15
   },
   {
-    "key": "DP_0280_0016",
+    "key": "DP_0382_0016",
     "original": "いくわよ",
     "translation": "いくわよ",
     "index": 16
   },
   {
-    "key": "DP_0280_0017",
+    "key": "DP_0382_0017",
     "original": "いやー",
     "translation": "いやー",
     "index": 17
   },
   {
-    "key": "DP_0280_0018",
+    "key": "DP_0382_0018",
     "original": "いらっしゃい",
     "translation": "いらっしゃい",
     "index": 18
   },
   {
-    "key": "DP_0280_0019",
+    "key": "DP_0382_0019",
     "original": "うう",
     "translation": "うう",
     "index": 19
   },
   {
-    "key": "DP_0280_0020",
+    "key": "DP_0382_0020",
     "original": "ううん",
     "translation": "ううん",
     "index": 20
   },
   {
-    "key": "DP_0280_0021",
+    "key": "DP_0382_0021",
     "original": "うーん",
     "translation": "うーん",
     "index": 21
   },
   {
-    "key": "DP_0280_0022",
+    "key": "DP_0382_0022",
     "original": "うおー",
     "translation": "うおー",
     "index": 22
   },
   {
-    "key": "DP_0280_0023",
+    "key": "DP_0382_0023",
     "original": "うおりゃー",
     "translation": "うおりゃー",
     "index": 23
   },
   {
-    "key": "DP_0280_0024",
+    "key": "DP_0382_0024",
     "original": "うひょー",
     "translation": "うひょー",
     "index": 24
   },
   {
-    "key": "DP_0280_0025",
+    "key": "DP_0382_0025",
     "original": "うふふ",
     "translation": "うふふ",
     "index": 25
   },
   {
-    "key": "DP_0280_0026",
+    "key": "DP_0382_0026",
     "original": "うふん",
     "translation": "うふん",
     "index": 26
   },
   {
-    "key": "DP_0280_0027",
+    "key": "DP_0382_0027",
     "original": "うわー",
     "translation": "うわー",
     "index": 27
   },
   {
-    "key": "DP_0280_0028",
+    "key": "DP_0382_0028",
     "original": "うわーん",
     "translation": "うわーん",
     "index": 28
   },
   {
-    "key": "DP_0280_0029",
+    "key": "DP_0382_0029",
     "original": "うん",
     "translation": "うん",
     "index": 29
   },
   {
-    "key": "DP_0280_0030",
+    "key": "DP_0382_0030",
     "original": "ええ",
     "translation": "ええ",
     "index": 30
   },
   {
-    "key": "DP_0280_0031",
+    "key": "DP_0382_0031",
     "original": "えー",
     "translation": "えー",
     "index": 31
   },
   {
-    "key": "DP_0280_0032",
+    "key": "DP_0382_0032",
     "original": "えーん",
     "translation": "えーん",
     "index": 32
   },
   {
-    "key": "DP_0280_0033",
+    "key": "DP_0382_0033",
     "original": "えへへ",
     "translation": "えへへ",
     "index": 33
   },
   {
-    "key": "DP_0280_0034",
+    "key": "DP_0382_0034",
     "original": "おい",
     "translation": "おい",
     "index": 34
   },
   {
-    "key": "DP_0280_0035",
+    "key": "DP_0382_0035",
     "original": "おお",
     "translation": "おお",
     "index": 35
   },
   {
-    "key": "DP_0280_0036",
+    "key": "DP_0382_0036",
     "original": "オー",
     "translation": "オー",
     "index": 36
   },
   {
-    "key": "DP_0280_0037",
+    "key": "DP_0382_0037",
     "original": "おーい",
     "translation": "おーい",
     "index": 37
   },
   {
-    "key": "DP_0280_0038",
+    "key": "DP_0382_0038",
     "original": "おっす",
     "translation": "おっす",
     "index": 38
   },
   {
-    "key": "DP_0280_0039",
+    "key": "DP_0382_0039",
     "original": "おっと",
     "translation": "おっと",
     "index": 39
   },
   {
-    "key": "DP_0280_0040",
+    "key": "DP_0382_0040",
     "original": "おめでとう",
     "translation": "おめでとう",
     "index": 40
   },
   {
-    "key": "DP_0280_0041",
+    "key": "DP_0382_0041",
     "original": "がーん",
     "translation": "がーん",
     "index": 41
   },
   {
-    "key": "DP_0280_0042",
+    "key": "DP_0382_0042",
     "original": "キャー",
     "translation": "キャー",
     "index": 42
   },
   {
-    "key": "DP_0280_0043",
+    "key": "DP_0382_0043",
     "original": "ギャー",
     "translation": "ギャー",
     "index": 43
   },
   {
-    "key": "DP_0280_0044",
+    "key": "DP_0382_0044",
     "original": "クスクス",
     "translation": "クスクス",
     "index": 44
   },
   {
-    "key": "DP_0280_0045",
+    "key": "DP_0382_0045",
     "original": "ください",
     "translation": "ください",
     "index": 45
   },
   {
-    "key": "DP_0280_0046",
+    "key": "DP_0382_0046",
     "original": "ぐふふ",
     "translation": "ぐふふ",
     "index": 46
   },
   {
-    "key": "DP_0280_0047",
+    "key": "DP_0382_0047",
     "original": "げっ",
     "translation": "げっ",
     "index": 47
   },
   {
-    "key": "DP_0280_0048",
+    "key": "DP_0382_0048",
     "original": "ゴメン",
     "translation": "ゴメン",
     "index": 48
   },
   {
-    "key": "DP_0280_0049",
+    "key": "DP_0382_0049",
     "original": "ごめんなさい",
     "translation": "ごめんなさい",
     "index": 49
   },
   {
-    "key": "DP_0280_0050",
+    "key": "DP_0382_0050",
     "original": "ごめんね",
     "translation": "ごめんね",
     "index": 50
   },
   {
-    "key": "DP_0280_0051",
+    "key": "DP_0382_0051",
     "original": "こらっ",
     "translation": "こらっ",
     "index": 51
   },
   {
-    "key": "DP_0280_0052",
+    "key": "DP_0382_0052",
     "original": "さようなら",
     "translation": "さようなら",
     "index": 52
   },
   {
-    "key": "DP_0280_0053",
+    "key": "DP_0382_0053",
     "original": "サンキュー",
     "translation": "サンキュー",
     "index": 53
   },
   {
-    "key": "DP_0280_0054",
+    "key": "DP_0382_0054",
     "original": "さんじょう",
     "translation": "さんじょう",
     "index": 54
   },
   {
-    "key": "DP_0280_0055",
+    "key": "DP_0382_0055",
     "original": "しくしく",
     "translation": "しくしく",
     "index": 55
   },
   {
-    "key": "DP_0280_0056",
+    "key": "DP_0382_0056",
     "original": "しっけい",
     "translation": "しっけい",
     "index": 56
   },
   {
-    "key": "DP_0280_0057",
+    "key": "DP_0382_0057",
     "original": "しつれい",
     "translation": "しつれい",
     "index": 57
   },
   {
-    "key": "DP_0280_0058",
+    "key": "DP_0382_0058",
     "original": "じゃーね",
     "translation": "じゃーね",
     "index": 58
   },
   {
-    "key": "DP_0280_0059",
+    "key": "DP_0382_0059",
     "original": "すみません",
     "translation": "すみません",
     "index": 59
   },
   {
-    "key": "DP_0280_0060",
+    "key": "DP_0382_0060",
     "original": "それじゃ",
     "translation": "それじゃ",
     "index": 60
   },
   {
-    "key": "DP_0280_0061",
+    "key": "DP_0382_0061",
     "original": "ちぇっ",
     "translation": "ちぇっ",
     "index": 61
   },
   {
-    "key": "DP_0280_0062",
+    "key": "DP_0382_0062",
     "original": "てへ",
     "translation": "てへ",
     "index": 62
   },
   {
-    "key": "DP_0280_0063",
+    "key": "DP_0382_0063",
     "original": "どうぞ",
     "translation": "どうぞ",
     "index": 63
   },
   {
-    "key": "DP_0280_0064",
+    "key": "DP_0382_0064",
     "original": "どうも",
     "translation": "どうも",
     "index": 64
   },
   {
-    "key": "DP_0280_0065",
+    "key": "DP_0382_0065",
     "original": "なあ",
     "translation": "なあ",
     "index": 65
   },
   {
-    "key": "DP_0280_0066",
+    "key": "DP_0382_0066",
     "original": "なんじゃ",
     "translation": "なんじゃ",
     "index": 66
   },
   {
-    "key": "DP_0280_0067",
+    "key": "DP_0382_0067",
     "original": "ねえ",
     "translation": "ねえ",
     "index": 67
   },
   {
-    "key": "DP_0280_0068",
+    "key": "DP_0382_0068",
     "original": "ノー",
     "translation": "ノー",
     "index": 68
   },
   {
-    "key": "DP_0280_0069",
+    "key": "DP_0382_0069",
     "original": "はぁー",
     "translation": "はぁー",
     "index": 69
   },
   {
-    "key": "DP_0280_0070",
+    "key": "DP_0382_0070",
     "original": "ハーイ",
     "translation": "ハーイ",
     "index": 70
   },
   {
-    "key": "DP_0280_0071",
+    "key": "DP_0382_0071",
     "original": "はい",
     "translation": "はい",
     "index": 71
   },
   {
-    "key": "DP_0280_0072",
+    "key": "DP_0382_0072",
     "original": "はいはい",
     "translation": "はいはい",
     "index": 72
   },
   {
-    "key": "DP_0280_0073",
+    "key": "DP_0382_0073",
     "original": "バイバイ",
     "translation": "バイバイ",
     "index": 73
   },
   {
-    "key": "DP_0280_0074",
+    "key": "DP_0382_0074",
     "original": "はじめまして",
     "translation": "はじめまして",
     "index": 74
   },
   {
-    "key": "DP_0280_0075",
+    "key": "DP_0382_0075",
     "original": "はっはっは",
     "translation": "はっはっは",
     "index": 75
   },
   {
-    "key": "DP_0280_0076",
+    "key": "DP_0382_0076",
     "original": "ひいー",
     "translation": "ひいー",
     "index": 76
   },
   {
-    "key": "DP_0280_0077",
+    "key": "DP_0382_0077",
     "original": "ひゃあ",
     "translation": "ひゃあ",
     "index": 77
   },
   {
-    "key": "DP_0280_0078",
+    "key": "DP_0382_0078",
     "original": "ふっふっふ",
     "translation": "ふっふっふ",
     "index": 78
   },
   {
-    "key": "DP_0280_0079",
+    "key": "DP_0382_0079",
     "original": "ププ",
     "translation": "ププ",
     "index": 79
   },
   {
-    "key": "DP_0280_0080",
+    "key": "DP_0382_0080",
     "original": "ふふん",
     "translation": "ふふん",
     "index": 80
   },
   {
-    "key": "DP_0280_0081",
+    "key": "DP_0382_0081",
     "original": "ふん",
     "translation": "ふん",
     "index": 81
   },
   {
-    "key": "DP_0280_0082",
+    "key": "DP_0382_0082",
     "original": "ヘイ",
     "translation": "ヘイ",
     "index": 82
   },
   {
-    "key": "DP_0280_0083",
+    "key": "DP_0382_0083",
     "original": "へっへっへ",
     "translation": "へっへっへ",
     "index": 83
   },
   {
-    "key": "DP_0280_0084",
+    "key": "DP_0382_0084",
     "original": "へへ",
     "translation": "へへ",
     "index": 84
   },
   {
-    "key": "DP_0280_0085",
+    "key": "DP_0382_0085",
     "original": "ほほほ",
     "translation": "ほほほ",
     "index": 85
   },
   {
-    "key": "DP_0280_0086",
+    "key": "DP_0382_0086",
     "original": "ほら",
     "translation": "ほら",
     "index": 86
   },
   {
-    "key": "DP_0280_0087",
+    "key": "DP_0382_0087",
     "original": "まあ",
     "translation": "まあ",
     "index": 87
   },
   {
-    "key": "DP_0280_0088",
+    "key": "DP_0382_0088",
     "original": "またね",
     "translation": "またね",
     "index": 88
   },
   {
-    "key": "DP_0280_0089",
+    "key": "DP_0382_0089",
     "original": "むきー",
     "translation": "むきー",
     "index": 89
   },
   {
-    "key": "DP_0280_0090",
+    "key": "DP_0382_0090",
     "original": "むふふ",
     "translation": "むふふ",
     "index": 90
   },
   {
-    "key": "DP_0280_0091",
+    "key": "DP_0382_0091",
     "original": "むむ",
     "translation": "むむ",
     "index": 91
   },
   {
-    "key": "DP_0280_0092",
+    "key": "DP_0382_0092",
     "original": "もしもし",
     "translation": "もしもし",
     "index": 92
   },
   {
-    "key": "DP_0280_0093",
+    "key": "DP_0382_0093",
     "original": "やあ",
     "translation": "やあ",
     "index": 93
   },
   {
-    "key": "DP_0280_0094",
+    "key": "DP_0382_0094",
     "original": "やだよ",
     "translation": "やだよ",
     "index": 94
   },
   {
-    "key": "DP_0280_0095",
+    "key": "DP_0382_0095",
     "original": "やっほー",
     "translation": "やっほー",
     "index": 95
   },
   {
-    "key": "DP_0280_0096",
+    "key": "DP_0382_0096",
     "original": "よう",
     "translation": "よう",
     "index": 96
   },
   {
-    "key": "DP_0280_0097",
+    "key": "DP_0382_0097",
     "original": "ようこそ",
     "translation": "ようこそ",
     "index": 97
   },
   {
-    "key": "DP_0280_0098",
+    "key": "DP_0382_0098",
     "original": "よし",
     "translation": "よし",
     "index": 98
   },
   {
-    "key": "DP_0280_0099",
+    "key": "DP_0382_0099",
     "original": "よろしく",
     "translation": "よろしく",
     "index": 99
   },
   {
-    "key": "DP_0280_0100",
+    "key": "DP_0382_0100",
     "original": "ラララ",
     "translation": "ラララ",
     "index": 100
   },
   {
-    "key": "DP_0280_0101",
+    "key": "DP_0382_0101",
     "original": "わーい",
     "translation": "わーい",
     "index": 101
   },
   {
-    "key": "DP_0280_0102",
+    "key": "DP_0382_0102",
     "original": "わーん",
     "translation": "わーん",
     "index": 102
   },
   {
-    "key": "DP_0280_0103",
+    "key": "DP_0382_0103",
     "original": "ワオ",
     "translation": "ワオ",
     "index": 103
   },
   {
-    "key": "DP_0280_0104",
+    "key": "DP_0382_0104",
     "original": "わっ",
     "translation": "わっ",
     "index": 104
   },
   {
-    "key": "DP_0280_0105",
+    "key": "DP_0382_0105",
     "original": "わははは",
     "translation": "わははは",
     "index": 105
   },
   {
-    "key": "DP_0280_0106",
+    "key": "DP_0382_0106",
     "original": "⋯⋯",
     "translation": "⋯⋯",
     "index": 106

@@ -1,312 +1,312 @@
 [
   {
-    "key": "DP_0427_0000",
+    "key": "DP_0479_0000",
     "original": "ピンクの ちいさい\nハートが でる シール",
     "translation": "印着粉红色小心的贴纸",
     "index": 0
   },
   {
-    "key": "DP_0427_0001",
+    "key": "DP_0479_0001",
     "original": "ピンクの おおきい\nハートが でる シール",
     "translation": "印着粉红色大心的贴纸",
     "index": 1
   },
   {
-    "key": "DP_0427_0002",
+    "key": "DP_0479_0002",
     "original": "くろい ちいさい\nハートが でる シール",
     "translation": "印着黑色小心的贴纸",
     "index": 2
   },
   {
-    "key": "DP_0427_0003",
+    "key": "DP_0479_0003",
     "original": "くろい おおきい\nハートが でる シール",
     "translation": "印着黑色大心的贴纸",
     "index": 3
   },
   {
-    "key": "DP_0427_0004",
+    "key": "DP_0479_0004",
     "original": "ピンクの ハートが すこし\nふわふわ のぼる シール",
     "translation": "飘着软绵绵\n粉红色之心的贴纸",
     "index": 4
   },
   {
-    "key": "DP_0427_0005",
+    "key": "DP_0479_0005",
     "original": "ピンクの ハートが\nふわふわ のぼる シール",
     "translation": "飘着软绵绵\n粉红色之心的贴纸",
     "index": 5
   },
   {
-    "key": "DP_0427_0006",
+    "key": "DP_0479_0006",
     "original": "きいろの ほしが\nすこし はじける シール",
     "translation": "黄色星星\n散开的贴纸",
     "index": 6
   },
   {
-    "key": "DP_0427_0007",
+    "key": "DP_0479_0007",
     "original": "きいろの ほしが\nたくさん はじける シール",
     "translation": "大量黄色星星\n散开的贴纸",
     "index": 7
   },
   {
-    "key": "DP_0427_0008",
+    "key": "DP_0479_0008",
     "original": "ブルーの ほしが\nすこし はじける シール",
     "translation": "蓝色星星\n散开的贴纸",
     "index": 8
   },
   {
-    "key": "DP_0427_0009",
+    "key": "DP_0479_0009",
     "original": "ブルーの ほしが\nたくさん はじける シール",
     "translation": "大量蓝色星星\n散开的贴纸",
     "index": 9
   },
   {
-    "key": "DP_0427_0010",
+    "key": "DP_0479_0010",
     "original": "ほしの いろが かわりながら\nすこし はじける シール",
     "translation": "颜色会慢慢变化的星星\n散开的贴纸",
     "index": 10
   },
   {
-    "key": "DP_0427_0011",
+    "key": "DP_0479_0011",
     "original": "ほしの いろが かわりながら\nたくさん はじける シール",
     "translation": "大量颜色会慢慢变化的星星\n散开的贴纸",
     "index": 11
   },
   {
-    "key": "DP_0427_0012",
+    "key": "DP_0479_0012",
     "original": "しろい ラインが\nひろがって でる シール",
     "translation": "辐射白线的贴纸",
     "index": 12
   },
   {
-    "key": "DP_0427_0013",
+    "key": "DP_0479_0013",
     "original": "きいろの ラインが\nひろがって でる シール",
     "translation": "辐射黄线的贴纸",
     "index": 13
   },
   {
-    "key": "DP_0427_0014",
+    "key": "DP_0479_0014",
     "original": "くろい ラインが\nひろがって でる シール",
     "translation": "辐射黑线的贴纸",
     "index": 14
   },
   {
-    "key": "DP_0427_0015",
+    "key": "DP_0479_0015",
     "original": "ブルーの ラインが\nひろがって でる シール",
     "translation": "辐射蓝线的贴纸",
     "index": 15
   },
   {
-    "key": "DP_0427_0016",
+    "key": "DP_0479_0016",
     "original": "しろい もくもくが\nのぼる シール",
     "translation": "印有白色默默的贴纸",
     "index": 16
   },
   {
-    "key": "DP_0427_0017",
+    "key": "DP_0479_0017",
     "original": "くろい もくもくが\nのぼる シール",
     "translation": "印有黑色默默的贴纸",
     "index": 17
   },
   {
-    "key": "DP_0427_0018",
+    "key": "DP_0479_0018",
     "original": "しろい もくもくが\nでる シール",
     "translation": "印有白色默默的贴纸",
     "index": 18
   },
   {
-    "key": "DP_0427_0019",
+    "key": "DP_0479_0019",
     "original": "くろい もくもくが\nでる シール",
     "translation": "印有黑色默默的贴纸",
     "index": 19
   },
   {
-    "key": "DP_0427_0020",
+    "key": "DP_0479_0020",
     "original": "きいろの でんきが\nうえむきに でる シール",
     "translation": "在上方显示\n黄色电流的贴纸",
     "index": 20
   },
   {
-    "key": "DP_0427_0021",
+    "key": "DP_0479_0021",
     "original": "グリーンの でんきが\nうえむきに でる シール",
     "translation": "在上方显示\n绿色电流的贴纸",
     "index": 21
   },
   {
-    "key": "DP_0427_0022",
+    "key": "DP_0479_0022",
     "original": "きいろの でんきが\nしたむきに でる シール",
     "translation": "在下方显示\n黄色电流的贴纸",
     "index": 22
   },
   {
-    "key": "DP_0427_0023",
+    "key": "DP_0479_0023",
     "original": "グリーンの でんきが\nしたむきに でる シール",
     "translation": "在下方显示\n绿色电流的贴纸",
     "index": 23
   },
   {
-    "key": "DP_0427_0024",
+    "key": "DP_0479_0024",
     "original": "ブルーの ぶくぶくが\nすこし でる シール",
     "translation": "显示蓝色胖乎乎\n的贴纸",
     "index": 24
   },
   {
-    "key": "DP_0427_0025",
+    "key": "DP_0479_0025",
     "original": "ブルーの ぶくぶくが\nたくさん でる シール",
     "translation": "显示大量蓝色胖乎乎\n的贴纸",
     "index": 25
   },
   {
-    "key": "DP_0427_0026",
+    "key": "DP_0479_0026",
     "original": "ピンクの ぶくぶくが\nすこし でる シール",
     "translation": "显示粉红色胖乎乎\n的贴纸",
     "index": 26
   },
   {
-    "key": "DP_0427_0027",
+    "key": "DP_0479_0027",
     "original": "ピンクの ぶくぶくが\nたくさん でる シール",
     "translation": "显示大量粉红色胖乎乎\n的贴纸",
     "index": 27
   },
   {
-    "key": "DP_0427_0028",
+    "key": "DP_0479_0028",
     "original": "オレンジの ほのおが\nすこし でる シール",
     "translation": "显示桔红色火焰的\n贴纸",
     "index": 28
   },
   {
-    "key": "DP_0427_0029",
+    "key": "DP_0479_0029",
     "original": "オレンジの ほのおが\nたくさん でる シール",
     "translation": "显示大量\n桔红色火焰的贴纸",
     "index": 29
   },
   {
-    "key": "DP_0427_0030",
+    "key": "DP_0479_0030",
     "original": "ブルーの ほのおが\nすこし でる シール",
     "translation": "显示蓝色火焰的\n贴纸",
     "index": 30
   },
   {
-    "key": "DP_0427_0031",
+    "key": "DP_0479_0031",
     "original": "ブルーの ほのおが\nたくさん でる シール",
     "translation": "显示大量\n蓝色火焰的贴纸",
     "index": 31
   },
   {
-    "key": "DP_0427_0032",
+    "key": "DP_0479_0032",
     "original": "あかい かみふぶきが\nでてくる シール",
     "translation": "显示红色暴风雪\n的贴纸",
     "index": 32
   },
   {
-    "key": "DP_0427_0033",
+    "key": "DP_0479_0033",
     "original": "あおい かみふぶきが\nでてくる シール",
     "translation": "显示青色暴风雪\n的贴纸",
     "index": 33
   },
   {
-    "key": "DP_0427_0034",
+    "key": "DP_0479_0034",
     "original": "きいろの かみふぶきが\nでてくる シール",
     "translation": "显示黄色暴风雪\n的贴纸",
     "index": 34
   },
   {
-    "key": "DP_0427_0035",
+    "key": "DP_0479_0035",
     "original": "しろい かみふぶきが\nでてくる シール",
     "translation": "显示白色暴风雪\n的贴纸",
     "index": 35
   },
   {
-    "key": "DP_0427_0036",
+    "key": "DP_0479_0036",
     "original": "ピンクの はなびらが\nまいちる シール",
     "translation": "散落着粉红色花瓣\n的贴纸",
     "index": 36
   },
   {
-    "key": "DP_0427_0037",
+    "key": "DP_0479_0037",
     "original": "ピンクの はなびらが\nでる シール",
     "translation": "显示着粉红色花瓣\n的贴纸",
     "index": 37
   },
   {
-    "key": "DP_0427_0038",
+    "key": "DP_0479_0038",
     "original": "むらさきの はなびらが\nまいちる シール",
     "translation": "散落着紫色花瓣\n的贴纸",
     "index": 38
   },
   {
-    "key": "DP_0427_0039",
+    "key": "DP_0479_0039",
     "original": "むらさきの はなびらが\nでる シール",
     "translation": "显示着紫色花瓣\n的贴纸",
     "index": 39
   },
   {
-    "key": "DP_0427_0040",
+    "key": "DP_0479_0040",
     "original": "きいろの はなびらが\nまいちる シール",
     "translation": "散落着黄色花瓣\n的贴纸",
     "index": 40
   },
   {
-    "key": "DP_0427_0041",
+    "key": "DP_0479_0041",
     "original": "きいろの はなびらが\nでる シール",
     "translation": "显示着黄色花瓣\n的贴纸",
     "index": 41
   },
   {
-    "key": "DP_0427_0042",
+    "key": "DP_0479_0042",
     "original": "トおんきごうの かたちの\nみどりの シール",
     "translation": "显示巨声符号形状的\n绿色贴纸",
     "index": 42
   },
   {
-    "key": "DP_0427_0043",
+    "key": "DP_0479_0043",
     "original": "おんぷの かたちの\nあかい シール",
     "translation": "显示音符形状的\n红色贴纸",
     "index": 43
   },
   {
-    "key": "DP_0427_0044",
+    "key": "DP_0479_0044",
     "original": "おんぷの かたちの\nオレンジの シール",
     "translation": "显示音符形状的\n桔黄色贴纸",
     "index": 44
   },
   {
-    "key": "DP_0427_0045",
+    "key": "DP_0479_0045",
     "original": "おんぷの かたちの\nきいろの シール",
     "translation": "显示音符形状的\n黄色贴纸",
     "index": 45
   },
   {
-    "key": "DP_0427_0046",
+    "key": "DP_0479_0046",
     "original": "おんぷの かたちの\nあおい シール",
     "translation": "显示音符形状的\n青色贴纸",
     "index": 46
   },
   {
-    "key": "DP_0427_0047",
+    "key": "DP_0479_0047",
     "original": "おんぷの かたちの\nきみどりの シール",
     "translation": "显示音符形状的\n绿色贴纸",
     "index": 47
   },
   {
-    "key": "DP_0427_0048",
+    "key": "DP_0479_0048",
     "original": "おんぷの かたちの\nこんいろの シール",
     "translation": "显示音符形状的\n深蓝色贴纸",
     "index": 48
   },
   {
-    "key": "DP_0427_0049",
+    "key": "DP_0479_0049",
     "original": "しぶきが はでに とびちる\nとくべつな シール",
     "translation": "飞沫四溅的\n特别贴纸",
     "index": 49
   },
   {
-    "key": "DP_0427_0050",
+    "key": "DP_0479_0050",
     "original": "はでに ばくはつ する\nとくべつな シール",
     "translation": "有着夸张爆炸效果\n的特别贴纸",
     "index": 50
   },
   {
-    "key": "DP_0427_0051",
+    "key": "DP_0479_0051",
     "original": "きれいな キラキラが またたく\nとくべつな シール",
     "translation": "漂亮的闪亮散烁着\n的特别贴纸",
     "index": 51

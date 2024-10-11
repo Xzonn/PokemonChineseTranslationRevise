@@ -162,13 +162,13 @@ Dictionary<int, Dictionary<int, string>> LoadMessages(string path)
   return messages;
 }
 
-bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game, ref Dictionary<string, string> symbols)
+bool Compile(ref byte[] arm9, ref Dictionary<string, string> symbols, int address, string parentGame, string game, string sourceFolder = "replSource", uint ramAddress = 0x2000000)
 {
   var symPattern = new Regex(@"^(?<address>[0-9a-f]{8}) \w\s+.text\s+\d{8} (?<name>.+)$", RegexOptions.Multiline);
   ProcessStartInfo psi = new()
   {
     FileName = "make",
-    Arguments = $"TARGET=repl_{address:X7} SOURCES=replSource/{address:X7} GAME={game} CODEADDR=0x{address:X7}",
+    Arguments = $"TARGET=repl_{address:X7} SOURCES={sourceFolder}/{address:X7} GAME={game} CODEADDR=0x{address:X7}",
     WorkingDirectory = $"asm/{parentGame}",
     UseShellExecute = false,
     RedirectStandardError = true,
@@ -191,7 +191,7 @@ bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game, r
   if (p.ExitCode == 0)
   {
     var newBytes = File.ReadAllBytes($"asm/{parentGame}/repl_{address:X7}.bin");
-    Array.Copy(newBytes, 0, arm9, address - 0x2000000, newBytes.Length);
+    Array.Copy(newBytes, 0, arm9, address - ramAddress, newBytes.Length);
     var symText = File.ReadAllText($"asm/{parentGame}/repl_{address:X7}.sym");
     foreach (Match match in symPattern.Matches(symText))
     {

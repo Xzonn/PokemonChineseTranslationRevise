@@ -1,264 +1,264 @@
 [
   {
-    "key": "PT_0015_0000",
+    "key": "Pt_0015_0000",
     "original": "どの せいせきを みますか？",
     "translation": "どの せいせきを みますか？",
     "index": 0
   },
   {
-    "key": "PT_0015_0001",
+    "key": "Pt_0015_0001",
     "original": "シングル",
     "translation": "シングル",
     "index": 1
   },
   {
-    "key": "PT_0015_0002",
+    "key": "Pt_0015_0002",
     "original": "ダブル",
     "translation": "ダブル",
     "index": 2
   },
   {
-    "key": "PT_0015_0003",
+    "key": "Pt_0015_0003",
     "original": "マルチ",
     "translation": "マルチ",
     "index": 3
   },
   {
-    "key": "PT_0015_0004",
+    "key": "Pt_0015_0004",
     "original": "やめる",
     "translation": "やめる",
     "index": 4
   },
   {
-    "key": "PT_0015_0005",
+    "key": "Pt_0015_0005",
     "original": "もどる",
     "translation": "もどる",
     "index": 5
   },
   {
-    "key": "PT_0015_0006",
+    "key": "Pt_0015_0006",
     "original": "どの ポケモンの せいせきを みるか\nえらんで ください！\\f\n",
     "translation": "どの ポケモンの せいせきを みるか\nえらんで ください！\\f\n",
     "index": 6
   },
   {
-    "key": "PT_0015_0007",
+    "key": "Pt_0015_0007",
     "original": "ただいま [0100,0000]で\nちょうせん ちゅう！",
     "translation": "ただいま [0100,0000]で\nちょうせん ちゅう！",
     "index": 7
   },
   {
-    "key": "PT_0015_0008",
+    "key": "Pt_0015_0008",
     "original": "ア",
     "translation": "ア",
     "index": 8
   },
   {
-    "key": "PT_0015_0009",
+    "key": "Pt_0015_0009",
     "original": "カ",
     "translation": "カ",
     "index": 9
   },
   {
-    "key": "PT_0015_0010",
+    "key": "Pt_0015_0010",
     "original": "サ",
     "translation": "サ",
     "index": 10
   },
   {
-    "key": "PT_0015_0011",
+    "key": "Pt_0015_0011",
     "original": "タ",
     "translation": "タ",
     "index": 11
   },
   {
-    "key": "PT_0015_0012",
+    "key": "Pt_0015_0012",
     "original": "ナ",
     "translation": "ナ",
     "index": 12
   },
   {
-    "key": "PT_0015_0013",
+    "key": "Pt_0015_0013",
     "original": "ハ",
     "translation": "ハ",
     "index": 13
   },
   {
-    "key": "PT_0015_0014",
+    "key": "Pt_0015_0014",
     "original": "マ",
     "translation": "マ",
     "index": 14
   },
   {
-    "key": "PT_0015_0015",
+    "key": "Pt_0015_0015",
     "original": "ヤワ",
     "translation": "ヤワ",
     "index": 15
   },
   {
-    "key": "PT_0015_0016",
+    "key": "Pt_0015_0016",
     "original": "ラ",
     "translation": "ラ",
     "index": 16
   },
   {
-    "key": "PT_0015_0017",
+    "key": "Pt_0015_0017",
     "original": "ワ",
     "translation": "ワ",
     "index": 17
   },
   {
-    "key": "PT_0015_0018",
+    "key": "Pt_0015_0018",
     "original": "やめる",
     "translation": "やめる",
     "index": 18
   },
   {
-    "key": "PT_0015_0019",
+    "key": "Pt_0015_0019",
     "original": "[0100,0000]",
     "translation": "[0100,0000]",
     "index": 19
   },
   {
-    "key": "PT_0015_0020",
+    "key": "Pt_0015_0020",
     "original": "もどる",
     "translation": "もどる",
     "index": 20
   },
   {
-    "key": "PT_0015_0021",
+    "key": "Pt_0015_0021",
     "original": "バトルタワー",
     "translation": "バトルタワー",
     "index": 21
   },
   {
-    "key": "PT_0015_0022",
+    "key": "Pt_0015_0022",
     "original": "バトルファクトリー",
     "translation": "バトルファクトリー",
     "index": 22
   },
   {
-    "key": "PT_0015_0023",
+    "key": "Pt_0015_0023",
     "original": "バトルキャッスル",
     "translation": "バトルキャッスル",
     "index": 23
   },
   {
-    "key": "PT_0015_0024",
+    "key": "Pt_0015_0024",
     "original": "バトルステージ",
     "translation": "バトルステージ",
     "index": 24
   },
   {
-    "key": "PT_0015_0025",
+    "key": "Pt_0015_0025",
     "original": "バトルルーレット",
     "translation": "バトルルーレット",
     "index": 25
   },
   {
-    "key": "PT_0015_0026",
+    "key": "Pt_0015_0026",
     "original": "シングルせいせき",
     "translation": "シングルせいせき",
     "index": 26
   },
   {
-    "key": "PT_0015_0027",
+    "key": "Pt_0015_0027",
     "original": "ダブルせいせき",
     "translation": "ダブルせいせき",
     "index": 27
   },
   {
-    "key": "PT_0015_0028",
+    "key": "Pt_0015_0028",
     "original": "マルチせいせき",
     "translation": "マルチせいせき",
     "index": 28
   },
   {
-    "key": "PT_0015_0029",
+    "key": "Pt_0015_0029",
     "original": "ぜんかい",
     "translation": "ぜんかい",
     "index": 29
   },
   {
-    "key": "PT_0015_0030",
+    "key": "Pt_0015_0030",
     "original": "げんざい",
     "translation": "げんざい",
     "index": 30
   },
   {
-    "key": "PT_0015_0031",
+    "key": "Pt_0015_0031",
     "original": "さいこう",
     "translation": "さいこう",
     "index": 31
   },
   {
-    "key": "PT_0015_0032",
+    "key": "Pt_0015_0032",
     "original": "トレーナーとマルチ",
     "translation": "トレーナーとマルチ",
     "index": 32
   },
   {
-    "key": "PT_0015_0033",
+    "key": "Pt_0015_0033",
     "original": "ともだちとマルチ",
     "translation": "ともだちとマルチ",
     "index": 33
   },
   {
-    "key": "PT_0015_0034",
+    "key": "Pt_0015_0034",
     "original": "レベル５０",
     "translation": "レベル５０",
     "index": 34
   },
   {
-    "key": "PT_0015_0035",
+    "key": "Pt_0015_0035",
     "original": "オープンレベル",
     "translation": "オープンレベル",
     "index": 35
   },
   {
-    "key": "PT_0015_0036",
+    "key": "Pt_0015_0036",
     "original": "レンタル／こうかん",
     "translation": "レンタル／こうかん",
     "index": 36
   },
   {
-    "key": "PT_0015_0037",
+    "key": "Pt_0015_0037",
     "original": "キャッスルポイント",
     "translation": "キャッスルポイント",
     "index": 37
   },
   {
-    "key": "PT_0015_0038",
+    "key": "Pt_0015_0038",
     "original": "[0135,0000]れんしょう",
     "translation": "[0135,0000]れんしょう",
     "index": 38
   },
   {
-    "key": "PT_0015_0039",
+    "key": "Pt_0015_0039",
     "original": "[0100,0000]の きろく",
     "translation": "[0100,0000]の きろく",
     "index": 39
   },
   {
-    "key": "PT_0015_0040",
+    "key": "Pt_0015_0040",
     "original": "[0135,0000]かい",
     "translation": "[0135,0000]かい",
     "index": 40
   },
   {
-    "key": "PT_0015_0041",
+    "key": "Pt_0015_0041",
     "original": "[0135,0000]ＣＰ",
     "translation": "[0135,0000]ＣＰ",
     "index": 41
   },
   {
-    "key": "PT_0015_0042",
+    "key": "Pt_0015_0042",
     "original": "[0135,0000]れんしょう",
     "translation": "[0135,0000]れんしょう",
     "index": 42
   },
   {
-    "key": "PT_0015_0043",
+    "key": "Pt_0015_0043",
     "original": "[0135,0000]ゲーム クリア",
     "translation": "[0135,0000]ゲーム クリア",
     "index": 43
