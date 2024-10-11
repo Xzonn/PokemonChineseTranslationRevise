@@ -1,300 +1,300 @@
 [
   {
-    "key": "PT_0747_0000",
+    "key": "Pt_0643_0000",
     "original": "ポケモンしょうぶ",
     "translation": "宝可梦对战",
     "index": 0
   },
   {
-    "key": "PT_0747_0001",
+    "key": "Pt_0643_0001",
     "original": "サイキッカー",
     "translation": "超能力者",
     "index": 1
   },
   {
-    "key": "PT_0747_0002",
+    "key": "Pt_0643_0002",
     "original": "くさポケモン",
     "translation": "草属性宝可梦",
     "index": 2
   },
   {
-    "key": "PT_0747_0003",
+    "key": "Pt_0643_0003",
     "original": "こうかん",
     "translation": "交换",
     "index": 3
   },
   {
-    "key": "PT_0747_0004",
+    "key": "Pt_0643_0004",
     "original": "ない",
     "translation": "无",
     "index": 4
   },
   {
-    "key": "PT_0747_0005",
+    "key": "Pt_0643_0005",
     "original": "デパート",
     "translation": "百货大楼",
     "index": 5
   },
   {
-    "key": "PT_0747_0006",
+    "key": "Pt_0643_0006",
     "original": "ＨＰ",
     "translation": "ＨＰ",
     "index": 6
   },
   {
-    "key": "PT_0747_0007",
+    "key": "Pt_0643_0007",
     "original": "いえのなか",
     "translation": "家里",
     "index": 7
   },
   {
-    "key": "PT_0747_0008",
+    "key": "Pt_0643_0008",
     "original": "ねてしまった",
     "translation": "睡着了",
     "index": 8
   },
   {
-    "key": "PT_0747_0009",
+    "key": "Pt_0643_0009",
     "original": "どく",
     "translation": "中毒",
     "index": 9
   },
   {
-    "key": "PT_0747_0010",
+    "key": "Pt_0643_0010",
     "original": "まひさせる",
     "translation": "麻痹了",
     "index": 10
   },
   {
-    "key": "PT_0747_0011",
+    "key": "Pt_0643_0011",
     "original": "どくけし",
     "translation": "解毒药",
     "index": 11
   },
   {
-    "key": "PT_0747_0012",
+    "key": "Pt_0643_0012",
     "original": "くさむら",
     "translation": "草丛",
     "index": 12
   },
   {
-    "key": "PT_0747_0013",
+    "key": "Pt_0643_0013",
     "original": "ひる",
     "translation": "白天",
     "index": 13
   },
   {
-    "key": "PT_0747_0014",
+    "key": "Pt_0643_0014",
     "original": "おなじがっこう",
     "translation": "同样的姿态",
     "index": 14
   },
   {
-    "key": "PT_0747_0015",
+    "key": "Pt_0643_0015",
     "original": "タウリン",
     "translation": "攻击增强剂",
     "index": 15
   },
   {
-    "key": "PT_0747_0016",
+    "key": "Pt_0643_0016",
     "original": "マネネ",
     "translation": "魔尼尼",
     "index": 16
   },
   {
-    "key": "PT_0747_0017",
+    "key": "Pt_0643_0017",
     "original": "めいちゅう",
     "translation": "命中",
     "index": 17
   },
   {
-    "key": "PT_0747_0018",
+    "key": "Pt_0643_0018",
     "original": "させない",
     "translation": "不要",
     "index": 18
   },
   {
-    "key": "PT_0747_0019",
+    "key": "Pt_0643_0019",
     "original": "おいしいみず",
     "translation": "美味之水",
     "index": 19
   },
   {
-    "key": "PT_0747_0020",
+    "key": "Pt_0643_0020",
     "original": "こだわりメガネ",
     "translation": "讲究眼镜",
     "index": 20
   },
   {
-    "key": "PT_0747_0021",
+    "key": "Pt_0643_0021",
     "original": "きんのたま",
     "translation": "金珠",
     "index": 21
   },
   {
-    "key": "PT_0747_0022",
+    "key": "Pt_0643_0022",
     "original": "タマゴからかえる",
     "translation": "把蛋还我",
     "index": 22
   },
   {
-    "key": "PT_0747_0023",
+    "key": "Pt_0643_0023",
     "original": "かわいくてすてき",
     "translation": "很可爱很好看",
     "index": 23
   },
   {
-    "key": "PT_0747_0024",
+    "key": "Pt_0643_0024",
     "original": "かぞく",
     "translation": "家人",
     "index": 24
   },
   {
-    "key": "PT_0747_0025",
+    "key": "Pt_0643_0025",
     "original": "つかまえてもらう",
     "translation": "捕获",
     "index": 25
   },
   {
-    "key": "PT_0747_0026",
+    "key": "Pt_0643_0026",
     "original": "ともだちにまけた",
     "translation": "输给朋友",
     "index": 26
   },
   {
-    "key": "PT_0747_0027",
+    "key": "Pt_0643_0027",
     "original": "まちのきょく",
     "translation": "城市的车站",
     "index": 27
   },
   {
-    "key": "PT_0747_0028",
+    "key": "Pt_0643_0028",
     "original": "ときどきつかう",
     "translation": "偶尔使用",
     "index": 28
   },
   {
-    "key": "PT_0747_0029",
+    "key": "Pt_0643_0029",
     "original": "ぎゅうぎゅうづめ",
     "translation": "紧紧地捉住",
     "index": 29
   },
   {
-    "key": "PT_0747_0030",
+    "key": "Pt_0643_0030",
     "original": "みんなバラバラ",
     "translation": "大家都分离了",
     "index": 30
   },
   {
-    "key": "PT_0747_0031",
+    "key": "Pt_0643_0031",
     "original": "きのみがおおい",
     "translation": "很多树果",
     "index": 31
   },
   {
-    "key": "PT_0747_0032",
+    "key": "Pt_0643_0032",
     "original": "すこししられてる",
     "translation": "知道一点",
     "index": 32
   },
   {
-    "key": "PT_0747_0033",
+    "key": "Pt_0643_0033",
     "original": "はしる",
     "translation": "跑",
     "index": 33
   },
   {
-    "key": "PT_0747_0034",
+    "key": "Pt_0643_0034",
     "original": "とくしゅこうげき",
     "translation": "特殊攻击",
     "index": 34
   },
   {
-    "key": "PT_0747_0035",
+    "key": "Pt_0643_0035",
     "original": "あしがた",
     "translation": "脚印",
     "index": 35
   },
   {
-    "key": "PT_0747_0036",
+    "key": "Pt_0643_0036",
     "original": "むしポケモン",
     "translation": "虫属性宝可梦",
     "index": 36
   },
   {
-    "key": "PT_0747_0037",
+    "key": "Pt_0643_0037",
     "original": "しっかりちょきん",
     "translation": "承诺金",
     "index": 37
   },
   {
-    "key": "PT_0747_0038",
+    "key": "Pt_0643_0038",
     "original": "しゅじんこう",
     "translation": "主人公",
     "index": 38
   },
   {
-    "key": "PT_0747_0039",
+    "key": "Pt_0643_0039",
     "original": "ぼうぎょとくぼう",
     "translation": "防御特防",
     "index": 39
   },
   {
-    "key": "PT_0747_0040",
+    "key": "Pt_0643_0040",
     "original": "いなかった",
     "translation": "不在",
     "index": 40
   },
   {
-    "key": "PT_0747_0041",
+    "key": "Pt_0643_0041",
     "original": "モノっぽいなまえ",
     "translation": "物体感觉的名字",
     "index": 41
   },
   {
-    "key": "PT_0747_0042",
+    "key": "Pt_0643_0042",
     "original": "そらをとぶ",
     "translation": "飞翔",
     "index": 42
   },
   {
-    "key": "PT_0747_0043",
+    "key": "Pt_0643_0043",
     "original": "ポケモンセンター",
     "translation": "宝可梦中心",
     "index": 43
   },
   {
-    "key": "PT_0747_0044",
+    "key": "Pt_0643_0044",
     "original": "いない",
     "translation": "不在",
     "index": 44
   },
   {
-    "key": "PT_0747_0045",
+    "key": "Pt_0643_0045",
     "original": "なみのり",
     "translation": "冲浪",
     "index": 45
   },
   {
-    "key": "PT_0747_0046",
+    "key": "Pt_0643_0046",
     "original": "ない",
     "translation": "无",
     "index": 46
   },
   {
-    "key": "PT_0747_0047",
+    "key": "Pt_0643_0047",
     "original": "タイプ",
     "translation": "属性",
     "index": 47
   },
   {
-    "key": "PT_0747_0048",
+    "key": "Pt_0643_0048",
     "original": "かっこいいわざ！",
     "translation": "帅气的招式！",
     "index": 48
   },
   {
-    "key": "PT_0747_0049",
+    "key": "Pt_0643_0049",
     "original": "たかいレベル",
     "translation": "高等级",
     "index": 49

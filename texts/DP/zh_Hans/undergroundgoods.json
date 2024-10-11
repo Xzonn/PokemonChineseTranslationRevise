@@ -1,1674 +1,1674 @@
 [
   {
-    "key": "DP_0726_0000",
+    "key": "DP_0557_0000",
     "original": "とじる",
     "translation": "关闭",
     "index": 0
   },
   {
-    "key": "DP_0726_0001",
+    "key": "DP_0557_0001",
     "original": "パソコン",
     "translation": "电脑",
     "index": 1
   },
   {
-    "key": "DP_0726_0002",
+    "key": "DP_0557_0002",
     "original": "パソコン",
     "translation": "电脑",
     "index": 2
   },
   {
-    "key": "DP_0726_0003",
+    "key": "DP_0557_0003",
     "original": "パソコン",
     "translation": "电脑",
     "index": 3
   },
   {
-    "key": "DP_0726_0004",
+    "key": "DP_0557_0004",
     "original": "パソコン",
     "translation": "电脑",
     "index": 4
   },
   {
-    "key": "DP_0726_0005",
+    "key": "DP_0557_0005",
     "original": "パソコン",
     "translation": "电脑",
     "index": 5
   },
   {
-    "key": "DP_0726_0006",
+    "key": "DP_0557_0006",
     "original": "おおきないわ",
     "translation": "大石头",
     "index": 6
   },
   {
-    "key": "DP_0726_0007",
+    "key": "DP_0557_0007",
     "original": "きいろクッション",
     "translation": "黄色坐垫",
     "index": 7
   },
   {
-    "key": "DP_0726_0008",
+    "key": "DP_0557_0008",
     "original": "あおクッション",
     "translation": "蓝色坐垫",
     "index": 8
   },
   {
-    "key": "DP_0726_0009",
+    "key": "DP_0557_0009",
     "original": "きのイス",
     "translation": "木椅子",
     "index": 9
   },
   {
-    "key": "DP_0726_0010",
+    "key": "DP_0557_0010",
     "original": "おおきなテーブル",
     "translation": "大桌子",
     "index": 10
   },
   {
-    "key": "DP_0726_0011",
+    "key": "DP_0557_0011",
     "original": "ふつうのテーブル",
     "translation": "普通桌子",
     "index": 11
   },
   {
-    "key": "DP_0726_0012",
+    "key": "DP_0557_0012",
     "original": "ちいさいテーブル",
     "translation": "小桌子",
     "index": 12
   },
   {
-    "key": "DP_0726_0013",
+    "key": "DP_0557_0013",
     "original": "たてながテーブル",
     "translation": "纵长型桌子",
     "index": 13
   },
   {
-    "key": "DP_0726_0014",
+    "key": "DP_0557_0014",
     "original": "よこながテーブル",
     "translation": "横长型桌子",
     "index": 14
   },
   {
-    "key": "DP_0726_0015",
+    "key": "DP_0557_0015",
     "original": "ポケセンテーブル",
     "translation": "宝可梦中心桌子",
     "index": 15
   },
   {
-    "key": "DP_0726_0016",
+    "key": "DP_0557_0016",
     "original": "おおきいほんだな",
     "translation": "大书架",
     "index": 16
   },
   {
-    "key": "DP_0726_0017",
+    "key": "DP_0557_0017",
     "original": "ちいさいほんだな",
     "translation": "小书架",
     "index": 17
   },
   {
-    "key": "DP_0726_0018",
+    "key": "DP_0557_0018",
     "original": "けんきゅうだな",
     "translation": "研究物品架",
     "index": 18
   },
   {
-    "key": "DP_0726_0019",
+    "key": "DP_0557_0019",
     "original": "じてんしゃだな",
     "translation": "自行车架",
     "index": 19
   },
   {
-    "key": "DP_0726_0020",
+    "key": "DP_0557_0020",
     "original": "ショップだな",
     "translation": "商店的架子",
     "index": 20
   },
   {
-    "key": "DP_0726_0021",
+    "key": "DP_0557_0021",
     "original": "しょうひんだな",
     "translation": "商品架",
     "index": 21
   },
   {
-    "key": "DP_0726_0022",
+    "key": "DP_0557_0022",
     "original": "しょっきだな",
     "translation": "餐具架子",
     "index": 22
   },
   {
-    "key": "DP_0726_0023",
+    "key": "DP_0557_0023",
     "original": "きのタンス",
     "translation": "木柜子",
     "index": 23
   },
   {
-    "key": "DP_0726_0024",
+    "key": "DP_0557_0024",
     "original": "ピンクのタンス",
     "translation": "粉色柜子",
     "index": 24
   },
   {
-    "key": "DP_0726_0025",
+    "key": "DP_0557_0025",
     "original": "おおきなテレビ",
     "translation": "大电视机",
     "index": 25
   },
   {
-    "key": "DP_0726_0026",
+    "key": "DP_0557_0026",
     "original": "れいぞうこ",
     "translation": "冰箱",
     "index": 26
   },
   {
-    "key": "DP_0726_0027",
+    "key": "DP_0557_0027",
     "original": "きれいなシンク",
     "translation": "干净的污水槽",
     "index": 27
   },
   {
-    "key": "DP_0726_0028",
+    "key": "DP_0557_0028",
     "original": "ふかふかベッド",
     "translation": "软和的床",
     "index": 28
   },
   {
-    "key": "DP_0726_0029",
+    "key": "DP_0557_0029",
     "original": "ごみばこ",
     "translation": "垃圾箱",
     "index": 29
   },
   {
-    "key": "DP_0726_0030",
+    "key": "DP_0557_0030",
     "original": "ダンボール",
     "translation": "纸箱",
     "index": 30
   },
   {
-    "key": "DP_0726_0031",
+    "key": "DP_0557_0031",
     "original": "きばこ",
     "translation": "木盒子",
     "index": 31
   },
   {
-    "key": "DP_0726_0032",
+    "key": "DP_0557_0032",
     "original": "コンテナ",
     "translation": "集装箱",
     "index": 32
   },
   {
-    "key": "DP_0726_0033",
+    "key": "DP_0557_0033",
     "original": "ドラムかん",
     "translation": "大圆罐",
     "index": 33
   },
   {
-    "key": "DP_0726_0034",
+    "key": "DP_0557_0034",
     "original": "おおいドラムかん",
     "translation": "很多大圆罐",
     "index": 34
   },
   {
-    "key": "DP_0726_0035",
+    "key": "DP_0557_0035",
     "original": "てっきん",
     "translation": "钢筋",
     "index": 35
   },
   {
-    "key": "DP_0726_0036",
+    "key": "DP_0557_0036",
     "original": "うえき",
     "translation": "盆栽",
     "index": 36
   },
   {
-    "key": "DP_0726_0037",
+    "key": "DP_0557_0037",
     "original": "ポケセンフラワー",
     "translation": "宝可梦中心花",
     "index": 37
   },
   {
-    "key": "DP_0726_0038",
+    "key": "DP_0557_0038",
     "original": "かいふくマシン",
     "translation": "回复机器",
     "index": 38
   },
   {
-    "key": "DP_0726_0039",
+    "key": "DP_0557_0039",
     "original": "けんきゅうマシン",
     "translation": "研究机器",
     "index": 39
   },
   {
-    "key": "DP_0726_0040",
+    "key": "DP_0557_0040",
     "original": "じっけんマシン",
     "translation": "实验机器",
     "index": 40
   },
   {
-    "key": "DP_0726_0041",
+    "key": "DP_0557_0041",
     "original": "ゲームき",
     "translation": "游戏机",
     "index": 41
   },
   {
-    "key": "DP_0726_0042",
+    "key": "DP_0557_0042",
     "original": "じどうはんばいき",
     "translation": "自动贩卖机",
     "index": 42
   },
   {
-    "key": "DP_0726_0043",
+    "key": "DP_0557_0043",
     "original": "あかいじてんしゃ",
     "translation": "红色自行车",
     "index": 43
   },
   {
-    "key": "DP_0726_0044",
+    "key": "DP_0557_0044",
     "original": "みどりじてんしゃ",
     "translation": "绿色自行车",
     "index": 44
   },
   {
-    "key": "DP_0726_0045",
+    "key": "DP_0557_0045",
     "original": "そうがんきょう",
     "translation": "望远镜",
     "index": 45
   },
   {
-    "key": "DP_0726_0046",
+    "key": "DP_0557_0046",
     "original": "ちきゅうぎ",
     "translation": "地球仪",
     "index": 46
   },
   {
-    "key": "DP_0726_0047",
+    "key": "DP_0557_0047",
     "original": "ジムのせきぞう",
     "translation": "道馆的石像",
     "index": 47
   },
   {
-    "key": "DP_0726_0048",
+    "key": "DP_0557_0048",
     "original": "あかいテント",
     "translation": "红色帐篷",
     "index": 48
   },
   {
-    "key": "DP_0726_0049",
+    "key": "DP_0557_0049",
     "original": "あおいテント",
     "translation": "蓝色帐篷",
     "index": 49
   },
   {
-    "key": "DP_0726_0050",
+    "key": "DP_0557_0050",
     "original": "とうめいテント",
     "translation": "透明帐篷",
     "index": 50
   },
   {
-    "key": "DP_0726_0051",
+    "key": "DP_0557_0051",
     "original": "めいろブロック１",
     "translation": "迷路岩石１",
     "index": 51
   },
   {
-    "key": "DP_0726_0052",
+    "key": "DP_0557_0052",
     "original": "めいろブロック２",
     "translation": "迷路岩石２",
     "index": 52
   },
   {
-    "key": "DP_0726_0053",
+    "key": "DP_0557_0053",
     "original": "めいろブロック３",
     "translation": "迷路岩石３",
     "index": 53
   },
   {
-    "key": "DP_0726_0054",
+    "key": "DP_0557_0054",
     "original": "めいろブロック４",
     "translation": "迷路岩石４",
     "index": 54
   },
   {
-    "key": "DP_0726_0055",
+    "key": "DP_0557_0055",
     "original": "めいろブロック５",
     "translation": "迷路岩石５",
     "index": 55
   },
   {
-    "key": "DP_0726_0056",
+    "key": "DP_0557_0056",
     "original": "あなそうち",
     "translation": "陷坑装置",
     "index": 56
   },
   {
-    "key": "DP_0726_0057",
+    "key": "DP_0557_0057",
     "original": "おおあなそうち",
     "translation": "大陷坑装置",
     "index": 57
   },
   {
-    "key": "DP_0726_0058",
+    "key": "DP_0557_0058",
     "original": "けむりそうち",
     "translation": "烟雾装置",
     "index": 58
   },
   {
-    "key": "DP_0726_0059",
+    "key": "DP_0557_0059",
     "original": "えんまくそうち",
     "translation": "烟幕装置",
     "index": 59
   },
   {
-    "key": "DP_0726_0060",
+    "key": "DP_0557_0060",
     "original": "いわそうち",
     "translation": "石头装置",
     "index": 60
   },
   {
-    "key": "DP_0726_0061",
+    "key": "DP_0557_0061",
     "original": "らくせきそうち",
     "translation": "落实装置",
     "index": 61
   },
   {
-    "key": "DP_0726_0062",
+    "key": "DP_0557_0062",
     "original": "あわそうち",
     "translation": "泡沫装置",
     "index": 62
   },
   {
-    "key": "DP_0726_0063",
+    "key": "DP_0557_0063",
     "original": "バブルそうち",
     "translation": "泡沫装置",
     "index": 63
   },
   {
-    "key": "DP_0726_0064",
+    "key": "DP_0557_0064",
     "original": "あいずそうち１",
     "translation": "信号装置１",
     "index": 64
   },
   {
-    "key": "DP_0726_0065",
+    "key": "DP_0557_0065",
     "original": "あいずそうち２",
     "translation": "信号装置２",
     "index": 65
   },
   {
-    "key": "DP_0726_0066",
+    "key": "DP_0557_0066",
     "original": "あいずそうち３",
     "translation": "信号装置３",
     "index": 66
   },
   {
-    "key": "DP_0726_0067",
+    "key": "DP_0557_0067",
     "original": "あいずそうち４",
     "translation": "信号装置４",
     "index": 67
   },
   {
-    "key": "DP_0726_0068",
+    "key": "DP_0557_0068",
     "original": "このはそうち",
     "translation": "树叶装置",
     "index": 68
   },
   {
-    "key": "DP_0726_0069",
+    "key": "DP_0557_0069",
     "original": "はなびらそうち",
     "translation": "花瓣装置",
     "index": 69
   },
   {
-    "key": "DP_0726_0070",
+    "key": "DP_0557_0070",
     "original": "ひのこそうち",
     "translation": "火花装置",
     "index": 70
   },
   {
-    "key": "DP_0726_0071",
+    "key": "DP_0557_0071",
     "original": "ほのおそうち",
     "translation": "火焰装置",
     "index": 71
   },
   {
-    "key": "DP_0726_0072",
+    "key": "DP_0557_0072",
     "original": "かわいいカップ",
     "translation": "可爱杯",
     "index": 72
   },
   {
-    "key": "DP_0726_0073",
+    "key": "DP_0557_0073",
     "original": "かっこいいカップ",
     "translation": "帅气杯",
     "index": 73
   },
   {
-    "key": "DP_0726_0074",
+    "key": "DP_0557_0074",
     "original": "うつくしいカップ",
     "translation": "美丽杯",
     "index": 74
   },
   {
-    "key": "DP_0726_0075",
+    "key": "DP_0557_0075",
     "original": "たくましいカップ",
     "translation": "强壮杯",
     "index": 75
   },
   {
-    "key": "DP_0726_0076",
+    "key": "DP_0557_0076",
     "original": "かしこいカップ",
     "translation": "聪明杯",
     "index": 76
   },
   {
-    "key": "DP_0726_0077",
+    "key": "DP_0557_0077",
     "original": "あおいすいしょう",
     "translation": "蓝水晶",
     "index": 77
   },
   {
-    "key": "DP_0726_0078",
+    "key": "DP_0557_0078",
     "original": "ピンクすいしょう",
     "translation": "粉色水晶",
     "index": 78
   },
   {
-    "key": "DP_0726_0079",
+    "key": "DP_0557_0079",
     "original": "あかいすいしょう",
     "translation": "红水晶",
     "index": 79
   },
   {
-    "key": "DP_0726_0080",
+    "key": "DP_0557_0080",
     "original": "きいろすいしょう",
     "translation": "黄水晶",
     "index": 80
   },
   {
-    "key": "DP_0726_0081",
+    "key": "DP_0557_0081",
     "original": "きれいなほうせき",
     "translation": "漂亮宝石",
     "index": 81
   },
   {
-    "key": "DP_0726_0082",
+    "key": "DP_0557_0082",
     "original": "かがやくほうせき",
     "translation": "闪光宝石",
     "index": 82
   },
   {
-    "key": "DP_0726_0083",
+    "key": "DP_0557_0083",
     "original": "しんぴのほうせき",
     "translation": "神秘宝石",
     "index": 83
   },
   {
-    "key": "DP_0726_0084",
+    "key": "DP_0557_0084",
     "original": "きらめくほうせき",
     "translation": "闪耀的宝石",
     "index": 84
   },
   {
-    "key": "DP_0726_0085",
+    "key": "DP_0557_0085",
     "original": "どうのトロフィ",
     "translation": "铜奖杯",
     "index": 85
   },
   {
-    "key": "DP_0726_0086",
+    "key": "DP_0557_0086",
     "original": "ぎんのトロフィ",
     "translation": "银奖杯",
     "index": 86
   },
   {
-    "key": "DP_0726_0087",
+    "key": "DP_0557_0087",
     "original": "きんのトロフィ",
     "translation": "金奖杯",
     "index": 87
   },
   {
-    "key": "DP_0726_0088",
+    "key": "DP_0557_0088",
     "original": "すごいトロフィ",
     "translation": "很棒的奖杯",
     "index": 88
   },
   {
-    "key": "DP_0726_0089",
+    "key": "DP_0557_0089",
     "original": "ボールのオブジェ",
     "translation": "球状物体",
     "index": 89
   },
   {
-    "key": "DP_0726_0090",
+    "key": "DP_0557_0090",
     "original": "まんまるオブジェ",
     "translation": "圆形物体",
     "index": 90
   },
   {
-    "key": "DP_0726_0091",
+    "key": "DP_0557_0091",
     "original": "とうめいオブジェ",
     "translation": "透明物体",
     "index": 91
   },
   {
-    "key": "DP_0726_0092",
+    "key": "DP_0557_0092",
     "original": "ヒトカゲドール",
     "translation": "小火龙玩偶",
     "index": 92
   },
   {
-    "key": "DP_0726_0093",
+    "key": "DP_0557_0093",
     "original": "フシギダネドール",
     "translation": "妙蛙种子玩偶",
     "index": 93
   },
   {
-    "key": "DP_0726_0094",
+    "key": "DP_0557_0094",
     "original": "ゼニガメドール",
     "translation": "杰尼龟玩偶",
     "index": 94
   },
   {
-    "key": "DP_0726_0095",
+    "key": "DP_0557_0095",
     "original": "ヒノアラシドール",
     "translation": "火球鼠玩偶",
     "index": 95
   },
   {
-    "key": "DP_0726_0096",
+    "key": "DP_0557_0096",
     "original": "チコリータドール",
     "translation": "菊草叶玩偶",
     "index": 96
   },
   {
-    "key": "DP_0726_0097",
+    "key": "DP_0557_0097",
     "original": "ワニノコドール",
     "translation": "小锯鳄玩偶",
     "index": 97
   },
   {
-    "key": "DP_0726_0098",
+    "key": "DP_0557_0098",
     "original": "アチャモドール",
     "translation": "火稚鸡玩偶",
     "index": 98
   },
   {
-    "key": "DP_0726_0099",
+    "key": "DP_0557_0099",
     "original": "キモリドール",
     "translation": "木守宫玩偶",
     "index": 99
   },
   {
-    "key": "DP_0726_0100",
+    "key": "DP_0557_0100",
     "original": "ミズゴロウドール",
     "translation": "水跃鱼玩偶",
     "index": 100
   },
   {
-    "key": "DP_0726_0101",
+    "key": "DP_0557_0101",
     "original": "ヒコザルドール",
     "translation": "小火焰猴玩偶",
     "index": 101
   },
   {
-    "key": "DP_0726_0102",
+    "key": "DP_0557_0102",
     "original": "ナエトルドール",
     "translation": "草苗龟玩偶",
     "index": 102
   },
   {
-    "key": "DP_0726_0103",
+    "key": "DP_0557_0103",
     "original": "ポッチャマドール",
     "translation": "波加曼玩偶",
     "index": 103
   },
   {
-    "key": "DP_0726_0104",
+    "key": "DP_0557_0104",
     "original": "ピカチュウドール",
     "translation": "皮卡丘玩偶",
     "index": 104
   },
   {
-    "key": "DP_0726_0105",
+    "key": "DP_0557_0105",
     "original": "プラスルドール",
     "translation": "正电拍拍玩偶",
     "index": 105
   },
   {
-    "key": "DP_0726_0106",
+    "key": "DP_0557_0106",
     "original": "マイナンドール",
     "translation": "负电拍拍玩偶",
     "index": 106
   },
   {
-    "key": "DP_0726_0107",
+    "key": "DP_0557_0107",
     "original": "ピッピドール",
     "translation": "皮皮玩偶",
     "index": 107
   },
   {
-    "key": "DP_0726_0108",
+    "key": "DP_0557_0108",
     "original": "プリンドール",
     "translation": "胖丁玩偶",
     "index": 108
   },
   {
-    "key": "DP_0726_0109",
+    "key": "DP_0557_0109",
     "original": "ソーナンスドール",
     "translation": "果然翁玩偶",
     "index": 109
   },
   {
-    "key": "DP_0726_0110",
+    "key": "DP_0557_0110",
     "original": "ニャースドール",
     "translation": "喵喵玩偶",
     "index": 110
   },
   {
-    "key": "DP_0726_0111",
+    "key": "DP_0557_0111",
     "original": "エネコドール",
     "translation": "向尾喵玩偶",
     "index": 111
   },
   {
-    "key": "DP_0726_0112",
+    "key": "DP_0557_0112",
     "original": "ニャルマードール",
     "translation": "魅力喵玩偶",
     "index": 112
   },
   {
-    "key": "DP_0726_0113",
+    "key": "DP_0557_0113",
     "original": "ミミロルドール",
     "translation": "卷卷耳玩偶",
     "index": 113
   },
   {
-    "key": "DP_0726_0114",
+    "key": "DP_0557_0114",
     "original": "マニューラドール",
     "translation": "玛狃拉玩偶",
     "index": 114
   },
   {
-    "key": "DP_0726_0115",
+    "key": "DP_0557_0115",
     "original": "ゴンベドール",
     "translation": "小卡比兽玩偶",
     "index": 115
   },
   {
-    "key": "DP_0726_0116",
+    "key": "DP_0557_0116",
     "original": "ウソハチドール",
     "translation": "盆才怪玩偶",
     "index": 116
   },
   {
-    "key": "DP_0726_0117",
+    "key": "DP_0557_0117",
     "original": "マネネドール",
     "translation": "魔尼尼玩偶",
     "index": 117
   },
   {
-    "key": "DP_0726_0118",
+    "key": "DP_0557_0118",
     "original": "ルカリオドール",
     "translation": "路卡利欧玩偶",
     "index": 118
   },
   {
-    "key": "DP_0726_0119",
+    "key": "DP_0557_0119",
     "original": "タマンタドール",
     "translation": "小球飞鱼玩偶",
     "index": 119
   },
   {
-    "key": "DP_0726_0120",
+    "key": "DP_0557_0120",
     "original": "ブイゼルドール",
     "translation": "泳圈鼬玩偶",
     "index": 120
   },
   {
-    "key": "DP_0726_0121",
+    "key": "DP_0557_0121",
     "original": "ペラップドール",
     "translation": "聒噪鸟玩偶",
     "index": 121
   },
   {
-    "key": "DP_0726_0122",
+    "key": "DP_0557_0122",
     "original": "マナフィドール",
     "translation": "玛纳霏玩偶",
     "index": 122
   },
   {
-    "key": "DP_0726_0123",
+    "key": "DP_0557_0123",
     "original": "カビゴンドール",
     "translation": "卡比兽玩偶",
     "index": 123
   },
   {
-    "key": "DP_0726_0124",
+    "key": "DP_0557_0124",
     "original": "ホエルオードール",
     "translation": "吼鲸王玩偶",
     "index": 124
   },
   {
-    "key": "DP_0726_0125",
+    "key": "DP_0557_0125",
     "original": "ジバコイルドール",
     "translation": "自爆磁怪玩偶",
     "index": 125
   },
   {
-    "key": "DP_0726_0126",
+    "key": "DP_0557_0126",
     "original": "フワンテドール",
     "translation": "飘飘球玩偶",
     "index": 126
   },
   {
-    "key": "DP_0726_0127",
+    "key": "DP_0557_0127",
     "original": "ピンプクドール",
     "translation": "小福蛋玩偶",
     "index": 127
   },
   {
-    "key": "DP_0726_0128",
+    "key": "DP_0557_0128",
     "original": "パチリスドール",
     "translation": "帕奇利兹玩偶",
     "index": 128
   },
   {
-    "key": "DP_0726_0129",
+    "key": "DP_0557_0129",
     "original": "ひみつきちのあな",
     "translation": "秘密基地的洞",
     "index": 129
   },
   {
-    "key": "DP_0726_0130",
+    "key": "DP_0557_0130",
     "original": "ひみつきちのあな",
     "translation": "秘密基地的洞",
     "index": 130
   },
   {
-    "key": "DP_0726_0131",
+    "key": "DP_0557_0131",
     "original": "ひみつきちのあな",
     "translation": "秘密基地的洞",
     "index": 131
   },
   {
-    "key": "DP_0726_0132",
+    "key": "DP_0557_0132",
     "original": "ひみつきちのあな",
     "translation": "秘密基地的洞",
     "index": 132
   },
   {
-    "key": "DP_0726_0133",
+    "key": "DP_0557_0133",
     "original": "よこながソファ",
     "translation": "长沙发",
     "index": 133
   },
   {
-    "key": "DP_0726_0134",
+    "key": "DP_0557_0134",
     "original": "ぼんさい",
     "translation": "盆栽",
     "index": 134
   },
   {
-    "key": "DP_0726_0135",
+    "key": "DP_0557_0135",
     "original": "きれいなはな",
     "translation": "漂亮的花",
     "index": 135
   },
   {
-    "key": "DP_0726_0136",
+    "key": "DP_0557_0136",
     "original": "うつくしいはな",
     "translation": "美丽的花",
     "index": 136
   },
   {
-    "key": "DP_0726_0137",
+    "key": "DP_0557_0137",
     "original": "かわいいはな",
     "translation": "可爱的花",
     "index": 137
   },
   {
-    "key": "DP_0726_0138",
+    "key": "DP_0557_0138",
     "original": "ごうかなはな",
     "translation": "豪华的花",
     "index": 138
   },
   {
-    "key": "DP_0726_0139",
+    "key": "DP_0557_0139",
     "original": "ふくろ を とじます",
     "translation": "关闭口袋",
     "index": 139
   },
   {
-    "key": "DP_0726_0140",
+    "key": "DP_0557_0140",
     "original": "ダミー",
     "translation": "模型",
     "index": 140
   },
   {
-    "key": "DP_0726_0141",
+    "key": "DP_0557_0141",
     "original": "ダミー",
     "translation": "模型",
     "index": 141
   },
   {
-    "key": "DP_0726_0142",
+    "key": "DP_0557_0142",
     "original": "ダミー",
     "translation": "模型",
     "index": 142
   },
   {
-    "key": "DP_0726_0143",
+    "key": "DP_0557_0143",
     "original": "ダミー",
     "translation": "模型",
     "index": 143
   },
   {
-    "key": "DP_0726_0144",
+    "key": "DP_0557_0144",
     "original": "ダミー",
     "translation": "模型",
     "index": 144
   },
   {
-    "key": "DP_0726_0145",
+    "key": "DP_0557_0145",
     "original": "ひみつきちに おくことが できる\nきいろい クッション",
     "translation": "可以传送到秘密基地的黄色坐垫",
     "index": 145
   },
   {
-    "key": "DP_0726_0146",
+    "key": "DP_0557_0146",
     "original": "ひみつきちに おくことが できる\nあおい クッション",
     "translation": "可以传送到秘密基地的蓝色坐垫",
     "index": 146
   },
   {
-    "key": "DP_0726_0147",
+    "key": "DP_0557_0147",
     "original": "ひみつきちに おくことが できる\nきで できた ちいさい イス",
     "translation": "可以传送到秘密基地的手工小椅子",
     "index": 147
   },
   {
-    "key": "DP_0726_0148",
+    "key": "DP_0557_0148",
     "original": "ひみつきちに おくことが できる\nとても おおきな テーブル",
     "translation": "可以传送到秘密基地的巨大桌子",
     "index": 148
   },
   {
-    "key": "DP_0726_0149",
+    "key": "DP_0557_0149",
     "original": "ひみつきちに おくことが できる\nふつうの テーブル",
     "translation": "可以传送到秘密基地的普通桌子",
     "index": 149
   },
   {
-    "key": "DP_0726_0150",
+    "key": "DP_0557_0150",
     "original": "ひみつきちに おくことが できる\nとても ちいさい テーブル",
     "translation": "可以传送到秘密基地的小桌子",
     "index": 150
   },
   {
-    "key": "DP_0726_0151",
+    "key": "DP_0557_0151",
     "original": "ひみつきちに おくことが できる\nたてに ながい テーブル",
     "translation": "可以传送到秘密基地的竖长桌子",
     "index": 151
   },
   {
-    "key": "DP_0726_0152",
+    "key": "DP_0557_0152",
     "original": "ひみつきちに おくことが できる\nよこに ながい テーブル",
     "translation": "可以传送到秘密基地的横长桌子",
     "index": 152
   },
   {
-    "key": "DP_0726_0153",
+    "key": "DP_0557_0153",
     "original": "ポケモンセンターに おかれている\nガラスで できた テーブル",
     "translation": "放在宝可梦中心的玻璃制桌子",
     "index": 153
   },
   {
-    "key": "DP_0726_0154",
+    "key": "DP_0557_0154",
     "original": "ひみつきちに おくことが できる\nおおきな ほんだな",
     "translation": "可以传送到秘密基地的大书架",
     "index": 154
   },
   {
-    "key": "DP_0726_0155",
+    "key": "DP_0557_0155",
     "original": "ひみつきちに おくことが できる\nちいさな ほんだな",
     "translation": "可以传送到秘密基地的小书架",
     "index": 155
   },
   {
-    "key": "DP_0726_0156",
+    "key": "DP_0557_0156",
     "original": "いろんな けんきゅうの しょるいを\nいれるのに さいてきな たな",
     "translation": "可以放置各种研究类书籍的架子",
     "index": 156
   },
   {
-    "key": "DP_0726_0157",
+    "key": "DP_0557_0157",
     "original": "じてんしゃや に おかれている\nこうぐの はいった たな",
     "translation": "放置在自行车店的放工具的架子",
     "index": 157
   },
   {
-    "key": "DP_0726_0158",
+    "key": "DP_0557_0158",
     "original": "フレンドリィショップに おかれている\nたくさんの しょうひんの はいった たな",
     "translation": "放在友好商店的\n陈列了很多商品的架子",
     "index": 158
   },
   {
-    "key": "DP_0726_0159",
+    "key": "DP_0557_0159",
     "original": "フレンドリィショップに おかれている\nいろんな しょうひんの はいった たな",
     "translation": "放在友好商店的\n陈列了很多商品的架子",
     "index": 159
   },
   {
-    "key": "DP_0726_0160",
+    "key": "DP_0557_0160",
     "original": "いろんな しょっきを きちんと\nしまうことが できる たな",
     "translation": "可以整齐地摆放着很多餐具的架子",
     "index": 160
   },
   {
-    "key": "DP_0726_0161",
+    "key": "DP_0557_0161",
     "original": "きで できた ふうかくのある タンス",
     "translation": "有格调的木制柜子",
     "index": 161
   },
   {
-    "key": "DP_0726_0162",
+    "key": "DP_0557_0162",
     "original": "ピンクいろの おしゃれな タンス",
     "translation": "粉红色的漂亮柜子",
     "index": 162
   },
   {
-    "key": "DP_0726_0163",
+    "key": "DP_0557_0163",
     "original": "とても よくできた\nおおきな おもちゃの テレビ",
     "translation": "做工精美的大玩具电视",
     "index": 163
   },
   {
-    "key": "DP_0726_0164",
+    "key": "DP_0557_0164",
     "original": "とても よくできた\nおもちゃの しろい れいぞうこ",
     "translation": "做工精美的白色玩具冰箱",
     "index": 164
   },
   {
-    "key": "DP_0726_0165",
+    "key": "DP_0557_0165",
     "original": "とても よくできた\nおもちゃの シンク",
     "translation": "做工精美的玩具净水槽",
     "index": 165
   },
   {
-    "key": "DP_0726_0166",
+    "key": "DP_0557_0166",
     "original": "ここちよい ゆめが みられる\nとても ふかふかな ベッド",
     "translation": "感觉能做好梦的软软的床",
     "index": 166
   },
   {
-    "key": "DP_0726_0167",
+    "key": "DP_0557_0167",
     "original": "まるい かたちを した\nみどりいろの ごみばこ",
     "translation": "绿色的圆形垃圾箱",
     "index": 167
   },
   {
-    "key": "DP_0726_0168",
+    "key": "DP_0557_0168",
     "original": "ちょっとしたものを いれるのに\nべんりな ちいさな ダンボール",
     "translation": "便于存放小物件的小纸箱",
     "index": 168
   },
   {
-    "key": "DP_0726_0169",
+    "key": "DP_0557_0169",
     "original": "いろんなものが はいっている\nおおきな きばこ",
     "translation": "装了各种东西的大木箱",
     "index": 169
   },
   {
-    "key": "DP_0726_0170",
+    "key": "DP_0557_0170",
     "original": "さまざまなものが はいっている\nおおきな コンテナ",
     "translation": "装了各种各样东西的大集装箱",
     "index": 170
   },
   {
-    "key": "DP_0726_0171",
+    "key": "DP_0557_0171",
     "original": "こうじょうに おかれている\nあかい ドラムかん",
     "translation": "放在工厂里的大圆罐",
     "index": 171
   },
   {
-    "key": "DP_0726_0172",
+    "key": "DP_0557_0172",
     "original": "こうじょうに おかれている\nたくさんの ドラムかん",
     "translation": "放在工厂里的很多圆罐",
     "index": 172
   },
   {
-    "key": "DP_0726_0173",
+    "key": "DP_0557_0173",
     "original": "こうじの ときに つかわれる\nあかい てっきん",
     "translation": "施工时使用的红色钢筋",
     "index": 173
   },
   {
-    "key": "DP_0726_0174",
+    "key": "DP_0557_0174",
     "original": "しぜんを かんじさせる\nかんしょうよう の うえき",
     "translation": "能让人感受到自然的观赏用盆栽",
     "index": 174
   },
   {
-    "key": "DP_0726_0175",
+    "key": "DP_0557_0175",
     "original": "ポケモンセンターに おかれている\nちいさな はな",
     "translation": "放在宝可梦中心的小花",
     "index": 175
   },
   {
-    "key": "DP_0726_0176",
+    "key": "DP_0557_0176",
     "original": "ポケモンセンターに おかれている\nかいふくようの マシン",
     "translation": "放在宝可梦中心的\n用以回复ＨＰ的机器",
     "index": 176
   },
   {
-    "key": "DP_0726_0177",
+    "key": "DP_0557_0177",
     "original": "ポケモンの けんきゅうに つかわれる\nピカピカひかる マシン",
     "translation": "用于宝可梦研究的闪闪发光的机器",
     "index": 177
   },
   {
-    "key": "DP_0726_0178",
+    "key": "DP_0557_0178",
     "original": "いろんな じっけんに つかわれる\nチカチカ ひかる マシン",
     "translation": "用于各种实验的闪烁的机器",
     "index": 178
   },
   {
-    "key": "DP_0726_0179",
+    "key": "DP_0557_0179",
     "original": "じぶんの いえにも おかれている\nさいしんの ゲームマシン",
     "translation": "自己的家里也有的最新型游戏机",
     "index": 179
   },
   {
-    "key": "DP_0726_0180",
+    "key": "DP_0557_0180",
     "original": "じっさいには かうことが できない\nおもちゃの じどうはんばいき",
     "translation": "实际上买不到的玩具自动贩卖机",
     "index": 180
   },
   {
-    "key": "DP_0726_0181",
+    "key": "DP_0557_0181",
     "original": "じてんしゃや に おかれている\nてんじよう の あかいじてんしゃ",
     "translation": "放在自行车店\n用于展示的红色自行车",
     "index": 181
   },
   {
-    "key": "DP_0726_0182",
+    "key": "DP_0557_0182",
     "original": "じてんしゃや に おかれている\nてんじよう の みどりのじてんしゃ",
     "translation": "放在自行车店\n用于展示的绿色自行车",
     "index": 182
   },
   {
-    "key": "DP_0726_0183",
+    "key": "DP_0557_0183",
     "original": "とおくまで みることが できる\nそうがんきょうの おきもの",
     "translation": "能看得很远的望远镜装置",
     "index": 183
   },
   {
-    "key": "DP_0726_0184",
+    "key": "DP_0557_0184",
     "original": "いろんな ばしょに たくさんの\nともだちが いる あかし",
     "translation": "在很多地方有很多朋友的证明",
     "index": 184
   },
   {
-    "key": "DP_0726_0185",
+    "key": "DP_0557_0185",
     "original": "ジムに おかれている\nポケモンの せきぞう ",
     "translation": "放在道馆里的宝可梦石像　",
     "index": 185
   },
   {
-    "key": "DP_0726_0186",
+    "key": "DP_0557_0186",
     "original": "なかに はいることが できる\nおおきな あかい テント",
     "translation": "可以进入的巨大红色帐篷",
     "index": 186
   },
   {
-    "key": "DP_0726_0187",
+    "key": "DP_0557_0187",
     "original": "なかに はいることが できる\nおおきな あおい テント",
     "translation": "可以进入的巨大蓝色帐篷",
     "index": 187
   },
   {
-    "key": "DP_0726_0188",
+    "key": "DP_0557_0188",
     "original": "なかに はいることが できる\nおおきな とうめいの テント",
     "translation": "可以进入的巨大透明的帐篷",
     "index": 188
   },
   {
-    "key": "DP_0726_0189",
+    "key": "DP_0557_0189",
     "original": "うえが ふさがっている\nめいろを つくる ブロック",
     "translation": "上边堵住了的制造迷宫的岩石",
     "index": 189
   },
   {
-    "key": "DP_0726_0190",
+    "key": "DP_0557_0190",
     "original": "みぎが ふさがっている\nめいろを つくる ブロック",
     "translation": "右边堵住了的制造迷宫的岩石",
     "index": 190
   },
   {
-    "key": "DP_0726_0191",
+    "key": "DP_0557_0191",
     "original": "したが ふさがっている\nめいろを つくる ブロック",
     "translation": "下边堵住了的制造迷宫的岩石",
     "index": 191
   },
   {
-    "key": "DP_0726_0192",
+    "key": "DP_0557_0192",
     "original": "ひだりが ふさがっている\nめいろを つくる ブロック",
     "translation": "左边堵住了的制造迷宫的岩石",
     "index": 192
   },
   {
-    "key": "DP_0726_0193",
+    "key": "DP_0557_0193",
     "original": "すべて とおることが できる\nめいろを つくる ブロック",
     "translation": "全都通着的制造迷宫的岩石",
     "index": 193
   },
   {
-    "key": "DP_0726_0194",
+    "key": "DP_0557_0194",
     "original": "おおきな おとしあなで\nうごきを とめてしまう そうち",
     "translation": "大装置　停止动作的装置",
     "index": 194
   },
   {
-    "key": "DP_0726_0195",
+    "key": "DP_0557_0195",
     "original": "とても おおきな おとしあなで\nうごきを とめてしまう そうち",
     "translation": "非常大的装置　停止动作的装置",
     "index": 195
   },
   {
-    "key": "DP_0726_0196",
+    "key": "DP_0557_0196",
     "original": "けむりで なにも みえなくなる そうち\nこすると みえるように なっていく",
     "translation": "冒出烟让人什么都不到的装置\n过一会儿就又能看到了",
     "index": 196
   },
   {
-    "key": "DP_0726_0197",
+    "key": "DP_0557_0197",
     "original": "たいりょうの けむりがでる そうち\nこすると みえるように なっていく",
     "translation": "冒出大量烟的装置\n过一会儿就又能看到了",
     "index": 197
   },
   {
-    "key": "DP_0726_0198",
+    "key": "DP_0557_0198",
     "original": "いわで うごけなくなる そうち\nいわを こわすと うごけるようになる",
     "translation": "以堵岩石堵封住人行动的装置，\n击碎岩石就又能动了",
     "index": 198
   },
   {
-    "key": "DP_0726_0199",
+    "key": "DP_0557_0199",
     "original": "おおきな いわがでる そうち\nいわを こわすと うごけるようになる",
     "translation": "冒出巨大岩石的装置\n击碎岩石就又能动了",
     "index": 199
   },
   {
-    "key": "DP_0726_0200",
+    "key": "DP_0557_0200",
     "original": "あわで うごけなくなる そうち\nあわを わると うごけるようになる",
     "translation": "以泡沫封住人行动的装置\n弄破泡沫就又能动了",
     "index": 200
   },
   {
-    "key": "DP_0726_0201",
+    "key": "DP_0557_0201",
     "original": "たくさんの あわがでる そうち\nあわを わると うごけるようになる",
     "translation": "冒出大量泡沫的装置\n弄破泡沫就又能动了",
     "index": 201
   },
   {
-    "key": "DP_0726_0202",
+    "key": "DP_0557_0202",
     "original": "ふむと ちかにいる みんなに\nあいさつの あいずを おくれる そうち",
     "translation": "踩在上面就会向周围的人\n送出问好的信号",
     "index": 202
   },
   {
-    "key": "DP_0726_0203",
+    "key": "DP_0557_0203",
     "original": "ふむと ちかにいる みんなに\nさよならの あいずを おくれる そうち",
     "translation": "踩在上面就会向周围的人\n送出告别的信号",
     "index": 203
   },
   {
-    "key": "DP_0726_0204",
+    "key": "DP_0557_0204",
     "original": "ふむと ちかにいる みんなに ユニオン\nルーム にいく と あいずを おくれる",
     "translation": "踩在上面就会向周围的人\n送出“去联盟交谊厅”的信号",
     "index": 204
   },
   {
-    "key": "DP_0726_0205",
+    "key": "DP_0557_0205",
     "original": "ふむと ちかにいる みんなに\nこっちにきて と あいずを おくれる",
     "translation": "踩在上面就会向周围的人\n送出“到这里来”的信号",
     "index": 205
   },
   {
-    "key": "DP_0726_0206",
+    "key": "DP_0557_0206",
     "original": "このは で うごけなくなる そうち\nふきとばすと うごけるようになる",
     "translation": "以叶片封住人行动的装置\n吹掉就又能行动了",
     "index": 206
   },
   {
-    "key": "DP_0726_0207",
+    "key": "DP_0557_0207",
     "original": "たくさんの はなびら がでる そうち\nふきとばすと うごけるようになる",
     "translation": "冒出大量花瓣的装置\n吹掉就有能行动了",
     "index": 207
   },
   {
-    "key": "DP_0726_0208",
+    "key": "DP_0557_0208",
     "original": "ひのこで うごけなくなる そうち\nふきとばすと うごけるようになる",
     "translation": "以火花封住人行动的装置\n吹散就又能行动了",
     "index": 208
   },
   {
-    "key": "DP_0726_0209",
+    "key": "DP_0557_0209",
     "original": "おおきな ほのおがでる そうち\nふきとばすと うごけるようになる",
     "translation": "冒出大量火焰的装置\n吹散就又能行动了",
     "index": 209
   },
   {
-    "key": "DP_0726_0210",
+    "key": "DP_0557_0210",
     "original": "ほんとうに かわいい ポケモンにだけ\nおくられる カップ",
     "translation": "只送给那些真正可爱的宝可梦的\n奖杯",
     "index": 210
   },
   {
-    "key": "DP_0726_0211",
+    "key": "DP_0557_0211",
     "original": "すばらしく かっこいい ポケモンにだけ\nおくられる カップ",
     "translation": "只送给那些非常帅气的宝可梦的\n奖杯",
     "index": 211
   },
   {
-    "key": "DP_0726_0212",
+    "key": "DP_0557_0212",
     "original": "さいこうに うつくしい ポケモンにだけ\nおくられる カップ",
     "translation": "只送给那些最美丽的宝可梦的\n奖杯",
     "index": 212
   },
   {
-    "key": "DP_0726_0213",
+    "key": "DP_0557_0213",
     "original": "だれよりも たくましい ポケモンにだけ\nおくられる カップ",
     "translation": "只送给那些比谁都强壮的宝可梦的\n奖杯",
     "index": 213
   },
   {
-    "key": "DP_0726_0214",
+    "key": "DP_0557_0214",
     "original": "ばつぐんに かしこい ポケモンにだけ\nおくられる カップ",
     "translation": "只送给那些异常聪明的宝可梦的\n奖杯",
     "index": 214
   },
   {
-    "key": "DP_0726_0215",
+    "key": "DP_0557_0215",
     "original": "しんせつな ひとに おくられる\nめずらしい あおい すいしょう",
     "translation": "送给亲切的人的稀有蓝色水晶",
     "index": 215
   },
   {
-    "key": "DP_0726_0216",
+    "key": "DP_0557_0216",
     "original": "やさしい ひとに おくられる\nめずらしい ピンクの すいしょう",
     "translation": "送给善良的人的稀有粉色水晶",
     "index": 216
   },
   {
-    "key": "DP_0726_0217",
+    "key": "DP_0557_0217",
     "original": "かんばりやな ひとに おくられる\nめずらしい あかい すいしょう",
     "translation": "送给勤奋的人的稀有红色水晶",
     "index": 217
   },
   {
-    "key": "DP_0726_0218",
+    "key": "DP_0557_0218",
     "original": "じみちな ひとに おくられる\nめずらしい きいろい すいしょう",
     "translation": "送给踏实的人的稀有黄色水晶",
     "index": 218
   },
   {
-    "key": "DP_0726_0219",
+    "key": "DP_0557_0219",
     "original": "うつくしく カット された\nきれいな ほうせき",
     "translation": "被漂亮切割的美丽宝石",
     "index": 219
   },
   {
-    "key": "DP_0726_0220",
+    "key": "DP_0557_0220",
     "original": "かがみの ように みがかれた\nひかりかがやく ほうせき",
     "translation": "被磨得像镜面一样光亮的宝石",
     "index": 220
   },
   {
-    "key": "DP_0726_0221",
+    "key": "DP_0557_0221",
     "original": "なかなか てにいれることが できない\nしんぴてきな ひかりをはなつ ほうせき",
     "translation": "非常难到手的\n会发出神秘光亮的水晶",
     "index": 221
   },
   {
-    "key": "DP_0726_0222",
+    "key": "DP_0557_0222",
     "original": "まぶしいほどに きらめく\nとても きちょうな ほうせき",
     "translation": "耀眼闪耀的非常贵重的宝石",
     "index": 222
   },
   {
-    "key": "DP_0726_0223",
+    "key": "DP_0557_0223",
     "original": "つよい ポケモンにだけ おくられる\nどうで できた トロフィ",
     "translation": "只送给实力强大的宝可梦的\n铜制奖杯",
     "index": 223
   },
   {
-    "key": "DP_0726_0224",
+    "key": "DP_0557_0224",
     "original": "かなり つよい ポケモンにだけ\nおくられる ぎんいろの トロフィ",
     "translation": "只送给实力相当强大的宝可梦的\n银制奖杯",
     "index": 224
   },
   {
-    "key": "DP_0726_0225",
+    "key": "DP_0557_0225",
     "original": "すばらしく つよい ポケモンにだけ\nおくられる きんいろの トロフィ",
     "translation": "只送给实力非常强大的宝可梦的\n金制奖杯",
     "index": 225
   },
   {
-    "key": "DP_0726_0226",
+    "key": "DP_0557_0226",
     "original": "だれも かてないほど つよい ポケモン\nにだけ おくられる すごい トロフィ",
     "translation": "只送给天下无敌般强大的宝可梦的\n特别奖杯",
     "index": 226
   },
   {
-    "key": "DP_0726_0227",
+    "key": "DP_0557_0227",
     "original": "モンスターボールの かたちを した\nきねんすべき オブジェ",
     "translation": "精灵球形状的值得纪念的\n物体",
     "index": 227
   },
   {
-    "key": "DP_0726_0228",
+    "key": "DP_0557_0228",
     "original": "なないろに ひかる\nとても きちょうな まるい オブジェ",
     "translation": "闪耀七色光的非常贵重的圆形物体",
     "index": 228
   },
   {
-    "key": "DP_0726_0229",
+    "key": "DP_0557_0229",
     "original": "すきとおるほど とうめい\nとても きちょうな オブジェ",
     "translation": "透明的非常贵重的物体",
     "index": 229
   },
   {
-    "key": "DP_0726_0230",
+    "key": "DP_0557_0230",
     "original": "ヒトカゲの かたちを した\nかわいらしい にんぎょう",
     "translation": "人影形状的可爱玩偶",
     "index": 230
   },
   {
-    "key": "DP_0726_0231",
+    "key": "DP_0557_0231",
     "original": "フシギダネの かたちを した\nかわいらしい にんぎょう",
     "translation": "妙蛙种子形状的可爱玩偶",
     "index": 231
   },
   {
-    "key": "DP_0726_0232",
+    "key": "DP_0557_0232",
     "original": "ゼニガメの かたちを した\nかわいらしい にんぎょう",
     "translation": "杰尼龟形状的可爱玩偶",
     "index": 232
   },
   {
-    "key": "DP_0726_0233",
+    "key": "DP_0557_0233",
     "original": "ヒノアラシの かたちを した\nかわいらしい にんぎょう",
     "translation": "小火龙形状的可爱玩偶",
     "index": 233
   },
   {
-    "key": "DP_0726_0234",
+    "key": "DP_0557_0234",
     "original": "チコリータの かたちを した\nかわいらしい にんぎょう",
     "translation": "菊叶草形状的可爱玩偶",
     "index": 234
   },
   {
-    "key": "DP_0726_0235",
+    "key": "DP_0557_0235",
     "original": "ワニノコの かたちを した\nかわいらしい にんぎょう",
     "translation": "小锯鳄形状的可爱玩偶",
     "index": 235
   },
   {
-    "key": "DP_0726_0236",
+    "key": "DP_0557_0236",
     "original": "アチャモの かたちを した\nかわいらしい にんぎょう",
     "translation": "火稚鸡形状的可爱玩偶",
     "index": 236
   },
   {
-    "key": "DP_0726_0237",
+    "key": "DP_0557_0237",
     "original": "キモリの かたちを した\nかわいらしい にんぎょう",
     "translation": "木守宫形状的可爱玩偶",
     "index": 237
   },
   {
-    "key": "DP_0726_0238",
+    "key": "DP_0557_0238",
     "original": "ミズゴロウの かたちを した\nかわいらしい にんぎょう",
     "translation": "水跃鱼形状的可爱玩偶",
     "index": 238
   },
   {
-    "key": "DP_0726_0239",
+    "key": "DP_0557_0239",
     "original": "ヒコザルの かたちを した\nかわいらしい にんぎょう",
     "translation": "小火焰猴形状的可爱玩偶",
     "index": 239
   },
   {
-    "key": "DP_0726_0240",
+    "key": "DP_0557_0240",
     "original": "ナエトルの かたちを した\nかわいらしい にんぎょう",
     "translation": "草苗龟形状的可爱玩偶",
     "index": 240
   },
   {
-    "key": "DP_0726_0241",
+    "key": "DP_0557_0241",
     "original": "ポッチャマの かたちを した\nかわいらしい にんぎょう",
     "translation": "波加曼形状的可爱玩偶",
     "index": 241
   },
   {
-    "key": "DP_0726_0242",
+    "key": "DP_0557_0242",
     "original": "ピカチュウの かたちを した\nかわいらしい にんぎょう",
     "translation": "皮卡丘形状的可爱玩偶",
     "index": 242
   },
   {
-    "key": "DP_0726_0243",
+    "key": "DP_0557_0243",
     "original": "プラスルの かたちを した\nかわいらしい にんぎょう",
     "translation": "正电拍拍形状的可爱玩偶",
     "index": 243
   },
   {
-    "key": "DP_0726_0244",
+    "key": "DP_0557_0244",
     "original": "マイナンの かたちを した\nかわいらしい にんぎょう",
     "translation": "负电拍拍形状的可爱玩偶",
     "index": 244
   },
   {
-    "key": "DP_0726_0245",
+    "key": "DP_0557_0245",
     "original": "ピッピの かたちを した\nかわいらしい にんぎょう",
     "translation": "皮皮形状的可爱玩偶",
     "index": 245
   },
   {
-    "key": "DP_0726_0246",
+    "key": "DP_0557_0246",
     "original": "プリンの かたちを した\nかわいらしい にんぎょう",
     "translation": "胖丁形状的可爱玩偶",
     "index": 246
   },
   {
-    "key": "DP_0726_0247",
+    "key": "DP_0557_0247",
     "original": "ソーナンスの かたちを した\nかわいらしい にんぎょう",
     "translation": "果然翁形状的可爱玩偶",
     "index": 247
   },
   {
-    "key": "DP_0726_0248",
+    "key": "DP_0557_0248",
     "original": "ニャースの かたちを した\nかわいらしい にんぎょう",
     "translation": "喵喵形状的可爱玩偶",
     "index": 248
   },
   {
-    "key": "DP_0726_0249",
+    "key": "DP_0557_0249",
     "original": "エネコの かたちを した\nかわいらしい にんぎょう",
     "translation": "向尾喵形状的可爱玩偶",
     "index": 249
   },
   {
-    "key": "DP_0726_0250",
+    "key": "DP_0557_0250",
     "original": "ニャルマーの かたちを した\nかわいらしい にんぎょう",
     "translation": "魅力喵形状的可爱玩偶",
     "index": 250
   },
   {
-    "key": "DP_0726_0251",
+    "key": "DP_0557_0251",
     "original": "ミミロルの かたちを した\nかわいらしい にんぎょう",
     "translation": "卷卷耳形状的可爱玩偶",
     "index": 251
   },
   {
-    "key": "DP_0726_0252",
+    "key": "DP_0557_0252",
     "original": "マニューラの かたちを した\nかわいらしい にんぎょう",
     "translation": "玛狃拉形状的可爱玩偶",
     "index": 252
   },
   {
-    "key": "DP_0726_0253",
+    "key": "DP_0557_0253",
     "original": "ゴンベの かたちを した\nかわいらしい にんぎょう",
     "translation": "小卡比兽形状的可爱玩偶",
     "index": 253
   },
   {
-    "key": "DP_0726_0254",
+    "key": "DP_0557_0254",
     "original": "ウソハチの かたちを した\nかわいらしい にんぎょう",
     "translation": "盆才怪形状的可爱玩偶",
     "index": 254
   },
   {
-    "key": "DP_0726_0255",
+    "key": "DP_0557_0255",
     "original": "マネネの かたちを した\nかわいらしい にんぎょう",
     "translation": "魔尼尼形状的可爱玩偶",
     "index": 255
   },
   {
-    "key": "DP_0726_0256",
+    "key": "DP_0557_0256",
     "original": "ルカリオの かたちを した\nきちょうな にんぎょう",
     "translation": "路卡利欧形状的可爱玩偶",
     "index": 256
   },
   {
-    "key": "DP_0726_0257",
+    "key": "DP_0557_0257",
     "original": "タマンタの かたちを した\nかわいらしい にんぎょう",
     "translation": "小球飞鱼形状的可爱玩偶",
     "index": 257
   },
   {
-    "key": "DP_0726_0258",
+    "key": "DP_0557_0258",
     "original": "ブイゼルの かたちを した\nかわいらしい にんぎょう",
     "translation": "泳圈鼬形状的可爱玩偶",
     "index": 258
   },
   {
-    "key": "DP_0726_0259",
+    "key": "DP_0557_0259",
     "original": "ペラップの かたちを した\nかわいらしい にんぎょう",
     "translation": "聒噪鸟形状的可爱玩偶",
     "index": 259
   },
   {
-    "key": "DP_0726_0260",
+    "key": "DP_0557_0260",
     "original": "マナフィの かたちを した\nきちょうな にんぎょう",
     "translation": "玛纳霏形状的可爱玩偶",
     "index": 260
   },
   {
-    "key": "DP_0726_0261",
+    "key": "DP_0557_0261",
     "original": "カビゴンの かたちを した\nおおきな にんぎょう",
     "translation": "卡比兽形状的可爱玩偶",
     "index": 261
   },
   {
-    "key": "DP_0726_0262",
+    "key": "DP_0557_0262",
     "original": "ホエルオーの かたちを した\nおおきな にんぎょう",
     "translation": "吼鲸王形状的可爱玩偶",
     "index": 262
   },
   {
-    "key": "DP_0726_0263",
+    "key": "DP_0557_0263",
     "original": "ジバコイルの かたちを した\nおおきな にんぎょう",
     "translation": "自爆磁怪形状的可爱玩偶",
     "index": 263
   },
   {
-    "key": "DP_0726_0264",
+    "key": "DP_0557_0264",
     "original": "フワンテの かたちを した\nかわいらしい にんぎょう",
     "translation": "飘飘球形状的可爱玩偶",
     "index": 264
   },
   {
-    "key": "DP_0726_0265",
+    "key": "DP_0557_0265",
     "original": "ピンプクの かたちを した\nかわいらしい にんぎょう",
     "translation": "小福蛋形状的可爱玩偶",
     "index": 265
   },
   {
-    "key": "DP_0726_0266",
+    "key": "DP_0557_0266",
     "original": "パチリスの かたちを した\nかわいらしい にんぎょう",
     "translation": "帕奇利兹形状的可爱玩偶",
     "index": 266
   },
   {
-    "key": "DP_0726_0267",
+    "key": "DP_0557_0267",
     "original": "ダミー",
     "translation": "模型",
     "index": 267
   },
   {
-    "key": "DP_0726_0268",
+    "key": "DP_0557_0268",
     "original": "ダミー",
     "translation": "模型",
     "index": 268
   },
   {
-    "key": "DP_0726_0269",
+    "key": "DP_0557_0269",
     "original": "ダミー",
     "translation": "模型",
     "index": 269
   },
   {
-    "key": "DP_0726_0270",
+    "key": "DP_0557_0270",
     "original": "ダミー",
     "translation": "模型",
     "index": 270
   },
   {
-    "key": "DP_0726_0271",
+    "key": "DP_0557_0271",
     "original": "ふたりまですわれる あおいろの\nよこなが ソファ",
     "translation": "可坐两人的蓝色横长型的沙发",
     "index": 271
   },
   {
-    "key": "DP_0726_0272",
+    "key": "DP_0557_0272",
     "original": "しょくにんの てによって ていれ された\nしぶい ぼんさい",
     "translation": "经过工人加工的奇怪盆栽",
     "index": 272
   },
   {
-    "key": "DP_0726_0273",
+    "key": "DP_0557_0273",
     "original": "とても きれいな はなが\nかざってある うえきばち",
     "translation": "装饰着非常漂亮的花的盆栽花钵",
     "index": 273
   },
   {
-    "key": "DP_0726_0274",
+    "key": "DP_0557_0274",
     "original": "とても うつくしい はなが\nかざってある うえきばち",
     "translation": "装饰着非常美丽的花的盆栽花钵",
     "index": 274
   },
   {
-    "key": "DP_0726_0275",
+    "key": "DP_0557_0275",
     "original": "とても かわいい はなが\nかざってある うえきばち",
     "translation": "装饰着非常可爱的花的盆栽花钵",
     "index": 275
   },
   {
-    "key": "DP_0726_0276",
+    "key": "DP_0557_0276",
     "original": "いろんな はなが ごうかに\nかざられている プランター",
     "translation": "繁花装饰着的花钵",
     "index": 276
   },
   {
-    "key": "DP_0726_0277",
+    "key": "DP_0557_0277",
     "original": "もどる",
     "translation": "返回",
     "index": 277
   },
   {
-    "key": "DP_0726_0278",
+    "key": "DP_0557_0278",
     "original": "もどります",
     "translation": "返回",
     "index": 278

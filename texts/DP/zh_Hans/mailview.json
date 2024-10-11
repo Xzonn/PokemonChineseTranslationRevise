@@ -1,24 +1,24 @@
 [
   {
-    "key": "DP_0228_0000",
+    "key": "DP_0355_0000",
     "original": "けってい",
     "translation": "确定",
     "index": 0
   },
   {
-    "key": "DP_0228_0001",
+    "key": "DP_0355_0001",
     "original": "やめる",
     "translation": "取消",
     "index": 1
   },
   {
-    "key": "DP_0228_0002",
+    "key": "DP_0355_0002",
     "original": "なにか ことばを いれてください",
     "translation": "请说些什么吧。",
     "index": 2
   },
   {
-    "key": "DP_0228_0003",
+    "key": "DP_0355_0003",
     "original": "メールを もたせるのを\nやめますか？",
     "translation": "要放弃让它拿信吗？",
     "index": 3

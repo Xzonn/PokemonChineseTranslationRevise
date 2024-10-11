@@ -1,108 +1,108 @@
 [
   {
-    "key": "DP_0724_0000",
+    "key": "DP_0555_0000",
     "original": "ノーマル",
     "translation": "ノーマル",
     "index": 0
   },
   {
-    "key": "DP_0724_0001",
+    "key": "DP_0555_0001",
     "original": "かくとう",
     "translation": "かくとう",
     "index": 1
   },
   {
-    "key": "DP_0724_0002",
+    "key": "DP_0555_0002",
     "original": "ひこう",
     "translation": "ひこう",
     "index": 2
   },
   {
-    "key": "DP_0724_0003",
+    "key": "DP_0555_0003",
     "original": "どく",
     "translation": "どく",
     "index": 3
   },
   {
-    "key": "DP_0724_0004",
+    "key": "DP_0555_0004",
     "original": "じめん",
     "translation": "じめん",
     "index": 4
   },
   {
-    "key": "DP_0724_0005",
+    "key": "DP_0555_0005",
     "original": "いわ",
     "translation": "いわ",
     "index": 5
   },
   {
-    "key": "DP_0724_0006",
+    "key": "DP_0555_0006",
     "original": "むし",
     "translation": "むし",
     "index": 6
   },
   {
-    "key": "DP_0724_0007",
+    "key": "DP_0555_0007",
     "original": "ゴースト",
     "translation": "ゴースト",
     "index": 7
   },
   {
-    "key": "DP_0724_0008",
+    "key": "DP_0555_0008",
     "original": "はがね",
     "translation": "はがね",
     "index": 8
   },
   {
-    "key": "DP_0724_0009",
+    "key": "DP_0555_0009",
     "original": "？？？",
     "translation": "？？？",
     "index": 9
   },
   {
-    "key": "DP_0724_0010",
+    "key": "DP_0555_0010",
     "original": "ほのお",
     "translation": "ほのお",
     "index": 10
   },
   {
-    "key": "DP_0724_0011",
+    "key": "DP_0555_0011",
     "original": "みず",
     "translation": "みず",
     "index": 11
   },
   {
-    "key": "DP_0724_0012",
+    "key": "DP_0555_0012",
     "original": "くさ",
     "translation": "くさ",
     "index": 12
   },
   {
-    "key": "DP_0724_0013",
+    "key": "DP_0555_0013",
     "original": "でんき",
     "translation": "でんき",
     "index": 13
   },
   {
-    "key": "DP_0724_0014",
+    "key": "DP_0555_0014",
     "original": "エスパー",
     "translation": "エスパー",
     "index": 14
   },
   {
-    "key": "DP_0724_0015",
+    "key": "DP_0555_0015",
     "original": "こおり",
     "translation": "こおり",
     "index": 15
   },
   {
-    "key": "DP_0724_0016",
+    "key": "DP_0555_0016",
     "original": "ドラゴン",
     "translation": "ドラゴン",
     "index": 16
   },
   {
-    "key": "DP_0724_0017",
+    "key": "DP_0555_0017",
     "original": "あく",
     "translation": "あく",
     "index": 17

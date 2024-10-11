@@ -1,300 +1,300 @@
 [
   {
-    "key": "PT_0181_0000",
+    "key": "Pt_0353_0000",
     "original": "やめる",
     "translation": "取消",
     "index": 0
   },
   {
-    "key": "PT_0181_0001",
+    "key": "Pt_0353_0001",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
     "index": 1
   },
   {
-    "key": "PT_0181_0002",
+    "key": "Pt_0353_0002",
     "original": "[0103,0001]",
     "translation": "[0103,0001]",
     "index": 2
   },
   {
-    "key": "PT_0181_0003",
+    "key": "Pt_0353_0003",
     "original": "[0101,0002]",
     "translation": "[0101,0002]",
     "index": 3
   },
   {
-    "key": "PT_0181_0004",
+    "key": "Pt_0353_0004",
     "original": "[0101,0003]",
     "translation": "[0101,0003]",
     "index": 4
   },
   {
-    "key": "PT_0181_0005",
+    "key": "Pt_0353_0005",
     "original": "[0101,0004]",
     "translation": "[0101,0004]",
     "index": 5
   },
   {
-    "key": "PT_0181_0006",
+    "key": "Pt_0353_0006",
     "original": "[0101,0005]",
     "translation": "[0101,0005]",
     "index": 6
   },
   {
-    "key": "PT_0181_0007",
+    "key": "Pt_0353_0007",
     "original": "[0101,0006]",
     "translation": "[0101,0006]",
     "index": 7
   },
   {
-    "key": "PT_0181_0008",
+    "key": "Pt_0353_0008",
     "original": "[0101,0007]",
     "translation": "[0101,0007]",
     "index": 8
   },
   {
-    "key": "PT_0181_0009",
+    "key": "Pt_0353_0009",
     "original": "[0101,0008]",
     "translation": "[0101,0008]",
     "index": 9
   },
   {
-    "key": "PT_0181_0010",
+    "key": "Pt_0353_0010",
     "original": "[0101,0009]",
     "translation": "[0101,0009]",
     "index": 10
   },
   {
-    "key": "PT_0181_0011",
+    "key": "Pt_0353_0011",
     "original": "[0101,000A]",
     "translation": "[0101,000A]",
     "index": 11
   },
   {
-    "key": "PT_0181_0012",
+    "key": "Pt_0353_0012",
     "original": "[0101,000B]",
     "translation": "[0101,000B]",
     "index": 12
   },
   {
-    "key": "PT_0181_0013",
+    "key": "Pt_0353_0013",
     "original": "[0101,000C]",
     "translation": "[0101,000C]",
     "index": 13
   },
   {
-    "key": "PT_0181_0014",
+    "key": "Pt_0353_0014",
     "original": "[0101,000D]",
     "translation": "[0101,000D]",
     "index": 14
   },
   {
-    "key": "PT_0181_0015",
+    "key": "Pt_0353_0015",
     "original": "ポケモンを えらんでください",
     "translation": "请选择宝可梦。",
     "index": 15
   },
   {
-    "key": "PT_0181_0016",
-    "original": "[0101,0000]を どうしますか？",
+    "key": "Pt_0353_0016",
+    "original": "[0101,0000]を\nどうしますか？",
     "translation": "要对[0101,0000]\n做什么？",
     "index": 16
   },
   {
-    "key": "PT_0181_0017",
+    "key": "Pt_0353_0017",
     "original": "つよさをみる",
     "translation": "查看能力",
     "index": 17
   },
   {
-    "key": "PT_0181_0018",
+    "key": "Pt_0353_0018",
     "original": "こうかんにだす",
     "translation": "拿它去交换",
     "index": 18
   },
   {
-    "key": "PT_0181_0019",
+    "key": "Pt_0353_0019",
     "original": "もどる",
     "translation": "返回",
     "index": 19
   },
   {
-    "key": "PT_0181_0020",
+    "key": "Pt_0353_0020",
     "original": "つうしん たいきちゅう！\nしばらく おまちください",
     "translation": "正在等待连接……\n请稍等片刻。",
     "index": 20
   },
   {
-    "key": "PT_0181_0021",
+    "key": "Pt_0353_0021",
     "original": "[0101,0000]と [0101,0001]を\nこうかん しますか？",
     "translation": "要用[0101,0000]\n交换[0101,0001]吗？",
     "index": 21
   },
   {
-    "key": "PT_0181_0022",
+    "key": "Pt_0353_0022",
     "original": "はい",
     "translation": "是",
     "index": 22
   },
   {
-    "key": "PT_0181_0023",
+    "key": "Pt_0353_0023",
     "original": "いいえ",
     "translation": "否",
     "index": 23
   },
   {
-    "key": "PT_0181_0024",
+    "key": "Pt_0353_0024",
     "original": "こうかんは\nキャンセル されました",
     "translation": "交换已取消。",
     "index": 24
   },
   {
-    "key": "PT_0181_0025",
+    "key": "Pt_0353_0025",
     "original": "こうかんを やめますか？",
     "translation": "要退出交换吗？",
     "index": 25
   },
   {
-    "key": "PT_0181_0026",
+    "key": "Pt_0353_0026",
     "original": "はい",
     "translation": "是",
     "index": 26
   },
   {
-    "key": "PT_0181_0027",
+    "key": "Pt_0353_0027",
     "original": "いいえ",
     "translation": "否",
     "index": 27
   },
   {
-    "key": "PT_0181_0028",
+    "key": "Pt_0353_0028",
     "original": "ともだちの しゅうりょうを\nまっています⋯⋯",
     "translation": "正在等待您的朋友结束……",
     "index": 28
   },
   {
-    "key": "PT_0181_0029",
+    "key": "Pt_0353_0029",
     "original": "ともだちは ポケモンの\nこうかんを したいようです！",
     "translation": "您的朋友好像想要交换！",
     "index": 29
   },
   {
-    "key": "PT_0181_0030",
+    "key": "Pt_0353_0030",
     "original": "[0101,0000]を\n[0103,0001]へ おくります！",
     "translation": "将[0101,0000]送到了\n[0103,0001]处！",
     "index": 30
   },
   {
-    "key": "PT_0181_0031",
+    "key": "Pt_0353_0031",
     "original": "バイバイ！ [0101,0000]！",
     "translation": "拜拜，[0101,0000]！",
     "index": 31
   },
   {
-    "key": "PT_0181_0032",
+    "key": "Pt_0353_0032",
     "original": "[0103,0001]から\n[0101,0000]が おくられてきた！",
     "translation": "从[0103,0001]处得到了\n[0101,0000]！",
     "index": 32
   },
   {
-    "key": "PT_0181_0033",
+    "key": "Pt_0353_0033",
     "original": "[0101,0000]を\nかわいがって あげてね！",
     "translation": "要好好对待\n[0101,0000]啊！",
     "index": 33
   },
   {
-    "key": "PT_0181_0034",
+    "key": "Pt_0353_0034",
     "original": "そのポケモンを こうかんすると\nぼうけん できなくなっちゃうよ！",
     "translation": "如果交换那只宝可梦，\n就无法继续冒险了！",
     "index": 34
   },
   {
-    "key": "PT_0181_0035",
+    "key": "Pt_0353_0035",
     "original": "セーブしています\nでんげんを きらないで ください",
     "translation": "正在写入记录……\n请勿切断电源。",
     "index": 35
   },
   {
-    "key": "PT_0181_0036",
+    "key": "Pt_0353_0036",
     "original": "ボールカプセルが はずれますが\nよろしいですか？",
     "translation": "球壳将被取下，\n确定要继续吗？",
     "index": 36
   },
   {
-    "key": "PT_0181_0037",
+    "key": "Pt_0353_0037",
     "original": "てもちに こうかん できない\nポケモンが います",
     "translation": "您持有不能交换的\n宝可梦。",
     "index": 37
   },
   {
-    "key": "PT_0181_0038",
+    "key": "Pt_0353_0038",
     "original": "あいてが こうかん できない\nポケモンを もっています",
     "translation": "对方拥有不能交换的\n宝可梦",
     "index": 38
   },
   {
-    "key": "PT_0181_0039",
+    "key": "Pt_0353_0039",
     "original": "㊚",
     "translation": "♂",
     "index": 39
   },
   {
-    "key": "PT_0181_0040",
+    "key": "Pt_0353_0040",
     "original": "㊛",
     "translation": "♀",
     "index": 40
   },
   {
-    "key": "PT_0181_0041",
+    "key": "Pt_0353_0041",
     "original": "Ｌｖ．",
     "translation": "Ｌｖ．",
     "index": 41
   },
   {
-    "key": "PT_0181_0042",
+    "key": "Pt_0353_0042",
     "original": "もちもの",
     "translation": "持有物",
     "index": 42
   },
   {
-    "key": "PT_0181_0043",
+    "key": "Pt_0353_0043",
     "original": "[0101,0000]",
     "translation": "[0101,0000]",
     "index": 43
   },
   {
-    "key": "PT_0181_0044",
+    "key": "Pt_0353_0044",
     "original": "[0134,0001]",
     "translation": "[0134,0001]",
     "index": 44
   },
   {
-    "key": "PT_0181_0045",
+    "key": "Pt_0353_0045",
     "original": "[0108,0002]",
     "translation": "[0108,0002]",
     "index": 45
   },
   {
-    "key": "PT_0181_0046",
+    "key": "Pt_0353_0046",
     "original": "[0101,0003]",
     "translation": "[0101,0003]",
     "index": 46
   },
   {
-    "key": "PT_0181_0047",
+    "key": "Pt_0353_0047",
     "original": "[0134,0004]",
     "translation": "[0134,0004]",
     "index": 47
   },
   {
-    "key": "PT_0181_0048",
+    "key": "Pt_0353_0048",
     "original": "[0108,0005]",
     "translation": "[0108,0005]",
     "index": 48
   },
   {
-    "key": "PT_0181_0049",
+    "key": "Pt_0353_0049",
     "original": "なし",
     "translation": "无",
     "index": 49
