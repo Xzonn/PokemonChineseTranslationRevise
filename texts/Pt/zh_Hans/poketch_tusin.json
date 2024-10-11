@@ -1,66 +1,66 @@
 [
   {
-    "key": "PT_0301_0000",
+    "key": "Pt_0455_0000",
     "original": "つうしんサーチャー",
     "translation": "连接搜索器",
     "index": 0
   },
   {
-    "key": "PT_0301_0001",
+    "key": "Pt_0455_0001",
     "original": "つうしん しているひとを\nさがしています\nそのまま おまちください",
     "translation": "在寻找正在连接的人，\n请稍等。",
     "index": 1
   },
   {
-    "key": "PT_0301_0002",
+    "key": "Pt_0455_0002",
     "original": "エラー！",
     "translation": "错误！",
     "index": 2
   },
   {
-    "key": "PT_0301_0003",
+    "key": "Pt_0455_0003",
     "original": "ここでは サーチできません！",
     "translation": "这里不能搜索！",
     "index": 3
   },
   {
-    "key": "PT_0301_0004",
+    "key": "Pt_0455_0004",
     "original": "サーチちゅうは\nうごかないで ください！",
     "translation": "在搜索中请不要移动！",
     "index": 4
   },
   {
-    "key": "PT_0301_0005",
+    "key": "Pt_0455_0005",
     "original": "つうしん じょうきょう",
     "translation": "连接状况",
     "index": 5
   },
   {
-    "key": "PT_0301_0006",
+    "key": "Pt_0455_0006",
     "original": "ユニオンルーム",
     "translation": "联盟交谊厅",
     "index": 6
   },
   {
-    "key": "PT_0301_0007",
+    "key": "Pt_0455_0007",
     "original": "ちかつうろ",
     "translation": "地下通道",
     "index": 7
   },
   {
-    "key": "PT_0301_0008",
+    "key": "Pt_0455_0008",
     "original": "コロシアム",
     "translation": "圆形剧场",
     "index": 8
   },
   {
-    "key": "PT_0301_0009",
+    "key": "Pt_0455_0009",
     "original": "そのほかの つうしん",
     "translation": "其他连接",
     "index": 9
   },
   {
-    "key": "PT_0301_0010",
+    "key": "Pt_0455_0010",
     "original": "タッチで つうしん スタート！",
     "translation": "触摸后连接开始！",
     "index": 10

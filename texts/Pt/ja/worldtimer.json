@@ -1,36 +1,36 @@
 [
   {
-    "key": "PT_0789_0000",
+    "key": "Pt_0684_0000",
     "original": "ポイントのうえで Ｘボタンを おすと\nじょうほうを ひょうじ します",
     "translation": "ポイントのうえで Ｘボタンを おすと\nじょうほうを ひょうじ します",
     "index": 0
   },
   {
-    "key": "PT_0789_0001",
+    "key": "Pt_0684_0001",
     "original": "やめる",
     "translation": "やめる",
     "index": 1
   },
   {
-    "key": "PT_0789_0002",
+    "key": "Pt_0684_0002",
     "original": "ちめい",
     "translation": "ちめい",
     "index": 2
   },
   {
-    "key": "PT_0789_0003",
+    "key": "Pt_0684_0003",
     "original": "[0124,0000]",
     "translation": "[0124,0000]",
     "index": 3
   },
   {
-    "key": "PT_0789_0004",
+    "key": "Pt_0684_0004",
     "original": "[0125,0000]",
     "translation": "[0125,0000]",
     "index": 4
   },
   {
-    "key": "PT_0789_0005",
+    "key": "Pt_0684_0005",
     "original": "ゲストビューを やめますか？",
     "translation": "ゲストビューを やめますか？",
     "index": 5

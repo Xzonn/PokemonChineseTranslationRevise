@@ -1,2808 +1,2808 @@
 [
   {
-    "key": "DP_0739_0000",
+    "key": "DP_0575_0000",
     "original": "ー",
     "translation": "ー",
     "index": 0
   },
   {
-    "key": "DP_0739_0001",
+    "key": "DP_0575_0001",
     "original": "はたく",
     "translation": "はたく",
     "index": 1
   },
   {
-    "key": "DP_0739_0002",
+    "key": "DP_0575_0002",
     "original": "からてチョップ",
     "translation": "からてチョップ",
     "index": 2
   },
   {
-    "key": "DP_0739_0003",
+    "key": "DP_0575_0003",
     "original": "おうふくビンタ",
     "translation": "おうふくビンタ",
     "index": 3
   },
   {
-    "key": "DP_0739_0004",
+    "key": "DP_0575_0004",
     "original": "れんぞくパンチ",
     "translation": "れんぞくパンチ",
     "index": 4
   },
   {
-    "key": "DP_0739_0005",
+    "key": "DP_0575_0005",
     "original": "メガトンパンチ",
     "translation": "メガトンパンチ",
     "index": 5
   },
   {
-    "key": "DP_0739_0006",
+    "key": "DP_0575_0006",
     "original": "ネコにこばん",
     "translation": "ネコにこばん",
     "index": 6
   },
   {
-    "key": "DP_0739_0007",
+    "key": "DP_0575_0007",
     "original": "ほのおのパンチ",
     "translation": "ほのおのパンチ",
     "index": 7
   },
   {
-    "key": "DP_0739_0008",
+    "key": "DP_0575_0008",
     "original": "れいとうパンチ",
     "translation": "れいとうパンチ",
     "index": 8
   },
   {
-    "key": "DP_0739_0009",
+    "key": "DP_0575_0009",
     "original": "かみなりパンチ",
     "translation": "かみなりパンチ",
     "index": 9
   },
   {
-    "key": "DP_0739_0010",
+    "key": "DP_0575_0010",
     "original": "ひっかく",
     "translation": "ひっかく",
     "index": 10
   },
   {
-    "key": "DP_0739_0011",
+    "key": "DP_0575_0011",
     "original": "はさむ",
     "translation": "はさむ",
     "index": 11
   },
   {
-    "key": "DP_0739_0012",
+    "key": "DP_0575_0012",
     "original": "ハサミギロチン",
     "translation": "ハサミギロチン",
     "index": 12
   },
   {
-    "key": "DP_0739_0013",
+    "key": "DP_0575_0013",
     "original": "かまいたち",
     "translation": "かまいたち",
     "index": 13
   },
   {
-    "key": "DP_0739_0014",
+    "key": "DP_0575_0014",
     "original": "つるぎのまい",
     "translation": "つるぎのまい",
     "index": 14
   },
   {
-    "key": "DP_0739_0015",
+    "key": "DP_0575_0015",
     "original": "いあいぎり",
     "translation": "いあいぎり",
     "index": 15
   },
   {
-    "key": "DP_0739_0016",
+    "key": "DP_0575_0016",
     "original": "かぜおこし",
     "translation": "かぜおこし",
     "index": 16
   },
   {
-    "key": "DP_0739_0017",
+    "key": "DP_0575_0017",
     "original": "つばさでうつ",
     "translation": "つばさでうつ",
     "index": 17
   },
   {
-    "key": "DP_0739_0018",
+    "key": "DP_0575_0018",
     "original": "ふきとばし",
     "translation": "ふきとばし",
     "index": 18
   },
   {
-    "key": "DP_0739_0019",
+    "key": "DP_0575_0019",
     "original": "そらをとぶ",
     "translation": "そらをとぶ",
     "index": 19
   },
   {
-    "key": "DP_0739_0020",
+    "key": "DP_0575_0020",
     "original": "しめつける",
     "translation": "しめつける",
     "index": 20
   },
   {
-    "key": "DP_0739_0021",
+    "key": "DP_0575_0021",
     "original": "たたきつける",
     "translation": "たたきつける",
     "index": 21
   },
   {
-    "key": "DP_0739_0022",
+    "key": "DP_0575_0022",
     "original": "つるのムチ",
     "translation": "つるのムチ",
     "index": 22
   },
   {
-    "key": "DP_0739_0023",
+    "key": "DP_0575_0023",
     "original": "ふみつけ",
     "translation": "ふみつけ",
     "index": 23
   },
   {
-    "key": "DP_0739_0024",
+    "key": "DP_0575_0024",
     "original": "にどげり",
     "translation": "にどげり",
     "index": 24
   },
   {
-    "key": "DP_0739_0025",
+    "key": "DP_0575_0025",
     "original": "メガトンキック",
     "translation": "メガトンキック",
     "index": 25
   },
   {
-    "key": "DP_0739_0026",
+    "key": "DP_0575_0026",
     "original": "とびげり",
     "translation": "とびげり",
     "index": 26
   },
   {
-    "key": "DP_0739_0027",
+    "key": "DP_0575_0027",
     "original": "まわしげり",
     "translation": "まわしげり",
     "index": 27
   },
   {
-    "key": "DP_0739_0028",
+    "key": "DP_0575_0028",
     "original": "すなかけ",
     "translation": "すなかけ",
     "index": 28
   },
   {
-    "key": "DP_0739_0029",
+    "key": "DP_0575_0029",
     "original": "ずつき",
     "translation": "ずつき",
     "index": 29
   },
   {
-    "key": "DP_0739_0030",
+    "key": "DP_0575_0030",
     "original": "つのでつく",
     "translation": "つのでつく",
     "index": 30
   },
   {
-    "key": "DP_0739_0031",
+    "key": "DP_0575_0031",
     "original": "みだれづき",
     "translation": "みだれづき",
     "index": 31
   },
   {
-    "key": "DP_0739_0032",
+    "key": "DP_0575_0032",
     "original": "つのドリル",
     "translation": "つのドリル",
     "index": 32
   },
   {
-    "key": "DP_0739_0033",
+    "key": "DP_0575_0033",
     "original": "たいあたり",
     "translation": "たいあたり",
     "index": 33
   },
   {
-    "key": "DP_0739_0034",
+    "key": "DP_0575_0034",
     "original": "のしかかり",
     "translation": "のしかかり",
     "index": 34
   },
   {
-    "key": "DP_0739_0035",
+    "key": "DP_0575_0035",
     "original": "まきつく",
     "translation": "まきつく",
     "index": 35
   },
   {
-    "key": "DP_0739_0036",
+    "key": "DP_0575_0036",
     "original": "とっしん",
     "translation": "とっしん",
     "index": 36
   },
   {
-    "key": "DP_0739_0037",
+    "key": "DP_0575_0037",
     "original": "あばれる",
     "translation": "あばれる",
     "index": 37
   },
   {
-    "key": "DP_0739_0038",
+    "key": "DP_0575_0038",
     "original": "すてみタックル",
     "translation": "すてみタックル",
     "index": 38
   },
   {
-    "key": "DP_0739_0039",
+    "key": "DP_0575_0039",
     "original": "しっぽをふる",
     "translation": "しっぽをふる",
     "index": 39
   },
   {
-    "key": "DP_0739_0040",
+    "key": "DP_0575_0040",
     "original": "どくばり",
     "translation": "どくばり",
     "index": 40
   },
   {
-    "key": "DP_0739_0041",
+    "key": "DP_0575_0041",
     "original": "ダブルニードル",
     "translation": "ダブルニードル",
     "index": 41
   },
   {
-    "key": "DP_0739_0042",
+    "key": "DP_0575_0042",
     "original": "ミサイルばり",
     "translation": "ミサイルばり",
     "index": 42
   },
   {
-    "key": "DP_0739_0043",
+    "key": "DP_0575_0043",
     "original": "にらみつける",
     "translation": "にらみつける",
     "index": 43
   },
   {
-    "key": "DP_0739_0044",
+    "key": "DP_0575_0044",
     "original": "かみつく",
     "translation": "かみつく",
     "index": 44
   },
   {
-    "key": "DP_0739_0045",
+    "key": "DP_0575_0045",
     "original": "なきごえ",
     "translation": "なきごえ",
     "index": 45
   },
   {
-    "key": "DP_0739_0046",
+    "key": "DP_0575_0046",
     "original": "ほえる",
     "translation": "ほえる",
     "index": 46
   },
   {
-    "key": "DP_0739_0047",
+    "key": "DP_0575_0047",
     "original": "うたう",
     "translation": "うたう",
     "index": 47
   },
   {
-    "key": "DP_0739_0048",
+    "key": "DP_0575_0048",
     "original": "ちょうおんぱ",
     "translation": "ちょうおんぱ",
     "index": 48
   },
   {
-    "key": "DP_0739_0049",
+    "key": "DP_0575_0049",
     "original": "ソニックブーム",
     "translation": "ソニックブーム",
     "index": 49
   },
   {
-    "key": "DP_0739_0050",
+    "key": "DP_0575_0050",
     "original": "かなしばり",
     "translation": "かなしばり",
     "index": 50
   },
   {
-    "key": "DP_0739_0051",
+    "key": "DP_0575_0051",
     "original": "ようかいえき",
     "translation": "ようかいえき",
     "index": 51
   },
   {
-    "key": "DP_0739_0052",
+    "key": "DP_0575_0052",
     "original": "ひのこ",
     "translation": "ひのこ",
     "index": 52
   },
   {
-    "key": "DP_0739_0053",
+    "key": "DP_0575_0053",
     "original": "かえんほうしゃ",
     "translation": "かえんほうしゃ",
     "index": 53
   },
   {
-    "key": "DP_0739_0054",
+    "key": "DP_0575_0054",
     "original": "しろいきり",
     "translation": "しろいきり",
     "index": 54
   },
   {
-    "key": "DP_0739_0055",
+    "key": "DP_0575_0055",
     "original": "みずでっぽう",
     "translation": "みずでっぽう",
     "index": 55
   },
   {
-    "key": "DP_0739_0056",
+    "key": "DP_0575_0056",
     "original": "ハイドロポンプ",
     "translation": "ハイドロポンプ",
     "index": 56
   },
   {
-    "key": "DP_0739_0057",
+    "key": "DP_0575_0057",
     "original": "なみのり",
     "translation": "なみのり",
     "index": 57
   },
   {
-    "key": "DP_0739_0058",
+    "key": "DP_0575_0058",
     "original": "れいとうビーム",
     "translation": "れいとうビーム",
     "index": 58
   },
   {
-    "key": "DP_0739_0059",
+    "key": "DP_0575_0059",
     "original": "ふぶき",
     "translation": "ふぶき",
     "index": 59
   },
   {
-    "key": "DP_0739_0060",
+    "key": "DP_0575_0060",
     "original": "サイケこうせん",
     "translation": "サイケこうせん",
     "index": 60
   },
   {
-    "key": "DP_0739_0061",
+    "key": "DP_0575_0061",
     "original": "バブルこうせん",
     "translation": "バブルこうせん",
     "index": 61
   },
   {
-    "key": "DP_0739_0062",
+    "key": "DP_0575_0062",
     "original": "オーロラビーム",
     "translation": "オーロラビーム",
     "index": 62
   },
   {
-    "key": "DP_0739_0063",
+    "key": "DP_0575_0063",
     "original": "はかいこうせん",
     "translation": "はかいこうせん",
     "index": 63
   },
   {
-    "key": "DP_0739_0064",
+    "key": "DP_0575_0064",
     "original": "つつく",
     "translation": "つつく",
     "index": 64
   },
   {
-    "key": "DP_0739_0065",
+    "key": "DP_0575_0065",
     "original": "ドリルくちばし",
     "translation": "ドリルくちばし",
     "index": 65
   },
   {
-    "key": "DP_0739_0066",
+    "key": "DP_0575_0066",
     "original": "じごくぐるま",
     "translation": "じごくぐるま",
     "index": 66
   },
   {
-    "key": "DP_0739_0067",
+    "key": "DP_0575_0067",
     "original": "けたぐり",
     "translation": "けたぐり",
     "index": 67
   },
   {
-    "key": "DP_0739_0068",
+    "key": "DP_0575_0068",
     "original": "カウンター",
     "translation": "カウンター",
     "index": 68
   },
   {
-    "key": "DP_0739_0069",
+    "key": "DP_0575_0069",
     "original": "ちきゅうなげ",
     "translation": "ちきゅうなげ",
     "index": 69
   },
   {
-    "key": "DP_0739_0070",
+    "key": "DP_0575_0070",
     "original": "かいりき",
     "translation": "かいりき",
     "index": 70
   },
   {
-    "key": "DP_0739_0071",
+    "key": "DP_0575_0071",
     "original": "すいとる",
     "translation": "すいとる",
     "index": 71
   },
   {
-    "key": "DP_0739_0072",
+    "key": "DP_0575_0072",
     "original": "メガドレイン",
     "translation": "メガドレイン",
     "index": 72
   },
   {
-    "key": "DP_0739_0073",
+    "key": "DP_0575_0073",
     "original": "やどりぎのタネ",
     "translation": "やどりぎのタネ",
     "index": 73
   },
   {
-    "key": "DP_0739_0074",
+    "key": "DP_0575_0074",
     "original": "せいちょう",
     "translation": "せいちょう",
     "index": 74
   },
   {
-    "key": "DP_0739_0075",
+    "key": "DP_0575_0075",
     "original": "はっぱカッター",
     "translation": "はっぱカッター",
     "index": 75
   },
   {
-    "key": "DP_0739_0076",
+    "key": "DP_0575_0076",
     "original": "ソーラービーム",
     "translation": "ソーラービーム",
     "index": 76
   },
   {
-    "key": "DP_0739_0077",
+    "key": "DP_0575_0077",
     "original": "どくのこな",
     "translation": "どくのこな",
     "index": 77
   },
   {
-    "key": "DP_0739_0078",
+    "key": "DP_0575_0078",
     "original": "しびれごな",
     "translation": "しびれごな",
     "index": 78
   },
   {
-    "key": "DP_0739_0079",
+    "key": "DP_0575_0079",
     "original": "ねむりごな",
     "translation": "ねむりごな",
     "index": 79
   },
   {
-    "key": "DP_0739_0080",
+    "key": "DP_0575_0080",
     "original": "はなびらのまい",
     "translation": "はなびらのまい",
     "index": 80
   },
   {
-    "key": "DP_0739_0081",
+    "key": "DP_0575_0081",
     "original": "いとをはく",
     "translation": "いとをはく",
     "index": 81
   },
   {
-    "key": "DP_0739_0082",
+    "key": "DP_0575_0082",
     "original": "りゅうのいかり",
     "translation": "りゅうのいかり",
     "index": 82
   },
   {
-    "key": "DP_0739_0083",
+    "key": "DP_0575_0083",
     "original": "ほのおのうず",
     "translation": "ほのおのうず",
     "index": 83
   },
   {
-    "key": "DP_0739_0084",
+    "key": "DP_0575_0084",
     "original": "でんきショック",
     "translation": "でんきショック",
     "index": 84
   },
   {
-    "key": "DP_0739_0085",
+    "key": "DP_0575_0085",
     "original": "１０まんボルト",
     "translation": "１０まんボルト",
     "index": 85
   },
   {
-    "key": "DP_0739_0086",
+    "key": "DP_0575_0086",
     "original": "でんじは",
     "translation": "でんじは",
     "index": 86
   },
   {
-    "key": "DP_0739_0087",
+    "key": "DP_0575_0087",
     "original": "かみなり",
     "translation": "かみなり",
     "index": 87
   },
   {
-    "key": "DP_0739_0088",
+    "key": "DP_0575_0088",
     "original": "いわおとし",
     "translation": "いわおとし",
     "index": 88
   },
   {
-    "key": "DP_0739_0089",
+    "key": "DP_0575_0089",
     "original": "じしん",
     "translation": "じしん",
     "index": 89
   },
   {
-    "key": "DP_0739_0090",
+    "key": "DP_0575_0090",
     "original": "じわれ",
     "translation": "じわれ",
     "index": 90
   },
   {
-    "key": "DP_0739_0091",
+    "key": "DP_0575_0091",
     "original": "あなをほる",
     "translation": "あなをほる",
     "index": 91
   },
   {
-    "key": "DP_0739_0092",
+    "key": "DP_0575_0092",
     "original": "どくどく",
     "translation": "どくどく",
     "index": 92
   },
   {
-    "key": "DP_0739_0093",
+    "key": "DP_0575_0093",
     "original": "ねんりき",
     "translation": "ねんりき",
     "index": 93
   },
   {
-    "key": "DP_0739_0094",
+    "key": "DP_0575_0094",
     "original": "サイコキネシス",
     "translation": "サイコキネシス",
     "index": 94
   },
   {
-    "key": "DP_0739_0095",
+    "key": "DP_0575_0095",
     "original": "さいみんじゅつ",
     "translation": "さいみんじゅつ",
     "index": 95
   },
   {
-    "key": "DP_0739_0096",
+    "key": "DP_0575_0096",
     "original": "ヨガのポーズ",
     "translation": "ヨガのポーズ",
     "index": 96
   },
   {
-    "key": "DP_0739_0097",
+    "key": "DP_0575_0097",
     "original": "こうそくいどう",
     "translation": "こうそくいどう",
     "index": 97
   },
   {
-    "key": "DP_0739_0098",
+    "key": "DP_0575_0098",
     "original": "でんこうせっか",
     "translation": "でんこうせっか",
     "index": 98
   },
   {
-    "key": "DP_0739_0099",
+    "key": "DP_0575_0099",
     "original": "いかり",
     "translation": "いかり",
     "index": 99
   },
   {
-    "key": "DP_0739_0100",
+    "key": "DP_0575_0100",
     "original": "テレポート",
     "translation": "テレポート",
     "index": 100
   },
   {
-    "key": "DP_0739_0101",
+    "key": "DP_0575_0101",
     "original": "ナイトヘッド",
     "translation": "ナイトヘッド",
     "index": 101
   },
   {
-    "key": "DP_0739_0102",
+    "key": "DP_0575_0102",
     "original": "ものまね",
     "translation": "ものまね",
     "index": 102
   },
   {
-    "key": "DP_0739_0103",
+    "key": "DP_0575_0103",
     "original": "いやなおと",
     "translation": "いやなおと",
     "index": 103
   },
   {
-    "key": "DP_0739_0104",
+    "key": "DP_0575_0104",
     "original": "かげぶんしん",
     "translation": "かげぶんしん",
     "index": 104
   },
   {
-    "key": "DP_0739_0105",
+    "key": "DP_0575_0105",
     "original": "じこさいせい",
     "translation": "じこさいせい",
     "index": 105
   },
   {
-    "key": "DP_0739_0106",
+    "key": "DP_0575_0106",
     "original": "かたくなる",
     "translation": "かたくなる",
     "index": 106
   },
   {
-    "key": "DP_0739_0107",
+    "key": "DP_0575_0107",
     "original": "ちいさくなる",
     "translation": "ちいさくなる",
     "index": 107
   },
   {
-    "key": "DP_0739_0108",
+    "key": "DP_0575_0108",
     "original": "えんまく",
     "translation": "えんまく",
     "index": 108
   },
   {
-    "key": "DP_0739_0109",
+    "key": "DP_0575_0109",
     "original": "あやしいひかり",
     "translation": "あやしいひかり",
     "index": 109
   },
   {
-    "key": "DP_0739_0110",
+    "key": "DP_0575_0110",
     "original": "からにこもる",
     "translation": "からにこもる",
     "index": 110
   },
   {
-    "key": "DP_0739_0111",
+    "key": "DP_0575_0111",
     "original": "まるくなる",
     "translation": "まるくなる",
     "index": 111
   },
   {
-    "key": "DP_0739_0112",
+    "key": "DP_0575_0112",
     "original": "バリアー",
     "translation": "バリアー",
     "index": 112
   },
   {
-    "key": "DP_0739_0113",
+    "key": "DP_0575_0113",
     "original": "ひかりのかべ",
     "translation": "ひかりのかべ",
     "index": 113
   },
   {
-    "key": "DP_0739_0114",
+    "key": "DP_0575_0114",
     "original": "くろいきり",
     "translation": "くろいきり",
     "index": 114
   },
   {
-    "key": "DP_0739_0115",
+    "key": "DP_0575_0115",
     "original": "リフレクター",
     "translation": "リフレクター",
     "index": 115
   },
   {
-    "key": "DP_0739_0116",
+    "key": "DP_0575_0116",
     "original": "きあいだめ",
     "translation": "きあいだめ",
     "index": 116
   },
   {
-    "key": "DP_0739_0117",
+    "key": "DP_0575_0117",
     "original": "がまん",
     "translation": "がまん",
     "index": 117
   },
   {
-    "key": "DP_0739_0118",
+    "key": "DP_0575_0118",
     "original": "ゆびをふる",
     "translation": "ゆびをふる",
     "index": 118
   },
   {
-    "key": "DP_0739_0119",
+    "key": "DP_0575_0119",
     "original": "オウムがえし",
     "translation": "オウムがえし",
     "index": 119
   },
   {
-    "key": "DP_0739_0120",
+    "key": "DP_0575_0120",
     "original": "じばく",
     "translation": "じばく",
     "index": 120
   },
   {
-    "key": "DP_0739_0121",
+    "key": "DP_0575_0121",
     "original": "タマゴばくだん",
     "translation": "タマゴばくだん",
     "index": 121
   },
   {
-    "key": "DP_0739_0122",
+    "key": "DP_0575_0122",
     "original": "したでなめる",
     "translation": "したでなめる",
     "index": 122
   },
   {
-    "key": "DP_0739_0123",
+    "key": "DP_0575_0123",
     "original": "スモッグ",
     "translation": "スモッグ",
     "index": 123
   },
   {
-    "key": "DP_0739_0124",
+    "key": "DP_0575_0124",
     "original": "ヘドロこうげき",
     "translation": "ヘドロこうげき",
     "index": 124
   },
   {
-    "key": "DP_0739_0125",
+    "key": "DP_0575_0125",
     "original": "ホネこんぼう",
     "translation": "ホネこんぼう",
     "index": 125
   },
   {
-    "key": "DP_0739_0126",
+    "key": "DP_0575_0126",
     "original": "だいもんじ",
     "translation": "だいもんじ",
     "index": 126
   },
   {
-    "key": "DP_0739_0127",
+    "key": "DP_0575_0127",
     "original": "たきのぼり",
     "translation": "たきのぼり",
     "index": 127
   },
   {
-    "key": "DP_0739_0128",
+    "key": "DP_0575_0128",
     "original": "からではさむ",
     "translation": "からではさむ",
     "index": 128
   },
   {
-    "key": "DP_0739_0129",
+    "key": "DP_0575_0129",
     "original": "スピードスター",
     "translation": "スピードスター",
     "index": 129
   },
   {
-    "key": "DP_0739_0130",
+    "key": "DP_0575_0130",
     "original": "ロケットずつき",
     "translation": "ロケットずつき",
     "index": 130
   },
   {
-    "key": "DP_0739_0131",
+    "key": "DP_0575_0131",
     "original": "とげキャノン",
     "translation": "とげキャノン",
     "index": 131
   },
   {
-    "key": "DP_0739_0132",
+    "key": "DP_0575_0132",
     "original": "からみつく",
     "translation": "からみつく",
     "index": 132
   },
   {
-    "key": "DP_0739_0133",
+    "key": "DP_0575_0133",
     "original": "ドわすれ",
     "translation": "ドわすれ",
     "index": 133
   },
   {
-    "key": "DP_0739_0134",
+    "key": "DP_0575_0134",
     "original": "スプーンまげ",
     "translation": "スプーンまげ",
     "index": 134
   },
   {
-    "key": "DP_0739_0135",
+    "key": "DP_0575_0135",
     "original": "タマゴうみ",
     "translation": "タマゴうみ",
     "index": 135
   },
   {
-    "key": "DP_0739_0136",
+    "key": "DP_0575_0136",
     "original": "とびひざげり",
     "translation": "とびひざげり",
     "index": 136
   },
   {
-    "key": "DP_0739_0137",
+    "key": "DP_0575_0137",
     "original": "へびにらみ",
     "translation": "へびにらみ",
     "index": 137
   },
   {
-    "key": "DP_0739_0138",
+    "key": "DP_0575_0138",
     "original": "ゆめくい",
     "translation": "ゆめくい",
     "index": 138
   },
   {
-    "key": "DP_0739_0139",
+    "key": "DP_0575_0139",
     "original": "どくガス",
     "translation": "どくガス",
     "index": 139
   },
   {
-    "key": "DP_0739_0140",
+    "key": "DP_0575_0140",
     "original": "たまなげ",
     "translation": "たまなげ",
     "index": 140
   },
   {
-    "key": "DP_0739_0141",
+    "key": "DP_0575_0141",
     "original": "きゅうけつ",
     "translation": "きゅうけつ",
     "index": 141
   },
   {
-    "key": "DP_0739_0142",
+    "key": "DP_0575_0142",
     "original": "あくまのキッス",
     "translation": "あくまのキッス",
     "index": 142
   },
   {
-    "key": "DP_0739_0143",
+    "key": "DP_0575_0143",
     "original": "ゴッドバード",
     "translation": "ゴッドバード",
     "index": 143
   },
   {
-    "key": "DP_0739_0144",
+    "key": "DP_0575_0144",
     "original": "へんしん",
     "translation": "へんしん",
     "index": 144
   },
   {
-    "key": "DP_0739_0145",
+    "key": "DP_0575_0145",
     "original": "あわ",
     "translation": "あわ",
     "index": 145
   },
   {
-    "key": "DP_0739_0146",
+    "key": "DP_0575_0146",
     "original": "ピヨピヨパンチ",
     "translation": "ピヨピヨパンチ",
     "index": 146
   },
   {
-    "key": "DP_0739_0147",
+    "key": "DP_0575_0147",
     "original": "キノコのほうし",
     "translation": "キノコのほうし",
     "index": 147
   },
   {
-    "key": "DP_0739_0148",
+    "key": "DP_0575_0148",
     "original": "フラッシュ",
     "translation": "フラッシュ",
     "index": 148
   },
   {
-    "key": "DP_0739_0149",
+    "key": "DP_0575_0149",
     "original": "サイコウェーブ",
     "translation": "サイコウェーブ",
     "index": 149
   },
   {
-    "key": "DP_0739_0150",
+    "key": "DP_0575_0150",
     "original": "はねる",
     "translation": "はねる",
     "index": 150
   },
   {
-    "key": "DP_0739_0151",
+    "key": "DP_0575_0151",
     "original": "とける",
     "translation": "とける",
     "index": 151
   },
   {
-    "key": "DP_0739_0152",
+    "key": "DP_0575_0152",
     "original": "クラブハンマー",
     "translation": "クラブハンマー",
     "index": 152
   },
   {
-    "key": "DP_0739_0153",
+    "key": "DP_0575_0153",
     "original": "だいばくはつ",
     "translation": "だいばくはつ",
     "index": 153
   },
   {
-    "key": "DP_0739_0154",
+    "key": "DP_0575_0154",
     "original": "みだれひっかき",
     "translation": "みだれひっかき",
     "index": 154
   },
   {
-    "key": "DP_0739_0155",
+    "key": "DP_0575_0155",
     "original": "ホネブーメラン",
     "translation": "ホネブーメラン",
     "index": 155
   },
   {
-    "key": "DP_0739_0156",
+    "key": "DP_0575_0156",
     "original": "ねむる",
     "translation": "ねむる",
     "index": 156
   },
   {
-    "key": "DP_0739_0157",
+    "key": "DP_0575_0157",
     "original": "いわなだれ",
     "translation": "いわなだれ",
     "index": 157
   },
   {
-    "key": "DP_0739_0158",
+    "key": "DP_0575_0158",
     "original": "ひっさつまえば",
     "translation": "ひっさつまえば",
     "index": 158
   },
   {
-    "key": "DP_0739_0159",
+    "key": "DP_0575_0159",
     "original": "かくばる",
     "translation": "かくばる",
     "index": 159
   },
   {
-    "key": "DP_0739_0160",
+    "key": "DP_0575_0160",
     "original": "テクスチャー",
     "translation": "テクスチャー",
     "index": 160
   },
   {
-    "key": "DP_0739_0161",
+    "key": "DP_0575_0161",
     "original": "トライアタック",
     "translation": "トライアタック",
     "index": 161
   },
   {
-    "key": "DP_0739_0162",
+    "key": "DP_0575_0162",
     "original": "いかりのまえば",
     "translation": "いかりのまえば",
     "index": 162
   },
   {
-    "key": "DP_0739_0163",
+    "key": "DP_0575_0163",
     "original": "きりさく",
     "translation": "きりさく",
     "index": 163
   },
   {
-    "key": "DP_0739_0164",
+    "key": "DP_0575_0164",
     "original": "みがわり",
     "translation": "みがわり",
     "index": 164
   },
   {
-    "key": "DP_0739_0165",
+    "key": "DP_0575_0165",
     "original": "わるあがき",
     "translation": "わるあがき",
     "index": 165
   },
   {
-    "key": "DP_0739_0166",
+    "key": "DP_0575_0166",
     "original": "スケッチ",
     "translation": "スケッチ",
     "index": 166
   },
   {
-    "key": "DP_0739_0167",
+    "key": "DP_0575_0167",
     "original": "トリプルキック",
     "translation": "トリプルキック",
     "index": 167
   },
   {
-    "key": "DP_0739_0168",
+    "key": "DP_0575_0168",
     "original": "どろぼう",
     "translation": "どろぼう",
     "index": 168
   },
   {
-    "key": "DP_0739_0169",
+    "key": "DP_0575_0169",
     "original": "クモのす",
     "translation": "クモのす",
     "index": 169
   },
   {
-    "key": "DP_0739_0170",
+    "key": "DP_0575_0170",
     "original": "こころのめ",
     "translation": "こころのめ",
     "index": 170
   },
   {
-    "key": "DP_0739_0171",
+    "key": "DP_0575_0171",
     "original": "あくむ",
     "translation": "あくむ",
     "index": 171
   },
   {
-    "key": "DP_0739_0172",
+    "key": "DP_0575_0172",
     "original": "かえんぐるま",
     "translation": "かえんぐるま",
     "index": 172
   },
   {
-    "key": "DP_0739_0173",
+    "key": "DP_0575_0173",
     "original": "いびき",
     "translation": "いびき",
     "index": 173
   },
   {
-    "key": "DP_0739_0174",
+    "key": "DP_0575_0174",
     "original": "のろい",
     "translation": "のろい",
     "index": 174
   },
   {
-    "key": "DP_0739_0175",
+    "key": "DP_0575_0175",
     "original": "じたばた",
     "translation": "じたばた",
     "index": 175
   },
   {
-    "key": "DP_0739_0176",
+    "key": "DP_0575_0176",
     "original": "テクスチャー２",
     "translation": "テクスチャー２",
     "index": 176
   },
   {
-    "key": "DP_0739_0177",
+    "key": "DP_0575_0177",
     "original": "エアロブラスト",
     "translation": "エアロブラスト",
     "index": 177
   },
   {
-    "key": "DP_0739_0178",
+    "key": "DP_0575_0178",
     "original": "わたほうし",
     "translation": "わたほうし",
     "index": 178
   },
   {
-    "key": "DP_0739_0179",
+    "key": "DP_0575_0179",
     "original": "きしかいせい",
     "translation": "きしかいせい",
     "index": 179
   },
   {
-    "key": "DP_0739_0180",
+    "key": "DP_0575_0180",
     "original": "うらみ",
     "translation": "うらみ",
     "index": 180
   },
   {
-    "key": "DP_0739_0181",
+    "key": "DP_0575_0181",
     "original": "こなゆき",
     "translation": "こなゆき",
     "index": 181
   },
   {
-    "key": "DP_0739_0182",
+    "key": "DP_0575_0182",
     "original": "まもる",
     "translation": "まもる",
     "index": 182
   },
   {
-    "key": "DP_0739_0183",
+    "key": "DP_0575_0183",
     "original": "マッハパンチ",
     "translation": "マッハパンチ",
     "index": 183
   },
   {
-    "key": "DP_0739_0184",
+    "key": "DP_0575_0184",
     "original": "こわいかお",
     "translation": "こわいかお",
     "index": 184
   },
   {
-    "key": "DP_0739_0185",
+    "key": "DP_0575_0185",
     "original": "だましうち",
     "translation": "だましうち",
     "index": 185
   },
   {
-    "key": "DP_0739_0186",
+    "key": "DP_0575_0186",
     "original": "てんしのキッス",
     "translation": "てんしのキッス",
     "index": 186
   },
   {
-    "key": "DP_0739_0187",
+    "key": "DP_0575_0187",
     "original": "はらだいこ",
     "translation": "はらだいこ",
     "index": 187
   },
   {
-    "key": "DP_0739_0188",
+    "key": "DP_0575_0188",
     "original": "ヘドロばくだん",
     "translation": "ヘドロばくだん",
     "index": 188
   },
   {
-    "key": "DP_0739_0189",
+    "key": "DP_0575_0189",
     "original": "どろかけ",
     "translation": "どろかけ",
     "index": 189
   },
   {
-    "key": "DP_0739_0190",
+    "key": "DP_0575_0190",
     "original": "オクタンほう",
     "translation": "オクタンほう",
     "index": 190
   },
   {
-    "key": "DP_0739_0191",
+    "key": "DP_0575_0191",
     "original": "まきびし",
     "translation": "まきびし",
     "index": 191
   },
   {
-    "key": "DP_0739_0192",
+    "key": "DP_0575_0192",
     "original": "でんじほう",
     "translation": "でんじほう",
     "index": 192
   },
   {
-    "key": "DP_0739_0193",
+    "key": "DP_0575_0193",
     "original": "みやぶる",
     "translation": "みやぶる",
     "index": 193
   },
   {
-    "key": "DP_0739_0194",
+    "key": "DP_0575_0194",
     "original": "みちづれ",
     "translation": "みちづれ",
     "index": 194
   },
   {
-    "key": "DP_0739_0195",
+    "key": "DP_0575_0195",
     "original": "ほろびのうた",
     "translation": "ほろびのうた",
     "index": 195
   },
   {
-    "key": "DP_0739_0196",
+    "key": "DP_0575_0196",
     "original": "こごえるかぜ",
     "translation": "こごえるかぜ",
     "index": 196
   },
   {
-    "key": "DP_0739_0197",
+    "key": "DP_0575_0197",
     "original": "みきり",
     "translation": "みきり",
     "index": 197
   },
   {
-    "key": "DP_0739_0198",
+    "key": "DP_0575_0198",
     "original": "ボーンラッシュ",
     "translation": "ボーンラッシュ",
     "index": 198
   },
   {
-    "key": "DP_0739_0199",
+    "key": "DP_0575_0199",
     "original": "ロックオン",
     "translation": "ロックオン",
     "index": 199
   },
   {
-    "key": "DP_0739_0200",
+    "key": "DP_0575_0200",
     "original": "げきりん",
     "translation": "げきりん",
     "index": 200
   },
   {
-    "key": "DP_0739_0201",
+    "key": "DP_0575_0201",
     "original": "すなあらし",
     "translation": "すなあらし",
     "index": 201
   },
   {
-    "key": "DP_0739_0202",
+    "key": "DP_0575_0202",
     "original": "ギガドレイン",
     "translation": "ギガドレイン",
     "index": 202
   },
   {
-    "key": "DP_0739_0203",
+    "key": "DP_0575_0203",
     "original": "こらえる",
     "translation": "こらえる",
     "index": 203
   },
   {
-    "key": "DP_0739_0204",
+    "key": "DP_0575_0204",
     "original": "あまえる",
     "translation": "あまえる",
     "index": 204
   },
   {
-    "key": "DP_0739_0205",
+    "key": "DP_0575_0205",
     "original": "ころがる",
     "translation": "ころがる",
     "index": 205
   },
   {
-    "key": "DP_0739_0206",
+    "key": "DP_0575_0206",
     "original": "みねうち",
     "translation": "みねうち",
     "index": 206
   },
   {
-    "key": "DP_0739_0207",
+    "key": "DP_0575_0207",
     "original": "いばる",
     "translation": "いばる",
     "index": 207
   },
   {
-    "key": "DP_0739_0208",
+    "key": "DP_0575_0208",
     "original": "ミルクのみ",
     "translation": "ミルクのみ",
     "index": 208
   },
   {
-    "key": "DP_0739_0209",
+    "key": "DP_0575_0209",
     "original": "スパーク",
     "translation": "スパーク",
     "index": 209
   },
   {
-    "key": "DP_0739_0210",
+    "key": "DP_0575_0210",
     "original": "れんぞくぎり",
     "translation": "れんぞくぎり",
     "index": 210
   },
   {
-    "key": "DP_0739_0211",
+    "key": "DP_0575_0211",
     "original": "はがねのつばさ",
     "translation": "はがねのつばさ",
     "index": 211
   },
   {
-    "key": "DP_0739_0212",
+    "key": "DP_0575_0212",
     "original": "くろいまなざし",
     "translation": "くろいまなざし",
     "index": 212
   },
   {
-    "key": "DP_0739_0213",
+    "key": "DP_0575_0213",
     "original": "メロメロ",
     "translation": "メロメロ",
     "index": 213
   },
   {
-    "key": "DP_0739_0214",
+    "key": "DP_0575_0214",
     "original": "ねごと",
     "translation": "ねごと",
     "index": 214
   },
   {
-    "key": "DP_0739_0215",
+    "key": "DP_0575_0215",
     "original": "いやしのすず",
     "translation": "いやしのすず",
     "index": 215
   },
   {
-    "key": "DP_0739_0216",
+    "key": "DP_0575_0216",
     "original": "おんがえし",
     "translation": "おんがえし",
     "index": 216
   },
   {
-    "key": "DP_0739_0217",
+    "key": "DP_0575_0217",
     "original": "プレゼント",
     "translation": "プレゼント",
     "index": 217
   },
   {
-    "key": "DP_0739_0218",
+    "key": "DP_0575_0218",
     "original": "やつあたり",
     "translation": "やつあたり",
     "index": 218
   },
   {
-    "key": "DP_0739_0219",
+    "key": "DP_0575_0219",
     "original": "しんぴのまもり",
     "translation": "しんぴのまもり",
     "index": 219
   },
   {
-    "key": "DP_0739_0220",
+    "key": "DP_0575_0220",
     "original": "いたみわけ",
     "translation": "いたみわけ",
     "index": 220
   },
   {
-    "key": "DP_0739_0221",
+    "key": "DP_0575_0221",
     "original": "せいなるほのお",
     "translation": "せいなるほのお",
     "index": 221
   },
   {
-    "key": "DP_0739_0222",
+    "key": "DP_0575_0222",
     "original": "マグニチュード",
     "translation": "マグニチュード",
     "index": 222
   },
   {
-    "key": "DP_0739_0223",
+    "key": "DP_0575_0223",
     "original": "ばくれつパンチ",
     "translation": "ばくれつパンチ",
     "index": 223
   },
   {
-    "key": "DP_0739_0224",
+    "key": "DP_0575_0224",
     "original": "メガホーン",
     "translation": "メガホーン",
     "index": 224
   },
   {
-    "key": "DP_0739_0225",
+    "key": "DP_0575_0225",
     "original": "りゅうのいぶき",
     "translation": "りゅうのいぶき",
     "index": 225
   },
   {
-    "key": "DP_0739_0226",
+    "key": "DP_0575_0226",
     "original": "バトンタッチ",
     "translation": "バトンタッチ",
     "index": 226
   },
   {
-    "key": "DP_0739_0227",
+    "key": "DP_0575_0227",
     "original": "アンコール",
     "translation": "アンコール",
     "index": 227
   },
   {
-    "key": "DP_0739_0228",
+    "key": "DP_0575_0228",
     "original": "おいうち",
     "translation": "おいうち",
     "index": 228
   },
   {
-    "key": "DP_0739_0229",
+    "key": "DP_0575_0229",
     "original": "こうそくスピン",
     "translation": "こうそくスピン",
     "index": 229
   },
   {
-    "key": "DP_0739_0230",
+    "key": "DP_0575_0230",
     "original": "あまいかおり",
     "translation": "あまいかおり",
     "index": 230
   },
   {
-    "key": "DP_0739_0231",
+    "key": "DP_0575_0231",
     "original": "アイアンテール",
     "translation": "アイアンテール",
     "index": 231
   },
   {
-    "key": "DP_0739_0232",
+    "key": "DP_0575_0232",
     "original": "メタルクロー",
     "translation": "メタルクロー",
     "index": 232
   },
   {
-    "key": "DP_0739_0233",
+    "key": "DP_0575_0233",
     "original": "あてみなげ",
     "translation": "あてみなげ",
     "index": 233
   },
   {
-    "key": "DP_0739_0234",
+    "key": "DP_0575_0234",
     "original": "あさのひざし",
     "translation": "あさのひざし",
     "index": 234
   },
   {
-    "key": "DP_0739_0235",
+    "key": "DP_0575_0235",
     "original": "こうごうせい",
     "translation": "こうごうせい",
     "index": 235
   },
   {
-    "key": "DP_0739_0236",
+    "key": "DP_0575_0236",
     "original": "つきのひかり",
     "translation": "つきのひかり",
     "index": 236
   },
   {
-    "key": "DP_0739_0237",
+    "key": "DP_0575_0237",
     "original": "めざめるパワー",
     "translation": "めざめるパワー",
     "index": 237
   },
   {
-    "key": "DP_0739_0238",
+    "key": "DP_0575_0238",
     "original": "クロスチョップ",
     "translation": "クロスチョップ",
     "index": 238
   },
   {
-    "key": "DP_0739_0239",
+    "key": "DP_0575_0239",
     "original": "たつまき",
     "translation": "たつまき",
     "index": 239
   },
   {
-    "key": "DP_0739_0240",
+    "key": "DP_0575_0240",
     "original": "あまごい",
     "translation": "あまごい",
     "index": 240
   },
   {
-    "key": "DP_0739_0241",
+    "key": "DP_0575_0241",
     "original": "にほんばれ",
     "translation": "にほんばれ",
     "index": 241
   },
   {
-    "key": "DP_0739_0242",
+    "key": "DP_0575_0242",
     "original": "かみくだく",
     "translation": "かみくだく",
     "index": 242
   },
   {
-    "key": "DP_0739_0243",
+    "key": "DP_0575_0243",
     "original": "ミラーコート",
     "translation": "ミラーコート",
     "index": 243
   },
   {
-    "key": "DP_0739_0244",
+    "key": "DP_0575_0244",
     "original": "じこあんじ",
     "translation": "じこあんじ",
     "index": 244
   },
   {
-    "key": "DP_0739_0245",
+    "key": "DP_0575_0245",
     "original": "しんそく",
     "translation": "しんそく",
     "index": 245
   },
   {
-    "key": "DP_0739_0246",
+    "key": "DP_0575_0246",
     "original": "げんしのちから",
     "translation": "げんしのちから",
     "index": 246
   },
   {
-    "key": "DP_0739_0247",
+    "key": "DP_0575_0247",
     "original": "シャドーボール",
     "translation": "シャドーボール",
     "index": 247
   },
   {
-    "key": "DP_0739_0248",
+    "key": "DP_0575_0248",
     "original": "みらいよち",
     "translation": "みらいよち",
     "index": 248
   },
   {
-    "key": "DP_0739_0249",
+    "key": "DP_0575_0249",
     "original": "いわくだき",
     "translation": "いわくだき",
     "index": 249
   },
   {
-    "key": "DP_0739_0250",
+    "key": "DP_0575_0250",
     "original": "うずしお",
     "translation": "うずしお",
     "index": 250
   },
   {
-    "key": "DP_0739_0251",
+    "key": "DP_0575_0251",
     "original": "ふくろだたき",
     "translation": "ふくろだたき",
     "index": 251
   },
   {
-    "key": "DP_0739_0252",
+    "key": "DP_0575_0252",
     "original": "ねこだまし",
     "translation": "ねこだまし",
     "index": 252
   },
   {
-    "key": "DP_0739_0253",
+    "key": "DP_0575_0253",
     "original": "さわぐ",
     "translation": "さわぐ",
     "index": 253
   },
   {
-    "key": "DP_0739_0254",
+    "key": "DP_0575_0254",
     "original": "たくわえる",
     "translation": "たくわえる",
     "index": 254
   },
   {
-    "key": "DP_0739_0255",
+    "key": "DP_0575_0255",
     "original": "はきだす",
     "translation": "はきだす",
     "index": 255
   },
   {
-    "key": "DP_0739_0256",
+    "key": "DP_0575_0256",
     "original": "のみこむ",
     "translation": "のみこむ",
     "index": 256
   },
   {
-    "key": "DP_0739_0257",
+    "key": "DP_0575_0257",
     "original": "ねっぷう",
     "translation": "ねっぷう",
     "index": 257
   },
   {
-    "key": "DP_0739_0258",
+    "key": "DP_0575_0258",
     "original": "あられ",
     "translation": "あられ",
     "index": 258
   },
   {
-    "key": "DP_0739_0259",
+    "key": "DP_0575_0259",
     "original": "いちゃもん",
     "translation": "いちゃもん",
     "index": 259
   },
   {
-    "key": "DP_0739_0260",
+    "key": "DP_0575_0260",
     "original": "おだてる",
     "translation": "おだてる",
     "index": 260
   },
   {
-    "key": "DP_0739_0261",
+    "key": "DP_0575_0261",
     "original": "おにび",
     "translation": "おにび",
     "index": 261
   },
   {
-    "key": "DP_0739_0262",
+    "key": "DP_0575_0262",
     "original": "おきみやげ",
     "translation": "おきみやげ",
     "index": 262
   },
   {
-    "key": "DP_0739_0263",
+    "key": "DP_0575_0263",
     "original": "からげんき",
     "translation": "からげんき",
     "index": 263
   },
   {
-    "key": "DP_0739_0264",
+    "key": "DP_0575_0264",
     "original": "きあいパンチ",
     "translation": "きあいパンチ",
     "index": 264
   },
   {
-    "key": "DP_0739_0265",
+    "key": "DP_0575_0265",
     "original": "きつけ",
     "translation": "きつけ",
     "index": 265
   },
   {
-    "key": "DP_0739_0266",
+    "key": "DP_0575_0266",
     "original": "このゆびとまれ",
     "translation": "このゆびとまれ",
     "index": 266
   },
   {
-    "key": "DP_0739_0267",
+    "key": "DP_0575_0267",
     "original": "しぜんのちから",
     "translation": "しぜんのちから",
     "index": 267
   },
   {
-    "key": "DP_0739_0268",
+    "key": "DP_0575_0268",
     "original": "じゅうでん",
     "translation": "じゅうでん",
     "index": 268
   },
   {
-    "key": "DP_0739_0269",
+    "key": "DP_0575_0269",
     "original": "ちょうはつ",
     "translation": "ちょうはつ",
     "index": 269
   },
   {
-    "key": "DP_0739_0270",
+    "key": "DP_0575_0270",
     "original": "てだすけ",
     "translation": "てだすけ",
     "index": 270
   },
   {
-    "key": "DP_0739_0271",
+    "key": "DP_0575_0271",
     "original": "トリック",
     "translation": "トリック",
     "index": 271
   },
   {
-    "key": "DP_0739_0272",
+    "key": "DP_0575_0272",
     "original": "なりきり",
     "translation": "なりきり",
     "index": 272
   },
   {
-    "key": "DP_0739_0273",
+    "key": "DP_0575_0273",
     "original": "ねがいごと",
     "translation": "ねがいごと",
     "index": 273
   },
   {
-    "key": "DP_0739_0274",
+    "key": "DP_0575_0274",
     "original": "ねこのて",
     "translation": "ねこのて",
     "index": 274
   },
   {
-    "key": "DP_0739_0275",
+    "key": "DP_0575_0275",
     "original": "ねをはる",
     "translation": "ねをはる",
     "index": 275
   },
   {
-    "key": "DP_0739_0276",
+    "key": "DP_0575_0276",
     "original": "ばかぢから",
     "translation": "ばかぢから",
     "index": 276
   },
   {
-    "key": "DP_0739_0277",
+    "key": "DP_0575_0277",
     "original": "マジックコート",
     "translation": "マジックコート",
     "index": 277
   },
   {
-    "key": "DP_0739_0278",
+    "key": "DP_0575_0278",
     "original": "リサイクル",
     "translation": "リサイクル",
     "index": 278
   },
   {
-    "key": "DP_0739_0279",
+    "key": "DP_0575_0279",
     "original": "リベンジ",
     "translation": "リベンジ",
     "index": 279
   },
   {
-    "key": "DP_0739_0280",
+    "key": "DP_0575_0280",
     "original": "かわらわり",
     "translation": "かわらわり",
     "index": 280
   },
   {
-    "key": "DP_0739_0281",
+    "key": "DP_0575_0281",
     "original": "あくび",
     "translation": "あくび",
     "index": 281
   },
   {
-    "key": "DP_0739_0282",
+    "key": "DP_0575_0282",
     "original": "はたきおとす",
     "translation": "はたきおとす",
     "index": 282
   },
   {
-    "key": "DP_0739_0283",
+    "key": "DP_0575_0283",
     "original": "がむしゃら",
     "translation": "がむしゃら",
     "index": 283
   },
   {
-    "key": "DP_0739_0284",
+    "key": "DP_0575_0284",
     "original": "ふんか",
     "translation": "ふんか",
     "index": 284
   },
   {
-    "key": "DP_0739_0285",
+    "key": "DP_0575_0285",
     "original": "スキルスワップ",
     "translation": "スキルスワップ",
     "index": 285
   },
   {
-    "key": "DP_0739_0286",
+    "key": "DP_0575_0286",
     "original": "ふういん",
     "translation": "ふういん",
     "index": 286
   },
   {
-    "key": "DP_0739_0287",
+    "key": "DP_0575_0287",
     "original": "リフレッシュ",
     "translation": "リフレッシュ",
     "index": 287
   },
   {
-    "key": "DP_0739_0288",
+    "key": "DP_0575_0288",
     "original": "おんねん",
     "translation": "おんねん",
     "index": 288
   },
   {
-    "key": "DP_0739_0289",
+    "key": "DP_0575_0289",
     "original": "よこどり",
     "translation": "よこどり",
     "index": 289
   },
   {
-    "key": "DP_0739_0290",
+    "key": "DP_0575_0290",
     "original": "ひみつのちから",
     "translation": "ひみつのちから",
     "index": 290
   },
   {
-    "key": "DP_0739_0291",
+    "key": "DP_0575_0291",
     "original": "ダイビング",
     "translation": "ダイビング",
     "index": 291
   },
   {
-    "key": "DP_0739_0292",
+    "key": "DP_0575_0292",
     "original": "つっぱり",
     "translation": "つっぱり",
     "index": 292
   },
   {
-    "key": "DP_0739_0293",
+    "key": "DP_0575_0293",
     "original": "ほごしょく",
     "translation": "ほごしょく",
     "index": 293
   },
   {
-    "key": "DP_0739_0294",
+    "key": "DP_0575_0294",
     "original": "ほたるび",
     "translation": "ほたるび",
     "index": 294
   },
   {
-    "key": "DP_0739_0295",
+    "key": "DP_0575_0295",
     "original": "ラスターパージ",
     "translation": "ラスターパージ",
     "index": 295
   },
   {
-    "key": "DP_0739_0296",
+    "key": "DP_0575_0296",
     "original": "ミストボール",
     "translation": "ミストボール",
     "index": 296
   },
   {
-    "key": "DP_0739_0297",
+    "key": "DP_0575_0297",
     "original": "フェザーダンス",
     "translation": "フェザーダンス",
     "index": 297
   },
   {
-    "key": "DP_0739_0298",
+    "key": "DP_0575_0298",
     "original": "フラフラダンス",
     "translation": "フラフラダンス",
     "index": 298
   },
   {
-    "key": "DP_0739_0299",
+    "key": "DP_0575_0299",
     "original": "ブレイズキック",
     "translation": "ブレイズキック",
     "index": 299
   },
   {
-    "key": "DP_0739_0300",
+    "key": "DP_0575_0300",
     "original": "どろあそび",
     "translation": "どろあそび",
     "index": 300
   },
   {
-    "key": "DP_0739_0301",
+    "key": "DP_0575_0301",
     "original": "アイスボール",
     "translation": "アイスボール",
     "index": 301
   },
   {
-    "key": "DP_0739_0302",
+    "key": "DP_0575_0302",
     "original": "ニードルアーム",
     "translation": "ニードルアーム",
     "index": 302
   },
   {
-    "key": "DP_0739_0303",
+    "key": "DP_0575_0303",
     "original": "なまける",
     "translation": "なまける",
     "index": 303
   },
   {
-    "key": "DP_0739_0304",
+    "key": "DP_0575_0304",
     "original": "ハイパーボイス",
     "translation": "ハイパーボイス",
     "index": 304
   },
   {
-    "key": "DP_0739_0305",
+    "key": "DP_0575_0305",
     "original": "どくどくのキバ",
     "translation": "どくどくのキバ",
     "index": 305
   },
   {
-    "key": "DP_0739_0306",
+    "key": "DP_0575_0306",
     "original": "ブレイククロー",
     "translation": "ブレイククロー",
     "index": 306
   },
   {
-    "key": "DP_0739_0307",
+    "key": "DP_0575_0307",
     "original": "ブラストバーン",
     "translation": "ブラストバーン",
     "index": 307
   },
   {
-    "key": "DP_0739_0308",
+    "key": "DP_0575_0308",
     "original": "ハイドロカノン",
     "translation": "ハイドロカノン",
     "index": 308
   },
   {
-    "key": "DP_0739_0309",
+    "key": "DP_0575_0309",
     "original": "コメットパンチ",
     "translation": "コメットパンチ",
     "index": 309
   },
   {
-    "key": "DP_0739_0310",
+    "key": "DP_0575_0310",
     "original": "おどろかす",
     "translation": "おどろかす",
     "index": 310
   },
   {
-    "key": "DP_0739_0311",
+    "key": "DP_0575_0311",
     "original": "ウェザーボール",
     "translation": "ウェザーボール",
     "index": 311
   },
   {
-    "key": "DP_0739_0312",
+    "key": "DP_0575_0312",
     "original": "アロマセラピー",
     "translation": "アロマセラピー",
     "index": 312
   },
   {
-    "key": "DP_0739_0313",
+    "key": "DP_0575_0313",
     "original": "うそなき",
     "translation": "うそなき",
     "index": 313
   },
   {
-    "key": "DP_0739_0314",
+    "key": "DP_0575_0314",
     "original": "エアカッター",
     "translation": "エアカッター",
     "index": 314
   },
   {
-    "key": "DP_0739_0315",
+    "key": "DP_0575_0315",
     "original": "オーバーヒート",
     "translation": "オーバーヒート",
     "index": 315
   },
   {
-    "key": "DP_0739_0316",
+    "key": "DP_0575_0316",
     "original": "かぎわける",
     "translation": "かぎわける",
     "index": 316
   },
   {
-    "key": "DP_0739_0317",
+    "key": "DP_0575_0317",
     "original": "がんせきふうじ",
     "translation": "がんせきふうじ",
     "index": 317
   },
   {
-    "key": "DP_0739_0318",
+    "key": "DP_0575_0318",
     "original": "ぎんいろのかぜ",
     "translation": "ぎんいろのかぜ",
     "index": 318
   },
   {
-    "key": "DP_0739_0319",
+    "key": "DP_0575_0319",
     "original": "きんぞくおん",
     "translation": "きんぞくおん",
     "index": 319
   },
   {
-    "key": "DP_0739_0320",
+    "key": "DP_0575_0320",
     "original": "くさぶえ",
     "translation": "くさぶえ",
     "index": 320
   },
   {
-    "key": "DP_0739_0321",
+    "key": "DP_0575_0321",
     "original": "くすぐる",
     "translation": "くすぐる",
     "index": 321
   },
   {
-    "key": "DP_0739_0322",
+    "key": "DP_0575_0322",
     "original": "コスモパワー",
     "translation": "コスモパワー",
     "index": 322
   },
   {
-    "key": "DP_0739_0323",
+    "key": "DP_0575_0323",
     "original": "しおふき",
     "translation": "しおふき",
     "index": 323
   },
   {
-    "key": "DP_0739_0324",
+    "key": "DP_0575_0324",
     "original": "シグナルビーム",
     "translation": "シグナルビーム",
     "index": 324
   },
   {
-    "key": "DP_0739_0325",
+    "key": "DP_0575_0325",
     "original": "シャドーパンチ",
     "translation": "シャドーパンチ",
     "index": 325
   },
   {
-    "key": "DP_0739_0326",
+    "key": "DP_0575_0326",
     "original": "じんつうりき",
     "translation": "じんつうりき",
     "index": 326
   },
   {
-    "key": "DP_0739_0327",
+    "key": "DP_0575_0327",
     "original": "スカイアッパー",
     "translation": "スカイアッパー",
     "index": 327
   },
   {
-    "key": "DP_0739_0328",
+    "key": "DP_0575_0328",
     "original": "すなじごく",
     "translation": "すなじごく",
     "index": 328
   },
   {
-    "key": "DP_0739_0329",
+    "key": "DP_0575_0329",
     "original": "ぜったいれいど",
     "translation": "ぜったいれいど",
     "index": 329
   },
   {
-    "key": "DP_0739_0330",
+    "key": "DP_0575_0330",
     "original": "だくりゅう",
     "translation": "だくりゅう",
     "index": 330
   },
   {
-    "key": "DP_0739_0331",
+    "key": "DP_0575_0331",
     "original": "タネマシンガン",
     "translation": "タネマシンガン",
     "index": 331
   },
   {
-    "key": "DP_0739_0332",
+    "key": "DP_0575_0332",
     "original": "つばめがえし",
     "translation": "つばめがえし",
     "index": 332
   },
   {
-    "key": "DP_0739_0333",
+    "key": "DP_0575_0333",
     "original": "つららばり",
     "translation": "つららばり",
     "index": 333
   },
   {
-    "key": "DP_0739_0334",
+    "key": "DP_0575_0334",
     "original": "てっぺき",
     "translation": "てっぺき",
     "index": 334
   },
   {
-    "key": "DP_0739_0335",
+    "key": "DP_0575_0335",
     "original": "とおせんぼう",
     "translation": "とおせんぼう",
     "index": 335
   },
   {
-    "key": "DP_0739_0336",
+    "key": "DP_0575_0336",
     "original": "とおぼえ",
     "translation": "とおぼえ",
     "index": 336
   },
   {
-    "key": "DP_0739_0337",
+    "key": "DP_0575_0337",
     "original": "ドラゴンクロー",
     "translation": "ドラゴンクロー",
     "index": 337
   },
   {
-    "key": "DP_0739_0338",
+    "key": "DP_0575_0338",
     "original": "ハードプラント",
     "translation": "ハードプラント",
     "index": 338
   },
   {
-    "key": "DP_0739_0339",
+    "key": "DP_0575_0339",
     "original": "ビルドアップ",
     "translation": "ビルドアップ",
     "index": 339
   },
   {
-    "key": "DP_0739_0340",
+    "key": "DP_0575_0340",
     "original": "とびはねる",
     "translation": "とびはねる",
     "index": 340
   },
   {
-    "key": "DP_0739_0341",
+    "key": "DP_0575_0341",
     "original": "マッドショット",
     "translation": "マッドショット",
     "index": 341
   },
   {
-    "key": "DP_0739_0342",
+    "key": "DP_0575_0342",
     "original": "ポイズンテール",
     "translation": "ポイズンテール",
     "index": 342
   },
   {
-    "key": "DP_0739_0343",
+    "key": "DP_0575_0343",
     "original": "ほしがる",
     "translation": "ほしがる",
     "index": 343
   },
   {
-    "key": "DP_0739_0344",
+    "key": "DP_0575_0344",
     "original": "ボルテッカー",
     "translation": "ボルテッカー",
     "index": 344
   },
   {
-    "key": "DP_0739_0345",
+    "key": "DP_0575_0345",
     "original": "マジカルリーフ",
     "translation": "マジカルリーフ",
     "index": 345
   },
   {
-    "key": "DP_0739_0346",
+    "key": "DP_0575_0346",
     "original": "みずあそび",
     "translation": "みずあそび",
     "index": 346
   },
   {
-    "key": "DP_0739_0347",
+    "key": "DP_0575_0347",
     "original": "めいそう",
     "translation": "めいそう",
     "index": 347
   },
   {
-    "key": "DP_0739_0348",
+    "key": "DP_0575_0348",
     "original": "リーフブレード",
     "translation": "リーフブレード",
     "index": 348
   },
   {
-    "key": "DP_0739_0349",
+    "key": "DP_0575_0349",
     "original": "りゅうのまい",
     "translation": "りゅうのまい",
     "index": 349
   },
   {
-    "key": "DP_0739_0350",
+    "key": "DP_0575_0350",
     "original": "ロックブラスト",
     "translation": "ロックブラスト",
     "index": 350
   },
   {
-    "key": "DP_0739_0351",
+    "key": "DP_0575_0351",
     "original": "でんげきは",
     "translation": "でんげきは",
     "index": 351
   },
   {
-    "key": "DP_0739_0352",
+    "key": "DP_0575_0352",
     "original": "みずのはどう",
     "translation": "みずのはどう",
     "index": 352
   },
   {
-    "key": "DP_0739_0353",
+    "key": "DP_0575_0353",
     "original": "はめつのねがい",
     "translation": "はめつのねがい",
     "index": 353
   },
   {
-    "key": "DP_0739_0354",
+    "key": "DP_0575_0354",
     "original": "サイコブースト",
     "translation": "サイコブースト",
     "index": 354
   },
   {
-    "key": "DP_0739_0355",
+    "key": "DP_0575_0355",
     "original": "はねやすめ",
     "translation": "はねやすめ",
     "index": 355
   },
   {
-    "key": "DP_0739_0356",
+    "key": "DP_0575_0356",
     "original": "じゅうりょく",
     "translation": "じゅうりょく",
     "index": 356
   },
   {
-    "key": "DP_0739_0357",
+    "key": "DP_0575_0357",
     "original": "ミラクルアイ",
     "translation": "ミラクルアイ",
     "index": 357
   },
   {
-    "key": "DP_0739_0358",
+    "key": "DP_0575_0358",
     "original": "めざましビンタ",
     "translation": "めざましビンタ",
     "index": 358
   },
   {
-    "key": "DP_0739_0359",
+    "key": "DP_0575_0359",
     "original": "アームハンマー",
     "translation": "アームハンマー",
     "index": 359
   },
   {
-    "key": "DP_0739_0360",
+    "key": "DP_0575_0360",
     "original": "ジャイロボール",
     "translation": "ジャイロボール",
     "index": 360
   },
   {
-    "key": "DP_0739_0361",
+    "key": "DP_0575_0361",
     "original": "いやしのねがい",
     "translation": "いやしのねがい",
     "index": 361
   },
   {
-    "key": "DP_0739_0362",
+    "key": "DP_0575_0362",
     "original": "しおみず",
     "translation": "しおみず",
     "index": 362
   },
   {
-    "key": "DP_0739_0363",
+    "key": "DP_0575_0363",
     "original": "しぜんのめぐみ",
     "translation": "しぜんのめぐみ",
     "index": 363
   },
   {
-    "key": "DP_0739_0364",
+    "key": "DP_0575_0364",
     "original": "フェイント",
     "translation": "フェイント",
     "index": 364
   },
   {
-    "key": "DP_0739_0365",
+    "key": "DP_0575_0365",
     "original": "ついばむ",
     "translation": "ついばむ",
     "index": 365
   },
   {
-    "key": "DP_0739_0366",
+    "key": "DP_0575_0366",
     "original": "おいかぜ",
     "translation": "おいかぜ",
     "index": 366
   },
   {
-    "key": "DP_0739_0367",
+    "key": "DP_0575_0367",
     "original": "つぼをつく",
     "translation": "つぼをつく",
     "index": 367
   },
   {
-    "key": "DP_0739_0368",
+    "key": "DP_0575_0368",
     "original": "メタルバースト",
     "translation": "メタルバースト",
     "index": 368
   },
   {
-    "key": "DP_0739_0369",
+    "key": "DP_0575_0369",
     "original": "とんぼがえり",
     "translation": "とんぼがえり",
     "index": 369
   },
   {
-    "key": "DP_0739_0370",
+    "key": "DP_0575_0370",
     "original": "インファイト",
     "translation": "インファイト",
     "index": 370
   },
   {
-    "key": "DP_0739_0371",
+    "key": "DP_0575_0371",
     "original": "しっぺがえし",
     "translation": "しっぺがえし",
     "index": 371
   },
   {
-    "key": "DP_0739_0372",
+    "key": "DP_0575_0372",
     "original": "ダメおし",
     "translation": "ダメおし",
     "index": 372
   },
   {
-    "key": "DP_0739_0373",
+    "key": "DP_0575_0373",
     "original": "さしおさえ",
     "translation": "さしおさえ",
     "index": 373
   },
   {
-    "key": "DP_0739_0374",
+    "key": "DP_0575_0374",
     "original": "なげつける",
     "translation": "なげつける",
     "index": 374
   },
   {
-    "key": "DP_0739_0375",
+    "key": "DP_0575_0375",
     "original": "サイコシフト",
     "translation": "サイコシフト",
     "index": 375
   },
   {
-    "key": "DP_0739_0376",
+    "key": "DP_0575_0376",
     "original": "きりふだ",
     "translation": "きりふだ",
     "index": 376
   },
   {
-    "key": "DP_0739_0377",
+    "key": "DP_0575_0377",
     "original": "かいふくふうじ",
     "translation": "かいふくふうじ",
     "index": 377
   },
   {
-    "key": "DP_0739_0378",
+    "key": "DP_0575_0378",
     "original": "しぼりとる",
     "translation": "しぼりとる",
     "index": 378
   },
   {
-    "key": "DP_0739_0379",
+    "key": "DP_0575_0379",
     "original": "パワートリック",
     "translation": "パワートリック",
     "index": 379
   },
   {
-    "key": "DP_0739_0380",
+    "key": "DP_0575_0380",
     "original": "いえき",
     "translation": "いえき",
     "index": 380
   },
   {
-    "key": "DP_0739_0381",
+    "key": "DP_0575_0381",
     "original": "おまじない",
     "translation": "おまじない",
     "index": 381
   },
   {
-    "key": "DP_0739_0382",
+    "key": "DP_0575_0382",
     "original": "さきどり",
     "translation": "さきどり",
     "index": 382
   },
   {
-    "key": "DP_0739_0383",
+    "key": "DP_0575_0383",
     "original": "まねっこ",
     "translation": "まねっこ",
     "index": 383
   },
   {
-    "key": "DP_0739_0384",
+    "key": "DP_0575_0384",
     "original": "パワースワップ",
     "translation": "パワースワップ",
     "index": 384
   },
   {
-    "key": "DP_0739_0385",
+    "key": "DP_0575_0385",
     "original": "ガードスワップ",
     "translation": "ガードスワップ",
     "index": 385
   },
   {
-    "key": "DP_0739_0386",
+    "key": "DP_0575_0386",
     "original": "おしおき",
     "translation": "おしおき",
     "index": 386
   },
   {
-    "key": "DP_0739_0387",
+    "key": "DP_0575_0387",
     "original": "とっておき",
     "translation": "とっておき",
     "index": 387
   },
   {
-    "key": "DP_0739_0388",
+    "key": "DP_0575_0388",
     "original": "なやみのタネ",
     "translation": "なやみのタネ",
     "index": 388
   },
   {
-    "key": "DP_0739_0389",
+    "key": "DP_0575_0389",
     "original": "ふいうち",
     "translation": "ふいうち",
     "index": 389
   },
   {
-    "key": "DP_0739_0390",
+    "key": "DP_0575_0390",
     "original": "どくびし",
     "translation": "どくびし",
     "index": 390
   },
   {
-    "key": "DP_0739_0391",
+    "key": "DP_0575_0391",
     "original": "ハートスワップ",
     "translation": "ハートスワップ",
     "index": 391
   },
   {
-    "key": "DP_0739_0392",
+    "key": "DP_0575_0392",
     "original": "アクアリング",
     "translation": "アクアリング",
     "index": 392
   },
   {
-    "key": "DP_0739_0393",
+    "key": "DP_0575_0393",
     "original": "でんじふゆう",
     "translation": "でんじふゆう",
     "index": 393
   },
   {
-    "key": "DP_0739_0394",
+    "key": "DP_0575_0394",
     "original": "フレアドライブ",
     "translation": "フレアドライブ",
     "index": 394
   },
   {
-    "key": "DP_0739_0395",
+    "key": "DP_0575_0395",
     "original": "はっけい",
     "translation": "はっけい",
     "index": 395
   },
   {
-    "key": "DP_0739_0396",
+    "key": "DP_0575_0396",
     "original": "はどうだん",
     "translation": "はどうだん",
     "index": 396
   },
   {
-    "key": "DP_0739_0397",
+    "key": "DP_0575_0397",
     "original": "ロックカット",
     "translation": "ロックカット",
     "index": 397
   },
   {
-    "key": "DP_0739_0398",
+    "key": "DP_0575_0398",
     "original": "どくづき",
     "translation": "どくづき",
     "index": 398
   },
   {
-    "key": "DP_0739_0399",
+    "key": "DP_0575_0399",
     "original": "あくのはどう",
     "translation": "あくのはどう",
     "index": 399
   },
   {
-    "key": "DP_0739_0400",
+    "key": "DP_0575_0400",
     "original": "つじぎり",
     "translation": "つじぎり",
     "index": 400
   },
   {
-    "key": "DP_0739_0401",
+    "key": "DP_0575_0401",
     "original": "アクアテール",
     "translation": "アクアテール",
     "index": 401
   },
   {
-    "key": "DP_0739_0402",
+    "key": "DP_0575_0402",
     "original": "タネばくだん",
     "translation": "タネばくだん",
     "index": 402
   },
   {
-    "key": "DP_0739_0403",
+    "key": "DP_0575_0403",
     "original": "エアスラッシュ",
     "translation": "エアスラッシュ",
     "index": 403
   },
   {
-    "key": "DP_0739_0404",
+    "key": "DP_0575_0404",
     "original": "シザークロス",
     "translation": "シザークロス",
     "index": 404
   },
   {
-    "key": "DP_0739_0405",
+    "key": "DP_0575_0405",
     "original": "むしのさざめき",
     "translation": "むしのさざめき",
     "index": 405
   },
   {
-    "key": "DP_0739_0406",
+    "key": "DP_0575_0406",
     "original": "りゅうのはどう",
     "translation": "りゅうのはどう",
     "index": 406
   },
   {
-    "key": "DP_0739_0407",
+    "key": "DP_0575_0407",
     "original": "ドラゴンダイブ",
     "translation": "ドラゴンダイブ",
     "index": 407
   },
   {
-    "key": "DP_0739_0408",
+    "key": "DP_0575_0408",
     "original": "パワージェム",
     "translation": "パワージェム",
     "index": 408
   },
   {
-    "key": "DP_0739_0409",
+    "key": "DP_0575_0409",
     "original": "ドレインパンチ",
     "translation": "ドレインパンチ",
     "index": 409
   },
   {
-    "key": "DP_0739_0410",
+    "key": "DP_0575_0410",
     "original": "しんくうは",
     "translation": "しんくうは",
     "index": 410
   },
   {
-    "key": "DP_0739_0411",
+    "key": "DP_0575_0411",
     "original": "きあいだま",
     "translation": "きあいだま",
     "index": 411
   },
   {
-    "key": "DP_0739_0412",
+    "key": "DP_0575_0412",
     "original": "エナジーボール",
     "translation": "エナジーボール",
     "index": 412
   },
   {
-    "key": "DP_0739_0413",
+    "key": "DP_0575_0413",
     "original": "ブレイブバード",
     "translation": "ブレイブバード",
     "index": 413
   },
   {
-    "key": "DP_0739_0414",
+    "key": "DP_0575_0414",
     "original": "だいちのちから",
     "translation": "だいちのちから",
     "index": 414
   },
   {
-    "key": "DP_0739_0415",
+    "key": "DP_0575_0415",
     "original": "すりかえ",
     "translation": "すりかえ",
     "index": 415
   },
   {
-    "key": "DP_0739_0416",
+    "key": "DP_0575_0416",
     "original": "ギガインパクト",
     "translation": "ギガインパクト",
     "index": 416
   },
   {
-    "key": "DP_0739_0417",
+    "key": "DP_0575_0417",
     "original": "わるだくみ",
     "translation": "わるだくみ",
     "index": 417
   },
   {
-    "key": "DP_0739_0418",
+    "key": "DP_0575_0418",
     "original": "バレットパンチ",
     "translation": "バレットパンチ",
     "index": 418
   },
   {
-    "key": "DP_0739_0419",
+    "key": "DP_0575_0419",
     "original": "ゆきなだれ",
     "translation": "ゆきなだれ",
     "index": 419
   },
   {
-    "key": "DP_0739_0420",
+    "key": "DP_0575_0420",
     "original": "こおりのつぶて",
     "translation": "こおりのつぶて",
     "index": 420
   },
   {
-    "key": "DP_0739_0421",
+    "key": "DP_0575_0421",
     "original": "シャドークロー",
     "translation": "シャドークロー",
     "index": 421
   },
   {
-    "key": "DP_0739_0422",
+    "key": "DP_0575_0422",
     "original": "かみなりのキバ",
     "translation": "かみなりのキバ",
     "index": 422
   },
   {
-    "key": "DP_0739_0423",
+    "key": "DP_0575_0423",
     "original": "こおりのキバ",
     "translation": "こおりのキバ",
     "index": 423
   },
   {
-    "key": "DP_0739_0424",
+    "key": "DP_0575_0424",
     "original": "ほのおのキバ",
     "translation": "ほのおのキバ",
     "index": 424
   },
   {
-    "key": "DP_0739_0425",
+    "key": "DP_0575_0425",
     "original": "かげうち",
     "translation": "かげうち",
     "index": 425
   },
   {
-    "key": "DP_0739_0426",
+    "key": "DP_0575_0426",
     "original": "どろばくだん",
     "translation": "どろばくだん",
     "index": 426
   },
   {
-    "key": "DP_0739_0427",
+    "key": "DP_0575_0427",
     "original": "サイコカッター",
     "translation": "サイコカッター",
     "index": 427
   },
   {
-    "key": "DP_0739_0428",
+    "key": "DP_0575_0428",
     "original": "しねんのずつき",
     "translation": "しねんのずつき",
     "index": 428
   },
   {
-    "key": "DP_0739_0429",
+    "key": "DP_0575_0429",
     "original": "ミラーショット",
     "translation": "ミラーショット",
     "index": 429
   },
   {
-    "key": "DP_0739_0430",
+    "key": "DP_0575_0430",
     "original": "ラスターカノン",
     "translation": "ラスターカノン",
     "index": 430
   },
   {
-    "key": "DP_0739_0431",
+    "key": "DP_0575_0431",
     "original": "ロッククライム",
     "translation": "ロッククライム",
     "index": 431
   },
   {
-    "key": "DP_0739_0432",
+    "key": "DP_0575_0432",
     "original": "きりばらい",
     "translation": "きりばらい",
     "index": 432
   },
   {
-    "key": "DP_0739_0433",
+    "key": "DP_0575_0433",
     "original": "トリックルーム",
     "translation": "トリックルーム",
     "index": 433
   },
   {
-    "key": "DP_0739_0434",
+    "key": "DP_0575_0434",
     "original": "りゅうせいぐん",
     "translation": "りゅうせいぐん",
     "index": 434
   },
   {
-    "key": "DP_0739_0435",
+    "key": "DP_0575_0435",
     "original": "ほうでん",
     "translation": "ほうでん",
     "index": 435
   },
   {
-    "key": "DP_0739_0436",
+    "key": "DP_0575_0436",
     "original": "ふんえん",
     "translation": "ふんえん",
     "index": 436
   },
   {
-    "key": "DP_0739_0437",
+    "key": "DP_0575_0437",
     "original": "リーフストーム",
     "translation": "リーフストーム",
     "index": 437
   },
   {
-    "key": "DP_0739_0438",
+    "key": "DP_0575_0438",
     "original": "パワーウィップ",
     "translation": "パワーウィップ",
     "index": 438
   },
   {
-    "key": "DP_0739_0439",
+    "key": "DP_0575_0439",
     "original": "がんせきほう",
     "translation": "がんせきほう",
     "index": 439
   },
   {
-    "key": "DP_0739_0440",
+    "key": "DP_0575_0440",
     "original": "クロスポイズン",
     "translation": "クロスポイズン",
     "index": 440
   },
   {
-    "key": "DP_0739_0441",
+    "key": "DP_0575_0441",
     "original": "ダストシュート",
     "translation": "ダストシュート",
     "index": 441
   },
   {
-    "key": "DP_0739_0442",
+    "key": "DP_0575_0442",
     "original": "アイアンヘッド",
     "translation": "アイアンヘッド",
     "index": 442
   },
   {
-    "key": "DP_0739_0443",
+    "key": "DP_0575_0443",
     "original": "マグネットボム",
     "translation": "マグネットボム",
     "index": 443
   },
   {
-    "key": "DP_0739_0444",
+    "key": "DP_0575_0444",
     "original": "ストーンエッジ",
     "translation": "ストーンエッジ",
     "index": 444
   },
   {
-    "key": "DP_0739_0445",
+    "key": "DP_0575_0445",
     "original": "ゆうわく",
     "translation": "ゆうわく",
     "index": 445
   },
   {
-    "key": "DP_0739_0446",
+    "key": "DP_0575_0446",
     "original": "ステルスロック",
     "translation": "ステルスロック",
     "index": 446
   },
   {
-    "key": "DP_0739_0447",
+    "key": "DP_0575_0447",
     "original": "くさむすび",
     "translation": "くさむすび",
     "index": 447
   },
   {
-    "key": "DP_0739_0448",
+    "key": "DP_0575_0448",
     "original": "おしゃべり",
     "translation": "おしゃべり",
     "index": 448
   },
   {
-    "key": "DP_0739_0449",
+    "key": "DP_0575_0449",
     "original": "さばきのつぶて",
     "translation": "さばきのつぶて",
     "index": 449
   },
   {
-    "key": "DP_0739_0450",
+    "key": "DP_0575_0450",
     "original": "むしくい",
     "translation": "むしくい",
     "index": 450
   },
   {
-    "key": "DP_0739_0451",
+    "key": "DP_0575_0451",
     "original": "チャージビーム",
     "translation": "チャージビーム",
     "index": 451
   },
   {
-    "key": "DP_0739_0452",
+    "key": "DP_0575_0452",
     "original": "ウッドハンマー",
     "translation": "ウッドハンマー",
     "index": 452
   },
   {
-    "key": "DP_0739_0453",
+    "key": "DP_0575_0453",
     "original": "アクアジェット",
     "translation": "アクアジェット",
     "index": 453
   },
   {
-    "key": "DP_0739_0454",
+    "key": "DP_0575_0454",
     "original": "こうげきしれい",
     "translation": "こうげきしれい",
     "index": 454
   },
   {
-    "key": "DP_0739_0455",
+    "key": "DP_0575_0455",
     "original": "ぼうぎょしれい",
     "translation": "ぼうぎょしれい",
     "index": 455
   },
   {
-    "key": "DP_0739_0456",
+    "key": "DP_0575_0456",
     "original": "かいふくしれい",
     "translation": "かいふくしれい",
     "index": 456
   },
   {
-    "key": "DP_0739_0457",
+    "key": "DP_0575_0457",
     "original": "もろはのずつき",
     "translation": "もろはのずつき",
     "index": 457
   },
   {
-    "key": "DP_0739_0458",
+    "key": "DP_0575_0458",
     "original": "ダブルアタック",
     "translation": "ダブルアタック",
     "index": 458
   },
   {
-    "key": "DP_0739_0459",
+    "key": "DP_0575_0459",
     "original": "ときのほうこう",
     "translation": "ときのほうこう",
     "index": 459
   },
   {
-    "key": "DP_0739_0460",
+    "key": "DP_0575_0460",
     "original": "あくうせつだん",
     "translation": "あくうせつだん",
     "index": 460
   },
   {
-    "key": "DP_0739_0461",
+    "key": "DP_0575_0461",
     "original": "みかづきのまい",
     "translation": "みかづきのまい",
     "index": 461
   },
   {
-    "key": "DP_0739_0462",
+    "key": "DP_0575_0462",
     "original": "にぎりつぶす",
     "translation": "にぎりつぶす",
     "index": 462
   },
   {
-    "key": "DP_0739_0463",
+    "key": "DP_0575_0463",
     "original": "マグマストーム",
     "translation": "マグマストーム",
     "index": 463
   },
   {
-    "key": "DP_0739_0464",
+    "key": "DP_0575_0464",
     "original": "ダークホール",
     "translation": "ダークホール",
     "index": 464
   },
   {
-    "key": "DP_0739_0465",
+    "key": "DP_0575_0465",
     "original": "シードフレア",
     "translation": "シードフレア",
     "index": 465
   },
   {
-    "key": "DP_0739_0466",
+    "key": "DP_0575_0466",
     "original": "あやしいかぜ",
     "translation": "あやしいかぜ",
     "index": 466
   },
   {
-    "key": "DP_0739_0467",
+    "key": "DP_0575_0467",
     "original": "シャドーダイブ",
     "translation": "シャドーダイブ",
     "index": 467

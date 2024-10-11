@@ -1,78 +1,78 @@
 [
   {
-    "key": "PT_0425_0000",
+    "key": "Pt_0534_0000",
     "original": "[0132,0000]まいめ",
     "translation": "[0132,0000]枚",
     "index": 0
   },
   {
-    "key": "PT_0425_0001",
+    "key": "Pt_0534_0001",
     "original": "[0108,0000]",
     "translation": "[0108,0000]",
     "index": 1
   },
   {
-    "key": "PT_0425_0002",
+    "key": "Pt_0534_0002",
     "original": "３コ",
     "translation": "３个",
     "index": 2
   },
   {
-    "key": "PT_0425_0003",
+    "key": "Pt_0534_0003",
     "original": "Ｘ ３",
     "translation": "Ｘ３",
     "index": 3
   },
   {
-    "key": "PT_0425_0004",
+    "key": "Pt_0534_0004",
     "original": "つぎのカードへ",
     "translation": "下一张卡",
     "index": 4
   },
   {
-    "key": "PT_0425_0005",
+    "key": "Pt_0534_0005",
     "original": "やめる",
     "translation": "取消",
     "index": 5
   },
   {
-    "key": "PT_0425_0006",
+    "key": "Pt_0534_0006",
     "original": "このカードの スクラッチを\nやめますか？",
     "translation": "结束刮这张卡吗？",
     "index": 6
   },
   {
-    "key": "PT_0425_0007",
+    "key": "Pt_0534_0007",
     "original": "はい",
     "translation": "是",
     "index": 7
   },
   {
-    "key": "PT_0425_0008",
+    "key": "Pt_0534_0008",
     "original": "いいえ",
     "translation": "否",
     "index": 8
   },
   {
-    "key": "PT_0425_0009",
+    "key": "Pt_0534_0009",
     "original": "[0132,0000]まいめスタート！",
     "translation": "[0132,0000]刮卡开始！",
     "index": 9
   },
   {
-    "key": "PT_0425_0010",
+    "key": "Pt_0534_0010",
     "original": "３つそろった！",
     "translation": "集齐了３个！",
     "index": 10
   },
   {
-    "key": "PT_0425_0011",
+    "key": "Pt_0534_0011",
     "original": "ざんねん！",
     "translation": "遗憾！",
     "index": 11
   },
   {
-    "key": "PT_0425_0012",
+    "key": "Pt_0534_0012",
     "original": "[0132,0000]まいめの カードを\nえらんでください[0200,0000]",
     "translation": "[0132,0000]请选择要刮的卡\n[0200,0000]",
     "index": 12

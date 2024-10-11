@@ -1,162 +1,162 @@
 [
   {
-    "key": "PT_0744_0000",
+    "key": "Pt_0640_0000",
     "original": "ベル０１",
     "translation": "电铃０１",
     "index": 0
   },
   {
-    "key": "PT_0744_0001",
+    "key": "Pt_0640_0001",
     "original": "ベル０２",
     "translation": "电铃０２",
     "index": 1
   },
   {
-    "key": "PT_0744_0002",
+    "key": "Pt_0640_0002",
     "original": "ベル０３",
     "translation": "电铃０３",
     "index": 2
   },
   {
-    "key": "PT_0744_0003",
+    "key": "Pt_0640_0003",
     "original": "ドラム０１",
     "translation": "大鼓０１",
     "index": 3
   },
   {
-    "key": "PT_0744_0004",
+    "key": "Pt_0640_0004",
     "original": "ドラム０２",
     "translation": "大鼓０２",
     "index": 4
   },
   {
-    "key": "PT_0744_0005",
+    "key": "Pt_0640_0005",
     "original": "ドラム０３",
     "translation": "大鼓０３",
     "index": 5
   },
   {
-    "key": "PT_0744_0006",
+    "key": "Pt_0640_0006",
     "original": "シンバル０１",
     "translation": "钹０１",
     "index": 6
   },
   {
-    "key": "PT_0744_0007",
+    "key": "Pt_0640_0007",
     "original": "シンバル０２",
     "translation": "钹０２",
     "index": 7
   },
   {
-    "key": "PT_0744_0008",
+    "key": "Pt_0640_0008",
     "original": "シンバル０３",
     "translation": "钹０３",
     "index": 8
   },
   {
-    "key": "PT_0744_0009",
+    "key": "Pt_0640_0009",
     "original": "リップル０１",
     "translation": "波纹０１",
     "index": 9
   },
   {
-    "key": "PT_0744_0010",
+    "key": "Pt_0640_0010",
     "original": "リップル０２",
     "translation": "波纹０２",
     "index": 10
   },
   {
-    "key": "PT_0744_0011",
+    "key": "Pt_0640_0011",
     "original": "リップル０３",
     "translation": "波纹０３",
     "index": 11
   },
   {
-    "key": "PT_0744_0012",
+    "key": "Pt_0640_0012",
     "original": "シグナル０１",
     "translation": "信号０１",
     "index": 12
   },
   {
-    "key": "PT_0744_0013",
+    "key": "Pt_0640_0013",
     "original": "シグナル０２",
     "translation": "信号０２",
     "index": 13
   },
   {
-    "key": "PT_0744_0014",
+    "key": "Pt_0640_0014",
     "original": "シグナル０３",
     "translation": "信号０３",
     "index": 14
   },
   {
-    "key": "PT_0744_0015",
+    "key": "Pt_0640_0015",
     "original": "スウィング０１",
     "translation": "摇摆０１",
     "index": 15
   },
   {
-    "key": "PT_0744_0016",
+    "key": "Pt_0640_0016",
     "original": "スウィング０２",
     "translation": "摇摆０２",
     "index": 16
   },
   {
-    "key": "PT_0744_0017",
+    "key": "Pt_0640_0017",
     "original": "スウィング０３",
     "translation": "摇摆０３",
     "index": 17
   },
   {
-    "key": "PT_0744_0018",
+    "key": "Pt_0640_0018",
     "original": "クラッカー０１",
     "translation": "花炮０１",
     "index": 18
   },
   {
-    "key": "PT_0744_0019",
+    "key": "Pt_0640_0019",
     "original": "クラッカー０２",
     "translation": "花炮０２",
     "index": 19
   },
   {
-    "key": "PT_0744_0020",
+    "key": "Pt_0640_0020",
     "original": "クラッカー０３",
     "translation": "花炮０３",
     "index": 20
   },
   {
-    "key": "PT_0744_0021",
+    "key": "Pt_0640_0021",
     "original": "スパークル０１",
     "translation": "电烟花０１",
     "index": 21
   },
   {
-    "key": "PT_0744_0022",
+    "key": "Pt_0640_0022",
     "original": "スパークル０２",
     "translation": "电烟花０２",
     "index": 22
   },
   {
-    "key": "PT_0744_0023",
+    "key": "Pt_0640_0023",
     "original": "スパークル０３",
     "translation": "电烟花０３",
     "index": 23
   },
   {
-    "key": "PT_0744_0024",
+    "key": "Pt_0640_0024",
     "original": "バルーン０１",
     "translation": "汽球０１",
     "index": 24
   },
   {
-    "key": "PT_0744_0025",
+    "key": "Pt_0640_0025",
     "original": "バルーン０２",
     "translation": "汽球０２",
     "index": 25
   },
   {
-    "key": "PT_0744_0026",
+    "key": "Pt_0640_0026",
     "original": "バルーン０３",
     "translation": "汽球０３",
     "index": 26

@@ -1,276 +1,276 @@
 [
   {
-    "key": "PT_0018_0000",
+    "key": "Pt_0018_0000",
     "original": "[0101,0000]を どうしますか？",
     "translation": "[0101,0000]を どうしますか？",
     "index": 0
   },
   {
-    "key": "PT_0018_0001",
+    "key": "Pt_0018_0001",
     "original": "マーキング してください",
     "translation": "マーキング してください",
     "index": 1
   },
   {
-    "key": "PT_0018_0002",
+    "key": "Pt_0018_0002",
     "original": "ほんとうに にがしますか？",
     "translation": "ほんとうに にがしますか？",
     "index": 2
   },
   {
-    "key": "PT_0018_0003",
+    "key": "Pt_0018_0003",
     "original": "[0101,0000]を そとに にがしてあげた",
     "translation": "[0101,0000]を そとに にがしてあげた",
     "index": 3
   },
   {
-    "key": "PT_0018_0004",
+    "key": "Pt_0018_0004",
     "original": "ばいばい [0101,0000]！",
     "translation": "ばいばい [0101,0000]！",
     "index": 4
   },
   {
-    "key": "PT_0018_0005",
+    "key": "Pt_0018_0005",
     "original": "てもちが いっぱいです！",
     "translation": "てもちが いっぱいです！",
     "index": 5
   },
   {
-    "key": "PT_0018_0006",
+    "key": "Pt_0018_0006",
     "original": "たたかうポケモンが いなくなります！",
     "translation": "たたかうポケモンが いなくなります！",
     "index": 6
   },
   {
-    "key": "PT_0018_0007",
+    "key": "Pt_0018_0007",
     "original": "このボックスを どうしますか？",
     "translation": "このボックスを どうしますか？",
     "index": 7
   },
   {
-    "key": "PT_0018_0008",
+    "key": "Pt_0018_0008",
     "original": "どのボックスに ジャンプしますか？",
     "translation": "どのボックスに ジャンプしますか？",
     "index": 8
   },
   {
-    "key": "PT_0018_0009",
+    "key": "Pt_0018_0009",
     "original": "どのテーマに しますか？",
     "translation": "どのテーマに しますか？",
     "index": 9
   },
   {
-    "key": "PT_0018_0010",
+    "key": "Pt_0018_0010",
     "original": "どのかべがみに しますか？",
     "translation": "どのかべがみに しますか？",
     "index": 10
   },
   {
-    "key": "PT_0018_0011",
+    "key": "Pt_0018_0011",
     "original": "ボックスを しゅうりょうしますか？",
     "translation": "ボックスを しゅうりょうしますか？",
     "index": 11
   },
   {
-    "key": "PT_0018_0012",
+    "key": "Pt_0018_0012",
     "original": "ボックスそうさを つづけますか？",
     "translation": "ボックスそうさを つづけますか？",
     "index": 12
   },
   {
-    "key": "PT_0018_0013",
+    "key": "Pt_0018_0013",
     "original": "このボックスは いっぱいだ！",
     "translation": "このボックスは いっぱいだ！",
     "index": 13
   },
   {
-    "key": "PT_0018_0014",
+    "key": "Pt_0018_0014",
     "original": "バッグが いっぱいです！",
     "translation": "バッグが いっぱいです！",
     "index": 14
   },
   {
-    "key": "PT_0018_0015",
+    "key": "Pt_0018_0015",
     "original": "[0108,0000]を あずかった！",
     "translation": "[0108,0000]を あずかった！",
     "index": 15
   },
   {
-    "key": "PT_0018_0016",
+    "key": "Pt_0018_0016",
     "original": "[0108,0000]を もたせた！",
     "translation": "[0108,0000]を もたせた！",
     "index": 16
   },
   {
-    "key": "PT_0018_0017",
+    "key": "Pt_0018_0017",
     "original": "ポケモンを つかんだままですよ！",
     "translation": "ポケモンを つかんだままですよ！",
     "index": 17
   },
   {
-    "key": "PT_0018_0018",
+    "key": "Pt_0018_0018",
     "original": "つれていく ポケモンを えらんで！",
     "translation": "つれていく ポケモンを えらんで！",
     "index": 18
   },
   {
-    "key": "PT_0018_0019",
+    "key": "Pt_0018_0019",
     "original": "どのボックスに あずけますか？",
     "translation": "どのボックスに あずけますか？",
     "index": 19
   },
   {
-    "key": "PT_0018_0020",
+    "key": "Pt_0018_0020",
     "original": "もちものなし",
     "translation": "もちものなし",
     "index": 20
   },
   {
-    "key": "PT_0018_0021",
+    "key": "Pt_0018_0021",
     "original": "㊚",
     "translation": "㊚",
     "index": 21
   },
   {
-    "key": "PT_0018_0022",
+    "key": "Pt_0018_0022",
     "original": "㊛",
     "translation": "㊛",
     "index": 22
   },
   {
-    "key": "PT_0018_0023",
+    "key": "Pt_0018_0023",
     "original": "[0108,0000]を あずかりますか？",
     "translation": "[0108,0000]を あずかりますか？",
     "index": 23
   },
   {
-    "key": "PT_0018_0024",
+    "key": "Pt_0018_0024",
     "original": "メールをあずかることは できません！",
     "translation": "メールをあずかることは できません！",
     "index": 24
   },
   {
-    "key": "PT_0018_0025",
+    "key": "Pt_0018_0025",
     "original": "[0108,0000]を どうしますか？",
     "translation": "[0108,0000]を どうしますか？",
     "index": 25
   },
   {
-    "key": "PT_0018_0026",
+    "key": "Pt_0018_0026",
     "original": "[0108,0000]を しまいますか？",
     "translation": "[0108,0000]を しまいますか？",
     "index": 26
   },
   {
-    "key": "PT_0018_0027",
+    "key": "Pt_0018_0027",
     "original": "[0108,0000]を バッグに いれた！",
     "translation": "[0108,0000]を バッグに いれた！",
     "index": 27
   },
   {
-    "key": "PT_0018_0028",
+    "key": "Pt_0018_0028",
     "original": "どうぐを もたせますか？",
     "translation": "どうぐを もたせますか？",
     "index": 28
   },
   {
-    "key": "PT_0018_0029",
+    "key": "Pt_0018_0029",
     "original": "ボールカプセルを はずしてください！",
     "translation": "ボールカプセルを はずしてください！",
     "index": 29
   },
   {
-    "key": "PT_0018_0030",
+    "key": "Pt_0018_0030",
     "original": "メールを はずしてください！",
     "translation": "メールを はずしてください！",
     "index": 30
   },
   {
-    "key": "PT_0018_0031",
+    "key": "Pt_0018_0031",
     "original": "タマゴを にがすことは できません！",
     "translation": "タマゴを にがすことは できません！",
     "index": 31
   },
   {
-    "key": "PT_0018_0032",
+    "key": "Pt_0018_0032",
     "original": "[0101,0000]が もどってきちゃった！",
     "translation": "[0101,0000]が もどってきちゃった！",
     "index": 32
   },
   {
-    "key": "PT_0018_0033",
+    "key": "Pt_0018_0033",
     "original": "しんぱい だったのかな⋯⋯",
     "translation": "しんぱい だったのかな⋯⋯",
     "index": 33
   },
   {
-    "key": "PT_0018_0034",
+    "key": "Pt_0018_0034",
     "original": "タマゴは どうぐを もてません！",
     "translation": "タマゴは どうぐを もてません！",
     "index": 34
   },
   {
-    "key": "PT_0018_0035",
+    "key": "Pt_0018_0035",
     "original": "せいかく",
     "translation": "せいかく",
     "index": 35
   },
   {
-    "key": "PT_0018_0036",
+    "key": "Pt_0018_0036",
     "original": "Ｌｖ．",
     "translation": "Ｌｖ．",
     "index": 36
   },
   {
-    "key": "PT_0018_0037",
+    "key": "Pt_0018_0037",
     "original": "Ｈ Ｐ",
     "translation": "Ｈ Ｐ",
     "index": 37
   },
   {
-    "key": "PT_0018_0038",
+    "key": "Pt_0018_0038",
     "original": "こうげき",
     "translation": "こうげき",
     "index": 38
   },
   {
-    "key": "PT_0018_0039",
+    "key": "Pt_0018_0039",
     "original": "ぼうぎょ",
     "translation": "ぼうぎょ",
     "index": 39
   },
   {
-    "key": "PT_0018_0040",
+    "key": "Pt_0018_0040",
     "original": "とくこう",
     "translation": "とくこう",
     "index": 40
   },
   {
-    "key": "PT_0018_0041",
+    "key": "Pt_0018_0041",
     "original": "とくぼう",
     "translation": "とくぼう",
     "index": 41
   },
   {
-    "key": "PT_0018_0042",
+    "key": "Pt_0018_0042",
     "original": "すばやさ",
     "translation": "すばやさ",
     "index": 42
   },
   {
-    "key": "PT_0018_0043",
+    "key": "Pt_0018_0043",
     "original": "わざ",
     "translation": "わざ",
     "index": 43
   },
   {
-    "key": "PT_0018_0044",
+    "key": "Pt_0018_0044",
     "original": "？？？",
     "translation": "？？？",
     "index": 44
   },
   {
-    "key": "PT_0018_0045",
+    "key": "Pt_0018_0045",
     "original": "[0108,0000]を もてない！",
     "translation": "[0108,0000]を もてない！",
     "index": 45
