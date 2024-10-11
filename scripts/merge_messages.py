@@ -4,7 +4,7 @@ from helper import DIR_TEMP, DIR_TEXTS, GAMES, GameInfo, load_game_data
 
 
 def merge_messages(games: list[GameInfo], texts_root: str, output_root: str):
-  version = os.environ.get("XZ_PATCH_VERSION", "UNKNOWN")[-7:]
+  version = os.environ.get("XZ_PATCH_VERSION", "UNKNOWN")[:7]
 
   for game_info in games:
     game = game_info["game"]
