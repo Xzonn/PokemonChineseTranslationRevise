@@ -45,5 +45,6 @@ for (int from = 155; from <= 177; from++)
 
 CopyFolder("textures/DP/graphic/pst_gra.narc/", "textures/HGSS/a/0/3/9/");
 CopyFolder("textures/DP/graphic/zukan.narc/", "textures/HGSS/a/0/6/7/");
+CopyFile("textures/DP/graphic/mystery.narc/0026.bin", "textures/HGSS/graphic/a/1/1/3/0030.bin");
 
 // CopyFile("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/0013.bin", "textures/HGSS/a/0/7/4/0013.bin");
