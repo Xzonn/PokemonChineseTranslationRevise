@@ -95,10 +95,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   // Edit overarm9.bin
-  var overarm9Stream = File.OpenRead($"original_files/Pt/{gameCode}/overarm9.bin");
+  using var overarm9Stream = File.OpenRead($"original_files/Pt/{gameCode}/overarm9.bin");
   var overarm9 = new OverlayTable(overarm9Stream, 0, (uint)overarm9Stream.Length, true);
   overarm9.overlayTable[97].ramSize = (uint)File.ReadAllBytes($"out/{gameCode}/overlay/overlay_0097.bin").Length;
-  overarm9.WriteTo($"out/{gameCode}/overarm9.bin");
+  using var outputStream = new MemoryStream();
+  overarm9.WriteTo(outputStream);
+  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", outputStream.ToArray()[..(0x20 * overarm9.overlayTable.Count)]);
   Console.WriteLine($"Edited: overarm9.bin");
 
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
