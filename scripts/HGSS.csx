@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: NitroHelper, 0.12.0"
+#r "nuget: NitroHelper, 0.12.2"
 #r "nuget: Xzonn.BlzHelper, 0.9.0"
 #load "lib.csx"
 
@@ -64,7 +64,6 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
     int address = Convert.ToInt32(Path.GetFileName(folder), 16);
     Compile(ref arm9, ref symbols, address, "HGSS", gameCode);
   }
-  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
 

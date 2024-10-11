@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: NitroHelper, 0.12.0"
+#r "nuget: NitroHelper, 0.12.2"
 #load "lib.csx"
 
 using NitroHelper;
@@ -60,7 +60,6 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
     var address = Convert.ToInt32(Path.GetFileName(folder), 16);
     Compile(ref arm9, ref symbols, address, "DP", gameCode);
   }
-  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   // Sort easy chat words
   var aikotobaList = SortEasyChatWords(ref arm9, (uint)(gameCode == "D" ? 0x1001b4 : 0x1001b8), easyChatWords.ToArray());

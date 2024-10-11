@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: NitroHelper, 0.12.0"
+#r "nuget: NitroHelper, 0.12.2"
 
 using System.Diagnostics;
 using System.Globalization;
