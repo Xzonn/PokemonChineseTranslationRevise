@@ -3,861 +3,738 @@
     "key": "Pt_0352_0000",
     "original": "つごうが わるいみたい⋯",
     "translation": "信号好像不太好…",
-    "index": 0,
-    "context": ""
+    "index": 0
   },
   {
     "key": "Pt_0352_0001",
     "original": "[0103,0001]からの\nへんじを まっています",
     "translation": "正在等待[0103,0001]回复……",
-    "index": 1,
-    "context": ""
+    "index": 1
   },
   {
     "key": "Pt_0352_0002",
     "original": "[0103,0001]に メンバー とうろくを\nおねがいしています！ おまちください",
     "translation": "正在请[0103,0001]\n加您为成员，请稍等！",
-    "index": 2,
-    "context": ""
+    "index": 2
   },
   {
     "key": "Pt_0352_0003",
     "original": "メンバーから ぬけますか？",
     "translation": "要离开队伍吗？",
-    "index": 3,
-    "context": ""
+    "index": 3
   },
   {
     "key": "Pt_0352_0004",
     "original": "[0103,0001]から ＯＫとの\nへんじが きました",
     "translation": "[0103,0001]回复\nＯＫ。",
-    "index": 4,
-    "context": ""
+    "index": 4
   },
   {
     "key": "Pt_0352_0005",
     "original": "[0103,0001]から ＮＧとの\nへんじが きてしまいました⋯\\f\n",
     "translation": "收到了来自\n[0103,0001]的ＮＧ回复……\\f\n",
-    "index": 5,
-    "context": ""
+    "index": 5
   },
   {
     "key": "Pt_0352_0006",
     "original": "メンバーから ぬけました",
     "translation": "离开队伍",
-    "index": 6,
-    "context": ""
+    "index": 6
   },
   {
     "key": "Pt_0352_0007",
     "original": "ポケモンの こうかん！ ともだちからの\nれんらくを まっています",
     "translation": "宝可梦的交换！等待好友的\n联络。",
-    "index": 7,
-    "context": ""
+    "index": 7
   },
   {
     "key": "Pt_0352_0008",
     "original": "シングルバトル！ ともだちからの\nれんらくを まっています",
     "translation": "单打对战！\n正在等待朋友联络……",
-    "index": 8,
-    "context": ""
+    "index": 8
   },
   {
     "key": "Pt_0352_0009",
     "original": "ダブルバトル！ ともだちからの\nれんらくを まっています",
     "translation": "双打对战！\n正在等待朋友联络……",
-    "index": 9,
-    "context": ""
+    "index": 9
   },
   {
     "key": "Pt_0352_0010",
     "original": "マルチバトル！ ともだちからの\nれんらくを まっています",
     "translation": "多人对战！\n正在等待朋友联络……",
-    "index": 10,
-    "context": ""
+    "index": 10
   },
   {
     "key": "Pt_0352_0011",
     "original": "ミックスバトル！ ともだちからの\nれんらくを まっています",
     "translation": "混合对战！\n正在等待朋友联络……",
-    "index": 11,
-    "context": ""
+    "index": 11
   },
   {
     "key": "Pt_0352_0012",
     "original": "メンバーが そろったら\nＡボタン⋯すすむ Ｂボタン⋯やめる",
     "translation": "成员到齐之后……\nＡ键…继续　Ｂ键…退出",
-    "index": 12,
-    "context": ""
+    "index": 12
   },
   {
     "key": "Pt_0352_0013",
     "original": "レコードコーナー！ ともだちからの\nれんらくを まっています",
     "translation": "记录角！正在等待朋友的联系",
-    "index": 13,
-    "context": ""
+    "index": 13
   },
   {
     "key": "Pt_0352_0014",
     "original": "メンバーが そろったら\nＡボタン⋯すすむ Ｂボタン⋯やめる",
     "translation": "成员到齐之后……\nＡ键…继续　Ｂ键…退出",
-    "index": 14,
-    "context": ""
+    "index": 14
   },
   {
     "key": "Pt_0352_0015",
     "original": "バトルタワー！ ともだちからの\nれんらくを まっています",
     "translation": "对战塔！ 等待好友的\n联络。",
-    "index": 15,
-    "context": ""
+    "index": 15
   },
   {
     "key": "Pt_0352_0016",
     "original": "バトルファクトリー レベル５０！\nともだちの れんらくを まっています",
     "translation": "对战工厂，５０级！\n等到好友的联络。",
-    "index": 16,
-    "context": ""
+    "index": 16
   },
   {
     "key": "Pt_0352_0017",
     "original": "バトルファクトリーオープン！\nともだちの れんらくを まっています",
     "translation": "对战工厂，无限制！\n等到好友的联络。",
-    "index": 17,
-    "context": ""
+    "index": 17
   },
   {
     "key": "Pt_0352_0018",
     "original": "バトルステージ！\nともだちの れんらくを まっています",
     "translation": "对战舞台！\n等到好友的联络。",
-    "index": 18,
-    "context": ""
+    "index": 18
   },
   {
     "key": "Pt_0352_0019",
     "original": "バトルキャッスル！\nともだちの れんらくを まっています",
     "translation": "对战城堡！\n等到好友的联络",
-    "index": 19,
-    "context": ""
+    "index": 19
   },
   {
     "key": "Pt_0352_0020",
     "original": "バトルルーレット！\nともだちの れんらくを まっています",
     "translation": "对战轮盘！\n等到好友的回复",
-    "index": 20,
-    "context": ""
+    "index": 20
   },
   {
     "key": "Pt_0352_0021",
     "original": "[0103,0001]から れんらくあり！\nこうかんを しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要交换吗？",
-    "index": 21,
-    "context": ""
+    "index": 21
   },
   {
     "key": "Pt_0352_0022",
     "original": "[0103,0001]から れんらくあり！\nシングルバトルを しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始单打对战吗？",
-    "index": 22,
-    "context": ""
+    "index": 22
   },
   {
     "key": "Pt_0352_0023",
     "original": "[0103,0001]から れんらくあり！\nダブルバトルを しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始双打对战吗？",
-    "index": 23,
-    "context": ""
+    "index": 23
   },
   {
     "key": "Pt_0352_0024",
     "original": "[0103,0001]から れんらくあり！\nミックスバトルを しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始混合对战吗？",
-    "index": 24,
-    "context": ""
+    "index": 24
   },
   {
     "key": "Pt_0352_0025",
     "original": "[0103,0001]から れんらくあり！\nメンバーに しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要将其加为成员吗？",
-    "index": 25,
-    "context": ""
+    "index": 25
   },
   {
     "key": "Pt_0352_0026",
     "original": "[0103,0001]から れんらくあり！\nバトルタワーに ちょうせんしますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要挑战对战塔吗？",
-    "index": 26,
-    "context": ""
+    "index": 26
   },
   {
     "key": "Pt_0352_0027",
     "original": "[0103,0001]から れんらくあり！\nバトルファクトリーを はじめますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始对战工厂吗？",
-    "index": 27,
-    "context": ""
+    "index": 27
   },
   {
     "key": "Pt_0352_0028",
     "original": "[0103,0001]から れんらくあり！\nバトルステージを はじめますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始对战舞台吗？",
-    "index": 28,
-    "context": ""
+    "index": 28
   },
   {
     "key": "Pt_0352_0029",
     "original": "[0103,0001]から れんらくあり！\nバトルキャッスルを はじめますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始对战城堡吗？",
-    "index": 29,
-    "context": ""
+    "index": 29
   },
   {
     "key": "Pt_0352_0030",
     "original": "[0103,0001]から れんらくあり！\nバトルルーレットを はじめますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要开始对战轮盘吗？",
-    "index": 30,
-    "context": ""
+    "index": 30
   },
   {
     "key": "Pt_0352_0031",
     "original": "[0103,0001]から れんらくあり！\nメンバーに しますか？",
     "translation": "收到了来自[0103,0001]的联络！\n要将其加为成员吗？",
-    "index": 31,
-    "context": ""
+    "index": 31
   },
   {
     "key": "Pt_0352_0032",
     "original": "マルチバトル！\nこのメンバーで よろしいですか？",
     "translation": "多人对战！\n以当前成员参加，可以吗？",
-    "index": 32,
-    "context": ""
+    "index": 32
   },
   {
     "key": "Pt_0352_0033",
     "original": "この メンバーで よろしいですか？",
     "translation": "确定以当前成员开始吗？",
-    "index": 33,
-    "context": ""
+    "index": 33
   },
   {
     "key": "Pt_0352_0034",
     "original": "レコードコーナー！\nこのメンバーで よろしいですか？",
     "translation": "记录角！\n以当前成员参加，可以吗？",
-    "index": 34,
-    "context": ""
+    "index": 34
   },
   {
     "key": "Pt_0352_0035",
     "original": "コンテスト！\nこのメンバーで よろしいですか？",
     "translation": "华丽大赛！\n要以当前成员参加吗？",
-    "index": 35,
-    "context": ""
+    "index": 35
   },
   {
     "key": "Pt_0352_0036",
     "original": "このメンバーで マルチバトルをするのは\nやめますか？",
     "translation": "要放弃以当前成员进行多人对战吗？",
-    "index": 36,
-    "context": ""
+    "index": 36
   },
   {
     "key": "Pt_0352_0037",
     "original": "りょうりを やめますか？",
     "translation": "要取消料理制作吗？",
-    "index": 37,
-    "context": ""
+    "index": 37
   },
   {
     "key": "Pt_0352_0038",
     "original": "このメンバーで レコードコーナーをするのは\nやめますか？",
     "translation": "要放弃以当前成员\n进入记录角吗？",
-    "index": 38,
-    "context": ""
+    "index": 38
   },
   {
     "key": "Pt_0352_0039",
     "original": "このメンバーで コンテストをするのは\nやめますか？",
     "translation": "要放弃以当前成员\n参加华丽大赛吗？",
-    "index": 39,
-    "context": ""
+    "index": 39
   },
   {
     "key": "Pt_0352_0040",
     "original": "ポケモンの こうかんをする\nともだちを えらんでください",
     "translation": "请选择与您一起\n参加宝可梦交换的好友。",
-    "index": 40,
-    "context": ""
+    "index": 40
   },
   {
     "key": "Pt_0352_0041",
     "original": "シングルバトルをする ともだちを\nえらんでください",
     "translation": "请选择与您一起\n参加单打对战的朋友。",
-    "index": 41,
-    "context": ""
+    "index": 41
   },
   {
     "key": "Pt_0352_0042",
     "original": "ダブルバトルをする ともだちを\nえらんでください",
     "translation": "请选择与您一起\n参加双打对战的朋友。",
-    "index": 42,
-    "context": ""
+    "index": 42
   },
   {
     "key": "Pt_0352_0043",
     "original": "マルチバトルをする ともだちを\nえらんでください",
     "translation": "请选择与您一起\n参加多人对战的朋友。",
-    "index": 43,
-    "context": ""
+    "index": 43
   },
   {
     "key": "Pt_0352_0044",
     "original": "ミックスバトルをする ともだちを\nえらんでください",
     "translation": "请选择与您一起\n参加混合对战的朋友。",
-    "index": 44,
-    "context": ""
+    "index": 44
   },
   {
     "key": "Pt_0352_0045",
     "original": "りょうりをする ともだちを\nえらんで ください",
     "translation": "制作料理　\n请选择好友。",
-    "index": 45,
-    "context": ""
+    "index": 45
   },
   {
     "key": "Pt_0352_0046",
     "original": "レコードコーナーをする ともだちを\nえらんでください",
     "translation": "进入记录角　\n请选择好友。",
-    "index": 46,
-    "context": ""
+    "index": 46
   },
   {
     "key": "Pt_0352_0047",
     "original": "コンテストをする ともだちを\nえらんでください",
     "translation": "进入竞赛　\n请选择好友。",
-    "index": 47,
-    "context": ""
+    "index": 47
   },
   {
     "key": "Pt_0352_0048",
     "original": "バトルタワーを いっしょに たたかう\nともだちを えらんでください",
     "translation": "一起去对战塔战斗\n请选择好友。",
-    "index": 48,
-    "context": ""
+    "index": 48
   },
   {
     "key": "Pt_0352_0049",
     "original": "バトルファクトリー レベル５０で\nあそぶ ともだちを えらんでください",
     "translation": "对战工厂５０级\n请选择好友。",
-    "index": 49,
-    "context": ""
+    "index": 49
   },
   {
     "key": "Pt_0352_0050",
     "original": "バトルファクトリーオープンで\nあそぶ ともだちを えらんでください",
     "translation": "对战工厂无限制\n请选择好友。",
-    "index": 50,
-    "context": ""
+    "index": 50
   },
   {
     "key": "Pt_0352_0051",
     "original": "バトルステージで\nあそぶ ともだちを えらんでください",
     "translation": "请选择在对战舞台\n游玩的好友。",
-    "index": 51,
-    "context": ""
+    "index": 51
   },
   {
     "key": "Pt_0352_0052",
     "original": "バトルキャッスルで\nあそぶ ともだちを えらんでください",
     "translation": "请选择在对战城堡\n游玩的好友。",
-    "index": 52,
-    "context": ""
+    "index": 52
   },
   {
     "key": "Pt_0352_0053",
     "original": "バトルルーレットで\nあそぶ ともだちを えらんでください",
     "translation": "请选择在对战轮盘\n好玩的朋友。",
-    "index": 53,
-    "context": ""
+    "index": 53
   },
   {
     "key": "Pt_0352_0054",
     "original": "つごうが わるくなってしまった\nメンバーがいます\\f\nもういちど さいしょから\nてつづきを やりなおして ください",
     "translation": "有成员不便进行记录混合。\\f\n要重头开始，\n请重新办理手续。",
-    "index": 54,
-    "context": ""
+    "index": 54
   },
   {
     "key": "Pt_0352_0055",
     "original": "このメンバーで レコードコーナーを\nするのは やめます",
     "translation": "不用这个成员　\n进入记录角。",
-    "index": 55,
-    "context": ""
+    "index": 55
   },
   {
     "key": "Pt_0352_0056",
     "original": "このメンバーで コンテストを\nするのは やめます",
     "translation": "不用这个成员\n进入竞技场。",
-    "index": 56,
-    "context": ""
+    "index": 56
   },
   {
     "key": "Pt_0352_0057",
     "original": "[0103,0001]に ＯＫの\nへんじを だしました",
     "translation": "[0103,0001]回复\nＯＫ",
-    "index": 57,
-    "context": ""
+    "index": 57
   },
   {
     "key": "Pt_0352_0058",
     "original": "マルチバトル！\nほかの メンバーを まっています",
     "translation": "多人对战！\n等待其它的成员。",
-    "index": 58,
-    "context": ""
+    "index": 58
   },
   {
     "key": "Pt_0352_0059",
     "original": "ほかの メンバーを まっています",
     "translation": "等待其它的成员。",
-    "index": 59,
-    "context": ""
+    "index": 59
   },
   {
     "key": "Pt_0352_0060",
     "original": "レコードコーナー！\nほかの メンバーを まっています",
     "translation": "记录角！\n等待其它的成员。",
-    "index": 60,
-    "context": ""
+    "index": 60
   },
   {
     "key": "Pt_0352_0061",
     "original": "コンテスト！\nほかの メンバーを まっています",
     "translation": "竞赛！\n等待其它的成员。",
-    "index": 61,
-    "context": ""
+    "index": 61
   },
   {
     "key": "Pt_0352_0062",
     "original": "[0103,0000]\nＩＤ[0136,0001]",
     "translation": "[0103,0000]\nＩＤ[0136,0001]",
-    "index": 62,
-    "context": ""
+    "index": 62
   },
   {
     "key": "Pt_0352_0063",
     "original": "[0133,0000]：[0103,0001]",
     "translation": "[0133,0000]：[0103,0001]",
-    "index": 63,
-    "context": ""
+    "index": 63
   },
   {
     "key": "Pt_0352_0064",
     "original": "[0133,0000]：",
     "translation": "[0133,0000]：",
-    "index": 64,
-    "context": ""
+    "index": 64
   },
   {
     "key": "Pt_0352_0065",
     "original": "ＩＤ[0136,0002]",
     "translation": "ＩＤ[0136,0002]",
-    "index": 65,
-    "context": ""
+    "index": 65
   },
   {
     "key": "Pt_0352_0066",
     "original": "[0103,0000]",
     "translation": "[0103,0000]",
-    "index": 66,
-    "context": ""
+    "index": 66
   },
   {
     "key": "Pt_0352_0067",
     "original": "あと[0132,0000]にん\nひつよう",
     "translation": "还要[0132,0000]人。",
-    "index": 67,
-    "context": ""
+    "index": 67
   },
   {
     "key": "Pt_0352_0068",
     "original": "[0132,0000]にんプレイ",
     "translation": "[0132,0000]人游玩",
-    "index": 68,
-    "context": ""
+    "index": 68
   },
   {
     "key": "Pt_0352_0069",
     "original": " ",
     "translation": " ",
-    "index": 69,
-    "context": ""
+    "index": 69
   },
   {
     "key": "Pt_0352_0070",
     "original": "スタンダード",
     "translation": "标准",
-    "index": 70,
-    "context": ""
+    "index": 70
   },
   {
     "key": "Pt_0352_0071",
     "original": "ファンシー",
     "translation": "空想",
-    "index": 71,
-    "context": ""
+    "index": 71
   },
   {
     "key": "Pt_0352_0072",
     "original": "リトル",
     "translation": "小型",
-    "index": 72,
-    "context": ""
+    "index": 72
   },
   {
     "key": "Pt_0352_0073",
     "original": "ライト",
     "translation": "光线",
-    "index": 73,
-    "context": ""
+    "index": 73
   },
   {
     "key": "Pt_0352_0074",
     "original": "ダブル",
     "translation": "双打",
-    "index": 74,
-    "context": ""
+    "index": 74
   },
   {
     "key": "Pt_0352_0075",
     "original": "ポケモンのかず：",
     "translation": "宝可梦的数量：",
-    "index": 75,
-    "context": ""
+    "index": 75
   },
   {
     "key": "Pt_0352_0076",
     "original": "ポケモンのレベル：",
     "translation": "宝可梦的等级：",
-    "index": 76,
-    "context": ""
+    "index": 76
   },
   {
     "key": "Pt_0352_0077",
     "original": "レベルのごうけい：",
     "translation": "合计等级：",
-    "index": 77,
-    "context": ""
+    "index": 77
   },
   {
     "key": "Pt_0352_0078",
     "original": "たかさ：",
     "translation": "身高：",
-    "index": 78,
-    "context": ""
+    "index": 78
   },
   {
     "key": "Pt_0352_0079",
     "original": "おもさ：",
     "translation": "体重：",
-    "index": 79,
-    "context": ""
+    "index": 79
   },
   {
     "key": "Pt_0352_0080",
     "original": "しんかポケモン：",
     "translation": "进化宝可梦：",
-    "index": 80,
-    "context": ""
+    "index": 80
   },
   {
     "key": "Pt_0352_0081",
     "original": "とくべつなポケモン：",
     "translation": "特别的宝可梦：",
-    "index": 81,
-    "context": ""
+    "index": 81
   },
   {
     "key": "Pt_0352_0082",
     "original": "おなじポケモン：",
     "translation": "相同宝可梦：",
-    "index": 82,
-    "context": ""
+    "index": 82
   },
   {
     "key": "Pt_0352_0083",
     "original": "おなじどうぐ：",
     "translation": "相同道具：",
-    "index": 83,
-    "context": ""
+    "index": 83
   },
   {
     "key": "Pt_0352_0084",
     "original": "[0132,0000]ひき",
     "translation": "[0132,0000]只",
-    "index": 84,
-    "context": ""
+    "index": 84
   },
   {
     "key": "Pt_0352_0085",
     "original": "[0134,0000]まで",
     "translation": "最高[0134,0000]",
-    "index": 85,
-    "context": ""
+    "index": 85
   },
   {
     "key": "Pt_0352_0086",
     "original": "[0134,0000]まで",
     "translation": "最高[0134,0000]",
-    "index": 86,
-    "context": ""
+    "index": 86
   },
   {
     "key": "Pt_0352_0087",
     "original": "[0132,0000]．[0132,0001]ｍいか",
     "translation": "[0132,0000]．[0132,0001]ｍ一下",
-    "index": 87,
-    "context": ""
+    "index": 87
   },
   {
     "key": "Pt_0352_0088",
     "original": "[0132,0000]．[0132,0001]ｍいじょう",
     "translation": "[0132,0000]．[0132,0001]ｍ以上",
-    "index": 88,
-    "context": ""
+    "index": 88
   },
   {
     "key": "Pt_0352_0089",
     "original": "[0133,0000]ｋｇいか",
     "translation": "[0133,0000]ｋｇ一下",
-    "index": 89,
-    "context": ""
+    "index": 89
   },
   {
     "key": "Pt_0352_0090",
     "original": "[0133,0000]ｋｇいじょう",
     "translation": "[0133,0000]ｋｇ以上",
-    "index": 90,
-    "context": ""
+    "index": 90
   },
   {
     "key": "Pt_0352_0091",
     "original": "さんかできる",
     "translation": "可以参加",
-    "index": 91,
-    "context": ""
+    "index": 91
   },
   {
     "key": "Pt_0352_0092",
     "original": "さんかできない",
     "translation": "无法参加",
-    "index": 92,
-    "context": ""
+    "index": 92
   },
   {
     "key": "Pt_0352_0093",
     "original": "もたせられる",
     "translation": "允许携带",
-    "index": 93,
-    "context": ""
+    "index": 93
   },
   {
     "key": "Pt_0352_0094",
     "original": "もたせられない",
     "translation": "不允许携带",
-    "index": 94,
-    "context": ""
+    "index": 94
   },
   {
     "key": "Pt_0352_0095",
     "original": "[011A,0000]カップ",
     "translation": "[011A,0000]杯",
-    "index": 95,
-    "context": ""
+    "index": 95
   },
   {
     "key": "Pt_0352_0096",
     "original": "せいげんなし",
     "translation": "无限制",
-    "index": 96,
-    "context": ""
+    "index": 96
   },
   {
     "key": "Pt_0352_0097",
     "original": "おたがいの えらんだ ルールが\nちがって いるようです！",
     "translation": "双方所选的规则不一样！",
-    "index": 97,
-    "context": ""
+    "index": 97
   },
   {
     "key": "Pt_0352_0098",
     "original": "かっこよさコンテスト！\nともだちの れんらくを まっています",
     "translation": "帅气华丽大赛！\n正在等待朋友联络……",
-    "index": 98,
-    "context": ""
+    "index": 98
   },
   {
     "key": "Pt_0352_0099",
     "original": "うつくしさコンテスト！\nともだちの れんらくを まっています",
     "translation": "美丽华丽大赛！\n正在等待朋友联络……",
-    "index": 99,
-    "context": ""
+    "index": 99
   },
   {
     "key": "Pt_0352_0100",
     "original": "かわいさコンテスト！\nともだちの れんらくを まっています",
     "translation": "可爱华丽大赛！\n正在等待朋友联络……",
-    "index": 100,
-    "context": ""
+    "index": 100
   },
   {
     "key": "Pt_0352_0101",
     "original": "かしこさコンテスト！\nともだちの れんらくを まっています",
     "translation": "聪明华丽大赛！\n正在等待朋友联络……",
-    "index": 101,
-    "context": ""
+    "index": 101
   },
   {
     "key": "Pt_0352_0102",
     "original": "たくましさコンテスト！\nともだちの れんらくを まっています",
     "translation": "强壮华丽大赛！\n正在等待朋友联络……",
-    "index": 102,
-    "context": ""
+    "index": 102
   },
   {
     "key": "Pt_0352_0103",
     "original": "かっこよさコンテスト！\nリーダーを えらんで ください",
     "translation": "帅气华丽大赛！\n请选择组长。",
-    "index": 103,
-    "context": ""
+    "index": 103
   },
   {
     "key": "Pt_0352_0104",
     "original": "うつくしさコンテスト！\nリーダーを えらんで ください",
     "translation": "美丽华丽大赛！\n请选择组长。",
-    "index": 104,
-    "context": ""
+    "index": 104
   },
   {
     "key": "Pt_0352_0105",
     "original": "かわいさコンテスト！\nリーダーを えらんで ください",
     "translation": "可爱华丽大赛！\n请选择组长。",
-    "index": 105,
-    "context": ""
+    "index": 105
   },
   {
     "key": "Pt_0352_0106",
     "original": "かしこさコンテスト！\nリーダーを えらんで ください",
     "translation": "聪明华丽大赛！\n请选择组长。",
-    "index": 106,
-    "context": ""
+    "index": 106
   },
   {
     "key": "Pt_0352_0107",
     "original": "たくましさコンテスト！\nリーダーを えらんで ください",
     "translation": "强壮华丽大赛！\n请选择组长。",
-    "index": 107,
-    "context": ""
+    "index": 107
   },
   {
     "key": "Pt_0352_0108",
     "original": "かっこよさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "帅气华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 108,
-    "context": ""
+    "index": 108
   },
   {
     "key": "Pt_0352_0109",
     "original": "うつくしさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "美丽华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 109,
-    "context": ""
+    "index": 109
   },
   {
     "key": "Pt_0352_0110",
     "original": "かわいさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "可爱华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 110,
-    "context": ""
+    "index": 110
   },
   {
     "key": "Pt_0352_0111",
     "original": "かしこさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "聪明华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 111,
-    "context": ""
+    "index": 111
   },
   {
     "key": "Pt_0352_0112",
     "original": "たくましさコンテスト！ れんらくまち\nぜんいんそろったら Ａボタン",
     "translation": "强壮华丽大赛！正在等待联络，\n全员到齐之后请按Ａ键。",
-    "index": 112,
-    "context": ""
+    "index": 112
   },
   {
     "key": "Pt_0352_0113",
     "original": "かっこよさコンテスト！\nほかの メンバーを まっています！",
     "translation": "帅气华丽大赛！\n正在等待其他成员！",
-    "index": 113,
-    "context": ""
+    "index": 113
   },
   {
     "key": "Pt_0352_0114",
     "original": "うつくしさコンテスト！\nほかの メンバーを まっています！",
     "translation": "美丽华丽大赛！\n正在等待其他成员！",
-    "index": 114,
-    "context": ""
+    "index": 114
   },
   {
     "key": "Pt_0352_0115",
     "original": "かわいさコンテスト！\nほかの メンバーを まっています！",
     "translation": "可爱华丽大赛！\n正在等待其他成员！",
-    "index": 115,
-    "context": ""
+    "index": 115
   },
   {
     "key": "Pt_0352_0116",
     "original": "かしこさコンテスト！\nほかの メンバーを まっています！",
     "translation": "聪明华丽大赛！\n正在等待其他成员！",
-    "index": 116,
-    "context": ""
+    "index": 116
   },
   {
     "key": "Pt_0352_0117",
     "original": "たくましさコンテスト！\nほかの メンバーを まっています！",
     "translation": "强壮华丽大赛！\n正在等待其他成员！",
-    "index": 117,
-    "context": ""
+    "index": 117
   },
   {
     "key": "Pt_0352_0118",
     "original": "このメンバーで\\r\nかっこよさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行帅气竞赛。",
-    "index": 118,
-    "context": ""
+    "index": 118
   },
   {
     "key": "Pt_0352_0119",
     "original": "このメンバーで\\r\nうつくしさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行美丽竞赛。",
-    "index": 119,
-    "context": ""
+    "index": 119
   },
   {
     "key": "Pt_0352_0120",
     "original": "このメンバーで\\r\nかわいさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行可爱竞赛。",
-    "index": 120,
-    "context": ""
+    "index": 120
   },
   {
     "key": "Pt_0352_0121",
     "original": "このメンバーで\\r\nかしこさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行聪明竞赛。",
-    "index": 121,
-    "context": ""
+    "index": 121
   },
   {
     "key": "Pt_0352_0122",
     "original": "このメンバーで\\r\nたくましさコンテストを\nするのは やめます",
     "translation": "不与这个成员\n进行强壮竞赛。",
-    "index": 122,
-    "context": ""
+    "index": 122
   }
 ]

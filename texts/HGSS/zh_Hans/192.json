@@ -3,203 +3,174 @@
     "key": "HGSS_0192_0000",
     "original": "[0132,0000]ばんめの ポケモンを\nえらんで ください",
     "translation": "请选择第[0132,0000]只\n宝可梦",
-    "index": 0,
-    "context": ""
+    "index": 0
   },
   {
     "key": "HGSS_0192_0001",
     "original": "いじょうの [0132,0000]ひきで\nよろしいですか？",
     "translation": "以上[0132,0000]只\n可以了吗？",
-    "index": 1,
-    "context": ""
+    "index": 1
   },
   {
     "key": "HGSS_0192_0002",
     "original": "しばらくおまちください",
     "translation": "请稍等。",
-    "index": 2,
-    "context": ""
+    "index": 2
   },
   {
     "key": "HGSS_0192_0003",
     "original": "はい",
     "translation": "是",
-    "index": 3,
-    "context": ""
+    "index": 3
   },
   {
     "key": "HGSS_0192_0004",
     "original": "いいえ",
     "translation": "否",
-    "index": 4,
-    "context": ""
+    "index": 4
   },
   {
     "key": "HGSS_0192_0005",
     "original": "つよさをみる",
     "translation": "查看能力",
-    "index": 5,
-    "context": ""
+    "index": 5
   },
   {
     "key": "HGSS_0192_0006",
     "original": "レンタルする",
     "translation": "出租",
-    "index": 6,
-    "context": ""
+    "index": 6
   },
   {
     "key": "HGSS_0192_0007",
     "original": "とじる",
     "translation": "关闭",
-    "index": 7,
-    "context": ""
+    "index": 7
   },
   {
     "key": "HGSS_0192_0008",
     "original": "はずす",
     "translation": "移除",
-    "index": 8,
-    "context": ""
+    "index": 8
   },
   {
     "key": "HGSS_0192_0009",
     "original": "てばなす ポケモンを\nえらんで ください",
     "translation": "请选择想要送出的\n宝可梦",
-    "index": 9,
-    "context": ""
+    "index": 9
   },
   {
     "key": "HGSS_0192_0010",
     "original": "ポケモンの こうかんを\nちゅうし しますか？",
     "translation": "要中止宝可梦的\n交换吗？",
-    "index": 10,
-    "context": ""
+    "index": 10
   },
   {
     "key": "HGSS_0192_0011",
     "original": "はい",
     "translation": "是",
-    "index": 11,
-    "context": ""
+    "index": 11
   },
   {
     "key": "HGSS_0192_0012",
     "original": "いいえ",
     "translation": "否",
-    "index": 12,
-    "context": ""
+    "index": 12
   },
   {
     "key": "HGSS_0192_0013",
     "original": "うけとる ポケモンを\nえらんで ください",
     "translation": "请选择想接收的宝可梦",
-    "index": 13,
-    "context": ""
+    "index": 13
   },
   {
     "key": "HGSS_0192_0014",
     "original": "この ポケモンを\nうけとりますか？",
     "translation": "接收这只宝可梦吗？",
-    "index": 14,
-    "context": ""
+    "index": 14
   },
   {
     "key": "HGSS_0192_0015",
     "original": "しばらくおまちください",
     "translation": "请稍等。",
-    "index": 15,
-    "context": ""
+    "index": 15
   },
   {
     "key": "HGSS_0192_0016",
     "original": "[0103,0000]さんが\n[0100,0001]と[0208]\n[0100,0002]を[0208]\nこうかん しました[0207]",
     "translation": "[0103,0000]用\n[0100,0001]和[0208]\n[0100,0002][0208]\n交换了。[0207]",
-    "index": 16,
-    "context": ""
+    "index": 16
   },
   {
     "key": "HGSS_0192_0017",
     "original": "はい",
     "translation": "是",
-    "index": 17,
-    "context": ""
+    "index": 17
   },
   {
     "key": "HGSS_0192_0018",
     "original": "いいえ",
     "translation": "否",
-    "index": 18,
-    "context": ""
+    "index": 18
   },
   {
     "key": "HGSS_0192_0019",
     "original": "ちゅうし",
     "translation": "中止",
-    "index": 19,
-    "context": ""
+    "index": 19
   },
   {
     "key": "HGSS_0192_0020",
     "original": "つよさをみる",
     "translation": "查看能力",
-    "index": 20,
-    "context": ""
+    "index": 20
   },
   {
     "key": "HGSS_0192_0021",
     "original": "てばなす",
     "translation": "放开",
-    "index": 21,
-    "context": ""
+    "index": 21
   },
   {
     "key": "HGSS_0192_0022",
     "original": "とじる",
     "translation": "关闭",
-    "index": 22,
-    "context": ""
+    "index": 22
   },
   {
     "key": "HGSS_0192_0023",
     "original": "もどる",
     "translation": "返回",
-    "index": 23,
-    "context": ""
+    "index": 23
   },
   {
     "key": "HGSS_0192_0024",
     "original": "ちゅうし",
     "translation": "中止",
-    "index": 24,
-    "context": ""
+    "index": 24
   },
   {
     "key": "HGSS_0192_0025",
     "original": "うけとる",
     "translation": "接收",
-    "index": 25,
-    "context": ""
+    "index": 25
   },
   {
     "key": "HGSS_0192_0026",
     "original": "㊚",
     "translation": "♂",
-    "index": 26,
-    "context": ""
+    "index": 26
   },
   {
     "key": "HGSS_0192_0027",
     "original": "㊛",
     "translation": "♀",
-    "index": 27,
-    "context": ""
+    "index": 27
   },
   {
     "key": "HGSS_0192_0028",
     "original": "[0100,0000]",
     "translation": "[0100,0000]",
-    "index": 28,
-    "context": ""
+    "index": 28
   }
 ]
