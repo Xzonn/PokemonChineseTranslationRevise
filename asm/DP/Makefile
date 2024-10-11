@@ -56,7 +56,7 @@ GRAPHICS	:=	gfx
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
-ARCH	:= -mabi=aapcs -march=armv5te -mtune=arm946e-s
+ARCH	:= -mabi=aapcs -march=armv5te -mtune=arm946e-s -mthumb
 
 CFLAGS	:=	-g -Wall -Os\
  		-fomit-frame-pointer\
@@ -67,7 +67,16 @@ CFLAGS	+=	$(INCLUDE) -DARM9 -nodefaultlibs -I. -fno-builtin -c
 CXXFLAGS	:= $(CFLAGS) -fno-rtti -fno-exceptions
 
 ASFLAGS	:=	-g $(ARCH)
-SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(shell dirname $(SOURCES)))/symbols.x
+ifeq ($(strip $(GAME)),D)
+	CFLAGS += -DDIAMOND
+	ASFLAGS += -DDIAMOND
+	SYMBOLST_NAME = symbols_D.x
+else
+	CFLAGS += -DPEARL
+	ASFLAGS += -DPEARL
+	SYMBOLST_NAME = symbols_P.x
+endif
+SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(shell dirname $(SOURCES)))/$(SYMBOLST_NAME)
 NEWSYMT :=
 LDFLAGS	=	--use-blx $(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g -Map newcode.map
 

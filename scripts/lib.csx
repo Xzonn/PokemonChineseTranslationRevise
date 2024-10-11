@@ -191,7 +191,15 @@ bool Compile(ref byte[] arm9, ref Dictionary<string, string> symbols, int addres
   if (p.ExitCode == 0)
   {
     var newBytes = File.ReadAllBytes($"asm/{parentGame}/repl_{address:X7}.bin");
-    Array.Copy(newBytes, 0, arm9, address - ramAddress, newBytes.Length);
+    var offset = address - ramAddress;
+    if (offset + newBytes.Length > arm9.Length)
+    {
+      var buffer = new byte[offset + newBytes.Length];
+      Array.Copy(arm9, buffer, arm9.Length);
+      arm9 = buffer;
+    }
+    Array.Copy(newBytes, 0, arm9, offset, newBytes.Length);
+
     var symText = File.ReadAllText($"asm/{parentGame}/repl_{address:X7}.sym");
     foreach (Match match in symPattern.Matches(symText))
     {

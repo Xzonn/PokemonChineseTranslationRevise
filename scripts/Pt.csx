@@ -33,6 +33,22 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
   Directory.CreateDirectory($"out/{gameCode}/data/");
   Directory.CreateDirectory($"out/{gameCode}/overlay/");
+  if (Directory.Exists("asm/Pt/build"))
+  {
+    while (true)
+    {
+      try
+      {
+        Directory.Delete("asm/Pt/build", true);
+        break;
+      }
+      catch { }
+    }
+  }
+  foreach (var path in Directory.EnumerateFiles("asm/Pt", "repl_*"))
+  {
+    File.Delete(path);
+  }
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/arm9.bin");
@@ -79,42 +95,11 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
-  // Edit overlay_0097.bin
-  var overlay_0097 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overlay/overlay_0097.bin");
-
-  // chinese from gen3 to gen4
-  // Ref: https://github.com/Wokann/Pokemon_PalParkMigratation_For_GEN34Chinese/blob/main/src/Pt/patch.asm
-
-  // expand overlay_0097.bin for conversion table chinese
-  var conversion_table_chinese = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4.bin");
-  var overlay_0097_expand = new byte[overlay_0097.Length + 0x1980 + conversion_table_chinese.Length];
-  Array.Copy(overlay_0097, 0, overlay_0097_expand, 0, overlay_0097.Length);
-  Array.Copy(conversion_table_chinese, 0, overlay_0097_expand, overlay_0097.Length + 0x1980, conversion_table_chinese.Length);
-  // Remove language restrictions
-  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
-  EditBinary(ref overlay_0097_expand, 0x0118, "FF D1");
-  // Remove 24 hour restrictions
-  EditBinary(ref overlay_0097_expand, 0xA6CC, "1E E0");
-  // conversion table quote trans redirect
-  var conversion_table_quote = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/CharTable_3to4_quote.bin");
-  Array.Copy(conversion_table_quote, 0, overlay_0097_expand, 0xE588, conversion_table_quote.Length);
-  // conversion table change for space(0x00) trans
-  EditBinary(ref overlay_0097_expand, 0xF44E, "DE 01");
-  // chinese trans core code
-  var rs_migrate_string = File.ReadAllBytes("files/gen3_to_gen4_chinese_char/rs_migrate_string.bin");
-  EditBinary(ref rs_migrate_string, 0xA4, "AC 96 23 02 E8 87 23 02 40 C6 23 02");
-  Array.Copy(rs_migrate_string, 0, overlay_0097_expand, 0xE5FC, rs_migrate_string.Length);
-
-  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0097.bin", overlay_0097_expand);
-  Console.WriteLine($"Edited: overlay_0097.bin");
-
   // Edit overarm9.bin
-  var overarm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/overarm9.bin");
-
-  // update ram size for overlay_0097 expand
-  Array.Copy(BitConverter.GetBytes((uint)overlay_0097_expand.Length), 0, overarm9, 97*0x20+8, 4);
-
-  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9);
+  var overarm9Stream = File.OpenRead($"original_files/Pt/{gameCode}/overarm9.bin");
+  var overarm9 = new OverlayTable(overarm9Stream, 0, (uint)overarm9Stream.Length, true);
+  overarm9.overlayTable[97].ramSize = (uint)File.ReadAllBytes($"out/{gameCode}/overlay/overlay_0097.bin").Length;
+  overarm9.WriteTo($"out/{gameCode}/overarm9.bin");
   Console.WriteLine($"Edited: overarm9.bin");
 
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
