@@ -1,7 +1,14 @@
 #!/usr/bin/env dotnet-script
 #load "lib.csx"
 
+// DP
+CopyFile("files/utility.bin", "out/D/data/data/utility.bin");
+CopyFile("files/utility.bin", "out/D/data/dwc/utility.bin");
+
 // Pt
+CopyFile("files/utility.bin", "out/Pt/data/data/utility.bin");
+CopyFile("files/utility.bin", "out/Pt/data/dwc/utility.bin");
+
 CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zukan_data.narc/");
 CopyFolder("textures/DP/application/zukanlist/zkn_data/zukan_data.narc/", "textures/Pt/application/zukanlist/zkn_data/zukan_data_gira.narc/");
 
@@ -36,6 +43,9 @@ MoveFile("textures/Pt/graphic/box.narc/0108.bin", "textures/Pt/graphic/box.narc/
 MoveFile("textures/Pt/graphic/trainer_case.narc/0023.bin", "textures/Pt/graphic/trainer_case.narc/0027.bin");
 
 // HGSS
+CopyFile("files/utility.bin", "out/HG/data/data/utility.bin");
+CopyFile("files/utility.bin", "out/HG/data/dwc/utility.bin");
+
 CopyFolder("textures/DP/battle/graphic/batt_obj.narc/", "textures/HGSS/a/0/0/8/");
 File.Delete("textures/HGSS/a/0/0/8/0077.bin");
 for (int from = 155; from <= 177; from++)
