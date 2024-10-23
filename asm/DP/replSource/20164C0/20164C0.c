@@ -32,7 +32,7 @@ bool ConvertRSStringToDPStringInternational(const u8 *rs_str, u16 *dp_str, u32 l
       s32 r1;
       for (r1 = 0; r1 < r3; r1++)
       {
-        dp_str[r1] = 0x1AC; // DP: ?
+        dp_str[r1] = 0xE2; // DP: ?
       }
       dp_str[r1] = EOS;
       return FALSE;
