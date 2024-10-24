@@ -118,6 +118,10 @@ jobs:
         continue-on-error: true
         run: |
           scripts/HGSS.ps1
+      - name: Japanese names
+        continue-on-error: true
+        run: |
+          scripts/japanese_names.ps1
       - name: Upload artifacts
         if: ${{ !inputs.publish }}
         uses: actions/upload-artifact@v4
