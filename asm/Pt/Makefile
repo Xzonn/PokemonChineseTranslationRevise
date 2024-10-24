@@ -56,7 +56,7 @@ GRAPHICS	:=	gfx
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
-ARCH	:= -mabi=aapcs -march=armv5te -mtune=arm946e-s
+ARCH	:= -mabi=aapcs -march=armv5te -mtune=arm946e-s -mthumb
 
 CFLAGS	:=	-g -Wall -Os\
  		-fomit-frame-pointer\

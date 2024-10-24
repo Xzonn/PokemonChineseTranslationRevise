@@ -1,5 +1,5 @@
 #!/usr/bin/env dotnet-script
-#r "nuget: NitroHelper, 0.12.0"
+#r "nuget: NitroHelper, 0.12.2"
 #load "lib.csx"
 
 using NitroHelper;
@@ -33,6 +33,22 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
   Directory.CreateDirectory($"out/{gameCode}/data/");
   Directory.CreateDirectory($"out/{gameCode}/overlay/");
+  if (Directory.Exists("asm/Pt/build"))
+  {
+    while (true)
+    {
+      try
+      {
+        Directory.Delete("asm/Pt/build", true);
+        break;
+      }
+      catch { }
+    }
+  }
+  foreach (var path in Directory.EnumerateFiles("asm/Pt", "repl_*"))
+  {
+    File.Delete(path);
+  }
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/arm9.bin");
@@ -77,6 +93,15 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   }
 
   File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
+
+  // Edit overarm9.bin
+  using var overarm9Stream = File.OpenRead($"original_files/Pt/{gameCode}/overarm9.bin");
+  var overarm9 = new OverlayTable(overarm9Stream, 0, (uint)overarm9Stream.Length, true);
+  overarm9.overlayTable[97].ramSize = (uint)File.ReadAllBytes($"out/{gameCode}/overlay/overlay_0097.bin").Length;
+  using var outputStream = new MemoryStream();
+  overarm9.WriteTo(outputStream);
+  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", outputStream.ToArray()[..(0x20 * overarm9.overlayTable.Count)]);
+  Console.WriteLine($"Edited: overarm9.bin");
 
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
