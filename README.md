@@ -11,6 +11,8 @@
 ## 致谢
 - 标题图标由 [大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8) 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 - 《心金／魂银》宝可计步器补丁由 OS 翻译、圈叉汉化组 制作，原始发布地址：<https://bbs.oldmantvg.net/thread-18167.htm>。
+- 第三、四世代汉化版中文字符转换程序由 圈叉汉化组 制作，原始发布地址：<https://bbs.oldmantvg.net/thread-44009.htm>。
+- Wi-Fi Connection设置界面的汉化程序由 天涯、F君 汉化制作，原始发布地址：<https://github.com/R-YaTian/DS-Internet-CHS>。
 - 二进制代码由 [devkitPro](https://devkitpro.org/wiki/Getting_Started) 编译，部分构建代码参考了 Jonko 编写的 [NitroPacker](https://github.com/haroohie-club/NitroPacker)。
 
 ## 相关内容
