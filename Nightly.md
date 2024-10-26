@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2024-07-28 00:44
+last_modified_at: 2024-10-26 23:07
 title: 开发版本补丁概述
 ---
 <div class="alert alert-info" role="alert" style="margin-top: 15px;">
@@ -17,8 +17,4 @@ title: 开发版本补丁概述
 - GitHub：[开发版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/dev-pub)。
 
 ## 更新内容
-开发补丁相较于2.0.0版本有如下更新（将会作为下一次版本更新的内容）：
-
-- 修复部分招式文本控制符错误的问题。
-- 修复《白金》神奥图鉴在部分情况下仅显示编号小于等于151的宝可梦的问题。（感谢 **[Rainzard](https://github.com/Rainzard)** 反馈）
-- 修复训练家卡无法显示星星的问题。
+开发补丁相较于2.1.0版本有如下更新（将会作为下一次版本更新的内容）：

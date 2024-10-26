@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-12-03 23:54
+last_modified_at: 2024-10-26 23:12
 title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 ---
 {% include video.html aid="96227144" page="2" %}
@@ -7,8 +7,8 @@ title: 可用于《宝可梦》第四世代汉化修正版的PKHeX版本
 {% include figure.html src="1de322c74a0a2851df906427246def66.png" width="858" height="415" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" %}
 
 ## 发布链接
-- GitHub：[231011](https://github.com/Xzonn/PKHeX/releases/latest)。
-- 百度网盘：[231011](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
+- GitHub：[240727](https://github.com/Xzonn/PKHeX/releases/latest)。
+- 百度网盘：[240727](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
 
 ## 说明
 PKHeX项目网站：<https://projectpokemon.org/home/files/file/1-pkhex/>。
@@ -21,7 +21,7 @@ PKHeX项目GitHub地址：<https://github.com/kwsch/PKHeX>。
 
 另外，由于我修改了日文宝可梦名字，因此汉化修正版中的中文名宝可梦不会被本版本视为非法宝可梦，但实际上该宝可梦仍为非法宝可梦。请不要将中文名宝可梦用于联网操作或是跨世代传输。
 
-（2020/02/29更新：将日文宝可梦名字修改范围扩大为全部宝可梦，可以供第五、六世代官方译名版游戏使用。）
+（2020-02-29更新：将日文宝可梦名字修改范围扩大为全部宝可梦，可以供第五、六世代官方译名版游戏使用。）
 
 ## 批量修改宝可梦昵称
 {% include figure.html src="62ab991310328dbb044a66eb3693610c.png" width="396" height="273" alt="利用PKHeX批量修改宝可梦昵称" %}

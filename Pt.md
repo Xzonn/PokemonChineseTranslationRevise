@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2024-05-03 12:11
+last_modified_at: 2024-10-26 23:09
 title: 《宝可梦 白金》汉化修正补丁
 ---
 <div class="alert alert-info" role="alert">
@@ -20,8 +20,8 @@ title: 《宝可梦 白金》汉化修正补丁
 ## 发布链接
 考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
 
-- GitHub：[2.0.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.0.0)。
-- 百度网盘：[2.0.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
+- GitHub：[2.1.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.1.0)。
+- 百度网盘：[2.1.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
 
 日文版 ROM 的 MD5 校验码：
 
@@ -46,6 +46,13 @@ title: 《宝可梦 白金》汉化修正补丁
 </div>
 
 ## 更新日志
+- 2.1.0（2024-10-27）：
+  - 整合了第三、四世代汉化版中文字符转换程序（感谢 **圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
+  - 整合了Wi-Fi Connection设置界面的汉化程序（感谢 **天涯**、**F君** 汉化制作并允许本项目整合加入，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
+  - 修复部分招式文本控制符错误的问题。
+  - 修复《白金》神奥图鉴在部分情况下仅显示编号小于等于151的宝可梦的问题。（感谢 **[Rainzard](https://github.com/Rainzard)** 反馈）
+  - 修复训练家卡无法显示星星的问题。
+  - 额外提供了保留日文宝可梦名字的补丁（对于大多数人来说并不需要此补丁）。如需使用，需要先对ROM使用通常版本的补丁，再使用此补丁。
 - 2.0.0（2024-02-04）：
   - **应用补丁所需要的原始 ROM 由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要 Rev 6 版本，以其他版本作为原始 ROM 会导致生成的 ROM 无法运行。补丁应用工具会自动计算原始 ROM 的 MD5 校验码，如果没有提示“原始 ROM 的 MD5 校验失败”，则说明原始 ROM 的版本正确。
   - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
