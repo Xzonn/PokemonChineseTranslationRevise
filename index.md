@@ -1,8 +1,10 @@
 ---
-last_modified_at: 2024-10-26 23:13
+last_modified_at: 2024-10-29 16:31
 title: 《宝可梦》第四世代汉化修正
 ---
-{% include video.html bvid="BV17y421a7nq" %}
+<div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
+**[太长不看，跳转到链接](#补丁发布)**
+</div>
 
 ## 说明
 2016年对于《宝可梦》系列的中文玩家来说是非常重要的一年，在这一年的2月26日，官方首次公布了《宝可梦》系列对应简体中文和繁体中文的消息。随着首个官方中文游戏《精灵宝可梦 太阳／月亮》的发布，“口袋妖怪”世代成为了过去，<strong lang="ja">ポケットモンスター</strong>的正式名称被确定为“**精灵宝可梦**”。此后“精灵宝可梦”又被缩略为“宝可梦”。
@@ -20,14 +22,21 @@ title: 《宝可梦》第四世代汉化修正
 2.1.0版本补丁整合了第三、四世代汉化版中文字符转换程序，由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmantvg.net/thread-44009.htm>；同时整合了Wi-Fi Connection设置界面的汉化程序，由 **天涯**、**F君** 汉化制作并允许本人整合加入，原始发布地址：<https://github.com/R-YaTian/DS-Internet-CHS>。
 
 ## 工具发布
-发布链接：[GitHub：4.0.0版本](https://github.com/Xzonn/PCTRTools/releases/tag/v4.0.0) &#124; 源代码：[GitHub](https://github.com/Xzonn/PCTRTools/)
+[GitHub](https://github.com/Xzonn/PCTRTools/releases/tag/v4.0.0)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)
 
-本人所使用的工具由C#编写，包含文本处理功能、字库处理功能、narc文件替换功能，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
+工具由C#编写，包含文本处理功能、字库处理功能、narc文件替换功能，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
 
 详细说明请见：**[汉化工具说明]({{ "/Tools.html" | relative_url }})**。
 
 ## 补丁发布
-考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+
+<div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+</div>
+
+{% include video.html bvid="BV1oH1xYXEdb" %}
+
+修正补丁使用方式已在压缩包中，也可参照上方的视频。各版本详细说明：
 
 <table class="figure-table"><tbody><tr>
 <td>{% include figure.html link="/DP.html" src="9938f0f795848274294631bb0d8fa323.jpg" alt="《宝可梦 钻石／珍珠》" width="588" height="331" %}</td>
@@ -37,12 +46,7 @@ title: 《宝可梦》第四世代汉化修正
 <td>{% include figure.html link="/PKHeX.html" src="a7b4b821e754b775055372bb0380bc0d.png" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" width="588" height="331" %}</td>
 </tr></tbody></table>
 
-总链接：
-
-- GitHub：[2.1.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.1.0)。
-- 百度网盘：[2.1.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
-
-2.0.0版本及以后版本的补丁仅适用于日文版ROM，1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。并且本人无意制作基于其他版本游戏的补丁，如有需求请自行导入。
+2.0.0版本及以后版本的补丁仅适用于日文版ROM，1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。
 
 日文版 ROM 的 MD5 校验码：
 
@@ -52,7 +56,7 @@ title: 《宝可梦》第四世代汉化修正
 - [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
 - [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
 
-对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }})**。
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }}#各汉化版本的码表兼容性)**。
 
 ## 预览
 <table class="table">

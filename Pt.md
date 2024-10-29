@@ -1,34 +1,25 @@
 ---
 is_patch: true
-last_modified_at: 2024-10-26 23:09
+last_modified_at: 2024-10-29 16:23
 title: 《宝可梦 白金》汉化修正补丁
 ---
-<div class="alert alert-info" role="alert">
-<p>如果您发现了本补丁的错误，或是对本补丁有任何意见建议，请在 <strong><a href="#pg-content-comment" class="alert-link">留言区</a></strong> 留言。</p>
-</div>
-
-<div class="alert alert-success" role="alert">
-<p>本补丁欢迎转载，转载时请留下本页面链接以方便反馈。</p>
-</div>
-
-<div class="alert alert-danger" role="alert">
-<p><strong>本补丁严禁商用，如因商业使用造成法律纠纷概与本人无关。</strong></p>
-</div>
-
-{% include figure.html src="https://images-na.ssl-images-amazon.com/images/I/61KlGWIg4YL.jpg" width="200" height="181.6" alt="游戏封面" class="pull-right" %}
+{% include figure.html src="efdd474ffac175997868fa704bdc063e.jpg" width="588" height="331" %}
 
 ## 发布链接
-考虑到便利性，本人仅发布修正补丁，使用方式已在压缩包中，可自行查看。发布链接：
+<div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+</div>
 
-- GitHub：[2.1.0](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/v2.1.0)。
-- 百度网盘：[2.1.0](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)。
+修正补丁使用方式已在压缩包中，也可参照[此视频](https://www.bilibili.com/video/BV1oH1xYXEdb/)。
 
 日文版 ROM 的 MD5 校验码：
 
 - [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
 
 ## 修改内容
-- 标题图标改为“精灵宝可梦 白金”。（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+- 标题图标改为“精灵宝可梦 白金”（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）。
+- 整合了第三、四世代汉化版中文字符转换程序（由 **圈叉汉化组** 制作，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
+- 整合了Wi-Fi Connection设置界面的汉化程序（由 **天涯**、**F君** 制作，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
 - 导入了一部分《宝可梦 晶灿钻石／明亮珍珠》的官方文本。
 - 对宝可梦、招式、道具、特性的名字、介绍等修改为官方文本。其中部分特性介绍的官方文本较长，本人对其进行了缩减。
 - 对一部分人物、地点的名字修改为官方译名。
@@ -39,10 +30,10 @@ title: 《宝可梦 白金》汉化修正补丁
 
 如需修改宝可梦、主角、劲敌的名字，请使用[本人修改的PKHeX]({{ "/PKHeX.html" | relative_url }})。
 
-对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }})**。
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }}#各汉化版本的码表兼容性)**。
 
 <div class="alert alert-warning" role="alert">
-<p><strong>注意</strong>：本修正补丁并不与第三、第五世代字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
+<p><strong>注意</strong>：本修正补丁并不与第五世代汉化版字库通用，因此如需跨世代传输，请先将宝可梦的昵称改为日文昵称。</p>
 </div>
 
 ## 更新日志
@@ -50,7 +41,7 @@ title: 《宝可梦 白金》汉化修正补丁
   - 整合了第三、四世代汉化版中文字符转换程序（感谢 **圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
   - 整合了Wi-Fi Connection设置界面的汉化程序（感谢 **天涯**、**F君** 汉化制作并允许本项目整合加入，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
   - 修复部分招式文本控制符错误的问题。
-  - 修复《白金》神奥图鉴在部分情况下仅显示编号小于等于151的宝可梦的问题。（感谢 **[Rainzard](https://github.com/Rainzard)** 反馈）
+  - 修复《白金》神奥图鉴在部分情况下仅显示编号小于等于151的宝可梦的问题（感谢 **[Rainzard](https://github.com/Rainzard)** 反馈）。
   - 修复训练家卡无法显示星星的问题。
   - 额外提供了保留日文宝可梦名字的补丁（对于大多数人来说并不需要此补丁）。如需使用，需要先对ROM使用通常版本的补丁，再使用此补丁。
 - 2.0.0（2024-02-04）：
@@ -58,10 +49,10 @@ title: 《宝可梦 白金》汉化修正补丁
   - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
   - 版本号修改为删除存档界面显示，可在标题界面按`↑ + SELECT + B`查看。
   - 修复招式文本与实际效果不一致的问题。此问题自从导入官方招式文本后就一直存在，此前未能引起注意。
-  - 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。（感谢 **[兔隐](https://tieba.baidu.com/home/main?id=tb.1.b078b4c8.5EUyhmk8zkrkK__di08swQ)** 等人反馈，[链接](https://tieba.baidu.com/p/7213514184)）
+  - 修复《钻石／珍珠／白金》无法开启神秘礼物的问题。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”（感谢 **[兔隐](https://tieba.baidu.com/home/main?id=tb.1.b078b4c8.5EUyhmk8zkrkK__di08swQ)** 等人反馈，[链接](https://tieba.baidu.com/p/7213514184)）。
   - 修复几处小图标未更新至官译的问题。
   - 修改《钻石／珍珠／白金》简单会话的词语排序。
-  - 修复了多处翻译不准确、不恰当的地方。（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）
+  - 修复了多处翻译不准确、不恰当的地方（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）。
 - 1.5.0（2022-06-03）：
   - 导入部分《晶灿钻石／明亮珍珠》的译名。
   - 版本号修改到初始菜单的神秘礼物中。
@@ -74,12 +65,12 @@ title: 《宝可梦 白金》汉化修正补丁
   - 部分译名和控制符修正。
   - 本次更新未对《钻石／珍珠》进行修改。
 - 1.3.0（2020-04-22）：
-  - 将道具说明修正为与第四世代相符。（感谢 **[刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）
+  - 将道具说明修正为与第四世代相符（感谢 **[刀刀是个ky](https://space.bilibili.com/313754647)** 反馈）。
   - 将部分名词修正为官方译名（如捕虫大赛、超级华丽大赛等）。
   - 将部分地理名词修正为常用译名。
   - 其他部分修正（感谢 **[TONE-TONG](https://space.bilibili.com/32451014)**、**k90单反**、**MrVilla**、**yggdra**等反馈）
 - 1.2.0（2020-03-24）：
-  - 更新标题图标。（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）
+  - 更新标题图标（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）。
 - 1.1.0（2020-03-05）：
   - 根据《精灵宝可梦 究极之日》的文本修改了部分用语。
 - 1.0.0（2020-02-28）：
