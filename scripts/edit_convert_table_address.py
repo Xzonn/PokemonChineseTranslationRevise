@@ -19,7 +19,7 @@ def edit_convert_table_address(arm9_path: str, msg_path: str, symbol_path: str):
   with open(symbol_path, "r", -1, "utf8") as reader:
     symbol = reader.read()
 
-  symbol_dict = {name: int(address, 16) for name, address in PATTERN.findall(symbol)}
+  symbol_dict = {name: int(address, 16) - 0x2000000 for name, address in PATTERN.findall(symbol)}
 
   arm9 = (
     arm9[: symbol_dict["conversion_table_origin"]]

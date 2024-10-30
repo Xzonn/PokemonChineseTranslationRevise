@@ -39,12 +39,14 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/arm9.bin");
+  Dictionary<string, string> symbols = new();
 
   foreach (var folder in Directory.EnumerateDirectories("asm/Pt/replSource/"))
   {
     int address = Convert.ToInt32(Path.GetFileName(folder), 16);
-    CompileArm9(ref arm9, address, "Pt", gameCode);
+    CompileArm9(ref arm9, address, "Pt", gameCode, ref symbols);
   }
+  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   // Sort easy chat words
   var easyChatWordsArray = easyChatWords.ToArray();

@@ -44,12 +44,14 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   var arm9Comp = File.ReadAllBytes($"original_files/HGSS/{gameCode}/arm9.bin");
   var nitroCode = arm9Comp.Skip(arm9Comp.Length - 12).ToArray();
   var arm9 = BLZ.Decompress(arm9Comp.Take(arm9Comp.Length - 12).ToArray());
+  Dictionary<string, string> symbols = new();
 
   foreach (var folder in Directory.EnumerateDirectories("asm/HGSS/replSource/"))
   {
     int address = Convert.ToInt32(Path.GetFileName(folder), 16);
-    CompileArm9(ref arm9, address, "HGSS", gameCode);
+    CompileArm9(ref arm9, address, "HGSS", gameCode, ref symbols);
   }
+  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   SortEasyChatWords(ref arm9, 0x1068f0, easyChatWords.ToArray());
 

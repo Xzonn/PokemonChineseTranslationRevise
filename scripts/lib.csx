@@ -27,13 +27,10 @@ void EditBanner(string parentGame, string game, string newTitle)
 
 void CopyFolder(string from, string to, string pattern = "*")
 {
-  if (!Directory.Exists(to))
+  foreach (var file in Directory.GetFiles(from, pattern, SearchOption.AllDirectories))
   {
-    Directory.CreateDirectory(to);
-  }
-  foreach (var file in Directory.GetFiles(from, pattern))
-  {
-    var fileTo = Path.Combine(to, Path.GetFileName(file));
+    var fileTo = Path.Combine(to, Path.GetRelativePath(from, file));
+    Directory.CreateDirectory(Path.GetDirectoryName(fileTo));
     File.Copy(file, fileTo, true);
     Console.WriteLine($"Copied: {file} -> {fileTo}");
   }
