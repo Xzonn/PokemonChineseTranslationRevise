@@ -3,6 +3,7 @@
 
 using System.Diagnostics;
 using System.Globalization;
+using System.Text.RegularExpressions;
 
 void EditBinary(ref byte[] bytes, int offset, string newHexString)
 {
@@ -164,8 +165,9 @@ Dictionary<int, Dictionary<int, string>> LoadMessages(string path)
   return messages;
 }
 
-bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
+bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game, ref Dictionary<string, string> symbols)
 {
+  var symPattern = new Regex(@"^(?<address>[0-9a-f]{8}) \w\s+.text\s+\d{8} (?<name>.+)$", RegexOptions.Multiline);
   ProcessStartInfo psi = new()
   {
     FileName = "make",
@@ -178,7 +180,8 @@ bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
   Process p = new() { StartInfo = psi };
   static void func(object sender, DataReceivedEventArgs e)
   {
-    if (!string.IsNullOrEmpty(e.Data)) {
+    if (!string.IsNullOrEmpty(e.Data))
+    {
       Console.WriteLine(e.Data);
     }
   }
@@ -192,6 +195,11 @@ bool CompileArm9(ref byte[] arm9, int address, string parentGame, string game)
   {
     var newBytes = File.ReadAllBytes($"asm/{parentGame}/repl_{address:X7}.bin");
     Array.Copy(newBytes, 0, arm9, address - 0x2000000, newBytes.Length);
+    var symText = File.ReadAllText($"asm/{parentGame}/repl_{address:X7}.sym");
+    foreach (Match match in symPattern.Matches(symText))
+    {
+      symbols.Add(match.Groups["name"].Value.Trim(), match.Groups["address"].Value.Trim());
+    }
     return true;
   }
   return false;

@@ -40,12 +40,14 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/DP/{gameCode}/arm9.bin");
+  Dictionary<string, string> symbols = new();
 
   foreach (var folder in Directory.EnumerateDirectories("asm/DP/replSource/"))
   {
     int address = Convert.ToInt32(Path.GetFileName(folder), 16);
-    CompileArm9(ref arm9, address, "DP", gameCode);
+    CompileArm9(ref arm9, address, "DP", gameCode, ref symbols);
   }
+  File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   // Sort easy chat words
   var aikotobaList = SortEasyChatWords(ref arm9, (uint)(gameCode == "D" ? 0x1001b4 : 0x1001b8), easyChatWords.ToArray());
@@ -80,6 +82,16 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0080.bin", overlay_0080);
   Console.WriteLine($"Edited: overlay_0080.bin");
+
+  // Edit overlay_0083.bin
+  var overlay_0083 = File.ReadAllBytes($"original_files/DP/{gameCode}/overlay/overlay_0083.bin");
+
+  // Remove language restrictions
+  // Ref: https://bbs.oldmantvg.net/thread-31283.htm
+  EditBinary(ref overlay_0083, 0x00129A, "FF D1");
+
+  File.WriteAllBytes($"out/{gameCode}/overlay/overlay_0083.bin", overlay_0083);
+  Console.WriteLine($"Edited: overlay_0083.bin");
 
   EditBanner("DP", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
