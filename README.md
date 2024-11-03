@@ -18,3 +18,4 @@
 ## 相关内容
 - [PCTRTools](https://github.com/Xzonn/PCTRTools)：汉化修正工具。
 - [NitroPatcher](https://github.com/Xzonn/NitroPatcher)：补丁应用工具。
+- [PokemonGen4FontPatch](https://github.com/Xzonn/PokemonGen4FontPatch)：字库扩容补丁。
