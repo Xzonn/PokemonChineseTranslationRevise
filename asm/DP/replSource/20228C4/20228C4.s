@@ -12,6 +12,6 @@ arepl_20228C4:
 
 loc_20228D0:
   LDR R1, [R0, #0x74]
-  LDR R0, =0x1FB
+  LDR R0, =0x1FA
   LDRB R0, [R1, R0]
   BX LR
