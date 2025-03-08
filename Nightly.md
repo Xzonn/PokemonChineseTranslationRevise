@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2024-10-29 16:33
+last_modified_at: 2025-03-08 14:45
 title: 开发版本补丁概述
 ---
 <div class="alert alert-danger" role="alert">
@@ -14,3 +14,5 @@ title: 开发版本补丁概述
 
 ## 更新内容
 开发补丁相较于2.1.0版本有如下更新（将会作为下一次版本更新的内容）：
+
+- 修复部分对话框重叠的问题。
