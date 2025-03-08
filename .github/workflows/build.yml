@@ -15,7 +15,7 @@ jobs:
   compile-binaries:
     runs-on: ubuntu-latest
     container:
-      image: xzonn/devkitarm:latest
+      image: xzonn/devkitarm:20250308
     steps:
       - uses: actions/checkout@v4
         with:
