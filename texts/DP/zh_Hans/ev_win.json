@@ -752,19 +752,19 @@
   {
     "key": "DP_0319_0125",
     "original": "５０まい[0203,003C]１０００¥   ",
-    "translation": "５０枚　[0203,003C]$１０００　　　",
+    "translation": "５０枚[0203,003C]$１０００",
     "index": 125
   },
   {
     "key": "DP_0319_0126",
     "original": "５００まい[0203,003C]１００００¥  ",
-    "translation": "５００枚　[0203,003C]$１００００　　",
+    "translation": "５００枚[0203,003C]$１００００",
     "index": 126
   },
   {
     "key": "DP_0319_0127",
     "original": "いらない ",
-    "translation": "不需要　",
+    "translation": "不需要　　　　　　",
     "index": 127
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "key": "DP_0319_0169",
     "original": "いらない            ",
-    "translation": "不需要　　　　　　　　　　　　",
+    "translation": "不需要　　　　　　　　",
     "index": 169
   },
   {
@@ -1316,55 +1316,55 @@
   {
     "key": "DP_0319_0219",
     "original": "おいしいみず[0203,0050]２００¥",
-    "translation": "美味之水[0203,0050]$２００　　",
+    "translation": "美味之水[0203,0050]$２００",
     "index": 219
   },
   {
     "key": "DP_0319_0220",
     "original": "サイコソーダ[0203,0050]３００¥",
-    "translation": "劲爽汽水[0203,0050]$３００　　",
+    "translation": "劲爽汽水[0203,0050]$３００",
     "index": 220
   },
   {
     "key": "DP_0319_0221",
     "original": "ミックスオレ[0203,0050]３５０¥",
-    "translation": "果汁牛奶[0203,0050]$３５０　　",
+    "translation": "果汁牛奶[0203,0050]$３５０",
     "index": 221
   },
   {
     "key": "DP_0319_0222",
     "original": "いらない         ",
-    "translation": "不需要　　　　　　　　　",
+    "translation": "不需要　　　　　　",
     "index": 222
   },
   {
     "key": "DP_0319_0223",
     "original": "すくすくこやし[0203,005A]２００¥",
-    "translation": "速速肥[0203,005A]$２００　　　",
+    "translation": "速速肥[0203,005A]$２００",
     "index": 223
   },
   {
     "key": "DP_0319_0224",
     "original": "じめじめこやし[0203,005A]２００¥",
-    "translation": "湿湿肥[0203,005A]$２００　　　",
+    "translation": "湿湿肥[0203,005A]$２００",
     "index": 224
   },
   {
     "key": "DP_0319_0225",
     "original": "ながながこやし[0203,005A]２００¥",
-    "translation": "久久肥[0203,005A]$２００　　　",
+    "translation": "久久肥[0203,005A]$２００",
     "index": 225
   },
   {
     "key": "DP_0319_0226",
     "original": "ねばねばこやし[0203,005A]２００¥",
-    "translation": "粘粘肥[0203,005A]$２００　　　",
+    "translation": "粘粘肥[0203,005A]$２００",
     "index": 226
   },
   {
     "key": "DP_0319_0227",
     "original": "やめる            ",
-    "translation": "取消　　　　　　　　　　　　　",
+    "translation": "取消　　　　　　　　",
     "index": 227
   },
   {

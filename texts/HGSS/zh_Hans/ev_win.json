@@ -764,19 +764,19 @@
   {
     "key": "HGSS_0189_0127",
     "original": "５０まい[0203,003C]１０００¥   ",
-    "translation": "５０枚　[0203,003C]$１０００　　　",
+    "translation": "５０枚[0203,003C]$１０００",
     "index": 127
   },
   {
     "key": "HGSS_0189_0128",
     "original": "５００まい[0203,003C]１００００¥  ",
-    "translation": "５００枚　[0203,003C]$１００００　　",
+    "translation": "５００枚[0203,003C]$１００００",
     "index": 128
   },
   {
     "key": "HGSS_0189_0129",
     "original": "いらない ",
-    "translation": "不需要　",
+    "translation": "不需要　　　　　　",
     "index": 129
   },
   {
@@ -1034,7 +1034,7 @@
   {
     "key": "HGSS_0189_0172",
     "original": "いらない            ",
-    "translation": "不需要　　　　　　　　　　　　",
+    "translation": "不需要　　　　　　　　",
     "index": 172
   },
   {
@@ -1256,55 +1256,55 @@
   {
     "key": "HGSS_0189_0209",
     "original": "おいしいみず[0203,0050]２００¥",
-    "translation": "美味之水[0203,0050]$２００　　",
+    "translation": "美味之水[0203,0050]$２００",
     "index": 209
   },
   {
     "key": "HGSS_0189_0210",
     "original": "サイコソーダ[0203,0050]３００¥",
-    "translation": "劲爽汽水[0203,0050]$３００　　",
+    "translation": "劲爽汽水[0203,0050]$３００",
     "index": 210
   },
   {
     "key": "HGSS_0189_0211",
     "original": "ミックスオレ[0203,0050]３５０¥",
-    "translation": "果汁牛奶[0203,0050]$３５０　　",
+    "translation": "果汁牛奶[0203,0050]$３５０",
     "index": 211
   },
   {
     "key": "HGSS_0189_0212",
     "original": "いらない         ",
-    "translation": "不需要　　　　　　　　　",
+    "translation": "不需要　　　　　　",
     "index": 212
   },
   {
     "key": "HGSS_0189_0213",
     "original": "すくすくこやし[0203,005A]\n２００¥",
-    "translation": "速速肥[0203,005A]\n$２００　　　",
+    "translation": "速速肥[0203,005A]\n$２００",
     "index": 213
   },
   {
     "key": "HGSS_0189_0214",
     "original": "じめじめこやし[0203,005A]\n２００¥",
-    "translation": "湿湿肥[0203,005A]\n$２００　　　",
+    "translation": "湿湿肥[0203,005A]\n$２００",
     "index": 214
   },
   {
     "key": "HGSS_0189_0215",
     "original": "ながながこやし[0203,005A]\n２００¥",
-    "translation": "久久肥[0203,005A]\n$２００　　　",
+    "translation": "久久肥[0203,005A]\n$２００",
     "index": 215
   },
   {
     "key": "HGSS_0189_0216",
     "original": "ねばねばこやし[0203,005A]\n２００¥",
-    "translation": "粘粘肥[0203,005A]\n$２００　　　",
+    "translation": "粘粘肥[0203,005A]\n$２００",
     "index": 216
   },
   {
     "key": "HGSS_0189_0217",
     "original": "やめる            ",
-    "translation": "取消　　　　　　　　　　　　　",
+    "translation": "取消　　　　　　　　",
     "index": 217
   },
   {
