@@ -62,7 +62,7 @@ def load_game_data(game_info: GameInfo, texts_root: str) -> dict[str, dict[int, 
     file_id = int(_1)
     line_game: str
     for language in languages:
-      full_path = f"{texts_root}/{line_game}/{language}/{file_path.removesuffix(".txt")}.json"
+      full_path = f"{texts_root}/{line_game}/{language}/{file_path.removesuffix('.txt')}.json"
       if file_id not in game_data[language]:
         game_data[language][file_id] = {}
       if not os.path.exists(full_path):
