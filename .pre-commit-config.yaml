@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: mixed-line-ending
         args: [--fix=lf]
@@ -8,7 +8,7 @@ repos:
       - id: end-of-file-fixer
         exclude: \.json
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.6.1
+    rev: v0.11.2
     hooks:
       - id: ruff
         args: [--fix, --exit-non-zero-on-fix, --select, I]
