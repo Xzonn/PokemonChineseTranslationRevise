@@ -31,7 +31,10 @@ def merge_messages_for_japanese_names(games: list[GameInfo], texts_root: str, ou
 
           for i, line in lines.items():
             line = (
-              line.replace("\\f\n", "\\f").replace("\\r\n", "\\r").replace("\n", "\\n").replace("${VERSION}", f"{version}+J")
+              line.replace("\\f\n", "\\f")
+              .replace("\\r\n", "\\r")
+              .replace("\n", "\\n")
+              .replace("${VERSION}", f"{version}+J")
             )
             if f"{game}-{file_id}" in {"DP-13", "DP-23", "Pt-17"} and line.startswith("盒子"):
               continue
