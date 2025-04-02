@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-10-29 16:31
+last_modified_at: 2025-04-02 15:09
 title: 《宝可梦》第四世代汉化修正
 ---
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
@@ -46,9 +46,9 @@ title: 《宝可梦》第四世代汉化修正
 <td>{% include figure.html link="/PKHeX.html" src="a7b4b821e754b775055372bb0380bc0d.png" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" width="588" height="331" %}</td>
 </tr></tbody></table>
 
-2.0.0版本及以后版本的补丁仅适用于日文版ROM，1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。
+2.0.0版本及以后版本的补丁仅适用于日文版ROM，其中《钻石／珍珠》需要Rev 6版本；1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。
 
-日文版 ROM 的 MD5 校验码：
+日文版ROM的MD5校验码：
 
 - [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641)：`c1d66b8d4fbdbfa57ff4868970fe19d2`
 - [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
@@ -69,3 +69,12 @@ title: 《宝可梦》第四世代汉化修正
 <tr><td>{% include figure.html src="ed366964bfaf73e862883782181a9ec1.png" alt="《宝可梦 心金》标题" %}</td><td>{% include figure.html src="4664ff3f027ff954c174ed5d1ea2fd4e.png" alt="《宝可梦 魂银》标题" %}</td></tr>
 </tbody>
 </table>
+
+## 常见问题
+
+1. **提示“原始ROM的MD5校验失败”是怎么回事？**
+  - 原始ROM为日文版ROM，其中《钻石／珍珠》需要Rev 6版本；也可使用已经打好2.0.0版本及以后版本的补丁的ROM。
+2. **如何获取ROM？**
+  - 这里不提供ROM下载链接。如果你有正版卡带，也可以参照[这篇文章](https://haroohie.club/zh-hans/chokuretsu/guide/dumping-the-rom)提取ROM。
+3. **正版卡带能否使用补丁？**
+  - 目前还没有能够给正版卡带打补丁的方式。你仍然需要提取ROM后对ROM打补丁，然后使用烧录卡或[TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu)运行。采用TWiLight Menu++时，通过特定操作可以读写正版卡带的存档，请参照[这篇文章](https://bbs.oldmantvg.net/thread-22894.htm)。

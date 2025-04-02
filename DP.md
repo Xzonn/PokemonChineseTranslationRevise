@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2024-10-29 16:22
+last_modified_at: 2025-04-02 15:01
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 {% include figure.html src="9938f0f795848274294631bb0d8fa323.jpg" width="588" height="331" %}
@@ -12,7 +12,7 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 
 修正补丁使用方式已在压缩包中，也可参照[此视频](https://www.bilibili.com/video/BV1oH1xYXEdb/)。
 
-日文版 ROM 的 MD5 校验码：
+日文版ROM的MD5校验码：
 
 - [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641)：`c1d66b8d4fbdbfa57ff4868970fe19d2`
 - [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
@@ -44,7 +44,7 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
   - 修复训练家卡无法显示星星的问题。
   - 额外提供了保留日文宝可梦名字的补丁（对于大多数人来说并不需要此补丁）。如需使用，需要先对ROM使用通常版本的补丁，再使用此补丁。
 - 2.0.0（2024-02-04）：
-  - **应用补丁所需要的原始 ROM 由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要 Rev 6 版本，以其他版本作为原始 ROM 会导致生成的 ROM 无法运行。补丁应用工具会自动计算原始 ROM 的 MD5 校验码，如果没有提示“原始 ROM 的 MD5 校验失败”，则说明原始 ROM 的版本正确。
+  - **应用补丁所需要的原始ROM由原汉化版本修改为日本版**。请注意，《钻石／珍珠》需要Rev 6版本，以其他版本作为原始ROM会导致生成的ROM无法运行。补丁应用工具会自动计算原始ROM的MD5校验码，如果没有提示“原始ROM的MD5校验失败”，则说明原始ROM的版本正确。
   - **同步更新《钻石／珍珠》补丁**，并修改《钻石／珍珠》的图标（感谢 **[ppllouf](https://github.com/ppllouf)**）。
   - 采用了更细致的匹配算法，导入了更多与《晶灿钻石／明亮珍珠》等官方中文化游戏匹配的文本。
   - 版本号修改为删除存档界面显示，可在标题界面按`↑ + SELECT + B`查看。
