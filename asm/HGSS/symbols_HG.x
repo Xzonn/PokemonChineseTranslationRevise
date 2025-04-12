@@ -12,5 +12,5 @@ loc_21E50CE = 0x21E50CE;
 loc_225EB10 = 0x225EB10;
 loc_225EC18 = 0x225EC18;
 MI_CpuFill32 = 0x20D40D0;
-ClearPokeWalkerPlayerData = 0x20321C8;
-HookClearPokeWalkerPlayerData = 0x21FA93C;
+ClearPokeWalkerPlayerData = 0x20321C8 | 1;
+HookClearPokeWalkerPlayerData = 0x21FA93C | 1;

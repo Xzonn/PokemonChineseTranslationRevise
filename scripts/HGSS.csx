@@ -53,6 +53,31 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
     File.Delete(path);
   }
 
+  // Build import.o
+  ProcessStartInfo psi = new()
+  {
+    FileName = "make",
+    Arguments = $"TARGET=import SOURCES=import",
+    WorkingDirectory = $"asm/HGSS",
+    UseShellExecute = false,
+    RedirectStandardError = true,
+    RedirectStandardOutput = true,
+  };
+  Process p = new() { StartInfo = psi };
+  static void func(object sender, DataReceivedEventArgs e)
+  {
+    if (!string.IsNullOrEmpty(e.Data))
+    {
+      Console.WriteLine(e.Data);
+    }
+  }
+  p.OutputDataReceived += func;
+  p.ErrorDataReceived += func;
+  p.Start();
+  p.BeginOutputReadLine();
+  p.BeginErrorReadLine();
+  p.WaitForExit();
+
   // Decopress and edit arm9.bin
   var arm9Comp = File.ReadAllBytes($"original_files/HGSS/{gameCode}/arm9.bin");
   var nitroCode = arm9Comp.Skip(arm9Comp.Length - 12).ToArray();

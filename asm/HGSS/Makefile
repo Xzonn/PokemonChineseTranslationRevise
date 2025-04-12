@@ -84,6 +84,13 @@ ifdef CODEADDR
   LDFLAGS += -Ttext $(CODEADDR)
 endif
 
+IMPORT_FILE :=
+ifeq ($(CODEADDR),0x21EB5CE)
+	IMPORT_FILE = import.o
+else ifeq ($(CODEADDR),0x21FA93C)
+	IMPORT_FILE = import.o
+endif
+
 #---------------------------------------------------------------------------------
 # any extra libraries we wish to link with the project (order is important)
 #---------------------------------------------------------------------------------
@@ -157,7 +164,7 @@ $(OUTPUT).sym : $(OUTPUT).elf
 #---------------------------------------------------------------------------------
 %.elf: $(OFILES)
 	@echo linking $(notdir $@)
-	$(LD)  $(LDFLAGS) $(OFILES) $(LIBPATHS) $(LIBS) -o $@
+	$(LD)  $(LDFLAGS) $(OFILES) $(IMPORT_FILE) $(LIBPATHS) $(LIBS) -o $@
 
 #---------------------------------------------------------------------------------
 %.bin.o	:	%.bin
