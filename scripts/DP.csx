@@ -97,6 +97,9 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   EditBanner("DP", gameCode, GAME_CODE_TO_TITLE[gameCode]);
 
+  // Copy preprocessing
+  CopyFolder($"original_files/DP/{gameCode}/preprocessing", $"out/{gameCode}/preprocessing");
+
   // Copy md5.txt
   File.Copy($"original_files/DP/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
 }
