@@ -806,25 +806,25 @@
   {
     "key": "Pt_0010_0134",
     "original": "コロシアム\nシングル ファンシーカップ",
-    "translation": "圆形剧场\n单人喜爱杯",
+    "translation": "圆形剧场\n单人基础杯",
     "index": 134
   },
   {
     "key": "Pt_0010_0135",
     "original": "コロシアム\nシングル リトルカップ",
-    "translation": "圆形剧场\n单人小量级杯",
+    "translation": "圆形剧场\n单人新芽杯",
     "index": 135
   },
   {
     "key": "Pt_0010_0136",
     "original": "コロシアム\nシングル ライトカップ",
-    "translation": "圆形剧场\n单人轻量级杯",
+    "translation": "圆形剧场\n单人轻量杯",
     "index": 136
   },
   {
     "key": "Pt_0010_0137",
     "original": "コロシアム\nシングル ダブルカップ",
-    "translation": "圆形剧场\n单人双重杯",
+    "translation": "圆形剧场\n单人对双杯",
     "index": 137
   },
   {
@@ -848,25 +848,25 @@
   {
     "key": "Pt_0010_0141",
     "original": "コロシアム\nダブル ファンシーカップ",
-    "translation": "圆形剧场\n双人喜爱杯",
+    "translation": "圆形剧场\n双人基础杯",
     "index": 141
   },
   {
     "key": "Pt_0010_0142",
     "original": "コロシアム\nダブル リトルカップ",
-    "translation": "圆形剧场\n双人小量级杯",
+    "translation": "圆形剧场\n双人新芽杯",
     "index": 142
   },
   {
     "key": "Pt_0010_0143",
     "original": "コロシアム\nダブル ライトカップ",
-    "translation": "圆形剧场\n双人轻量级杯",
+    "translation": "圆形剧场\n双人轻量杯",
     "index": 143
   },
   {
     "key": "Pt_0010_0144",
     "original": "コロシアム\nダブル ダブルカップ",
-    "translation": "圆形剧场\n双人双重杯",
+    "translation": "圆形剧场\n双人对双杯",
     "index": 144
   },
   {
@@ -902,19 +902,19 @@
   {
     "key": "Pt_0010_0150",
     "original": "バトルファクトリー\nレベル５０ シングル",
-    "translation": "对战工厂\n５０级单人",
+    "translation": "对战工厂\n等级５０单人",
     "index": 150
   },
   {
     "key": "Pt_0010_0151",
     "original": "バトルファクトリー\nレベル５０ ダブル",
-    "translation": "对战工厂\n５０级双人",
+    "translation": "对战工厂\n等级５０双人",
     "index": 151
   },
   {
     "key": "Pt_0010_0152",
     "original": "バトルファクトリー\nレベル５０ マルチ",
-    "translation": "对战工厂\n５０级多人",
+    "translation": "对战工厂\n等级５０多人",
     "index": 152
   },
   {
@@ -1064,19 +1064,19 @@
   {
     "key": "Pt_0010_0177",
     "original": " ９：バトルファクトリー\n   レベル５０ シングル",
-    "translation": "　９：对战工厂\n　　　５０级单人",
+    "translation": "　９：对战工厂\n　　　等级５０单人",
     "index": 177
   },
   {
     "key": "Pt_0010_0178",
     "original": "１０：バトルファクトリー\n   レベル５０ ダブル",
-    "translation": "１０：对战工厂\n　　　５０级双人",
+    "translation": "１０：对战工厂\n　　　等级５０双人",
     "index": 178
   },
   {
     "key": "Pt_0010_0179",
     "original": "１１：バトルファクトリー\n   レベル５０ マルチ",
-    "translation": "１１：对战工厂\n　　　５０级多人",
+    "translation": "１１：对战工厂\n　　　等级５０多人",
     "index": 179
   },
   {
