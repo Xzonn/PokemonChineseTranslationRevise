@@ -68,13 +68,13 @@
   {
     "key": "Pt_0685_0011",
     "original": "ｍ",
-    "translation": "ｍ",
+    "translation": "",
     "index": 11
   },
   {
     "key": "Pt_0685_0012",
     "original": "ｋｇ",
-    "translation": "ｋｇ",
+    "translation": "",
     "index": 12
   },
   {
@@ -524,19 +524,19 @@
   {
     "key": "Pt_0685_0087",
     "original": "なまえの さいしょの もじを\nしてい します。",
-    "translation": "按照名字的拼音排序。",
+    "translation": "按照名字的拼音选择。",
     "index": 87
   },
   {
     "key": "Pt_0685_0088",
     "original": "タイプを してい します。",
-    "translation": "按照属性排序。",
+    "translation": "按照属性选择。",
     "index": 88
   },
   {
     "key": "Pt_0685_0089",
     "original": "からだの かたちを してい します。",
-    "translation": "按照体形排序。",
+    "translation": "按照外形选择。",
     "index": 89
   },
   {
@@ -560,7 +560,7 @@
   {
     "key": "Pt_0685_0093",
     "original": "じょうけんを みたす ポケモンが\nみつかりませんでした⋯",
-    "translation": "找不到符合条件的宝可梦…",
+    "translation": "找不到符合条件的宝可梦……",
     "index": 93
   },
   {
@@ -572,25 +572,25 @@
   {
     "key": "Pt_0685_0095",
     "original": "１．４５",
-    "translation": "１．４５",
+    "translation": "１．４５ｍ",
     "index": 95
   },
   {
     "key": "Pt_0685_0096",
     "original": "１．４０",
-    "translation": "１．４０",
+    "translation": "１．４０ｍ",
     "index": 96
   },
   {
     "key": "Pt_0685_0097",
     "original": "３８．０",
-    "translation": "３８．０",
+    "translation": "３８．０ｋｇ",
     "index": 97
   },
   {
     "key": "Pt_0685_0098",
     "original": "３４．０",
-    "translation": "３４．０",
+    "translation": "３４．０ｋｇ",
     "index": 98
   },
   {

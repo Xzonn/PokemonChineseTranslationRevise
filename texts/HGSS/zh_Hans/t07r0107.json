@@ -2,25 +2,25 @@
   {
     "key": "HGSS_0493_0000",
     "original": "いらっしゃいませ ようこそ！\nなんかいを ごりよう ですか？[0200,0000]",
-    "translation": "欢迎光临！\n你要到几楼呢？[0200,0000]",
+    "translation": "欢迎光临！\n请问客人您要去几楼？[0200,0000]",
     "index": 0
   },
   {
     "key": "HGSS_0493_0001",
     "original": "またの ごりようを\nこころより おまちしております",
-    "translation": "欢迎您\n再来乘坐。",
+    "translation": "期待您的再次光临。",
     "index": 1
   },
   {
     "key": "HGSS_0493_0002",
     "original": "かしこまりました\nそれでは うえへ まいりまーす\\f\n",
-    "translation": "明白了，\n那么，前往上层。\\f\n",
+    "translation": "明白了，\n那么，电梯上行。\\f\n",
     "index": 2
   },
   {
     "key": "HGSS_0493_0003",
     "original": "かしこまりました\nそれでは したへ まいりまーす\\f\n",
-    "translation": "明白了，\n那么，前往下层。\\f\n",
+    "translation": "明白了，\n那么，电梯下行。\\f\n",
     "index": 3
   },
   {
