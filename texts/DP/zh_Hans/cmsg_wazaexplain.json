@@ -26,13 +26,13 @@
   {
     "key": "DP_0196_0004",
     "original": "しんさいんが",
-    "translation": "审查员",
+    "translation": "评审员",
     "index": 4
   },
   {
     "key": "DP_0196_0005",
     "original": "かさなるごとに＋２",
-    "translation": "若和别人重合\n的话＋２",
+    "translation": "和别人相同的话＋２",
     "index": 5
   },
   {
@@ -62,25 +62,25 @@
   {
     "key": "DP_0196_0010",
     "original": "しんさいん",
-    "translation": "审查员",
+    "translation": "评审员",
     "index": 10
   },
   {
     "key": "DP_0196_0011",
     "original": "かさならないと＋３",
-    "translation": "没有和别人重合\n的话＋３",
+    "translation": "和别人不同的话＋３",
     "index": 11
   },
   {
     "key": "DP_0196_0012",
     "original": "２ターンれんぞく",
-    "translation": "２回合连续",
+    "translation": "可以２回合连续",
     "index": 12
   },
   {
     "key": "DP_0196_0013",
     "original": "えんぎできる",
-    "translation": "使用演技可能",
+    "translation": "使用演技",
     "index": 13
   },
   {
@@ -98,25 +98,25 @@
   {
     "key": "DP_0196_0016",
     "original": "ぜんいんがじぶんと",
-    "translation": "全员和自己选择\n的审查员",
+    "translation": "所有人选择的评审员",
     "index": 16
   },
   {
     "key": "DP_0196_0017",
     "original": "かさなると＋１５",
-    "translation": "重合的话＋１５",
+    "translation": "都相同的话＋１５",
     "index": 17
   },
   {
     "key": "DP_0196_0018",
     "original": "ぜんしんさいんの",
-    "translation": "审查员的",
+    "translation": "评审员的",
     "index": 18
   },
   {
     "key": "DP_0196_0019",
     "original": "ボルテージ１つへる",
-    "translation": "热度１个减少",
+    "translation": "热度减少１",
     "index": 19
   },
   {
@@ -290,13 +290,13 @@
   {
     "key": "DP_0196_0048",
     "original": "しんさいんが\nかぶるごとに＋２",
-    "translation": "选择同一审查员\n＋２",
+    "translation": "选择同一评审员\n＋２",
     "index": 48
   },
   {
     "key": "DP_0196_0049",
     "original": "しんさいんの\nボルテージが\nあがったら ＋２。",
-    "translation": "审查员的热度\n上升了的话＋２。",
+    "translation": "评审员的热度\n上升了的话＋２。",
     "index": 49
   },
   {
@@ -308,7 +308,7 @@
   {
     "key": "DP_0196_0051",
     "original": "ほかの ポケモンと\nしんさいんが\nかさならないと ＋３。",
-    "translation": "大家选择的审查\n员不同的话＋３。",
+    "translation": "大家选择的评审员\n不同的话＋３。",
     "index": 51
   },
   {
@@ -332,7 +332,7 @@
   {
     "key": "DP_0196_0055",
     "original": "しんさいん ぜんいんの\nボルテージが\n１つずつ へる。",
-    "translation": "审查员全员的\n热度减少１个。",
+    "translation": "评审员全员的\n热度减少１个。",
     "index": 55
   },
   {
