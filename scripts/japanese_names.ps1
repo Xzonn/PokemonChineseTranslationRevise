@@ -1,6 +1,7 @@
 $PCTRTools = "tools/PCTRTools/bin/Release/net8.0/publish/PCTRTools.exe"
+$env:XZ_PATCH_JAPANESE = "1"
 
-python scripts/merge_messages_for_japanese_names.py
+python scripts/merge_messages.py
 
 & "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "original_files/DP/data/msgdata/msg.narc" -t "temp/DP/messages_J.txt" -o "out/DP_J/data/msgdata/msg.narc"
 & "$PCTRTools" "text-import" -c "files/CharTable.txt" -i "original_files/Pt/data/msgdata/pl_msg.narc" -t "temp/Pt/messages_J.txt" -o "out/Pt_J/data/msgdata/pl_msg.narc"
