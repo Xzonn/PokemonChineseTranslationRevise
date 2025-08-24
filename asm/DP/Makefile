@@ -23,6 +23,7 @@ endef
 export PORTLIBS	:=	$(DEVKITPRO)/portlibs/arm
 export PATH		:=	$(DEVKITARM)/bin:$(PORTLIBS)/bin:$(PATH)
 LIBNDS	:=	$(DEVKITPRO)/libnds
+CALICO	:=	$(DEVKITPRO)/calico
 
 #---------------------------------------------------------------------------------
 # the prefix on the compiler executables
@@ -94,7 +95,7 @@ LIBS	:= -lnds9 -lc
 # list of directories containing libraries, this must be the top level containing
 # include and lib
 #---------------------------------------------------------------------------------
-LIBDIRS	:=	$(LIBNDS)  $(DEVKITARM) $(DEVKITARM)/arm-none-eabi
+LIBDIRS	:=	$(LIBNDS) $(CALICO) $(DEVKITARM) $(DEVKITARM)/arm-none-eabi
 
 #---------------------------------------------------------------------------------
 ifneq ($(BUILD),$(notdir $(CURDIR)))
