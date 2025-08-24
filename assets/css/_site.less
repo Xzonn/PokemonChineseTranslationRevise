@@ -108,27 +108,7 @@ figure {
 /* 行内元素 */
 article {
   a[target="_blank"] {
-    text-decoration: underline;
-
-    &::before, &::after {
-      display: inline-block;
-      margin: 0 5px;
-      background-position: center;
-      background-repeat: no-repeat;
-      content: '';
-    }
-
-    &::before {
-      width: 11px;
-      height: 11px;
-      background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22%232196f3%22%20viewBox%3D%220%200%201650%201650%22%3E%3Cpath%20d%3D%22M825%200C368%200%200%20368%200%20825s368%20825%20825%20825%20825-369%20825-825S1281%200%20825%200zm253%20883c0%203-3%203-6%206%200%200-264%20264-300%20297-38%2033-99%2033-138%200-36-30-41-80-11-116l11-11%20237-234-236-234c-36-30-41-80-11-115l11-11c38-33%2099-33%20138%200%2036%2033%20300%20297%20300%20297%2033%2033%2038%2085%205%20121z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E') !important;
-    }
-
-    &::after {
-      width: 12px;
-      height: 9px;
-      background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20fill%3D%22%23888%22%20viewBox%3D%220%200%2012%209%22%3E%3Cpath%20d%3D%22M3%2C0v6h9v-6Zm1%2C2h7v3h-7ZM0%2C3v6H9V7H8v1H1V5h1V3Z%22%2F%3E%3C%2Fsvg%3E') !important;
-    }
+    color: @color-cold;
   }
 }
 

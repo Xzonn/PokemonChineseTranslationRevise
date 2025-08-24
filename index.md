@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-04-02 15:09
+last_modified_at: 2025-08-24 13:28
 title: 《宝可梦》第四世代汉化修正
 ---
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
@@ -7,36 +7,54 @@ title: 《宝可梦》第四世代汉化修正
 </div>
 
 ## 说明
-2016年对于《宝可梦》系列的中文玩家来说是非常重要的一年，在这一年的2月26日，官方首次公布了《宝可梦》系列对应简体中文和繁体中文的消息。随着首个官方中文游戏《精灵宝可梦 太阳／月亮》的发布，“口袋妖怪”世代成为了过去，<strong lang="ja">ポケットモンスター</strong>的正式名称被确定为“**精灵宝可梦**”。此后“精灵宝可梦”又被缩略为“宝可梦”。
 
-由于官方中文化确定了宝可梦、招式、道具、特性等许多名词的译名，因此，为使官方译名更加深入人心，同时为中文玩家在游玩“口袋妖怪”时代的爱好者汉化作品时能够方便地查找资料，本人对<span lang="ja">『ポケットモンスター プラチナ』</span>（参考译名：《宝可梦 白金》）原汉化版的译名进行了修正，并发布了出来。
+近年来，官方中文版的《宝可梦》系列游戏所用的译名已经深入人心。对于旧世代的《宝可梦》游戏而言，使用官方译名无疑将更有利于玩家间的交流。
 
-《白金》的汉化修正版发布后得到了一些反馈，有朋友希望能够统一第四世代的码表。因此我重写了使用工具的代码，并将代码和编译后的程序发布出来，供有兴趣的朋友研究。
+本项目是对Nintendo DS平台的第四世代《宝可梦》游戏（《钻石／珍珠／白金／心金／魂银》）的简体中文汉化，不仅采用了《宝可梦》系列最新官方译名，还对原有的汉化文本进行了完全修订，提升了翻译质量，此外还添加了一些额外功能。
 
-汉化补丁1.2.0版本之后的标题图标由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
+本汉化以补丁形式提供。<strong style="color: var(--color-warm);">如需转载，请保留压缩包中的说明文件以方便获取进一步更新。</strong>
 
-《钻石／珍珠》的补丁已随1.3.0版本发布，于2.0.0版本及以后的版本同步更新。
+{% include video.html bvid="BV135e7ziE4y" %}
 
-《心金／魂银》1.5.0版本补丁整合了宝可计步器汉化文本及汉化补丁，其中文本由 **OS** 翻译，补丁由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmanemu.net/thread-18167.htm>。
+## 汉化名单
 
-2.1.0版本补丁整合了第三、四世代汉化版中文字符转换程序，由 **圈叉汉化组** 制作并允许本人整合加入，原始发布地址：<https://bbs.oldmantvg.net/thread-44009.htm>；同时整合了Wi-Fi Connection设置界面的汉化程序，由 **天涯**、**F君** 汉化制作并允许本人整合加入，原始发布地址：<https://github.com/R-YaTian/DS-Internet-CHS>。
+- **初始版本汉化**：YYJoy汉化组（《[钻石／珍珠](https://xzonn.top/PokemonChineseTranslationRevise/DP.html)》）、ACG汉化组（《[白金](https://xzonn.top/PokemonChineseTranslationRevise/Pt.html)／[心金／魂银](https://xzonn.top/PokemonChineseTranslationRevise/HGSS.html)》）
+- **文本修正、本地化改动**：Xzonn
+- **二进制代码构建**：Xzonn（基于 [devkitPro](https://devkitpro.org/wiki/Getting_Started) 编译，参考了Jonko编写的 [NitroPacker](https://github.com/haroohie-club/NitroPacker)）
+- **[标题图标制作](https://tieba.baidu.com/p/4518179164?see_lz=1)**：大神丶橡皮
+- **[宝可计步器汉化](https://bbs.oldmantvg.net/thread-18167.htm)**：OS（翻译）、圈叉汉化组（制作）
+- **[第三、四世代汉化版中文字符转换程序](https://bbs.oldmantvg.net/thread-44009.htm)**：圈叉汉化组
+- **[Wi-Fi Connection设置界面汉化](https://github.com/R-YaTian/DS-Internet-CHS)**：天涯、F君
 
-## 工具发布
-[GitHub](https://github.com/Xzonn/PCTRTools/releases/tag/v4.0.0)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)
-
-工具由C#编写，包含文本处理功能、字库处理功能、narc文件替换功能，为命令行程序，无图形化界面，命令行参数可通过`--help`指令查看。
-
-详细说明请见：**[汉化工具说明]({{ "/Tools.html" | relative_url }})**。
-
-## 补丁发布
+## 使用方式
 
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
-**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest/)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
 </div>
 
-{% include video.html bvid="BV1oH1xYXEdb" %}
+请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了Microsoft Windows平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
-修正补丁使用方式已在压缩包中，也可参照上方的视频。各版本详细说明：
+软件使用视频教程：<https://www.bilibili.com/video/BV1oH1xYXEdb/?t=69>
+
+原始ROM可以为日本版或汉化修正版2.0.0及以后的版本。其中日本版的MD5校验码：
+
+- [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641)：`c1d66b8d4fbdbfa57ff4868970fe19d2`
+- [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
+- [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
+- [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
+- [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
+
+补丁压缩包下载地址：
+
+- GitHub：<https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest/>
+- 百度网盘：<https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn>
+
+补丁应用工具下载地址（Windows/Linux/macOS/Android）：
+
+- GitHub：<https://github.com/Xzonn/NitroPatcher/releases/latest/>
+- 百度网盘：<https://pan.baidu.com/s/1vXynSX1WauU3FeGHDnrDfg?pwd=ntro>
+
+各版本详细说明：
 
 <table class="figure-table"><tbody><tr>
 <td>{% include figure.html link="/DP.html" src="9938f0f795848274294631bb0d8fa323.jpg" alt="《宝可梦 钻石／珍珠》" width="588" height="331" %}</td>
@@ -46,35 +64,82 @@ title: 《宝可梦》第四世代汉化修正
 <td>{% include figure.html link="/PKHeX.html" src="a7b4b821e754b775055372bb0380bc0d.png" alt="可用于《宝可梦》第四世代汉化修正版的PKHeX版本" width="588" height="331" %}</td>
 </tr></tbody></table>
 
-2.0.0版本及以后版本的补丁仅适用于日文版ROM，其中《钻石／珍珠》需要Rev 6版本；1.5.0版本及以前版本的修正补丁仅适用于YYJoy汉化组／ACG汉化组发布的官方汉化版本，其余修改版本均不适用。
+## 功能介绍
 
-日文版ROM的MD5校验码：
+##### 连接交换
 
-- [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641)：`c1d66b8d4fbdbfa57ff4868970fe19d2`
-- [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
-- [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
-- [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
-- [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
+自《白金／心金／魂银》1.5.0版、《钻石／珍珠》2.0.0版起，第四世代所有游戏之间均采用了完全相同的码表，因此可以实现不同版本之间的连接交换，而不会出现乱码问题。
 
-对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，参见 **[各汉化版本的码表兼容性]({{ "/CharTable.html" | relative_url }}#各汉化版本的码表兼容性)**。
+对于新版本汉化修正补丁读取旧版本存档时可能存在的乱码问题，请参见[各汉化版本的码表兼容性]({{ "CharTable.html" | relative_url }}#%E5%90%84%E6%B1%89%E5%8C%96%E7%89%88%E6%9C%AC%E7%9A%84%E7%A0%81%E8%A1%A8%E5%85%BC%E5%AE%B9%E6%80%A7)。
 
-## 预览
-<table class="table">
-<thead>
-<tr><th colspan="2">标题界面</th></tr>
-</thead>
-<tbody>
-<tr><td>{% include figure.html src="040c99ebeb494d5b5bfe10fc4bdb1d52.png" alt="《宝可梦 钻石》标题" %}</td><td>{% include figure.html src="7cf85ec45232b9930b9359268c6bd767.png" alt="《宝可梦 珍珠》标题" %}</td></tr>
-<tr><td colspan="2">{% include figure.html src="7dc3f1452c6bd5c7779686929f96a6bc.png" alt="《宝可梦 白金》标题" %}</td></tr>
-<tr><td>{% include figure.html src="ed366964bfaf73e862883782181a9ec1.png" alt="《宝可梦 心金》标题" %}</td><td>{% include figure.html src="4664ff3f027ff954c174ed5d1ea2fd4e.png" alt="《宝可梦 魂银》标题" %}</td></tr>
-</tbody>
-</table>
+##### 宝可计步器汉化
+
+（1.5.0版加入，OS翻译、圈叉汉化组制作）
+
+详情：<https://bbs.oldmantvg.net/thread-18167.htm>
+
+《心金／魂银》发售时捆绑了一个宝可计步器。在拥有《心金／魂银／黑／白／黑2／白2》正版卡带和宝可计步器的情况下，可以通过TWiLight Menu++ 运行汉化版游戏，将宝可计步器的汉化程序发送到宝可计步器中。
+
+##### 通过“简单会话”解锁神秘礼物
+
+（2.0.0版加入）
+
+在第四世代游戏中，可以通过输入特定的短语，解锁神秘礼物，或获得特殊壁纸、宝可梦的蛋等。在《钻石／珍珠／白金》中，需要对祝庆电视台三楼的制作人输入。在《心金／魂银》中，需要对桔梗市宝可梦中心的阿始输入。
+
+在《钻石／珍珠／白金》中，输入特定的短语后可以解锁神秘礼物界面。神秘礼物的开启密语为“大家 快乐 Wi-Fi 连接”。
+
+此外，特殊壁纸、宝可梦的蛋密语的四个词语是根据训练家ID（ID No.）确定的，可以使用[密语计算器]({{ "/Aikotoba.html" | relative_url }})计算适用于汉化版的密语。
+
+##### 第三、四世代汉化版联动
+
+（2.1.0版加入）
+
+详情：<https://bbs.oldmantvg.net/thread-44009.htm>
+
+第三、四世代《宝可梦》游戏可通过伙伴公园联动，从而将第三世代的宝可梦传送到第四世代。自2.1.0版本起，加入了一个中文字符转换程序，允许将口袋群星SP汉化组制作的《火红／叶绿／绿宝石》汉化版中的宝可梦传送到第四世代而不会出现乱码的问题。
+
+##### 日文宝可梦名字补丁
+
+（2.1.0版加入）
+
+考虑到部分玩家的联机、向后世代传送的需求，特别提供了一个日文宝可梦名字补丁。使用这个补丁后，游戏中新捕捉的宝可梦的名字将会使用日文名（不影响已有的宝可梦）。
+
+如需使用，需要先对ROM使用通常版本的补丁，再使用此补丁。
 
 ## 常见问题
 
-1. **提示“原始ROM的MD5校验失败”是怎么回事？**
-  - 原始ROM为日文版ROM，其中《钻石／珍珠》需要Rev 6版本；也可使用已经打好2.0.0版本及以后版本的补丁的ROM。
-2. **如何获取ROM？**
-  - 这里不提供ROM下载链接。如果你有正版卡带，也可以参照[这篇文章](https://haroohie.club/zh-hans/chokuretsu/guide/dumping-the-rom)提取ROM。
-3. **正版卡带能否使用补丁？**
-  - 目前还没有能够给正版卡带打补丁的方式。你仍然需要提取ROM后对ROM打补丁，然后使用烧录卡或[TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu)运行。采用TWiLight Menu++时，通过特定操作可以读写正版卡带的存档，请参照[这篇文章](https://bbs.oldmantvg.net/thread-22894.htm)。
+##### 1. 提示“原始ROM的MD5校验失败”是怎么回事？
+
+原始ROM为日本版ROM，也可使用已经打好2.0.0及以后版本的补丁的ROM。
+
+如果你使用过日文宝可梦名字补丁，那么应用更新补丁时也会提示“原始ROM的MD5校验失败”，这是正常现象。
+
+##### 2. 如何获取ROM？
+
+如果你有正版卡带，请参照[这篇文章](https://haroohie.club/zh-hans/chokuretsu/guide/dumping-the-rom)提取ROM。
+
+##### 3. 正版卡带能否使用补丁？
+
+目前还没有能够给正版卡带打补丁的方式。你仍然需要提取ROM后对ROM打补丁，然后使用烧录卡或[TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu) 运行。采用TWiLight Menu++ 时，通过特定操作可以读写正版卡带的存档，请参照[这篇文章](https://bbs.oldmantvg.net/thread-22894.htm)。
+
+##### 4. 如何确定汉化修正版的版本？
+
+在标题屏幕上按 <kbd>↑ + SELECT + B</kbd>，即可查看汉化修正版的版本信息。注意这个组合按键实际上是删除保存数据的按键，如果你只是想查看版本信息，请务必不要误删存档。
+
+## 截图预览
+
+<div style="display: flex; flex-wrap: wrap;">
+{% include figure.html src="title-D.png" alt="《宝可梦 钻石》标题" %}
+{% include figure.html src="title-P.png" alt="《宝可梦 珍珠》标题" %}
+{% include figure.html src="title-Pt.png" alt="《宝可梦 白金》标题" %}
+{% include figure.html src="title-HG.png" alt="《宝可梦 心金》标题" %}
+{% include figure.html src="title-SS.png" alt="《宝可梦 魂银》标题" %}
+</div>
+
+## 进阶说明
+
+如果你有任何问题反馈、意见建议，请在网站评论区留言，或通过[Bilibili](https://space.bilibili.com/16114399)私信联系我。
+
+如果你想获取最新的汉化版本，可以访问[GitHub上的项目仓库](https://github.com/Xzonn/PokemonChineseTranslationRevise)。
+
+如果你希望自己处理文本、字库、替换narc中的文件，可以使用[我编写的命令行工具]({{ "Tools.html" | relative_url }})，或是使用[字库扩容补丁](https://xzonn.top/posts/Pokemon-Gen-4-Font-Patch.html)。

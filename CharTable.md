@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2025-06-08 23:57
+last_modified_at: 2025-08-24 01:00
 title: 码表及控制符说明
 ---
 ## 更新日志
@@ -45,8 +45,8 @@ title: 码表及控制符说明
 ## 各汉化版本的码表兼容性
 <table class="table table-bordered">
 <thead>
-<tr><th rowspan="2">语言</th><th rowspan="2">游戏</th><th rowspan="2">来源</th><th colspan="2">钻石／珍珠</th><th>白金／心金／魂银</th></tr>
-<tr><th>2.0.0 版及后续版本</th><th>0.9.0 版</th><th>所有版本</th></tr>
+<tr><th rowspan="2">语言</th><th colspan="2" rowspan="2">存档来源</th><th colspan="2">钻石／珍珠</th><th>白金／心金／魂银</th></tr>
+<tr><th>2.0.0 及以后版本</th><th>0.9.0 版</th><th>所有版本</th></tr>
 </thead>
 <tbody>
 <tr><td>日文</td><td colspan="2">任意游戏</td><td class="success">正常</td><td class="success">正常</td><td class="success">正常</td></tr>

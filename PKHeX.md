@@ -19,7 +19,7 @@ PKHeX项目GitHub地址：<https://github.com/kwsch/PKHeX>。
 
 ## 发布链接
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
-**[GitHub](https://github.com/Xzonn/PKHeX/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+**[GitHub](https://github.com/Xzonn/PKHeX/releases/latest/)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
 </div>
 
 {% include video.html aid="96227144" page="2" %}

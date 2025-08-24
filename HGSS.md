@@ -1,25 +1,34 @@
 ---
 is_patch: true
-last_modified_at: 2025-04-02 15:01
+last_modified_at: 2025-08-24 13:27
 title: 《宝可梦 心金／魂银》汉化修正补丁
 ---
 {% include figure.html src="3e6f40d11d826cc1f4babd1c5b2147b0.jpg" width="588" height="331" %}
 
 ## 发布链接
+
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
-**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest/)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
 </div>
 
-修正补丁使用方式已在压缩包中，也可参照[此视频](https://www.bilibili.com/video/BV1oH1xYXEdb/)。
+请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了Microsoft Windows平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
-日文版ROM的MD5校验码：
+软件使用视频教程：<https://www.bilibili.com/video/BV1oH1xYXEdb/?t=69>
 
-- [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168)：`e3f7933aee8cc2694629293f16c1c0a8`
-- [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169)：`a1211b2d44e551197712177e3d50b491`
+各版本ROM的MD5校验码：
+
+| 版本 | [《心金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4168) | [《魂银》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4169) |
+| ---- | ---- | ---- |
+| 日文原版 | `e3f7933aee8cc2694629293f16c1c0a8` | `a1211b2d44e551197712177e3d50b491` |
+| 2.0.0汉化修正版| `07fc5de0dd108469ca47734c004f3059` | `82c48bcb3bc987b577f341e60511b93b` |
+| 2.1.0汉化修正版| `e05ae6d7be450df85d6c992b367c5161` | `7062238e8d866bd439dd42dfdada9f41` |
+| 2.1.1汉化修正版| `4235f6e2a57e5d48761dd8adf06728b3` | `00fc0be9c07d2790e5b937b527e205ba` |
+{: .table }
 
 ## 修改内容
+
 - 标题图标改为“精灵宝可梦 心灵之金”“精灵宝可梦 灵魂之银”（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）。
-- 整合了宝可计步器汉化文本及汉化补丁（由 **OS** 翻译、**圈叉汉化组** 制作，**[发布链接](https://bbs.oldmanemu.net/thread-18167.htm)**）。
+- 整合了宝可计步器汉化文本及汉化补丁（由 **OS** 翻译、**圈叉汉化组** 制作，**[发布链接](https://bbs.oldmantvg.net/thread-18167.htm)**）。
 - 整合了第三、四世代汉化版中文字符转换程序（由 **圈叉汉化组** 制作，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
 - 整合了Wi-Fi Connection设置界面的汉化程序（由 **天涯**、**F君** 制作，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
 - 导入了一部分《宝可梦 晶灿钻石／明亮珍珠》的官方文本。
@@ -40,6 +49,12 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
 </div>
 
 ## 更新日志
+
+- 2.1.1（2025-08-25）：
+  - 修改了部分翻译。
+  - 修复了《心金／魂银》与宝可计步器连接的问题。
+  - 更新了Wi-Fi Connection设置界面的汉化。
+  - 修复了一些细节。
 - 2.1.0（2024-10-27）：
   - 整合了第三、四世代汉化版中文字符转换程序（感谢 **圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
   - 整合了Wi-Fi Connection设置界面的汉化程序（感谢 **天涯**、**F君** 汉化制作并允许本项目整合加入，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
@@ -56,7 +71,7 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
   - 修复了多处翻译不准确、不恰当的地方（非常感谢 **[爱儿aiko](https://space.bilibili.com/101749351)** 细心反馈并提出了很多修改建议）。
 - 1.5.0（2022-06-03）：
   - 导入部分《晶灿钻石／明亮珍珠》的译名。
-  - 整合了宝可计步器汉化文本及汉化补丁（感谢 **OS** 翻译、**圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmanemu.net/thread-18167.htm)**）。
+  - 整合了宝可计步器汉化文本及汉化补丁（感谢 **OS** 翻译、**圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-18167.htm)**）。
   - 版本号修改到初始菜单的神秘礼物中。
   - 其他部分修正。
 - 1.4.1（2021-06-28）：
@@ -79,13 +94,15 @@ title: 《宝可梦 心金／魂银》汉化修正补丁
   - 最初发布版本。
 
 ## 预览
-{% include figure.html src="ed366964bfaf73e862883782181a9ec1.png" alt="《宝可梦 心金》标题" %}
 
-{% include figure.html src="4664ff3f027ff954c174ed5d1ea2fd4e.png" alt="《宝可梦 魂银》标题" %}
-
-{% include figure.html src="f5bb8f665bcf1d57bdbe8bc191ac7b60.png" alt="宝可梦图鉴" %}
+<div style="display: flex; flex-wrap: wrap;">
+{% include figure.html src="title-HG.png" alt="《宝可梦 心金》标题" %}
+{% include figure.html src="title-SS.png" alt="《宝可梦 魂银》标题" %}
+{% include figure.html src="9541899781e79952151c312c60affbc1.png" alt="宝可计步器" %}
+</div>
 
 ## 致谢
+
 感谢 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。

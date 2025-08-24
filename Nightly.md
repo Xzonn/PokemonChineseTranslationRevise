@@ -1,6 +1,6 @@
 ---
 is_patch: true
-last_modified_at: 2025-03-08 14:45
+last_modified_at: 2025-08-24 01:01
 title: 开发版本补丁概述
 ---
 <div class="alert alert-danger" role="alert">
@@ -11,8 +11,3 @@ title: 开发版本补丁概述
 开发版本补丁仅提供GitHub链接，补丁内容会随着每次提交而更新。
 
 - GitHub：[开发版本](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/tag/dev-pub)。
-
-## 更新内容
-开发补丁相较于2.1.0版本有如下更新（将会作为下一次版本更新的内容）：
-
-- 修复部分对话框重叠的问题。

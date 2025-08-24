@@ -1,7 +1,7 @@
 {
   "name": "pctr",
   "version": "0.0.1",
-  "description": "任天堂开发者访谈保存计划",
+  "description": "《宝可梦》第四世代汉化修正",
   "main": "index.html",
   "dependencies": {
     "less": "^4.1.1",

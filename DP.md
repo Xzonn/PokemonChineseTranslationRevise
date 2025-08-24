@@ -1,23 +1,32 @@
 ---
 is_patch: true
-last_modified_at: 2025-04-02 15:01
+last_modified_at: 2025-08-24 13:27
 title: 《宝可梦 钻石／珍珠》汉化修正补丁
 ---
 {% include figure.html src="9938f0f795848274294631bb0d8fa323.jpg" width="588" height="331" %}
 
 ## 发布链接
+
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
-**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest/)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
 </div>
 
-修正补丁使用方式已在压缩包中，也可参照[此视频](https://www.bilibili.com/video/BV1oH1xYXEdb/)。
+请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了Microsoft Windows平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
-日文版ROM的MD5校验码：
+软件使用视频教程：<https://www.bilibili.com/video/BV1oH1xYXEdb/?t=69>
 
-- [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641)：`c1d66b8d4fbdbfa57ff4868970fe19d2`
-- [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929)：`751d4a0524e4ef38b153ccfb5d21271f`
+各版本ROM的MD5校验码：
+
+| 版本 | [《钻石》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=6641) | [《珍珠》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=4929) |
+| ---- | ---- | ---- |
+| 日文原版 | `c1d66b8d4fbdbfa57ff4868970fe19d2` | `751d4a0524e4ef38b153ccfb5d21271f` |
+| 2.0.0汉化修正版| `f37cd0f5272bfa69eb2ff58e45dfaf12` | `af267e681450da50211e9a248880fb5d` |
+| 2.1.0汉化修正版| `4c7e59ae195b2cc6bc8c775494d0a368` | `0123272633759abad2150ea614fc9ddf` |
+| 2.1.1汉化修正版| `d833434320777e80e70c93d57e058f32` | `580177a6997b003a7eb18ac43ecbaefd` |
+{: .table }
 
 ## 修改内容
+
 - 标题图标改为“精灵宝可梦 钻石”“精灵宝可梦 珍珠”（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）。
 - 整合了第三、四世代汉化版中文字符转换程序（由 **圈叉汉化组** 制作，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
 - 整合了Wi-Fi Connection设置界面的汉化程序（由 **天涯**、**F君** 制作，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
@@ -37,6 +46,12 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
 </div>
 
 ## 更新日志
+
+- 2.1.1（2025-08-25）：
+  - 修改了部分翻译。
+  - 更新了Wi-Fi Connection设置界面的汉化。
+  - 添加了对《钻石／珍珠》Rev 0和Rev 5版本的支持。
+  - 修复了一些细节。
 - 2.1.0（2024-10-27）：
   - 整合了第三、四世代汉化版中文字符转换程序（感谢 **圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
   - 整合了Wi-Fi Connection设置界面的汉化程序（感谢 **天涯**、**F君** 汉化制作并允许本项目整合加入，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
@@ -57,11 +72,15 @@ title: 《宝可梦 钻石／珍珠》汉化修正补丁
   - 最初发布版本。
 
 ## 预览
-{% include figure.html src="040c99ebeb494d5b5bfe10fc4bdb1d52.png" alt="《宝可梦 钻石》标题" %}
 
-{% include figure.html src="7cf85ec45232b9930b9359268c6bd767.png" alt="《宝可梦 珍珠》标题" %}
+<div style="display: flex; flex-wrap: wrap;">
+{% include figure.html src="title-D.png" alt="《宝可梦 钻石》标题" %}
+{% include figure.html src="title-P.png" alt="《宝可梦 珍珠》标题" %}
+{% include figure.html src="c348b6da9ae9feacef723f6183c7f04c.png" alt="训练家卡" %}
+</div>
 
 ## 致谢
+
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。
 
 感谢原汉化组：YYJoy汉化组，正是他们的不懈努力，让玩家能在没有官方中文的条件下仍能够没有语言障碍地游玩宝可梦游戏。

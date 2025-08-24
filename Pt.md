@@ -1,22 +1,32 @@
 ---
 is_patch: true
-last_modified_at: 2025-04-02 15:01
+last_modified_at: 2025-08-24 13:27
 title: 《宝可梦 白金》汉化修正补丁
 ---
 {% include figure.html src="efdd474ffac175997868fa704bdc063e.jpg" width="588" height="331" %}
 
 ## 发布链接
+
 <div class="alert alert-info text-center" role="alert" markdown="1" style="font-size: 2rem;">
-**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
+**[GitHub](https://github.com/Xzonn/PokemonChineseTranslationRevise/releases/latest/)·[百度网盘](https://pan.baidu.com/s/1tLhRCJjMfZJuxZSvD4I1GQ?pwd=pkmn)**
 </div>
 
-修正补丁使用方式已在压缩包中，也可参照[此视频](https://www.bilibili.com/video/BV1oH1xYXEdb/)。
+请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了Microsoft Windows平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
-日文版ROM的MD5校验码：
+软件使用视频教程：<https://www.bilibili.com/video/BV1oH1xYXEdb/?t=69>
 
-- [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641)：`8271f64f5c7fb299adf937a8be6d8c88`
+各版本ROM的MD5校验码：
+
+| 版本 | [《白金》](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=2641) |
+| ---- | ---- | ---- |
+| 日文原版 | `8271f64f5c7fb299adf937a8be6d8c88` |
+| 2.0.0汉化修正版| `4133c9053a5fe47b815184e0e725671e` |
+| 2.1.0汉化修正版| `38b985d314db90efc9a174a63e7d6d5c` |
+| 2.1.1汉化修正版| `203b3fe94134406db7681ea51af5fd0f` |
+{: .table }
 
 ## 修改内容
+
 - 标题图标改为“精灵宝可梦 白金”（由 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作）。
 - 整合了第三、四世代汉化版中文字符转换程序（由 **圈叉汉化组** 制作，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
 - 整合了Wi-Fi Connection设置界面的汉化程序（由 **天涯**、**F君** 制作，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
@@ -37,6 +47,11 @@ title: 《宝可梦 白金》汉化修正补丁
 </div>
 
 ## 更新日志
+
+- 2.1.1（2025-08-25）：
+  - 修改了部分翻译。
+  - 更新了Wi-Fi Connection设置界面的汉化。
+  - 修复了一些细节。
 - 2.1.0（2024-10-27）：
   - 整合了第三、四世代汉化版中文字符转换程序（感谢 **圈叉汉化组** 制作并允许本项目整合加入，**[发布链接](https://bbs.oldmantvg.net/thread-44009.htm)**）。
   - 整合了Wi-Fi Connection设置界面的汉化程序（感谢 **天涯**、**F君** 汉化制作并允许本项目整合加入，**[发布链接](https://github.com/R-YaTian/DS-Internet-CHS)**）。
@@ -77,13 +92,15 @@ title: 《宝可梦 白金》汉化修正补丁
   - 最初发布版本。
 
 ## 预览
-{% include figure.html src="7dc3f1452c6bd5c7779686929f96a6bc.png" alt="《宝可梦 白金》标题" %}
 
-{% include figure.html src="963793c79538e2cd529d57d3604f9a54.png" alt="宝可梦图鉴列表" %}
-
-{% include figure.html src="ea402e21fcae399bdf8a1bd137cfed09.png" alt="宝可梦图鉴介绍" %}
+<div style="display: flex; flex-wrap: wrap;">
+{% include figure.html src="title-Pt.png" alt="《宝可梦 白金》标题" %}
+{% include figure.html src="953bc2bd9b1f4e47d006d16d51a726eb.png" alt="宝可梦图鉴列表" %}
+{% include figure.html src="4602d59f4207eb6fee356575a2fec45a.png" alt="宝可梦图鉴介绍" %}
+</div>
 
 ## 致谢
+
 感谢 **[大神丶橡皮](https://tieba.baidu.com/home/main?un=%E5%A4%A7%E7%A5%9E%E4%B8%B6%E6%A9%A1%E7%9A%AE&ie=utf-8)** 制作并授权本人使用标题图标，原始发布地址：<https://tieba.baidu.com/p/4518179164?see_lz=1>。
 
 感谢开发商：Game Freak以及发行商：The Pokémon Company、任天堂，正是他们的辛勤工作才让我们在丰富的宝可梦游戏世界中探索。
