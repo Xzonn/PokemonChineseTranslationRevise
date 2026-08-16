@@ -3,20 +3,41 @@
 
 #define IMPORT __attribute__((naked))
 
-#define NAMEIN_PROC_MAIN_SLOT 0x020F2440
-#define NAMEIN_PROC_END_SLOT 0x020F2444
-#define STR_NAME_TABLE 0x02100048
+extern u8 NameInProcMainSlot[];
+extern u8 NameInProcEndSlot[];
+extern u8 StrNameTable[];
+extern u8 NameInProcMainPreHook[];
 
+#ifndef WORK_WORDMAP_OFFSET
 #define WORK_WORDMAP_OFFSET 0x03A
+#endif
+#ifndef WORK_CURSOR_X_OFFSET
 #define WORK_CURSOR_X_OFFSET 0x01C
+#endif
+#ifndef WORK_CURSOR_Y_OFFSET
 #define WORK_CURSOR_Y_OFFSET 0x020
+#endif
+#ifndef WORK_CURSOR_ON_OFFSET
 #define WORK_CURSOR_ON_OFFSET 0x030
+#endif
+#ifndef WORK_INPUT_OFFSET
 #define WORK_INPUT_OFFSET 0x0D8
+#endif
+#ifndef WORK_NOW_INPUT_OFFSET
 #define WORK_NOW_INPUT_OFFSET 0x158
+#endif
+#ifndef WORK_NAMELINE_OFFSET
 #define WORK_NAMELINE_OFFSET 0x364
+#endif
+#ifndef WORK_WINDOWS_OFFSET
 #define WORK_WINDOWS_OFFSET 0x3B8
+#endif
+#ifndef WORK_MODE_OFFSET
 #define WORK_MODE_OFFSET 0x460
+#endif
+#ifndef WORK_BGCHAR_OFFSET
 #define WORK_BGCHAR_OFFSET 0x4B0
+#endif
 
 #define WINDOW_SIZE 0x10
 #define WINDOW_WORDPANEL0 0
@@ -143,7 +164,7 @@ static int DecodeLatin(u16 code, u8 *letter)
 
 static void CaptureRetailTables(void)
 {
-    const u16 **nameTables = (const u16 **)STR_NAME_TABLE;
+    const u16 **nameTables = (const u16 **)StrNameTable;
     int i;
 
     if (sRetailTablesCaptured)
@@ -160,7 +181,7 @@ static void CaptureRetailTables(void)
 
 static void InstallDynamicTables(void)
 {
-    const u16 **nameTables = (const u16 **)STR_NAME_TABLE;
+    const u16 **nameTables = (const u16 **)StrNameTable;
     int i;
 
     /* Pinyin owns tab 0; tab 1 switches between the two retail kana tables. */
@@ -487,12 +508,12 @@ static int Hook_NameInProc_End(u32 proc, int *seq)
 
 void NativeNameIn_Install(void)
 {
-    void **mainSlot = (void **)NAMEIN_PROC_MAIN_SLOT;
-    void **endSlot = (void **)NAMEIN_PROC_END_SLOT;
+    void **mainSlot = (void **)NameInProcMainSlot;
+    void **endSlot = (void **)NameInProcEndSlot;
 
     NativePinyin_Init();
     CaptureRetailTables();
-    if ((u32)*mainSlot == ((u32)NameInProc_Main | 1))
+    if ((u32)*mainSlot == (u32)NameInProcMainPreHook)
     {
         *mainSlot = Hook_NameInProc_Main;
     }

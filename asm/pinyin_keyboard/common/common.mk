@@ -9,7 +9,7 @@ include $(COMMON_DIR)/config.mk
 OUTPUT_ELF = $(OUTPUT).elf
 OUTPUT_BIN = $(OUTPUT).bin
 
-SYMBOLS_LD := $(COMMON_DIR)/symbols.ld
+SYMBOLS_LD := $(COMMON_DIR)/$(SYMBOLS_FILE)
 
 PREFIX  := $(DEVKITARM)/bin/arm-none-eabi-
 CC      := $(PREFIX)gcc
@@ -22,7 +22,7 @@ CC1     := $(shell $(CC) --print-prog-name=cc1) -quiet
 CPP     := $(PREFIX)cpp
 AR      := $(PREFIX)ar
 
-OBJ_DIR  := $(COMMON_DIR)/../build
+OBJ_DIR  := $(COMMON_DIR)/../build_$(GAME)
 
 LIBPATH := -L $(DEVKITARM)/../libnds/lib -L $(DEVKITARM)/../calico/lib -L "$(dir $(shell $(CC) -print-file-name=libgcc.a))" -L "$(dir $(shell $(CC) -print-file-name=libnosys.a))" -L "$(dir $(shell $(CC) -print-file-name=libc.a))"
 LIBS	:= $(LIBPATH) -lnds9 -lcalico_ds9 -lc -lgcc

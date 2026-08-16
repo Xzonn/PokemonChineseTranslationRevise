@@ -10,13 +10,13 @@ OUTPUT_SYM := ../$(OUTPUT).sym
 
 INC_DIRS := include $(COMMON_INC_DIRS)
 
-C_SRCS  := src/native_namein.c src/native_pinyin.c src/overlay_entry.c
-ASM_SRCS:= src/embedded_resources.S src/misc.S
+C_SRCS  := $(PINYIN_SOURCE_DIR)/native_namein.c $(PINYIN_SOURCE_DIR)/native_pinyin.c $(PINYIN_SOURCE_DIR)/overlay_entry.c
+ASM_SRCS:= $(PINYIN_SOURCE_DIR)/embedded_resources.S $(PINYIN_SOURCE_DIR)/misc.S
 C_OBJS  := $(C_SRCS:%.c=$(OBJ_DIR)/%.o)
 ASM_OBJS:= $(ASM_SRCS:%.S=$(OBJ_DIR)/%.o)
 OBJS    := $(C_OBJS) $(ASM_OBJS)
 
-ALL_OBJS := $(OBJS) $(NITRO_LIB_OBJS)
+ALL_OBJS := $(OBJS)
 DEPS   := $(ALL_OBJS:%.o=%.d)
 
 COMPILE_MODE := -mthumb
@@ -41,8 +41,8 @@ $(OBJ_DIR)/%.o: %.c
 $(OBJ_DIR)/%.o: %.S
 	$(CC) -D__ASSEMBLY__ $(CFLAGS) -c $< -o $@
 
-$(OUTPUT_ELF): $(OBJS) $(NITRO_LIB) linker.ld $(SYMBOLS_LD)
-	$(LD) $(LDFLAGS) -o $@ $(OBJS) $(NITRO_LIB) $(LIBS)
+$(OUTPUT_ELF): $(OBJS) linker.ld $(SYMBOLS_LD)
+	$(LD) $(LDFLAGS) -o $@ $(OBJS) $(LIBS)
 
 $(OUTPUT_BIN): $(OUTPUT_ELF)
 	$(OBJCOPY) --set-section-flags .init_functions=alloc,load,contents -O binary $< $@

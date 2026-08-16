@@ -3,7 +3,7 @@
 
 include ../common/common.mk
 
-OUTPUT     := overlay_ldr
+OUTPUT     := $(OVERLAY_LDR_NAME)
 OUTPUT_ELF := ../$(OUTPUT).elf
 OUTPUT_BIN := ../$(OUTPUT).bin
 OUTPUT_SYM := ../$(OUTPUT).sym
@@ -16,7 +16,7 @@ C_OBJS  := $(C_SRCS:%.c=$(OBJ_DIR)/%.o)
 ASM_OBJS:= $(ASM_SRCS:%.S=$(OBJ_DIR)/%.o)
 OBJS    := $(C_OBJS) $(ASM_OBJS)
 
-ALL_OBJS := $(OBJS) $(NITRO_LIB_OBJS)
+ALL_OBJS := $(OBJS)
 DEPS   := $(ALL_OBJS:%.o=%.d)
 
 CFLAGS	:= -g -w -Os -std=gnu99 -ffreestanding -mabi=aapcs -march=armv5te -mthumb -mtune=arm946e-s -mthumb-interwork $(foreach dir,$(INC_DIRS),-I $(dir)) -DOVERLAY_ID=$(OVERLAY_ID) -DARM9=1 -D__NDS__ -DNITROSDK_VER=$(NITROSDK_VER)
@@ -37,8 +37,8 @@ $(OBJ_DIR)/%.o: %.c
 $(OBJ_DIR)/%.o: %.S
 	$(CC) -D__ASSEMBLY__ $(CFLAGS) -c $< -o $@
 
-$(OUTPUT_ELF): $(OBJS) $(NITRO_LIB) linker.ld $(SYMBOLS_LD)
-	$(LD) $(LDFLAGS) -o $@ $(OBJS) $(NITRO_LIB) $(LIBS)
+$(OUTPUT_ELF): $(OBJS) linker.ld $(SYMBOLS_LD)
+	$(LD) $(LDFLAGS) -o $@ $(OBJS) $(LIBS)
 
 $(OUTPUT_BIN): $(OUTPUT_ELF)
 	$(OBJCOPY) --set-section-flags .bss=alloc,load,contents -O binary $< $@

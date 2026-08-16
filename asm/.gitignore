@@ -1,6 +1,7 @@
 build/
 *.bin
-!Pt/pinyin_keyboard/overlay/src/pinyin_table.bin
 *.elf
 *.sym
 newcode.*
+*.d
+*.o

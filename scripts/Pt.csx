@@ -33,7 +33,7 @@ void BuildPinyinKeyboard()
   ProcessStartInfo psi = new()
   {
     FileName = "make",
-    Arguments = "-C asm/Pt/pinyin_keyboard",
+    Arguments = "-C asm/pinyin_keyboard GAME=Pt",
     UseShellExecute = false,
     RedirectStandardError = true,
     RedirectStandardOutput = true,
@@ -79,9 +79,14 @@ void WriteThumbBl(byte[] data, uint sourceAddress, uint targetAddress, byte[] ex
 }
 
 BuildPinyinKeyboard();
-var pinyinOverlaySymbols = ReadNmSymbols("asm/Pt/pinyin_keyboard/overlay_0000.sym");
-var pinyinLoaderSymbols = ReadNmSymbols("asm/Pt/pinyin_keyboard/overlay_ldr.sym");
-var pinyinOverlayBinary = File.ReadAllBytes("asm/Pt/pinyin_keyboard/overlay_0000.bin");
+var pinyinOverlaySymbols = ReadNmSymbols("asm/pinyin_keyboard/pt_overlay_0000.sym");
+var pinyinLoaderSymbols = ReadNmSymbols("asm/pinyin_keyboard/pt_overlay_ldr.sym");
+var pinyinOverlayBinary = File.ReadAllBytes("asm/pinyin_keyboard/pt_overlay_0000.bin");
+if ((pinyinOverlaySymbols["NameInProc_Main"] | 1) !=
+    pinyinOverlaySymbols["NameInProcMainPreHook"])
+{
+  throw new Exception("Pt pre-hook symbol does not match the retail NameInProc_Main callback.");
+}
 if (pinyinOverlayBinary.Length != pinyinOverlaySymbols["__ram_size__"])
 {
   throw new Exception(
@@ -160,7 +165,7 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   SortEasyChatWords(ref arm9, 0xf7044, easyChatWordsArray);
 
   // Install the pinyin overlay loader into a verified free area in ARM9.
-  var pinyinLoader = File.ReadAllBytes("asm/Pt/pinyin_keyboard/overlay_ldr.bin");
+  var pinyinLoader = File.ReadAllBytes("asm/pinyin_keyboard/pt_overlay_ldr.bin");
   if (pinyinLoader.Length > 0x12C)
   {
     throw new Exception($"Pinyin overlay loader is too large: 0x{pinyinLoader.Length:X} > 0x12C.");
