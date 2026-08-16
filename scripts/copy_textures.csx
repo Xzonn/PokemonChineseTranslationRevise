@@ -23,7 +23,6 @@ for (int from = 155; from <= 177; from++)
 CopyFolder("textures/DP/contest/graphic/contest_bg.narc/", "textures/Pt/contest/graphic/contest_bg.narc/");
 CopyFolder("textures/DP/contest/graphic/contest_obj.narc/", "textures/Pt/contest/graphic/contest_obj.narc/");
 
-CopyFolder("textures/DP/data/namein.narc/", "textures/Pt/data/namein.narc/");
 CopyFolder("textures/DP/data/slot.narc/", "textures/Pt/data/slot.narc/");
 
 CopyFolder("textures/DP/graphic/bag_gra.narc/", "textures/Pt/graphic/bag_gra.narc/");
