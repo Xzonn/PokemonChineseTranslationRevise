@@ -6,6 +6,7 @@ ENTRY(_start)
 SECTIONS
 {
         .text : {
+            *src/*.o(.text.loader_entry)
             *src/*.o(.text*)
         }
         . = ALIGN(4);

@@ -12,11 +12,12 @@ void LoadOverlay();
 
 typedef int (*NameInMainFunc)(u32 proc, int *seq);
 extern int NameInProc_Main(u32 proc, int *seq);
-extern u8 NameInProcMainSlot[];
+extern NameInMainFunc NameInProcMainSlot;
 
+__attribute__((section(".text.loader_entry")))
 int NativeNameIn_LazyMain(u32 proc, int *seq)
 {
-    NameInMainFunc *slot = (NameInMainFunc *)NameInProcMainSlot;
+    NameInMainFunc *slot = &NameInProcMainSlot;
     /* PROC caches this callback when it is created.  Loading the overlay can
      * replace the global procedure table, but it cannot replace the callback
      * already held by the current PROC.  Therefore every frame must dispatch
@@ -24,13 +25,15 @@ int NativeNameIn_LazyMain(u32 proc, int *seq)
     if (*slot == NativeNameIn_LazyMain)
     {
         FS_LoadOverlay(0, OVERLAY_ID);
-        /* Do not enter freshly loaded overlay code from inside the loader's
-         * first callback.  Let the retail state machine advance this frame;
-         * the cached lazy callback dispatches through the patched slot on the
-         * next frame. */
-        return NameInProc_Main(proc, seq);
     }
-    return (*slot)(proc, seq);
+    /* The overlay initializer replaces the table entry with the real hook.
+     * Enter it immediately so BeginContext runs before any patched decision
+     * call site in the retail main routine can be reached. */
+    if (*slot != NativeNameIn_LazyMain)
+    {
+        return (*slot)(proc, seq);
+    }
+    return NameInProc_Main(proc, seq);
 }
 void (*const OverlayStaticInitFunc)() = LoadOverlay;
 
