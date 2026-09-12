@@ -4,9 +4,9 @@
 include ../common/common.mk
 
 OUTPUT     := $(OVERLAY_LDR_NAME)
-OUTPUT_ELF := ../$(OUTPUT).elf
-OUTPUT_BIN := ../$(OUTPUT).bin
-OUTPUT_SYM := ../$(OUTPUT).sym
+OUTPUT_ELF := $(BUILD_DIR)/$(OUTPUT).elf
+OUTPUT_BIN := $(BUILD_DIR)/$(OUTPUT).bin
+OUTPUT_SYM := $(BUILD_DIR)/$(OUTPUT).sym
 INC_DIRS := include $(COMMON_INC_DIRS)
 
 

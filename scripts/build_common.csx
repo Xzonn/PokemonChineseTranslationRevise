@@ -84,10 +84,10 @@ void WriteThumbBl(byte[] data, uint sourceAddress, uint targetAddress, byte[] ex
 (Dictionary<string, uint> overlaySymbols, Dictionary<string, uint> loaderSymbols,
  byte[] overlayBinary, byte[] loaderBinary) LoadPinyinKeyboard(string overlayName, string loaderName)
 {
-  var pinyinOverlaySymbols = ReadNmSymbols($"asm/pinyin_keyboard/{overlayName}.sym");
-  var pinyinLoaderSymbols = ReadNmSymbols($"asm/pinyin_keyboard/{loaderName}.sym");
-  var pinyinOverlayBinary = File.ReadAllBytes($"asm/pinyin_keyboard/{overlayName}.bin");
-  var pinyinLoaderBinary = File.ReadAllBytes($"asm/pinyin_keyboard/{loaderName}.bin");
+  var pinyinOverlaySymbols = ReadNmSymbols($"asm/pinyin_keyboard/build/{overlayName}.sym");
+  var pinyinLoaderSymbols = ReadNmSymbols($"asm/pinyin_keyboard/build/{loaderName}.sym");
+  var pinyinOverlayBinary = File.ReadAllBytes($"asm/pinyin_keyboard/build/{overlayName}.bin");
+  var pinyinLoaderBinary = File.ReadAllBytes($"asm/pinyin_keyboard/build/{loaderName}.bin");
   if (pinyinOverlayBinary.Length != pinyinOverlaySymbols["__ram_size__"])
   {
     throw new Exception("Pinyin overlay file/RAM size mismatch.");
@@ -110,10 +110,6 @@ void PrepareBuild(string parentGame, string gameCode)
       }
       catch { }
     }
-  }
-  foreach (var path in Directory.EnumerateFiles($"asm/{parentGame}", "repl_*"))
-  {
-    File.Delete(path);
   }
 }
 

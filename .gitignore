@@ -4,7 +4,6 @@ temp/
 
 *.bak
 *.nds
-asm/pinyin_keyboard/build_*/
 *.zip
 
 messages.txt

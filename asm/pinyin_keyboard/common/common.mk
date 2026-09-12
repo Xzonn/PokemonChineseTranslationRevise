@@ -22,7 +22,8 @@ CC1     := $(shell $(CC) --print-prog-name=cc1) -quiet
 CPP     := $(PREFIX)cpp
 AR      := $(PREFIX)ar
 
-OBJ_DIR  := $(COMMON_DIR)/../build_$(GAME)
+BUILD_DIR := $(COMMON_DIR)/../build
+OBJ_DIR  := $(BUILD_DIR)/$(GAME)
 
 LIBPATH := -L $(DEVKITARM)/../libnds/lib -L $(DEVKITARM)/../calico/lib -L "$(dir $(shell $(CC) -print-file-name=libgcc.a))" -L "$(dir $(shell $(CC) -print-file-name=libnosys.a))" -L "$(dir $(shell $(CC) -print-file-name=libc.a))"
 LIBS	:= $(LIBPATH) -lnds9 -lcalico_ds9 -lc -lgcc

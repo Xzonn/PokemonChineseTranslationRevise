@@ -1,7 +1,1 @@
 build/
-*.bin
-*.elf
-*.sym
-newcode.*
-*.d
-*.o
