@@ -11,7 +11,8 @@ extern void (*Orig_OverlayStaticInitEnd[])();
 void LoadOverlay();
 
 typedef int (*NameInMainFunc)(u32 proc, int *seq);
-extern int NameInProc_Main(u32 proc, int *seq);
+/* Mark this absolute linker import as Thumb, as in native_namein.c. */
+__attribute__((naked)) int NameInProc_Main(u32 proc, int *seq) {}
 extern NameInMainFunc NameInProcMainSlot;
 
 __attribute__((section(".text.loader_entry")))

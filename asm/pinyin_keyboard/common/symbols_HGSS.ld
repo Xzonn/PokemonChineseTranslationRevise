@@ -13,7 +13,7 @@ NameInProcEndSlot = 0x02101D98;
 StrNameTable = 0x0210FA2C;
 NameInProcMainPreHook = 0x021082C0|1;
 
-/* HGSS lazy-loader import. */
+/* HGSS loader-host overlay imports. */
 FS_LoadOverlay = 0x020D85D8;
 Orig_OverlayStaticInitBegin = 0;
 Orig_OverlayStaticInitEnd = 0;

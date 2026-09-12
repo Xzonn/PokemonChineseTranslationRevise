@@ -18,7 +18,17 @@ INJECT_OVERLAY_ID := -1
 IS_NITROSDK_THUMB := 0
 NITROSDK_VER := 0x0402
 SYMBOLS_FILE := symbols_HGSS.ld
+else ifneq ($(filter $(GAME),D P),)
+OVERLAY_ID := 0
+OVERLAY_ADDR := 0x02264840
+OVERLAY_NAME := $(GAME)_overlay_0000
+OVERLAY_LDR_ADDR := 0x022647C0
+OVERLAY_LDR_NAME := $(GAME)_overlay_ldr
+INJECT_OVERLAY_ID := -1
+IS_NITROSDK_THUMB := 0
+NITROSDK_VER := 0x0301
+SYMBOLS_FILE := symbols_$(GAME).ld
 else
-$(error Unsupported GAME '$(GAME)'; expected Pt or HGSS)
+$(error Unsupported GAME '$(GAME)'; expected Pt, HGSS, D or P)
 endif
 PINYIN_SOURCE_DIR := src
