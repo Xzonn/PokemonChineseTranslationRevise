@@ -1,8 +1,23 @@
 #!/usr/bin/env dotnet-script
 #r "nuget: NitroHelper, 0.12.2"
-#load "lib.csx"
+#load "build_common.csx"
 
 using NitroHelper;
+
+const uint PINYIN_OVERLAY_ADDRESS = 0x0226FFC0;
+const int PINYIN_OVERLAY_ID = 0;
+const int PINYIN_LOADER_HOST_OVERLAY_ID = 60;
+const uint PINYIN_LOADER_ADDRESS = 0x020F8834;
+const uint ARENA_LO_POINTER_ADDRESS = 0x020C27AC;
+
+BuildPinyinKeyboard("Pt");
+var (pinyinOverlaySymbols, pinyinLoaderSymbols, pinyinOverlayBinary, pinyinLoaderBinary) =
+  LoadPinyinKeyboard("pt_overlay_0000", "pt_overlay_ldr");
+if ((pinyinOverlaySymbols["NameInProc_Main"] | 1) !=
+    pinyinOverlaySymbols["NameInProcMainPreHook"])
+{
+  throw new Exception("Pt pre-hook symbol does not match the retail NameInProc_Main callback.");
+}
 
 var GAME_CODE_TO_TITLE = new Dictionary<string, string>
 {
@@ -31,34 +46,13 @@ foreach (var id in easyChatWordsIds)
 
 foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 {
-  Directory.CreateDirectory($"out/{gameCode}/data/");
-  Directory.CreateDirectory($"out/{gameCode}/overlay/");
-  if (Directory.Exists("asm/Pt/build"))
-  {
-    while (true)
-    {
-      try
-      {
-        Directory.Delete("asm/Pt/build", true);
-        break;
-      }
-      catch { }
-    }
-  }
-  foreach (var path in Directory.EnumerateFiles("asm/Pt", "repl_*"))
-  {
-    File.Delete(path);
-  }
+  PrepareBuild("Pt", gameCode);
 
   // Edit arm9.bin
   var arm9 = File.ReadAllBytes($"original_files/Pt/{gameCode}/arm9.bin");
   Dictionary<string, string> symbols = new();
 
-  foreach (var folder in Directory.EnumerateDirectories("asm/Pt/replSource/"))
-  {
-    int address = Convert.ToInt32(Path.GetFileName(folder), 16);
-    Compile(ref arm9, ref symbols, address, "Pt", gameCode);
-  }
+  CompileArm9(ref arm9, ref symbols, "Pt", gameCode);
 
   // Sort easy chat words
   var easyChatWordsArray = easyChatWords.ToArray();
@@ -73,34 +67,42 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   File.WriteAllLines($"out/Aikotoba-Pt.txt", aikotobaList);
   SortEasyChatWords(ref arm9, 0xf7044, easyChatWordsArray);
 
+  // Install the pinyin overlay loader into a verified free area in ARM9.
+  InstallPinyinLoader(arm9, PINYIN_LOADER_ADDRESS, pinyinLoaderBinary);
+
+  // Route A, touch, B, and R decisions through the semantic input hook.
+  var decideHook = pinyinOverlaySymbols["NativeNameIn_DecideMainButton"];
+  WriteThumbBl(arm9, 0x020866B2, decideHook, new byte[] { 0x01, 0xF0, 0x7F, 0xFD });
+  WriteThumbBl(arm9, 0x020866DA, decideHook, new byte[] { 0x01, 0xF0, 0x6B, 0xFD });
+  WriteThumbBl(arm9, 0x020866F2, decideHook, new byte[] { 0x01, 0xF0, 0x5F, 0xFD });
+  WriteThumbBl(arm9, 0x02086704, decideHook, new byte[] { 0x01, 0xF0, 0x56, 0xFD });
+
+  // Reserve the overlay and its BSS at the bottom of the SDK arena.
+  ReservePinyinArena(arm9, ARENA_LO_POINTER_ADDRESS, PINYIN_OVERLAY_ADDRESS,
+    PINYIN_OVERLAY_ADDRESS, pinyinOverlaySymbols);
+
   File.WriteAllBytes($"out/{gameCode}/arm9.bin", arm9);
   Console.WriteLine($"Edited: arm9.bin");
 
   // Edit overlay files
-  var overlay9Table = new OverlayTable($"original_files/Pt/{gameCode}/overarm9.bin", 0, (uint)new FileInfo($"original_files/Pt/{gameCode}/overarm9.bin").Length, true);
-  for (int i = 0; i < overlay9Table.overlayTable.Count; i++)
-  {
-    if (!Directory.Exists($"asm/Pt/overlay_{i:D4}")) { continue; }
-    var overlay = File.ReadAllBytes($"original_files/Pt/{gameCode}/overlay/overlay_{i:D4}.bin");
-    var ramAddress = overlay9Table.overlayTable[i].ramAddress;
-    foreach (var folder in Directory.EnumerateDirectories($"asm/Pt/overlay_{i:D4}/"))
-    {
-      var address = Convert.ToInt32(Path.GetFileName(folder), 16);
-      Compile(ref overlay, ref symbols, address, "Pt", gameCode, $"overlay_{i:D4}", ramAddress);
-    }
-    File.WriteAllBytes($"out/{gameCode}/overlay/overlay_{i:D4}.bin", overlay);
-    Console.WriteLine($"Edited: overlay_{i:D4}.bin");
-  }
+  CompileOverlays(ref symbols, "Pt", gameCode);
+  WritePinyinOverlay(gameCode, PINYIN_OVERLAY_ID, pinyinOverlayBinary);
 
   File.WriteAllText($"out/{gameCode}/symbols.txt", string.Join('\n', symbols.Select(x => $"{x.Key} = 0x{x.Value};")));
 
   // Edit overarm9.bin
-  using var overarm9Stream = File.OpenRead($"original_files/Pt/{gameCode}/overarm9.bin");
-  var overarm9 = new OverlayTable(overarm9Stream, 0, (uint)overarm9Stream.Length, true);
-  overarm9.overlayTable[97].ramSize = (uint)File.ReadAllBytes($"out/{gameCode}/overlay/overlay_0097.bin").Length;
-  using var outputStream = new MemoryStream();
-  overarm9.WriteTo(outputStream);
-  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", outputStream.ToArray()[..(0x20 * overarm9.overlayTable.Count)]);
+  var overarm9Bytes = ReadOverlayTable("Pt", gameCode, 97);
+
+  // Reuse the retail test overlay (ID 0), so the .xzp only replaces existing ROM files.
+  WritePinyinOverlayTable(overarm9Bytes, PINYIN_OVERLAY_ID, PINYIN_OVERLAY_ADDRESS, pinyinOverlaySymbols);
+
+  // Run the loader from the game-start overlay, then preserve its original initializer.
+  var hostEntryOffset = PINYIN_LOADER_HOST_OVERLAY_ID * 0x20;
+  var loaderInit = pinyinLoaderSymbols["OverlayStaticInitFunc"];
+  WriteUInt32(overarm9Bytes, hostEntryOffset + 0x10, loaderInit);
+  WriteUInt32(overarm9Bytes, hostEntryOffset + 0x14, loaderInit + sizeof(uint));
+
+  File.WriteAllBytes($"out/{gameCode}/overarm9.bin", overarm9Bytes);
   Console.WriteLine($"Edited: overarm9.bin");
 
   EditBanner("Pt", gameCode, GAME_CODE_TO_TITLE[gameCode]);
