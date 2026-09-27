@@ -127,4 +127,6 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
 
   // Copy md5.txt
   File.Copy($"original_files/DP/{gameCode}/md5.txt", $"out/{gameCode}/md5.txt", true);
+  File.Copy($"original_files/DP/{gameCode}/metadata.json", $"out/{gameCode}/metadata.json", true);
+  File.Copy($"original_files/DP/{gameCode}/README.md", $"out/{gameCode}/README.md", true);
 }
