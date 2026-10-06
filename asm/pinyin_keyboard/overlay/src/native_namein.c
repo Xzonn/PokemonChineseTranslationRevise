@@ -323,7 +323,8 @@ static void NormalizeCursor(void *work)
         }
         else
         {
-            *y = 2;
+            *x = 0;
+            *y = 1;
         }
         CursorAppearUpDate(work, 0);
     }
