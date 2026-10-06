@@ -77,6 +77,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   WriteThumbBl(arm9, 0x020866F2, decideHook, new byte[] { 0x01, 0xF0, 0x5F, 0xFD });
   WriteThumbBl(arm9, 0x02086704, decideHook, new byte[] { 0x01, 0xF0, 0x56, 0xFD });
 
+  var cursorHook = pinyinOverlaySymbols["NativeNameIn_CursorMove"];
+  WriteThumbBl(arm9, 0x02087D56, cursorHook, new byte[] { 0xFF, 0xF7, 0x2D, 0xFF });
+
+  var touchHook = pinyinOverlaySymbols["NativeNameIn_TouchPanelCheck"];
+  WriteThumbBl(arm9, 0x02087D2E, touchHook, new byte[] { 0x00, 0xF0, 0x13, 0xFE });
+
   // Reserve the overlay and its BSS at the bottom of the SDK arena.
   ReservePinyinArena(arm9, ARENA_LO_POINTER_ADDRESS, PINYIN_OVERLAY_ADDRESS,
     PINYIN_OVERLAY_ADDRESS, pinyinOverlaySymbols);
