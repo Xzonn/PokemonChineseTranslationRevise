@@ -4,5 +4,5 @@
     .global gPinyinTableBin
     .global gPinyinTableBinEnd
 gPinyinTableBin:
-    .incbin "src/pinyin_table.data"
+    .incbin "../build/pinyin_table.data"
 gPinyinTableBinEnd:

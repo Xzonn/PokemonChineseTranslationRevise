@@ -8,6 +8,9 @@ OUTPUT_ELF := $(BUILD_DIR)/$(OUTPUT).elf
 OUTPUT_BIN := $(BUILD_DIR)/$(OUTPUT).bin
 OUTPUT_SYM := $(BUILD_DIR)/$(OUTPUT).sym
 
+PYTHON ?= python
+PINYIN_TABLE := $(BUILD_DIR)/pinyin_table.data
+
 INC_DIRS := include $(COMMON_INC_DIRS)
 
 C_SRCS  := $(PINYIN_SOURCE_DIR)/native_namein.c $(PINYIN_SOURCE_DIR)/native_pinyin.c $(PINYIN_SOURCE_DIR)/overlay_entry.c
@@ -25,6 +28,11 @@ CFLAGS  := -g -w -Os -std=gnu99 -ffreestanding -mabi=aapcs -march=armv5te -mtune
 LDFLAGS := -nostartfiles -nodefaultlibs -Ttext=$(OVERLAY_ADDR) -T linker.ld -T $(SYMBOLS_LD) -Wl,--use-blx
 
 $(OBJ_DIR)/src/overlay_entry.o : COMPILE_MODE := -marm
+
+$(OBJ_DIR)/src/embedded_resources.o: $(PINYIN_TABLE)
+
+$(PINYIN_TABLE): ../../../files/pinyin.txt ../../../scripts/create_pinyin_table.py ../../../scripts/helper.py ../../../files/CharTable.txt
+	cd ../../.. && $(PYTHON) scripts/create_pinyin_table.py
 
 $(shell mkdir -p $(sort $(dir $(ALL_OBJS))))
 
