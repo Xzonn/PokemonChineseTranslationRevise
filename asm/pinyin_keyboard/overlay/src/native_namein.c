@@ -29,6 +29,9 @@ extern u8 NameInProcMainPreHook[];
 #ifndef WORK_NAMELINE_OFFSET
 #define WORK_NAMELINE_OFFSET 0x364
 #endif
+#ifndef WORK_CURSOR_ACTOR_OFFSET
+#define WORK_CURSOR_ACTOR_OFFSET 0x34C
+#endif
 #ifndef WORK_WINDOWS_OFFSET
 #define WORK_WINDOWS_OFFSET 0x3B8
 #endif
@@ -70,6 +73,8 @@ extern u8 NameInProcMainPreHook[];
 #define CANDIDATES_PER_PAGE 26
 #define PANEL_COLOR 0x000E0F00
 #define RESULT_COLOR 0x000E0F01
+#define ACTOR_ANIMATION_OFFSET 0x0F0
+#define CURSOR_CONFIRM_ANIMATION 60
 
 IMPORT int NameInProc_Main(u32 proc, int *seq) {}
 IMPORT int NameInProc_End(u32 proc, int *seq) {}
@@ -82,6 +87,9 @@ IMPORT void InputResultUnderLineMove(void **actors, int position, int maximum) {
 IMPORT void MakeWordMap(u16 *map, int mode) {}
 IMPORT void WordPanelSetUp(void *window, u16 background, int frame, u32 color, void *dakuten) {}
 IMPORT int DecideMainButton(void *work, u16 code, int pad) {}
+IMPORT void CursorMove(void *work, int arrow) {}
+IMPORT void CursorAppearUpDate(void *work, int arrow) {}
+IMPORT int TouchPanelCheck(void *work) {}
 
 static void *sContext;
 static int sNeedsRedraw;
@@ -120,12 +128,6 @@ static void *Window(void *work, int index)
 static int IsPinyinMode(int mode)
 {
     return mode == MODE_HIRA;
-}
-
-static u16 PinyinNoOpCode(int mode)
-{
-    (void)mode;
-    return NAMEIN_HIRA;
 }
 
 static int CandidatePageCount(void)
@@ -224,8 +226,7 @@ static void BuildRows(void)
 
     if (letterCount > 0)
     {
-        int start = pageCount > 1 ? 1 + (6 - letterCount) / 2
-                                  : (INPUT_WORD_W - letterCount) / 2;
+        int start = 1;
         for (column = 0; column < letterCount; column++)
         {
             sRows[2][start + column] = LOWERCASE_A_CODE + letters[column] - 'a';
@@ -260,7 +261,6 @@ static void PrepareWordMap(void *work)
 {
     u16 *map = WordMap(work);
     int mode = *WorkMode(work);
-    u16 noOp;
     int column;
 
     MakeWordMap(map, mode);
@@ -277,20 +277,10 @@ static void PrepareWordMap(void *work)
     {
         return;
     }
-    noOp = PinyinNoOpCode(mode);
-
-    /* Composition and empty candidate cells do not insert characters. */
+    /* Only paging arrows are selectable on the composition row. */
     for (column = 0; column < INPUT_WORD_W; column++)
     {
-        map[3 * INPUT_WORD_W + column] = noOp;
-        if (sRows[3][column] == SKIP_CODE)
-        {
-            map[4 * INPUT_WORD_W + column] = noOp;
-        }
-        if (sRows[4][column] == SKIP_CODE)
-        {
-            map[5 * INPUT_WORD_W + column] = noOp;
-        }
+        map[3 * INPUT_WORD_W + column] = SKIP_CODE;
     }
     if (sCandidatePage > 0)
     {
@@ -299,6 +289,103 @@ static void PrepareWordMap(void *work)
     if (sCandidatePage + 1 < CandidatePageCount())
     {
         map[3 * INPUT_WORD_W + 12] = PAGE_NEXT_CODE;
+    }
+}
+
+int NativeNameIn_TouchPanelCheck(void *work)
+{
+    int *x = (int *)((u8 *)work + WORK_CURSOR_X_OFFSET);
+    int *y = (int *)((u8 *)work + WORK_CURSOR_Y_OFFSET);
+    int oldX = *x;
+    int oldY = *y;
+    int touched = TouchPanelCheck(work);
+
+    if (touched && IsPinyinMode(*WorkMode(work)) &&
+        WordMap(work)[*y * INPUT_WORD_W + *x] == SKIP_CODE)
+    {
+        *x = oldX;
+        *y = oldY;
+        return 0;
+    }
+    return touched;
+}
+
+static void NormalizeCursor(void *work)
+{
+    int *x = (int *)((u8 *)work + WORK_CURSOR_X_OFFSET);
+    int *y = (int *)((u8 *)work + WORK_CURSOR_Y_OFFSET);
+
+    if (WordMap(work)[*y * INPUT_WORD_W + *x] == SKIP_CODE)
+    {
+        if (*y == 3 && (*x == 11 || *x == 12) && CandidatePageCount() > 1)
+        {
+            *x = sCandidatePage > 0 ? 11 : 12;
+        }
+        else
+        {
+            *x = 0;
+            *y = 1;
+        }
+        CursorAppearUpDate(work, 0);
+    }
+}
+
+void NativeNameIn_CursorMove(void *work, int arrow)
+{
+    static const int directions[][2] = {{0, 0}, {0, -1}, {0, 1}, {-1, 0}, {1, 0}};
+    int *cursorX = (int *)((u8 *)work + WORK_CURSOR_X_OFFSET);
+    int *cursorY = (int *)((u8 *)work + WORK_CURSOR_Y_OFFSET);
+    u16 *map = WordMap(work);
+    int x;
+    int y;
+    int count;
+    int limit;
+    u16 old;
+
+    if (!IsPinyinMode(*WorkMode(work)))
+    {
+        CursorMove(work, arrow);
+        return;
+    }
+    if (arrow == 0)
+    {
+        return;
+    }
+
+    NormalizeCursor(work);
+    x = *cursorX;
+    y = *cursorY;
+    old = map[y * INPUT_WORD_W + x];
+    limit = directions[arrow][0] ? INPUT_WORD_W : INPUT_WORD_H;
+    for (count = 0; count < limit; count++)
+    {
+        u16 code;
+
+        x += directions[arrow][0];
+        y += directions[arrow][1];
+        if (x < 0)
+        {
+            x = INPUT_WORD_W - 1;
+        }
+        if (x >= INPUT_WORD_W)
+        {
+            x = 0;
+        }
+        if (y < 0)
+        {
+            y = INPUT_WORD_H - 1;
+        }
+        if (y >= INPUT_WORD_H)
+        {
+            y = 0;
+        }
+        code = map[y * INPUT_WORD_W + x];
+        if (code != SKIP_CODE && !(code == old && code >= NAMEIN_HIRA))
+        {
+            *cursorX = x;
+            *cursorY = y;
+            return;
+        }
     }
 }
 
@@ -361,6 +448,10 @@ int NativeNameIn_DecideMainButton(void *work, u16 code, int pad)
     {
         u8 letter;
 
+        if (code == SKIP_CODE)
+        {
+            return DecideMainButton(work, NAMEIN_HIRA, pad);
+        }
         if (code == NAMEIN_MODORU && NativePinyin_GetLetterCount() > 0)
         {
             NativePinyin_Delete();
@@ -481,6 +572,14 @@ static int Hook_NameInProc_Main(u32 proc, int *seq)
         BuildRows();
         InstallDynamicTables();
         PrepareWordMap(work);
+        if (IsPinyinMode(newMode))
+        {
+            void *cursor = *(void **)((u8 *)work + WORK_CURSOR_ACTOR_OFFSET);
+            if (*(u16 *)((u8 *)cursor + ACTOR_ANIMATION_OFFSET) != CURSOR_CONFIRM_ANIMATION)
+            {
+                NormalizeCursor(work);
+            }
+        }
         if (IsPinyinMode(newMode) || newMode == MODE_KANA)
         {
             if (sNeedsRedraw)

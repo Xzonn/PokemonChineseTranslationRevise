@@ -7,6 +7,8 @@ DIR_TEXTS = "texts"
 DIR_TEMP = "temp"
 
 PATH_CHAR_TABLE = "files/CharTable.txt"
+PATH_PINYIN_TABLE = "files/pinyin.txt"
+PATH_PINYIN_TABLE_DATA = "asm/pinyin_keyboard/build/pinyin_table.data"
 
 
 class GameInfo(TypedDict):

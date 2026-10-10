@@ -63,6 +63,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   WriteThumbBl(arm9, 0x0207E5EC + shift, decideHook, new byte[] { 0xFE, 0xF7, (byte)(gameCode == "D" ? 0x0C : 0x0A), 0xF8 });
   WriteThumbBl(arm9, 0x0207E600 + shift, decideHook, new byte[] { 0xFE, 0xF7, (byte)(gameCode == "D" ? 0x02 : 0x00), 0xF8 });
 
+  var cursorHook = pinyinOverlaySymbols["NativeNameIn_CursorMove"];
+  WriteThumbBl(arm9, 0x0207CEF0, cursorHook, new byte[] { 0x00, 0xF0, 0x0E, 0xF8 });
+
+  var touchHook = pinyinOverlaySymbols["NativeNameIn_TouchPanelCheck"];
+  WriteThumbBl(arm9, 0x0207CED4, touchHook, new byte[] { 0xFF, 0xF7, 0x42, 0xF9 });
+
   // Reserve the loader, overlay, and its BSS at the bottom of the SDK arena.
   ReservePinyinArena(arm9, ARENA_LO_POINTER_ADDRESS + shift, PINYIN_LOADER_ADDRESS,
     PINYIN_OVERLAY_ADDRESS, pinyinOverlaySymbols);

@@ -67,6 +67,12 @@ foreach (var gameCode in GAME_CODE_TO_TITLE.Keys)
   WriteThumbBl(arm9, 0x0208283E, decideHook, new byte[] { 0x01, 0xF0, 0x71, 0xFD });
   WriteThumbBl(arm9, 0x02082850, decideHook, new byte[] { 0x01, 0xF0, 0x68, 0xFD });
 
+  var cursorHook = pinyinOverlaySymbols["NativeNameIn_CursorMove"];
+  WriteThumbBl(arm9, 0x02083EB6, cursorHook, new byte[] { 0xFF, 0xF7, 0x2D, 0xFF });
+
+  var touchHook = pinyinOverlaySymbols["NativeNameIn_TouchPanelCheck"];
+  WriteThumbBl(arm9, 0x02083E8E, touchHook, new byte[] { 0x00, 0xF0, 0x25, 0xFE });
+
   ReservePinyinArena(arm9, ARENA_LO_POINTER_ADDRESS, PINYIN_OVERLAY_ADDRESS,
     PINYIN_OVERLAY_ADDRESS, pinyinOverlaySymbols);
 
